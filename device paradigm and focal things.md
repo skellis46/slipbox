@@ -26,6 +26,8 @@ _questions & thoughts:_
 
 _consider:_ 
 
+- [gestell and enframing](x-devonthink-item://9E032D08-E304-4D27-B46B-8BBD60BBB219)
+
 
 _return links:_
 
