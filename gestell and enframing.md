@@ -13,6 +13,7 @@ Heidegger's concept of enframing -- _gestell_ -- comes from his 1954 book _The Q
 _questions & thoughts:_
 
 - compare with thinking on the _body of the film_ where we can't see the body of the film but rather what it makes possible
+- 
 
 --- 
 
