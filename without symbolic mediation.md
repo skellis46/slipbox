@@ -1,7 +1,6 @@
 # without symbolic mediation
 
-_previous note:_  [pipilotti rist video artist](x-devonthink-item://79E673BE-28E7-43CF-B600-FA67317D48FA)     
-_next note:_  [vision is kinaesthetic](x-devonthink-item://2963AD4C-00FB-4D3A-83DF-10D00D3EDAC6)
+_previous note:_  [pipilotti rist video artist](x-devonthink-item://79E673BE-28E7-43CF-B600-FA67317D48FA)
 
 ---
 

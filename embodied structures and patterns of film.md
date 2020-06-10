@@ -1,7 +1,6 @@
 # embodied structures and patterns of film
 
 _previous note:_  [touch and film](x-devonthink-item://DEC3FB75-5F7D-4ED8-BAD1-A3761E418F0C)  
-_next note:_ [path and attention of the camera](x-devonthink-item://88345655-6E2B-477A-8397-D849CCE1A5B3) 
 
 ---
 

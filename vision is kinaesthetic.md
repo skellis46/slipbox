@@ -1,7 +1,6 @@
 # vision is kinaesthetic
 
-_previous note:_  [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)     
-_next note:_ [language is post-kinetic](x-devonthink-item://9C290E9E-BD87-43F7-8E95-92CEF8A582B8)
+_previous note:_  [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
 
 ---
 

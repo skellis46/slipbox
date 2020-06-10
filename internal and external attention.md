@@ -1,7 +1,6 @@
 # internal and external attention
 
-_previous note:_  [somatic turn in human computer interaction](x-devonthink-item://55212EB9-E025-472F-84BF-4F994B07CF4F)  
-_next note:_  
+_previous note:_  [somatic turn in human computer interaction](x-devonthink-item://55212EB9-E025-472F-84BF-4F994B07CF4F)
 
 ---
 

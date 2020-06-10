@@ -1,7 +1,6 @@
 # gestell and enframing
 
-_previous note:_  [device paradigm and focal things](x-devonthink-item://65FFA8A8-F83B-43BA-B2E8-0E583F46FC49)  
-_next note:_  
+_previous note:_  [device paradigm and focal things](x-devonthink-item://65FFA8A8-F83B-43BA-B2E8-0E583F46FC49)
 
 ---
 
@@ -13,7 +12,6 @@ Heidegger's concept of enframing -- _gestell_ -- comes from his 1954 book _The Q
 _questions & thoughts:_
 
 - compare with thinking on the _body of the film_ where we can't see the body of the film but rather what it makes possible
-- 
 
 --- 
 
@@ -30,6 +28,6 @@ _local link:_ [noauthor-2020-gestell.pdf](hook://file/kxx1BVmAO?p=c2tlbGxpcy9Eb3
 
 _zotero link & citekey:_ [noauthor_gestell_2020](zotero://select/items/1_U8NHXZNS)
 
-_reference:_ Gestell [WWW Document], 2020. Wikipedia. URL <https://en.wikipedia.org/wiki/Gestell> (accessed 6.8.20).
+_reference:_ Gestell [WWW Document], 2020. Wikipedia. URL <https://en.wikipedia.org/wiki/Gestell> (accessed 8 June 2020).
 
 

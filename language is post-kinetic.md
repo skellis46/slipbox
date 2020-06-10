@@ -1,7 +1,6 @@
 # language is post-kinetic
 
-_previous note:_  [vision is kinaesthetic](x-devonthink-item://2963AD4C-00FB-4D3A-83DF-10D00D3EDAC6)     
-_next note:_  []()
+_previous note:_  [vision is kinaesthetic](x-devonthink-item://2963AD4C-00FB-4D3A-83DF-10D00D3EDAC6)
 
 ---
 

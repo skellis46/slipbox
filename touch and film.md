@@ -1,7 +1,6 @@
 # touch and film
 
 _previous note:_  [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)  
-_next note:_ [embodied structures and patterns of film](x-devonthink-item://951CA888-7084-47C8-AEDC-77A00F30059C)
 
 ---
 

@@ -1,7 +1,6 @@
 # somatic turn in human computer interaction
 
-_previous note:_ [gestell and enframing](x-devonthink-item://9E032D08-E304-4D27-B46B-8BBD60BBB219)  
-_next note:_  [internal and external attention](x-devonthink-item://E2708AEE-644B-4F83-8708-8F3FBA992039)
+_previous note:_ [gestell and enframing](x-devonthink-item://9E032D08-E304-4D27-B46B-8BBD60BBB219)
 
 ---
 

@@ -1,7 +1,6 @@
 # path and attention of the camera
 
 _previous note:_  [embodied structures and patterns of film](x-devonthink-item://951CA888-7084-47C8-AEDC-77A00F30059C)     
-_next note:_  [body of the film](x-devonthink-item://1FCD4249-B65C-4BD4-B9B3-9D1567073C59)
 
 ---
 
@@ -11,7 +10,7 @@ Barker describes a scene in Tarkovsky's _Mirror_ (1975) in which the differing m
 
 _questions & thoughts:_
 
-- I am struggling with understanding the conceptualisation of the _the film's body_
+- I am struggling with understanding the conceptualisation of _the film's body_
 - what draws me to this language (or analysis) is the sense that the various bodies involved (filmic and human) are profoundly involved in how the film is felt -- its emotional or affective work
 
 

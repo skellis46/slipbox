@@ -1,7 +1,6 @@
 # search for truth 
 
 _previous note:_  
-_next note:_  [touch and film](x-devonthink-item://DEC3FB75-5F7D-4ED8-BAD1-A3761E418F0C)
 
 ---
 

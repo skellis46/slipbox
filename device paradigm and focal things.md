@@ -1,7 +1,6 @@
 # device paradigm and focal things
 
-_previous note:_  [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)  
-_next note:_ [gestell and enframing](x-devonthink-item://9E032D08-E304-4D27-B46B-8BBD60BBB219)
+_previous note:_  [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
 
 ---
 
