@@ -15,6 +15,7 @@ _questions & thoughts:_
 - a really useful summary of somatics written for 'lay' audience
 - focus on instrumentalisation of somatic practices 
 - doesn't really go into just how suspicious people are of the body (and somatics), and also how messy and painfully qualitative it is
+- Is there any research that looks quite distinctly at the nature and degree of suspicion in relation to somatics specifically (and the body generally)?
 - describes the "somatic turn" in the third-wave of HCI, and growth of first-person methodologies
 
 --- 
@@ -22,10 +23,8 @@ _questions & thoughts:_
 _consider:_ 
 
 - [somatic turn in human computer interaction](x-devonthink-item://55212EB9-E025-472F-84BF-4F994B07CF4F)
-- [device paradigm and focal things](x-devonthink-item://65FFA8A8-F83B-43BA-B2E8-0E583F46FC49)
 - [vision is kinaesthetic](x-devonthink-item://2963AD4C-00FB-4D3A-83DF-10D00D3EDAC6)
 - [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
-- 
 
 
 _return links:_
