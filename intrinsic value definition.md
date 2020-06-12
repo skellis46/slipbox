@@ -6,11 +6,13 @@ _previous note:_  [interrupting habits](x-devonthink-item://0BC8CD7F-FD77-4F48-8
 
 Axiology is the study of value or quality. Intrinsic value refers to the worth of something in and of itself, or "for its own sake".  It is the ethical philosophical value that an object (or idea) possesses. It can be thought of as an _end_.
 
+>For the more unconditionally the actor devotes himself to this [instrinsic] value for its own sake, ... the less he is influenced by considerations of the [conditional] consequences of his action. -- Max Weber, 1978, _Economy and Society_, cited in [noauthor-2020-instrumental.pdf](hook://file/l75yeuWVe?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noauthor-2020-instrumental.pdf)
+
 _questions & thoughts:_
 
 - I really love this idea of something being an end. It's simply beautiful. It's so so far away from the work of academia. 
 - If I extrapolate [Susanne Langer's](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F) thinking it's as if the immediate experiences of our life just might be an end. That they are just themselves and that's all they are for. I'm not sure I really buy this, and it reminds me of how little I know about these things!
-- or what of the pursuit of truth. What are the intrinsic values not only of truth, but it's pursuit? (particularly using methods that are not designed or capable of getting to 'the truth')?
+- or what of the [pursuit of truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)? What are the intrinsic values not only of truth, but even its pursuit? (particularly using methods like PaR that are not designed or capable of getting to 'the truth')? It's the antithesis of _impact_.
 
 --- 
 
@@ -19,6 +21,7 @@ _consider:_
 - for sure the thinking and writing of Wendell Berry  
 - [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
 - [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
+- [instrumental extrinsic value definition](x-devonthink-item://1C3BFD08-87EC-470E-86D3-01E0BE9BC5AC)
 
 
 _return links:_
