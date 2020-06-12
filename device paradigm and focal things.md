@@ -26,7 +26,7 @@ _questions & thoughts:_
 _consider:_ 
 
 - [gestell and enframing](x-devonthink-item://9E032D08-E304-4D27-B46B-8BBD60BBB219)
-
+- [instrumental extrinsic value definition](x-devonthink-item://1C3BFD08-87EC-470E-86D3-01E0BE9BC5AC)
 
 _return links:_
 
