@@ -4,7 +4,7 @@ _previous note:_  [touch and film](x-devonthink-item://DEC3FB75-5F7D-4ED8-BAD1-A
 
 ---
 
-Barker talks about her detailed analysis of sound and image to "reveal certain patterns of texture, space, and rhythm enacted by films and viewers."[@barker_tactile_2009 p.4] She suggests that by attending to these "embodied structures and patterns"[p.4] it's possible to create a "sensually formed" understanding of meaning between the bodies of film and viewers.  
+Barker talks about her detailed analysis of sound and image to "reveal certain patterns of texture, space, and rhythm enacted by films and viewers."[@barker_tactile_2009 p.4] She suggests that by attending to these "embodied structures and patterns"[p.4] it is possible to create a "sensually formed" understanding of meaning between the bodies of film and viewers.  
 
 _questions & thoughts:_
 
