@@ -1,6 +1,6 @@
 # tarkovsky and the indivisible image
 
-_previous note:_  [human experience and language](x-devonthink-item://9982574D-C959-4769-A55C-E88899D01D59)
+_previous note:_  [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
 
 ---
 
@@ -22,7 +22,6 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
 - [human experience and language](x-devonthink-item://9982574D-C959-4769-A55C-E88899D01D59)
 
 

@@ -4,5 +4,6 @@
 - artworks and artists
 - moving image
 - ideas
+- artwork ideas? 
 
 
