@@ -1,6 +1,6 @@
-# touch and film
+# touch and film
 
-_previous note:_  [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)  
+_previous note:_ 
 
 ---
 
