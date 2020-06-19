@@ -1,6 +1,6 @@
 # human experience and language
 
-_previous note:_  [body of the film](x-devonthink-item://1FCD4249-B65C-4BD4-B9B3-9D1567073C59)     
+_previous note:_      
 
 ---
 

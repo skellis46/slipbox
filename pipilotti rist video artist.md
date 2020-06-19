@@ -1,6 +1,6 @@
 # pipilotti rist video artist
 
-_previous note:_  [tarkovksy and the indivisible image](x-devonthink-item://9F69A03F-4493-4181-8D57-069D0681CA08)
+_previous note:_ 
 
 ---
 

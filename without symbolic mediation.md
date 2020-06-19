@@ -1,6 +1,6 @@
 # without symbolic mediation
 
-_previous note:_  [pipilotti rist video artist](x-devonthink-item://79E673BE-28E7-43CF-B600-FA67317D48FA)
+_previous note:_  [human experience and language](x-devonthink-item://9982574D-C959-4769-A55C-E88899D01D59)
 
 ---
 
