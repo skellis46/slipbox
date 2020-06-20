@@ -22,10 +22,11 @@
       {
         "id": "9ba48cb6278b1379",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "somatic processes.md",
+            "file": "feelings in conversations.md",
             "mode": "source"
           }
         }
@@ -33,7 +34,6 @@
       {
         "id": "46767885c8078973",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -121,11 +121,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "interrupting habits.md",
+    "feelings in conversations.md",
     "somatic processes.md",
+    "interrupting habits.md",
     "shifting focus and scanning.md",
-    "evidence and protecting the dissenters.md",
-    "internal and external attention.md"
+    "evidence and protecting the dissenters.md"
   ],
   "fileSortOrder": "alphabetical",
   "foldHeading": true,
