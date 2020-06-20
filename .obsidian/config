@@ -1,0 +1,125 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": false,
+    "Tag pane": true,
+    "Page preview": true,
+    "Starred": true,
+    "Random note": true
+  },
+  "workspaceLayout": {
+    "id": "a44ab7192b3d8da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa19ed20c52694b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test note.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "a538ec7488a8d1f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc621de74b99878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26ab2c82318c14e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d2de2dc3128e9b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e93485e6b5896e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "e538e13ea256624d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af664cdbdf92c29d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a1d12df6e83e66e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "38d795e2ad3f4b7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "test note.md",
+    "somatic turn in human computer interaction.md",
+    "body of the film.md",
+    "i believe tap dancing.md",
+    "without symbolic mediation.md"
+  ],
+  "fileSortOrder": "alphabetical",
+  "foldHeading": true,
+  "newFileLocation": "current",
+  "hotkeys": {
+    "backlink:open-backlinks": [
+      {
+        "modifiers": [
+          "Shift"
+        ],
+        "key": "B"
+      }
+    ]
+  }
+}
