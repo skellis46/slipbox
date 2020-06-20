@@ -12,20 +12,32 @@
     "Tag pane": true,
     "Page preview": true,
     "Starred": true,
-    "Random note": true
+    "Random note": true,
+    "Open with default app": true
   },
   "workspaceLayout": {
     "id": "a44ab7192b3d8da9",
     "type": "split",
     "children": [
       {
-        "id": "4fa19ed20c52694b",
+        "id": "9ba48cb6278b1379",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "somatic processes.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "46767885c8078973",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test note.md",
+            "file": "interrupting habits.md",
             "mode": "source"
           }
         }
@@ -86,7 +98,13 @@
               "type": "backlink",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f3d0a3e76136fc01",
+        "type": "tabs",
+        "children": [
           {
             "id": "38d795e2ad3f4b7a",
             "type": "leaf",
@@ -103,23 +121,61 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "test note.md",
-    "somatic turn in human computer interaction.md",
-    "body of the film.md",
-    "i believe tap dancing.md",
-    "without symbolic mediation.md"
+    "interrupting habits.md",
+    "somatic processes.md",
+    "shifting focus and scanning.md",
+    "evidence and protecting the dissenters.md",
+    "internal and external attention.md"
   ],
   "fileSortOrder": "alphabetical",
   "foldHeading": true,
   "newFileLocation": "current",
   "hotkeys": {
+    "random-note": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "®"
+      }
+    ],
+    "app:toggle-default-view-mode": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "√"
+      }
+    ],
+    "app:toggle-left-sidebar": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "“"
+      }
+    ],
+    "app:toggle-right-sidebar": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "‘"
+      }
+    ],
     "backlink:open-backlinks": [
       {
         "modifiers": [
+          "Mod",
           "Shift"
         ],
-        "key": "B"
+        "key": "b"
       }
     ]
-  }
+  },
+  "defaultViewMode": "source"
 }
