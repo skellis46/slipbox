@@ -20,16 +20,18 @@ _questions & thoughts:_
 _consider:_ 
 
 - anything to do with practice-research and epistemology
-- [body of the film](x-devonthink-item://1FCD4249-B65C-4BD4-B9B3-9D1567073C59) -- thinking here about the ghostly nature of the film's body, and perhaps the idea that even in describing the film's body the language is seemingly only dancing around the idea (it's not quite able to get at it)
+- [[body of the film]] -- thinking here about the ghostly nature of the film's body, and perhaps the idea that even in describing the film's body the language is seemingly only dancing around the idea (it's not quite able to get at it)
 
 _return links:_ 
 
 
 
 _source:_ recommended by Bagryana Popov, I own physical copy      
+
 _local link:_ N/A
 
 _zotero link & citekey:_ [berry_life_2001](zotero://select/items/1_9DLVQHSG)  
+
 _reference:_ Berry, Wendell., 2001. _Life is a Miracle, An Essay Against Modern Superstition_. Counterpoint Press, Berkeley.
 
 

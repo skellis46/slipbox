@@ -1,6 +1,6 @@
-# device paradigm and focal things
+# device paradigm and focal things
 
-_previous note:_  [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
+_previous note:_  [[without symbolic mediation]]
 
 ---
 
@@ -25,14 +25,15 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [gestell and enframing](x-devonthink-item://9E032D08-E304-4D27-B46B-8BBD60BBB219)
-- [instrumental extrinsic value definition](x-devonthink-item://1C3BFD08-87EC-470E-86D3-01E0BE9BC5AC)
+- [[gestell and enframing]]
+- [[instrumental extrinsic value definition]]
 
 _return links:_
 
 
 
 _source:_  unknown   
+
 _local link:_ [noauthor-2020-device](hook://file/kxDLnIfG7?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=noauthor-2020-device.pdf)
 
 _zotero link & citekey:_ [noauthor_device_2020](zotero://select/items/1_RWWSGIMK)

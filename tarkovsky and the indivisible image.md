@@ -1,10 +1,10 @@
 # tarkovsky and the indivisible image
 
-_previous note:_  [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
+_previous note:_  [[search for truth]]
 
 ---
 
-Tarkovsky is writing about the image as an "impression of the truth"[@tarkovsky_sculpting_2003 p.106], "a glimpse of the truth permitted to us in our blindness"[p.106]:
+Tarkovsky is writing about the image as an "impression of the truth"[@tarkovsky_sculpting_2003 p.106], "a glimpse of the truth permitted to us in our blindness."[p.106]
 
 >The image is indivisible and elusive, dependent upon our consciousness and on the real world which it seeks to embody.[p.106]
 
@@ -22,7 +22,7 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [human experience and language](x-devonthink-item://9982574D-C959-4769-A55C-E88899D01D59)
+- [[human experience and language]]
 
 
 
@@ -31,9 +31,11 @@ _return links:_
 
 
 _source:_ [barker_tactile_2009](zotero://select/items/1_AGI2LELH) - quoted on p.145      
+
 _local file link:_ [tarkovsky-2003-sculpting](hook://file/knrl92EAT?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=tarkovsky-2003-sculpting.pdf)
 
 _zotero link & citekey:_ [tarkovsky_sculpting_2003](zotero://select/items/1_EFT825QF)  
+
 _reference:_ Tarkovsky, Andrei., 2003. _Sculpting in Time: Reflections on the Cinema_. University of Texas Press, Austin, TX.
 
 

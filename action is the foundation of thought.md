@@ -1,6 +1,6 @@
 # action is the foundation of thought
 
-_previous note:_ [language is post-kinetic](x-devonthink-item://A0A117FD-F50E-4CD6-B328-B3930D27F81B)
+_previous note:_ [[language is post-kinetic]]
 
 ---
 
@@ -21,14 +21,14 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [internal and external attention](x-devonthink-item://E2708AEE-644B-4F83-8708-8F3FBA992039) -- thinking here about role of language and thought in somatic practices
-- [body of the film](x-devonthink-item://1FCD4249-B65C-4BD4-B9B3-9D1567073C59)
-
+- [[internal and external attention]] -- thinking here about role of language and thought in somatic practices
+- [[body of the film]]
 
 _return links:_
 
 
 _source:_ unknown      
+
 _local link:_ [tversky-2019-mind.epub](hook://file/lJKEhikwF?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=tversky-2019-mind.epub)
 
 _zotero link & citekey:_ [tversky_mind_2019](zotero://select/items/1_7QTEQ9IT)

@@ -1,6 +1,6 @@
 # vision is kinaesthetic
 
-_previous note:_  [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
+_previous note:_  [[without symbolic mediation]]
 
 ---
 
@@ -30,9 +30,11 @@ _consider:_
 _return links:_
 
 _source:_ unknown, available at Coventry University library (physical book)      
+
 _local link:_ N/A
 
 _zotero link & citekey:_ [barker_tactile_2009](zotero://select/items/1_AGI2LELH)  
+
 _reference:_ Barker, Jennifer M., 2009. _The Tactile Eye: Touch and the Cinematic Experience_. Berkeley, CA: University of California Press.
 
 

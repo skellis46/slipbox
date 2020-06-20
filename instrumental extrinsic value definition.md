@@ -1,6 +1,6 @@
-# instrumental extrinsic value definition
+# instrumental extrinsic value definition
 
-_previous note:_  [intrinsic value definition](x-devonthink-item://A6025022-40E8-4612-839A-861BC7CFEBCE)
+_previous note:_  [[intrinsic value definition]]
 
 ---
 
@@ -19,14 +19,15 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [intrinsic value definition](x-devonthink-item://A6025022-40E8-4612-839A-861BC7CFEBCE)
-- [device paradigm and focal things](x-devonthink-item://65FFA8A8-F83B-43BA-B2E8-0E583F46FC49)
-- [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
+- [[intrinsic value definition]]
+- [[device paradigm and focal things]]
+- [[search for truth]]
 
 
 _return links:_
 
 _source:_ n/a     
+
 _local link:_ [noauthor-2020-instrumental.pdf](hook://file/l75yeuWVe?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noauthor-2020-instrumental.pdf)  
 
 _zotero link & citekey:_ [noauthor_instrumental_2020](zotero://select/items/1_DJ9C4HP6) 

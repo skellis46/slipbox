@@ -1,6 +1,6 @@
-# interrupting habits
+# interrupting habits
 
-_previous note:_  [somatic processes](x-devonthink-item://2978C825-B8FB-4437-8D92-EF37583723DA)
+_previous note:_  [[somatic processes]]
 
 ---
 
@@ -11,20 +11,21 @@ Later, they describe how this mode of attention can be entered into by choice th
 _questions & thoughts:_
 
 - thinking here about Heidegger's enframing, and imagining somatics as a method to re-enframe, to re-orient our relationship to one's own body; as if one's body is the 'technological thing' that is enframed. 
-- also linking to the _body of the film_ and the idea that we only see the "perception and expression that it makes possible, but not the body itself".[p.10 of Barker]. That in many respects somatics is a way of making the mechanisms, patterns and habits of the body transparent. talk about news flash. 
+- also linking to the [[body of the film]] and the idea that we only see the "perception and expression that it makes possible, but not the body itself".[p.10 of Barker]. That in many respects somatics is a way of making the mechanisms, patterns and habits of the body transparent. talk about news flash. 
 
 --- 
 
 _consider:_ 
 
 
-- [somatic processes](x-devonthink-item://2978C825-B8FB-4437-8D92-EF37583723DA)
-- [gestell and enframing](x-devonthink-item://9E032D08-E304-4D27-B46B-8BBD60BBB219) -- wonder here about somatics as a strategy to re-enframe
-- [body of the film](x-devonthink-item://1FCD4249-B65C-4BD4-B9B3-9D1567073C59)
+- [[somatic processes]]
+- [[gestell and enframing]] -- wonder here about somatics as a strategy to re-enframe
+- [[body of the film]]
 
 _return links:_
 
 _source:_  suggested by Claire Loussouarn    
+
 _local link:_ [loke-schiphorst-2018-somatic.pdf](hook://file/kzsBr4TuD?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=loke-schiphorst-2018-somatic.pdf)
 
 _zotero link & citekey:_ [loke_somatic_2018](zotero://select/items/1_6IERMMFC)

@@ -1,6 +1,6 @@
-# somatic processes
+# somatic processes
 
-_previous note:_  [characteristics of somatics in HCI and interaction design](x-devonthink-item://A940EB03-15AE-4550-9CBC-CD13234CF423)
+_previous note:_  [[characteristics of somatics in HCI and interaction design]]
 
 ---
 
@@ -15,14 +15,15 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [somatic turn in human computer interaction](x-devonthink-item://55212EB9-E025-472F-84BF-4F994B07CF4F)
-- [device paradigm and focal things](x-devonthink-item://65FFA8A8-F83B-43BA-B2E8-0E583F46FC49)
-- [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
+- [[somatic turn in human computer interaction]]
+- [[device paradigm and focal things]]
+- [[without symbolic mediation]]
 
 
 _return links:_
 
 _source:_  suggested by Claire Loussouarn    
+
 _local link:_ [loke-schiphorst-2018-somatic.pdf](hook://file/kzsBr4TuD?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=loke-schiphorst-2018-somatic.pdf)
 
 _zotero link & citekey:_ [loke_somatic_2018](zotero://select/items/1_6IERMMFC)

@@ -1,6 +1,6 @@
-# somatic turn in human computer interaction
+# somatic turn in human computer interaction
 
-_previous note:_ [gestell and enframing](x-devonthink-item://9E032D08-E304-4D27-B46B-8BBD60BBB219)
+_previous note:_ [[gestell and enframing]]
 
 ---
 
@@ -18,15 +18,16 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [device paradigm and focal things](x-devonthink-item://65FFA8A8-F83B-43BA-B2E8-0E583F46FC49)
-- [language is post-kinetic](x-devonthink-item://A0A117FD-F50E-4CD6-B328-B3930D27F81B)
-- [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
-- [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
+- [[device paradigm and focal things]]
+- [[language is post-kinetic]]
+- [[without symbolic mediation]]
+- [[search for truth]]
 
 
 _return links:_
 
 _source:_  suggested by Claire Loussouarn    
+
 _local link:_ [loke-schiphorst-2018-somatic.pdf](hook://file/kzsBr4TuD?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=loke-schiphorst-2018-somatic.pdf)
 
 _zotero link & citekey:_ [loke_somatic_2018](zotero://select/items/1_6IERMMFC)

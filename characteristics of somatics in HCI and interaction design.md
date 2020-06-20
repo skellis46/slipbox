@@ -1,6 +1,6 @@
-# characteristics of somatics in HCI and interaction design
+# characteristics of somatics in HCI and interaction design
 
-_previous note:_  [internal and external attention](x-devonthink-item://E2708AEE-644B-4F83-8708-8F3FBA992039)
+_previous note:_  [[internal and external attention]]
 
 ---
 
@@ -22,14 +22,15 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [somatic turn in human computer interaction](x-devonthink-item://55212EB9-E025-472F-84BF-4F994B07CF4F)
-- [vision is kinaesthetic](x-devonthink-item://2963AD4C-00FB-4D3A-83DF-10D00D3EDAC6)
-- [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
+- [[somatic turn in human computer interaction]]
+- [[vision is kinaesthetic]]
+- [[without symbolic mediation]]
 
 
 _return links:_
 
 _source:_  suggested by Claire Loussouarn    
+
 _local link:_ [loke-schiphorst-2018-somatic.pdf](hook://file/kzsBr4TuD?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=loke-schiphorst-2018-somatic.pdf)
 
 _zotero link & citekey:_ [loke_somatic_2018](zotero://select/items/1_6IERMMFC)

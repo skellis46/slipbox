@@ -1,6 +1,6 @@
-# path and attention of the camera
+# path and attention of the camera
 
-_previous note:_  [embodied structures and patterns of film](x-devonthink-item://951CA888-7084-47C8-AEDC-77A00F30059C)     
+_previous note:_  [[embodied structures and patterns of film]]
 
 ---
 
@@ -10,7 +10,7 @@ Barker describes a scene in Tarkovsky's _Mirror_ (1975) in which the differing m
 
 _questions & thoughts:_
 
-- I am struggling with understanding the conceptualisation of _the film's body_
+- I am struggling with understanding the conceptualisation of the [[body of the film]]
 - what draws me to this language (or analysis) is the sense that the various bodies involved (filmic and human) are profoundly involved in how the film is felt -- its emotional or affective work
 
 
@@ -26,6 +26,7 @@ _source:_ unknown, available at Coventry University library (physical book)
 _local link:_ N/A
 
 _zotero link & citekey:_ [barker_tactile_2009](zotero://select/items/1_AGI2LELH)  
+
 _reference:_ Barker, Jennifer M., 2009. _The Tactile Eye: Touch and the Cinematic Experience_. Berkeley, CA: University of California Press.
 
 

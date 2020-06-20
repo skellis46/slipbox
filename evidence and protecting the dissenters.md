@@ -1,6 +1,6 @@
-# evidence and protecting the dissenters
+# evidence and protecting the dissenters
 
-_previous note:_ [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
+_previous note:_ [[search for truth]]
 
 ---
 
@@ -18,12 +18,13 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [human experience and language](x-devonthink-item://9982574D-C959-4769-A55C-E88899D01D59)
+- [[human experience and language]]
 
 
 _return links:_
 
 _source:_  n/a      
+
 _local link:_ [parrish-2020-putting.mp3](hook://file/lFGbB8Ipe?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=parrish-2020-putting.mp3)
 
 _zotero link & citekey:_ [parrish_daniel_2020](zotero://select/items/1_PA4QITXI)

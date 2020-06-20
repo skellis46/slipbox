@@ -1,6 +1,6 @@
-# embodied structures and patterns of film
+# embodied structures and patterns of film
 
-_previous note:_  [touch and film](x-devonthink-item://DEC3FB75-5F7D-4ED8-BAD1-A3761E418F0C)  
+_previous note:_  [[touch and film]]  
 
 ---
 
@@ -21,9 +21,11 @@ _consider:_
 _return links:_
 
 _source:_ unknown, available at Coventry University library (physical book)      
+
 _local link:_ N/A
 
 _zotero link & citekey:_ [barker_tactile_2009](zotero://select/items/1_AGI2LELH)  
+
 _reference:_ Barker, Jennifer M., 2009. _The Tactile Eye: Touch and the Cinematic Experience_. Berkeley, CA: University of California Press.
 
 

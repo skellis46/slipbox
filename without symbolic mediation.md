@@ -1,6 +1,6 @@
 # without symbolic mediation
 
-_previous note:_  [human experience and language](x-devonthink-item://9982574D-C959-4769-A55C-E88899D01D59)
+_previous note:_  [[human experience and language]]
 
 ---
 
@@ -28,9 +28,11 @@ _consider:_
 _return links:_ 
 
 _source:_ Coutts' original blog through my RSS feed      
+
 _local file link:_ [coutts-2020-unrecorded.pdf](hook://file/ko6LLcAcP?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=coutts-2020-unrecorded.pdf)
 
 _zotero link & citekey:_ [coutts_unrecorded_2020](zotero://select/items/1_M45RELBB)  
+
 _reference:_ Coutts, Seumas, 2020. unrecorded, symbolic mediation without conceptual form. srcoutts. URL <https://srcoutts.wordpress.com/2020/05/16/unrecorded-symbolic-mediation-without-conceptual-form/> (accessed 5.17.20).
 
 

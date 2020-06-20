@@ -1,4 +1,4 @@
-# search for truth 
+# search for truth 
 
 _previous note:_  
 
@@ -22,6 +22,7 @@ _consider:_
 _return links:_
 
 _source:_  rss feed    
+
 _local link:_ [ingold-2018-search.mp3](hook://file/kgv4V8C7D?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=ingold-2018-search.mp3)
 
 _zotero link & citekey:_ [ingold_search_2018](zotero://select/items/1_FLKQJ8WZ)

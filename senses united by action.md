@@ -1,6 +1,6 @@
-# senses united by action
+# senses united by action
 
-_previous note:_ [action is the foundation of thought](x-devonthink-item://4EBE0623-19B7-40BB-9164-B1C61147A196)
+_previous note:_ [[action is the foundation of thought]]
 
 ---
 
@@ -19,13 +19,14 @@ _consider:_
 
 - anything on somatics and perception
 - useful to compare with Alva Noë's work
-- [vision is kinaesthetic](x-devonthink-item://2963AD4C-00FB-4D3A-83DF-10D00D3EDAC6)
-- [interrupting habits](x-devonthink-item://0BC8CD7F-FD77-4F48-811B-B6E5B00B2A35)
+- [[vision is kinaesthetic]]
+- [[interrupting habits]]
 
 
 _return links:_
 
 _source:_ unknown      
+
 _local link:_ [tversky-2019-mind.epub](hook://file/lJKEhikwF?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=tversky-2019-mind.epub)
 
 _zotero link & citekey:_ [tversky_mind_2019](zotero://select/items/1_7QTEQ9IT)

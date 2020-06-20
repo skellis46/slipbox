@@ -1,6 +1,6 @@
 # language is post-kinetic
 
-_previous note:_  [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
+_previous note:_  [[without symbolic mediation]]
 
 ---
 
@@ -16,16 +16,18 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [human experience and language](x-devonthink-item://9982574D-C959-4769-A55C-E88899D01D59)  
-- [without symbolic mediation](x-devonthink-item://D81D9C8A-0E09-4C07-B479-4BFFE0B8001F)
+- [[human experience and language]]  
+- [[without symbolic mediation]]
 
 
 _return links:_ 
 
 _source:_ [sheets-johnstone-2011-primacy.pdf](hook://file/kqBcwbL8j?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=sheets-johnstone-2011-primacy.pdf)       
+
 _local file link:_ [sheets-johnstone-2010-why](hook://file/glYJxQl9g?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=sheets-johnstone-2010-why.pdf)
 
 _zotero link & citekey:_ [sheets-johnstone_why_2010](zotero://select/items/1_8XWNPYVZ)  
+
 _reference:_ Sheets-Johnstone, Maxine, 2010. _Why Is Movement Therapeutic?_: Keynote Address, 44th American Dance Therapy Association Conference, October 9, 2009, Portland, OR. Am J Dance Ther 32, 2–15. <https://doi.org/10.1007/s10465-009-9082-2>
 
 

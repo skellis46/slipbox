@@ -1,6 +1,6 @@
-# art biography autobiography and truth
+# art biography autobiography and truth
 
-_previous note:_ [tarkovsky and the indivisible image](x-devonthink-item://9F69A03F-4493-4181-8D57-069D0681CA08)
+_previous note:_ [[tarkovsky and the indivisible image]]
 
 ---
 
@@ -15,19 +15,20 @@ English translation: <https://www.theguardian.com/lifeandstyle/2018/apr/07/elena
 _questions & thoughts:_
 
 - is she only talking about the 'truth' regarding the creator? What of the subject of the art work? (in this case a nun)
-- is she talking about the same kind of truth that Ingold is discussing in [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
+- is she talking about the same kind of truth that Ingold is discussing in [[search for truth]]
 - makes me think about the nature of truth in relation to the imagination
 
 --- 
 
 _consider:_ 
 
-- [search for truth](x-devonthink-item://9B84DF67-9D1A-4597-ABF6-301159A9F964)
+- [[search for truth]]
 
 
 _return links:_
 
 _source:_ n/a      
+
 _local link:_ [ferrante-2018-ever.pdf](hook://file/lANWNqeQe?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=ferrante-2018-ever.pdf)
 
 _zotero link & citekey:_ [ferrante_invenzione_2019](zotero://select/items/1_T6HKNQ26)
