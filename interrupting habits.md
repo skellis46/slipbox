@@ -4,9 +4,9 @@ _previous note:_  [[somatic processes]]
 
 ---
 
-Loke and Schiphorst emphasise the role of learning by doing in somatic processes, and that observing one's self and observing others while being guided is a critical part of the process. In learning somatic processes, they describe a "continual checking-in, cross-referencing, and calibration process"[@loke_somatic_2018 p.57] between the deliberate actions completed with internal awareness by the learner, and information or guidance from a teacher or guide. Such _cross-referencing_ is a feedback loop between sensation, attention, personal reflection, and the support of another person. 
+Loke and Schiphorst emphasise the role of learning by doing in somatic work, and that observing one's self and observing others while being guided is a critical part of the process. In learning somatic processes, they describe a "continual checking-in, cross-referencing, and calibration process"[@loke_somatic_2018 p.57] between the deliberate actions completed with internal awareness by the learner, and information or guidance from a teacher or guide. Such _cross-referencing_ is a feedback loop between sensation, attention, personal reflection, and the support of another person. This feedback work is designed -- at least in part -- to interrupt "habitual ways of moving, sensing, and feeling ... to revitalize perception, or make new connections in reorganizing our sensory-motor neural pathways."[@loke_somatic_2018 p.57] 
 
-Later, they describe how this mode of attention can be entered into by choice through a "process of attunement",[@loke_somatic_2018 p.57] but that this kind of attention cannot be sustained. 
+Later, they describe how this mode of somatic attention can be entered into by choice through a "process of attunement",[@loke_somatic_2018 p.57] but that this kind of attention cannot be sustained. 
 
 _questions & thoughts:_
 

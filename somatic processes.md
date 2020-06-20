@@ -18,6 +18,7 @@ _consider:_
 - [[somatic turn in human computer interaction]]
 - [[device paradigm and focal things]]
 - [[without symbolic mediation]]
+- [[interrupting habits]]
 
 
 _return links:_

@@ -20,7 +20,7 @@ _consider:_
 
 - [[intrinsic value definition]]
 - [[path and attention of the camera]] -- thinking here about this split between two bodies (or internal and external)
-- [[device paradigm and focal things]] -- links between things that are hidden and those that are kept in awareness (like [[internal and external attention]] and somatic senses)
+- [[device paradigm and focal things]] -- links between things that are hidden and those that are kept in awareness (like the capacity to attend in somatic sensing)
 
 
 

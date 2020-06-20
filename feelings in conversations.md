@@ -1,4 +1,4 @@
-# feelings in conversations
+# feelings in conversations
 
 _previous note:_  [[language is post-kinetic]]
 
