@@ -24,8 +24,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "i believe tap dancing.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -63,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,11 +110,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "i believe tap dancing.md",
+    "shifting focus and scanning.md",
     "path and attention of the camera.md",
     "gestell and enframing.md",
-    "interrupting habits.md",
-    "feelings in conversations.md",
-    "somatic processes.md"
+    "interrupting habits.md"
   ],
   "fileSortOrder": "alphabetical",
   "foldHeading": true,
