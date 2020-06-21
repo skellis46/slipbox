@@ -20,26 +20,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9ba48cb6278b1379",
+        "id": "facbc4a46474be26",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "feelings in conversations.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "46767885c8078973",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "interrupting habits.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,11 +108,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "feelings in conversations.md",
-    "somatic processes.md",
+    "path and attention of the camera.md",
+    "gestell and enframing.md",
     "interrupting habits.md",
-    "shifting focus and scanning.md",
-    "evidence and protecting the dissenters.md"
+    "feelings in conversations.md",
+    "somatic processes.md"
   ],
   "fileSortOrder": "alphabetical",
   "foldHeading": true,
