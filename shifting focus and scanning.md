@@ -20,6 +20,7 @@ _consider:_
 - [[evidence and protecting the dissenters]]
 - [[interrupting habits]]
 - #toread Zull, James E. 2002. The Art of Changing the Brain: Enriching the Practice of Teaching by Exploring the Biology of Learning. Sterling, Va: Stylus Publishing
+- [[the field of somatics]]
 
 
 _source:_  n/a

@@ -23,6 +23,7 @@ _consider:_
 
 - [[internal and external attention]] -- thinking here about role of language and thought in somatic practices
 - [[body of the film]]
+- [[the field of somatics]]
 
 _return links:_
 

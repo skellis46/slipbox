@@ -23,7 +23,7 @@ _questions & thoughts:_
 _consider:_ 
 
 - any materials re kinesthetic and kinaesthetic
-- somatic practices
+- [[the field of somatics]]
 - vision
 
 

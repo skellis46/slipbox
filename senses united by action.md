@@ -21,6 +21,7 @@ _consider:_
 - useful to compare with Alva Noë's work
 - [[vision is kinaesthetic]]
 - [[interrupting habits]]
+- [[the field of somatics]]
 
 
 _return links:_

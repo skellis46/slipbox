@@ -21,6 +21,7 @@ _consider:_
 - [[somatic processes]]
 - [[gestell and enframing]] -- wonder here about somatics as a strategy to re-enframe
 - [[body of the film]]
+- [[the field of somatics]]
 
 _return links:_
 

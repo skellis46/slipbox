@@ -17,6 +17,7 @@ _consider:_
 
 - [[intrinsic value definition]]
 - [[feelings in conversations]]
+- [[the field of somatics]]
 
 
 _return links:_

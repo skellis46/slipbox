@@ -19,6 +19,7 @@ _consider:_
 - [[device paradigm and focal things]]
 - [[without symbolic mediation]]
 - [[interrupting habits]]
+- [[the field of somatics]]
 
 
 _return links:_
