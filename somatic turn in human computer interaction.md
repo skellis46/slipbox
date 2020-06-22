@@ -22,6 +22,7 @@ _consider:_
 - [[language is post-kinetic]]
 - [[without symbolic mediation]]
 - [[search for truth]]
+- [[the field of somatics]]
 
 
 _return links:_
