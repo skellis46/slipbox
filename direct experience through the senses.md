@@ -8,8 +8,8 @@ In their book _Mindfulness_, Clinical Psychologist Mark Williams and meditation 
 
 _questions & thoughts:_
 
-- my thought here is about a treoccurring things
-entative link between direct exerience and intrinsic value. That direct experiences perhaps have a different relationship to value. It's tentative at best
+- my thought here is about reoccurring and
+tentative link between direct exerience and intrinsic value. That direct experiences perhaps have a different relationship to value. It's tentative at best
 - what is the role of thinking in somatic practices? See for instance [[interrupting habits]]
 --- 
 
@@ -18,6 +18,7 @@ _consider:_
 - [[intrinsic value definition]]
 - [[feelings in conversations]]
 - [[the field of somatics]]
+- [[without symbolic mediation]]
 
 
 _return links:_

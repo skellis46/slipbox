@@ -26,6 +26,7 @@ _consider:_
 - [[gestell and enframing]]	-- re experiences of things and culture become hidden or unclear
 - [[direct experience through the senses]]
 - [[search for truth]]
+- [[art practice and artistic research]]
 
 
 _source:_  RSS feed  

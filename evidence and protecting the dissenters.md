@@ -19,6 +19,7 @@ _questions & thoughts:_
 _consider:_ 
 
 - [[human experience and language]]
+- [[culture, assumptions and beliefs]]
 
 
 _return links:_
