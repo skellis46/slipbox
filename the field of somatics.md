@@ -15,6 +15,7 @@ _consider:_
 
 - [[human experience and language]]
 - [[search for truth]]
+- see [Batson's summary](zotero://select/items/1_39B8594Q) of Varela on p.77 of her book: "First-person experience should be the starting point for understanding cognition" 
 
 
 _source:_ [loke_somatic_2018](zotero://select/items/1_6IERMMFC)
