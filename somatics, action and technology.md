@@ -21,7 +21,7 @@ _questions & thoughts:_
 _consider:_ 
 
 - #moving-camera-bodies 
-- 
+- [[senses united by action]]
 
 _source:_ Emma Meehan via Microsoft Teams thread, 12 June 2020
 
