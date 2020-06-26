@@ -17,7 +17,7 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [[art biography autobiography and truth]] -- regarding not knowing (or assuming we know)
+- [[art, biography, autobiography and truth]] -- regarding not knowing (or assuming we know)
 - [[preconceptions and the hermeneutic circle]] -- re what is known and unknown
 - [[shifting focus and scanning]]
 

@@ -1,6 +1,6 @@
 # i believe tap dancing
 
-_previous note:_ [[art biography autobiography and truth]]
+_previous note:_ [[art, biography, autobiography and truth]]
 
 ---
 
