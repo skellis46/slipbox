@@ -4,7 +4,7 @@ _previous note:_ [[device paradigm and focal things]]
 
 ---
 
-Humanities professor Alan Jacobs' article _Tending the Digital Commons_ is about the nature of online content, how owns it, who can access it, and these questions mean for our future. It is this concern for the future that interests me here. Jacobs writes:
+Humanities professor Alan Jacobs' article _Tending the Digital Commons_ is about the nature of online content, who owns it, who can access it, and what these questions mean for our future. It is this concern for the future that interests me here. Jacobs writes:
 
 >Those of us who live much of our lives online are not faced here simply with matters of intellectual property; we need to confront significant choices about the world we will hand down to those who come after us. The complexities of social media ought to prompt deep reflection on what we all owe to the future, and how we might discharge this debt.[@jacobs_tending_2018 n.p.]
 
