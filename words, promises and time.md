@@ -30,6 +30,7 @@ Words are for those with promises to keep.
 _questions & thoughts:_
 
 - this idea of assuming responsibility for time is staggeringly beautiful (and how it is perhaps humankind's greatest responsibility and the one we are avoiding terribly)
+- has me thinking about self-consciousness and self-awareness, and what we do with these _gifts_
 
 --- 
 

@@ -17,14 +17,15 @@ _questions & thoughts:_
 - such tight resonances with my previous (published) writing on stewardship
 - what are the practical implications for such an approach? Jacobs is talking about digital spaces (and how we might approach content online) but how might his thinking (and the thinking of the people he cites) be useful beyond that realm? 
 - am reminded of [longnow.org](http://longnow.org)
+- the word 'tending' is so useful in relation to practice-research. 
 
 --- 
 
 _consider:_
 
+- in the article Jacobs cites _Their Lonely Betters_ by Auden -- [[words, promises and time]] -- and of assuming responsibility for time (and for keeping promises)
 - compare with [[action is the foundation of thought]] which is highlighting actions in space over time; here it is a question of time and responsibility (perhaps more abstract?)
 - #toread The Imperative of Responsibility by Hans Jonas
-- #toread Their Lonely Betters by W.H. Auden
 - #toread Standing by Words by Wendell Berry (1980)
 
 
