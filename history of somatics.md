@@ -6,11 +6,11 @@ _previous note:_  [[the field of somatics]]
 
 This article by somatic practitioner Martha Eddy is a brief history of somatic practices in relation to dance, dancers and dance education. She defines somatic movement education and therapy, and discusses the work of first and second generation somaticians. 
 
->Somatic pioneers discovered that by being engaged in attentive dia- logue with one’s bodily self we, as humans, can learn newly, become pain free, move more easily, do our life work more efficiently, and perform with greater vitality and expressiveness.[@eddy_brief_2009 p.6]
+>Somatic pioneers discovered that by being engaged in attentive dialogue with one’s bodily self we, as humans, can learn newly, become pain free, move more easily, do our life work more efficiently, and perform with greater vitality and expressiveness.[@eddy_brief_2009 p.6]
 
 Eddy describes the importance of touch to somatic work, and how it helps focus on the awareness and attention of the student/client. 
 
-She suggests that both dance somatics are on the fringes of academy inquiry because they are "of the body" and are partly "ineffable"[p.10]
+She suggests that both dance and somatics are on the fringes of academy inquiry because they are "of the body" and are partly "ineffable"[p.10]
 
 
 _questions & thoughts:_
@@ -21,6 +21,11 @@ _questions & thoughts:_
 --- 
 
 _consider:_ 
+
+- [[direct experience through the senses]]
+- [[action is the foundation of thought]]
+- [[language is post-kinetic]]
+- [[human experience and language]]
 
 
 _source:_ unknown
