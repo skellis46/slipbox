@@ -4,7 +4,7 @@ _previous note:_
 
 ---
 
-A philosophical argument related to probability theory in which the cost of being wrong far exceeds the cost of being right. The French philosopher, mathematician and physicist, Blaise Pascal proposes that "humans bet with their lives that God either exists or does not",[@noauthor_pascals_2020 n.p.] and that the rationale thing would be to bet that God exists. If you are right you get all the trappings of the good life after death, but if you are wrong you lose little if anything. The opposite is true if you were to bet that God does not exist. 
+A philosophical argument related to probability theory in which the cost of being wrong far exceeds the cost of being right. The French philosopher, mathematician and physicist, Blaise Pascal proposed that "humans bet with their lives that God either exists or does not",[@noauthor_pascals_2020 n.p.] and that the rationale thing would be to bet that God exists. If you are right you get all the trappings of the good life after death, but if you are wrong you lose little if anything. The opposite is true if you were to bet that God does not exist. 
 
 
 _questions & thoughts:_
