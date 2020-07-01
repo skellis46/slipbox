@@ -17,7 +17,6 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [[device paradigm and focal things]]
 - [[body of the film]]
 - #toread Heidegger, The Question Concerning Technology
 

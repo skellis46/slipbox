@@ -27,6 +27,7 @@ _consider:_
 
 - [[gestell and enframing]]
 - [[instrumental extrinsic value definition]]
+- #toread Borgmann primary text
 
 _return links:_
 
