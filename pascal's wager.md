@@ -1,6 +1,6 @@
 # pascal's wager
 
-_previous note:_ 
+_previous note:_ [[epistemic rationality]]
 
 ---
 
