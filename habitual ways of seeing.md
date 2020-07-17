@@ -17,7 +17,6 @@ _consider:_
 
 - [[interrupting habits]]
 - [[gestell and enframing]]
-
 - John Berger's _Ways of Seeing_
 
 _source:_ unknown
