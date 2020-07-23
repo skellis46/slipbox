@@ -18,6 +18,7 @@ _consider:_
 - [[internal and external attention]] -- comparing what we know and what we don't yet know to two different states of attention in somatic practices. The knowing body, the unknown body.
 - [[search for truth]] -- comparing the pursuit of new understandings (from pre-conceptions) with Ingold
 - [[without symbolic mediation]]
+- [[gadamer and understanding as an event]]
 
 
 _source:_  n/a

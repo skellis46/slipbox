@@ -1,22 +1,27 @@
 # assumptions of uniformity
 
-_previous note:_ 
+_previous note:_ [[Levinas and the ethics of listening]]
 
 ---
 
->None of us is “woke,” or fully awake, to the realities of people who are unlike us. At the same time, none of us can claim to share the same mind-set or values as people who we think are like us. When people say things such as, “Speaking as a white man,” or “Speaking as a woman of color,” that’s impossible. One can only speak for one’s self.
+In Chapter 4 of _You're Not Listening_ Kate Murphy steps into the realm of identity politics. She writes that we cannot know the experiences and realities of people "who are unlike us", but nor can we know (or claim to share) the "same mind-set or values of people we think are like us".[@murphy_youre_2020 Chapter 4, n.p.]
 
->A white man, a woman of color, an evangelical, an atheist, a homeless person, a billionaire, a straight person, a gay person, a boomer, a millennial—each has a singular experience that separates them from everyone else who shares that label. Making assumptions of uniformity or solidarity based on age, gender, skin color, economic status, religious background, political party, or sexual preference reduces and diminishes us all. By listening, you might find comfort in shared values and similar experiences, but you’ll also find many points where you diverge, and it’s by acknowledging and accepting those differences that you learn and develop understanding. Our listening suffers from broadly applied and collective ideas of identity, which discourages discovery of what makes us and other people unique.
+>When people say things such as, “Speaking as a white man,” or “Speaking as a woman of color,” that’s impossible. One can only speak for one’s self.[@murphy_youre_2020 Chapter 4, n.p.]
 
-Chapter 4
+In other words, each of us has singular experiences that separate us from people who share the same identity markers.
 
-#unfinished 
+>By listening, you might find comfort in shared values and similar experiences, but you’ll also find many points where you diverge, and it’s by acknowledging and accepting those differences that you learn and develop understanding. Our listening suffers from broadly applied and collective ideas of identity, which discourages discovery of what makes us and other people unique.
 
 _questions & thoughts:_
+
+- sits with my own going questioning of how demographic representations (of populations) map (if at all) to individuals. 
 
 --- 
 
 _consider:_
+
+- [[human experience and language]]
+- [[closeness-communication bias]]
 
 
 _source:_ unknown

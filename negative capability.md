@@ -1,22 +1,25 @@
 # negative capability
 
-_previous note:_ 
+_previous note:_ [[listening and curiosity]]
 
 ---
 
-Chapter 7:
+John Keats coined the term _negative capability_ to refere to the capacity to be in doubt, uncertainty and doubt without needing fact or reason. These are people who "are able to cope with contradictory ideas and gray areas."[@murphy_youre_2020 Chapter 7, n.p.]
 
->The English romantic poet John Keats wrote to his brothers in 1817 that to be a person of achievement, one must have “negative capability,” which he described as “capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason.” Good listeners have negative capability. They are able to cope with contradictory ideas and gray areas. 
-
->In the psychological literature, negative capability is known as cognitive complexity, which research shows is positively related to self-compassion and negatively related to dogmatism. Because they are able to listen without anxiety and are open to hearing all sides, people who are more cognitively complex are better able to store, retrieve, organize, and generate information, which gives them greater facility for making associations and coming up with new ideas. It also enables them to make better judgments and sounder decisions.
-
-#unfinished 
+Murphy states that negative capability (known as cognitive complexity in psychology) is "positively related to self-compassion and negatively related to dogmatism".[@murphy_youre_2020 Chapter 7, n.p.]
 
 _questions & thoughts:_
+
+- 
 
 --- 
 
 _consider:_
+
+- [[doubt and blind faith]]
+- [[myside bias]]
+- [[heterotopic discourse and the truth]]
+- [Rose Hacker discussing Keats and pretending to know](https://www.skellis.net/blog/rose-hacker)
 
 
 _source:_ unknown

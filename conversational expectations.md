@@ -1,28 +1,32 @@
 # conversational expectations
 
-_previous note:_ 
+_previous note:_ [[heterotopic discourse and the truth]]
 
 ---
 
-Chapter 17
+The British language philosopher and theorst describes our our conversational expectations via four maxims:
 
->Grice summarized our conversational expectations in four maxims:
+>Maxim of Quality—we expect the truth.
 
-Maxim of Quality—we expect the truth.
-Maxim of Quantity—we expect to get information we don’t already know and not so much that we feel overwhelmed.
-Maxim of Relation—we expect relevance and logical flow.
-Maxim of Manner—we expect the speaker to be reasonably brief, orderly, and unambiguous.
-Some scholars have argued for the inclusion of politeness and fairness in turn taking, but Grice’s four maxims are widely recognized as what most people expect in civilized society, even if they aren’t aware of it.
+>Maxim of Quantity—we expect to get information we don’t already know and not so much that we feel overwhelmed.
 
+>Maxim of Relation—we expect relevance and logical flow.
 
+>Maxim of Manner—we expect the speaker to be reasonably brief, orderly, and unambiguous.[@murphy_youre_2020 Chapter 17, n.p.]
 
-#unfinished 
 
 _questions & thoughts:_
+
+- Murphy writes that other scholars want to include "politeness and fairness in turn taking". This is strongly connected to the heterotopic form of discourse (and its other)
+- I really like the plainness and simplicity of this list. It's kind of blunt
+- 
 
 --- 
 
 _consider:_
+
+- [[Levinas and the ethics of listening]]
+- [[feelings in conversations]]
 
 
 _source:_ unknown

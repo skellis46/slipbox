@@ -10,7 +10,7 @@ Kate Murphy is a journalist and her book _You’re Not Listening: What You’re 
 _questions & thoughts:_
 
 - there's a link here with scanning and listening to the body, and the kinds of curiosity that we develop as we are doing that work. And of course with authentic movement
-
+- I wonder also about biases and what kinds of biases are soaked into our skin and bones. How might we not evoke the [[myside bias]] when scanning or listening to the body?
 
 
 --- 
