@@ -1,6 +1,6 @@
 # truth and beliefs
 
-_previous note:_ 
+_previous note:_ [[search for truth]]
 
 ---
 
