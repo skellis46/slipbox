@@ -4,7 +4,7 @@ _previous note:_ [[listening and curiosity]]
 
 ---
 
-John Keats coined the term _negative capability_ to refere to the capacity to be in doubt, uncertainty and doubt without needing fact or reason. These are people who "are able to cope with contradictory ideas and gray areas."[@murphy_youre_2020 Chapter 7, n.p.]
+John Keats coined the term _negative capability_ to refer to the capacity to be in doubt, uncertainty and doubt without needing fact or reason. These are people who "are able to cope with contradictory ideas and gray areas."[@murphy_youre_2020 Chapter 7, n.p.]
 
 Murphy states that negative capability (known as cognitive complexity in psychology) is "positively related to self-compassion and negatively related to dogmatism".[@murphy_youre_2020 Chapter 7, n.p.]
 
