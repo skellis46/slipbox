@@ -4,7 +4,9 @@ _previous note:_ [[search for truth]]
 
 ---
 
-This is a blog post by artifical intelligence researcher Eliezer Yudkowsky. He describes two types of rationality: epistemic and instrumental. Epistemic rationality is "systematically improving the accuracy of your beliefs,"[@yudkowsky_what_2009 n.p.] or building more accurate maps. Yudkowsky states that this connection between reality and belief is "commonly called 'truth,'' and I’m happy to call it that."[@yudkowsky_what_2009 n.p.]
+This is a blog post by artifical intelligence researcher Eliezer Yudkowsky. He describes two types of rationality: epistemic and instrumental. 
+
+Epistemic rationality is "systematically improving the accuracy of your beliefs,"[@yudkowsky_what_2009 n.p.] or building more accurate maps. Yudkowsky states that this connection between reality and belief is "commonly called 'truth,'' and I’m happy to call it that."[@yudkowsky_what_2009 n.p.]
 
 Instrumental rationality is about choosing actions and behaviours that encourage personally preferable futures. Yudkowsky calls this "winning."
 
