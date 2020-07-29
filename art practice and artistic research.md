@@ -22,6 +22,7 @@ _consider:_
 - [[intuition and the intimate knowledge of a practice]]
 - [[search for truth]]
 - [[finger pointing at the moon]]
+- #practice-research 
 
 
 _source:_ unknown

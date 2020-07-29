@@ -4,7 +4,7 @@ _previous note:_ [[noë - strange tools]]
 
 ---
 
-In the preface to _Strange Tools_, Noë wonders why science and philosophy seek to explain art when art is "its own manner of investigation and its own legitimate source of knowledge."[@noe_strange_2016 Preface, n.p.] He suggests that whereas science is explicitly concerned with producing knowledge and understanding, art is for "bringing the world into focus for perceptual (and other forms of) consciousness."[@noe_strange_2016 Preface, n.p.] Art helps us to see, or to go from seeing to seeing differently or seeing more.
+In the preface to _Strange Tools_, Noë wonders why science and philosophy seek to explain art when art is "its own manner of investigation and its own legitimate source of knowledge."[@noe_strange_2015 Preface, n.p.] He suggests that whereas science is explicitly concerned with producing knowledge and understanding, art is for "bringing the world into focus for perceptual (and other forms of) consciousness."[@noe_strange_2015 Preface, n.p.] Art helps us to see, or to go from seeing to seeing differently or seeing more.
 
 
 _questions & thoughts:_
@@ -21,9 +21,9 @@ _consider:_
 
 _source:_ 
 
-_local link:_ [noe-2016-strange.epub](hook://file/mT3dr3uDv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noe-2016-strange.epub)
+_local link:_ [noe-2015-strange.epub](hook://file/mT3dr3uDv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noe-2015-strange.epub)
 
-_citekey & zotero link:_ [noe_strange_2016](zotero://select/items/1_2YWDYY3Z)
+_citekey & zotero link:_ [noe_strange_2015](zotero://select/items/1_GJLYSMRA)
 
 _reference:_ Noë, A., 2015. _Strange Tools, Art and Human Nature_. Hill and Wang, New York.
 
