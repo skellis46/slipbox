@@ -4,6 +4,8 @@ _previous note:_ [[search for truth]]
 
 ---
 
+AI research Eliezer Yudkowsky has a blog post called _The Useful Idea of Truth_. It's part of a longer collection of posts [Highly Advanced Epistemology 101 for Beginners](https://www.lesswrong.com/s/SqFbMbtxGybdS2gRs).
+
 >So is all this talk of truth just comparing other people's beliefs to our own beliefs, and trying to assert privilege? Is the word 'truth' just a weapon in a power struggle?
 
 >If the above is true, aren't the postmodernists right? Isn't all this talk of 'truth' just an attempt to assert the privilege of your own beliefs over others, when there's nothing that can actually compare a belief to reality itself, outside of anyone's head?

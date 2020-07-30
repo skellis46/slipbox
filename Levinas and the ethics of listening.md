@@ -6,7 +6,7 @@ _previous note:_ [[listening and curiosity]]
 
 Kate Murphy writes in _You're Not Listening_ about Levinas' understanding that listening is at the heart of understanding and empathy:
 
->The French philosopher Emmanuel Levinas believed human interactions are the foundation of personal ethics and that listening, and the understanding and empathy it engenders, gives our lives meaning and direction. Levinas, who was Jewish and was a prisoner of war during WWII, stressed the importance of experiencing the “other.” By this, he meant engaging with other people face-to-face and learning how all our stories are different and yet the same in terms of underlying emotions. Listening to the “other” is what reminds us of our common human vulnerability and fragility, and it imposes the ethical imperative, or duty, to do no harm.[@murphy_youre_2020 Chapter 16, n.p.]
+>The French philosopher Emmanuel Levinas believed human interactions are the foundation of personal ethics and that listening, and the understanding and empathy it engenders, gives our lives meaning and direction. Levinas, who was Jewish and was a prisoner of war during WWII, stressed the importance of experiencing the "other." By this, he meant engaging with other people face-to-face and learning how all our stories are different and yet the same in terms of underlying emotions. Listening to the “other” is what reminds us of our common human vulnerability and fragility, and it imposes the ethical imperative, or duty, to do no harm.[@murphy_youre_2020 Chapter 16, n.p.]
 
 
 

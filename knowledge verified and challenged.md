@@ -20,6 +20,7 @@ _consider:_
 
 - [[art as source of knowledge]]
 - #finger-pointing-moon 
+- #practice-research 
 
 
 _source:_ [magee-2012-accountability.pdf](hook://file/mz8Ki68gv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=magee-2012-accountability.pdf)

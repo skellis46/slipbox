@@ -1,20 +1,26 @@
 # memory and the future
 
-_previous note:_ 
+_previous note:_ [[gadamer and understanding as an event]]
 
 ---
 
->To remember this world is to create it. – TONI MORRISON
+Margaret Heffernan is a businesswoman, author and Professor of Practice at the University of Bath. In her book _Uncharted_ she discusses people, organisations, and projects which seem to function in spite of uncertainty about the future.
 
->Memory, they found, serves many functions – and one of them is to allow us to simulate the future. The idea that without a sense of past we can’t have a sense of the future isn’t metaphorical. It is the physical reality of how our brains operate. We draw from the past in order to imagine what lies ahead.2 ‘The whole point of the brain’, Maguire told me, ‘is future planning. You need to survive and think about what happened when I was last here – is there a scary monster that will come out and eat me? We create models of the future by recruiting our memories of the past.’
+In Chapter 2 _Does History Repeat Itself?_ Heffernan describes how one of the many functions of memory is to "simulate the future."[@heffernan_uncharted_2020 Chapter 2, n.p.] Indeed, we need a sense of the past in order to sense the future, and that a key part of the brain's function is in planning for the future. 
 
-#unfinished 
+At the top of the Chapter, Heffernan quote Toni Morrison:
+
+>To remember this world is to create it.[@heffernan_uncharted_2020 Chapter 2, n.p.]
 
 _questions & thoughts:_
+
 
 --- 
 
 _consider:_
+
+- [[shifting focus and scanning]]
+- [[somatics, action and technology]]
 
 
 _source:_ elb listened to podcast that was interview with Heffernan

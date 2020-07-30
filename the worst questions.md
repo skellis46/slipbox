@@ -1,20 +1,26 @@
 # the worst questions
 
-_previous note:_ 
+_previous note:_ [[listening and curiosity]]
 
 ---
 
-Chapter 12
->Becker, who spent much of his long career at Northwestern University, is known for embedding himself for months, if not years, within various subcultures and then writing about them like an insider. His subjects have included jazz musicians, pot smokers, artists, actors, and medical students, among others. “I’m not sure I’m a better listener than anyone else, but if I hear something I don’t understand, I ask about it,” he told me. For him, the worst questions are the ones that are never asked.
 
+Murphy discusses the listening skills and work of sociologist Howard Becker who spent long periods of time (months, years) being with various sub-cultures like jazz musicians, actors, medical students. Becker says, "I’m not sure I’m a better listener than anyone else, but if I hear something I don’t understand, I ask about it."[@murphy_youre_2020 Chapter 12, n.p.]
 
-#unfinished 
+According to Murphy, for Becker, the "worst questions are the ones that are never asked."[@murphy_youre_2020 Chapter 12, n.p.]
+
 
 _questions & thoughts:_
+
+- I'd love to develop a list of the questions I never asked (and deal with why I never asked them)
+- this relates to [[assumptions of uniformity]] and what questions are allowed, and which are not
 
 --- 
 
 _consider:_
+
+- [[conversational expectations]]
+- [[closeness-communication bias]]
 
 
 _source:_ unknown

@@ -17,6 +17,8 @@ _questions & thoughts:_
 _consider:_
 
 - [[evidence and protecting the dissenters]]
+- [[art as source of knowledge]]
+- [[intuition and the intimate knowledge of a practice]]
 
 
 _source:_ [steyerl-2016-sea.pdf](hook://file/lrrzwKcEs?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=steyerl-2016-sea.pdf)

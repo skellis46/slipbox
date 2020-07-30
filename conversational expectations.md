@@ -4,7 +4,7 @@ _previous note:_ [[heterotopic discourse and the truth]]
 
 ---
 
-The British language philosopher and theorst describes our our conversational expectations via four maxims:
+The British language philosopher and theorist Paul Grice describes our conversational expectations via four maxims:
 
 >Maxim of Quality—we expect the truth.
 
