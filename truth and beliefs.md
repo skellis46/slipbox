@@ -4,30 +4,15 @@ _previous note:_ [[search for truth]]
 
 ---
 
-AI research Eliezer Yudkowsky has a blog post called _The Useful Idea of Truth_. It's part of a longer collection of posts [Highly Advanced Epistemology 101 for Beginners](https://www.lesswrong.com/s/SqFbMbtxGybdS2gRs).
-
->So is all this talk of truth just comparing other people's beliefs to our own beliefs, and trying to assert privilege? Is the word 'truth' just a weapon in a power struggle?
-
->If the above is true, aren't the postmodernists right? Isn't all this talk of 'truth' just an attempt to assert the privilege of your own beliefs over others, when there's nothing that can actually compare a belief to reality itself, outside of anyone's head?
+AI researcher Eliezer Yudkowsky has a blog post called _The Useful Idea of Truth_. It's part of a longer collection of posts [Highly Advanced Epistemology 101 for Beginners](https://www.lesswrong.com/s/SqFbMbtxGybdS2gRs). This particular post is a collection of thoughts on the relationship between beliefs and truth, and can be summarised by this statement:
 
 >my beliefs determine my experimental predictions, but only reality gets to determine my experimental results.
 
->The abstract concept of 'truth' - the general idea of a map-territory correspondence - is required to express ideas such as:
+Yudkowsky describes truth as "the general idea of a map-territory correspondence", and such correspondence means that we can "learn lessons that transfer beyond particular" schemes or situations (generalisability). He gives a detailed example based on the made-up idea of _post-utopianism_. In the example Yudowsky describes a situation in which two connected phrases remain unconnected to anything else; they are "floating beliefs not connected with the rest of the model."
 
->This is the main benefit of talking and thinking about 'truth' - that we can generalize rules about how to make maps match territories in general; we can learn lessons that transfer beyond particular skies being blue.
-
->They're floating beliefs not connected with the rest of the model.
-
--- this is like practice-research: floating beliefs (super useful)
-
->One classic response to this problem was verificationism, which held that the sentence "Elaine is a post-utopian" is meaningless if it doesn't tell us which sensory experiences we should expect to see if the sentence is true, and how those experiences differ from the case if the sentence is false.
-
-- this is precisely what I'm proposing in #finger-pointing-moon !
+>One classic response to this problem [of floating beliefs] was _verificationism_, which held that the sentence "Elaine is a post-utopian" is meaningless if it doesn't tell us which sensory experiences we should expect to see if the sentence is true, and how those experiences differ from the case if the sentence is false.
 
 
-
-
-#unfinished (am up to here going through the article: You might next try the answer that for a statement to be meaningful, there must be some way reality can be which makes the statement true or false)
 
 _questions & thoughts:_
 
@@ -35,12 +20,20 @@ _questions & thoughts:_
 
 >A 'meditation' is a puzzle that the reader is meant to attempt to solve before continuing. It's my somewhat awkward attempt to reflect the research which shows that you're much more likely to remember a fact or solution if you try to solve the problem yourself before reading the solution; succeed or fail, the important thing is to have tried first .[@yudkowsky_useful_2012 n.p.]
 
+- I found the examples hard to decipher (that kind of logic of thinking doesn't come so easy to me)
+
 --- 
 
 _consider:_
 
-- practice-research as simply a set of beliefs
-- 
+- [[terministic screens]] - the ways in which words/terms (like in the example of post-utopianism) become disconnected from a model
+- #practice-research as simply a set of beliefs
+- floating beliefs are like in practice-research
+- verficationism is akin to what I'm proposing in #finger-pointing-moon; and the (sensory) claims we can (or can't make), and how they might be falsified or verified
+- [[conversation and understanding]] - Noë's thinking that what art produces is more like a score (as opposed to truth). That we are changed by art (but how might we recognise that change?)
+- [[culture, assumptions and beliefs]]
+- [[epistemic rationality]]
+- [[evidence and protecting the dissenters]]
 
 _source:_ Lesswrong
 
