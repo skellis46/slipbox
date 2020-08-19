@@ -1,6 +1,6 @@
 # object, process and context in practice-research
 
-_previous note:_ [[research on, for and in the arts]]
+_previous note:_ [[borgdorff - debate on research in the arts]]
 
 ---
 
@@ -22,7 +22,7 @@ _questions & thoughts:_
 _consider:_
 
 - [[art practice and artistic research]]
-
+- [[research on, for and in the arts]]
 
 _source:_ [magee-2012-accountability.pdf](hook://file/mz8Ki68gv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=magee-2012-accountability.pdf)
 

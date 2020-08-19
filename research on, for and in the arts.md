@@ -1,6 +1,6 @@
 # research on, for and in the arts
 
-_previous note:_ [[art practice and artistic research]]
+_previous note:_ [[borgdorff - debate on research in the arts]]
 
 ---
 
@@ -23,6 +23,7 @@ _questions & thoughts:_
 _consider:_
 
 - [[intuition and the intimate knowledge of a practice]]
+- [[art practice and artistic research]]
 
 
 _source:_ [magee-2012-accountability.pdf](hook://file/mz8Ki68gv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=magee-2012-accountability.pdf)

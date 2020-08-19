@@ -19,7 +19,7 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- anything to do with practice-research and epistemology
+- anything to do with #practice-research and epistemology
 - [[body of the film]] -- thinking here about the ghostly nature of the film's body, and perhaps the idea that even in describing the film's body the language is seemingly only dancing around the idea (it's not quite able to get at it)
 
 _return links:_ 
