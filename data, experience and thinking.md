@@ -24,6 +24,7 @@ _consider:_
 - [[first-person experience]]
 - [[weber-fechner law]]
 - [[human experience and language]]
+- [[empirical research]]
 
 
 _source:_ rss
