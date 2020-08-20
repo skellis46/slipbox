@@ -17,7 +17,6 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [[body of the film]]
 - #toread Heidegger, The Question Concerning Technology
 - [[noë - strange tools]]
 

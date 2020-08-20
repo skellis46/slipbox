@@ -28,6 +28,7 @@ _consider:_
 - [[instrumental extrinsic value definition]]
 - [[art practice and artistic research]]
 - [[intuition and the intimate knowledge of a practice]]
+- [[noë - technology is skillful activity]] -- considering a more open understanding of _technology_
 
 
 _source:_ unknown

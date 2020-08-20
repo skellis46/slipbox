@@ -15,14 +15,14 @@ He describes language and writing themselves as being technologies; technologies
 
 _questions & thoughts:_
 
-- to return to etymology (e.g. technē) is always a tricky proposition. This is because our use of language changes. We no longer think of technology as a skillful activity. That premise doesn't hold in how we use the term _technology_. When we say "technology" we mean something beyond ourselves used to make doing something easier. But his point about technologies never being static is important -- that the make problems as they solve them. They are deeply connected to thinking and practice. #moving-camera-bodies 
+- to return to etymology (e.g. technē) is always a tricky proposition. This is because our use of language changes. We no longer think of technology as a skillful activity. That premise doesn't hold in how we use the term _technology_. When we say "technology" we mean something beyond ourselves used to make doing something easier. But his point about technologies never being static is important -- that they make problems as they solve them. They are deeply connected to thinking and practice. #moving-camera-bodies 
 
 --- 
 
 _consider:_
 
 - compare Noë's expanded description of technology with Ginot's description of techno-bodies: [[somatics, action and technology]]. In one sense, somatics as a way of organising/reorganising the body is a technology itself: a system for thinking-moving.
-- different from a _normative_ conception of technology like how O'Brien talks of Borgman (as far as I'm aware): [[borgmann, effort and focal things]] and [[device paradigm and focal things]]
+- different from a _normative_ conception of technology like how O'Brien talks of Borgman (as far as I'm aware): [[borgmann, effort and focal things]] and [[device paradigm and focal things]] (in which I also mention somatics as a technological practice)
 
 
 _source:_ Searching for possible third-person collaborators for #finger-pointing-moon, thought of Alva Noë and then noticed this book (which I had already downloaded some years ago!)
