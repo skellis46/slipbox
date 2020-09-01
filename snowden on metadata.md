@@ -11,6 +11,7 @@ Metadata are not produced willingly, they are produced as a consequence of our u
 _questions & thoughts:_
 
 - any differentiation between things produced wittingly and unwittingly is fascinating.
+- snowden is talking about particular kinds of (digital) technologies. Does the point stand if I were to extend to Kołakowski's technological core of culture [[mythical vs technological core of culture]]
 
 --- 
 
