@@ -1,6 +1,6 @@
 # mythical vs technological core of culture
 
-_previous note:_ [[human experience and language]]
+_previous note:_ [[jacobs - after technopoly]]
 
 ---
 
@@ -27,6 +27,7 @@ _consider:_
 - compare with Noë's understanding of technology: [[noë - technology is skillful activity]]
 - Ginot's inclusion of technology in somatic thinking [[somatics, action and technology]]
 - [[finger pointing at the moon]]
+- [[human experience and language]]
 
 
 _source:_ Jacobs' list of publications on his website?
