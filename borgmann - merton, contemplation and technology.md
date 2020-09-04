@@ -10,23 +10,27 @@ This article, published in _Perspectives on Science and Christian Faith_ examine
 
 >The crucial feature of the technological culture is the insertion of machinery between humanity and reality.[@borgmann_contemplation_2012 p.4]
 
-(compare this quote with Jacobs in [[mythical vs technological core of culture]]) - role of tech. Also, of course, with [[device paradigm and focal things]] and [[borgmann, effort and focal things]]
+Borgmann's position vis-à-vis technology (and supported by the words of Merton he chooses) is clear. Technology -- that which "simply often stands for information technology"[@borgmann_contemplation_2012 p.8] -- both enables and disables, and at the heart of the problem is how "the culture of technology has finally depressed the glory and the misery of the human condition to distraction and indecision."[p.9]
 
->And thus the pattern of technology becomes visible in its stark and general two-sidedness of commodification and mechanization. Commodifica- tion is the detachment of things and practices from their traditional contexts, and it is the conversion of things and practices into freely available com- modities. Mechanization is the replacement of tradi- tional contexts and competencies by increasingly powerful and concealed machineries. As workers we indenture ourselves for the requirements of the machinery. As consumers we revel in the abundance of unencumbered pleasures.[p.5]
+>Distraction might have been like a long rainy season, as it was for young Merton, or like the occasional hurricane that the monastic Merton knew. Today it is like a permanent, if attractively glamorous, fog. It’s the atmosphere we live in. It has, to be sure, “the phantasms of a lewd and somewhat idiotic burlesque,“ but for many today it’s no longer “fabricated in their imagination.”26 It is worked out in the graphic details of video games, YouTube, and pornography.[p.8]
 
->These schematic accounts of technology and contempla- tion suggest a ready way of connecting them, or rather, of seeing them disconnected. The active and the pleasurable lives line up with machinery and commodity, with production and consumption, with labor and leisure. But contemplation, whether Aris- totelian or Thomist, seems to have no place in the culture of technology and constitutes, if anything, a rebuke to technology. But how can we get beneath such schemata to the real challenges of the day?[p.5]
+Jacobs' warning is to suggest that the pattern of technology is most clearly represented by commodification and mechanization:
 
->Technology, as we think of it here, is the character of the modern era. It surfaces most clearly in research and develop- ment, in industry and commerce, and in appliances and utilities. But technology exerts its power not only in what it does and enables, but also in what it abandons and disables ...[p.5]
+>Commodification is the detachment of things and practices from their traditional contexts, and it is the conversion of things and practices into freely available commodities. Mechanization is the replacement of traditional contexts and competencies by increasingly powerful and concealed machineries. As workers we indenture ourselves for the requirements of the machinery. As consumers we revel in the abundance of unencumbered pleasures.[p.5]
 
+The pressure that technology is placing on contemplation suggests -- according to Borgmann -- "that Contemplation needs a cloister, a space where the splendor of the simple is secure from mindless distraction and busyness."[p.9]
 
-
-#unfinished 
 
 _questions & thoughts:_
+
+- I'm interested in the 'technology' of the cloister. This is the ways in which -- thinking of Jacobs in [[mythical vs technological core of culture]] and how technology involves manipulation -- the cloister is in itself a technology. This is where Borgmann's writing is not specific enough about what he means by technology.
 
 --- 
 
 _consider:_
+
+- compare "insertion of machinery" quote (above) with Jacobs in [[mythical vs technological core of culture]]) - role of tech. Also with Ginot in [[somatics, action and technology]]
+- compare with [[device paradigm and focal things]] and [[borgmann, effort and focal things]]
 
 
 _source:_ Borgmann's portal on Uni website <http://hs.umt.edu/philosophy/People/faculty.php?s=Borgmann>

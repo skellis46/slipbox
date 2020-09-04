@@ -10,6 +10,7 @@ Ginot proposes that, for all of somatic methods' focus on the singular subjectiv
 _questions & thoughts:_
 
 - something about taking care of the Western body in relation to how somatics might extend out into the world (Ginot makes the distinction between different types of somatic practices, e.g. CI which is relational). In tension with hyper-individualism. 
+- #homogenous_body 
 
 --- 
 

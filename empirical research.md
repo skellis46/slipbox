@@ -1,6 +1,6 @@
 # empirical research
 
-_previous note:_ [[noë - descriptions and sense data]]
+_previous note:_ [[descriptions and sense data]]
 
 ---
 

@@ -34,7 +34,7 @@ _consider:_
 - [[culture, assumptions and beliefs]]
 - [[epistemic rationality]]
 - [[evidence and protecting the dissenters]]
-- [[noë - descriptions and sense data]]
+- [[descriptions and sense data]]
 
 _source:_ Lesswrong
 

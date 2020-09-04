@@ -15,6 +15,7 @@ _questions & thoughts:_
 
 - simple question for me here is about perception, and what we are able to perceive when we observe complex phenomena like dance
 - I love this idea of data being "all things given up to experience". That experience is the means by which data are transformed, or become useful
+- thinking of #homogenous_body and wondering how this sits with operating in the mythical core of culture, in which experience might be 'pre-data'?
 
 --- 
 

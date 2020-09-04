@@ -18,13 +18,14 @@ In contrast, the mythical core of culture is an aspect of experience "not subjec
 _questions & thoughts:_
 
 - I'm fascinated by the mythical core, and it feels like opening out towards the concept (and experience) of myth. Jacobs cites his own writing about myth in relation to cancel culture: <https://www.thenewatlantis.com/publications/wokeness-and-myth-on-campus>
+- #homogenous_body 
 
 
 --- 
 
 _consider:_
 
-- compare with Noë's understanding of technology: [[noë - technology is skillful activity]]
+- compare with Noë's understanding of technology: [[technology is skillful activity]]
 - Ginot's inclusion of technology in somatic thinking [[somatics, action and technology]]
 - [[finger pointing at the moon]]
 - [[human experience and language]]

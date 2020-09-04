@@ -9,7 +9,7 @@ _previous note:_ [[mesearch]]
 
 _questions & thoughts:_
 
-- he introduces the Lindsay, Boghossian, and Pluckrose _Academic Grievance Studies_ hoax (which I'd forgotten about)
+- he introduces the Lindsay, Boghossian, and Pluckrose _Academic Grievance Studies_ hoax (which I'd forgotten about): [[grievance studies]]
 - Alison Wylie quote at very beginning of the post is very useful:
 
 >Standpoint theory poses a challenge to any assumption that the neutrality of epistemic agents ... is either a necessary or a sufficient condition for the knowledge claims they produce. ... considerable epistemic advantage may accrue to those who approach inquiry from an interested standpoint, even a standpoint of overtly political engagement. -- #toread <https://philpapers.org/rec/WYLWSM>

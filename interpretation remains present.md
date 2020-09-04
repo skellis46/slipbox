@@ -27,6 +27,8 @@ _questions & thoughts:_
 >For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception, and never can observe anything but the perception ...(Hume 1896: Book I, Part 4, Section 6; cited in Dennett, 2003 p.101)
 
 - Heisenberg's thinking in final quote chimes beautifully with [[standpoint epistemology]] and to a certain extent [[mesearch]] (except that these often don't involve primary observation)
+- #practice-research 
+- #finger-pointing-moon 
 
 --- 
 
