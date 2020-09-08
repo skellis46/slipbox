@@ -10,15 +10,21 @@ This article, published in _Perspectives on Science and Christian Faith_ examine
 
 >The crucial feature of the technological culture is the insertion of machinery between humanity and reality.[@borgmann_contemplation_2012 p.4]
 
-Borgmann's position vis-à-vis technology (and supported by the words of Merton he chooses) is clear. Technology -- that which "simply often stands for information technology"[@borgmann_contemplation_2012 p.8] -- both enables and disables, and at the heart of the problem is how "the culture of technology has finally depressed the glory and the misery of the human condition to distraction and indecision."[p.9]
+Borgmann's position vis-à-vis technology (and supported by the words of Merton he chooses) is clear. Technology -- that which "simply often stands for information technology"[@borgmann_contemplation_2012 p.8] -- both enables and disables, and at the heart of the problem is how "the culture of technology has finally depressed the glory and the misery of the human condition to distraction and indecision."[@borgmann_contemplation_2012 p.9]
 
->Distraction might have been like a long rainy season, as it was for young Merton, or like the occasional hurricane that the monastic Merton knew. Today it is like a permanent, if attractively glamorous, fog. It’s the atmosphere we live in. It has, to be sure, “the phantasms of a lewd and somewhat idiotic burlesque,“ but for many today it’s no longer “fabricated in their imagination.”26 It is worked out in the graphic details of video games, YouTube, and pornography.[p.8]
+>Distraction might have been like a long rainy season, as it was for young Merton, or like the occasional hurricane that the monastic Merton knew. Today it is like a permanent, if attractively glamorous, fog. It’s the atmosphere we live in. It has, to be sure, “the phantasms of a lewd and somewhat idiotic burlesque,“ but for many today it’s no longer “fabricated in their imagination.”26 It is worked out in the graphic details of video games, YouTube, and pornography.[@borgmann_contemplation_2012 p.8]
 
 Jacobs' warning is to suggest that the pattern of technology is most clearly represented by commodification and mechanization:
 
->Commodification is the detachment of things and practices from their traditional contexts, and it is the conversion of things and practices into freely available commodities. Mechanization is the replacement of traditional contexts and competencies by increasingly powerful and concealed machineries. As workers we indenture ourselves for the requirements of the machinery. As consumers we revel in the abundance of unencumbered pleasures.[p.5]
+>Commodification is the detachment of things and practices from their traditional contexts, and it is the conversion of things and practices into freely available commodities. Mechanization is the replacement of traditional contexts and competencies by increasingly powerful and concealed machineries. As workers we indenture ourselves for the requirements of the machinery. As consumers we revel in the abundance of unencumbered pleasures.[@borgmann_contemplation_2012 p.5]
 
-The pressure that technology is placing on contemplation suggests -- according to Borgmann -- "that Contemplation needs a cloister, a space where the splendor of the simple is secure from mindless distraction and busyness."[p.9]
+The pressure that technology is placing on contemplation suggests -- according to Borgmann -- "that Contemplation needs a cloister, a space where the splendor of the simple is secure from mindless distraction and busyness."[@borgmann_contemplation_2012 p.9]
+
+Philosopher Aaron Kerr describes that Borgmann's task regarding technology and contemporary life is to:
+
+>invite society to consider just how everyday life is oriented to technology -- in short to inspire a more intentionally aware approach to technological usage, making it secondary to other practices involving more communal, conversational, and contemplative activities.[@kerr_borgmann_2016 pp.59-60]
+
+
 
 
 _questions & thoughts:_
