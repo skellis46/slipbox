@@ -14,14 +14,14 @@ Riskin goes on to quote Karl Popper ("scourge of relativism") from 1935:
 
 >Out of uninterpreted sense-experiences science cannot be distilled, no matter how industriously we gather and sort them ... bold ideas, unjustified anticipations, and speculative thought, are our only means for interpreting nature: our only organon, our only instrument, for grasping her.
 
-And then, in the interpration of quantum mechanics she describes the thinking of Bohr and Heisenberg:
+And then, in the interpretation of quantum mechanics she describes the thinking of Bohr and Heisenberg:
 
 >Bohr reflected that any observation involves an interference with the thing observed. Our own acts of observation are a part of the world we see: we are “both onlookers and actors in the great drama of existence.” Heisenberg elaborated the idea by emphasizing that “what we observe is not nature in itself but nature exposed to our method of questioning,” and that science was therefore “a part of the interplay between nature and ourselves.” Scientists in this period were recognizing the necessity of interpretation and putting that recognition to work in radical new ways that were neither humanistic nor scientific but integrally both. 
 
 
 _questions & thoughts:_
 
-- this is such a useful reminder as I keep attempting to tread the line between rationalism,  relativism and empiricism
+- this is such a useful reminder as I keep attempting to tread the line between rationalism, relativism and empiricism
 - there's some writing in [ellis-2013-dancing.pdf](hook://file/mmwNTYa8s?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=ellis-2013-dancing.pdf) that seems relevant:
 
 >For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception, and never can observe anything but the perception ...(Hume 1896: Book I, Part 4, Section 6; cited in Dennett, 2003 p.101)
