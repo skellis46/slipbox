@@ -19,6 +19,9 @@ _thoughts & links:_
 - [[human experience and language]]
 - the idea that contemplation can't be rationalized reminded me of Riskin's statement that [[interpretation remains present]] at every level.
 - thinking about authentic movement and what feels like a primary or contemplative experience of reality, or [[the really real]] #finger-pointing-moon 
+- see also the quote by Merton cited at the very top of [@matthews_heart_2011 p.128] -- 
+>Can contemplation still find a place in the world of technology and conflict which is ours? Does it belong only to the past? The answer to this is that, since the direct and pure experience of reality in its ultimate root is man's deepest need, contemplation must be possible if man is to remain human.
+
 
 
 ---
