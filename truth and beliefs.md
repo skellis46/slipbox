@@ -35,6 +35,7 @@ _consider:_
 - [[epistemic rationality]]
 - [[evidence and protecting the dissenters]]
 - [[descriptions and sense data]]
+- [[interpretation remains present]]
 
 _source:_ Lesswrong
 

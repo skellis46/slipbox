@@ -8,7 +8,7 @@ The Pali term _sati_ (or _smṛti_ in Sanskrit) was first translated into Englis
 
 Sati means memory or to remember and this sense of remembering is lost in the translation into _mindfulness_.
 
-The meditation teacher and author Sebene Selassie writes of the importance of remembering in meditation -- of coming back to the body (_bodyfulness_), or re-membering the body:
+The meditation teacher and author Sebene Selassie writes of the importance of remembering in meditation -- of coming back to the body (she calls this _bodyfulness_), or re-membering the body:
 
 >Interestingly, to dismember means to pull the body apart piece by piece ... Maybe we are re–membering. We are getting out of our heads, coming to our senses, cultivating an embodied awareness ... putting our bodies back together breath by breath.[@selassie_getting_nodate n.d.; n.p.]
 
@@ -21,7 +21,6 @@ _thoughts & links:_
 - [[contemplation beyond rationalization]]
 - #finger-pointing-moon -- useful in attempting to describe the experience of authentic movement (as a contemplative practice)?
 
-- #unfinished 
 
 ---
 
