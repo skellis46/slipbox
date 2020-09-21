@@ -10,19 +10,17 @@ _previous note:_
 
 #unfinished
 
-_questions & thoughts:_
+--- 
+
+_thoughts & links:_
+
 
 --- 
 
-_consider:_
 
-
-_source:_ 
-
-_local link:_ 
+_source:_ Written on wall of Bill Viola exhibition _Bill Viola / Michelangelo: Life Death Rebirth_ at Royal Academy of Arts, London in March 2019
 
 _citekey & zotero link:_ 
-
 
 _reference:_ 
 

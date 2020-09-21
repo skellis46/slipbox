@@ -30,6 +30,7 @@ Philosopher Aaron Kerr describes that Borgmann's task regarding technology and c
 _questions & thoughts:_
 
 - I'm interested in the 'technology' of the cloister. This is the ways in which -- thinking of Jacobs in [[mythical vs technological core of culture]] and how technology involves manipulation -- the cloister is in itself a technology. This is where Borgmann's writing is not specific enough about what he means by technology.
+- but also perhaps the artistic/poetic possibilities of the cloister -- a place for the "splendour of the simple"
 
 --- 
 

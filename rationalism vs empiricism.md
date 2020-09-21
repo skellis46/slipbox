@@ -34,6 +34,14 @@ _consider:_
 - #practice-research 
 - [[art as source of knowledge]]
 - [[epistemic rationality]]
+- [[constructivist epistemology]]
+- [[critical realism]]
+- [[human experience and language]]
+- [[standpoint epistemology]]
+- [[mesearch]]
+- [[hermeneutic circle]]
+- [[interpretation remains present]]
+- [[the observer is the observed]]
 
 
 _source:_ unknown

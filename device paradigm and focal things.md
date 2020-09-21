@@ -16,7 +16,7 @@ A focal thing is intimately connected to practice and is something that delivers
 
 _questions & thoughts:_
 
-- the word preservation really sticks out here for me. Borgmann also talks about how the device paradigm obscures the "destructive tendencies" of technological devices. Preservation's other is loss.
+- the word "preserved" really sticks out here for me. Borgmann also talks about how the device paradigm obscures the "destructive tendencies" of technological devices. Preservation's other is loss.
 - there's work here for me to do about understanding the role of somatic practices in and beyond dance. And what if I were to understand somatic practices as a technology akin to a device paradigm?
 - is this process of mechanisms becoming hidden inevitable? Is it worth reversing or resisting? 
 - what are the effects of the device paradigm? That is, how are we changed by it? 
