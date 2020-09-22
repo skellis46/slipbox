@@ -26,6 +26,7 @@ _consider:_
 - [[weber-fechner law]]
 - [[human experience and language]]
 - [[empirical research]]
+- [[interpretation remains present]]
 
 
 _source:_ rss

@@ -13,7 +13,7 @@ _questions & thoughts:_
 
 - citation from <https://philosophy.stackexchange.com/questions/6009/what-is-the-telos-of-a-proposition>
 - I don't know enough of this philosphy (indeed, I don't really know any of it) but my suspicion is that most (if not all) #practice-research  is based on propositions that become judgements. That we (systemically) seem incapable of staying with the potential truth and falsity of a proposition
-- in a way, my sense is that a proposition being false would add interest in my field  
+- in a way, my sense is that a proposition being false would add interest to the field of practice-research.  
 
 --- 
 
