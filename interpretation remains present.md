@@ -48,7 +48,7 @@ _consider:_
 - [[intuition and the intimate knowledge of a practice]]
 - [[first-person experience]]
 - just noting overlap with Varela's introduction in Journal of Conciousness Studies:
->Indeed no methodological approach to experience is neutral, it inevitably intro- duces an interpretative framework into its gathering of phenomenal data. [@varela_first-person_1999 p.14]
+>Indeed no methodological approach to experience is neutral, it inevitably introduces an interpretative framework into its gathering of phenomenal data. [@varela_first-person_1999 p.14]
 
 _source:_ forwarded by Jonathan Burrows
 

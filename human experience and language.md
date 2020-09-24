@@ -1,6 +1,6 @@
 # human experience and language
 
-_previous note:_      
+_previous note:_ [[finger pointing at the moon]] 
 
 ---
 

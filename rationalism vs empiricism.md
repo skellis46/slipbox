@@ -26,11 +26,13 @@ As an aside, Markie writes a concise list of the three defining questions of epi
 
 _questions & thoughts:_
 
+- what is not "sense experience"? That is, what kinds of activities or phenomena do not require "sense experiences"?
+
 --- 
 
 _consider:_
 
-- #finger-pointing-moon -- concerned with question 3, and to a certain extent an empirical approach to question 2
+- #finger-pointing-moon -- concerned with question 3, and to a certain extent an empirical approach to question 2. The concept of _warrant_ seems useful in how to understand its nature in something like practice-research.
 - #practice-research 
 - [[art as source of knowledge]]
 - [[epistemic rationality]]
