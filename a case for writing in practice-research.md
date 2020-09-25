@@ -12,13 +12,15 @@ Perhaps this analogy also holds for the role of writing in #practice-research. T
 
 _questions & thoughts:_
 
-- perhaps this accounts for how practice-research can exist both as 'artwork + writing' and 'writing alone'. That there are two epistemological actions in play (but that they are distinct). What is key with the 'artwork + writing' version is that it is much more able to directly engage in conversations in the research community
+- perhaps this accounts for how practice-research can exist both as 'artwork + writing' and 'artwork alone'. That there are two epistemological actions or premises in play (but that they are distinct). What is key with the 'artwork + writing' version is that it is much more able to directly engage in conversations in the research community
 
 --- 
 
 _consider:_
 
 - [[noë - strange tools]]
+- [[mäkelä - on reflecting and making in artistic research]]
+- #par_blog 
 
 
 _source:_ Searching for possible third-person collaborators for #finger-pointing-moon, thought of Alva Noë and then noticed this book (which I had already downloaded some years ago)
