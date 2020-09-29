@@ -6,27 +6,20 @@ _previous note:_
 ---
 
 
->Additionally, we may also have to admit that some forms of knowl- edge are context-specific, but that, nevertheless, some kind of knowledge-exchange (modification/realization) has taken place, which is of benefit to the discipline as a whole (in the way individuals or groups might produce new work, talk, write, experience performance etc.). This is one of the challenges that PaR presents to the ‘academy’. Must, then, PaR practitioners articulate their activities in a manner which the acad- emy finds acceptable (conventional, accessible)? Rye - p.164
+In the [PARIP list-serv conversation](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=PARIP) compiled by Peter Thomson, Caroline Rye[^1] writes:
 
 >... we feel that the academy should be more alive to the epistemological challenge that the idea of PaR presents _per se_ and therefore able to create models and practices which can acknowledge and value the transient types of knowledge which it perhaps creates?[Rye, in @thomson_practice_2003 p.165]
 
-
->I don’t really understand what Caroline Rye means by ‘context-specific’ knowledge -- knowledge that can’t be articulated outside of an ‘action/context’. Surely all knowledge can be symbolized. (The symbol isn’t ‘the thing itself’ of course, so there’s always a gap, a fissure, there.) I can, however, grasp the idea that in order to understand something one might have to ‘do it’.[Chamberlain, in @thomson_practice_2003 p.166]
-
-
-
-
-- example of proxy?
-
+[^1]: Caroline Rye was a postdoctoral researcher on the [PARIP project](https://www.bris.ac.uk/parip/).
 
 ---
 
 _thoughts & links:_
 
-- #practice-research 
+- What does Rye mean by "transient types of knowledge"? Is she referring to the apparent ephemerality of performance? Knowledge that disappears? What might that be? How might it be useful? 
+- consider that transience as an epistemic concept is acting as a proxy -- a way of keeping the epistemic work of performance at arm's length
+- curious that her thinking is also hinting at how #practice-research might challenge the Academy (as seen in questions in [[early questions for practice-research]]) 
 - #finger-pointing-moon 
-
-- #unfinished 
 
 ---
 
