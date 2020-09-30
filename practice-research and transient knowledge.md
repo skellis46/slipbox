@@ -1,7 +1,7 @@
 
 # practice-research and transient knowledge
 
-_previous note:_ 
+_previous note:_ [[thomson - practice as research]]
 
 ---
 
@@ -16,7 +16,7 @@ In the [PARIP list-serv conversation](https://www.jiscmail.ac.uk/cgi-bin/webadmi
 
 _thoughts & links:_
 
-- What does Rye mean by "transient types of knowledge"? Is she referring to the apparent ephemerality of performance? Knowledge that disappears? What might that be? How might it be useful? 
+- What did Rye mean by "transient types of knowledge"? Was she referring to the apparent ephemerality of performance? Knowledge that disappears? What might that be? How might it be useful? 
 - consider that transience as an epistemic concept is acting as a proxy -- a way of keeping the epistemic work of performance at arm's length
 - curious that her thinking is also hinting at how #practice-research might challenge the Academy (as seen in questions in [[early questions for practice-research]]) 
 - #finger-pointing-moon 

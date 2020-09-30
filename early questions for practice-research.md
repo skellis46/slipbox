@@ -1,6 +1,6 @@
 # early questions for practice-research
 
-_previous note:_ [[practice-research and transient knowledge]]
+_previous note:_ [[thomson - practice as research]]
 
 ---
 
@@ -40,6 +40,8 @@ _thoughts & links:_
 - #par_blog 
 - [[a case for writing in practice-research]]
 - [[artefacts and writing in practice-research]]
+- [[practice-research and transient knowledge]]
+
 
 ---
 
