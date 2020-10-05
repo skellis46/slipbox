@@ -11,7 +11,7 @@ _previous note:_
 _thoughts & links:_
 
 - look up Welsch, Badiou in relation to those terms
-- The Benjamin quote makes me think that #practice-research is really something trying to fit into a political (read institutional) programme. It's an unholy conversion - from art to artistic-research. So where does that leave us/me? What value might there be in the favour being returned? That PaR might somehow be valuable to the arts (outside of the academy). Perhaps this is something for #finger-pointing-moon 
+- The Benjamin quote makes me think that #practice-research is really something trying to fit into a political (read institutional) programme. It's an unholy conversion -- from art to artistic-research. So where does that leave us/me? What value might there be in the favour being returned? That PaR might somehow be valuable to the arts (outside of the academy). Perhaps this is something for #finger-pointing-moon 
 
 - #unfinished 
 
