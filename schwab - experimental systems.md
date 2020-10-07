@@ -4,28 +4,22 @@ _previous note:_
 
 ---
 
-This is a chapter by Michael Schwab as part of de Assis and Schwab's edited volume _Futures of the Contemporary_ (2019). In it Schwab attempts to theorise the relationship between artistic research, contemporary art and _contemporaneity_. The writing is abstract and difficult to comprehend. In this note, what follows are a few parts of the chapter that I found useful.
+This is a chapter by Michael Schwab as part of de Assis and Schwab's edited volume _Futures of the Contemporary_ (2019). In it Schwab attempts to theorise the relationship between artistic research, contemporary art and _contemporaneity_. The writing is abstract and difficult to comprehend, and as such difficult to summarise. In this note, what follows are a few parts of the chapter that I found useful.
 
 >It is striking that most discourses that seek to emphasise or even supply an epistemology for contemporary art are more likely to approach it from an idealist rather than empiricist perspective, for which in particular the experimental sciences may stand.[@schwab_experimental_2019 pp.161-162]
 
-A reminder of _epistemic things_ and _technical objects_:
+Schwab does not make it clear what an idealist epistemic perspective is.
 
->An epistemic thing appears as an as (yet) unknown material trace in an experimental system, which over time as it is increasingly understood is rendered into what Rheinberger calls a technical object, that is, a blackboxed, functional unit ready to be deployed either in future experimental systems or the marketplace.[@schwab_experimental_2019 pp.162-163]
+He reminds us that: 
 
-Schwab discusses how Rheinberger considers that epistemic potential of a _thing_ is reduced as that thing comes to be known or closer to being a technical object. It is also possible for a technical object to be re-rendered as an epistemic thing "should the closure (the blackbox) around the epistemic thing that makes it a technical object not retain its specific functional place in the ensemble of the experimental system"[@schwab_experimental_2019 p.163] 
+>Rheinberger (2016) argues for necessary encounters between the sciences and humanities to find an approach to knowledge objects mindful of their own inherent dynamism that neither an empiricist nor rationalist image of research can touch.[@schwab_experimental_2019 p.165]
 
+As Schwab thinks through the relationship between artistic research and contemporary art he proposes that we must move away from objects with a "more or less stable historical identity"[@schwab_experimental_2019 p.166] to "more precarious, ambivalent, or provisional things."[@schwab_experimental_2019 p.166] He describes how Borgdorff [-@borgdorff_conflict_2012] thinks artworks are epistemic things rather than technical objects and quotes him as follows:
 
->Experimental systems are material systems of differential play designed to register _unprecedented events_. Being unprecedented, those events must be of a type that exceeds what is currently known; thus, they tend to first appear as disturbance, irritation, contamination, or noise—that is, as by-products of what knowledge can already cover. Out of those traces that mark unprecedented events, epistemic things emerge as initial, tentative supplements to what is seen as the cause of those events.[@schwab_experimental_2019 p.163]
+>within artistic practices, artworks are the hybrid objects, situations, or events--the epistemic things--that constitute the driving force in artistic research.[Borgdorff, 2012 p.193, in @schwab_experimental_2019 p.166]
 
-
-
->The journey from trace (comparatively unknown) to technical object (com- paratively known) is described by Rheinberger (1994) as historial, that is, history-making rather than historical, that is, made-in-history. The notion of historial here is also loaned from Derrida in order to express two different, simultaneous currents of history. The first looks forward into a future, open horizon built on past facts and secured by the chronological passing of time. The second looks backward into a rich bed of possible origins that need to be actualised should the future be possible. A historical perspective values only the first current, where events happen in history and affect only the future; a historial perspective, in contrast, accounts for both currents. An event looked at historially may be seen like a temporal mirror with time running both forward to a future and backward to its past.163
-
->In the context of the argument about artistic research that I am attempting here, at least two aspects deserve attention. First, with regard to research, failures to engage with deeper, historial notions of history risk impoverishing the research to a degree at which it becomes impossible. Hence, Rheinberger (2016) argues for necessary encounters between the sciences and humanities to find an approach to knowledge objects mindful of their own inherent dyna- mism that neither an empiricist nor rationalist image of research can touch.[@schwab_experimental_2019 p.165]
-
->As suggested by the above critique of a modernist approach, emphasis has to be moved from objects with a more or less stable historical identity—like “masterworks” that represent the achievements of the research—to more pre- carious, ambivalent, or provisional things. In line with this thinking, Borgdorff understands artworks as epistemic things rather than technical objects, as could also have been claimed. As Borgdorff (2012, 193) says, “within artistic practices, artworks are the hybrid objects, situations, or events—the epistemic things—that constitute the driving force in artistic research.” He attests a lack of completeness that indicates (via Adorno) both their status as art and their potential to continue to unfold into knowledge. p.166
-
--- i like the idea of provisional things 
+According to Schwab, Borgdorff is focusing on the _potential_ of artworks to become knowledge. Artworks are _provisional things_ filled with epistemic potential (after Rheinberger -- see [[epistemic things and technical objects]]).
+ 
 
 >Regardless of how one may finally decide on the ontology of contemporary works of art, when linking it to Rheinberger’s philosophy, these diverse positions agree in one point: value lies with what is unknown, underdetermined, and open, as associated with epistemic things, and not with what is known, identified, and closed, which is the functional position of technical objects.p.167
 
@@ -36,7 +30,9 @@ Schwab discusses how Rheinberger considers that epistemic potential of a _thing_
 
 >While an experimental system to Rheinberger is not (and, in fact, must not) be void of contradictions, it has to be sufficiently coherent to work. Epistemic cultures that combine experimental systems in a patchwork, in contrast, can be less coherent and their objects can be less con-[p.171]crete, resulting in a less resonant temporal structure.[@schwab_experimental_2019 pp.170-171]
 
->To be sure, “the aesthetic” then is to be understood in the sense neither of aisthesis nor of philosophy of art, but “as part of the sense of world created through art” (Schwab 2018b, 194); while “the epistemic” does not offer a system of know- ledge, but a project interested in expanding what can be understood—and how it can be understood.p.174
+- what does a coherent experimental system in practice-research even mean? 
+
+>To be sure, “the aesthetic” then is to be understood in the sense neither of aisthesis nor of philosophy of art, but “as part of the sense of world created through art” (Schwab 2018b, 194); while “the epistemic” does not offer a system of knowledge, but a project interested in expanding what can be understood--and how it can be understood.p.174
 
 >artistic research does not extend history in some form of aspired replacement of contemporary art (innovation); instead, artistic research makes different histories and futures possible (invention). p.174
 
@@ -45,11 +41,9 @@ Schwab discusses how Rheinberger considers that epistemic potential of a _thing_
 _thoughts & links:_
 
 - it's not so clear to what Schwab means by an _idealist perspective_
-- concept of _epistemic potential_ (p.163) is intriguing for #finger-pointing-moon; as are technical objects. Perhaps I am looking at epistemic potential (and limits) of observation in experimental body-based practices (why experimental? -- more like AM is highly distilled -- a more closed 'system' with which to observe the complexity). 
-- what might a technical object be in #practice-research? That is, am I wanting to build a technical object -- through the lexicon? or through a system of observation? 
-- what might an _unprecedented event_ be in #finger-pointing-moon?
-
+- how to deal with provisional things (perhaps have its own note?)? -- that is, if PaR is just producing a whole lot of provisional stuff, then what? whose job is it to develop these provisional, unfinished epistemic potentialities into even epistemic things, let alone technical objects? 
 - #unfinished
+
 ---
 
 _source:_ <https://b-ok.cc> (happenstance)
