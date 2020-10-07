@@ -4,6 +4,8 @@ _previous note:_
 
 ---
 
+**working copy test**
+
 >It is striking that most discourses that seek to emphasise or even supply an epistemology [p.162] for contemporary art are more likely to approach it from an idealist rather than empiricist perspective, for which in particular the experimental sciences may stand.[@schwab_experimental_2019 pp.161-162]
 
 >I am testing how a structure concep- tualised in the history of science to describe temporal phenomena in early-twentieth-century laboratories may help shed light on something in art that is seemingly unrelated.(p.162)
