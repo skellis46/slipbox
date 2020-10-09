@@ -6,7 +6,7 @@ _previous note:_ [[borgdorff - debate on research in the arts]]
 
 Borgdorff distinguishes between three different types of art research: Research on the arts, research for the arts, and research in the arts. His thinking is a variant of Frayling's very early categorisation of research _into_, _for_ or _through_ art.[@frayling_research_1993]
 
-Research on the arts has art practice as the _object_ of the research.	Borgdorff has also called this the "interpretative perspective"[@borgdorff_debate_2006 p.6] and states that in this kind of research the object is "untouched"[p.6] by the researcher.
+Research on the arts has art practice as the _object_ of the research. Borgdorff has also called this the "interpretative perspective"[@borgdorff_debate_2006 p.6] and states that in this kind of research the object is "untouched"[p.6] by the researcher.
 
 Research for the arts is _applied_ form of research in that art is "not so much the object of investigation, but its objective"[p.6] It is research that produces "insights and instruments", "the tools and the knowledge of materials" that are needed by artists. Borgdorff has also this an "instrumental perspective"[p.6]
 

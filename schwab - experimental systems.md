@@ -36,6 +36,8 @@ According to Schwab, Borgdorff is focusing on the _potential_ of artworks to bec
 
 >artistic research does not extend history in some form of aspired replacement of contemporary art (innovation); instead, artistic research makes different histories and futures possible (invention). p.174
 
+
+
 ---
 
 _thoughts & links:_
