@@ -1,6 +1,6 @@
 # schwab - experimental systems
 
-_previous note:_ 
+_previous note:_ [[art practice and artistic research]]
 
 ---
 
@@ -10,31 +10,31 @@ This is a chapter by Michael Schwab as part of de Assis and Schwab's edited volu
 
 Schwab does not make it clear what an idealist epistemic perspective is.
 
-He reminds us that: 
+Following Rheinberger, Schwab works to make a case for epistemic objects that resist -- or are outside of -- empiricist or rationalist mode of research:
 
 >Rheinberger (2016) argues for necessary encounters between the sciences and humanities to find an approach to knowledge objects mindful of their own inherent dynamism that neither an empiricist nor rationalist image of research can touch.[@schwab_experimental_2019 p.165]
 
-As Schwab thinks through the relationship between artistic research and contemporary art he proposes that we must move away from objects with a "more or less stable historical identity"[@schwab_experimental_2019 p.166] to "more precarious, ambivalent, or provisional things."[@schwab_experimental_2019 p.166] He describes how Borgdorff [-@borgdorff_conflict_2012] thinks artworks are epistemic things rather than technical objects and quotes him as follows:
+As Schwab thinks through the relationship between artistic research and contemporary art he proposes that we must move away from objects (not clear what he means by objects) with a "more or less stable historical identity"[@schwab_experimental_2019 p.166] to "more precarious, ambivalent, or provisional things."[@schwab_experimental_2019 p.166] He describes how Borgdorff [-@borgdorff_conflict_2012] thinks artworks are epistemic things rather than technical objects and quotes him as follows:
 
 >within artistic practices, artworks are the hybrid objects, situations, or events--the epistemic things--that constitute the driving force in artistic research.[Borgdorff, 2012 p.193, in @schwab_experimental_2019 p.166]
 
 According to Schwab, Borgdorff is focusing on the _potential_ of artworks to become knowledge. Artworks are _provisional things_ filled with epistemic potential (after Rheinberger -- see [[epistemic things and technical objects]]).
  
-
->Regardless of how one may finally decide on the ontology of contemporary works of art, when linking it to Rheinberger’s philosophy, these diverse positions agree in one point: value lies with what is unknown, underdetermined, and open, as associated with epistemic things, and not with what is known, identified, and closed, which is the functional position of technical objects.p.167
+>Regardless of how one may finally decide on the ontology of contemporary works of art, when linking it to Rheinberger’s philosophy, these diverse positions agree in one point: value lies with what is unknown, underdetermined, and open, as associated with epistemic things, and not with what is known, identified, and closed, which is the functional position of technical objects.[@schwab_experimental_2019 p.167]
 
 - this is what I'm proposing ... to know and to identify. to devalue something? 
-- not sure about this though. Because Schwab's use of epistemic thing just indicates to me that we end up (like in JAR) with proliferation of (useless) epistemic things. It's the next step -- the in dialogue that is the thing that is impoverished??? 
-
->So what about an epistemic thing’s temporal structure? To answer the question, it is important to remember that an epistemic thing is not a material object but an event emergent from the differential play of the experimental system and its resultant traces or graphemes, as Rheinberger prefers to call them. In effect, the event isn’t first of all an abrupt rupture in the fabric of knowledge, although it may be retrospectively narrated as such (Rheinberger 2013, 203). Rather, traces have to resonate (Rheinberger 1997, 65) and come together within the different spaces of representation employed in the system as well as in its temporal structure. The event has to be multiple, that is, recurrent, since this is how difference is registered in time. Still, without such a coming together, there is no event and no epistemic thing. p.167
+- not sure about this though. Because Schwab's use of epistemic thing just indicates to me that we end up (like in JAR) with proliferation of (useless) epistemic things. Is it the next step -- the dialogue -- that is the thing that is impoverished?
+- perhaps though the issue is not about the epistemic potential of artistic research, but rather what the _next thing or step_ is. That is, we are all so busy producing thousands of epistemic things, but with no capacity to render them as useful technical objects. We are filling the world with epistemic singular pieces of junk that are not in any form of dialogue with each other
 
 >While an experimental system to Rheinberger is not (and, in fact, must not) be void of contradictions, it has to be sufficiently coherent to work. Epistemic cultures that combine experimental systems in a patchwork, in contrast, can be less coherent and their objects can be less con-[p.171]crete, resulting in a less resonant temporal structure.[@schwab_experimental_2019 pp.170-171]
 
-- what does a coherent experimental system in practice-research even mean? 
+- what does a coherent experimental system in practice-research even mean? This is frustrating in that Schwab is alluding to important things but the looseness of his writing leaves unnecessary space for confusion, misapprehension, and ambiguity. 
 
->To be sure, “the aesthetic” then is to be understood in the sense neither of aisthesis nor of philosophy of art, but “as part of the sense of world created through art” (Schwab 2018b, 194); while “the epistemic” does not offer a system of knowledge, but a project interested in expanding what can be understood--and how it can be understood.p.174
+>“the aesthetic” then is to be understood in the sense neither of _aisthesis_ nor of philosophy of art, but “as part of the sense of world created through art” (Schwab 2018b, 194); while “the epistemic” does not offer a system of knowledge, but a project interested in expanding what can be understood--and how it can be understood.[@schwab_experimental_2019 p.174]
 
->artistic research does not extend history in some form of aspired replacement of contemporary art (innovation); instead, artistic research makes different histories and futures possible (invention). p.174
+This is another example of asymptotic language -- language that appears to be getting closer to the thing but never ever getting there. As if by using the word "how" it describes how something can be understood, but really it's alluding to the possibility of knowing _how_ something might be understood (but without any sense of a possible mechanism for doing this). 
+
+>artistic research does not extend history in some form of aspired replacement of contemporary art (innovation); instead, artistic research makes different histories and futures possible (invention). [@schwab_experimental_2019 p.174]
 
 
 
@@ -44,6 +44,7 @@ _thoughts & links:_
 
 - it's not so clear to what Schwab means by an _idealist perspective_
 - how to deal with provisional things (perhaps have its own note?)? -- that is, if PaR is just producing a whole lot of provisional stuff, then what? whose job is it to develop these provisional, unfinished epistemic potentialities into even epistemic things, let alone technical objects? 
+- Schwab's use of "provisional things" (p.166) is useful for #finger-pointing-moon because he inadvertently makes a case for why authentic movement 
 - #unfinished
 
 ---
