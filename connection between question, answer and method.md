@@ -4,7 +4,7 @@ _previous note:_ [[biggs and buchler - eight criteria for practice-based researc
 
 ---
 
-A central theme of Biggs and Büchler's article _Eight Criteria for Practice-Based Research in the Creative and Cultural Industries_ is that practice-research ought to adopt what they call a Situated Position. That is, there should be equal conditions for all types of research, and they are interested in these commonalities. They describe the opposing position -- that practice-research should be "granted special criteria and regulations"[@biggs_eight_2008 p.6] -- the isolationist position.
+A central theme of Biggs and Büchler's article _Eight Criteria for Practice-Based Research in the Creative and Cultural Industries_ is that practice-research ought to adopt what they call a Situated Position. That is, there should be equal conditions for all types of research, and they are interested in these commonalities. They describe the opposing position -- that practice-research should be "granted special criteria and regulations"[@biggs_eight_2008 p.6] -- as the Isolationist Position.
 
 Their Situated Position becomes clear in their discussion of the third of four criteria for academic research: _method_.
 
@@ -22,10 +22,11 @@ In other words, there is an iterative or cyclical nature between questions, meth
 _thoughts & links:_
 
 - I like the simplicity of their use of the word 'answers' but I tend to think the word 'claims' is more appropriate in practice-research
-- my sense is that it's common in PaR for students to start with an assumed method they call practice-research (or whatever version of the name is most common or fashionable): "I'm a PaR student". Imagine hearing someone say "I'm a scientific method student". This is even more curious given that PaR is not a singular method, and nor do its researchers "follow a single specific or dominant model of enquiry, as happens in other subjects".[@biggs_eight_2008 p.11] ... **build on this in relation to increasing the size of the method circle and what this does to constrain possible size and shape and colour (conditions) or other circles**
-
-
-- #unfinished 
+- [[specialist and generalist audience in practice-research]] -- for rationale behind Situated Position
+- my sense is that it's common in PaR for students to start with an assumed method they call practice-research (or whatever version of the name is most common or fashionable): "I'm a PaR student". Imagine hearing someone say "I'm a scientific method student". This is even more curious given that PaR is not a singular method, and nor do its researchers "follow a single specific or dominant model of enquiry, as happens in other subjects".[@biggs_eight_2008 p.11] ... 
+- if you were to start a research project with an overly large circle representing "method", then what does that do to the nature of the questions that might emerge? And what does it in turn do to the nature of the contribution, findings or _claims_ of one's research? These circles -- question, answer and method -- are inter-dependent and the conditions and size of each circle influences the others
+- #par_blog 
+- [[early questions for practice-research]]
 
 ---
 

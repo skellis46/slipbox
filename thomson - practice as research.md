@@ -16,6 +16,7 @@ _thoughts & links:_
 
 - #practice-research 
 - #par_blog 
+- [[early questions for practice-research]]
 
 ---
 
