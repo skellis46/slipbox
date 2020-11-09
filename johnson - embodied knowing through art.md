@@ -14,7 +14,7 @@ _previous note:_
 
 >Aristotle recognized a more positive role for artistic imitations, claiming that poetry can ‘present the kind of thing that might be’, thereby suggesting that the arts can reveal the possibilities of experience. however, Aristotle thought that the arts show what is possible via _mimesis_ of human actions, whereas the sciences give causal accounts of how things come to be as they are and why they behave as they do.[@johnson_embodied_2011 p.143] -- see [[research, anticipation and the future]]
 
-His description of Kant's influence on aesthetics and knowledge is pretty useful. Makes me think that there are two branches to PaR: the more common which is to re-configure what knowledge is; the less common is the Situated Position of Biggs and Buchler. Also possible here to tie in with Friedman's position on how little art practice is actually research? 
+His description of Kant's influence on aesthetics and knowledge is pretty useful. Makes me think that there are two epistemic branches to PaR: the more common which is to re-configure what knowledge is; the less common is the Situated Position of Biggs and Buchler. Also possible here to tie in with Friedman's position on how little art practice is actually research? 
 
 ---
 
