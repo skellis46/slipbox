@@ -13,7 +13,7 @@ _questions & thoughts:_
 
 - fascinating the wording of "embody knowledge", as if it 'contains' the knowledge -- Robin Nelson uses this phrase in [@nelson_practice-as-research_2006](hook://file/pGff6hkAL?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=nelson-2006-knowledge.pdf)
 - the limits of the word _description_ are equally fascinating; as if we merely describe the _new knowledge_
-- it's hard to read this text -- 10 years after it was published -- and to note how little we have travelled even since then
+- it's hard to read this text -- 10 years after it was published -- and now to notice how little we have travelled even since then
 - noting also their use of the word 'apprehensions' like Scrivener (who they cite on p.124)
 - there is more in their chapter about the role of the writing as 'context'
 
