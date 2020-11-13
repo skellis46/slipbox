@@ -21,6 +21,10 @@ This chapter (never has a word seemed so inappropriate) is an artist working wit
 _thoughts & links:_
 
 - this is a quite remarkable example of practice-research might exist both as artwork + writing, and 'artwork alone'. 
+- [[information, reflection and insight]]
+- see also Jacobs on [[future responsibility and stewardship]] -- something about promising towards the future
+- [[hermeneutic circle]]
+- [[noë - strange tools]]
 
 ---
 
