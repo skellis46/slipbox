@@ -4,7 +4,7 @@ _previous note:_  [[senses united by action]]
 
 ---
 
-Kate Murphy is a journalist and her book _You’re Not Listening: What You’re Missing and Why it Matters_ is certainly not a scholarly text. She does describe a lot of research in and about listening and I was really struck by the simple idea that listening requires curiosity. She cites the American author, broadcaster and historian Studs Terkel who simply said: "The obvious tool of my trade is the tape recorder ... But I suppose the real tool is curiosity."[@murphy_youre_2020 Chapter 3 n.p.] Murphy writes that curiosity is dampened or diminished when we think we know how a conversation is going to go, and this in turn disrupts our capacity to listen. 
+Kate Murphy is a journalist and her book _You’re Not Listening: What You’re Missing and Why it Matters_ is not a scholarly text. She does describe a lot of research in and about listening and I was really struck by the simple idea that listening requires curiosity. She cites the American author, broadcaster and historian Studs Terkel who simply said: "The obvious tool of my trade is the tape recorder ... But I suppose the real tool is curiosity."[@murphy_youre_2020 Chapter 3 n.p.] Murphy writes that curiosity is dampened or diminished when we think we know how a conversation is going to go, and this in turn disrupts our capacity to listen. 
 
 
 _questions & thoughts:_
