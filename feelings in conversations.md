@@ -13,8 +13,8 @@ _questions & thoughts:_
 - I wonder to what extent feelings are present in _normal_ (non-difficult) conversations?
 - I ought to look at what kinds of feelings they are talking about
 - am reminded of this emotion wheel: <https://www.skellis.net/blog/emotions>
-- there's a link here to somatic practices and sensitising the body to direct sensation and experience
-- note that this is the first zettel that I used the 'previous note' system as a branch (ie not simply the previous note that was constructred). Feels like falling into a wormhole.
+- there's a link here to somatic practices and sensitising the body to direct sensation and experience [[direct experience through the senses]]
+- note that this is the first zettel that I used the 'previous note' system as a branch (ie not simply the previous note that was constructed). Feels like falling into a wormhole.
 
 --- 
 

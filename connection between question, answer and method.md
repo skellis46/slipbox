@@ -16,6 +16,8 @@ In this diagram Biggs and Büchler reveal the inter-relational nature of questio
 
 In other words, there is an iterative or cyclical nature between questions, method and answers. Certain conditions and types for each _afford_ certain possibilities in a research project. 
 
+Their Situated Position is represented by the placement of _knowledge_ in the diagram, and how it traverses both specialised and general academic audiences. In other words, the conditions for research in practice-research ought also to be recognisable to researchers working in other (non-artistic research) fields.
+
 
 ---
 
