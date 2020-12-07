@@ -13,8 +13,8 @@ _previous note:_ [[the really real]]
 _thoughts & links:_
 
 - #finger-pointing-moon 
+- such a clear example of the proxy and what we must attempt to balance (or keep in the air) during practice-research projects or fieldwork
 
-- #unfinished 
 
 ---
 

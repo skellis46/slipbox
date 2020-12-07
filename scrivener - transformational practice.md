@@ -51,6 +51,7 @@ _thoughts & links:_
 - Scrivener discusses Frayling's conception of [[research on, for and in the arts]] on p.261.
 - [[a case for writing in practice-research]] -- see pp 263 and 264 in relation to Rancière
 - fascinating how he calls on a historical painter to exemplify research in the arts. Scrivener is in danger of doing precisely what Frayling was worried about: "we feel we don’t want to be in a position where the entire history of art is eligible for a postgraduate research degree"[@frayling_research_1993 p.5]
+- I don't really understand his use of Constable -- what are the politics of this choice/decision? 
 - regarding conjunctive/disjunctive art, my assumption is that practice-research functions best when it is disjunctive (akin to Constable in Scrivener's thinking). 
 
 >Constable was advocating that if the artist is to see, then the artist must know: to know, the artist should acquire scientific understanding of nature and its effects, and, guided by a scientific method of observation, apply that understanding in poetic interpretation.[@scrivener_transformational_2011 pp.267]

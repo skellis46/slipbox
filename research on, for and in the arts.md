@@ -12,6 +12,9 @@ Research for the arts is _applied_ form of research in that art is "not so much 
 
 Research in the arts "does not observe a distance between the researcher and the practice of art"[p.7]. It is where the artistic practice is a vital part of the research process and outcome. 
 
+Add Scrivener's version (see reference below)
+
+
 ---
 
 _thoughts & links:_

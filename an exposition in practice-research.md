@@ -20,7 +20,7 @@ And here are those references:
 - Schwab, Michael. 2011. “Editorial JAR 0.” JAR 0. Accessed 4 February 2019. <http://www.jar-online.net/issues/0>. [schwab-2011-editorial.pdf](hook://file/pYa68s2lQ?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=schwab-2011-editorial.pdf)
 - 2012b. “Exposition Writing.” In Yearbook for Artistic Research and Development, 16–26. Stockholm: Swedish Research Council
 - Schwab, Michael, and Henk Borgdorff. 2014. Introduction to The Exposition of Artistic Research: Publishing Art in Academia, edited by Michael Schwab and Henk Borgdorff, 8–20. Leiden: Leiden University Press. [schwab_borgdorff-2014-introduction.pdf](hook://file/pTXHBnTLr?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=schwab_borgdorff-2014-introduction.pdf)
-	- The Exposition of Practice as Research as Experimental System.” In Artistic Experimentation in Music: An Anthology, edited by Darla Crispin and Bob Gilmore, 31–40. Orpheus Institute Series. Leuven: Leuven University Press.[crispin_gilmore-2014-artistic.pdf](hook://file/pYbRHa9rm?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=crispin_gilmore-2014-artistic.pdf)
+- Schwab, Michael. 2014. 'The Exposition of Practice as Research as Experimental System.'' In Artistic Experimentation in Music: An Anthology, edited by Darla Crispin and Bob Gilmore, 31–40. Orpheus Institute Series. Leuven: Leuven University Press.[crispin_gilmore-2014-artistic.pdf](hook://file/pYbRHa9rm?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=crispin_gilmore-2014-artistic.pdf)
 
 ---
 
