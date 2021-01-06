@@ -1,0 +1,1 @@
+{"literatureNoteTitleTemplate":"@{{citekey}}","literatureNoteFolder":"Reading notes","literatureNoteContentTemplate":"---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n","citationExportPath":"/Users/skellis/Dropbox/ske_library.json"}
