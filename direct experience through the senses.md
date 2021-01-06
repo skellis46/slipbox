@@ -4,7 +4,7 @@ _previous note:_ [[senses united by action]]
 
 ---
 
-In their book _Mindfulness_, Clinical Psychologist Mark Williams and meditation teacher Danny Penman describe the way the mind can not only think, but can also be aware that it is thinking. They write that we humans are also able to experience things directly through our senses without needing langauge "to stand as an intermediary between us and the world".[@williams_mindfulness_2012 Chapter 1]
+In their book _Mindfulness_, Clinical Psychologist Mark Williams and meditation teacher Danny Penman describe the way the mind can not only think, but can also be aware that it is thinking. They write that we humans are also able to experience things directly through our senses without needing language "to stand as an intermediary between us and the world".[@williams_mindfulness_2012 Chapter 1]
 
 _questions & thoughts:_
 
