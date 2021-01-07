@@ -1,3 +1,7 @@
+---
+aliases: [on through for]
+---
+
 # research on, for and in the arts
 
 _previous note:_ [[borgdorff - debate on research in the arts]]

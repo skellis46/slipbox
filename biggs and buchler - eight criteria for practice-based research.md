@@ -1,3 +1,8 @@
+---
+aliases: [specificity in practice-research]
+tags: []
+---
+
 # biggs and buchler - eight criteria for practice-based research
 
 _previous note:_ [[art practice and artistic research]]

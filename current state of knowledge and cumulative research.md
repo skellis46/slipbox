@@ -1,3 +1,8 @@
+---
+aliases: [cumulative research]
+tags: []
+---
+
 # current state of knowledge and cumulative research
 
 _previous note:_ [[biggs and buchler - eight criteria for practice-based research]]

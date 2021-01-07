@@ -1,6 +1,6 @@
 # aesthetics and epistemics in contemporary art
 
-_previous note:_ 
+_previous note:_ [[schwab - experimental systems]]
 
 ---
 

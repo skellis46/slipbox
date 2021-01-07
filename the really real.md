@@ -8,7 +8,7 @@ Kerr asks this question of contemplation:
 
 >With the contemporary emergence of this exponentially expansive technology inserted daily within our common life, how can we touch, as it were, the really real?[@kerr_borgmann_2016 p.65]
 
-In this sense, contemplation is a type of "umediated encounter"[@kerr_borgmann_2016 p.65], and the _really real_ is positioned by Merton (as quoted by Kerr) in opposition to pseudo-reality.  
+In this sense, contemplation is a type of "unmediated encounter"[@kerr_borgmann_2016 p.65], and the _really real_ is positioned by Merton (as quoted by Kerr) in opposition to pseudo-reality.  
 
 At about the same time, I came across the same term in George Mumford's book _The Mindful Athlete_ (I love such coincidences). Mumford discusses his rehabilitation from serious addictions and as part of the Twelve Step program the first step is to have believe or have faith in a power greater than himself. Mumford wonders if this might be "God", but then cites the write Anne Lamott who also was struggling with words like God and prayer: 
 
