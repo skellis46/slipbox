@@ -25,7 +25,7 @@ _thoughts & links:_
 - concept of _epistemic potential_ (p.163) is intriguing for #finger-pointing-moon; as are technical objects. Perhaps I am looking at epistemic potential (and limits) of observation in experimental body-based practices (why experimental? -- more like AM is highly distilled -- a more closed 'system' with which to observe the complexity). 
 - what might a technical object be in #practice-research? That is, am I wanting to build a technical object -- through the lexicon? or through a system of observation? 
 - what might an _unprecedented event_ be in #finger-pointing-moon?
-- [[differential play]] -- link to separate note from same paper. Not yet sure I understand differential play at all
+- [[differential play]] -- link to separate note from same paper. Not yet sure I understand [[differential play]] at all
 
 ---
 

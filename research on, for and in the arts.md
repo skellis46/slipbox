@@ -12,7 +12,7 @@ Borgdorff distinguishes between three different types of art research: Research 
 
 Research on the arts has art practice as the _object_ of the research. Borgdorff has also called this the "interpretative perspective"[@borgdorff_debate_2006 p.6] and states that in this kind of research the object is "untouched"[p.6] by the researcher.
 
-Research for the arts is _applied_ form of research in that art is "not so much the object of investigation, but its objective"[p.6] It is research that produces "insights and instruments", "the tools and the knowledge of materials" that are needed by artists. Borgdorff has also this an "instrumental perspective"[p.6] These are "studies in the service of art practice"[@borgdorff_debate_2006, p.6]
+Research for the arts is _applied_ form of research in that art is "not so much the object of investigation, but its objective"[p.6] It is research that produces "insights and instruments", "the tools and the knowledge of materials" that are needed by artists. Borgdorff has also called this an "instrumental perspective"[p.6] These are "studies in the service of art practice"[@borgdorff_debate_2006, p.6]
 
 Research in the arts "does not observe a distance between the researcher and the practice of art"[p.7]. It is where the artistic practice is a vital part of the research process and outcome. 
 
