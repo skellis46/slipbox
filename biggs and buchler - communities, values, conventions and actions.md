@@ -1,14 +1,9 @@
 # biggs and buchler - communities, values, conventions and actions
 
-_previous note:_ 
+_previous note:_ [[biggs and buchler - eight criteria for practice-based research]]
 
 ---
 
->There are different names for this kind of research, and some communities are very sensitive about the different nuances that these names connote. Finding a good name to describe the field has proven to be difficult, and the list of names used by others is very long. For example, terms like ‘artistic research’ are rejected by the design community; ‘creative research’ suggests that other research is not creative; ‘practice-based’ does not clarify what kind of practice, e.g. arts, education, healthcare, nor does the term clarify how practices leading to research outcomes differ from practices leading to professional outcomes.[@biggs_communities_2011 p.82]
-
-
-
->In particular, there is an interest in research that is not historically led or to do with technology, but instead is to do with the actual production of the stuff itself. We think that the problem arises when these professional activities are pushed into the academic context.[p.82]
 
 >We observe two different communities presenting conflicting claims: the community of academic researchers working in contexts such as university departments, and the community of professional practitioners working in contexts such as the concert hall or the art gallery. We also observe these communities being thrown together by external forces, and a new community of so-called practitioner-researchers becoming visible (Chapter 1). In a nutshell, the practitioner-researcher archetype refers to individuals who hold practitioner values but produce research in an academic context.
 >In the parent communities, we see dissatisfaction. on the one hand, we hear the academic community at large – understood as academic researchers in any academic area and discipline – express the dissatisfaction that what creative practitioners produce is not academic research. On the other hand, we hear the dissatisfaction of the creative practitioner community that their values are not reflected in traditional academic research models and, as a result, when they use these models the outcomes are not relevant to them. Hence, there is dissatisfaction in both camps. In this chapter we identify the source and diagnose the nature of dissatisfaction that we observe in both the academic and creative practice communities, and discuss some of the actions that are employed in response to the problem.[p.83]

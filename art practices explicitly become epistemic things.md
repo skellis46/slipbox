@@ -19,11 +19,11 @@ Just to note that Borgdorff discusses ontologic and epistemic boundaries on the 
 
 _questions & thoughts:_
 
-- This seems to be like an everyday object being classified or 'viewed' as an object of art once it is displayed in a gallery (think Duchamp). In other words, might it be possible for me to write anything that, once published in JAR, is confirmed as an epistemic thing? What are the limits here? 
-- does an epistemic thing simply "set our thinking in motion"? 
+- This seems to be like an everyday object being classified or 'viewed' as an object of art once it is displayed in a gallery (think Duchamp: [[epistemic things, technical objects and Duchamp]]). In other words, might it be possible for me to write anything that, once published in JAR, is confirmed as an epistemic thing? What are the limits here? 
+- does an epistemic thing simply "set our thinking in motion"? See [[epistemic things are vague]]
 - it's as if JAR is an epistemic gatekeeper
-- The JAR people are granting entry. They are affording the transition from art to research. But when is art _not_ research? Their answer is implicitly "if it's not published by us". 
-- I remain wedded to the idea that this question is key: What do I understand differently as a consequence of this practice? Even though others may not witness or notice those differences (as in a repeatable science experiment).
+- The JAR people are granting entry. They are affording the transition from art to research. But when is art _not_ research? Their answer is implicitly "if it's not published by us". Or rather, it becomes research when it is published by us. 
+- I remain wedded to the idea that this question is key: What do I understand differently as a consequence of this practice? Even though others may not witness or notice those differences (as in a repeatable science experiment). I would like to be convinced otherwise though -- that would be a blast.
 
 --- 
 
