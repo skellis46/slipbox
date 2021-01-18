@@ -20,6 +20,8 @@ list them here ...
 what kinds of practices? 
 [[research on, for and in the arts]] - useful (but need to make sure I've got it right)
 
+
+
 ---
 
 _thoughts & links:_
