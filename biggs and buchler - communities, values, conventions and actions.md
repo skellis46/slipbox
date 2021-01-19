@@ -4,10 +4,23 @@ _previous note:_ [[biggs and buchler - eight criteria for practice-based researc
 
 ---
 
+Biggs and Büchler's describe that in artistic research there are two parent communities in conflict: academic researchers working in the universities, and professional practitioners working in professional contexts like theatres and galleries. These two communities have been "thrown together"[@biggs_communities_2011 p.83] to produce a third community of practitioner-researchers: 
 
->We observe two different communities presenting conflicting claims: the community of academic researchers working in contexts such as university departments, and the community of professional practitioners working in contexts such as the concert hall or the art gallery. We also observe these communities being thrown together by external forces, and a new com
-munity of so-called practitioner-researchers becoming visible (Chapter 1). In a nutshell, the practitioner-researcher archetype refers to individuals who hold practitioner values but produce research in an academic context.
->In the parent communities, we see dissatisfaction. on the one hand, we hear the academic community at large – understood as academic researchers in any academic area and discipline – express the dissatisfaction that what creative practitioners produce is not academic research. On the other hand, we hear the dissatisfaction of the creative practitioner community that their values are not reflected in traditional academic research models and, as a result, when they use these models the outcomes are not relevant to them. Hence, there is dissatisfaction in both camps. In this chapter we identify the source and diagnose the nature of dissatisfaction that we observe in both the academic and creative practice communities, and discuss some of the actions that are employed in response to the problem.[p.83]
+>individuals who hold practitioner values but produce research in an academic context.[@biggs_communities_2011 p.83]
+
+The key idea of this chapter is that the researcher-practitioner hybrid community produces dissatisfaction for both parent communities. Biggs and Büchler seek to diagnose this dissatisfaction and how the various communities have responded. 
+
+>as a result of academicization, there is dissatisfaction from the academic community that what practitioners do is not research; and from the practice community that their values are not represented or reflected in academic research.[@biggs_communities_2011 p.89] 
+
+They argue that there should be a distinct research model (not a hybrid) based on the meaningful values and actions of researcher-practitioners. 
+
+
+---
+
+>Once the fundamental values of the community are visible, then meaningful actions can be identified and the significant activities conventionalized. in this way it will be clear why the practitioner-research community does what it does given what it believes and values.[@biggs_communities_2011 p.98]
+
+
+
 
 >However, it is not the actions that characterize a community because actions on their own do not have meaning. It is only through their inter-connectedness to other meaningful actions that they become significant. Writing a report or making a painting is not significant per se but only as part of a network of other valued actions (Hirsch 1984).[pp.84-85]
 
@@ -22,33 +35,40 @@ munity of so-called practitioner-researchers becoming visible (Chapter 1). In a 
 
 >The appropriateness of the answer to the question for the audience will be reflected in the use of methods that appropriately connect one to the other, and are used by the community who form the audience for the outcome. Thus we see that for a community, certain questions are relevant, certain actions are appropriate, and certain outcomes are of interest to their concerns. These communities constitute disciplines, but also share beliefs about what they are doing and therefore inhabit the same larger academic community. Discipline boundaries are defined by identifying communities of practice that share certain interests and concerns, and expressing it in this way brings to the fore the relationship of the community to its research and knowledge base (Wenger 1999). It identifies that certain questions are meaningful, that certain methods are preferred, certain solutions are regarded as satisfying, and others are not.[p.87]
 
->... the hasty academicization of the creative practice community has pushed the creative practice and the academic communities together. This has caused a disruption of the internal coherence of values and actions, leading to community dissatisfaction.[p.87]
 
->However, the contemporary environment is changing substantially in response to the academicization of these formerly vocational subjects. At a practical level, practitioner-researchers now find themselves having been professionally trained for one type of activity but asked to perform another. The type of training that they have hitherto received regarding research has been pragmatically driven, and has consisted in their ability to find out what they need to know about a subject to enable them to operate within that subject as ‘guest workers’. However this type of research is not academic research. As we have already said, this type of research is finding out something that one does not know, whereas academic research is finding out what nobody knows.[p.88]
+
+
 
 >although these actions conform to the conventions of academic research, they do not result in a significant research activity. as we have said, actions are not meaningful in isolation. The performance of isolated actions results in a loss of coherence and in dissatisfaction.[p.89]
 
->We observe that, as a result of academicization, there is dissatisfaction from the academic community that what practitioners do is not research; and from the practice community that their values are not represented or reflected in academic research. We have focused on these as the interests of distinct communities, who do not feel they have a stake in the outcomes, and so the outcomes of one lack meaning for the other (Biggs and Büchler 2008a). dissatisfaction with explanations comes not from the inadequacies of language, but from a misunderstanding about where satisfaction is to be found. The reason one is satisfied with an answer to a question is because one sees some connection between the two. The satisfaction comes from the user perceiving in the answer something that adequately responds to the question. This means that answers, per se, do not satisfy questions owing to anything external, but rather it is the perceived connection between the question and the answer that is satisfying.[p.89]
 
->in order to meet this academic expectation, it would therefore be necessary to find a pragmatic way of evaluating the appropriateness of a method for a person and their work. The academic response for determining the appropriateness of method is based on how the answer is a consequence of, and relevant to, the question, in the context of the expectations of the audience. For the creative practice community, the option for a method is not as formulaic. This may be because the creative community is less answer-driven and more process-driven. if the creative practice community is not interested in formulating an answerable question, then method does not arise as a meaningful link between these two for that community.[p.93]
 
->Creative practitioners often consider experience as the most important contribution of the artefact and that it therefore has an essential role in the outcome of the practice. however, experience is a problematic component in academic research because of its philosophical subjectivity, by which we mean that it relates to the individual’s personal experience. What is experiential is first-person, and therefore cannot be shared with other people. Because experience is something personal, its transferability is problematic and thus goes against the value of accumulation and the idea that there is something that can be shared in order to build a body of knowledge and interpretation. according to the practice community values, what is shared is the event rather than the experience that each one has of it. The event is the form and the experience is the content; this is why the performance or the exhibition is a meaningful activity to that community. The academic choice for the argument-driven thesis reinforces the value that the community places on the transferability of impersonal knowledge, i.e. the aim is that everyone receives the same content from the same academic text. The academic community is dissatisfied with a performance or exhibition because these result in a diversity of experiences rather than in the unambiguous communication of the intended content.[p.94]
+
+
+
 
 >Certain kinds of form are more effective for the communication of certain kinds of content. in order to understand the relationship between form and content it is necessary to step away from any prescribed form and revisit what is trying to be achieved in the process of research before assuming that this particular form is the best way of achieving that. The inclusion of creative practice in the academic research model requires a justification of whether the non-linguistic form is the most effective way of dealing with the issues at hand in the research.[p.95]
 
 Their summary
 
->We can summarize by observing that, when creative practice is academicized, the originally coherent structure of each community – comprised of values, conventions, meaningful actions and significant activities – is disrupted and each finds itself dissatisfied. in particular, the academic community is dissatisfied that its value of accumulation is not supported by the creative practice conventions of using non-linguistic communication to encourage the subjective experiences resulting from direct encounter with the artefact. as a result, the academic research community is dissatisfied that certain actions, such as performing or exhibiting, are not the ones that are meaningful towards their value of the accumulation of knowledge. on the other hand, the creative practice community is dissatisfied that its value of ‘the singularity of the event’ is not addressed in the academic convention of argument-building because the latter emphasizes the general rather than the particular. The creative community is also dissatisfied with actions such as publishing and archiving because these create problems for the direct encounter with the artefact. ultimately, the academic community’s interest in producing single transferable outcomes is contrary to the creation of diverse personal experiences.[pp.95-96]
 
->of course, it is not the case that every practitioner-researcher feels dissatisfied with the research that is produced, and its reception. When attempting to produce academic research, practitioner-researchers often meet the academic conventions and produce research that is regarded as being of the academic kind. it is therefore possible that both the academic and the creative practice community may find the research that is produced is satisfactory because the conventions have been met. however, owing to their different value systems, compromises have had to be made along the way. This is often done by adopting strategies that aim to bridge the two community values, either by producing actions that are significant to the academic community, or by attributing creative practice values to those academic actions.[p.97]
+>most creative practices are not undertaken in order to have concrete outcomes and contribute to knowledge. Rather, the majority of creative practices are undertaken to produce experiences.[@biggs_communities_2011 p.94]
 
 
+>in the chapter overview we suggest that there cannot be a single research model that satisfies both communities. We have shown this is because any collaboration between the two communities would involve negotiation and compromise and this would lead to dissatisfaction. as an alternative, we propose that there is a third and distinct community that is the offspring of the two parent communities. in line with the concept of authenticity, there should be a distinct research model that emerges from this community’s own distinct values. This is not a third research model that can be hybridized from the values of the parent community, but instead should be faithfully linked to the values of this new distinct community of practitioner-researchers. The practitioner-research community needs to take responsibility for identifying its practice-academic values and to be critical of any values and conventions they feel they have inherited from their genealogical roots. Once the fundamental values of the community are visible, then meaningful actions can be identified and the significant activities conventionalized. in this way it will be clear why the practitioner-research community does what it does given what it believes and values.[@biggs_communities_2011 p.98]
+
+- this seems like a shift from [[biggs and buchler - eight criteria for practice-based research]]
 
 ---
 
 _thoughts & links:_
 
 - #practice-research 
+
+
+>owing to the academic interest in accumulation, their activities have as an objective a singular shared interpretation of content.[@biggs_communities_2011 p.92]
+
+- this is intriguing and I'm not sure I agree. I like to imagine that accumulation can still be important even if an interpretation of content is polysemous. That is, accumulation is not dependent on singularity. 
 
 - #unfinished 
 

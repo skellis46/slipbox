@@ -25,7 +25,7 @@ _thoughts & links:_
 
 _source:_ this article came from citation from Carol Breen's PhD. She quoted [Daniel Mafé's PhD](hook://file/qcEJAzdZb?p=QWN0aW9uLzIwMjAwNzE0IC0gZG9jcyB0byBwcm9jZXNz&n=mafe%CC%81-2009-rephrasing.pdf) (mafé-2009-rephrasing.pdf) who quotes this Biggs and Buchler article. 
 
-_citekey & zotero link:_ [biggs_eight_2008](zotero://select/items/1_A2UEBPJN)
+_citekey & zotero link:_ [@biggs_eight_2008](zotero://select/items/1_A2UEBPJN)
 
 _reference:_ Biggs, Michael, and Daniela Büchler. 2008. “Eight Criteria for Practice-Based Research in the Creative and Cultural Industries.” _Art, Design & Communication in Higher Education 7_ (1): 5–18.
 

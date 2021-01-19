@@ -49,7 +49,7 @@ _thoughts & links:_
 
 _original source/found:_ unknown
 
-_citekey & zotero link:_ [adler_how_1972](zotero://select/items/1_NDGXHW3N)
+_citekey & zotero link:_ [@adler_how_1972](zotero://select/items/1_NDGXHW3N)
 
 _reference:_ Adler, M.J. and Van Doren, C. (1972) _How to Read a Book_. Rev. and updated ed. New York: Simon and Schuster.
 
