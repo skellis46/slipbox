@@ -4,13 +4,15 @@ _previous note:_ [[truth and beliefs]]
 
 ---
 
-Yudkowsky describes a piece of rationalist fiction by A. E. van Vogt called the _Null-A series_. The protagonist Gilbert Gosseyn has a particularly rationalist skill that is captured by Gosseyn's slogan: _The map is not the territory._
+Yudkowsky describes a piece of rationalist fiction by A. E. van Vogt called the _Null-A series_. The protagonist Gilbert Gosseyn has a particularly rationalist skill that is captured by Gosseyn's slogan: _The map is not the territory._ ^77c985
 
 The concept of map and territory is the distinction between a representation of a thing, and the thing itself. In this blog post Yudkowsky focuses on the skill of seeing one's beliefs inside a thought bubble (with reality outside) rather than simply employing our maps to consider reality directly. 
 
 Yudkowsky mentions also the idea that we must remember that it's conceivable that we are wrong. This is the proverb:
 
 >Your belief in that does not make it so.[@yudkowsky_skill_2012 n.p.]
+
+There is a map-and-territory tag on Lesswrong: <https://www.lesswrong.com/tag/map-and-territory>
 
 
 ---
