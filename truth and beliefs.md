@@ -29,13 +29,15 @@ _consider:_
 - [[terministic screens]] - the ways in which words/terms (like in the example of post-utopianism) become disconnected from a model
 - #practice-research as simply a set of beliefs
 - floating beliefs are like in practice-research
-- verficationism is akin to what I'm proposing in #finger-pointing-moon; and the (sensory) claims we can (or can't make), and how they might be falsified or verified
+- verificationism is akin to what I'm proposing in #finger-pointing-moon; and the (sensory) claims we can (or can't make), and how they might be falsified or verified
 - [[conversation and understanding]] - Noë's thinking that what art produces is more like a score (as opposed to truth). That we are changed by art (but how might we recognise that change?)
 - [[culture, assumptions and beliefs]]
 - [[epistemic rationality]]
 - [[evidence and protecting the dissenters]]
 - [[descriptions and sense data]]
 - [[interpretation remains present]]
+- [[the map is not the territory]]
+- [[map and territory]]
 
 _source:_ Lesswrong
 
