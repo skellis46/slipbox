@@ -12,14 +12,15 @@ In this presentation about the nature of research in art, anthropologist Tim Ing
 
 I'm drawn to this idea of how he values the search, and how integrity -- or perhaps rigor -- in research comes from grappling with the materials and their possibilities, not from finding _a truth_.
  
-I wonder though what other kinds of truths exist. 
+I wonder though what other kinds of truths exist. [noting a thought on 21/1/21 given that this note was created on 22/7/20: I don't know how I feel about this now. I suspect that the University (and in particular post-modernism) has for too long been complicit in damaging ideas about _truths_ and constructing the building blocks for a 'post-truth' world. That there is, in effect, blood on our hands. See for instance Cynical Theories by Pluckrose and Lindsay.]
 
 --- 
 
-_consider:_ 
+_thoughts & links:_
 
+- how does Ingold's conception of truth sit with the distinction between the [[map and territory]]?
+- or even just the idea of 'reality'?
 
-_return links:_
 
 _source:_  rss feed    
 

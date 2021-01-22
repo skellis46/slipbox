@@ -21,7 +21,7 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- #toread - to look at the work of Godard who "shifted the question of scientific truth toward that of imaginary production" and I can then related to Ingold's truth zettel (not linking here to help separate out this in graph mode)
+- #toread - to look at the work of Godard who "shifted the question of scientific truth toward that of imaginary production" and I can then relate to Ingold's [[search for truth]]
 
 _source:_ Emma Meehan via Microsoft Teams thread, 12 June 2020
 
