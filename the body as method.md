@@ -23,7 +23,7 @@ _consider:_
 - [[first-person experience]]
 - [[senses united by action]]
 - [[somatics, action and technology]]
-- [[the field of somatics]]
+- [[somatics is the field which studies the soma]]
 
 
 _source:_ Scott deLahunta

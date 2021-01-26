@@ -6,7 +6,7 @@ _previous note:_ [[ginot - epistemology of somatics]]
 
 The Weber-Fechner Law relates to human stimulus and perception, and more specifically the relationship between the actual change in a stimuli and the perceived change. For example, if a stimulus has an initial value of x, and is increased by 10, our perception of this change will be very different if, for example the initial value is x+400. 
 
-The Weber-Fechner Law is used to justify working at slow and deliberate speeds in [[the field of somatics]] (e.g. Shusterman as cited by Ginot, 2010). 
+The Weber-Fechner Law is used to justify working at slow and deliberate speeds in [[somatics is the field which studies the soma]] (e.g. Shusterman as cited by Ginot, 2010). 
 
 
 _questions & thoughts:_

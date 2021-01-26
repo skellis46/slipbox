@@ -25,7 +25,7 @@ _consider:_
 - [[somatic turn in human computer interaction]]
 - [[vision is kinaesthetic]]
 - [[without symbolic mediation]]
-- [[the field of somatics]]
+- [[somatics is the field which studies the soma]]
 - [[somatic processes]]
 
 

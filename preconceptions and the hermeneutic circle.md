@@ -1,6 +1,6 @@
 # preconceptions and the hermeneutic circle
 
-_previous note:_  [[interrupting habits]]
+_previous note:_  [[somatic feedback interrupts habits]]
 
 ---
 

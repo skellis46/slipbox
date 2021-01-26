@@ -2,5 +2,5 @@
 
 Indexical note (or starting point) for somatics).
 
-[[the field of somatics]]
+[[somatics is the field which studies the soma]]
 

@@ -16,8 +16,7 @@ O'Brien believes that it is important that one loves the focal practice; it is m
 
 _questions & thoughts:_
 
-- interested in the effort or labour required to _be_ in a focal thing, or to practice a focal thing. O'Brien cites Borgmann as follows: "[Reading] is a focal activity that collects our world as a convex lens does and radiates back into our world as does a concave mirror." This metaphor of lens is beautiful, and perhaps worth it's own note.
-- this compressing (or focusing) and then expressing (outwards) is remarkable
+- interested in the effort or labour required to _be_ in a focal thing, or to practice a focal thing. 
 - note word "incarnational" in relation to _embodiment_ and effort
 
 --- 
@@ -29,6 +28,7 @@ _consider:_
 - [[art practice and artistic research]]
 - [[intuition and the intimate knowledge of a practice]]
 - [[technology is skillful activity]] -- considering a more open understanding of _technology_
+- [[focal activity is a convex lens]] -- O'Brien citing Borgmann, to help understand the value of focal things
 
 
 _source:_ unknown

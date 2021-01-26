@@ -15,7 +15,7 @@ _questions & thoughts:_
 
 _consider:_
 
-- [[interrupting habits]]
+- [[somatic feedback interrupts habits]]
 - [[gestell and enframing]]
 - John Berger's _Ways of Seeing_
 

@@ -22,7 +22,7 @@ I suspect also that each of these avenues similarly have differing degrees of po
 
 _thoughts & links:_
 
-- see also [[interrupting habits]] in thinking about the depth of understanding through practice
+- see also [[somatic feedback interrupts habits]] in thinking about the depth of understanding through practice
 - #practice-research 
 - #par_blog 
 - [[art as source of knowledge]]

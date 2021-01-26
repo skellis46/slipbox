@@ -18,8 +18,8 @@ _consider:_
 - [[somatic turn in human computer interaction]]
 - [[device paradigm and focal things]]
 - [[without symbolic mediation]]
-- [[interrupting habits]]
-- [[the field of somatics]]
+- [[somatic feedback interrupts habits]]
+- [[somatics is the field which studies the soma]]
 
 
 _return links:_

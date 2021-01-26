@@ -20,8 +20,8 @@ _consider:_
 - anything on somatics and perception
 - useful to compare with Alva Noë's work
 - [[vision is kinaesthetic]]
-- [[interrupting habits]]
-- [[the field of somatics]]
+- [[somatic feedback interrupts habits]]
+- [[somatics is the field which studies the soma]]
 
 
 _return links:_

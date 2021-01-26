@@ -22,7 +22,7 @@ _consider:_
 - [[language is post-kinetic]]
 - [[without symbolic mediation]]
 - [[search for truth]]
-- [[the field of somatics]]
+- [[somatics is the field which studies the soma]]
 
 
 _return links:_

@@ -1,6 +1,6 @@
 # first-person experience
 
-_previous note:_  [[the field of somatics]]
+_previous note:_  [[somatics is the field which studies the soma]]
 
 ---
 
@@ -28,7 +28,7 @@ _thoughts & links:_
 - also re #finger-pointing-moon is Varela's thinking about what we can and cannot access and the 'sustained examination'
 - compare with Hanna's account that the body as perceived from the inside is the study of the soma. Distinction between soma and body is intriguing. Hanna also makes distinction between _perspective_ and _perception_. Smart dude.
 - [[internal and external attention]]
-- [[interrupting habits]]
+- [[somatic feedback interrupts habits]]
 - [[characteristics of somatics in HCI and interaction design]]
 - [[somatic turn in human computer interaction]]
 - [[interpretation remains present]]

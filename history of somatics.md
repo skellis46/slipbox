@@ -1,6 +1,6 @@
 # history of somatics
 
-_previous note:_  [[the field of somatics]]
+_previous note:_  [[somatics is the field which studies the soma]]
 
 ---
 

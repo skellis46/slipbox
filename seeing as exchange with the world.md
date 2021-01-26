@@ -4,7 +4,7 @@ _previous note:_ [[noë - strange tools]]
 
 ---
 
-Noë's thinking in _Strange Tools_ is based on the idea that, at a certain level, humans are organised. This level is not the level of the nervous system, or the level of "consious, deliberate action."[@noe_strange_2015 Chapter 1. Getting Organised, n.p.] Rather, it is an "embodiment level", that Noë has taken from the work of roboticist Dana Ballard.
+Noë's thinking in _Strange Tools_ is based on the idea that, at a certain level, humans are organised. This level is not the level of the nervous system, or the level of "conscious, deliberate action."[@noe_strange_2015 Chapter 1. Getting Organised, n.p.] Rather, it is an "embodiment level", that Noë has taken from the work of roboticist Dana Ballard.
 
 >Our lives are one big complex nesting of organized activities at different levels and scales. Talking, walking, eating, perceiving, driving. We are always captured by structures of organization. This is our natural, indeed our biological, condition. It is the basic fact about us.[@noe_strange_2015 Chapter 1. Getting Organised, n.p.]
 

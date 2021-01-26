@@ -18,7 +18,7 @@ _consider:_
 
 - [[art practice and artistic research]]
 - [[search for truth]]
-- [[the field of somatics]]
+- [[somatics is the field which studies the soma]]
 - [[without symbolic mediation]]
 
 

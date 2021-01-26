@@ -9,14 +9,14 @@ In their book _Mindfulness_, Clinical Psychologist Mark Williams and meditation 
 _questions & thoughts:_
 
 - my thought here is about reoccurring and tentative link between direct exerience and intrinsic value. That direct experiences perhaps have a different relationship to value. It's tentative at best. Does this relate to [[device paradigm and focal things]] and [[borgmann, effort and focal things]]?
-- what is the role of thinking in somatic practices? See for instance [[interrupting habits]]
+- what is the role of thinking in somatic practices? See for instance [[somatic feedback interrupts habits]]
 --- 
 
 _consider:_ 
 
 - [[intrinsic value definition]]
 - [[feelings in conversations]]
-- [[the field of somatics]]
+- [[somatics is the field which studies the soma]]
 - [[without symbolic mediation]]
 
 

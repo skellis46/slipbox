@@ -16,7 +16,7 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- [[the field of somatics]]
+- [[somatics is the field which studies the soma]]
 
 
 _source:_ n/a

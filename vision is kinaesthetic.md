@@ -23,7 +23,7 @@ _questions & thoughts:_
 _consider:_ 
 
 - any materials re kinesthetic and kinaesthetic
-- [[the field of somatics]]
+- [[somatics is the field which studies the soma]]
 - vision
 
 

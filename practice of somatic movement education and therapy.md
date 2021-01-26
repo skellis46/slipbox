@@ -27,7 +27,7 @@ _questions & thoughts:_
 _consider:_ 
 
 - [[somatic processes]]
-- [[the field of somatics]]
+- [[somatics is the field which studies the soma]]
 
 _source:_ [eddy-2009-brief.pdf](hook://file/ldd5F2AL4?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=eddy-2009-brief.pdf) - p.8
 

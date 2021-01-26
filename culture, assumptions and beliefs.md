@@ -1,6 +1,6 @@
 # culture, assumptions and beliefs
 
-_previous note:_ [[interrupting habits]]
+_previous note:_ [[somatic feedback interrupts habits]]
 
 ---
 
