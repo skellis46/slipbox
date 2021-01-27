@@ -12,13 +12,11 @@ Yudkowsky describes truth as "the general idea of a map-territory correspondence
 
 >One classic response to this problem [of floating beliefs] was _verificationism_, which held that the sentence "Elaine is a post-utopian" is meaningless if it doesn't tell us which sensory experiences we should expect to see if the sentence is true, and how those experiences differ from the case if the sentence is false.
 
-
+---
 
 _questions & thoughts:_
 
-- love his use of _meditation_ as a kind of directive in the middle of the text: 
-
->A 'meditation' is a puzzle that the reader is meant to attempt to solve before continuing. It's my somewhat awkward attempt to reflect the research which shows that you're much more likely to remember a fact or solution if you try to solve the problem yourself before reading the solution; succeed or fail, the important thing is to have tried first .[@yudkowsky_useful_2012 n.p.]
+- love his use of [[meditation as a puzzle]] or directive in the middle of the text 
 
 - I found the examples hard to decipher (that kind of logic of thinking doesn't come so easy to me)
 

@@ -5,7 +5,7 @@ tags: []
 
 # stockdale paradox
 
-_previous note:_ [[godin - dancing with belief]]
+_previous note:_ [[questioning our beliefs]]
 
 ---
 
@@ -26,7 +26,7 @@ _thoughts & links:_
 - [[the map is not the territory]] as distinct from [[search for truth]]
 - what is there? What am I making up (and why am I making it up?) See Godin note on dancing with belief:
 
-![[godin - dancing with belief#^b413a8]]
+![[questioning our beliefs#^b413a8]]
 
 ---
 
