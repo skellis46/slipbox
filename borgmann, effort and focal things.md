@@ -29,6 +29,7 @@ _consider:_
 - [[intuition and the intimate knowledge of a practice]]
 - [[technology is skillful activity]] -- considering a more open understanding of _technology_
 - [[focal activity is a convex lens]] -- O'Brien citing Borgmann, to help understand the value of focal things
+- see [[the word embodied is a modifier]] as a contrast to the term incarnational that is more explicitly about investment of effort rather than the labour of justification (as a modifying word to express something unclear)
 
 
 _source:_ unknown
