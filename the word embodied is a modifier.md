@@ -17,6 +17,11 @@ But what about _embodied actions_ or _embodied movements_ or even _embodied danc
 
 _thoughts & links:_
 
+- do animals perform embodied actions? This question occurred to me after podcast episode with Jonathan Burrows this morning on topic of embodiment and then after reading this from Ingold[@ingold_transmission_2001 p.133]
+
+>In his study of the computational tasks involved in maritime navigation, Edwin Hutchins observes that 'humans create their cognitive powers by creating the environments in which they exercise these powers' (1996: 169). This, for him, is the process of culture, though one could just as well call it history. But is there anything specifically human about this process? Hutchins compares the human navigator to the ant, which owes its apparently innate ability to locate food sources with uncanny accuracy to the trails left in the environment by countless predecessors. Wipe out the trails, and the ant is lost. So, indeed, would humans be, without culture or history. Hutchins's conclusion is that the capacities of the ant, too, are constituted within a historical process of culture.
+
+- my guess is that we'd assume not. That being embodied requires a kind of consciousness or awareness not available to animals. But I'm not so sure.
 
 ---
 

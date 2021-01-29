@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [soma]
 tags: []
 ---
 
@@ -9,7 +9,7 @@ _previous note:_ [[ginot - epistemology of somatics]]
 
 ---
 
-Isabella Ginot writes that the brain does not differentiate between instruments or a prosthesis (including even something as simple as a cane for a blind person) and the _organic body_:
+Isabelle Ginot writes that the brain does not differentiate between instruments or a prosthesis (including even something as simple as a cane for a blind person) and the _organic body_:
 
 >the "body" only understands itself in its capacity for action, and even more for interaction with the world, mediated or not by objects or machines.[@ginot_shustermans_2010 p.24]
 
