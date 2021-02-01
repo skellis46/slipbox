@@ -9,7 +9,11 @@ _previous note:_
 
 ---
 
->Reconceptualised in this way, the evolutionary process becomes one in which organisms, through their presence and their activities, set up the developmental conditions under which their successors are destined to live out their lives. Likewise the manifold capacities of human beings, from throwing stones to bowling cricket-balls, from climbing trees to scaling ladders, from whistling to playing the piano, emerge through the labours of maturation within fields of practice constituted by the activities of predecessors. It makes no sense to ask whether the capacity to climb lies with the climber or the ladder, or whether the capacity to play the piano resides in the pianist or the instrument. These capacities exist neither 'inside' the body and brain of the practitioner nor 'outside' in the environment. They are rather properties of environmentally extended systems that crosscut the boundaries of body and brain (A. Clark 1997: 214). It follows that the work people do, in establishing environments for their own and future generations, contributes quite directly to the evolution of human capacities.[@ingold_transmission_2001 p.133]
+Ingold uses the term "fields of practice" to denote the inter-relationship between the body and brain of the practitioner and the environment within which they are practicing. This is a key theme of the chapter.
+
+>These capacities exist neither 'inside' the body and brain of the practitioner nor 'outside' in the environment. They are rather properties of environmentally extended systems that crosscut the boundaries of body and brain (A. Clark 1997: 214).[@ingold_transmission_2001 p.133]
+
+Ingold argues that when we practice we are creating environments for ourselves, and for future generations; that fields of practice (the work we do) are fundamental to the evolutionary process.
 
 
 
@@ -17,11 +21,9 @@ _previous note:_
 
 _thoughts & links:_
 
-- reminded of idea that we are our actions (in [[there is no natural soma]] -- but also in relation to [[there is no natural soma]] and the body's disinterest in the boundaries between body and non-body. note also here [[a border is not a boundary]] -- that is, Ingold is talking about a border here -- a place of immense life and possibility, not a boundary. Note how he uses the word "boundary".
+- reminded of idea that we are our actions (in [[there is no natural soma]] -- but also in relation to [[there is no natural soma]] and the body's disinterest in the boundaries between body and non-body. 
+- note also here [[a border is not a boundary]] -- that is, Ingold is talking about a border here -- a place of immense life and possibility, not a boundary. Note how he uses the word "boundary".
 
-
-
-- #unfinished 
 
 ---
 
