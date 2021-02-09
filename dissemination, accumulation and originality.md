@@ -20,6 +20,8 @@ _thoughts & links:_
 - [[two definitions of research in practice-research]]
 - [[an exposition in practice-research]]
 - [[conversation and understanding]]
+- it seems though that Biggs and Buchler contradict themselves in [[biggs and buchler - communities, values, conventions and actions#^82f349]] -- or at least in how I want to pursue the value/importance of cumulative research. This is the nub really. I think though that art practices are cumulative, it's just that we don't own that cumulative effect transparently (as would be expected in research). It is I suspect complicated by what Biggs and Buchler describe as the focus of artists on producing experiences: [[biggs and buchler - communities, values, conventions and actions#^15277b]] but I don't imagine the desire to produce experiences implies one can't be clear about the accumulation of understanding. This directly goes back to Noe's idea about jokes and descriptions which I write in the note [[a case for writing in practice-research]] ^d0ec3a
+- what is lost if artistic-research is not cumulative? Can it still be called research? I don't for a second think it can: [en.wikipedia.org/wiki/Research](https://en.wikipedia.org/wiki/Research).
 
 ---
 

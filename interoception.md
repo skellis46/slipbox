@@ -6,7 +6,7 @@ _previous note:_ [[practice of somatic movement education and therapy]]
 
 Interoception is the conscious or unconscious sense of the internal state of the body. It relates to physiological tissues that send information to the central nervous system about the state of the body. These tissues or pathways are: 
 
-1. the lamina I spinothalamic pathway
+1. the laminaI spinothalamic pathway
 2. the classical viscerosensory pathway
 3. the vagus nerve and glossopharyngeal nerve
 4. chemosensory pathways in the blood

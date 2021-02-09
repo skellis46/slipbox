@@ -21,6 +21,7 @@ _consider:_
 - [[noë - strange tools]]
 - [[mäkelä - on reflecting and making in artistic research]]
 - #par_blog 
+- see also my thinking in thoughts and links in [[dissemination, accumulation and originality#^d0ec3a]]
 
 
 _source:_ Searching for possible third-person collaborators for #finger-pointing-moon, thought of Alva Noë and then noticed this book (which I had already downloaded some years ago)
