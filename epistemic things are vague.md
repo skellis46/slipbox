@@ -13,6 +13,8 @@ _previous note:_ [[schwab - experiment]]
 
 >but for Rheinberger, despite being matter of fact, an epistemic thing is essentially vague. ‘This vagueness is inevitable because, paradoxically, epistemic things embody what one does not yet know’ (Rheinberger 1997, 28). Being conceptually underdetermined represents a strength rather than a weakness, because epistemic things are first of all questions that promise a future (of possible knowledge). The practice of experimentation thus also repositions theory: theory emerges from experimentation rather than being tested by it. Rheinberger calls the experimental mode by which epistemic things emerge ‘thinking’ (Rheinberger 1997, 31). However, the moment epistemic things become conceptually stable, they move into the technological fabric of the experimental system – they become ‘technical objects’ ready to be used in the same or future experimental systems or turned into commodities for the benefit of those with investment in the experimental system.[@schwab_experiment_2015 p.122]
 
+^e2cbd5
+
 - emergence of theory is key here. But, the problem (as I see it) in PaR is that we extend (beyond belief) what communities of (theoretical) practice we can conceivably be in dialogue with.
 - there is also danger here that Rheinberger's thinking becomes a way to make a virtue out of the necessity of vagueness in PaR. And in the history of PaR has anything ever become conceptually stable? (perhaps forms of documentation?). I think I need to understand more clearly the experimental process as Rheinberger describes it (and its value at different stages). Schwab is valorising vagueness -- which is fab -- but where does that get us? 
 
