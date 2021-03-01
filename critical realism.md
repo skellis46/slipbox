@@ -4,7 +4,7 @@ _previous note:_ [[descriptions and sense data]]
 
 ---
 
-Critical realism was developed by Roy Bhasker and it makes a distinction between what is real and what is observable. This is also a distinction between ontology and epistemology where ontological statements are about what is real, and epistemology statements and what we understand or know about the real.
+Critical realism was developed by Roy Bhasker and it makes a distinction between what is real and what is observable. This is also a distinction between ontology and epistemology where ontological statements are about what is real, and epistemology statements are what we understand or know about the real.
 
 The principle concern of critical realism is to understand the underlying (and unobservable) mechanisms which cause (observable) events.
 

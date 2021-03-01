@@ -27,6 +27,6 @@ _original source/found:_ unknown
 
 _citekey & zotero link:_ [@sloan_steel_2014](zotero://select/items/1_A2MJJX47)
 
-_reference:_ Sloan, R. (2014) _The Steel Man of #GamerGate_ \[online\] available from [medium.com/message/the-steel-man-of-gamergate-7019d86dd5f5](https://medium.com/message/the-steel-man-of-gamergate-7019d86dd5f5)\ \[15 August 2020\]
+_reference:_ Sloan, R. (2014) _The Steel Man of \#GamerGate_ \[online\] available from [medium.com/message/the-steel-man-of-gamergate-7019d86dd5f5](https://medium.com/message/the-steel-man-of-gamergate-7019d86dd5f5)\ \[15 August 2020\]
 
 

@@ -18,7 +18,7 @@ _thoughts & links:_
 - perhaps though such a deployment (of artistic research as concept) would be disruptive; as if disrupting something already disruptive. My sense here is that this would be utterly counter-productive. 
 - but it leads to the question of what is _concrete_ about artistic research? What is solid about it? Is there anything? 
 - what is a concept? -- [[concepts are abstract ideas]]
-- thinking also here about conceptual stability in practice-research -- see [[epistemic things are vague#^e2cbd5]]. It's as if there is little to no conceptual stability in practice-research. Is this a bug or a feature? Perhaps what might be useful here are [fuzzy concepts](https://en.wikipedia.org/wiki/Fuzzy_concept) in which the boundaries vary enormously depending on context, but the concepts are not unclear or meaningless. Fuzzy concepts introduce (or allow for) vagueness and clarity. 
+- thinking also here about conceptual stability in practice-research -- see [[epistemic things are vague#^e2cbd5]]. It's as if there is little to no conceptual stability in practice-research. Is this a bug or a feature? Perhaps what might be useful here are [fuzzy concepts](https://en.wikipedia.org/wiki/Fuzzy_concept) in which the boundaries vary enormously depending on context, but the concepts are not unclear or meaningless. Fuzzy concepts introduce (or allow for) vagueness and clarity.  ^1a3c82
 - note also [[inquiry is not thinkable without the knowing subject]] which acts like a warning -- the end game if we pull apart everything: [[humanist qualitative methodology was ruined]]
 
 - #unfinished 

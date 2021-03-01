@@ -5,8 +5,9 @@ tags: []
 
 # methodology diverts attention from epistemology
 
+Adams St. Pierre quote Patti Lather from 1996 who said that “methodology often diverts attention from more fundamental issues of epistemology”.[Lather in @adamsst.pierre-2014-brief p.9]
 
->As Lather (1996) noted some time ago, “methodology often diverts attention from more fundamental issues of epistemology” (p. 2).[@adamsst.pierre-2014-brief p.9]
+I've made a note here
 
 ---
 

@@ -19,7 +19,8 @@ _previous note:_ [[schwab - experiment]]
 
 _thoughts & links:_
 
-
+- Schwab's thought re 'unknown status' reminded me of fuzzy concepts in  [[concept as method#^1a3c82]]
+- I think I need to understand the concept of an epistemic thing more clearly, and perhaps even in relation to [[modes of thought and practices enabled by modes of thought]] -- epistemology and ontology
 
 - #unfinished 
 

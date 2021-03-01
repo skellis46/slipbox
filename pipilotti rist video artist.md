@@ -12,7 +12,6 @@ Pipilotti Rist is a video artist that has worked closely with her own (female) b
 - <https://www.theguardian.com/artanddesign/2011/sep/04/pipilotti-rist-exhibition-hayward-gallery>
 - <https://vimeo.com/155872555> (walking along smashing car windows)
 
-#unlinked
 
 _questions & thoughts:_
 

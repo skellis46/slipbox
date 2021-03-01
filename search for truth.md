@@ -20,6 +20,7 @@ _thoughts & links:_
 
 - how does Ingold's conception of truth sit with the distinction between the [[map and territory]]?
 - or even just the idea of 'reality'?
+- taking ourselves into the world is not so far from [[modes of thought and practices enabled by modes of thought]] in which we enter ontological spaces (enabled by practices)
 
 
 _source:_  rss feed    

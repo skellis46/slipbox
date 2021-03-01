@@ -16,10 +16,10 @@ _previous note:_ [[learning is attuning the perceptual system]]
 
 _thoughts & links:_
 
-
-
+- I have a note called [[skill is the foundation of all knowledge#^89fee0]] from this same Ingold which gives details about the taskscape
 - #unfinished 
 - #practice-research 
+- See other notes from this writing by Ingold: [[learning is attuning the perceptual system]]; 
 
 ---
 

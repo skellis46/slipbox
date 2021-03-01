@@ -7,7 +7,7 @@ tags: []
 
 >Concepts are defined as abstract ideas or general notions that occur in the mind, in speech, or in thought.[@noauthor-2021-concept n.p.]
 
-In common usage concepts are just the same as ideas.
+In common usage concepts are often the same as ideas.
 
 >It is important to realize that a concept is merely a symbol, a representation of the abstraction. The word is not to be mistaken for the thing. For example, the word "moon" (a concept) is not the large, bright, shape-changing object up in the sky, but only represents that celestial object. Concepts are created (named) to describe, explain and capture reality as it is known and understood.[@noauthor-2021-concept n.p.]
 

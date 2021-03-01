@@ -8,7 +8,9 @@ Jessica Riskin is a science historian and these ideas come from her review of _T
 
 Part of this branding was the elimination of interpretation from science's brand of _the scientific method_:
 
->Interpretation remains present at every level. Everything we know is known by us; we can’t eliminate ourselves from the picture. Defining methods, choosing which ones to use, deciding how to use them, understanding what they produce: each of these acts is fundamentally interpretive.[@riskin_just_2020 n.p.]
+>Interpretation remains present at every level. Everything we know is known by us; we can’t eliminate ourselves from the picture. Defining methods, choosing which ones to use, deciding how to use them, understanding what they produce: each of these acts is fundamentally interpretive.[@riskin_just_2020 n.p.] 
+
+^0f2e33
 
 Riskin goes on to quote Karl Popper ("scourge of relativism") from 1935:
 

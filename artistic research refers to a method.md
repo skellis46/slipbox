@@ -10,7 +10,7 @@ _previous note:_
 ---
 
 
->Are works of “artistic research”3 to be tested by a different eye? The new field of “artistic research” hinges paradoxically on the question of func- tion. On the one hand, many find the emphasis on research to be a possible defense of art practice and of the critical discourse around it against the widespread instrumentalization of culture. When both the terms of the mar- ketplace (production of spectacle, collectibles, the justifications of econom- ics) and the public sphere (justified through supposed contributions to the “greater good”) threaten to overwhelm the cultural realm, the idea of “pure research” holds the appeal of a possible oasis. This earnest and good-faith motivation is what largely animates the present discussion.[p.62]
+>Are works of “artistic research” to be tested by a different eye? The new field of “artistic research” hinges paradoxically on the question of function. On the one hand, many find the emphasis on research to be a possible defense of art practice and of the critical discourse around it against the widespread instrumentalization of culture. When both the terms of the mar- ketplace (production of spectacle, collectibles, the justifications of econom- ics) and the public sphere (justified through supposed contributions to the “greater good”) threaten to overwhelm the cultural realm, the idea of “pure research” holds the appeal of a possible oasis. This earnest and good-faith motivation is what largely animates the present discussion.[p.62]
 
  >The emphasis on subject matter, experimental methods, and a dialogue be- tween one’s own art making and the questions of art in general all are part of modern art. “Artistic research” then could be established as a process of formalization and concretization of what already exists, but which is under- defined: the visual arts as a highly intellectual field with its own questions and claims.[p.64]
 
@@ -24,7 +24,7 @@ _previous note:_
 
 - key for #finger-pointing-moon -- the balance with things that aren't self-evident, and unable to be verified.
 
->I believe that as Smith’s staircase becomes visible it will attract more passers- by, and it will become his, not just the staircase of some former owners. By not knowing the “truth,” Smith’s act can become a kind of “fiction”—back to the root of that word, a shaping of circumstance, the transformation that gives art its own status, claims, and questions. Perhaps Smith’s decision not to go to the archive (yet) is like what Friedrich Nietzsche called the choice of a “limited horizon,”9 in which not all questions have to be faced, in which one does not need to be responsible to all perspectives, to preserve the space of “becoming.”[p.66]
+>I believe that as Smith’s staircase becomes visible it will attract more passers-by, and it will become his, not just the staircase of some former owners. By not knowing the “truth,” Smith’s act can become a kind of “fiction”—back to the root of that word, a shaping of circumstance, the transformation that gives art its own status, claims, and questions. Perhaps Smith’s decision not to go to the archive (yet) is like what Friedrich Nietzsche called the choice of a “limited horizon,”9 in which not all questions have to be faced, in which one does not need to be responsible to all perspectives, to preserve the space of “becoming.”[p.66]
 
 - love love this -- limited horizon
 
