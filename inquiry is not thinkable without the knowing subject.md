@@ -10,9 +10,12 @@ tags: []
 
 - this final idea/quote is similar to [[interpretation remains present#^0f2e33]] in which everything we know is known by the self
 
-- her next paragraph -- about the I and the self -- touches on key concepts for fpm. Of the absence of self, of non-judgement. Well, key concepts for understanding authentic movement
-- indeed last page is amazing, and at the same leaves me wondering what we might get from such a seemingly nihilistic positioning of research. I suspect there's a balance here: between what is there and what is not. Between what is imagined and what is observed. That we are all making things up all of the time, and we are all attempting to see things as they are. 
-- curious paradox of seeking to avoid self-judgement, but in the midst of a critical ontology of our selves -- and what might come to be known through these selves. (see p.15)
+- her next paragraph -- about the I and the self -- touches on key concepts for fpm. Of the absence of self, of non-judgment. Well, key concepts for understanding authentic movement. Here it is:
+
+>... if I understood that all permutations of the verb to be (I am...) are no longer thinkable because they imply stasis, permanence, presence, and, likewise, if I understood that any “I” I call forth “designates only a past world (‘I was peaceful’)” (Deleuze & Guattari, 1991/1994, p. 18). I wonder what might be possible if I accepted that “I is a habit” (Deleuze & Guattari, 1991/1994, p. 105); if I were able “to reach not the point where one no longer says I, but the point where it is no longer of any importance whether one says I” (Deleuze & Guattari, 1980/1987, p. 3)? I wonder what might be possible if I were seriously and affirmatively to experiment with what is yet to come, “people to come,” to summon those “still-missing people” (Deleuze & Guattari, 1991/1994, p. 176) we have not yet been able to think and so live? If all this were possible, what else might there be, what more, what excess, what supplement, might be set loose? “We lack resistance to the present. The creation of concepts in itself calls for a future form, for a new earth and people that do not yet exist” (Deleuze & Guattari, 1991/1994, p. 109).[@adamsst.pierre-2014-brief p.15]
+
+- indeed last page is amazing, and at the same time leaves me wondering what we might get from such a seemingly nihilistic positioning of research. I suspect there's a balance here: between what is there and what is not. Between what is imagined and what is observed. That we are all making things up all of the time, and we are all attempting to see things as they are. 
+- curious paradox of seeking to avoid self-judgment, but in the midst of a critical ontology of our selves -- and what might come to be known through these selves. (see p.15)
 
 
 ---

@@ -5,10 +5,6 @@ tags: []
 
 # learning is attuning the perceptual system
 
-_previous note:_ [[the skilled performer is responsive]]
-
----
-
 Ingold relies heavily on the thinking of the psychologist James Gibson in that learning is a "fine-tuning or sensitisation of the entire perceptual system,"[@ingold_transmission_2001 p.142] and this system includes the brain, receptors, the neuromuscular system and the environment. Ingold writes that the perceptual system resonates with the properties of the environment and, as such, learning is an education of attention equivalent to this "process of attunement of the perceptual system (Zukow-Goldring 1997)."[@ingold_transmission_2001 p.142]
 
 
@@ -17,9 +13,9 @@ Ingold relies heavily on the thinking of the psychologist James Gibson in that l
 
 _thoughts & links:_
 
-
-
-- #unfinished 
+- [[the skilled performer is responsive]]
+- [[fields of practice]]
+- [[entrainment]]
 - #practice-research 
 
 ---

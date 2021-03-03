@@ -5,9 +5,6 @@ tags: []
 
 # the skilled performer is responsive
 
-_previous note:_ [[fields of practice]]
-
----
 
 >The movement of the skilled practitioner, by contrast, is continually and fluently responsive to perturbations of the perceived environment (Ingold 1993a: 462). This is possible because the practitioner's bodily movement is, at one and the same time, a movement of attention; because he watches, listens and feels even as he works. It is this responsiveness that underpins the qualities of care, judgement and dexterity that are the hallmarks of [p.136] skilled workmanship (Pye 1968: 22). As Nicholai Bernstein wrote some fifty years ago, the essence of dexterity lies not in bodily movements themselves but in the 'tuning of the movements to an emergent task', whose surrounding conditions are never precisely the same from one moment to the next (Bernstein 1996: 23, original emphases).[@ingold_transmission_2001 pp.135-136]
 
@@ -15,9 +12,10 @@ _previous note:_ [[fields of practice]]
 
 _thoughts & links:_
 
-
-
-- #unfinished 
+- obvious connection with Ingold's [[fields of practice]] and our responsiveness to environment when we practice. That our practices are shaped by this interaction; a border between the body and it's environment, in which [[a border is not a boundary]] but rather is a place of possibility 
+- I'm interested in Ingold's phrasing of "a movement of attention" which doesn't seem so far from Loke and Schiphorst's description of how we pay [[internal and external attention]] 
+- Noë also describes in [[dancing as organised activity]] a similar oscillation between attention to the self and to others (or sensitivity)
+- I wonder to what extent this responsiveness is distinct from processes of [[entrainment]]?
 
 ---
 

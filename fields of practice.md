@@ -5,10 +5,6 @@ tags: []
 
 # fields of practice
 
-_previous note:_ 
-
----
-
 Ingold uses the term "fields of practice" to denote the inter-relationship between the body and brain of the practitioner and the environment within which they are practicing. This is a key theme of the chapter.
 
 >These capacities exist neither 'inside' the body and brain of the practitioner nor 'outside' in the environment. They are rather properties of environmentally extended systems that crosscut the boundaries of body and brain (A. Clark 1997: 214).[@ingold_transmission_2001 p.133]
@@ -22,7 +18,7 @@ Ingold argues that when we practice we are creating environments for ourselves, 
 _thoughts & links:_
 
 - reminded of idea that we are our actions (in [[there is no natural soma]] -- but also in relation to [[there is no natural soma]] and the body's disinterest in the boundaries between body and non-body. 
-- note also here [[a border is not a boundary]] -- that is, Ingold is talking about a border here -- a place of immense life and possibility, not a boundary. Note how he uses the word "boundary".
+- I think Ingold is talking about a border here (as Sennett describes it in [[a border is not a boundary]]) -- a place of immense life and possibility, not a boundary, although he does use the word "boundary".
 
 
 ---
