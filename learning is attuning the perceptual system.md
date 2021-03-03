@@ -13,7 +13,7 @@ Ingold relies heavily on the thinking of the psychologist James Gibson in that l
 
 _thoughts & links:_
 
-- [[the skilled performer is responsive]]
+- [[the skilled practitioner is responsive]]
 - [[fields of practice]]
 - [[entrainment]]
 - #practice-research 

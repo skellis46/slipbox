@@ -22,7 +22,7 @@ _thoughts & links:_
 
 - Each of the definitions is rich in how it asks us to consider influence in general, and Sennett's idea that [[a border is not a boundary]]. 
 - powerful metaphor for [[culture, assumptions and beliefs]] and even heterodoxy in [[doxa and habitus#^6db9e6]] and also the potency of disorder in that same zettel
-- in [[the skilled performer is responsive]] Ingold's use of "perturbation of the perceived environment" acknowledges the fluidity of the space between the practitioner and their environment. Entrainment -- particularly in relation to chemistry and meteorology -- is a powerful metaphor indeed: fluid, motion-ful, influence.
+- in [[the skilled practitioner is responsive]] Ingold's use of "perturbation of the perceived environment" acknowledges the fluidity of the space between the practitioner and their environment. Entrainment -- particularly in relation to chemistry and meteorology -- is a powerful metaphor indeed: fluid, motion-ful, influence.
 
 
 ---

@@ -5,7 +5,7 @@ tags: []
 
 # skill is the foundation of all knowledge
 
-_previous note:_ [[the skilled performer is responsive]]
+_previous note:_ [[the skilled practitioner is responsive]]
 
 ---
 
