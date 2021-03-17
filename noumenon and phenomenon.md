@@ -25,7 +25,7 @@ Normally used in contrast with phenomenon, or "any object of the senses" (wikipe
 
 _thoughts & links:_
 
-- this is very close to what I understand by [[finger pointing at the moon]]
+- this is very close to what I understand by [[finger pointing at the moon]] and yet my curiosity is in not simply leaving it as unknown, but getting to understand the proxies, the things-in-themselves. What value might the noumenal have in the world of scholarly research? 
 
 
 ---

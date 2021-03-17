@@ -15,8 +15,7 @@ tags: []
 
 >The ontological-turn movement is an effort to take seriously different ontologies in different cultures (we have to bear in mind that knowing there are different ontologies and taking them seriously are two different things).[@hui-2017-cosmotechnics n.pag]
 
-
-He describes a French revolutionary thinker who "recently described" the situation of extolling indigenous ontology as such:
+He describes a[n unnamed] French revolutionary thinker who "recently described" the situation of extolling indigenous ontology as such:
 
 >A funny thing to see these days is how all these absurd modern leftists, all unable to _see_ anything, all lost in themselves, all feeling so bad, all desperately trying to exist and to find their existence in the eyes of the Other—how all these people are jumping on the “savage,” the “indigenous,” the “traditional” in order to escape and not face themselves. I am not speaking of being critical towards one’s “whiteness,” towards one’s “modernism.” I am talking of the ability to peer inside \[_transpercer_\] oneself.
 
@@ -33,6 +32,8 @@ He calls on Heidegger's 1949 lecture:
 _thoughts & links:_
 
 - [[gestell and enframing]]
+- [[device paradigm and focal things]]
+- [[noumenon and phenomenon]]
 
 
 - #unfinished 

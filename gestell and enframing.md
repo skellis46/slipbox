@@ -18,7 +18,9 @@ _questions & thoughts:_
 _consider:_ 
 
 - #toread Heidegger, The Question Concerning Technology
-- [[noë - strange tools]]
+- [[noë - strange tools]] -- which is indexical zettel for Noe's book
+- [[technology is skillful activity]] - outline of Noe's thinking on technologies as being part of how we are organised
+- see [[future responsibility and stewardship]] and Jonas's book called The Imperative of Responsibility; and the demand for new ethics
 
 
 _return links:_

@@ -17,8 +17,8 @@ Hui writes that when the butcher encounters any difficulty, "he slows down the k
 
 _thoughts & links:_
 
-- Towards the end, Hui says something rather inscrutable: "But it is possible to infinitize Qi so as to infinitize the self and enter into the noumenon—this is the question of art." I don't quite know what it would mean to infinitize the self, but he seems to be getting at the possibility of art entering the neumonal; the unknowable "think-in-itself".
-- the [[device paradigm and focal things]] seems to link to Hui's description of Dao. That we must not let the Qi stand in for _the path_: "one cannot seek the perfection of technics through the perfection of a tool or a skill, since perfection can only be accomplished by Dao."
+- Towards the end, Hui says something rather inscrutable: "But it is possible to infinitize Qi so as to infinitize the self and enter into the noumenon—this is the question of art." I don't quite know what it would mean to infinitize the self, but he seems to be getting at the possibility of art entering the neumonal; the unknowable "thing-in-itself".
+- the [[device paradigm and focal things]] seems to link to Hui's description of Dao. That we must not let the Qi stand in for _the path_: "one cannot seek the perfection of technics through the perfection of a tool or a skill, since perfection can only be accomplished by Dao." See [[technics. techne, and technology#^2ef6ed]] for clarity re the term technics
 
 
 
