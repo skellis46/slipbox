@@ -10,12 +10,15 @@ tags: []
 
 ^2ef6ed
 
+>it is almost impossible to deny that technics can be understood as the extension of the body or the exteriorisation of memory. Yet they may not be perceived or reflected upon in the same way in different cultures.[@hui-2016-question p.9]
+
+
 
 ---
 
 _thoughts & links:_
 
-
+- [[gestell and enframing]]
 
 - #unfinished 
 
