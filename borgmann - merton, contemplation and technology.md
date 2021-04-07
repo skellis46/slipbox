@@ -14,7 +14,7 @@ Borgmann's position vis-à-vis technology (and supported by the words of Merton 
 
 >Distraction might have been like a long rainy season, as it was for young Merton, or like the occasional hurricane that the monastic Merton knew. Today it is like a permanent, if attractively glamorous, fog. It’s the atmosphere we live in. It has, to be sure, “the phantasms of a lewd and somewhat idiotic burlesque,“ but for many today it’s no longer “fabricated in their imagination.”26 It is worked out in the graphic details of video games, YouTube, and pornography.[@borgmann_contemplation_2012 p.8]
 
-Jacobs' warning is to suggest that the pattern of technology is most clearly represented by commodification and mechanization:
+Borgmann's warning is to suggest that the pattern of technology is most clearly represented by commodification and mechanization:
 
 >Commodification is the detachment of things and practices from their traditional contexts, and it is the conversion of things and practices into freely available commodities. Mechanization is the replacement of traditional contexts and competencies by increasingly powerful and concealed machineries. As workers we indenture ourselves for the requirements of the machinery. As consumers we revel in the abundance of unencumbered pleasures.[@borgmann_contemplation_2012 p.5]
 
@@ -31,6 +31,7 @@ _questions & thoughts:_
 
 - I'm interested in the 'technology' of the cloister. This is the ways in which -- thinking of Jacobs in [[mythical vs technological core of culture]] and how technology involves manipulation -- the cloister is in itself a technology. This is where Borgmann's writing is not specific enough about what he means by technology.
 - but also perhaps the artistic/poetic possibilities of the cloister -- a place for the "splendour of the simple"
+- regarding cloister and intentional attitude towards technology, see chapter in [Digital Minimalism]([newport-2019-minimalism.epub](hook://file/wwhShJKse?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=newport-2019-minimalism.epub)) on the Amish and their intentional attitude to new technologies and their effects on the community
 
 --- 
 

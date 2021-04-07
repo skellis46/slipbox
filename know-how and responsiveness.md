@@ -14,11 +14,6 @@ Fantl's overview of know-how is detailed. For the purposes of this note I'll men
 _questions & thoughts:_
 
 - I'm drawn to the fluidity here of know-how which creates some tension for me in how I've described know-how as something we all share before research even happens. Perhaps though my point would be that the key thing would be to somehow _capture_ or communicate that responsiveness, that adaptation. This would be the key outcome: change in know-how.
-
---- 
-
-_consider:_
-
 - #practice-research 
 
 

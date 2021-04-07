@@ -8,6 +8,8 @@ In Chapter 8 of _Strange Tools_ (called _See Me if You Can!_) Alva Noë takes on
 
 >The question _Why is this funny?_ is always appropriate, even if it can be difficult to answer adequately. And even if comprehending such an explanation is no substitute for the spontaneous achievement of the understanding in which getting a joke consists. The point is, the explaining, the talking, the laying out of the logic of the joke is not in direct competition with getting it and laughing. You don’t make someone laugh through explanation. And so, for these reasons, you can’t ruin a joke by talking about it.[@noe_strange_2015 Chapter 8, n.p.]
 
+^aae773
+
 Perhaps this analogy also holds for the role of writing in #practice-research. That the words are not able to do any of the work of the art practice itself, but rather are there to draw it into conversation, to build and communicate discursive understandings.
 
 _questions & thoughts:_
