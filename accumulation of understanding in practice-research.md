@@ -9,7 +9,7 @@
 5. [[mythical vs technological core of culture]]
 6. [[somatics, action and technology]] (my sense is that this might be the most unrelated link in the _journey_)
 
-## accumulation of understanding in practice-research #
+## accumulation of understanding in practice-research
 
 ### the collision of cultures 
 

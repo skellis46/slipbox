@@ -12,9 +12,8 @@ tags: []
 
 _thoughts & links:_
 
-- included 
-
-- #unfinished 
+- included here as a simple summary of different perspectives in relation to writing and text in #practice-research 
+- [[a case for writing in practice-research]]
 
 ---
 

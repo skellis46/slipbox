@@ -15,9 +15,6 @@ _thoughts & links:_
 - [[a border is not a boundary]]
 - I wonder if the transgression of a border is more difficult (emotionally, physically, etc) than transgressing a boundary. The relative fuzziness of a border -- the relative lack of clarity -- might make it more destabilising.
 
-
-- #unfinished 
-
 ---
 
 _reference:_ Saarnivaara, M. (2003) ‘Art as Inquiry: The Autopsy of an \[Art\] Experience’. _Qualitative Inquiry_ 9 (4), 580–602.

@@ -4,6 +4,11 @@ _previous note:_ [[art practices explicitly become epistemic things]]
 
 ---
 
+Personal communication from Schwab:
+
+>We really decided on this term when we proposed the RC and SAR. I used it in a ‘call for support’ from 2009 which was sent around to various stakeholders. Following this, it’s probably the editorial for JAR0 - I don’t think that the concept was used before in any specific way. Henk Borgdorff has also credited me with this: [https://www.researchcatalogue.net/profile/show-work?work=388034](https://www.researchcatalogue.net/profile/show-work?work=388034) p.x[^1]
+
+[^1]: Michael Schwab, personal comm: [schwab-2021-trying.pdf](hook://file/x1mmlxbFG?p=c2tlbGxpcy9EZXNrdG9w&n=schwab-2021-trying.pdf)
 
 - be great to get the whole book below (on Expositions) - digging around trying to find the route of the term exposition. 
 - [schwab_borgdorff-2014-introduction.pdf](hook://file/pTXHBnTLr?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=schwab_borgdorff-2014-introduction.pdf)

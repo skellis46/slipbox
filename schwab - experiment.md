@@ -21,10 +21,17 @@ _thoughts & links:_
 - [[experimentation is social]]
 - [[artistic epistemology and radical individuality]]
 - [[epistemic things, technical objects and Duchamp]]
+- Note that Schwab himself is not sure of when Rheinberger first started being discussed in relation to practice-research. He says:
+
+>I am not 100% sure about this. I know of Rheinberger through Hannes Rickli’s work <https://www.zhdk.ch/person/prof-hannes-rickli-6486> –  Rheinberger has been collaborating with Rickli’s team over the years. Before this, I don’t know.[^pers]
+	
+[^pers]: [Michael Schwab personal comm](hook://file/x1mmlxbFG?p=c2tlbGxpcy9EZXNrdG9w&n=schwab-2021-trying.pdf)
+
 
 - still very unsure or skeptical about Schwab's clarity as a writer. It's unnecessarily loopy and dense.
 - seems as if this writing is a slightly earlier attempt to justify or make sense of an artistic epistemology through describing -- or re-contextualising -- Rheinberger's thinking about experimentation. As such it's a bit loose or ill-formed, or perhaps unconvincing.
 - I wonder what my skepticism is about. That is, what is that I'm resisting about Schwab's theorisation here? 
+- note Hannes Rickli's work in Intellectual Birdhouse: [mareis-2011-intellectual.pdf](hook://file/x1np3krPS?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=mareis-2011-intellectual.pdf)
 
 
 ---
