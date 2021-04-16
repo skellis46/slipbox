@@ -36,6 +36,7 @@ _consider:_
 - [[interpretation remains present]]
 - [[the map is not the territory]]
 - [[map and territory]]
+- [[the scale-dependence of emptiness and form]]
 
 _source:_ Lesswrong
 

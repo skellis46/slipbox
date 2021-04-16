@@ -12,6 +12,7 @@ _questions & thoughts:_
 - what is most curious (as a personal response) is how this project by PLB is damning, funny, unethical, rigorous and biased all at the same time.
 - compare, for example, with the profound effects of [Wakefield et al.'s publication re measels, mumps and rubella (MMR) vaccine and autism in The Lancet (1998)](https://en.wikipedia.org/wiki/Andrew_Wakefield) 
 - [grievance studies affair wikipedia](https://en.wikipedia.org/wiki/Grievance_studies_affair): excellent summary
+- see also the [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
 
 --- 
 

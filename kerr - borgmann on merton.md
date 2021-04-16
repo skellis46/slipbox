@@ -12,7 +12,7 @@ Kerr outlines Borgmann's concept of [[device paradigm and focal things]], but ca
 
 >The machinery of a device, on the other hand, makes no demand on our skill, it comes from somewhere else, it has no context excepting its utilization in the disburdenment of our struggles with darkness, cold, and food. The purpose of the device is “relatively fixed” -- the device can come in different forms, but its end purpose is always consistent and unchangeable -- the television is an exemplary device in this regard. This device distances us from reality, it mediates our engagement with the way things are, and in the words of Borgmann, “degrades the natural symmetry between humanity and reality.”[@kerr_borgmann_2016 p.61]
 
-Kerr suggests that Borgmann provides a way for us to see the patterns -- "the human desire for comfort connecting to the sense and relief of disburdenment, the separation of machinery from commodity, the way commodities keep us from more social en- gagements, the pattern’s unquestionable ubiquity and logic"[@kerr_borgmann_2016 p.72] -- of the technological fog in order to find our way to a focal practice. 
+Kerr suggests that Borgmann provides a way for us to see the patterns -- "the human desire for comfort connecting to the sense and relief of disburdenment, the separation of machinery from commodity, the way commodities keep us from more social engagements, the pattern’s unquestionable ubiquity and logic"[@kerr_borgmann_2016 p.72] -- of the technological fog in order to find our way to a focal practice. 
 
 The article hinges on four concepts: devices, things, disburdenment and contemplation. Disburdenment refers to the ways in which technologies disburden humans of effort or labour. This is neither positive nor negative.
 

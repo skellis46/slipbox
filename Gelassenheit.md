@@ -22,7 +22,7 @@ The [wikipedia page on Gelassenheit](https://en.wikipedia.org/wiki/Heideggerian_
 _thoughts & links:_
 
 - [[gestell and enframing]]
-- [[technics. techne, and technology]]
+- [[technics, techne, and technology]]
 
 
 ---

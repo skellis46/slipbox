@@ -13,7 +13,7 @@ For Auslander, our experience of something now as opposed to _when_ it was produ
 _questions & thoughts:_
 
 - my _real_ interest here is in Gadamer's thinking about understanding as an event. It chimes strongly with the production of knowledge (ie understanding) in practice-research
-- which begs the question, what is the difference between knowledge and understanding? Philsophically? Ethically? 
+- which begs the question, what is the difference between knowledge and understanding? Philsophically? Ethically? See [[types of understanding]] regarding objectual understanding.
 
 --- 
 

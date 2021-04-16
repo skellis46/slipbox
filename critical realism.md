@@ -29,7 +29,7 @@ _consider:_
 - hard to be sure how deep to go into this particular rabbit hole. Perhaps to understand how it might help the _authentic movement situation_ would be useful. That is, what might these unobservable mechanisms be in AM? But my guess is that it's difficult enough to be dealing with the observable ...
 - [warwick.ac.uk/fac/soc/ces/research/current/socialtheory/maps/criticalrealism/](https://warwick.ac.uk/fac/soc/ces/research/current/socialtheory/maps/criticalrealism/) for easy to read overview
 - Andrew Sayer's book [Realism and Social Science](hook://file/ozfpZt1Ln?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=sayer-2000-realism.pdf) (local PDF)
-
+- [[the scale-dependence of emptiness and form]]
 
 _source:_ [[grievance studies]] -- see note about comment by Owen Crankshaw
 

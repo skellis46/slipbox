@@ -19,8 +19,9 @@ I wonder though what other kinds of truths exist. [noting a thought on 21/1/21 g
 _thoughts & links:_
 
 - how does Ingold's conception of truth sit with the distinction between the [[map and territory]]?
-- or even just the idea of 'reality'?
-- taking ourselves into the world is not so far from [[modes of thought and practices enabled by modes of thought]] in which we enter ontological spaces (enabled by practices)
+- or even just the idea of 'reality'? See also [[the really real]]
+- taking ourselves into the world is not so far from [[modes of thought and practices enabled by modes of thought]] in which we enter ontological spaces (enabled by practices) or understanding relationship between subjectivity (senses) and ontology-form in [[the scale-dependence of emptiness and form]]
+- [[types of understanding]]
 
 
 _source:_  rss feed    

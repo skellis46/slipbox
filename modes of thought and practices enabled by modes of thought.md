@@ -16,6 +16,7 @@ _thoughts & links:_
 - compare with [[critical realism]]
 - worth considering in relation to [[schwab - experimental systems]] and my sense that the ontological as described by Adams St Pierre is more akin to an epistemic thing (both of which are driven by practices). But, I suspect they are talking about very different things #practice-research 
 - contrast also with Ingold's idea that [[knowing is immanent in the field of practice]] 
+- see also [[the scale-dependence of emptiness and form]] and the ontology of form as a practice of subjectivity. 
 
 
 ---

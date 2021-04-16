@@ -16,7 +16,7 @@ This is Borgdorff's summary of the article:
 
 How does such a summary account for a research _process_ or acknowledge an _assay point_. That is, I might have a practice, start the research, then immediately assay my practice at the beginning to present it as research. 
 
-Responding to question of how art research is distinctive from current academic research, Borgdorff describes ontological, epistemological and methodological questions. The epistemological question is, "What kinds of knowledge and understanding are embodied in art practice? And how does that knowledge relate to more conventional types of academic knowledge?"[@borgdorff_debate_2006 p.11] -- he does a poor job of addressing the question. Whose bodies? (body of researcher? body of the work of art? body of audience?)
+Responding to question of how art research is distinctive from current academic research, Borgdorff describes ontological, epistemological and methodological questions. The epistemological question is, "What kinds of knowledge and understanding are embodied in art practice? And how does that knowledge relate to more conventional types of academic knowledge?"[@borgdorff_debate_2006 p.11] -- he does a poor job of addressing the question. Whose bodies? (body of researcher? body of the work of art? body of audience?) ^e4ce42
 
 >We can hence speak of research in the arts only when the practice of art delivers an intended, original contribution to what we know and understand.[@borgdorff_debate_2006 p.9]
 
