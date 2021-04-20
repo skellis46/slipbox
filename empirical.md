@@ -6,4 +6,7 @@
 
 Conquergood, D. (2002) “Performance Studies. Interventions and Radical Research,” in The Drama Review 46 (2) (T174), Summer, pp. 145-156.
 
-- note how Conquergood conflates empirical with distance
+- note how Conquergood conflates empirical with distance; contrast with [[radical empiricism]]
+
+
+#unfinished 

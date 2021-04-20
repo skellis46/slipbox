@@ -10,7 +10,7 @@ _previous note:_
 ---
 
  
->As Hannah Arendt stated, art and culture are the factors that represent the foundational glue of the web of human relations,1 which, particularly through memory, are able to endow dignity and honor to public life. These spheres are a public social issue, and that is also why—as a cultural prac- titioner, and not an academic one—my core interest is in building cultural production mechanisms linked to these spheres.[@ambrozic_regeneration_2013 p.30]
+>As Hannah Arendt stated, art and culture are the factors that represent the foundational glue of the web of human relations,1 which, particularly through memory, are able to endow dignity and honor to public life. These spheres are a public social issue, and that is also why—as a cultural practitioner, and not an academic one—my core interest is in building cultural production mechanisms linked to these spheres.[@ambrozic_regeneration_2013 p.30]
 
 ---
 

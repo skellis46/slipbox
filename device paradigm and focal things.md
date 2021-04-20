@@ -12,7 +12,7 @@ A focal thing is intimately connected to practice and is something that delivers
 
 >A focal thing is something of ultimate concern and significance, which may be masked by the device paradigm, and must be preserved by its intimate connection with practice.
 
--- [Borgmann, in @noauthor_device_2020]
+-- [Borgmann, in @noauthor-2020-device]
 
 _questions & thoughts:_
 
@@ -37,7 +37,7 @@ _source:_  unknown
 
 _local link:_ [noauthor-2020-device](hook://file/kxDLnIfG7?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=noauthor-2020-device.pdf)
 
-_zotero link & citekey:_ [noauthor_device_2020](zotero://select/items/1_RWWSGIMK)
+_zotero link & citekey:_ [noauthor-2020-device](zotero://select/items/1_RWWSGIMK)
 
 _reference:_ Device Paradigm [WWW Document], 2020. Wikipedia. URL <https://en.wikipedia.org/wiki/Device_paradigm> (accessed 8 June 2020).
 
