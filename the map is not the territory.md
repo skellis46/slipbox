@@ -26,9 +26,10 @@ This second point is described as follows:
 
 _thoughts & links:_
 
-- I suspect I need to read more about the basis (and ideology) or rationalism, but I'm curious about this simple formulation and how it might be used to disentangle some of the mangle of [[art practice and artistic research]].
+- I suspect I need to read more about the basis (and ideology) of rationalism, but I'm curious about this simple formulation and how it might be used to disentangle some of the mangle of [[art practice and artistic research]].
 - in particular the idea that changing our beliefs does not change the world and how this might be useful in considering a creative practice in the context of #practice-research. (Of course changing our beliefs _might_ change the world, but in the context of practice-research I imagine this is not the case. The question then becomes what are we noticing that is different and why is that important and to whom?) 
 - this practice of noticing tempers wishful thinking (or, plainly, hope) in practice-research
+- [[direct experience through the senses]] -- what is available to us (and its partiality)
 
 
 

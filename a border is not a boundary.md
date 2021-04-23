@@ -5,10 +5,6 @@ tags: []
 
 # a border is not a boundary
 
-_previous note:_ 
-
----
-
 In _Together_ Richard Sennett describes how there are two different kinds of edges: a border and a boundary. A boundary is more inert; there is little activity at it, while a border is a more active edge. 
 
 >In human ecology, the eight-lane highway isolating parts of the city from each other is a boundary, whereas a mixed-use street at the edge between two communities can be more of a border.[@sennett_together_2012 p.79]
