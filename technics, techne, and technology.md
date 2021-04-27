@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: []
+tags: [two_women_dancing]
 ---
 
 # technics, techne, and technology

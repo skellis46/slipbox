@@ -18,7 +18,7 @@ _questions & thoughts:_
 - what are the practical implications for such an approach? Jacobs is talking about digital spaces (and how we might approach content online) but how might his thinking (and the thinking of the people he cites) be useful beyond that realm? 
 - am reminded of [longnow.org](http://longnow.org)
 - the word 'tending' is so useful in relation to practice-research. 
-- see present shock book by Rushkoff re "what force shall represent the future in the present?"
+- see present shock book by Rushkoff re "what force shall represent the future in the present?" Here's a link: [[technological determinism#^7a118d]]
 
 --- 
 

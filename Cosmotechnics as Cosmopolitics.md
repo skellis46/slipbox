@@ -27,6 +27,21 @@ He calls on Heidegger's 1949 lecture:
 
 >Mou’s demarcation between Chinese and Western philosophy situates his conviction that Chinese philosophy recognizes and cultivates the intellectual intuition that Kant associated with knowing the noumenon, even as Kant dismissed the possibility that human beings could possess such an intuition.
 
+
+>First, what does Hui mean by the peculiar word “cosmotechnics”? “It is the unification of the cosmos and the moral through technical activities, whether craft-making or art- making.” That is, a cosmotechnics is the point at which a way of life is realized through making.[@jacobs-2021-tech p.33]
+
+>Hui further comments that if the fundamental concern of Western phi- losophy is with being and substance, the fundamental concern of Classical Chinese thought is relation. So it makes sense, then, that his approach to cosmotechnics would center on the inquiry into a certain relation, that between dao (the way) and qi (tools).[@jacobs-2021-tech p.34]
+
+>It is from the ten thousand things that we learn how to live among the ten thousand things; and our choice of tools will be guided by what we have learned from that prior and foundational set of relations. This is cosmotechnics.[@jacobs-2021-tech p.36]
+
+>Hui doesn’t believe we can simply return to traditional ways—but this doesn’t mean we cannot resist technopoly. “I believe that to overcome modernity without falling back into war and fascism, it is necessary to reappropriate modern technology through the renewed framework of a cosmotechnics.” His project “doesn’t refuse modern technology, but rather looks into the possibility of different technological futures.”[@jacobs-2021-tech p.36]
+
+>“To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option.”[Hui, in @jacobs-2021-tech p.37]
+
+>More generally, this cosmotechnics, this technological Daoism as an embodiment of daojia, is accessible to people of any religious tradition or none. It provides a comprehensive and positive account of the world and one’s place in it that makes a different approach to technology more plausible and compelling. The SCT tends only to gesture in the direction of a model of human flourishing, evokes it mainly by implication, whereas Yuk Hui’s Daoist model gives an explicit and quite beautiful account. And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
+
+
+
 ---
 
 _thoughts & links:_
@@ -34,6 +49,8 @@ _thoughts & links:_
 - [[gestell and enframing]]
 - [[device paradigm and focal things]]
 - [[noumenon and phenomenon]]
+- [[technics, techne, and technology]]
+- [[the Dao of butchering cows]]
 
 
 - #unfinished 
