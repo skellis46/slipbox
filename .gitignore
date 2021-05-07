@@ -9,4 +9,4 @@ obsidian.css
 /.obsidian/themes/Discordian.css
 /.obsidian/themes/Obsidian Nord.css
 /.obsidian/themes/Cybertron.css
-/.obsidian/plugins
+/.obsidian/plugins/*.*
