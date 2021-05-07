@@ -1,8 +1,8 @@
-# device paradigm and focal things
-
-_previous note:_  [[without symbolic mediation]]
-
 ---
+current-status: "in-progress"
+---
+
+# device paradigm and focal things
 
 Albert Borgmann is an American scholar working in the philosophy of technology. His book _Technology and the Character of Contemporary Life_ (1984) builds on Heidegger's concept of enframing (Gestell) and introduces two key terms: the _device paradigm_, and _focal things_. 
 
@@ -25,9 +25,10 @@ _questions & thoughts:_
 
 _consider:_ 
 
+- [[without symbolic mediation]]
 - [[gestell and enframing]]
 - [[instrumental extrinsic value definition]]
-- #toread Borgmann's Technology and the Character of Contemporary Life (1984): [borgmann-1984-technology.pdf](hook://file/nqMct1Yyk?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=borgmann-1984-technology.pdf)
+- [ ] scan Borgmann's Technology and the Character of Contemporary Life (1984) to decide if warrants detailed reading: [borgmann-1984-technology.pdf](hook://file/nqMct1Yyk?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=borgmann-1984-technology.pdf)
 
 _return links:_
 

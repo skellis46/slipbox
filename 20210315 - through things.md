@@ -1,3 +1,7 @@
+---
+tags: [skin-air-ground] 
+---
+
 # 20210315 - through things
 
 I was walking through the commons and the trees, being with them. At "my" birthday tree, I imagined throwing the camera in and through the branches -- through things and around things. #ideatotrydone [[20210316 - settings and trees]] 

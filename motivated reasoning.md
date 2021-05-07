@@ -35,7 +35,7 @@ _questions & thoughts:_
 
 _consider:_
 
-- Haidt source -- #toread -- <https://www.youtube.com/watch?v=kaQ-ZF9S3uk>
+- Haidt source -- <https://www.youtube.com/watch?v=kaQ-ZF9S3uk>
 - [[search for truth]]
 - [[interpretation remains present]]
 

@@ -6,3 +6,4 @@ Indexical note (or starting point) for epistemology:
 
 
 #index
+

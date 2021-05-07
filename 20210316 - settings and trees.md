@@ -1,3 +1,7 @@
+---
+tags: [skin-air-ground] 
+---
+
 # 20210316 - settings and trees
 
 Did a few more tests with settings, and also in the trees to see what went on. Struggled with settings frankly. Some not clear. Audio has this kind of low frequency 'clicking' on it -- possibly the bluetooth connection that I turned on? 

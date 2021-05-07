@@ -1,3 +1,7 @@
+---
+tags: [skin-air-ground] 
+---
+
 # 20210309 - playing and catching 
 
 Very sunny, bright. Did series of tests with GoPro trying to get a better sense of how different features work. Went to 720p so I could get a look at 240fps. Below are the tests with CAPS indicating the changes. Started running, playing and catching a bit from number 3. Continued that for remaining two tests. 

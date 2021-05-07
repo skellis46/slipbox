@@ -1,3 +1,7 @@
+---
+tags: [skin-air-ground] 
+---
+
 # skin air ground moc
 
 [[20200827 - it's all imagined]]
@@ -21,3 +25,13 @@
 [[20210427 - color grading and correction for GoPros]]
 
 #artistic-practice
+#MOC
+
+
+## dataview
+
+```dataview
+table file.size, file.mtime
+from #skin-air-ground 
+sort file.mtime desc
+```

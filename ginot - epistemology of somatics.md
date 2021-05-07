@@ -1,8 +1,8 @@
-# ginot - epistemology of somatics
-
-_previous note:_  [[somatics is the field which studies the soma]]
-
 ---
+current-status: "in-progress"
+---
+
+# ginot - epistemology of somatics
 
 Isabelle Ginot is a dance scholar and Feldenkrais practitioner. This article is in part a critique of Richard Shusterman's book _Body Consciousness: A Philosophy of Mindfulness and Somaesthetics_ (2008), and the way in which it attempts to apply somatic practices (specifically Feldenkrais and Alexander Techniques) as philosophical discourse. Ginot also criticises the ways in which somatics "puts scientific discourse to use"[@ginot_shustermans_2010 p.13] by attempting to tread (or perhaps create) a fine line between subjective experience and objective _generalizable_ reality. 
 
@@ -16,12 +16,13 @@ _questions & thoughts:_
 
 - this is a very brief summary of the article. I'll generate other notes that get into specific aspects (but that I would think to be different zettelkasten-based ideas)
 - this is the first substantial and careful critique of many of the central tenets of somatics I've ever read
+- [[somatics is the field which studies the soma]]
 
 --- 
 
 _consider:_ 
 
-- #toread - to look at the work of Godard who "shifted the question of scientific truth toward that of imaginary production" and I can then relate to Ingold's [[search for truth]]
+- [ ] to look at the work of Godard who "shifted the question of scientific truth toward that of imaginary production" and I can then relate to Ingold's [[search for truth]]
 
 _source:_ Emma Meehan via Microsoft Teams thread, 12 June 2020
 

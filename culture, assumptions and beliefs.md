@@ -12,7 +12,7 @@ I'm fascinated by how unspoken beliefs and assumptions -- our cultural patterns 
 
 _questions & thoughts:_
 
-- #toread Edgar Schein, e.g. <https://www.valuebasedmanagement.net/methods_schein_three_levels_culture.html>
+- Edgar Schein's work, e.g. <https://www.valuebasedmanagement.net/methods_schein_three_levels_culture.html>
 - How might we come to understand our assumptions and beliefs about the body (about our own bodies)? 
 - #question What body-based assumptions and beliefs are unspoken or taken for granted? 
 - compare with Kahneman's idea that we can't change people's minds (metaphor of spring) in same podcast as [[evidence and protecting the dissenters]]

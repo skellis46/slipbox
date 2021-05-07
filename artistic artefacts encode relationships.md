@@ -1,6 +1,7 @@
 ---
 aliases: []
 tags: []
+current-status: "in-progress"
 ---
 
 # artistic artefacts encode relationships
@@ -31,7 +32,7 @@ _thoughts & links:_
 -  I wrote a blog post about this note at [practiceasresearchblog.wordpress.com/2021/02/03/the-different-ages-of-an-artwork/](https://practiceasresearchblog.wordpress.com/2021/02/03/the-different-ages-of-an-artwork/)
 -  at a stretch I could relate to Ingold's [[fields of practice]] and the sense of the things that are beyond or outside of ourselves
 
-- #toread -- Kubler
+- [ ] look at Kubler's book to decide to read in depth: [kubler-1962-shape.pdf](hook://file/y8OERC3VT?p=MjAyMDA3MTQgLSBkb2NzIHRvIHByb2Nlc3MvcGFyIGFuZF9vciBrbm93bGVkZ2U=&n=kubler-1962-shape.pdf)
 
 ---
 

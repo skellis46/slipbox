@@ -6,3 +6,6 @@
 
 - see in comparison with my [[20210316 - settings and trees]] and [[20210316 - camera setup list]]
 - I've been shooting in color:GoPro which is a mistake. Needs more testing.
+
+
+#skin-air-ground

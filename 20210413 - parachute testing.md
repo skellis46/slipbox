@@ -1,3 +1,7 @@
+---
+tags: [skin-air-ground] 
+---
+
 # 20210413 - parachute testing
 
 Made a homemade parachute as first suggested by Lil in [[20210308 - make a parachute]].  Tested briefly. Works, but perhaps not as well as I would have liked. It certainly changes the nature of the fall -- swinging. Utterly fascinating.

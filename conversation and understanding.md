@@ -1,3 +1,7 @@
+---
+current-status: "in-progress"
+---
+
 # conversation and understanding
 
 _previous note:_ [[gadamer and understanding as an event]]
@@ -16,7 +20,9 @@ _questions & thoughts:_
 - who ought to be responsible for these enactments, or conversations? the artist reflecting as in PaR? Or the audience? or both? #practice-research 
 - how then -- and this is not the first time this question has been asked? -- is practice-research different from making art? See Magee ([magee-2012-accountability.pdf](hook://file/mz8Ki68gv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=magee-2012-accountability.pdf)) for overview of how art made sense of itself in the academy at the beginning. See also Frayling (1993)
 - the idea that art (and philosophy) produce change in understanding chimes very well with _Finger Pointing Moon_. The question becomes then who is changed by it -- and sets up the possibility of [[a case for writing in practice-research]] in which the artist-researcher sometimes does that work of change, other times allows it to rest with the audience/viewer. In this respect it's not so much the presence of writing that confers the status of 'research' on a work of art, but rather that the researcher has done the work of communicating change/understanding (which will not be equivalent to the understandings afforded by the artistic artefact)
-- reminded here of how useful 'meaning potentials' and 'affordance' is in this case. That something is afforded by practice-research. #toread -- affordances
+- reminded here of how useful 'meaning potentials' and 'affordance' is in this case. That something is afforded by practice-research
+
+- [ ] look more into underpinnings of affordances? 
 
 
 --- 

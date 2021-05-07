@@ -9,8 +9,8 @@ _previous note:_  [[human experience and language]]
 _questions & thoughts:_
 
 - I understand this phrase to encapsulate the power, limitations and beauty of artistic thinking and practice in the academy
-- #toread Johnston's text (or the original unknown text)
-- see Drafts for note about how it was the Buddha who was thought to have said this (quote from Thich Nhat Hanh in George )
+- Johnston's text (or the original unknown text)
+- see [[to experience reality]] for how it was the Buddha who was thought to have said this (quote from Thich Nhat Hanh in George Mumford)
 
 --- 
 

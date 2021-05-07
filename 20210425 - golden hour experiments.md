@@ -1,3 +1,7 @@
+---
+tags: [skin-air-ground] 
+---
+
 # 20210425 - golden hour experiments
 
 ## premise
@@ -62,3 +66,4 @@ Possibility or idea of using orange survival blanket -- [[20210316 - settings an
 ## sample -- with some colour coorrection
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/541713034" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+

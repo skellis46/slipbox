@@ -19,7 +19,7 @@ _consider:_
 - [[characteristics of somatics in HCI and interaction design]]
 - [[evidence and protecting the dissenters]] -- when we notice something that is out of the ordinary or not the _norm_ how do we ensure that these observations are protected? 
 - [[somatic feedback interrupts habits]]
-- #toread Zull, James E. 2002. The Art of Changing the Brain: Enriching the Practice of Teaching by Exploring the Biology of Learning. Sterling, Va: Stylus Publishing
+- Zull, James E. 2002. The Art of Changing the Brain: Enriching the Practice of Teaching by Exploring the Biology of Learning. Sterling, Va: Stylus Publishing
 - [[somatics is the field which studies the soma]]
 
 

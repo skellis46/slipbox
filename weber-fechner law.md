@@ -1,3 +1,7 @@
+---
+current-status: "in-progress"
+---
+
 # weber-fechner law
 
 _previous note:_ [[ginot - epistemology of somatics]]
@@ -15,7 +19,7 @@ _questions & thoughts:_
 
 _consider:_
 
-- #toread [shusterman_body_2008](zotero://select/items/1_CWLAKHRM)
+- [ ] useful to read [shusterman_body_2008](zotero://select/items/1_CWLAKHRM) as background for writing by Ginot
 
 _source:_ [ginot_shustermans_2010](zotero://select/items/1_C3ITT6AR)
 

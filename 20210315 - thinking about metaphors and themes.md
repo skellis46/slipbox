@@ -1,3 +1,7 @@
+---
+tags: [skin-air-ground] 
+---
+
 # 20210315 - thinking about metaphors and themes
 
 - thinking about chaos and loss of control

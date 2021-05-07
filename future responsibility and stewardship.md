@@ -1,3 +1,7 @@
+---
+current-status: "in-progress"
+---
+
 # future responsibility and stewardship
 
 _previous note:_ [[device paradigm and focal things]]
@@ -26,8 +30,8 @@ _consider:_
 
 - in the article Jacobs cites _Their Lonely Betters_ by Auden -- [[words, promises and time]] -- and of assuming responsibility for time (and for keeping promises)
 - compare with [[action is the foundation of thought]] which is highlighting actions in space over time; here it is a question of time and responsibility (perhaps more abstract?)
-- #toread The Imperative of Responsibility by Hans Jonas
-- #toread Standing by Words by Wendell Berry (1980)
+- [ ] check out _The Imperative of Responsibility_ by Hans Jonas
+- [ ] check out _Standing by Words_ by Wendell Berry (1980)
 
 
 _source:_ unknown (likely RSS feed)

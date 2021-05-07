@@ -19,7 +19,7 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- #toread Rheinberger, Hans-Jörg. 1997. Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube. Stanford, Calif: Stanford University Press
+- Rheinberger, Hans-Jörg. 1997. Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube. Stanford, Calif: Stanford University Press
 - [[device paradigm and focal things]]
 - [[search for truth]] -- speaks directly to my question above; that is: imagination and experience
 - [[shifting focus and scanning]] -- how is noticing detail different from noticing difference (or becoming differently aware?)

@@ -14,7 +14,7 @@ Borgdorff writes that the idea of the "intent" criterion is for reviewers to res
 
 The problem here is that there is little if any discourse or dialogue with the field. The quantity of [[mesearch]] is overwhelming, and very few artist-scholars seem to engage with i) what other artistic-scholarly practices their work is in conversation with; ii) why their work matters; and iii) to whom does it matter?
 
-Just to note that Borgdorff discusses ontologic and epistemic boundaries on the next page. #toread  
+Just to note that Borgdorff discusses ontologic and epistemic boundaries on the next page. 
 
 
 _questions & thoughts:_

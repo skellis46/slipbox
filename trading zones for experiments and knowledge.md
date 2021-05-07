@@ -1,6 +1,7 @@
 ---
 aliases: []
 tags: []
+current-status: "in-progress"
 ---
 
 # trading zones for experiments and knowledge
@@ -22,7 +23,7 @@ _thoughts & links:_
 
 
 - #unfinished 
-- #toread -- Peter Galison, _Image and Logic: A Material Culture of Microphysics_ (Chicago: University of Chicago Press, 1997), 46, 781.
+- [ ] look briefly at to determine if worth deepening: Peter Galison, _Image and Logic: A Material Culture of Microphysics_ (Chicago: University of Chicago Press, 1997), 46, 781.
 
 ---
 

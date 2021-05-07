@@ -14,7 +14,7 @@ _questions & thoughts:_
 
 _consider:_ 
 
-- #toread Gadamer, Hans-Georg. 2004. Truth and Method. 2nd rev. edition. Trans. J. Weinsheimer and D. G. Marshall. New York: Crossroad
+- Gadamer, Hans-Georg. 2004. Truth and Method. 2nd rev. edition. Trans. J. Weinsheimer and D. G. Marshall. New York: Crossroad
 - [[internal and external attention]] -- comparing what we know and what we don't yet know to two different states of attention in somatic practices. The knowing body, the unknown body.
 - [[search for truth]] -- comparing the pursuit of new understandings (from pre-conceptions) with Ingold
 - [[without symbolic mediation]]

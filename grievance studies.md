@@ -32,7 +32,7 @@ _consider:_
 
 - it's curious how little I know about the enlightenment project, and the 'struggle' between rationalism and empiricism. 
 - [[search for truth]]
-- #toread [sayer-2000-realism.pdf](hook://file/nZn0qgxIU?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=sayer-2000-realism.pdf)
+- [sayer-2000-realism.pdf](hook://file/nZn0qgxIU?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=sayer-2000-realism.pdf)
 
 _source:_ [@mckeever_capitalism_2018](zotero://select/items/1_LJM253ZN)
 

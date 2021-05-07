@@ -7,17 +7,13 @@ tags: []
 
 Adams St. Pierre quote Patti Lather from 1996 who said that “methodology often diverts attention from more fundamental issues of epistemology”.[Lather in @adamsst.pierre-2014-brief p.9]
 
-I've made a note here
 
 ---
 
 _thoughts & links:_
 
 
-- #unfinished 
-- #toread - orginal Lather:  
-
-Lather, P. (1996, April). Methodology as subversive repetition: Practices toward a feminist double science. Paper presented at the Annual Meeting of the American Educational Research Association, New York City, New York.
+Here's the original: Lather, P. (1996, April). Methodology as subversive repetition: Practices toward a feminist double science. Paper presented at the Annual Meeting of the American Educational Research Association, New York City, New York.
 
 ---
 

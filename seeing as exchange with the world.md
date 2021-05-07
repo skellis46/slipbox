@@ -23,7 +23,7 @@ _questions & thoughts:_
 
 _consider:_
 
-- #toread Dana Ballard and _embodiment level_ in robotics
+- taking a look at Dana Ballard and _embodiment level_ in robotics
 - [[conversation and understanding]]
 
 

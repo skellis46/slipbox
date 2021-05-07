@@ -9,7 +9,7 @@ In _Emptiness: a practical guide for meditators_, Guy Armstrong writes that the 
 Armstrong attemps to clarify Krishnamurti's aphorism by suggesting that we cannot stand apart from our experience. He says that "When we are observing anger, we are, at least in part, that anger."[@armstrong_emptiness_2017 Chapter 2, n.p.]. 
 
 
-[^1]: J. Krishnamurti, _Freedom from the Known_ (Bombay: B. I. Publications, 1982), p.96. #toread 
+[^1]: J. Krishnamurti, _Freedom from the Known_ (Bombay: B. I. Publications, 1982), p.96.
 
 
 ---
@@ -17,7 +17,7 @@ Armstrong attemps to clarify Krishnamurti's aphorism by suggesting that we canno
 _thoughts & links:_
 
 - am thinking of centrist or balanced perspectives that call on observable evidence while acknowledging the ways in which we are implicated in what and how we observe
-- #finger-pointing-moon -- thinking of authentic movement and the limits of an [[empirical research]] approach. I'm sitting between lines of western and eastern philosophy, and also between mysticism and science. I wonder if it's worth #toread The Tao of Physics again (once more with feeling)?
+- #finger-pointing-moon -- thinking of authentic movement and the limits of an [[empirical research]] approach. I'm sitting between lines of western and eastern philosophy, and also between mysticism and science. I wonder if it's worth reading The Tao of Physics again (once more with feeling)?
 - [[direct experience through the senses]]
 - [[mesearch]]
 - [[standpoint epistemology]]

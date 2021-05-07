@@ -1,3 +1,7 @@
+---
+current-status: "in-progress"
+---
+
 # the body as method
 
 _previous note:_ [[history of somatics]]
@@ -12,7 +16,7 @@ In his introduction to the edited volume _Modes of Knowing: Resources from the B
 _questions & thoughts:_
 
 - I'm taking this out of context (haven't read the book) so need to tread carefully
-- #toread - this book!
+- [ ] I've only touched on this book (Law 2016) and need to scan to determine how much further to go with it
 - it's not clear the relationship bewteen "modes of knowing" that social sciences have difficult with, and something that is "part of method". There's a jump there. 
 
 

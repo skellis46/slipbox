@@ -1,3 +1,7 @@
+---
+tags: [skin-air-ground] 
+---
+
 # 20210308 - make a parachute
 
 First day trying with throwing GoPro in the air. Surprising results -- quite stable, and very usable at slow motion. Most successful at 120fps slowed down to 12.5 fps in PP. Lil suggested trying with a a parachute. #ideatotrydone (20210413).  I got caught up in the sound. Made tumbling.mp4 and sent to Josh Slater and Lee Miller: 

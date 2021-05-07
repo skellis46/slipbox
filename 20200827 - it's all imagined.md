@@ -1,3 +1,8 @@
+---
+current-status: "unprocessed"
+tags: [skin-air-ground]
+---
+
 # 20200827 - it's all imagined
 
 >It’s all imagined; there’s nothing to teach. Where does the wind go on a still day? And the breath you just took—doesn’t it exist now only as pure imagination? You noticed the breath flowing into your nostrils, and when you don’t have any thought of a past, this is the first breath that has ever been breathed, and now it’s gone. How can you know that it ever happened at all?

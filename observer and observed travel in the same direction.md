@@ -1,6 +1,7 @@
 ---
 aliases: []
 tags: []
+current-status: "in-progress"
 ---
 
 # observer and observed travel in the same direction
@@ -18,8 +19,7 @@ _thoughts & links:_
 - thinking about role of observer in authentic movement, but also role of third-person in #finger-pointing-moon 
 
 
-- #unfinished 
-- #toread Clark, A. 1997. Being there: putting brain, body and the world together again (cited in Ingold)
+- [ ] look at this to decide if to pursue further: Clark, A. 1997. Being there: putting brain, body and the world together again (cited in Ingold)
 
 
 ---
