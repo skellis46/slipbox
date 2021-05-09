@@ -14,7 +14,7 @@ They are two young women, perhaps 14 or 15 years old. They are playing together 
 
 They are dancing for each other; or, each of them is dancing for the other who is recording the dancing on a smartphone held in portrait mode. The camera and the dancer are close to each other; it's a close-up. They take turns dancing or recording, then watching the short dance together, pointing at the small screen, and laughing freely and loudly. 
 
-The dancing itself is mostly movement in the head and neck; a kind of rolling or looping of the head side to side around the transverse axis. It's very specific, and it is playfully performed. As a trio -- two women and a camera -- they are lost in their own world; enamoured with the game. The movement or sequence is pretty much the same short length every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. 
+The dancing itself is mostly movement in the head and neck; a kind of rolling or looping of the head side to side around the transverse axis. It's very specific, and it is playfully performed. As a trio -- two women and a camera -- they are lost in their own world; enamoured with the game. The movement or sequence is pretty much the same short length every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances.
 
 From the outside (well, this is all from the outside really), their game (like so many open-ended games) seems to be on repeat. Even the repetition of the movement has a quality of being able to be reversed, repeated or played back. Each dance is exquisitely brief, and not linear or forward seeking. There's a visual glitch in their matrix as they play. 
 

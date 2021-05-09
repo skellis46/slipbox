@@ -1,3 +1,12 @@
+---
+aliases: []
+type: "book"
+platform: "not yet known"
+current-status: "in-progress"
+status-updated: "20210509"
+
+---
+
 # this body 
 
 Chairs getting bigger in order for us to do less. (noticing software developers and gamers sitting in these massive chairs.)
@@ -18,9 +27,7 @@ The natural body
 The naturist's body
 The different body 
 
-- the many bodies
-- I am these bodies
-- This is my body 
+
 
 An alternative to Bill Bryson
 A safe body
@@ -43,13 +50,18 @@ The disabled body
 The resting body
 
 ## The performing body
-public speaking. Fear. Physiology. 
+public speaking. Fear. Physiology. Apple Watch alarm for some heart problem.
 
 ## The impermanent body 
 
 >Getting beyond dualistic thinking is not an easy task.  We might reflect, for example, on the oppositional symmetries of our very bodies (left/right, two eyes, two ears, two arms, two legs) and in the simplicity of prominent moral frames (good/bad, right/wrong, heaven/hell). Yet it is neither the only nor the best frame to deepen and enhance understanding of our world, our history, and possible solutions to the problems we face. 
 
 https://heterodoxacademy.org/blog/both-sides-now-from-debate-to-dialogue/
+
+## Possible titles
+- the many bodies
+- I am these bodies
+- This is my body 
 
 ## references
 
