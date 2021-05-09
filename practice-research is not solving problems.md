@@ -8,6 +8,8 @@ status-updated: "20210507"
 
 # practice-research is not solving problems
 
+>Panel 2 - Why practice matters – if practice is part of dance research, then what needs to change to reflect the value of practice as an epistemic system? for our Dance Research Matters event on Thursday 27th May.
+
 - practice in academia and practice out. Are we talking about the same thing? 
 
 Thinking about instrumentalisation of research. Problem solving. As if all research is like an engineering or design problem. PaR seemed to be a way to think differently about research, more akin to pure science. Sense of wonder about the ways of the world. But as in science, that has more or less gone. Rather than make PaR something like this, it has been morphed into solving problems. 
@@ -22,5 +24,8 @@ Something changed. The experience is fundamentally different.
 
 Biggs and Buchler: responsibility at two levels. 
 Instrumentalisation is the terrifying and terrible part of the impact agenda. I'm not entirely against the agenda; many many good things have come from it, not least an awareness of how we might communicate understandings to the wider public. But, the very worst thing is this sense of "I do this and it produces this". It's a mentality that now runs deep in the academy. Like we are all engineers. Prototyping. But, in reality we are more akin to scientists or religious people (who themselves are far more like than they'd mostly ever care to admit): seeking wonder, seeking the unknown, the inexplicable. Wonder. 
+
+
+
 
 #practice-research 

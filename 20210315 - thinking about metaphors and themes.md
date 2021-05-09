@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210315 - thinking about metaphors and themes
 
+[[skin air ground]]
+
 - thinking about chaos and loss of control
 - about the pleasure of playing and catching
 - of disorientation, and our desperation to orient ourselves 

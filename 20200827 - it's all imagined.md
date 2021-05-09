@@ -1,6 +1,5 @@
 ---
 current-status: "unprocessed"
-tags: [skin-air-ground]
 ---
 
 # 20200827 - it's all imagined

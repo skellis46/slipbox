@@ -1,3 +1,12 @@
+---
+aliases: []
+type: "post"
+platform: "blog-par"
+current-status: "published"
+status-updated: "20210507"
+---
+
+
 # a case for writing in practice-research
 
 _previous note:_ [[art practice and artistic research]]
@@ -22,7 +31,7 @@ _consider:_
 
 - [[noë - strange tools]]
 - [[mäkelä - on reflecting and making in artistic research]]
-- #par_blog 
+
 - see also my thinking in thoughts and links in [[dissemination, accumulation and originality#^d0ec3a]]
 
 

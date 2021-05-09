@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210316 - settings and trees
 
+[[skin air ground]]
+
 Did a few more tests with settings, and also in the trees to see what went on. Struggled with settings frankly. Some not clear. Audio has this kind of low frequency 'clicking' on it -- possibly the bluetooth connection that I turned on? 
 
 1. 11_GOPR8090.MP4: 1080p, 120fps, N FoV, 5500k, GoPro Color, shutter: 480, ISO: 480. Slightly on dark side.

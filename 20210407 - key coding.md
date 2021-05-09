@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210407 - key coding
 
+[[skin air ground]]
+
 ⌥⌘1: green (718637) -- unusual sounds
 ⌥⌘2: red (D22C36) -- my face before impact
 ⌥⌘3: magenta (AF8BB1) -- camera dropped

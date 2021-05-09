@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210317 - possible titles
 
+[[skin air ground]]
+
 - Spinning Lost (see [[20210315 - thinking about metaphors and themes#^aa8498]])
 - to orient
 - orientation

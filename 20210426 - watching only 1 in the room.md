@@ -5,6 +5,8 @@ tags: [skin-air-ground]
 
 # 20210426 - watching only 1 in the room
 
+[[skin air ground]]
+
 This is a series of short experiments made by [Ajani Brannum](https://www.barryabrannum.com/) around 2015. When I watched them (during the first lockdown in the northern spring of 2020) I thought they were created in response to being isolated. This is not the case.
 
 I was particularly struck by the first test, and of the surprise of the camera as a kind of ball -- and my ongoing uncertainty about how it was made or achieved. (I still don't know after a year since I first watched it).

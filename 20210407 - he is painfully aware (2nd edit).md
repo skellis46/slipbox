@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210407 - he is painfully aware (2nd edit)
 
+[[skin air ground]]
+
 This is another edit of the poem I wrote in [[20210315 - thinking about metaphors and themes]]
 
 He is painfully aware  

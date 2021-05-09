@@ -1,5 +1,7 @@
 # 20210427 - color grading and correction for GoPros
 
+[[skin air ground]]
+
 ## color grading/correction using Native WB mode and flat colour
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QukIbsx28Es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

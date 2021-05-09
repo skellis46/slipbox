@@ -28,9 +28,11 @@ This screendance is only happening in this way because of these technologies. Va
 
 What is the "new" behaviour here? Anything to do with screendance?
 
-Harmony's paper on Gutenberg press? [bench-2015-digital.pdf]
+Harmony's paper on Gutenberg press: [[dance's Gutenberg]]
 What is the new tool in this exchange? It isnt dancing. It isnt recording devices? Is it the social software - tic toc
 they are playing. but the technology is also playing them? infinite game ... but with a brutal construction? Heidegger's standing reserve. See p.31 of [jacobs-2021-from]. They become standing reserve for tic toc. But I don't want to see it in this way. This is the finite game we are all playing. 
+
+[[pro-filmic events occur in real time at the moment of filming]] -- but they are more than this. They are being. friends. It's am ambivalent and paradoxical process. The 'filmic' is certainly irrelevant from my perspective, but I imagine from theirs (but not entirely). 
 
 ## technologies afford behaviours
 
@@ -49,3 +51,11 @@ Affordances . Gibson. Technologies afford behaviours
 >And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
 
 - thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game -- posting to tic tok. 
+
+
+## related (tagged) literature table
+
+```dataview
+table file.mtime
+from #two_women_dancing
+``` 

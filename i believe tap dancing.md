@@ -1,6 +1,6 @@
 # i believe tap dancing
 
-_previous note:_ [[art, biography, autobiography and truth]]
+[[index -- artistic practice]]
 
 ---
 
@@ -22,12 +22,13 @@ I thought of doing one of Colin as well.
 
 _questions & thoughts:_
 
-#future-practice
+#artistic-practice 
 
 --- 
 
 _consider:_ 
 
+- [[art, biography, autobiography and truth]]
 - [[tarkovsky and the indivisible image]]
 - [[body of the film]]
 - [[touch and film]]

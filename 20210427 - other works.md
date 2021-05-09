@@ -1,5 +1,7 @@
 # 20210427 - other works
 
+[[skin air ground]]
+
 I spent some time looking for other examples of falling GoPros. There are a predictable range of 'stunt' videos (examples below). I couldn't find any examples of films made with GoPro that aren't making a 'thing' of the fall/catch/throw.
 
 ## dropping from heights

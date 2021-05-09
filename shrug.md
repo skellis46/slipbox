@@ -1,6 +1,6 @@
 # shrug
 
-_previous note:_ 
+[[index -- artistic practice]]
 
 ---
 
@@ -18,7 +18,7 @@ _questions & thoughts:_
 
 _consider:_
 
-#future-practice 
+#artistic-practice 
 
 
 _source:_ unknown

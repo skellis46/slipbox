@@ -129,6 +129,8 @@ and there could be a beanbag
 
 >More than six hundred years ago, the printing press put the written word into the hands of ordinary people, rescuing the prayers, bypassing the priesthood, and delivering the opportunity for spiritual communion directly into the hands of the prayerful. We have come to take for granted that the internet enables an unparalleled diffusion of information, promising more knowledge for more people: a mighty democratizing force that exponentially realizes Gutenberg’s revolution in the lives of billions of individuals. But this grand achievement has blinded us to a different historical development, one that moves out of range and out of sight, designed to exclude, confuse, and obscure. In this hidden movement the competitive struggle over surveillance revenues reverts to the pre-Gutenberg order as the division of learning in society shades toward the pathological, captured by a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn.
 
+^2369f0
+
 #### V. The Privatization of the Division of Learning in Society
 
 #### VI. The Power of the Unprecedented: A Review

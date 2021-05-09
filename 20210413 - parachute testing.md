@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210413 - parachute testing
 
+[[skin air ground]]
+
 Made a homemade parachute as first suggested by Lil in [[20210308 - make a parachute]].  Tested briefly. Works, but perhaps not as well as I would have liked. It certainly changes the nature of the fall -- swinging. Utterly fascinating.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/536398944" width="640" height="360" frameborder="0" allowfullscreen></iframe>

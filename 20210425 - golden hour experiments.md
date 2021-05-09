@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210425 - golden hour experiments
 
+[[skin air ground]]
+
 ## premise
 
 Went early to site to get a feel for camera white balance settings at golden hour (arrived 5:45am. Shot most of the footage at: 1080p, 120fps, N FoV, 4000k (or was it 3k?), GoPro Color, shutter: Auto, ISO: 400, Sharpness: Low, EV Compensation: -0.5.

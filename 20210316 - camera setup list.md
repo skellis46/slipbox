@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210316 - camera setup list
 
+[[skin air ground]]
+
 - fix date
 - turn off bluetooth connection (for audio problem?)
 - clean lens & case

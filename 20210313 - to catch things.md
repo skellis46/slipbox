@@ -4,6 +4,8 @@ tags: [skin-air-ground]
 
 # 20210313 - to catch things
 
+[[skin air ground]]
+
 Hot potato. 
 Trying to catch a camera. 
 Trying to catch the camera. 
