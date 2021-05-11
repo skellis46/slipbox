@@ -26,6 +26,8 @@ Biggs and Buchler: responsibility at two levels.
 Instrumentalisation is the terrifying and terrible part of the impact agenda. I'm not entirely against the agenda; many many good things have come from it, not least an awareness of how we might communicate understandings to the wider public. But, the very worst thing is this sense of "I do this and it produces this". It's a mentality that now runs deep in the academy. Like we are all engineers. Prototyping. But, in reality we are more akin to scientists or religious people (who themselves are far more like than they'd mostly ever care to admit): seeking wonder, seeking the unknown, the inexplicable. Wonder. 
 
 
+prep talk for conference thing (see “99 Theses on the Revaluation of Value” on Manifold @uminnpress = for PaR talk, not able to be quantified, but is in system of quantification. Paradox. 
+https://manifold.umn.edu/read/99-theses-on-the-revaluation-of-value-330fd1a1-92af-4ea7-83b5-097f9060b5b1/section/4ec3c9a4-9c0d-422f-94a9-fd15a5952cb9
 
 
 #practice-research 

@@ -14,7 +14,7 @@ tags: [two_women_dancing]
 _thoughts & links:_
 
 - see Newport's summary of Postman about Gutenberg not setting information free but rather changing what information is thought of as important: [[Newport introducing technological determinism]]
-- Zuboff's important (but highly skeptical) take on the internet and Gutenberg: [[zuboff - surveillance capitalism#^2369f0]]
+- Zuboff's important (but highly skeptical) take on the internet and Gutenberg: [[Zuboff – The Age of Surveillance Capitalism#^2369f0]]
 
 ---
 

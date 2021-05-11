@@ -65,5 +65,7 @@ https://heterodoxacademy.org/blog/both-sides-now-from-debate-to-dialogue/
 
 ## references
 
+
+https://theslowacademic.com/2021/04/30/use-your-senses/ -- body stuff/resources to check
 https://reacting.barnard.edu/
 https://www.hup.harvard.edu/catalog.php?content=reviews&isbn=9780674984097

@@ -1,6 +1,10 @@
 ---
 aliases: []
 tags: [two_women_dancing]
+type: "post"
+platform: "blog-ske"
+current-status: "published"
+status-updated: "20210510"
 ---
 
 # the infinite game
