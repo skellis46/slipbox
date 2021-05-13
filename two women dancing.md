@@ -4,6 +4,7 @@ type: "article"
 platform: "ijsd"
 current-status: "in-progress"
 status-updated: "20210513"
+csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
 # Ambivalence and wonder in three minutes of dancing
@@ -12,23 +13,25 @@ status-updated: "20210513"
 
 This is some writing about ambivalence and wonder. I attempt to wrestle with the messiness of play while we are each waiting in [[Heidegger's standing reserve]] -- ready but unwilling to be hoovered up.
 
-## Dance, record, watch, point and laugh
+## Dance, record, watch, point, and laugh
 
-I am out for a walk, doing my one hour of permitted outdoor exercise. It is March 2021 and we are nearing the end of the UK's second national lockdown. 
+I am out for a walk during my one hour of permitted outdoor exercise. It is March 2021 and we are nearing the end of the UK's second national lockdown. 
 
 They are two young people, perhaps 14 years old, playing together in a park. The area is not nature as such but it is also definitely not the city. 
 
-I am walking past them, wary of watching or intruding, but also captivated by their play. They are dancing for each other. Or rather, one of them is dancing for the other who is recording the dancing on a smartphone held in portrait mode. The camera and the dancer are close to each other; it's a close-up. They take turns: they dance, record, watch, point at the screen and laugh.
+I am walking past them, wary of watching or intruding, but also captivated by their play. They are dancing for each other. Or rather, one of them is dancing for the other who is recording the dancing on a smartphone held in portrait mode. The camera and the dancer are close to each other; it's a close-up. They take turns: they dance, record, watch, point at the screen, and laugh.
 
-The dancing itself is mostly movement in the head and neck; rolling the head side to side around the frontal axis. It is a specific action, and is playfully performed. The movement is more or less the same short sequence every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game -- like so many open-ended games -- seems to be on repeat. The repetition of the movement has a quality of being able to be reversed, repeated or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix. 
+The dancing itself is mostly movement in the head and neck; rolling the head side to side around the frontal axis. It is a specific action, and is playfully performed. The movement is more or less the same short sequence every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game -- like so many open-ended games -- seems to be on repeat. The repetition of the movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix. 
 
 By this stage I'm way past where it is they are dancing. It has been no more than three minutes since I first saw them.
 
 The screendance -- and it is so clearly a dance for screens -- is only happening in this way because of that smartphone they are holding, as well as the software that will gratefully swallow them and their dance when they are finished. Instagram Stories? TikTok? 
 
-And now it's 1976 and I have to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to the _Dancing Queen_.[@abba-1976-dancing] My sister is 14 years old, and that strange box of technology silences me, if only for 3 minutes and 52 seconds. 
+And now it's 1976 and I have to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to the _Dancing Queen_.[@abba-1976-dancing] My sister at the time is 14 years old, and that strange box of technology silences me, if only for 3 minutes and 52 seconds. 
 
-This text is a series of projections and confabulations disguised as an attempt to understand and communicate my deep ambivalence and wonder regarding what I saw that afternoon.
+This text is a series of projections and confabulations disguised as an attempt to understand and communicate my deep ambivalence and wonder regarding what I saw that afternoon in a park on the outskirts of London during lockdown. 
+
+But before I do that I want to talk about three things: 
 
 ## Technological determinism
 
@@ -91,7 +94,13 @@ In Shoshana Zuboff's _Surveillance Capitalism_ she reminds us that "the printing
 >the printing press put the written word into the hands of ordinary people, rescuing the prayers, bypassing the priesthood, and delivering the opportunity for spiritual communion directly into the hands of the prayerful. We have come to take for granted that the internet enables an unparalleled diffusion of information, promising more knowledge for more people: a mighty democratizing force that exponentially realizes Gutenberg’s revolution in the lives of billions of individuals. But this grand achievement has blinded us to a different historical development, one that moves out of range and out of sight, designed to exclude, confuse, and obscure. In this hidden movement the competitive struggle over surveillance revenues reverts to the pre-Gutenberg order as the division of learning in society shades toward the pathological, captured by a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn.[@zuboff-2019-age n.pag.]
 
 
-- [[Rushkoff – Present Shock#^1394a7]]: thinking here about those two women. And now I'm thinking by zooming out in time. Zooming way way out. Those women have grown up, lived their lives and are gone. I'm long gone. The park is likely still there; it's common land so not likely to have been developed. The parts of their phones are still here (list main things that last and how long). Fragments of something. Something special. But small. Stewart Brand's _The Clock of the Long Now_.
+- 
+
+- could be something about infinite game; tech and production of screendance (regardless of output) is finite, their play is infinite. 
+- or something about spirit (their spirit), that in those few minutes, overwhelmed the tech. Something became possible. Something was illuminated through technological affordances. the smartphone became a hearth: enframed, and [[borgmann, effort and focal things]]. (really?)
+- meaningful lives. This is the kind of screendance that really interests me. The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
+
+[[Rushkoff – Present Shock#^1394a7]]: thinking here about those two women. And now I'm thinking by zooming out in time. Zooming way way out. Those women have grown up, lived their lives and are gone. I'm long gone. The park is likely still there; it's common land so not likely to have been developed. The parts of their phones are still here (list main things that last and how long). Fragments of something. Something special. But small. Stewart Brand's _The Clock of the Long Now_.
 
 >we live in a world with multiple timescales, all moving simultaneously but at different speeds. Brand calls it the order of civilization. Nature, or geological time, moves the slowest—like the skater in the middle of the pinwheel. This is the rate at which glaciers carve out canyons or species evolve gills and wings—over eons. On the next level is culture, such as that of the Chinese or the Jews—which lasts millennia. On the next concentric ring comes governance—the rather long-lasting systems of monarchies and republics. The next level is infrastructure—the roads and utilities those governments build and rebuild. Faster yet is commerce that occurs through that infrastructure. And finally the outermost ring is that of fashion—the ever-changing styles and whims that keep the wheels of commerce fed.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
 
