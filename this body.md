@@ -12,6 +12,20 @@ status-updated: "20210509"
 Chairs getting bigger in order for us to do less. (noticing software developers and gamers sitting in these massive chairs.)
 History of chairs. 
 
+Remembering the body. Forgetting the body. Body as machine. Body as consumer capitalist instrument. To make ourselves be seen to be fitter, stronger, faster, more beautiful. Hyper consciousness. 
+
+Dancing at wedding. Self consciousness. Alcohol disinhibition. The difference between on the outside looking at our bodies (seeing ourselves as we imagine others see us). And being in the body. Rarified territory. But we've all felt it. 
+
+Thinking about mirror. A mirror is a strange device. To see ourselves from the outside. 
+
+There's a moment in Ken Robinson's famous Ted talk. 
+
+
+>In 1997 Sherry Turkle, the MIT Professor of Social Studies specialising in human-technology interaction, wrote a book called Life on the screen: identity in the age of the Internet. Here’s what she said about computer networked gaming technologies at the time:
+>We come to see ourselves differently as we catch sight of our images in the mirror of the machine. A decade ago, when I first called the computer a second self, these identity-transforming relationships were almost always one-on-one, a person alone with a machine. This is no longer the case.– Turkle 1997, 9 [@ellis-2018-faces n.pag.]
+
+(thinking about Turkle in relation to the whackiness of mirrors). Also seeing those kids perform for windows at Southbank. History of the mirror.
+
 The first time I had a body. 
 
 How are you interested in the body?
@@ -27,7 +41,7 @@ The natural body
 The naturist's body
 The different body 
 
-
+Being in our bodies
 
 An alternative to Bill Bryson
 A safe body

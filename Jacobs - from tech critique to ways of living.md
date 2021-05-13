@@ -5,7 +5,7 @@ tags: [two_women_dancing]
 
 # Jacobs - from tech critique to ways of living
 
-This is an article by the humanities professor Alan Jacobs written for The New Atlantis. In it Jacobs discusses the [[standard critique of technology]] and how he has used it to make a case for rejecting walled gardens online for digital commons of the open web. He desribes, however, how the SCT is powerless "to slow our technosocial momentum, much less to alter its direction"[@jacobs-2021-tech p.26].
+This is an article by the humanities professor Alan Jacobs written for The New Atlantis. In it Jacobs discusses the [[standard critique of technology]] and how he has used it to make a case for rejecting walled gardens online for digital commons of the open web. He describes, however, how the SCT is powerless "to slow our technosocial momentum, much less to alter its direction"[@jacobs-2021-tech p.26].
 
 He discusses the rise of [[Postman's technopoly]], the progress of which has been made inevitable by three global capitalist trends: Moore's Law, lithium mining and the spread of wireless telecommunications networks. He describes how [[technopoly in the west deploys carrots rather than sticks]] -- the key carrot being advertising -- and Kingsnorth's conception of the [[human industrial economy]] which considers the technopoly in relation to the entire natural world. One such way to conceive of our changing relationship to the natural world is through [[Gerd-Günter Voß's three conducts of life]]. He discusses the important role Heidegger has in the [[standard critique of technology]], [[Heidegger's standing reserve]] and, of course, [[gestell and enframing]]. 
 
