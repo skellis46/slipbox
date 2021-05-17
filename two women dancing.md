@@ -21,51 +21,67 @@ They are two young people, perhaps 14 years old, playing together in a park. The
 
 I am walking past them, wary of watching or intruding, but also captivated by their play. They are dancing for each other. Or rather, one of them is dancing for the other who is recording the dancing on a smartphone held in portrait mode. The camera and the dancer are close to each other; it's a close-up. They take turns: they dance, record, watch, point at the screen, and laugh.
 
-The dancing itself is mostly movement in the head and neck; rolling the head side to side around the frontal axis. It is a specific action, and is playfully performed. The movement is more or less the same short sequence every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game -- like so many open-ended games -- seems to be on repeat. The repetition of the movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
+The dancing itself is mostly movement in the head and neck; rolling the head side to side around the frontal axis. The movement is more or less the same short sequence every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game -- like so many open-ended games -- seems to be on repeat. The repetition of the movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
 
 By this stage I'm way past where it is they are dancing. It has been no more than three minutes since I first saw them.
 
-The screendance -- and it is so clearly a dance for screens -- is only happening in this way because of that smartphone they are holding, as well as the software that will gratefully swallow them and their dance when they are finished. Instagram Stories? TikTok? 
+Their screendance -- and it is so clearly a dance for screens -- is only happening in this way because of that smartphone they are holding, and perhaps also the software that will gratefully swallow them and their dance when they are finished. Instagram Stories? TikTok? 
 
-And now it's 1976 and I have to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to the _Dancing Queen_.[@abba-1976-dancing] My sister at the time is 14 years old, and that strange box of technology silences me, if only for 3 minutes and 52 seconds. 
+And now it's 1976 and I have to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to the _Dancing Queen_.[@abba-1976-dancing] My sister at the time is 14 years old, and that box of modern at the time recording technology silences me, if only for 3 minutes and 52 seconds. 
 
-This text is a series of projections and confabulations disguised as an attempt to understand and communicate my deep ambivalence and wonder regarding what I saw that afternoon in a park on the outskirts of London during lockdown. 
+This text is a series of projections and confabulations disguised as an attempt to understand and communicate my ambivalence and wonder regarding what I saw that afternoon in a park on the outskirts of London during lockdown. But before I get to ambivalence and wonder, I need to take three steps backwards.
 
-But before I do that I want to talk about three things: 
+## First step backwards: Technological determinism
 
-## Technological determinism
-
-Technological determinism is the idea that technological development determines social change or human behaviour. The _problem_ is seen everywhere. In dance, Cooper Albright has written of "how the ubiquity of screens in contemporary dance affects how we watch movement"[@cooperalbright-2012-tensions p.21]. 
-
-Again, this is a cliche. We are changed. But how is the question, and do we want this? See Rushkoff below.
-
-These represent old and rather obvious stories of technology. , , so old that it is a trope one that is little more than a trope or meme. In the _The Gutenberg Galaxy_ (1962) Marshall McLuhan wrote ... Heidegger; Determinism.
+Technological determinism is the idea that technological development determines social change or human behaviour. These represent old and rather obvious stories of technology. , , so old that it is a trope one that is little more than a trope or meme. In the _The Gutenberg Galaxy_ (1962) Marshall McLuhan wrote ... Heidegger; Determinism.
 
 This is the history of technologies – affording certain behaviours, preventing others . 
-
-What is the "new" behaviour here? Anything to do with screendance? It's not new behaviour as such, and yet it's entirely new. Both new and old. Is there anything new in what I saw? It isn't the dancing; it isn't recording devices; it likely isn't even the social networking software I imagine they'll use to share their dancing afterwards. It certainly isn't two friends playing. Is there anything new in what I saw that has some value to the artistic and academic screendance community?
-
-they are playing. but the technology is also playing them? infinite game ... but with a brutal and less than benign heartbeat? [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. But I don't want to see it in this way. This is the finite game we are all playing as digital technologies predicated on the attention economy play us. 
-
-As social media subjects they are standing reserve; mere commodities for ... But as human beings, they are not.[@jacobs-2021-tech p.31]
 
 Affordances . Gibson. Technologies afford behaviours 
 - two perspectives; one is what is afforded by the interaction and indeed the technology. Technologies afford behaviours. 
 
+The _problem_ is seen everywhere. In dance, technological determinism can be seen as a problem or a possibility. Cooper Albright has written of "how the ubiquity of screens in contemporary dance affects how we watch movement"[@cooperalbright-2012-tensions p.21], and Ellis has described how the hyper-presence of movement on screens has increased screendance literacy[@ellis-2018-faces] 
+
+Again, this is a cliche. We are changed. But how is the question, and do we want this? See Rushkoff below.
+
 >It’s not about how digital technology changes us, but how we change ourselves and one another now that we live so digitally.[@rushkoff-2013-present Chapter 2, n.pag.]
 
-- second perspective is very wide-angle. no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below)
-- can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life]]
 
->The particular tone of the sage’s skepticism is ironic, and the sage is in some essential sense an ironist, but his irony is always directed primarily toward himself. Indeed, this is precisely why people should seek him out to govern them: His primary qualification for office is the gently humorous attitude he takes toward himself, which then extends outward toward our technological “enframing” of the world. [@jacobs-2021-tech p.40]
 
-- thinking here of the tone of my voice in this writing. What would it be like to smile at the tech and ignore it in this case? To write a section dealing with the mess of nature/stewardly care, but then to ask the reader to ignore it. That that section is a version of myself that is more troubling, less important. Worth ignoring, or perhaps, at best, just smiling at. Can I mock the tech? 
+## Second step backwards: Borgmann's device paradigm and focal things
 
->And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
+Albert Borgmann is an American scholar working in the philosophy of technology. His book _Technology and the Character of Contemporary Life_ (1984) builds on Heidegger's concept of enframing (Gestell) and introduces two key terms: the _device paradigm_, and _focal things_. 
 
-- thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game -- posting to tic tok. 
+The device paradigm is a way of understanding technology as a device or series of devices that deliver commodities, and that the mechanisms for this delivery are hidden. Technology becomes synonymous with devices and not the hidden mechanisms. 
 
-## Being friends
+A focal thing is intimately connected to practice and is something that delivers more than one commodity. For example, a hearth is for more than just warmth: it is communal, social, and even a place for cooking and sharing food. 
+
+[[focal activity is a convex lens]] -- they were sending it out into the world: the conditions of lockdown (outdoors), the tech, the nature of friendship.
+[[borgmann, effort and focal things]] -- incarnational, effort
+[[device paradigm and focal things]] -- but their behaviour definitely operating as a device paradigm
+the technology faded into the background. The focal thing hid the device paradigm [[device paradigm and focal things#^fb451d]]
+
+Standing reserve
+
+>Economic ends, Weber observed, are always intrinsic to technology’s development and deployment. “Economic action” determines objectives, whereas technology provides “appropriate means.” In Weber’s framing, “The fact that what is called the technological development of modern times has been so largely oriented economically to profit-making is one of the fundamental facts of the history of technology.”15 In a modern capitalist society, technology was, is, and always will be an expression of the economic objectives that direct it into action. A worthwhile exercise would be to delete the word “technology” from our vocabularies in order to see how quickly capitalism’s objectives are exposed.[@zuboff-2019-age Chapter 1.V. The Puppet Master, Not the Puppet: n.pag.]
+
+>each generation stumbles into the quicksand of forgetting that technology is an expression of other interests. In modern times this means the interests of capital, and in our time it is surveillance capital that commands the digital milieu and directs our trajectory toward the future.[@zuboff-2019-age Chapter 1.V. The Puppet Master, Not the Puppet: n.pag.] 
+
+## Third step backwards: Gutenberg
+
+In 2015 the dance scholar Harmony Bench wrote an influential article called _Digital Research in Dance Studies: Emerging Trends in a Still-Emerging Field_. Bench wrote of the movement of dance practices, the endless scenarios in which dance occurs, and how video documentation is changing dance: 
+
+>The impact of this unleashing of documentation could not be more profound. [...] Let me be clear: for those of us who produce or conduct research in the areas of dance, movement, and gesture, this is our “Gutenberg.”[@bench-2015-digital n.pag.]
+
+To compare unparalleled access to video documentation of dance with the printing press is seductive. But which kind of "Gutenberg" moment is Bench referring to? Ubiquity? Democratization? There is also potential darkness in Bench's comparison. 
+
+add Postman here? Also McLuhan's Gutenberg Galaxy.
+
+In _The Age of Surveillance Capitalism_ (2019) the social psychologist Shoshana Zuboff describes surveillance capitalism as the "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff_age_2019 Chapter 1] The purpose of these operations is to predict our future behaviours and, quite simply, to sell those predictions. Data and therefore advertising rule the world.[@noauthor_worlds_2017]
+
+Zuboff also writes of how "the printing press put the written word into the hands of ordinary people"[-@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] and bypassed the priesthood of that age. She describes the internet as a democratizing power that mirror's Gutenberg's revolution exponentially. The cost however is the hidden processes of data extraction "designed to exclude, confuse, and obscure", that have created a new priesthood of privately owned companies in Silicon Valley. We have been returned to the "pre-Gutenberg order"[@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] by this technocratic priesthood which seeks competitive advantage through surveillance, fully weaponised by the printing press of our time. We have been both freed and enslaved.
+
+## Fourth step backwards: Friendship
 
 In _Between Faces_,[-@ellis-2018-faces] dance artist Simon Ellis describes how we in screendance ought to take the hyper-presence of smartphones very seriously. He describes how smartphone cameras and screens create a dizzyingly reflexive situation in which we have: "a moving body on screen, a moving body having operated the camera (which is often simply a smartphone screen), and a moving body holding a screen/smart-phone as the video is played back and watched."[@ellis-2018-faces n.pag]
 
@@ -75,38 +91,65 @@ The extent to which these two young people are engaged in something pro-filmic i
 
 It's am ambivalent and paradoxical process. 
 
----
----
-
-
-## This is our 'Gutenberg'
-
-In 2015 the dance scholar and former co-editor of the International Journal of Screendance wrote an influential article called _Digital Research in Dance Studies: Emerging Trends in a Still-Emerging Field_. Bench wrote of the movement of dance practices, the endless scenarios in which dance occurs, and how video documentation is changing dance: 
-
->The impact of this unleashing of documentation could not be more profound. [...] Let me be clear: for those of us who produce or conduct research in the areas of dance, movement, and gesture, this is our “Gutenberg.”[@bench-2015-digital n.pag.]
-
-To compare unparalleled access to video documentation of dance with the printing press is seductive. But which kind of "Gutenberg" moment is Bench referring to? Ubiquity? Democratization? There is also potential darkness in Bench's comparison. 
-
-add Postman here?
-
-In Shoshana Zuboff's _Surveillance Capitalism_ she reminds us that "the printing press put the written word into the hands of ordinary people"[-@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] and bypassed the priesthood. The internet, according to Zuboff, is a massive democratizing force that mirror's Gutenberg's revolution exponentially. The cost
-
->the printing press put the written word into the hands of ordinary people, rescuing the prayers, bypassing the priesthood, and delivering the opportunity for spiritual communion directly into the hands of the prayerful. We have come to take for granted that the internet enables an unparalleled diffusion of information, promising more knowledge for more people: a mighty democratizing force that exponentially realizes Gutenberg’s revolution in the lives of billions of individuals. But this grand achievement has blinded us to a different historical development, one that moves out of range and out of sight, designed to exclude, confuse, and obscure. In this hidden movement the competitive struggle over surveillance revenues reverts to the pre-Gutenberg order as the division of learning in society shades toward the pathological, captured by a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn.[@zuboff-2019-age n.pag.]
-
-
-- 
-
 - could be something about infinite game; tech and production of screendance (regardless of output) is finite, their play is infinite. 
-- or something about spirit (their spirit), that in those few minutes, overwhelmed the tech. Something became possible. Something was illuminated through technological affordances. the smartphone became a hearth: enframed, and [[borgmann, effort and focal things]]. (really?)
-- meaningful lives. This is the kind of screendance that really interests me. The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
 
-[[Rushkoff – Present Shock#^1394a7]]: thinking here about those two women. And now I'm thinking by zooming out in time. Zooming way way out. Those women have grown up, lived their lives and are gone. I'm long gone. The park is likely still there; it's common land so not likely to have been developed. The parts of their phones are still here (list main things that last and how long). Fragments of something. Something special. But small. Stewart Brand's _The Clock of the Long Now_.
+## Newness and value
+
+I've placed xx things on the table: technological determinism, enframing, focal activity, the printing press, and friendship. They seem a long way from these two young people taking pleasure in dancing and videoing their dancing. 
+
+Is there anything _new_ in what I observed that afternoon? Was their behaviour so different from my sister recording and then dancing to ABBA? The technology of the time afforded particular behaviours that included dancing. There was nothing particularly new in the dancing, nor in the recording devices, and certainly nothing particularly new in the social networking software it easy to imagine they will have used after the recording was complete. It certainly is not two friends playing. Is there anything new in what I saw that has some value to the artistic and academic screendance community?
+
+They were indeed playing, and it likely clear that the technology and particularly the sofware was also playing them.  infinite game ... but with a brutal and less than benign heartbeat? [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. But I don't want to see it in this way. This is the finite game we are all playing as digital technologies predicated on the attention economy play us. 
+
+As social media subjects they are standing reserve; mere commodities for ... But as human beings, they are not.[@jacobs-2021-tech p.31]
+
+### Ambivalence and wonder
+
+This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. I didn't need to see the mediated, algorithm-ed, commodification of their dancing (even though I could see it to a certain extent in the movement -- they were mimicking). I could imagine their filmic ghosts on that small screen; the framing, the dancing. 
+
+>And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
+
+- thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game -- posting to TikTok.
+
+
+- or something about spirit (their spirit), that in those few minutes, overwhelmed the tech. Something became possible. Something was illuminated through technological affordances. the smartphone became a hearth: enframed, and [[borgmann, effort and focal things]]. (really?)
+- meaningful lives. This is the kind of screendance that really interests me. It resists modes of production and presentation. It's grounded in making and process. The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
+
+### Zooming out in time
 
 >we live in a world with multiple timescales, all moving simultaneously but at different speeds. Brand calls it the order of civilization. Nature, or geological time, moves the slowest—like the skater in the middle of the pinwheel. This is the rate at which glaciers carve out canyons or species evolve gills and wings—over eons. On the next level is culture, such as that of the Chinese or the Jews—which lasts millennia. On the next concentric ring comes governance—the rather long-lasting systems of monarchies and republics. The next level is infrastructure—the roads and utilities those governments build and rebuild. Faster yet is commerce that occurs through that infrastructure. And finally the outermost ring is that of fashion—the ever-changing styles and whims that keep the wheels of commerce fed.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
 
 >We could still operate on the timescale of the seasonally changing fashions or TV schedules while remaining cognizant of the greater cycles binding humanity to the cosmos.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
 
+[[Rushkoff – Present Shock#^1394a7]]: thinking here about those two women. And now I'm thinking by zooming out in time, into Stewart Brand's _The Clock of the Long Now_. Zooming way way out. Those women have grown up, lived their lives and are gone. I'm long gone. The park is likely still there; it's common land so not likely to have been developed. The parts of their phones are still here (list main things that last and how long). Fragments of something. Something special. But small. 
+
+- second perspective is very wide-angle. no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below)
+- can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life]]
+
+Looking into the "possibility of different technological futures" [[Cosmotechnics as Cosmopolitics#^06b080]] 
+
 ## edit bin
+
+What is the "new" behaviour here? Anything to do with screendance? It's not new behaviour as such, and yet it's entirely new. Both new and old. Is there anything new in what I saw? It isn't the dancing; it isn't recording devices; it likely isn't even the social networking software I imagine they'll use to share their dancing afterwards. It certainly isn't two friends playing. 
+
+>The particular tone of the sage’s skepticism is ironic, and the sage is in some essential sense an ironist, but his irony is always directed primarily toward himself. Indeed, this is precisely why people should seek him out to govern them: His primary qualification for office is the gently humorous attitude he takes toward himself, which then extends outward toward our technological “enframing” of the world. [@jacobs-2021-tech p.40]
+
+- thinking here of the tone of my voice in this writing. What would it be like to smile at the tech and ignore it in this case? To write a section dealing with the mess of nature/stewardly care, but then to ask the reader to ignore it. That that section is a version of myself that is more troubling, less important. Worth ignoring, or perhaps, at best, just smiling at. Can I mock the tech? 
+
+Zuboff uses the word _rendition_ to describe a two-sided process. On one side are the technologies of surveillance capitalism that are designed to "render our experience into data, as in rendering oil from fat".[@zuboff_age_2019 Chapter 8.1] On the other side is the fact that "every time we encounter a digital interface we make our experience available to 'datafication'".[@zuboff_age_2019 Chapter 8.1] We _render_ "unto surveillance capitalism" a continuous supply of raw materials. 
+
+Most importantly for this writing, the rendition of our bodies begins quite simply with our phones.[@zuboff_age_2019 Chapter 8.2] 
+
+>the printing press put the written word into the hands of ordinary people, rescuing the prayers, bypassing the priesthood, and delivering the opportunity for spiritual communion directly into the hands of the prayerful. We have come to take for granted that the internet enables an unparalleled diffusion of information, promising more knowledge for more people: a mighty democratizing force that exponentially realizes Gutenberg’s revolution in the lives of billions of individuals. But this grand achievement has blinded us to a different historical development, one that moves out of range and out of sight, designed to exclude, confuse, and obscure. In this hidden movement the competitive struggle over surveillance revenues reverts to the pre-Gutenberg order as the division of learning in society shades toward the pathological, captured by a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn.[@zuboff-2019-age n.pag.]
+
+
+"surveillance capitalism" revenues a development that ... the products of which are about prediction. Prediction of us, our future behaviour, our futures.  
+
+the "unprecedented" world of surveillance capitalism. We don't yet know what to do. It has not been seen before. 
+
+In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[@noauthor_worlds_2017] This age of _surveillance capitalism_ is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff_age_2019 Chapter 1] 
+
+It is a specific action, and is playfully performed. 
 
 This is a story about ambivalence, perhaps even moral ambivalence. 
 

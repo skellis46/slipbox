@@ -1,3 +1,8 @@
+---
+aliases: []
+tags: [two_women_dancing]
+---
+
 # borgmann, effort and focal things
 
 _previous note:_ [[device paradigm and focal things]]

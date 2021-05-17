@@ -1,5 +1,6 @@
 ---
 current-status: "in-progress"
+tags: [two_women_dancing]
 ---
 
 # device paradigm and focal things
@@ -11,6 +12,8 @@ The device paradigm is a way of understanding technology as a device or series o
 A focal thing is intimately connected to practice and is something that delivers more than one commodity. For example, a hearth is for more than just warmth: it is communal, social, and even a place for cooking and sharing food. 
 
 >A focal thing is something of ultimate concern and significance, which may be masked by the device paradigm, and must be preserved by its intimate connection with practice.
+
+^fb451d
 
 -- [Borgmann, in @noauthor-2020-device]
 

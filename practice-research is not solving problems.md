@@ -12,6 +12,7 @@ status-updated: "20210507"
 
 - dance research matters: to whom? addressing audience. 
 - which audience? 
+- But dance is not taken seriously.
 
 - not presenting my projects. why does practice-research matter? the value/need for practice-research.
 - what can practice-research offer re funding screens. problems of translation to other audiences? 
@@ -36,6 +37,8 @@ It might have been an experience, or a way of asking questions ... to see feelin
 
 P.60 solnit. Specific plane of abstraction. I'm think about PaR and it's place in the academy. I can't continue to hold this abstraction. That's where it's value lies but it's so fragile. So tenuous. So corruptible. So deeply submerged in finite longing for uncertainty. "He was incapable of keeping his mind on a sufficient plane of abstraction, where ideology and rhetoric fly more freely."
 I understand that artist in the academy exists on a kind of plane of abstraction. There are the epistemic possibilities of traditional or perhaps conventional scholarly practices like science, in which we come to know things; and artistic practices which contravene such epistemic possibilities. Contradictions. What's more likely? -- that the brutal strength, traditions and conventions of the academy might whip artistic practice into shape, or that artistic practices might infect the academy with ... 
+
+>Or perhaps they opposed the ravaging of the earth so that poetry too would survive in the world. A couple of years ago, a friend wrote me to urge me to focus on the lyrical end of my writing rather than activism and I wrote back, “What is the purpose of resisting corporate globalization if not to protect the obscure, the ineffable, the unmarketable, the unmanageable, the local, the poetic, and the eccentric? So they need to be practiced, celebrated, and studied too, right now.” I could have added that these acts themselves become forms of resistance; the two are not necessarily separate practices. Solnit, Hope, p.96
 
 Toast. Buttered toast. The taste of cinnamon. Can't get rid of the taste. 
 Something changed. The experience is fundamentally different. 
