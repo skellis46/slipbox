@@ -44,22 +44,32 @@ The different body
 Being in our bodies
 
 An alternative to Bill Bryson
-A safe body
-Moving body
-An unknown body
-A changing body
-A knowing body 
-A body for action
-A caring body 
-Injured body
-Recovering body
-Dying body
-Newborn body 
+The safe body
+The moving body
+The unknown body
+The changing body
+The knowing body 
+The body ready for action
+The caring body 
+The injured body
+The recovering body
+The dying body
+The newborn body 
 The travelling body
 The resting body 
 The dancing body
 The sexy body 
 The active body 
+The racialised body
+The performing body
+The felt body
+The body that feels
+The unknowable body
+The knowable body
+The body at risk
+The messy body
+The body as it used to be
+The body as it will become
 The disabled body
 The resting body
 

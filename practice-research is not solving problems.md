@@ -13,6 +13,7 @@ status-updated: "20210507"
 - dance research matters: to whom? addressing audience. 
 - which audience? 
 - But dance is not taken seriously.
+- let me say what I understand practice to be. It's not necessarily producing a thing, an artefact; although it might be.
 
 - not presenting my projects. why does practice-research matter? the value/need for practice-research.
 - what can practice-research offer re funding screens. problems of translation to other audiences? 

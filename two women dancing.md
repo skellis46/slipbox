@@ -7,7 +7,7 @@ status-updated: "20210520"
 csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
-# Lithium dance | Ambivalence and wonder in three minutes of dancing
+# Lithium dance | Dancing reserve | Ambivalence and wonder in three minutes of dancing
 
 ## Abstract
 
@@ -36,12 +36,18 @@ include note about [[apophenia and seeking patterns]] -- and that perhaps this w
 note how my approach is more or less rational -- [[rationality and what is likely]]. What is useful, what is likely, what is pertinent. This is the labor of this writing. 
 
 - enframing
-- technological determinism
+- technological determinism: only a small part of it. Just briefly. 
 - device paradigm and focal things
 - standing reserve
 - printing press
 - the dao of butchering a cow
 - friendship, play and the infinite game
+
+## Standing Reserve
+
+> For example, we challenge land to yield coal, treating the land as nothing but a reserve. The coal is then stored, "on call, ready to deliver the sun's warmth that is stored in it," which is then "challenged forth for heat, which in turn is ordered to deliver steam whose pressure turns the wheels that keep a factory running." The factories are themselves challenged to produce tools "through which once again machines are set to work and maintained."[@blitz-2014-understanding p.71]
+
+- could rewrite this as "we challenge young people to yield dance, treating these people as nothing but a reserve. The dance is then stored in the cloud, subjected to algorithms on call, ready to deliver their creativity that is stored in their dance. ... turns the wheels that keep people online while serving them ads."
 
 ## First step backwards: Technological determinism
 
