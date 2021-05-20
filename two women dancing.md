@@ -3,11 +3,11 @@ aliases: []
 type: "article"
 platform: "ijsd"
 current-status: "in-progress"
-status-updated: "20210513"
+status-updated: "20210520"
 csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
-# Ambivalence and wonder in three minutes of dancing
+# Lithium dance | Ambivalence and wonder in three minutes of dancing
 
 ## Abstract
 
@@ -27,9 +27,21 @@ By this stage I'm way past where it is they are dancing. It has been no more tha
 
 Their screendance -- and it is so clearly a dance for screens -- is only happening in this way because of that smartphone they are holding, and perhaps also the software that will gratefully swallow them and their dance when they are finished. Instagram Stories? TikTok? 
 
-And now it's 1976 and I have to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to the _Dancing Queen_.[@abba-1976-dancing] My sister at the time is 14 years old, and that box of modern at the time recording technology silences me, if only for 3 minutes and 52 seconds. 
+And now it's 1976 and I have to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to _Dancing Queen_.[@abba-1976-dancing] My sister at the time is 14 years old, and that shoebox-sized hunk of _modern_ recording technology silences me, if only for 3 minutes and 52 seconds. 
 
 This text is a series of projections and confabulations disguised as an attempt to understand and communicate my ambivalence and wonder regarding what I saw that afternoon in a park on the outskirts of London during lockdown. But before I get to ambivalence and wonder, I need to take three steps backwards.
+
+include note about [[apophenia and seeking patterns]] -- and that perhaps this what I am doing here. 
+
+note how my approach is more or less rational -- [[rationality and what is likely]]. What is useful, what is likely, what is pertinent. This is the labor of this writing. 
+
+- enframing
+- technological determinism
+- device paradigm and focal things
+- standing reserve
+- printing press
+- the dao of butchering a cow
+- friendship, play and the infinite game
 
 ## First step backwards: Technological determinism
 
@@ -49,6 +61,11 @@ Again, this is a cliche. We are changed. But how is the question, and do we want
 
 
 ## Second step backwards: Borgmann's device paradigm and focal things
+
+
+Start with Heidegger. inevitable it has been written about so much in dance, and the ways in which technologies have influenced corporeal practices. In IJSD -- mention ACA's collection. 
+
+then concept of enframing. 
 
 Albert Borgmann is an American scholar working in the philosophy of technology. His book _Technology and the Character of Contemporary Life_ (1984) builds on Heidegger's concept of enframing (Gestell) and introduces two key terms: the _device paradigm_, and _focal things_. 
 
@@ -75,6 +92,8 @@ In 2015 the dance scholar Harmony Bench wrote an influential article called _Dig
 
 To compare unparalleled access to video documentation of dance with the printing press is seductive. But which kind of "Gutenberg" moment is Bench referring to? Ubiquity? Democratization? There is also potential darkness in Bench's comparison. 
 
+sine qua non
+
 add Postman here? Also McLuhan's Gutenberg Galaxy.
 
 In _The Age of Surveillance Capitalism_ (2019) the social psychologist Shoshana Zuboff describes surveillance capitalism as the "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff_age_2019 Chapter 1] The purpose of these operations is to predict our future behaviours and, quite simply, to sell those predictions. Data and therefore advertising rule the world.[@noauthor_worlds_2017]
@@ -95,9 +114,13 @@ It's am ambivalent and paradoxical process.
 
 ## Newness and value
 
-I've placed xx things on the table: technological determinism, enframing, focal activity, the printing press, and friendship. They seem a long way from these two young people taking pleasure in dancing and videoing their dancing. 
+I've placed xx things on the table: technological determinism, enframing, focal activity, the printing press, and friendship. They seem a long way from these two young people taking pleasure in dancing and videoing their dancing.
 
 Is there anything _new_ in what I observed that afternoon? Was their behaviour so different from my sister recording and then dancing to ABBA? The technology of the time afforded particular behaviours that included dancing. There was nothing particularly new in the dancing, nor in the recording devices, and certainly nothing particularly new in the social networking software it easy to imagine they will have used after the recording was complete. It certainly is not two friends playing. Is there anything new in what I saw that has some value to the artistic and academic screendance community?
+
+In the ABBA example the technology did not reach out and through the recording device/tech and shape my sister's dancing. The music did. The technology was not absent, nor neutral. ??
+
+Low friction technology and our behaviour, ways of thinking and epistemic understanding change. This is Postman really. This is the printing press. Bench is talking about documentation (is this accurate?). I'm talking about making. Yes, how things are made is changing. That's a given. But what things are made. It goes all the way back to the kinds of dancing. Our focus has been on how technologies influence production, post-production, and presentation. But the mode of presentation (this is where we dance now) is inevitably reaching backwards through the film-making 'workflow' into the dancing itself. These are dances enframed by software (not hardware) and algorithms. But they are also dances of togetherness, pleasure. The hearth? 
 
 They were indeed playing, and it likely clear that the technology and particularly the sofware was also playing them.  infinite game ... but with a brutal and less than benign heartbeat? [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. But I don't want to see it in this way. This is the finite game we are all playing as digital technologies predicated on the attention economy play us. 
 
@@ -110,23 +133,36 @@ This is one of the tremendous paradoxes of our time: it undermines the binary of
 >And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
 
 - thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game -- posting to TikTok.
+- imagine the knife of their dancing hitting the bone. Would they slow down? Does their algorithm enframed dancing even make that kind of gesture of Dao possible? 
 
+- wondering about directionality -- the flow of the technics/device paradigm squeezing back into their bodies, and how they move. and the flow of the Dao. 
 
 - or something about spirit (their spirit), that in those few minutes, overwhelmed the tech. Something became possible. Something was illuminated through technological affordances. the smartphone became a hearth: enframed, and [[borgmann, effort and focal things]]. (really?)
 - meaningful lives. This is the kind of screendance that really interests me. It resists modes of production and presentation. It's grounded in making and process. The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
 
-### Zooming out in time
+### Afterthought for the future
 
 >we live in a world with multiple timescales, all moving simultaneously but at different speeds. Brand calls it the order of civilization. Nature, or geological time, moves the slowest—like the skater in the middle of the pinwheel. This is the rate at which glaciers carve out canyons or species evolve gills and wings—over eons. On the next level is culture, such as that of the Chinese or the Jews—which lasts millennia. On the next concentric ring comes governance—the rather long-lasting systems of monarchies and republics. The next level is infrastructure—the roads and utilities those governments build and rebuild. Faster yet is commerce that occurs through that infrastructure. And finally the outermost ring is that of fashion—the ever-changing styles and whims that keep the wheels of commerce fed.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
 
 >We could still operate on the timescale of the seasonally changing fashions or TV schedules while remaining cognizant of the greater cycles binding humanity to the cosmos.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
 
-[[Rushkoff – Present Shock#^1394a7]]: thinking here about those two women. And now I'm thinking by zooming out in time, into Stewart Brand's _The Clock of the Long Now_. Zooming way way out. Those women have grown up, lived their lives and are gone. I'm long gone. The park is likely still there; it's common land so not likely to have been developed. The parts of their phones are still here (list main things that last and how long). Fragments of something. Something special. But small. 
+[[Rushkoff – Present Shock#^1394a7]]: thinking here about those two women. And now I'm thinking by zooming out in time, into something akin Stewart Brand's _The Clock of the Long Now_. Zooming way way out. Those women have grown up, lived their lives and are gone. I'm long long gone. The park is likely still there [include photo?]; it's common land so not likely to have been developed, but I could never be certain of this. The parts of their phones are still here (list main things that last and how long). Fragments of something. Something special. But small. Those software companies are long gone too. The Palm Pilots of the future. Once so certain and stable.  
+
+<https://en.wikipedia.org/wiki/Mobile_phone_recycling>
+
+looking into time it takes for decomposition of smartphone.
+
+<https://www.green-alliance.org.uk/resources/A%20circular%20economy%20for%20smart%20devices.pdf>
+
 
 - second perspective is very wide-angle. no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below)
 - can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life]]
 
-Looking into the "possibility of different technological futures" [[Cosmotechnics as Cosmopolitics#^06b080]] 
+Looking into the "possibility of different technological futures" [[Cosmotechnics as Cosmopolitics#^06b080]] -- this is really beautiful. That we are aware. Implications for screendance? 
+
+## Thanks
+
+Bob Whalley -- introducing me to Yuk Hui (which appeared at nearly the same time in some writing I found by Alan Jacobs.)  Instance of [[Baader-Meinhof phenomenon]]
 
 ## edit bin
 

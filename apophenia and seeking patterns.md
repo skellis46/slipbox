@@ -1,3 +1,8 @@
+---
+aliases: []
+tags: [cognitive_bias]
+---
+
 # apophenia and seeking patterns
 
 _previous note:_ [[cognitive biases]]

@@ -8,7 +8,7 @@ The myside bias refers to the tendency to ignore information that contradicts on
 
 _questions & thoughts:_
 
-- I suspect this is a serious problem in dance scholarship, particular in the writing I see in editorial situations. Indeed, it seems hard to get people to include perspectives that support their own position!
+- I suspect this is a serious problem in dance scholarship, particular in the writing I see in editorial situations. Indeed, it seems hard to get people to include perspectives that support their own position! By this I mean that there is often not even evidence included to support (let alone evidence that contradicts!)
 
 --- 
 
