@@ -6,7 +6,7 @@ year: "2014"
 title: "Understanding Heidegger on Technology"
 type: "literature"
 current-status: in-process
-updated: "20210520"
+updated: "20210526"
 ---
 
 # Blitz - Understanding Heidegger on Technology
@@ -16,6 +16,8 @@ updated: "20210520"
 > The study of Heidegger is both dangerous and difficult—the way he is taught today threatens to obscure his thought's connection to his politics while at the same time transforming his work into fodder for the aimless curiosity of the academic industry. Heidegger would not be surprised to discover that he is now part of the problem that he meant to address. Bu if, as Heidegger hoped, his works are to help us understand the challenge technology presents, we must study him both carefully and cautiously—carefully, to appreciate the depth and complexity of his thought, an cautiously, in light of his association with the Nazis.[@blitz-2014-understanding p.67]
 
 > Heidegger applies this understanding of experience in later writings that are focused explicitly on technology, where he goes beyond the traditional view of technology as machines and technical procedures. He instead tries to think through the essence of technology as a way in which we encounter entities generally, including nature, ourselves, and, indeed, everything. Heidegger's most influential work on technology is the lecture "The Question Concerning Technology," published in 1954, which was a revised version of part two of a four-part lecture series he delivered in Bremen in 1949 (his first public speaking appearance since the end of the war). These Bremen lectures have recently been translated into English, for the first time, by Andrew J. Mitchell. [@blitz-2014-understanding p.68]
+
+## nearness, standing reserve and the technological
 
 > Introducing the Bremen lectures, Heidegger observes that because of technology, "all distances in time and space are shrinking" and "yet the hasty setting aside of all distances brings no nearness; for nearness does not consist in a small amount of distance." The lectures set out to examine what this nearness is that remains absent and is "even warded off by the restless removal of distances." As we shall see, we have become almost incapable of experiencing this nearness, let alone understanding it, because all things increasingly present themselves to us as technological: we see them and treat them as what Heidegger calls a "standing reserve," supplies in a storeroom, as it were, pieces of inventory to be ordered and conscripted, assembled and disassembled, set up and set aside. Everything approaches us merely as a source of energy or as something we must organize. We treat even human capabilities as though they were only means for technological procedures, as when a worker becomes nothing but an instrument for production. Leaders and planners, along with the rest of us, are mere human resources to be arranged, rearranged, and disposed of. Each and every thing that presents itself technologically thereby loses its distinctive independence and form. We push aside, obscure, or simply cannot see, other possibilities.[@blitz-2014-understanding p.68]
 
@@ -47,6 +49,19 @@ This last idea is very powerful. It seems to suggest the technological forces de
 
 > For example, we challenge land to yield coal, treating the land as nothing but a reserve. The coal is then stored, "on call, ready to deliver the sun's warmth that is stored in it," which is then "challenged forth for heat, which in turn is ordered to deliver steam whose pressure turns the wheels that keep a factory running." The factories are themselves challenged to produce tools "through which once again machines are set to work and maintained."[@blitz-2014-understanding p.71]
 
-> ... these acts [above re standing reserve] occur primarily by our own doing; we belong to the activity. Technological conscriptions of things occur in a sense prior to our actual technical use of [p.72] them, because things must be (and be seen as) already available resources in order for them to be used in this fashion. ... But these technical ends are never ends in themselves: "A success is that type of consequence that itself remains assigned to the yielding of further consequences." T chain does not move toward anything that has its own presence, b instead, "only enters into its circuit," and is "regulating and securi natural resources and energies in this never-end
+> ... these acts [above re standing reserve] occur primarily by our own doing; we belong to the activity. Technological conscriptions of things occur in a sense prior to our actual technical use of [p.72] them, because things must be (and be seen as) already available resources in order for them to be used in this fashion. ... But these technical ends are never ends in themselves: "A success is that type of consequence that itself remains assigned to the yielding of further consequences." This chain does not move toward anything that has its own presence, but instead, "only enters into its circuit," and is "regulating and securing" natural resources and energies in this never-ending fashion.[@blitz-2014-understanding pp.71-72]
+
+
+> The isolated pieces, moreover, are uniform and exchangeable. We can replace one piece of standing reserve with another. By contrast, "My hand ... is not a piece me. I myself am entirely in each gesture of the hand, every single time.[@blitz-2014-understanding p.72]
+
+- these two women are instruments of technology, standing reserve. But they are also not exchangeable. Jacobs basically says this in [[Heidegger's standing reserve#^763ca9]] -- as
+
+> Even the radio listener whom we are nowadays accustomed to thinking of as a free consumer of mass media—after all, he "is entirely free to turn the device on an off"—is actually still confined in the technological system of producing public opinion. "Indeed, he is only free in the sense that each time he must free himself from the coercive insistence of the public sphere that nevertheless ineluctably persists."[@blitz-2014-understanding p.72]
+
+what is this technological system I am describing in this article of two women dancing? Not producing public opinion. More like the production of selves. The production of versions of selves. The production of the hope for virality. This is clasping at straws though. I don't know this. But it does raise the question of the extent to which we can ever know why it is that we make things. This is Heidegger's "revealing."
+
+
+
+---
 
 _Internal Link:_ [blitz-2014-understanding.pdf](hook://file/xkNM4xtb1?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=blitz-2014-understanding.pdf)

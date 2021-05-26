@@ -8,13 +8,15 @@ updated: "20210525"
 
 # how informs what and this produces culture
 
-Postman's argument is simply that how we have discussions informs what those discussions are able to easily express, and that easily expressible ideas become central markers of culture. Postman's argument: 
+Postman's argument is that the means by which we have discussions informs what those discussions are able to easily express, and that easily expressible ideas become central markers of culture. Postman's argument: 
 
 > ... fixes its attention on the forms of human conversation, and postulates that how we are obliged to conduct such conversations will have the strongest possible influence on what ideas we can conveniently express. And what ideas are convenient to express inevitably become the important content of a culture.[@postman-2006-amusing p.6]
 
+^aa0fb6
+
 To understand what is possible and what is not given the terms of a medium is fundamental. But I'm struck by the idea of something being convenient to express. Convenience matters enormously. Think memes. Which of course begs the question about the value of things/experiences that are inconvenient to express. 
 
-Postman uses the example of the 'news of the day' and how it could not exist until the creation of the telegraph. There was not 'stuff' to create the news of the day until that time; "in a world that lacked the media to give it expression.[@postman-2006-amusing p.7]"
+Postman uses the example of the 'news of the day' and how it could not exist until the creation of the telegraph. There was not 'stuff' to create the news of the day until that time; "in a world that lacked the media to give it expression."[@postman-2006-amusing p.7]
 
 > The news of the day is a figment of our technological imagination.[@postman-2006-amusing p.8]
 
