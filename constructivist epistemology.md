@@ -1,6 +1,6 @@
 # constructivist epistemology
 
-_previous note:_ [[standpoint epistemology]]
+_previous note:_ [[standpoint epistemology and particular knowledge]]
 
 ---
 

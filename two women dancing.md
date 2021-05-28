@@ -21,21 +21,27 @@ They are two young people, perhaps 14 years old, playing together in a park. The
 
 I am walking past them, wary of watching or intruding, but also captivated by their play. They are dancing for each other. Or rather, one of them is dancing for the other who is recording the dancing on a smartphone held in portrait mode. The camera and the dancer are close to each other; it's a close-up. They take turns: they dance, record, watch, point at the screen, and laugh.
 
-The dancing itself is mostly movement in the head and neck; rolling the head side to side around the frontal axis. The movement is more or less the same short sequence every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game seems to be on repeat. The movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
+The dancing is mostly movement in the head and neck; rolling the head side to side around the frontal axis. They more or less do the same short sequence every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game seems to be on repeat. The movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
 
-By this stage I'm way past where it is they are dancing. It has been no more than three minutes since I first saw them.
+By this stage I'm some way past where it is they are dancing. It has been no more than three minutes since I first saw them.
 
 Their screendance -- and it is so clearly a dance for screens -- is only happening in this way because of that smartphone they are holding, and perhaps also the software that will gratefully swallow them and their dance when they are finished. Instagram Stories? TikTok? 
 
 And now it's 1976 and I have to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to _Dancing Queen_.[@abba-1976-dancing] My sister at the time is 14 years old, and that shoebox-sized hunk of _modern_ at the time recording technology silences me, if only for 3 minutes and 52 seconds. 
 
-Is there anything _new_ in what I observed that afternoon? Was their behaviour so different from my sister recording and then dancing to ABBA? The technology of the time afforded particular behaviours that included dancing. There was nothing particularly new in the dancing, nor in the recording devices, and certainly nothing particularly new in the social networking software it easy to imagine they will have used after the recording was complete. It certainly is not two friends playing. Is there anything new in what I saw that has some value to the artistic and academic screendance community? [shift this paragraph to beginning, just prior to rationality part?] Add brief mention here of technological determinism.  
+Is there anything _new_ in what I observed that afternoon? Was their behaviour so different from my sister recording and then dancing to ABBA? The technology of the time afforded particular behaviours that included dancing. There was nothing particularly new in the dancing, nor in the recording devices, and certainly nothing particularly new in the social networking software it easy to imagine they will have used after the recording was complete. It certainly is not two friends playing. Is there anything new in what I saw that has some value to the artistic and academic screendance community? Add brief mention here of technological determinism (maybe). This technological dynamic is barely regulated. Zuboff's beef really. 
+
+"Technology is neither good nor bad; nor is it neutral."[@kranzberg-1986-technology p.545]
+
+>By that I mean that technology's interaction with the social ecology is such that technical developments frequently have environmental, social, and human consequences that go far beyond the immediate purposes of the technical devices and practices themselves, and the same technology can have quite different results when introduced into different contexts or under different circumstances.[@kranzberg-1986-technology pp.545-546]
+
+>The point is that the same technology can answer questions differently, depending on the context into which it is introduced and the problem it is designed to solve.[@kranzberg-1986-technology p.546]
 
 This text is a series of projections and confabulations disguised as an attempt to understand and communicate my ambivalence and wonder regarding what I saw that afternoon in a park on the outskirts of London during lockdown. But before I get to ambivalence and wonder, I need to take three steps backwards.
 
 I'm going to assume that what I witnessed is not the end of their story. That what they did next was to post one of their screendance performances to a social media platform. If this is not what happened then skip ahead. But actually, even if they didn't post their video online then what I'm proposing still holds.
 
-I understand this writing to be an expression of rationality in the sense that it reveals my interests, understanding, and concerns and how these "shape what is likely, what is pertinent, what is useful, and what matters.[@noe-2015-strange Part I, Chapter 5: Art, Evolution, and the Puzzle of Puzzles, n.pag.] Or perhaps I am just making things up.
+I understand this writing to be an expression of rationality in the sense that it reveals my interests, understanding, and concerns and how these "shape what is likely, what is pertinent, what is useful, and what matters".[@noe-2015-strange Part I, Chapter 5: Art, Evolution, and the Puzzle of Puzzles, n.pag.] 
 
 
 - enframing
@@ -54,7 +60,7 @@ I understand this writing to be an expression of rationality in the sense that i
 
 >There is a whole economic system here of which the forester has willy-nilly become a part. Trees make timber, which makes cellulose, which makes paper, which makes newspapers—and because the process is repeated and ongoing, all that material has to be held in “standing-reserve,” that is, regarded as a resource waiting to be used. And so too the forester. Now, as a human being he is not mere standing-reserve; but as a forester he is. Sturt’s account of the transformation of the craft of the wheelwright provides an equally vivid account of this situation.[@jacobs-2021-tech p.31]
 
-as human beings they are not mere standing reserve. But as ... well, what are they? What else might I imagine them to be? Dancers? Filmmakers? Teenagers? How I identify them determines what kind of standing reserve they become. 
+as human beings they are not mere standing reserve. But as ... well, what are they? What else might I imagine them to be? Dancers? Filmmakers? Teenagers? How I identify them determines what kind of standing reserve they become. But perhaps end result is the same (thinking Zuboff here).
 
 
 >... technopoly arises from the technological core of society but produces people who are driven and formed by the mythical core.[@jacobs_after_2019 p.4] 
@@ -138,7 +144,7 @@ In _The Age of Surveillance Capitalism_ (2019) the social psychologist Shoshana 
 
 Zuboff also writes of how "the printing press put the written word into the hands of ordinary people"[-@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] and bypassed the priesthood of that age. She describes the internet as a democratizing power that mirror's Gutenberg's revolution exponentially. The cost however is the hidden processes of data extraction "designed to exclude, confuse, and obscure", that have created a new priesthood of privately owned companies in Silicon Valley. We have been returned to the "pre-Gutenberg order"[@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] by this technocratic priesthood which seeks competitive advantage through surveillance, fully weaponised by the printing press of our time. We have been both freed and enslaved.
 
-> Central to his ideas about culture was his concept of media as "extensions of man."  Following this line of thought, he argued that Gutenberg's printing press not only played a role in spreading information, but also in shaping human thought. <https://www.forbes.com/sites/gregsatell/2015/09/27/these-4-visionaries-saw-far-into-the-future-heres-how-they-did-it/>
+> Central to his ideas about culture was his concept of media as "extensions of man." Following this line of thought, he argued that Gutenberg's printing press not only played a role in spreading information, but also in shaping human thought. <https://www.forbes.com/sites/gregsatell/2015/09/27/these-4-visionaries-saw-far-into-the-future-heres-how-they-did-it/>
 
 
 
@@ -158,6 +164,9 @@ It's am ambivalent and paradoxical process.
 
 I've placed xx things on the table: technological determinism, enframing, focal activity, the printing press, and friendship. They seem a long way from these two young people taking pleasure in dancing and videoing their dancing.
 
+>As I argued in my book Life Inc., the Great Exhibition’s primary intent was to distract the domestic public from the dark underbelly of international industrial modernity. Through this spectacle, Queen Victoria and the corporations she sponsored disconnected these technologies from the human toll they inflicted on their operators. As if in a shopping mall, people gawked, their jaws dropping, at the steam pipes and gears, utterly unaware of the faces and hands the machines burned and mauled. People saw products and production, but never the producers themselves. If anything, industrial modernity was simpler and cleaner than manual labor. As much a welcome step back as a daring leap forward.[@rushkoff-2013-present Chapter 3 Overwinding The Short Forever: Act Now, n.pag.]
+
+I didn't want to spend too long gawking, and yet I also sense how their dancing and indeed joy distracted me from the profound choreography of the situation. This is choreography of the kind in which the screen-phone ... Unaware they are burned and mauled (unknown to them). So frictionless, and clean. 4k pristine-ness. Way beyond industrial modernity in which the pleasure and play of these two young people is frictionless and clean labor of our time, in 4k. It's not even laboriousness. It's monetization of pleasure and joy without them being aware of it.  
 
 
 In the ABBA example the technology did not reach out and through the recording device/tech and shape my sister's dancing. The music did. The technology was not absent, nor neutral. ?? It was a technique to enable my sister to listen to the song. 

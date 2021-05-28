@@ -39,7 +39,7 @@ _consider:_
 - [[constructivist epistemology]]
 - [[critical realism]]
 - [[human experience and language]]
-- [[standpoint epistemology]]
+- [[standpoint epistemology and particular knowledge]]
 - [[mesearch]]
 - [[hermeneutic circle]]
 - [[interpretation remains present]]

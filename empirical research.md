@@ -20,7 +20,7 @@ _questions & thoughts:_
 _consider:_
 
 - [[direct experience through the senses]]
-- contrast with [[standpoint epistemology]] and [[mesearch]]
+- contrast with [[standpoint epistemology and particular knowledge]] and [[mesearch]]
 
 
 _source:_ n/a

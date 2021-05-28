@@ -20,7 +20,7 @@ _thoughts & links:_
 - #finger-pointing-moon -- thinking of authentic movement and the limits of an [[empirical research]] approach. I'm sitting between lines of western and eastern philosophy, and also between mysticism and science. I wonder if it's worth reading The Tao of Physics again (once more with feeling)?
 - [[direct experience through the senses]]
 - [[mesearch]]
-- [[standpoint epistemology]]
+- [[standpoint epistemology and particular knowledge]]
 
 
 ---

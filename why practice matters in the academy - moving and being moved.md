@@ -3,36 +3,36 @@ aliases: []
 type: "presentation"
 platform: "n/a"
 current-status: "in-progress"
-status-updated: "20210525"
+status-updated: "20210527"
 ---
 
 # why practice matters in the academy - moving and being moved
 
-- 1999, in a nightclub, Melbourne, dance elder, 50-50
+- 1999, in a nightclub, Melbourne, watching contemporary dance | dance elder, 50-50
 - a haven: a place to practice choreography while supported financially
 - this sense of a haven still exists I think, although different conditions
 - naive to imagine my practice would not be changed by that interface with the academy
 
 - Newton's third law of motion: every action there is an equal and opposite reaction
 - for example: falling and landing onto the earth: The force I apply to the earth is equal to the force the earth applies to me. You might say the earth moves me as I move it. It's just a question of scale, or more accurately, mass. 
-- and so it is with the Academy: it is a large collection of institutions that are different by degree; apparently immovable or solid relative to the peculiar, specific and small instances of artistic practice. My practice is likely to feel the effects of that interface or impact more than the Academy will. 
+- and so it might be with the Academy: it is a large collection of institutions that are different by degree; apparently immovable or solid relative to the peculiar, specific and small instances of artistic practice. My practice is likely to feel the effects of that interface or impact more than the Academy. 
 
 - up to now the work of practice-research has mostly been about establishing, gaining a foothold; finding a way to exist in the Academy. This has been at two levels: through individual artistic-research projects that exist as mostly insulated cells of understanding and experience; and at level of policy whereby practice-research is a grudgingly accepted -- but poorly understood -- part of the entire scholarly research family
 - both levels have (obviously) been integral to the academy as a haven for artists
 
-- I think though there is a third level: it's the way in which practice-research might reach beyond its own boundaries and be in dialogue with long-standing and entrenched ideas of how knowledge is gathered, developed, understood and communicated. I don't mean in some solipsistic or self-serving way, but rather to actively and proactively extend practice-research beyond the margins of its own small community. 
+- I think though there is a third level: it's the way in which practice-research might reach beyond its own boundaries and be in dialogue with long-standing and entrenched ideas of how knowledge is gathered, developed, understood and communicated. I don't mean in some self-serving way, but rather to actively and proactively extend practice-research beyond the margins of its own small community. 
 
-On the one hand it must sustain the way it serves "to protect the obscure, the ineffable, the unmarketable, the unmanageable, the local, the poetic, and the eccentric"[@solnit-2016-hope p.96] -- a vital and pivotal role remind us we are considering epistemic things that are not convenient to express (from Postman). On the other hand, how might these hard to grasp methods, alternate epistemologies and embodied understandings -- inconvenient things to express -- move the extraordinarily large mass of the Academy such that the Academy is able to understand that it is being moved, and how? 
+On the one hand it must sustain the way it serves "to protect the obscure, the ineffable, the unmarketable, the unmanageable, the local, the poetic, and the eccentric"[@solnit-2016-hope p.96] -- a vital and pivotal role to remind us we are considering epistemic things that are not convenient to express (from Postman); the articulation of "unfinished thinking".[@borgdorff-2013-artistic p.117]  On the other hand, how might these hard to grasp methods, alternate epistemologies and corporeal understandings -- inconvenient things to express -- move the extraordinarily large mass of the Academy such that the Academy is able to understand that it is being moved, and how? 
 
 This is why practice matters in the academy. 
 
-It is because practice-research is the articulation of "unfinished thinking".[@borgdorff-2013-artistic p.117] 
+
 
 --- 
 
 Builds on work and ideas of Michael Biggs and Daniela Buchler from early 2010s. [@biggs-2011-communities] 
 
-- let me say what I understand practice to be. It's not necessarily producing a thing, an artefact; although it might be.
+- let me say what I understand practice to be. It's not necessarily producing a thing, an artefact; although it might be. It's the things we do through ongoing artistic work that -- bottom-up -- inform how we understand ideas, materials, concepts, people, interactions, phenomena.
 
 
 
