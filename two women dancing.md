@@ -9,11 +9,35 @@ csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # Lithium dance | Dancing reserve | Ambivalence and wonder in three minutes of dancing
 
+>the outside world, the non-digital world, is merely a theatrical space in which one stages and records content for the much more real, much more vital digital space.[@burnham-2021-inside n.pag.]
+
 ## Abstract
 
 This is some writing about ambivalence and wonder. I attempt to wrestle with the messiness of play while we are each waiting in [[Heidegger's standing reserve]] -- ready but unwilling to be hoovered up.
 
+
+
+
+
+
+
+Bridle discusses a form of architecture called parametricism in which complex analogue forms are developed from digital tools. He memorably describes such architecture as "eruptions of the digital into the physical world"[@bridle-2011-new n.pag.]. But there's something different going on. There's no eruption. It's much more like an ice-berg. That something is being done to these two people beneath the surface of their awareness. The screen is above the water -- we can see its beauty, the way it reflects the sun. But below the surface, the digital is reaching up and enframing how they move and for how long. 
+
+These are new ways of moving not so much in what the actions are. They are familiar movements of the head, I can sense them in my body. But they are instances of something much darker. Who is doing the choreography here? And for what purposes? These are ways of moving shaped by the great unseen of our time. The machine here doesn't see them, it doesn't need to. They are being directed by the machine. But it's not so simple is it? These machines were programmed. The algorithms (opinion as code) were created. By someone. Perhaps more than one person. A group of choreographers, unseen. Perhaps even not aware of how these two women might end up dancing as a consequence of their work in Swift or perhaps C.  
+
+My assumed knowledge of what this "play" is for changes how I see what I see. check [[Rushkoff – Present Shock]] about this. Something to do with fractalnoia? and how one story does not make a pattern? 
+
+
+Evan Roth's multi-touch finger paintings are useful here. They depict our gestures with phones, with names like _Slide to Unlock_, _User Name and Password_ and _Angry Birds, Level I-1_.[@roth-2012-multitouch] They are simple, and beautiful, and smudgy, not unlike are smartphone screens themselves. Reflections tainted by the greasy smudges of our fingers. James Bridle describes Roth's images as "gestures mediated by the machine"[@bridle-2011-new n.pag.] They are images unimaginable before 2007, yet they are also familiar because of our relationship to thumbprints, and to fingerprint technologies. They bring out my super-sleuth tendencies. 
+
+They are made possible by the machine 
+
+If they were making an algorithmically inspired Screendance it would likely look like this. But the point is that I imagine did not set out to make such a screendance. The screendance was made on them; it was forced upon them, against their will. 
+
+
 ## Dance, record, watch, point, and laugh
+
+_In which I describe an actual event that prompts me to write this article._
 
 I am out for a walk during my one hour of permitted outdoor exercise. It is March 2021 and we are nearing the end of the UK's second national lockdown. 
 
@@ -31,11 +55,15 @@ And now it's 1976 and I have to be quiet because my sister is recording a TV scr
 
 Is there anything _new_ in what I observed that afternoon? Was their behaviour so different from my sister recording and then dancing to ABBA? The technology of the time afforded particular behaviours that included dancing. There was nothing particularly new in the dancing, nor in the recording devices, and certainly nothing particularly new in the social networking software it easy to imagine they will have used after the recording was complete. It certainly is not two friends playing. Is there anything new in what I saw that has some value to the artistic and academic screendance community? Add brief mention here of technological determinism (maybe). This technological dynamic is barely regulated. Zuboff's beef really. 
 
-"Technology is neither good nor bad; nor is it neutral."[@kranzberg-1986-technology p.545]
+[@kranzberg-1986-technology p.545]
 
 >By that I mean that technology's interaction with the social ecology is such that technical developments frequently have environmental, social, and human consequences that go far beyond the immediate purposes of the technical devices and practices themselves, and the same technology can have quite different results when introduced into different contexts or under different circumstances.[@kranzberg-1986-technology pp.545-546]
 
 >The point is that the same technology can answer questions differently, depending on the context into which it is introduced and the problem it is designed to solve.[@kranzberg-1986-technology p.546]
+
+My work here is to understand this technology in a very specific social and artistic context. It is a context for which these technologies (hardware/software) were not necessarily designed, but nor were they not designed for this context. Extrapolation -- the context in which I saw it. First extrapolation: what happened next? Second extrapolation: relevance to screendance.
+
+
 
 This text is a series of projections and confabulations disguised as an attempt to understand and communicate my ambivalence and wonder regarding what I saw that afternoon in a park on the outskirts of London during lockdown. But before I get to ambivalence and wonder, I need to take three steps backwards.
 
@@ -51,6 +79,17 @@ I understand this writing to be an expression of rationality in the sense that i
 - Postman and tools for conversation: [[how informs what and this produces culture]]
 - the dao of butchering a cow
 - friendship, play and the infinite game
+
+
+## The framing effect
+
+Two parts to the writing: dread and ?
+
+Framing effect - how I present what I saw matters 
+
+[[the framing effect]]
+
+Two versions of the same thing! Possible?
 
 ## Standing Reserve
 

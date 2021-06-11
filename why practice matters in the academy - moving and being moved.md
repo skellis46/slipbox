@@ -1,34 +1,51 @@
 ---
 aliases: []
-type: "presentation"
-platform: "n/a"
-current-status: "in-progress"
-status-updated: "20210527"
+type: "post"
+platform: "blog-par"
+current-status: "published"
+status-updated: "20210531"
 ---
 
-# why practice matters in the academy - moving and being moved
+# moving and being moved
 
-- 1999, in a nightclub, Melbourne, watching contemporary dance | dance elder, 50-50
-- a haven: a place to practice choreography while supported financially
-- this sense of a haven still exists I think, although different conditions
-- naive to imagine my practice would not be changed by that interface with the academy
+_On 27 May 2021 [C-DaRE](http://c-dare.co.uk) hosted a conference called [Dance Research Matters](http://danceresearchmatters.coventry.ac.uk/). I was on a panel chaired by Susanne Foellmer, with panellists Jonathan Burrows, Funmi Adewole, and Efrosini Protopapa. We each gave a small provocation before a conversation and questions. The subject of the panel was:_
 
-- Newton's third law of motion: every action there is an equal and opposite reaction
-- for example: falling and landing onto the earth: The force I apply to the earth is equal to the force the earth applies to me. You might say the earth moves me as I move it. It's just a question of scale, or more accurately, mass. 
-- and so it might be with the Academy: it is a large collection of institutions that are different by degree; apparently immovable or solid relative to the peculiar, specific and small instances of artistic practice. My practice is likely to feel the effects of that interface or impact more than the Academy. 
+>Why practice matters – if practice is part of dance research, then what needs to change to reflect the value of practice as an epistemic system? 
 
-- up to now the work of practice-research has mostly been about establishing, gaining a foothold; finding a way to exist in the Academy. This has been at two levels: through individual artistic-research projects that exist as mostly insulated cells of understanding and experience; and at level of policy whereby practice-research is a grudgingly accepted -- but poorly understood -- part of the entire scholarly research family
-- both levels have (obviously) been integral to the academy as a haven for artists
+_What follows is a written version of my 5-minute talk._
 
-- I think though there is a third level: it's the way in which practice-research might reach beyond its own boundaries and be in dialogue with long-standing and entrenched ideas of how knowledge is gathered, developed, understood and communicated. I don't mean in some self-serving way, but rather to actively and proactively extend practice-research beyond the margins of its own small community. 
+---
 
-On the one hand it must sustain the way it serves "to protect the obscure, the ineffable, the unmarketable, the unmanageable, the local, the poetic, and the eccentric"[@solnit-2016-hope p.96] -- a vital and pivotal role to remind us we are considering epistemic things that are not convenient to express (from Postman); the articulation of "unfinished thinking".[@borgdorff-2013-artistic p.117]  On the other hand, how might these hard to grasp methods, alternate epistemologies and corporeal understandings -- inconvenient things to express -- move the extraordinarily large mass of the Academy such that the Academy is able to understand that it is being moved, and how? 
+In the (southern) winter of 1999 I was watching a dance company perform in a nightclub in Melbourne. [Shirley McKechnie](https://nla.gov.au/nla.party-675055) was there and she mentioned that the University of Melbourne had recently changed its regulations such that artists could submit creative work towards a PhD.
+
+In January 2000 I started a PhD at the Victorian College of the Arts through the University of Melbourne. I was the first practice-led PhD student at VCA (even though I'd never heard the term _practice-led_). The University was a haven of sorts, a place for me to have some financial support to keep developing my choreographic practice free from the funding and production lottery of public funding. 
+
+To a certain extent, that sense of the University being a _haven_ -- a place for artists to practice -- still exists, although the conditions are radically different.
+
+It was naïve for me to imagine that my practice would not be changed by that _interface_ with the academy, as it would be naïve for artists now to imagine the same thing.
+
+[Newton's third law of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton's_third_law) states that for every action there is an equal and opposite reaction. For example, when I land on the earth from a jump, the force I apply to the earth is equal to the force the earth applies to me. You might say the earth moves me as I move it. It's just a question of scale, or more accurately, mass. 
+
+Perhaps it is like this for artists in the Academy. The Academy is a large collection of institutions that are different by degree; apparently immovable or solid relative to the peculiar, specific and small instances of artistic practice. My practice is likely to feel the effects of that interface or impact more than the Academy. 
+
+I'd like to suggest that up to now the work of practice-research has mostly been about establishing itself or gaining a foothold; finding a way to be in the Academy. This has occurred at two levels: through individual artistic-research projects that exist as mostly insulated cells of understanding and experience; and at the level of policy whereby practice-research is perhaps a grudgingly accepted -- but poorly understood -- part of the entire scholarly research family. Both levels have been integral to the academy as some kind of haven for artists.
+
+I think though there is a third level. It's the way in which practice-research might reach beyond its own boundaries and be in dialogue with long-standing and entrenched ideas of how knowledge is gathered, developed, understood and communicated. I don't mean in some self-serving way, but rather to actively and proactively extend practice-research beyond the margins of its own small community. 
+
+On the one hand practice-research must sustain the way it serves "to protect the obscure, the ineffable, the unmarketable, the unmanageable, the local, the poetic, and the eccentric"[^solnit] -- a vital and pivotal role to remind us we are considering epistemic things that are not convenient to express; the articulation of "unfinished thinking".[^hb] 
+
+On the other hand, how might these hard to grasp methods, alternate epistemologies and corporeal understandings -- inconvenient things to express -- move the extraordinarily large mass of the Academy such that the Academy is able to understand that and how it is being moved? 
 
 This is why practice matters in the academy. 
 
+[^solnit]: Solnit, R. (2016) _Hope in the dark: untold histories, wild possibilities_. Third edition. Chicago, Illinois: Haymarket Books, p.96
+
+[^hb]: Borgdorff, H. (2013) ‘Artistic Practice and Epistemic Things’, in _Experimental Systems: Future Knowledge in Artistic Research_. Leuven: Leuven University Press (Orpheus Institute series), p.117.
 
 
---- 
+
+
+## edit bin
 
 Builds on work and ideas of Michael Biggs and Daniela Buchler from early 2010s. [@biggs-2011-communities] 
 
