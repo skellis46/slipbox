@@ -1,0 +1,51 @@
+---
+aliases: []
+tags: [two_women_dancing]
+author: "Bakewell, Sarah"
+year: "2016"
+title: "At the existentialist café: freedom, being, and apricot cocktails with Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Karl Jaspers, Edmund Husserl, Maurice Merleau-Ponty and others"
+type: "literature"
+current-status: 
+updated: "20210611"
+
+---
+
+# Bakewell - At the existentialist café
+
+> Sartre put this principle into a three-word slogan, which for him defined existentialism: ‘Existence precedes essence’. What this formula gains in brevity it loses in comprehensibility. But roughly it means that, having found myself thrown into the world, I go on to create my own definition (or nature, or essence), in a way that never happens with other objects or life forms. You might think you have defined me by some label, but you are wrong, for I am always a work in progress. I create myself constantly through action, and this is so fundamental to my human condition that, for Sartre, it is the human condition, from the moment of first consciousness to the moment when death wipes it out. I am my own freedom: no more, no less.
+
+> Husserl had picked up this idea from his old teacher Franz Brentano, in Vienna days. In a fleeting paragraph of his book Psychology from an Empirical Standpoint, Brentano proposed that we approach the mind in terms of its ‘intentions’ — a misleading word, which sounds like it means deliberate purposes. Instead it meant a general reaching or stretching, from the Latin root in-tend, meaning to stretch towards or into something. For Brentano, this reaching towards objects is what our minds do all the time. Our thoughts are invariably of or about something, he wrote: in love, something is loved, in hatred, something is hated, in judgement, something is affirmed or denied. Even when I imagine an object that isn’t there, my mental structure is still one of ‘about-ness’ or ‘of-ness’. 
+
+> If I treated all these as purely ‘subjective’ elements to be stripped away in order to be ‘objective’ about my coffee, I would find there was nothing left of my cup of coffee as a phenomenon — that is, as it appears in the experience of me, the coffee-drinker. This experiential cup of coffee is the one I can speak about with certainty, while everything else to do with the bean-growing and the chemistry is hearsay. It may all be interesting hearsay, but it’s irrelevant to a phenomenologist.
+- I am doing phenomenology. Housed in the subjective, but resisting abstractions
+
+
+> Phenomenology is useful for talking about religious or mystical experiences: we can describe them as they feel from the inside without having to prove that they represent the world accurately. 
+
+
+
+> For Sartre, if we try to shut ourselves up inside our own minds, ‘in a nice warm room with the shutters closed’, we cease to exist. We have no cosy home: being out on the dusty road is the very definition of what we are.
+> Sartre’s gift for shocking metaphor makes his ‘Intentionality’ essay the most readable introduction to phenomenology ever written, and one of the shortest. It is certainly a better read than anything Husserl wrote. Yet Sartre was by then already aware that Husserl had later moved away from this outward-bound interpretation of intentionality. He had come to look at it a different way, as an operation that pulled everything back into the mind after all.
+
+
+> Unlike beings, Being is hard to concentrate on and it is easy to forget to think about it. But one particular entity has a more noticeable Being than others, and that is myself, because, unlike clouds and portals, I am the entity who wonders about its Being. It even turns out that I have a vague, preliminary, non-philosophical understanding of Being already — otherwise I would not have thought of asking about it. This makes me the best starting point for ontological inquiry. I am both the being whose Being is up for question and the being who sort of already knows the answer.
+
+> My involvements, Heidegger continues, lead me to deploy ‘useful things’ or ‘equipment’ — items such as the hammer. These have a particular Being which Heidegger calls Zuhandenheit: ‘readiness-to-hand’ or ‘handiness’. While I am hammering, the hammer has that kind of Being for me. If, for some reason, I lay down the hammer and gawp at it as a Hammerding, then it has a different kind: Vorhandenheit or ‘presence-at-hand’.
+> For Heidegger, the philosophers’ second-biggest mistake (after forgetfulness of Being) has been to talk about everything as though it was present-at-hand. But that is to separate things from the everyday ‘concernful’ way in which we encounter them most of the time. It turns them into objects for contemplation by an unconcerned subject who has nothing to do all day but gaze at stuff. And then we ask why philosophers seem cut off from everyday life!
+
+- the phone is handiness. But this is not my concern 
+
+> When such things happen, Heidegger says, they reveal ‘the obstinacy of that with which we must concern ourselves’. This revelation lights up the project in a different way, together with the full context of my concern with it. No longer is the world a smoothly humming machine. It is a mass of stubborn things refusing to cooperate, and here I am in the middle of it, flummoxed and disoriented — which is just the state of mind Heidegger seeks to induce in us when we read his prose.
+- I being obstinate in this text.  In thinking about these two young people. It's slipped into presence at hand. 
+
+> Being and Time contained at least one big idea that should have been of use in resisting totalitarianism. Dasein, Heidegger wrote there, tends to fall under the sway of something called das Man or ‘the they’ — an impersonal entity that robs us of the freedom to think for ourselves. To live authentically requires resisting or outwitting this influence, but this is not easy because das Man is so nebulous. Man in German does not mean ‘man’ as in English (that’s der Mann), but a neutral abstraction, something like ‘one’ in the English phrase ‘one doesn’t do that’, or ‘they’ in ‘they say it will all be over by Christmas’. ‘The they’ is probably the best translation available, except that it seems to point to some group ‘over there’, separate from myself. Instead, for Heidegger, das Man is me. It is everywhere and nowhere; it is nothing definite, but each of us is it. As with Being, it is so ubiquitous that it is difficult to see. If I am not careful, however, das Man takes over the important decisions that should be my own. It drains away my responsibility or ‘answerability’. As Arendt might put it, we slip into banality, failing to think.
+
+> Jaspers had gone on to develop his own work, building on his psychology background as well as on Kierkegaardian existentialism. He was especially interested in Kierkegaard’s studies of ‘either/or’ choices and of freedom: the ways in which we face up to dilemmas and decide what to do. Jaspers focused on what he called Grenzsituationen — border situations, or limit situations. These are the moments when one finds oneself constrained or boxed in by what is happening, but at the same time pushed by these events towards the limits or outer edge of normal experience. For example, you might have to make a life-or-death choice, or something might remind you suddenly of your mortality, or some event may make you realise that you have to accept the burden of responsibility for what you do. Experiencing such situations is, for Jaspers, almost synonymous with existing, in the Kierkegaardian sense. Although they are hard to bear, these are puzzles in our existence, and thus open the door to philosophising. We cannot solve them by thinking in the abstract; they must be lived, and in the end we make our choices with our entire being. They are existential situations.
+
+- limits or outer edge. Boxed in. 
+
+> Heidegger hated talking about this period, and none of his own explanations of what happened in 1933 were ever satisfactory. In 1945, he wrote just one short piece dealing with the matter, entitled ‘The Rectorate 1933/34: facts and thoughts’. There he admitted that he briefly saw the party as offering ‘the possibility of an inner self-collection and of a renewal of the people, and a path toward the discovery of its historical-Western purpose’. But then, he said, he saw his mistake and extricated himself. The message of the essay can be summed up as ‘oops, I didn’t mean to be a Nazi’. It suited Heidegger to make himself sound this naive. 
+
+> There is a part of everything that remains unexplored, for we have fallen into the habit of remembering, whenever we use our eyes, what people before us have thought of the thing we are looking at. Even the slightest thing contains a little that is unknown. We must find it. To describe a blazing fire or a tree in a plain, we must remain before that fire or that tree until they no longer resemble for us any other tree or any other fire. -- Flaubert
+
+> Whatever the source, Husserl’s new thinking included reflections on what he called the Lebenswelt, or ‘life-world’ — that barely noticed social, historical and physical context in which all our activities take place, and which we generally take for granted. Even our bodies rarely require conscious attention, yet a sense of being embodied is part of almost every experience we have. As I move around or reach out to grasp something, I sense my own limbs and the arrangement of my physical self in the world. I feel my hands and feet from within; I don’t have to look in a mirror to see how they are positioned. This is known as ‘proprioception’ — the perception of self — and it is an important aspect of experience which I tend to notice only when something goes wrong with it. When I encounter others, says Husserl, I also recognise them implicitly as beings who have ‘their personal surrounding world, oriented around their living bodies’. Body, life-world, proprioception and social context are all integrated into the texture of worldly being.
