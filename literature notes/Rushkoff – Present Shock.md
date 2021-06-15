@@ -73,20 +73,25 @@ Thinking about storage and lithium. Unsustainable. But that's hardware based thi
 
 - what is my role in this exchange? (with the [[two women dancing]]) Who am I to them? How are we connected? What is this ecosystem? 
 
+## Chapter 4: Fractalnoia
+
 > Applied to the stock market or to consumer behavior, fractals may tell less about those systems than about the people searching for patterns within them.
 > There is a dual nature to fractals: They orient us while at the same time challenging our sense of scale and appropriateness. They offer us access to the underlying patterns of complex systems while at the same time tempting us to look for patterns where none exist. This makes them a terrific icon for the sort of pattern recognition associated with present shock—a syndrome we’ll call fractalnoia. Like the robots on Mystery Science Theater 3000, we engage by relating one thing to another, even when the relationship is forced or imagined. 
 
-> The artists are the geeks, and the programmers are the performers. The programmers conceive and create with abandon. The artists try to imagine what humans may want to do with these creations, as well as what these creations may want to do with us.
+### To Be Or Not To Be
+
+> The artists are the geeks, and the programmers are the performers. The programmers conceive and create with abandon. The artists try to imagine what humans may want to do with these creations, as well as what these creations may want to do with us.[@rushkoff-2013-present Chapter 4: Fractalnoia -- To Be Or Not To Be, n.pag]
 
 - spot on. 
 
 > While I strongly advocate the teaching of computer programming to kids in grade school, I am just as much a believer in teaching kids how to think critically about the programmed environments in which they will be spending so much of their time. The former is engineering; the latter is liberal arts. The engineers write and launch the equations; the liberal artists must judge their usefulness, recognize the patterns they create, and—oh so very carefully—generalize from there. For the artist—the human, if you will—this care comes less from the accumulation of more and more specific data than the fine-tuning of the perceptual apparatus. In a fractal, it’s not how much you see, but how well you see it.
 
 - one story does not make a pattern, but wanting to look closely. And generalise is just like proposing. 
-
 - Lost in the Meritocracy
 
-> When we focus on the pieces, we are working in what could be considered the timescape of chronos: we break objects down into their parts, study them carefully, focus in, and engage with the pieces scientifically. Like dissection, it works best when the subjects are dead. When we focus on the space around the pieces, we have shifted to the time sensibility of kairos. The space between things matters more than the things themselves. We are thinking less about tinkering with particular objects than about recognizing or influencing the patterns they create and the connections they make. We stop getting dizzy following the path of every feedback loop and pull back to see the patterns those loops create.
+> When we focus on the pieces, we are working in what could be considered the timescape of chronos: we break objects down into their parts, study them carefully, focus in, and engage with the pieces scientifically. Like dissection, it works best when the subjects are dead. When we focus on the space around the pieces, we have shifted to the time sensibility of kairos. The space between things matters more than the things themselves. We are thinking less about tinkering with particular objects than about recognizing or influencing the patterns they create and the connections they make. We stop getting dizzy following the path of every feedback loop and pull back to see the patterns those loops create.[@rushkoff-2013-present Chapter 4: Fractalnoia -- To Be Or Not To Be, n.pag]
+
+^9ab84a
 
 - useful for _Finger Pointing Moon_? Patterns and connections. 
 

@@ -8,7 +8,7 @@ In his article for The New Atlantis, Alan Jacobs calls on the work of Polish phi
 
 Jacobs writes that, according to Kołakowski, technology is:
 
->a stance toward the world in which we view things around us as objects to be manipulated, or as instruments for manipulating our environment and ourselves.[@jacobs_after_2019 p.3] 
+> a stance toward the world in which we view things around us as objects to be manipulated, or as instruments for manipulating our environment and ourselves.[@jacobs_after_2019 p.3] 
 
 This definition is not necessarily a negative thing, and nor does it only include tools. For instance, Jacobs writes that (some) philosophy and the sciences are technological in that they "are governed by instrumental, analytical forms of reasoning by which we seek some measure of control."[@jacobs_after_2019 p.3]
 
