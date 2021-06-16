@@ -35,6 +35,9 @@ Life is important in this writing. That relationship is important.
 - opaque applications. But it's stronger than this. A hand is reaching out to choreograph them. 
 
 > Take recursion. It means, most simply, that you define a thing in terms of itself. But again and again, I watched people sit down at a computer, create a program that could go on forever, and quite simply freak out. Meeting recursion was like looking at objects of infinite regress, contemplating horizons, trying to find the end of the stars, all of these experiences that frighten and fascinate children—and adults.
+
+^063b3f
+
 - their dancing as recursive 
 
 > But the engineering aesthetic (you can understand everything; you can get everything to work with greater efficiency and less friction) runs into trouble when you use it to think about people and their social relationships. To understand people, the most important step often involves stopping to appreciate that you have a story with at least two points of view. There may not be measurements at all. The most relevant data may be feelings. Feelings aren’t friction free but conflict ridden.

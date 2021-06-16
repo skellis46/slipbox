@@ -26,7 +26,7 @@ Evan Roth's multi-touch finger paintings are useful here. They depict our gestur
 
 If these two people -- or anyone for that matter -- were making an algorithmically inspired Screendance it would likely look like this. But the point is that I imagine they did not set out to make such a screendance. The screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. In the case of Roth, it would be as if the software's role was to capture the slides and touches of the gesture in his work and then upload those to massive servers most likely owned by Amazon. This is a very very different thing. Much more subtle. Much less direct. But not at all subtle, and utterly direct. Because of course I have no doubt that our screen-based gestures are being uploaded.
 
-Quest for virality. See [[jacobs - after technopoly#^cde1fd]]
+Quest for virality. See [[jacobs - after technopoly#^cde1fd]] and also [[Blitz - Understanding Heidegger on Technology#^05e7db]]
 
 
 ## Dance, record, watch, point, and laugh
@@ -103,6 +103,7 @@ Two versions of the same thing! Possible?
 
 as human beings they are not mere standing reserve. But as ... well, what are they? What else might I imagine them to be? Dancers? Filmmakers? Teenagers? How I identify them determines what kind of standing reserve they become. But perhaps end result is the same (thinking Zuboff here). The net effect is -- based on Zuboff -- the same. I see them as dancing reserve. They are a resource waiting to be used. Their screendancing is this resource. Their friendship is this resource. It's devastating. 
 
+Thinking about Pippa and dancing with her friends. The dancing is a conduit in much the same way the screendancing is a conduit. A way to build, sustain and be in friendship. 
 
 >... technopoly arises from the technological core of society but produces people who are driven and formed by the mythical core.[@jacobs_after_2019 p.4] 
 
@@ -117,6 +118,8 @@ who is doing this treating? Am I treating these two women in this way by focusin
 
 
 > Of course, were there no way out of technological thinking, Heidegger's own standpoint, however sophisticated, would also be trapped within it. He attempts to show a way out - a way to think about technology that is not itself beholden to technology.[@blitz-2014-understanding p.69]
+
+^29940f
 
 - this is really what I'm doing in this essay -- I'm tripping into a way to think about technology that is beholden to it. Right? 
 
@@ -167,9 +170,11 @@ A focal thing is intimately connected to practice and is something that delivers
 [[device paradigm and focal things]] -- but their behaviour definitely operating as a device paradigm
 the technology faded into the background. The focal thing hid the device paradigm [[device paradigm and focal things#^fb451d]]
 
->Economic ends, Weber observed, are always intrinsic to technology’s development and deployment. “Economic action” determines objectives, whereas technology provides “appropriate means.” In Weber’s framing, “The fact that what is called the technological development of modern times has been so largely oriented economically to profit-making is one of the fundamental facts of the history of technology.”15 In a modern capitalist society, technology was, is, and always will be an expression of the economic objectives that direct it into action. A worthwhile exercise would be to delete the word “technology” from our vocabularies in order to see how quickly capitalism’s objectives are exposed.[@zuboff-2019-age Chapter 1.V. The Puppet Master, Not the Puppet: n.pag.]
+>Economic ends, Weber observed, are always intrinsic to technology’s development and deployment. “Economic action” determines objectives, whereas technology provides “appropriate means.” In Weber’s framing, “The fact that what is called the technological development of modern times has been so largely oriented economically to profit-making is one of the fundamental facts of the history of technology.”15 In a modern capitalist society, technology was, is, and always will be an expression of the economic objectives that direct it into action. A worthwhile exercise would be to delete the word “technology” from our vocabularies in order to see how quickly capitalism’s objectives are exposed.[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.]
 
 >each generation stumbles into the quicksand of forgetting that technology is an expression of other interests. In modern times this means the interests of capital, and in our time it is surveillance capital that commands the digital milieu and directs our trajectory toward the future.[@zuboff-2019-age Chapter 1.V. The Puppet Master, Not the Puppet: n.pag.] 
+
+Note re Weber and economic ends regarding economics of recursion. See [[Blitz - Understanding Heidegger on Technology#^fa8c4f]] 
 
 ## Gutenberg and the printing press
 
@@ -183,7 +188,7 @@ sine qua non
 
 add Postman here? Also McLuhan's Gutenberg Galaxy.
 
-In _The Age of Surveillance Capitalism_ (2019) the social psychologist Shoshana Zuboff describes surveillance capitalism as the "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff_age_2019 Chapter 1] The purpose of these operations is to predict our future behaviours and, quite simply, to sell those predictions. Data and therefore advertising rule the world.[@noauthor_worlds_2017]
+In _The Age of Surveillance Capitalism_ (2019) the social psychologist Shoshana Zuboff describes surveillance capitalism as the "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff_age_2019 Chapter 1] The purpose of these operations is to predict our future behaviours and, quite simply, to sell those predictions. Data, and therefore advertising, rule the world.[@noauthor_worlds_2017]
 
 Zuboff also writes of how "the printing press put the written word into the hands of ordinary people"[-@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] and bypassed the priesthood of that age. She describes the internet as a democratizing power that mirror's Gutenberg's revolution exponentially. The cost however is the hidden processes of data extraction "designed to exclude, confuse, and obscure", that have created a new priesthood of privately owned companies in Silicon Valley. We have been returned to the "pre-Gutenberg order"[@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] by this technocratic priesthood which seeks competitive advantage through surveillance, fully weaponised by the printing press of our time. We have been both freed and enslaved.
 

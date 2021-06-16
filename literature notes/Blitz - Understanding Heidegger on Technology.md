@@ -43,7 +43,7 @@ This idea of an event to which we belong is pretty powerful.
 
 >  And fourth, for Heidegger, technology is not simply the practical application of natural science. Instead, modern natural science can understand nature in the characteristically scientific manner only because nature has already, in advance, come to light as a set of calculable, orderable forces – that is to say, technologically.[@blitz-2014-understanding p.71]
 
-This last idea is very powerful. It seems to suggest the technological forces determine how it is that other things are seen (including things that we describe technologically). It's a loop. 
+This last idea is very powerful. It seems to suggest the technological forces determine how it is that other things are seen (including things that we describe technologically). It's a loop. Recursion. Note also here in [[Turkle - The Empathy Diaries#^063b3f]], and that their dancing in that park with that phone is a form of recursion. We can only understand this event in this way because it has "come to light" technologically.  ^fa8c4f
 
 > When Heidegger says that technology reveals things to us as "standing reserve," he means that everything is imposed upon or challenged" to be an orderly resource for technical application, which in we take as a resource for further use, and so on interminably.[@blitz-2014-understanding p.71] [[Heidegger's standing reserve]]
 
@@ -52,15 +52,17 @@ This last idea is very powerful. It seems to suggest the technological forces de
 > ... these acts [above re standing reserve] occur primarily by our own doing; we belong to the activity. Technological conscriptions of things occur in a sense prior to our actual technical use of [p.72] them, because things must be (and be seen as) already available resources in order for them to be used in this fashion. ... But these technical ends are never ends in themselves: "A success is that type of consequence that itself remains assigned to the yielding of further consequences." This chain does not move toward anything that has its own presence, but instead, "only enters into its circuit," and is "regulating and securing" natural resources and energies in this never-ending fashion.[@blitz-2014-understanding pp.71-72]
 
 
-> The isolated pieces, moreover, are uniform and exchangeable. We can replace one piece of standing reserve with another. By contrast, "My hand ... is not a piece me. I myself am entirely in each gesture of the hand, every single time.[@blitz-2014-understanding p.72]
+> The isolated pieces, moreover, are uniform and exchangeable. We can replace one piece of standing reserve with another. By contrast, "My hand ... is not a piece of me. I myself am entirely in each gesture of the hand, every single time.[@blitz-2014-understanding p.72]
 
 - these two women are instruments of technology, standing reserve. But they are also not exchangeable. Jacobs basically says this in [[Heidegger's standing reserve#^763ca9]] -- as
 
 > Even the radio listener whom we are nowadays accustomed to thinking of as a free consumer of mass media—after all, he "is entirely free to turn the device on an off"—is actually still confined in the technological system of producing public opinion. "Indeed, he is only free in the sense that each time he must free himself from the coercive insistence of the public sphere that nevertheless ineluctably persists."[@blitz-2014-understanding p.72]
 
-what is this technological system I am describing in this article of two women dancing? Not producing public opinion. More like the production of selves. The production of versions of selves. The production of the hope for virality. This is clasping at straws though. I don't know this. But it does raise the question of the extent to which we can ever know why it is that we make things. This is Heidegger's "revealing."
+what is this technological system I am describing in this article of two women dancing? Not producing public opinion. More like the production of selves. The production of versions of selves. The production of the hope for virality. This is clasping at straws though. I don't know this. But it does raise the question of the extent to which we can ever know why it is that we make things. This is Heidegger's "revealing." ^05e7db
 
+> But the essence of technology does not just affect things and people. It "attacks everything that is: Nature and history, humans, and divinities." When theologians on occasion cite the beauty of atomic physics or the subtleties of quantum mechanics as evidence for the existence of God, they have, Heidegger says, placed God "into the realm of the realm of the orderable."[p.72] God becomes technologized.[@blitz-2014-understanding pp.72-73]
 
+This is the Gestell, or enframing (what translator of Bremen lectures called _positionality_!) I am in a mess here really. I am in a trap of Heidegger's making. See [[two women dancing#^29940f]]
 
 ---
 
