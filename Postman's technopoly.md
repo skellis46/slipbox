@@ -7,6 +7,8 @@ tags: [two_women_dancing]
 
 Technopoly is Neil Postman's term from his book: _Technopoly: The Surrender of Culture to Technology_. Summary: [en.wikipedia.org/wiki/Technopoly](https://en.wikipedia.org/wiki/Technopoly)
 
+
+
 [[technopoly in the west deploys carrots rather than sticks]]
 
 ---

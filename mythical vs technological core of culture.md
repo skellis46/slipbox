@@ -1,6 +1,6 @@
 # mythical vs technological core of culture
 
-_previous note:_ [[jacobs - after technopoly]]
+_previous note:_ [[Jacobs - After Technopoly]]
 
 ---
 

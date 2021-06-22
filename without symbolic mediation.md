@@ -4,13 +4,13 @@ _previous note:_  [[human experience and language]]
 
 ---
 
-I understand that Susanne Langer was read and written about a lot back in the 1980s (check with Rosie Lee about this). Here, the artist (and blogger) Seumas Coutts simply quotes Langer:
+I understand that Suzanne Langer was read and written about a lot back in the 1980s (check with Rosie Lee about this). Here, the artist (and blogger) Seumas Coutts simply quotes Langer:
 
 >The real patterns of feeling … these felt events, which compose the fabric of mental life, usually pass unobserved, unrecorded and therefore essentially unknown to the average person.
 
 >It may seem strange that the most immediate experiences in our lives should be the least recognized, but there is a reason for this apparent paradox, and the reason is precisely their immediacy. They pass unrecorded because they are known without any symbolic mediation, and therefore without conceptual form.
 
--- Susanne Langer, Mind: An Essay on Human Feeling, Vol. 1, 1967.
+-- Suzanne Langer, Mind: An Essay on Human Feeling, Vol. 1, 1967.
 
 
 
