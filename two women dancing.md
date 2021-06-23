@@ -9,9 +9,11 @@ csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # Lithium dance | Dancing reserve | Ambivalence and wonder in three minutes of dancing
 
+The case of the two women dancing. ;-)
+
 > Every technology is both a burden and a blessing; not either-or, but this-and-that.[@postman-1993-technopoly pp.4-5]
 
->the outside world, the non-digital world, is merely a theatrical space in which one stages and records content for the much more real, much more vital digital space.[@burnham-2021-inside n.pag.]
+>the outside world, the non-digital world, is merely a theatrical space in which one stages and records content for the much more real, much more vital digital space.[@burnham-2021-inside n.pag]
 
 >Technology is neither good nor bad; nor is it neutral.[@kranzberg-1986-technology p.545]
 
@@ -59,7 +61,7 @@ Possible to go to mythical core from [[Jacobs - After Technopoly]] -- do this vi
 
 Thinking about Pippa and dancing with her friends. The dancing is a conduit in much the same way the screendancing is a conduit. A way to build, sustain and be in friendship. 
 
->... technopoly arises from the technological core of society but produces people who are driven and formed by the mythical core.[@jacobs_after_2019 p.4] 
+>... technopoly arises from the technological core of society but produces people who are driven and formed by the mythical core.[@jacobs-2019-technopoly p.4] 
 
 - this is intense and seems to get at my ambivalence. 
 
@@ -122,7 +124,7 @@ sine qua non
 
 add Postman here? Also McLuhan's Gutenberg Galaxy.
 
-In _The Age of Surveillance Capitalism_ (2019) the social psychologist Shoshana Zuboff describes surveillance capitalism as the "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff_age_2019 Chapter 1] The purpose of these operations is to predict our future behaviours and, quite simply, to sell those predictions. Data, and therefore advertising, rule the world.[@noauthor_worlds_2017]
+In _The Age of Surveillance Capitalism_ (2019) the social psychologist Shoshana Zuboff describes surveillance capitalism as the "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff-2019-age Chapter 1] The purpose of these operations is to predict our future behaviours and, quite simply, to sell those predictions. Data, and therefore advertising, rule the world.[@noauthor-2017-world]
 
 Zuboff also writes of how "the printing press put the written word into the hands of ordinary people"[-@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] and bypassed the priesthood of that age. She describes the internet as a democratizing power that mirror's Gutenberg's revolution exponentially. The cost however is the hidden processes of data extraction "designed to exclude, confuse, and obscure", that have created a new priesthood of privately owned companies in Silicon Valley. We have been returned to the "pre-Gutenberg order"[@zuboff-2019-age Chapter 6.IV The New Priesthood: n.pag.] by this technocratic priesthood which seeks competitive advantage through surveillance, fully weaponised by the printing press of our time. We have been both freed and enslaved.
 
@@ -137,6 +139,14 @@ Their screendance -- and it is so clearly a dance for screens -- is only happeni
 Harari: deindividuation of the individual (from Talking Politics on Arendt?)
 
 Philosophical speculation 
+
+> A swarm can be visualized best as being like Warhol’s endlessly copied images without an original, or with an original that was discarded and impossible to trace and retrieve. Each unit of the swarm reenacts the moves made by the others, while performing the whole job, from beginning to end and in all its parts, alone (in the case of consuming swarms, that job is the job of consuming).[@bauman-2008-does p.16] 
+
+- the two women dancing are part of a consuming swarm.
+
+> Like everything else once securely located in that sphere, models of a good life have now become the game and prey of lone rangers, hunters, and trappers -- and have become some of the many spoils of deregulation, privatization, individualization, of the conquest and annexation of the public by the private. The grand social vision has been split into a multitude of individual and personal, strikingly similar but decidedly not complementary portmanteaus. Each one is made to the measure of consumers’ bliss -- meant, like all consumer joys, for utterly individual, lonely enjoyment even when relished in company.[@bauman-2008-does p.28]
+
+- annexation of the public by the private, in a public space, without privacy!
 
 > embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
 
@@ -191,9 +201,11 @@ These are new ways of moving not so much in what the actions are. They are famil
 
 Evan Roth's multi-touch finger paintings are useful here. They depict our gestures with phones, with names like _Slide to Unlock_, _User Name and Password_ and _Angry Birds, Level I-1_.[@roth-2012-multitouch] They are simple, and beautiful, and smudgy, not unlike are smartphone screens themselves. Reflections tainted by the greasy smudges of our fingers. James Bridle describes Roth's images as "gestures mediated by the machine"[@bridle-2011-new n.pag.] They are images unimaginable before 2007, yet they are also familiar because of our relationship to thumbprints, and to fingerprint technologies. They bring out some super-sleuth games from my pre-teen years and my fascination with how finger prints might catch us out. Roth's paintings are made possible by the machine, and the machine (and more accurately the software) has shaped these gestures. But Roth's awareness is critical. How he draws attention to the gestures as manipulated/mediated by the software-hardware interface. 
 
-If these two people -- or anyone for that matter -- were making an algorithmically inspired Screendance it would likely look like this. But the point is that I imagine they did not set out to make such a screendance. The screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. In the case of Roth, it would be as if the software's role was to capture the slides and touches of the gesture in his work and then upload those to massive servers most likely owned by Amazon (AWS). This is a very very different thing. Much more subtle. Much less direct. But not at all subtle, and utterly direct. Because of course I have no doubt that our screen-based gestures are being uploaded.
+If these two people -- or anyone for that matter -- were making an algorithmically inspired Screendance it would likely look like this. But the point is that I imagine they did not set out to make such a screendance. The screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. In the case of Roth, it would be as if the software's role was to capture the slides and touches of the gesture in his work and then upload most likely to massive Amazon Web Services servers. This is a very very different thing. Much more subtle. Much less direct. But not at all subtle, and utterly direct. Because of course I have no doubt that our screen-based gestures are being uploaded.
 
 Quest for virality. See [[Jacobs - After Technopoly#^cde1fd]] and also [[Blitz - Understanding Heidegger on Technology#^05e7db]]
+
+- on acquiring moral life by habituation: [[Jacobs - After Technopoly#^ec599c]]
 
 ### Technological determinism
 
@@ -237,33 +249,59 @@ This is one of the tremendous paradoxes of our time: it undermines the binary of
 
 - meaningful lives. This is the kind of screendance that really interests me. It resists modes of production and presentation. It's grounded in making and process. The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
 
-## Afterthought for the future
+## The future, myth and technopoly
 
->we live in a world with multiple timescales, all moving simultaneously but at different speeds. Brand calls it the order of civilization. Nature, or geological time, moves the slowest—like the skater in the middle of the pinwheel. This is the rate at which glaciers carve out canyons or species evolve gills and wings—over eons. On the next level is culture, such as that of the Chinese or the Jews—which lasts millennia. On the next concentric ring comes governance—the rather long-lasting systems of monarchies and republics. The next level is infrastructure—the roads and utilities those governments build and rebuild. Faster yet is commerce that occurs through that infrastructure. And finally the outermost ring is that of fashion—the ever-changing styles and whims that keep the wheels of commerce fed.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
-
->We could still operate on the timescale of the seasonally changing fashions or TV schedules while remaining cognizant of the greater cycles binding humanity to the cosmos.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
-
-[[Rushkoff – Present Shock#^1394a7]]: thinking here about those two women. And now I'm thinking by zooming out in time, into something akin Stewart Brand's _The Clock of the Long Now_. Zooming way way out. Those women have grown up, lived their lives and are gone. I'm long long gone. The park is likely still there [include photo?]; it's common land so not likely to have been developed, but I could never be certain of this. The parts of their phones are still here (list main things that last and how long). Fragments of something. Something special. But small. Those software companies are long gone too. The Palm Pilots of the future. Once so certain and stable.  
-
-<https://en.wikipedia.org/wiki/Mobile_phone_recycling>
-
-looking into time it takes for decomposition of smartphone.
-
-<https://www.green-alliance.org.uk/resources/A%20circular%20economy%20for%20smart%20devices.pdf>
-
-Note also that Rushkoff questions Brand's thinking/practice later in same chapter. 
+_In which I zoom out into the future and call on Alan Jacobs' understanding of the value of myth in the technopoly._
 
 
-- no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below)
+
+> if there is a place in the world for those who treasure a myth that claims to transcend technopoly, it will be, at best, a hidden place. If transnational technopoly can hunt you down and root you out, it will; and it probably can.[@jacobs-2019-technopoly p.13]
+
+
+[[Jacobs - from tech critique to ways of living]]
+
+
+The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From fastest to slowest they are: fashion/art, commerce, infrastructure, governance, culture and nature. **add something here from Brand about their value. -- bit more context**
+
+I'm going to slip or zoom out in time to the slowest and biggest of Brand's levels. It is a level or place where time as chronos operates akin to Danny Hillis' _10,000-year clock_ or _The Clock of the Long Now_.[@hillis-1995-millennium] 
+
+Those two young people have grown up, lived their lives and are gone. Maybe they are survived by family, maybe not. I'm long long gone. Perhaps the park is still there? It is common land so not likely to have been developed, but I am doubtful. There are parts of the teenagers' phones from 2021 that are obviously still on the planet in some form: lithium, copper, gold, lead, zinc, etc; elemental fragments of devices that once afforded some special dancing of friendship. For the most part the elements are in landfill. Those software companies that wielded algorithms to reach through the phone to choreograph that dancing are long gone too; I can no longer remember their names. They were once so certain and stable; omnipresent. Their algorithms disappeared with them, and have been replaced by old mathematics rethought and recompiled.[^ack1] 
+
+I feel none of the vertigo that American media theorist Douglas Rushkoff suggested we might feel when zooming so far out.[@rushkoff-2013-present] I notice the stillness and slowness, and the absence of chatter. In that stillness I remember seeing a film y Annie Pfingst and Helen Poynor.[-@poynor-2016-memoriam] called _in Memoriam_ (2016) in 2018 at Light Moves Festival of Screendance called  bThis is a film that is the size of art operating at the pace of nature. In it a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key recollection is of the sounds and feelings of the terrain, and of the passing of time. But this is no ordinary time that is passing, even under the machinations and co-ordinates of the long now. 
+
+This is a film that treasures myth and seems to resist and transcend technopoly. It is a film in a "hidden place" seemingly unable to be rooted out. It exists in edit and feel in an _other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
+
+Here, as I write, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection. 
+
+resistant to the power of "transnational technopoly" to "hunt you down and root you out". 
+Hidden, seemingly unable to be rooted out. The way it resists time as well (see below notes about long time). That film speaks to those qualities. 
+
+
+
+- no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below). Touches on his writing in [[Jacobs - After Technopoly]] as well -- in the final statements about myth (and discussion of the Mars trilogy book) 
 - can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life]]
 
 Looking into the "possibility of different technological futures" [[Cosmotechnics as Cosmopolitics#^06b080]] -- this is really beautiful. That we are aware. Implications for screendance? 
+
+
+[^ack1]: I first read of Hillis' work in Brian Eno's _A Year with Swollen Appendices_ (1995), but was reminded of his work (and Stewart Brand's) while reading Douglas Rushkoff's book _Present Shock_ (2013). This is to acknowledge their influence on this section of the article.
 
 ## Thanks
 
 Bob Whalley -- introducing me to Yuk Hui (which appeared at nearly the same time in some writing I found by Alan Jacobs.)  Instance of [[Baader-Meinhof phenomenon]]. People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas.
 
 ## edit bin
+
+
+> All we presentists get from zooming out to ten-thousand-year time spans is vertigo.[@rushkoff-2013-present]
+
+>we live in a world with multiple timescales, all moving simultaneously but at different speeds. Brand calls it the order of civilization. Nature, or geological time, moves the slowest—like the skater in the middle of the pinwheel. This is the rate at which glaciers carve out canyons or species evolve gills and wings—over eons. On the next level is culture, such as that of the Chinese or the Jews—which lasts millennia. On the next concentric ring comes governance—the rather long-lasting systems of monarchies and republics. The next level is infrastructure—the roads and utilities those governments build and rebuild. Faster yet is commerce that occurs through that infrastructure. And finally the outermost ring is that of fashion—the ever-changing styles and whims that keep the wheels of commerce fed.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
+
+>We could still operate on the timescale of the seasonally changing fashions or TV schedules while remaining cognizant of the greater cycles binding humanity to the cosmos.[@rushkoff-2013-present Chapter 3 Overwinding: The Short Forever, n.pag.]
+
+Note also that Rushkoff questions Brand's thinking/practice later in same chapter:
+
+> In other words, what’s it like to envision the ten-thousand-year impact of tossing that plastic bottle into the trash bin, all in the single second it takes to actually toss it? Or the ten-thousand-year history of the fossil fuel being burned to drive to work or iron a shirt? It may be environmentally progressive, but it’s not altogether pleasant. Unless we’re living in utter harmony with nature, thinking in ten-thousand-year spans is an invitation to a nightmarish obsession. It’s a potentially burdensome, even paralyzing, state of mind. Each present action becomes a black hole of possibilities and unintended consequences. We must walk through life as if we had traveled into the past, aware that any change we make—even moving an ashtray two inches to the left—could ripple through time and alter the course of history. It’s less of a Long Now than a Short Forever.[@rushkoff-2013-present Chapter 3 Overwinding n.pag] 
 
 Ambivalence and wonder
 
@@ -306,9 +344,9 @@ What is the "new" behaviour here? Anything to do with screendance? It's not new 
 
 - thinking here of the tone of my voice in this writing. What would it be like to smile at the tech and ignore it in this case? To write a section dealing with the mess of nature/stewardly care, but then to ask the reader to ignore it. That that section is a version of myself that is more troubling, less important. Worth ignoring, or perhaps, at best, just smiling at. Can I mock the tech? 
 
-Zuboff uses the word _rendition_ to describe a two-sided process. On one side are the technologies of surveillance capitalism that are designed to "render our experience into data, as in rendering oil from fat".[@zuboff_age_2019 Chapter 8.1] On the other side is the fact that "every time we encounter a digital interface we make our experience available to 'datafication'".[@zuboff_age_2019 Chapter 8.1] We _render_ "unto surveillance capitalism" a continuous supply of raw materials. 
+Zuboff uses the word _rendition_ to describe a two-sided process. On one side are the technologies of surveillance capitalism that are designed to "render our experience into data, as in rendering oil from fat".[@zuboff-2019-age Chapter 8.1] On the other side is the fact that "every time we encounter a digital interface we make our experience available to 'datafication'".[@zuboff-2019-age Chapter 8.1] We _render_ "unto surveillance capitalism" a continuous supply of raw materials. 
 
-Most importantly for this writing, the rendition of our bodies begins quite simply with our phones.[@zuboff_age_2019 Chapter 8.2] 
+Most importantly for this writing, the rendition of our bodies begins quite simply with our phones.[@zuboff-2019-age Chapter 8.2] 
 
 >the printing press put the written word into the hands of ordinary people, rescuing the prayers, bypassing the priesthood, and delivering the opportunity for spiritual communion directly into the hands of the prayerful. We have come to take for granted that the internet enables an unparalleled diffusion of information, promising more knowledge for more people: a mighty democratizing force that exponentially realizes Gutenberg’s revolution in the lives of billions of individuals. But this grand achievement has blinded us to a different historical development, one that moves out of range and out of sight, designed to exclude, confuse, and obscure. In this hidden movement the competitive struggle over surveillance revenues reverts to the pre-Gutenberg order as the division of learning in society shades toward the pathological, captured by a narrow priesthood of privately employed computational specialists, their privately owned machines, and the economic interests for whose sake they learn.[@zuboff-2019-age n.pag.]
 
@@ -317,7 +355,7 @@ Most importantly for this writing, the rendition of our bodies begins quite simp
 
 the "unprecedented" world of surveillance capitalism. We don't yet know what to do. It has not been seen before. 
 
-In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[@noauthor_worlds_2017] This age of _surveillance capitalism_ is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff_age_2019 Chapter 1] 
+In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[@noauthor-2017-world] This age of _surveillance capitalism_ is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff-2019-age Chapter 1] 
 
 It is a specific action, and is playfully performed. 
 
