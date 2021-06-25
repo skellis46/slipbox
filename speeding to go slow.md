@@ -2,8 +2,8 @@
 ---
 aliases: []
 tags: []
-type: "post"
-platform: "blog-ske"
+type: "newsletter"
+platform: "skellis.net"
 current-status: "published"
 status-updated: "20210625"
 
