@@ -48,3 +48,32 @@ His hands are to work out
 What might have been
 At the mercy of the things we made,  
 And in hope for what might be. 
+
+
+## 20210624 - another draft
+
+There is no mastery here, only projection.
+His hands are to work out
+What has been
+At the mercy of things made,  
+And in hope for what might be. 
+There's some waiting to be done.
+
+There is no mastery here, only projection.
+His hands routinely rolling
+Back and forth in antidote to 
+Who they have hurt and who they will ignore.
+Their ponderous spinning efforts
+crash into familiar isolation.
+He knows this will end in the dust.
+There's some waiting to be done.
+
+
+### edit bin
+ is where this will end
+not inevitably ... but it will be inevitable
+seek
+feeding back
+hurling
+capsizing
+imagine experience of they who 

@@ -41,7 +41,7 @@ Note, at 49_GOPR8131.MP4 I changed WB to Native. What I can't remember is what I
 - 51_GOPR8133.MP4
 - 52_GOPR8134.MP4
 - 53_GOPR8135.MP4
-- 54_GOPR8136.MP4 - fast fast spinning
+- 54_GOPR8136.MP4 - fast fast spinning (needs color correction). Amazing footage
 
 
 ## thoughts and ideas
