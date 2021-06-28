@@ -8,7 +8,7 @@
 
 > In Chapter 3 I argue that the most consequential feature of a network is the formidable flexibility of its contents -- the extraordinary facility with which its composition may be, and tends to be, modified. If structures are all about comprising and enclosing, holding, keeping, restraining, containing, a network, in contrast, refers to the perpetual interplay of connecting and disconnecting. The process of "identity formation" becomes primarily an ongoing renegotiation of networks.[@bauman-2008-does p.13]
 
-- So useful re identity markers. That identity is an "ongoing renengotiation of networks"[@bauman-2008-does p.13]. It's powerful because it resists the fixity of identity and the structures by which identity is constructed, held and protected. 
+- So useful re identity markers. That identity is an "ongoing renegotiation of networks"[@bauman-2008-does p.13]. It's powerful because it resists the fixity of identity and the structures by which identity is constructed, held and protected. 
 
 > There is no radical cure, at any rate, because the efforts of identity formation veer uneasily, as they must, between the two equally central human values of freedom and security.[@bauman-2008-does p.13]
 

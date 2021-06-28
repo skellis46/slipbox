@@ -23,7 +23,7 @@ He describes a[n unnamed] French revolutionary thinker who "recently described" 
 
 He calls on Heidegger's 1949 lecture:
 
->If the essence of _technē_ is _poiesis_, or bringing forth (_Hervorbringen_), then modern technology, a product of European modernity, no longer possesses the same essence as _technē_ but is rather an “enframing” (_Gestell_) apparatus, in the sense that all beings become standing reserves (_Bestand_) for it.
+>If the essence of _technē_ is _poiesis_, or bringing forth (_Hervorbringen_), then modern technology, a product of European modernity, no longer possesses the same essence as _technē_ but is rather an “enframing” (_Gestell_) apparatus, in the sense that all beings become standing reserves (_Bestand_) for it.[@hui-2017-cosmotechnics n.pag]
 
 >My effort to go beyond Heidegger’s discourse on technology is largely based on two motivations: 1) a desire to respond to the ontological turn in anthropology, which aims to tackle the problem of modernity by proposing an ontological pluralism; and 2) a desire to update the insufficient discourse on technology that is largely associated with Heidegger’s critique of technology.
 
@@ -32,7 +32,7 @@ He calls on Heidegger's 1949 lecture:
 
 >First, what does Hui mean by the peculiar word “cosmotechnics”? “It is the unification of the cosmos and the moral through technical activities, whether craft-making or art- making.” That is, a cosmotechnics is the point at which a way of life is realized through making.[@jacobs-2021-tech p.33]
 
->Hui further comments that if the fundamental concern of Western phi- losophy is with being and substance, the fundamental concern of Classical Chinese thought is relation. So it makes sense, then, that his approach to cosmotechnics would center on the inquiry into a certain relation, that between dao (the way) and qi (tools).[@jacobs-2021-tech p.34]
+>Hui further comments that if the fundamental concern of Western philosophy is with being and substance, the fundamental concern of Classical Chinese thought is relation. So it makes sense, then, that his approach to cosmotechnics would center on the inquiry into a certain relation, that between dao (the way) and qi (tools).[@jacobs-2021-tech p.34]
 
 >It is from the ten thousand things that we learn how to live among the ten thousand things; and our choice of tools will be guided by what we have learned from that prior and foundational set of relations. This is cosmotechnics.[@jacobs-2021-tech p.36]
 
