@@ -34,7 +34,7 @@ Life is important in this writing. That relationship is important.
 
 - opaque applications. But it's stronger than this. A hand is reaching out to choreograph them. 
 
-> Take recursion. It means, most simply, that you define a thing in terms of itself. But again and again, I watched people sit down at a computer, create a program that could go on forever, and quite simply freak out. Meeting recursion was like looking at objects of infinite regress, contemplating horizons, trying to find the end of the stars, all of these experiences that frighten and fascinate children—and adults.
+> Take recursion. It means, most simply, that you define a thing in terms of itself. But again and again, I watched people sit down at a computer, create a program that could go on forever, and quite simply freak out. Meeting recursion was like looking at objects of infinite regress, contemplating horizons, trying to find the end of the stars, all of these experiences that frighten and fascinate children—and adults.[@turkle-2021-empathy Chapter 16: Building 20, n.pag.]
 
 ^063b3f
 
