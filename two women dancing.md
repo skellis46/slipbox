@@ -19,6 +19,8 @@ csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 >Technology is neither good nor bad; nor is it neutral.[@kranzberg-1986-technology p.545]
 
+> For these thinkers modernity continues to be characterized by a unique form of technical action and thought that threatens nontechnical values as it extends itself ever deeper into social life. They argue that technology is not neutral.[@feenberg-2000-essentialism pp.294-295] 
+
 ## Prelude: Dance, record, watch, point, and laugh (two young people and their camera)
 
 _In which I describe an actual event that prompted me to consider the choreography of screendance in this writing._
@@ -37,33 +39,68 @@ By this stage I'm some way past where it is they are dancing. It has been no mor
 
 _In which I introduce the central conceit (or assumption) of this article, the structure, and how any discussion of technology is a discussion about economics._
 
-In this writing I try to make sense of what I saw that day through two opposing perspectives: _dread_ and _awe_. I want to recognise and describe the patterns of their trio (two people and a smartphone), and how these patterns might matter to people who make films, and particularly those of us that make films in and around dance and movement. 
+part of the awe is the sense of their dancing being _with_ others. That they are networked. Seeing and being seen.
 
-However, I only saw what I saw. I don't really know why these two people were recording their dancing. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment? Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing? Perhaps. 
 
-I am confident that what I saw that day was not the end of their story; that what they did next was to post the _best version_ of their screendance performances to a social media platform online. My feelings of dread and awe are social media platform agnostic, but I will guess that they were using TikTok -- the fastest growing social media platform amongst teenagers in the USA.[^stat] Also, there's a lot of dancing on TikTok. 
+It seems important to keep in mind that I only saw what I saw. I cannot know why these two people were recording their dancing. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment? Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing? Perhaps. 
 
-By making this assumption I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. My assumption does not prevent these ideas from having some value to how we might understand social and artistic contexts in screendance. After all, people dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. 
+I am confident that what I saw that day was not the end of their story; that what they did next was to post the _best version_ of their screendance performances to a social media platform online. I am agnostic towards social media platforms. I despise them all equally. For the sake of this writing I will guess that they were using TikTok -- the fastest growing social media platform amongst teenagers in the USA.[^stat] Also, there's a lot of dancing on TikTok. 
+
+By making this assumption I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. I trust though that my assumption does not prevent these ideas from having some value to how we might understand social and artistic contexts in screendance. After all, people dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. **line here about this is where we dance now. That these cultural levers and patterns are part of screendance practices.**
+
+For most of the time preparing and writing this article, I found it difficult to sublimate my sense of sadness and dread in what I saw that day. Such a position is simply too easy to adopt. Can we agree that their screendance -- and it is so clearly a dance for screens -- appeared as it did because of the smartphone they were holding, and also the software that will gratefully swallow them and their dance when they are finished. Instagram Stories? TikTok? 
+
+Let me paint that bleakest of bleak pictures. I want to get it out of the way. Not dwell on it. To acknowledge its presence, and the ease with which it can be painted. To give it substance such that we can get to the critical questions of this writing. To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed. 
+
+
+Radically analogue body.
+
+Be precise about the technology. It's not so much the smartphone, but the software. And what is this software an instance of? It's not all technology. Not all software.
+
+They were indeed playing, and it likely clear that the technology and particularly the software was also playing them.  infinite game ... but with a brutal and less than benign heartbeat? [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. But I don't want to see it in this way. This is the finite game we are all playing as digital technologies predicated on the attention economy play us. 
+
+As social media subjects they are standing reserve; mere commodities for ... But as human beings, they are not.[@jacobs-2021-tech p.31]
+
+
+
+Let us agree then that their dance was being shaped algorithmically. Then what? Where does that leave those of us thinking about the body and movement for screen? Does it do anything to us? Does it help? Get in the way?  
+
+I would like to make sense of what I saw that day. In this writing I try to make sense of what I saw that day through two opposing perspectives: _dread_ and _awe_. I want to recognise and describe the patterns of their trio (two people and a smartphone), and how these patterns might matter to people who make films, and particularly those of us that make films in and around dance and movement. 
+ 
 
 This is all a very roundabout way of saying that this article is about screendance and technology, and in it I discuss what is made possible when we work or play with smartphone hardware and software as we dance, and what is lost or compromised. 
 
-To talk about technology in any guise is to talk about economics. The social psychologist Shoshana Zuboff wrote in _The Age of Surveillance Capitalism_ (2019) that "technology was, is, and always will be an expression of the economic objectives that direct it into action."[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.] She cites the German sociologist and historian Max Weber who writes: 
+Can I discuss paradox of the situation in terms of device paradigm and focal things? But what does this all matter for screendance? These are questions of culture: of privacy and freedom. We must make visible. To unhide. To recognise the games that are being played (on us).
+
+It's much more like an ice-berg. That something is being done to these two people beneath the surface of their awareness. The screen is above the water -- we can see its beauty, the way it reflects the sun. But below the surface, the digital is reaching up and enframing how they move and for how long. 
+
+These are new ways of moving not so much in what the actions are. They are familiar movements of the head, I can sense them or remember them in my body. But they are instances of something much darker. Who is doing the choreography here? And for what purposes? These are ways of moving shaped by the great unseen of our time. This is a machine that doesn't see them, it doesn't need to. It is not a machine of the state, a panopticon, but rather a commercial machine. (see Harari and deindividuation of the individual). They are being directed by a machine that has no need for eyes. But it's not so simple is it? These machines were programmed. The algorithms -- "an opinion formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_. Perhaps more than one person. A group of choreographers-as-developers, unseen. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the developers' work in Swift or Objective C.  
+
+If these two people -- or anyone for that matter -- were making an algorithmically inspired Screendance it would likely look like the dancing they were doing, and shot with the camera they were using. But the point is that I imagine they did not set out to make such a screendance. The screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. In the case of Roth, it would be as if the software's role was to capture the slides and touches of the gesture in his work and then upload them to (most likely) massive Amazon Web Services servers. This is a very very different thing. Much more subtle. Much less direct. But not at all subtle, and utterly direct. Because of course I have no doubt that our screen-based gestures are being uploaded.
+
+Quest for virality. See [[Jacobs - After Technopoly#^cde1fd]] and also [[Blitz - Understanding Heidegger on Technology#^05e7db]]
+
+
+Let us also agree that to talk about technology in any guise is to talk about economics. The social psychologist Shoshana Zuboff states in _The Age of Surveillance Capitalism_ (2019) that "technology was, is, and always will be an expression of the economic objectives that direct it into action."[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.] She cites the German sociologist and historian Max Weber who wrote: 
 
 > The fact that what is called the technological development of modern times has been so largely oriented economically to profit-making is one of the fundamental facts of the history of technology.[@weber-1978-economy Part 1, p.67]
 
-When we dance with technologies, we dance with profit-making.
+When we dance with technologies, we dance with profit-making. And perhaps we are only ever dancing with technologies? 
 
 This technological filter I have already (and perhaps unjustly) put on these two young people dancing creates one problem that will help frame what is to follow. And that is before even a vague discussion about how technology is and can be defined.
 
+I am already dancing around Martin Heidegger; it is a soft-shoe shuffle. Others have danced with him in this publication ...(essentialist view of tech -- see Feenberg who describes lack of clarity as to whether we are discussing attitude towards technology or the design of technologies)
+
+- enframing
+- standing reserve
 
 > And fourth, for Heidegger, technology is not simply the practical application of natural science. Instead, modern natural science can understand nature in the characteristically scientific manner only because nature has already, in advance, come to light as a set of calculable, orderable forces – that is to say, technologically.[@blitz-2014-understanding p.71]
 
 This last idea is very powerful. It seems to suggest the technological forces determine how it is that other things are seen (including things that we describe technologically). It's a loop. Recursion. and that their dancing in that park with that phone is a form of recursion. We can only understand this event in this way because it has "come to light" technologically.
 
+
 > Take recursion. It means, most simply, that you define a thing in terms of itself. But again and again, I watched people sit down at a computer, create a program that could go on forever, and quite simply freak out. Meeting recursion was like looking at objects of infinite regress, contemplating horizons, trying to find the end of the stars, all of these experiences that frighten and fascinate children—and adults.[@turkle-2021-empathy Chapter 16: Building 20, n.pag.]
 
-- [ ] deal with economics re technology (cannot not talk about economics and shaping of human behaviour through technology)
-- [ ] need to deal with what technology is at this stage? 
 
 Note here about work this writing draws on. Jacobs, Hui.
 
@@ -89,11 +126,8 @@ But what is meant here by technology?
 
 Jacobs describes the Polish philosopher's definition of technology as being broader than we usually understand it, as "instruments for manipulating our environment and ourselves."[Kołakowski, in @jacobs-2019-technopoly p.3]. Manipulation in this sense is not necessarily a _bad_ thing. For example, each time we use a fork we are manipulating the environment such that we can eat.  
 
-In _The question concerning technology in China: an essay in cosmotechnics_ (2016), the philosopher Yuk Hui makes the following distinction:
 
- >technics refers to the general category of all forms of making and practice; techne refers to the Greek conception of it, which Heidegger understands as poiesis or bringing forth; and technology refers to a radical turn which took place during European modernity, and developed in the direction of ever-increasing automation, leading consequently to what Heidegger calls the Gestell.[@hui-2016-question p.4] 
-
-Kołakowski's definition of technology doesn't seem so clearly related to  Hui's. It seems to fit most simply into a broad understanding of the world as being able to be manipulated or perhaps automated; a world which renders technologically-driven processes invisible. At a stretch, this connects Kołakowski's thinking with Heidegger's notion of enframing (Gestell), a process of revealing   and which "all beings become standing reserve"[@hui-2017-cosmotechnics n.pag.] -- a term I will return to later in this writing. 
+Kołakowski's definition of technology doesn't seem so clearly related to Hui's. It seems to fit most simply into a broad understanding of the world as being able to be manipulated or perhaps automated; a world which renders technologically-driven processes invisible. At a stretch, this connects Kołakowski's thinking with Heidegger's notion of enframing (Gestell), a process of revealing and which "all beings become standing reserve"[@hui-2017-cosmotechnics n.pag.] -- a term I will return to later in this writing. 
 
 Harari: deindividuation of the individual (from Talking Politics on Arendt?)
 
@@ -115,7 +149,7 @@ These two people are in a public space, what in the UK is called a common. Such 
 
 > For example, we challenge land to yield coal, treating the land as nothing but a reserve. The coal is then stored, "on call, ready to deliver the sun's warmth that is stored in it," which is then "challenged forth for heat, which in turn is ordered to deliver steam whose pressure turns the wheels that keep a factory running." The factories are themselves challenged to produce tools "through which once again machines are set to work and maintained."[@blitz-2014-understanding p.71]
 
-- could rewrite this as: We challenge young people to yield dance, treating these people as nothing but a reserve. The dance is then stored in the cloud,[^cloud] subjected to algorithms on call, ready to deliver the creativity and movement that is stored in their dance. This dancing turns the wheels that keep people online while serving them ads.
+- could rewrite this as: We challenge people to yield dance, treating these people as nothing but a reserve. The dance is then stored in the cloud,[^cloud] subjected to algorithms on call, ready to deliver the creativity and movement that is stored in their dance. This dancing turns the wheels that keep people online while serving them ads.
 
 [^cloud]: There is no cloud: [skellis.net/blog/there-is-no-cloud](https://www.skellis.net/blog/there-is-no-cloud)
 
@@ -127,34 +161,17 @@ Standing reserve is a "resource waiting to be used".[@jacobs-2021-tech p.31]
 as human beings they are not mere standing reserve. But as ... well, what are they? What else might I imagine them to be? Dancers? Filmmakers? Teenagers? How I identify them determines what kind of standing reserve they become. But perhaps end result is the same (thinking Zuboff here). The net effect is -- based on Zuboff -- the same. I see them as dancing reserve. They are a resource waiting to be used. Their screendancing is this resource. Their friendship is this resource. It's devastating. 
 
 
-
->But most people use social media not to unite, not to open their horizons wider, but on the contrary, to cut themselves a comfort zone where the only sounds they hear are the echoes of their own voice, where the only things they see are the reflections of their own face. Social media are very useful, they provide pleasure, but they are a trap.[Zygmunt Bauman, in @dequerol-2016-zygmunt n.pag.]
-
-
-
-
-
-
 > ... these acts [above re standing reserve] occur primarily by our own doing; we belong to the activity. Technological conscriptions of things occur in a sense prior to our actual technical use of [p.72] them, because things must be (and be seen as) already available resources in order for them to be used in this fashion. ... But these technical ends are never ends in themselves: "A success is that type of consequence that itself remains assigned to the yielding of further consequences." This chain does not move toward anything that has its own presence, but instead, "only enters into its circuit," and is "regulating and securing" natural resources and energies in this never-ending fashion.[@blitz-2014-understanding pp.71-72]
 
 This circularity is a key feature of standing reserve. How might I describe the circularity of these two women? Also am reminded of recursion (see elsewhere in this document)
 
-### James Bridle and Evan Roth
 
-Bridle discusses a form of architecture called [[parametricism]] in which complex analogue forms are developed from digital tools. He memorably describes such architecture as "eruptions of the digital into the physical world"[@bridle-2011-new n.pag.]. But there's something different going on here. There's no eruption. It's much more like an ice-berg. That something is being done to these two people beneath the surface of their awareness. The screen is above the water -- we can see its beauty, the way it reflects the sun. But below the surface, the digital is reaching up and enframing how they move and for how long. 
 
-These are new ways of moving not so much in what the actions are. They are familiar movements of the head, I can sense them or remember them in my body. But they are instances of something much darker. Who is doing the choreography here? And for what purposes? These are ways of moving shaped by the great unseen of our time. This is a machine that doesn't see them, it doesn't need to. It is not a machine of the state, a panopticon, but rather a commercial machine. (see Harari and deindividuation of the individual). They are being directed by a machine that has no need for eyes. But it's not so simple is it? These machines were programmed. The algorithms -- "an opinion formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_. Perhaps more than one person. A group of choreographers-as-developers, unseen. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the developers' work in Swift or Objective C.  
-
-Evan Roth's multi-touch finger paintings are useful here. They depict our gestures with phones, with names like _Slide to Unlock_, _User Name and Password_ and _Angry Birds, Level I-1_.[@roth-2012-multitouch] They are simple, and beautiful, and smudgy, not unlike smartphone screens themselves. Reflections tainted by the greasy smudges of our fingers. James Bridle describes Roth's images as "gestures mediated by the machine"[@bridle-2011-new n.pag.] They are images unimaginable before 2007 when the iPhone was launched upon us, yet they are also familiar because of our relationship to thumbprints, and to fingerprint technologies. I am reminded of my pre-teen years and my fascination with how finger prints were (and are) a method to deduce who did what. Roth's paintings are made possible by the machine, and the machine (and more accurately the software) has shaped these gestures. But Roth's awareness is critical. How he draws attention to the gestures as manipulated/mediated by the software-hardware interface. 
-
-If these two people -- or anyone for that matter -- were making an algorithmically inspired Screendance it would likely look like the dancing they were doing, and shot with the camera they were using. But the point is that I imagine they did not set out to make such a screendance. The screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. In the case of Roth, it would be as if the software's role was to capture the slides and touches of the gesture in his work and then upload them to (most likely) massive Amazon Web Services servers. This is a very very different thing. Much more subtle. Much less direct. But not at all subtle, and utterly direct. Because of course I have no doubt that our screen-based gestures are being uploaded.
-
-Quest for virality. See [[Jacobs - After Technopoly#^cde1fd]] and also [[Blitz - Understanding Heidegger on Technology#^05e7db]]
 
 - on acquiring moral life by habituation: [[Jacobs - After Technopoly#^ec599c]]
 
 
-## Awe (based on what I saw) (and myth?)
+## Awe (and myth?)
 
 > Introducing the Bremen lectures, Heidegger observes that because of technology, "all distances in time and space are shrinking" and "yet the hasty setting aside of all distances brings no nearness; for nearness does not consist in a small amount of distance." The lectures set out to examine what this nearness is that remains absent and is "even warded off by the restless removal of distances." As we shall see, we have become almost incapable of experiencing this nearness, let alone understanding it, because all things increasingly present themselves to us as technological: we see them and treat them as what Heidegger calls a "standing reserve," supplies in a storeroom, as it were, pieces of inventory to be ordered and conscripted, assembled and disassembled, set up and set aside. Everything approaches us merely as a source of energy or as something we must organize. We treat even human capabilities as though they were only means for technological procedures, as when a worker becomes nothing but an instrument for production. Leaders and planners, along with the rest of us, are mere human resources to be arranged, rearranged, and disposed of. Each and every thing that presents itself technologically thereby loses its distinctive independence and form. We push aside, obscure, or simply cannot see, other possibilities.[@blitz-2014-understanding p.68]
 
@@ -171,7 +188,7 @@ Thinking about Pippa and dancing with her friends. The dancing is a conduit in m
 - this is intense and seems to get at my ambivalence. 
 
 - the dao of butchering a cow
-- friendship, play and the infinite game
+
 
 - what if include Gutenberg section here but deals with modes of production. The cat is out of the bag. Any gatekeepers of what is and isn't screendance (if there ever were any -- the editors of this journal? the curators of screendance festivals?), or what should or shouldn't be are too late. 
 
@@ -193,6 +210,8 @@ It's am ambivalent and paradoxical process.
 
 ### Borgmann's device paradigm and focal things
 
+see [[Feenberg - From Essentialism to Constructivism#^6a69ce]] for very clear summary of device paradigm and sense of the hiding.
+
 Start with Heidegger. inevitable it has been written about so much in dance, and the ways in which technologies have influenced corporeal practices. In the second (?) volume of this journal, Cooper Albright asked four (?) artists to respond to Heidegger.  IJSD -- mention ACA's collection. 
 
 - or something about spirit (their spirit), that in those few minutes, overwhelmed the tech. Something became possible. Something was illuminated through technological affordances. the smartphone became a hearth: enframed, and [[borgmann, effort and focal things]]. (really?)
@@ -213,7 +232,7 @@ A focal thing is intimately connected to practice and is something that delivers
 [[device paradigm and focal things]] -- but their behaviour definitely operating as a device paradigm
 the technology faded into the background. The focal thing hid the device paradigm [[device paradigm and focal things#^fb451d]]
 
-- be very clear about distinction between [[technics, techne, and technology]]  (by Hui) and how these definitions might reflect on different aspects of my awe vs dread / myth vs technology. Seems like Kołakowski's thinking (through Jacobs) re technology is quite distinct from Hui's. But I'm not sure. 
+
 
 
 > The basic phenomenon that belongs together with being is truth, or "revealing," which is the phenomenon Heidegger brings forward in his discussion in "The Question Concerning Technology." Things can show or reveal themselves to us in different ways, and it is attention to this that will help us recognize that technology is itself one of these ways, but only one. Other kinds of revealing, and attention to the realm of truth and being as such, will allow us to "experience the technological within its own bounds."[@blitz-2014-understanding p.69]
@@ -228,13 +247,9 @@ Theresa May dancing queen: https://youtu.be/VwRX0mcqSoQ
 
 I didn't want to spend too long gawking, and yet I also sense how their dancing and indeed joy distracted me from the profound choreography of the situation. This is choreography of the kind in which the screen-phone ... Unaware they are burned and mauled (unknown to them). So frictionless, and clean. 4k pristine-ness. Way beyond industrial modernity in which the pleasure and play of these two young people is frictionless and clean labor of our time, in 4k. It's not even laboriousness. It's monetization of pleasure and joy without them being aware of it.  
 
-Low friction technology (convenience, see [[how informs what and this produces culture#^aa0fb6]]) and our behavior, ways of thinking and epistemic understanding change. This is Postman really. This is the printing press. Bench is talking about documentation (is this accurate?). I'm talking about making. Yes, how things are made is changing. That's a given. But what things are made. It goes all the way back to the kinds of dancing. Our focus has been on how technologies influence production, post-production, and presentation. Opportunity here to mention key influences of screendance writing about editing, production (many from IJSD?) But the mode of presentation (this is where we dance now) is inevitably reaching backwards through the film-making 'workflow' into the dancing itself. These are dances enframed by software (more than hardware) and algorithms. But they are also dances of togetherness, pleasure. The hearth? 
+Low friction technology (convenience, see [[how informs what and this produces culture#^aa0fb6]]) and our behavior, ways of thinking and epistemic understanding change. This is Postman really. This is the printing press. Bench is talking about documentation (is this accurate?). I'm talking about making. Yes, how things are made is changing. That's a given. But what things are made. It goes all the way back to the kinds of dancing. Our focus has been on how technologies influence production, post-production, and presentation. Opportunity here to mention key influences of screendance writing about editing, production (many from IJSD?, Pearlman) But the mode of presentation (this is where we dance now) is inevitably reaching backwards through the film-making 'workflow' into the dancing itself. These are dances enframed by software (more than hardware) and algorithms. But they are also dances of togetherness, pleasure. The hearth? 
 
-They were indeed playing, and it likely clear that the technology and particularly the software was also playing them.  infinite game ... but with a brutal and less than benign heartbeat? [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. But I don't want to see it in this way. This is the finite game we are all playing as digital technologies predicated on the attention economy play us. 
 
-As social media subjects they are standing reserve; mere commodities for ... But as human beings, they are not.[@jacobs-2021-tech p.31]
-
-Their screendance -- and it is so clearly a dance for screens -- is only happening in this way because of that smartphone they are holding, and perhaps also the software that will gratefully swallow them and their dance when they are finished. Instagram Stories? TikTok? 
 
 This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. I didn't need to see the mediated, algorithm-ed, commodification of their dancing (even though I could see it to a certain extent in the movement -- they were mimicking). I could imagine their filmic ghosts on that small screen; the framing, the dancing. 
 
@@ -243,14 +258,31 @@ This is one of the tremendous paradoxes of our time: it undermines the binary of
 >And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
 
 - thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game -- posting to TikTok.
+
+
+Yuk Hui is a philosopher of technology, and in _Cosmotechnics as Cosmopolitics_[-@hui-2017-cosmotechnics] **introduce the article**. Cosmotechnics is a strange term. Seems to hint at historical understandings of making and craft. As if reaching back from Postman's technopoly to tool using cultures. 
+In the article, Hui tells the story of a very good butcher called Pao Ding. Pao Ding claims that having an excellent knife is not enough:
+
+>it is more important to understand the Dao in the cow, so that one does not use the blade to cut through the bones and tendons, but rather to pass alongside them in order to enter into the gaps between them.[@hui-2017-cosmotechnics n.pag.]
+
+Hui writes that when the butcher encounters any difficulty, "he slows down the knife and gropes for the right place to move further."[@hui-2017-cosmotechnics n.pag.] This is the Dao (or _way_ or _path_), whereas the Qi is the technical/phenomenal object (or "technics"): the knife. 
+
 - imagine the knife of their dancing hitting the bone. Would they slow down? Does their algorithm enframed dancing even make that kind of gesture of Dao possible? 
 
 - wondering about directionality -- the flow of the technics/device paradigm squeezing back into their bodies, and how they move. and the flow of the Dao. 
 
+In _The question concerning technology in China: an essay in cosmotechnics_ (2016), Hui distinguishes precisely between technics, techne, and technology: 
+
+ >technics refers to the general category of all forms of making and practice; techne refers to the Greek conception of it, which Heidegger understands as poiesis or bringing forth; and technology refers to a radical turn which took place during European modernity, and developed in the direction of ever-increasing automation, leading consequently to what Heidegger calls the Gestell.[@hui-2016-question p.4] 
+
+ technology here is akin to technopoly.
+
+]]  (by Hui) and how these definitions might reflect on different aspects of my awe vs dread / myth vs technology. Seems like Kołakowski's thinking (through Jacobs) re technology is quite distinct from Hui's. But I'm not sure. 
+
 
 - meaningful lives. This is the kind of screendance that really interests me. It resists modes of production and presentation. It's grounded in making and process. The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
 
-## The future, myth and technopoly
+## The future, technopoly and myth
 
 _In which I zoom out into the future and call on Alan Jacobs' understanding of the value of myth in the technopoly._
 
@@ -258,21 +290,20 @@ _In which I zoom out into the future and call on Alan Jacobs' understanding of t
 
 [[Jacobs - from tech critique to ways of living]]
 
-The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From "fast and attention-getting to slow and powerful"[@brand-2008-clock p.36] the six levels are: fashion/art, commerce, infrastructure, governance, culture and nature. Brand writes how the role of fashion and art is essentially to be "quick, irrelevant, engaging, self-preoccupied, and cruel"[@brand-2008-clock p.36] whereas the "vast slow-motion dance"[@brand-2008-clock p.38] of culture operates through centuries and millennia. Brand suggests that together these distinct and contradictory pace layers provide internal negative feedback that in turn stabilizes and affords the health of civilization. 
+The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From "fast and attention-getting to slow and powerful"[@brand-2008-clock p.36] the six levels are: fashion/art, commerce, infrastructure, governance, culture and nature. Brand writes how the role of fashion and art is essentially to be "quick, irrelevant, engaging, self-preoccupied, and cruel"[@brand-2008-clock p.36] whereas the "vast slow-motion dance"[@brand-2008-clock p.38] of culture operates through centuries and millennia. Brand suggests that together these distinct and contradictory pace layers provide internal negative feedback that stabilizes and affords the health of civilization. 
 
-So now I'm going to attempt to slip or zoom out in time to the pace of _culture_ in Brand's levels. It is a level or place where time as chronos operates akin to Danny Hillis' _10,000-year clock_ or _The Clock of the Long Now_.[@hillis-1995-millennium] [^ack1] 
+So now I'm going to attempt to zoom out in time to the pace of _culture_ in Brand's levels. It is a level or place where time as chronos operates akin to Danny Hillis' _10,000-year clock_ or _The Clock of the Long Now_.[@hillis-1995-millennium] [^ack1] 
 
 Here goes.
 
 Those two young people have grown up, lived their lives and are gone. They are probably survived by family, but maybe not. I'm long long gone. Perhaps the park is still there? It is common land so hopefully it has not been developed; but I am doubtful. There are parts of the teenagers' phones from 2021 that are obviously still on the planet in some form: lithium, copper, gold, lead, zinc, etc; elemental fragments of devices that once afforded some dancing of pleasure back in 2021 during the pandemic. For the most part these elements are in landfill. Those software companies that wielded algorithms to reach through the phone to choreograph/enframe that dancing are long gone too; I can no longer remember their names. They were once so certain and stable; omnipresent. Their algorithms disappeared with them, and have been replaced by old mathematics rethought and recompiled.
 
-I feel none of the vertigo that American media theorist Douglas Rushkoff suggested I might feel if I were to zoom so far out.[@rushkoff-2013-present] I notice the stillness and slowness, and the absence of chatter. In that stillness I remember seeing a screendance by Annie Pfingst and Helen Poynor called _in Memoriam_.[-@poynor-2016-memoriam] I saw it at the Light Moves Festival of Screendance in 2018; such a long time ago. This is a film that is the scale of art operating at the pace of nature. In it a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key memory is of the sounds and feelings of the terrain, and of the passing of time. But this is no ordinary time that is passing, even under the machinations and co-ordinates of the long now. 
+I feel none of the vertigo that American media theorist Douglas Rushkoff suggested I might feel if I were to zoom so far out.[@rushkoff-2013-present] I notice the stillness and slowness, and the absence of sniping chatter. In that stillness I remember seeing a screendance by Annie Pfingst and Helen Poynor called _in Memoriam_.[-@poynor-2016-memoriam] I saw it at the Light Moves Festival of Screendance in 2018; such a long time ago. This is a film that is the scale of art operating at the pace of nature. In it a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key memory is of the tapestry of the terrain, and of the passing of time. But this is no ordinary time that is passing, even under the machinations and co-ordinates of the long now. 
 
-_in Memoriam_ is a film that treasures myth and seems to resist and transcend technopoly. It is a film in a "hidden place" seemingly unable to be rooted out, even as the dancer is enmeshed in the roots of trees and of nature. It exists in edit and feel in an _other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
+_in Memoriam_ is a film that treasures myth and seems to resist and transcend technopoly. It is a film in a _hidden place_ seemingly unable to be rooted out, even as the dancer Helen Poynor is enmeshed in the roots of trees and of nature. It exists through its edit and feel in an _other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
 
-Here, as I write, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection, a place by which we recognise the slowness of culture, and the creep of nature. 
+Here, as I write, long into the future, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection, a place by which we recognise the slowness of culture, and the creep of nature. 
 
-resistant to the power of "transnational technopoly" to "hunt you down and root you out". 
 Hidden, seemingly unable to be rooted out. The way it resists time as well (see below notes about long time). That film speaks to those qualities. 
 
 
@@ -285,13 +316,28 @@ Looking into the "possibility of different technological futures" [[Cosmotechnic
 
 [^ack1]: I first read of Hillis' work in Brian Eno's _A Year with Swollen Appendices_ (1995), but was reminded of his work (and Stewart Brand's) while reading Douglas Rushkoff's book _Present Shock_ (2013). This is to acknowledge their influence on this section of the article.
 
-See also [[Gelassenheit]] -- 
+See also [[Gelassenheit]] -- Gelassenheit is translated as _releasement_ or _letting go_; "to let things be in whatever may be their uncertainty and their mystery".
 
 ## Thanks
 
-Bob Whalley -- introducing me to Yuk Hui's book _xx_ (which appeared at nearly the same time in some writing I found by Alan Jacobs.)  Instance of [[Baader-Meinhof phenomenon]]. People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas.
+Bob Whalley -- introducing me to Yuk Hui's book _The Question Concerning Technology in China_ (which appeared at nearly the same time in some writing I found by Alan Jacobs.)  Instance of [[Baader-Meinhof phenomenon]]. People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas.
 
 ## edit bin
+
+### James Bridle and Evan Roth
+
+Bridle discusses a form of architecture called [[parametricism]] in which complex analogue forms are developed from digital tools. He memorably describes such architecture as "eruptions of the digital into the physical world"[@bridle-2011-new n.pag.]. But there's something different going on here. There's no eruption. It's much more like an ice-berg. That something is being done to these two people beneath the surface of their awareness. The screen is above the water -- we can see its beauty, the way it reflects the sun. But below the surface, the digital is reaching up and enframing how they move and for how long. 
+
+
+Evan Roth's multi-touch finger paintings are useful here. They depict our gestures with phones, with names like _Slide to Unlock_, _User Name and Password_ and _Angry Birds, Level I-1_.[@roth-2012-multitouch] They are simple, and beautiful, and smudgy, not unlike smartphone screens themselves. Reflections tainted by the greasy smudges of our fingers. James Bridle describes Roth's images as "gestures mediated by the machine"[@bridle-2011-new n.pag.] They are images unimaginable before 2007 when the iPhone was launched upon us, yet they are also familiar because of our relationship to thumbprints, and to fingerprint technologies. I am reminded of my pre-teen years and my fascination with how finger prints were (and are) a method to deduce who did what. Roth's paintings are made possible by the machine, and the machine (and more accurately the software) has shaped these gestures. But Roth's awareness is critical. How he draws attention to the gestures as manipulated/mediated by the software-hardware interface. 
+
+>But most people use social media not to unite, not to open their horizons wider, but on the contrary, to cut themselves a comfort zone where the only sounds they hear are the echoes of their own voice, where the only things they see are the reflections of their own face. Social media are very useful, they provide pleasure, but they are a trap.[Zygmunt Bauman, in @dequerol-2016-zygmunt n.pag.]
+
+
+
+- friendship, play and the infinite game
+
+I am not interested in discussing teenage use of social media. 
 
 This writing also contains a trap of my own making. It is a trap akin to . 
 
