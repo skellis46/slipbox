@@ -20,7 +20,7 @@ In this post for the rationalist website Lesswrong G Gordon Worley III compares 
 
 Worley III then compares these to two Western philosophical traditions:
 
-1. Kant's _phenomena and noumena_ (although Worley III is critical of his own comparison here) [[noumenon and phenomenon]] and [[Cosmotechnics as Cosmopolitics]] and [[gestell and enframing]] and [[device paradigm and focal things]] and [[borgmann, effort and focal things]]
+1. Kant's _phenomena and noumena_ (although Worley III is critical of his own comparison here) [[noumenon and phenomenon]] and [[Hui - Cosmotechnics as Cosmopolitics]] and [[gestell and enframing]] and [[device paradigm and focal things]] and [[borgmann, effort and focal things]]
 2. Heidegger's _ontological and ontic_ which are, more or less, words and ideas about what is, versus what is. 
 
 ---

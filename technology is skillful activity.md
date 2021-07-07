@@ -23,7 +23,7 @@ _consider:_
 
 - compare Noë's expanded description of technology with Ginot's description of techno-bodies: [[somatics, action and technology]]. In one sense, somatics as a way of organising/reorganising the body is a technology itself: a system for thinking-moving.
 - different from a _normative_ conception of technology like how O'Brien talks of Borgman (as far as I'm aware): [[borgmann, effort and focal things]] and [[device paradigm and focal things]] (in which I also mention somatics as a technological practice)
-- contrast also with [[Cosmotechnics as Cosmopolitics]] and Hui's definitions of [[technics, techne, and technology]]
+- contrast also with [[Hui - Cosmotechnics as Cosmopolitics]] and Hui's definitions of [[technics, techne, and technology]]
 
 
 _source:_ Searching for possible third-person collaborators for #finger-pointing-moon, thought of Alva Noë and then noticed this book (which I had already downloaded some years ago!)

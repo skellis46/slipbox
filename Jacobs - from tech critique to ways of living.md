@@ -11,7 +11,7 @@ He discusses the rise of [[Postman's technopoly]], the progress of which has bee
 
 >This technological enframing of human life, says Heidegger, first “endanger\[s\] man in his relationship to himself and to everything that is” and then, beyond that, “banishes” us from our home. And that is a great, great peril.[@jacobs-2021-tech p.31]
 
-Jacobs' proposal draws on Yuk Hui's work, and in particular [[Cosmotechnics as Cosmopolitics]] and how cosmotechnics is the point at which "a way of life is realized through making."[@jacobs-2021-tech p.33] He goes further into Hui's thinking, and suggests that Daoism -- a unification of making and living as exemplified in [[the Dao of butchering cows]] -- and the Daoist sage provides a way to consider a different kind of relationship to the technopoly: 
+Jacobs' proposal draws on Yuk Hui's work, and in particular [[Hui - Cosmotechnics as Cosmopolitics]] and how cosmotechnics is the point at which "a way of life is realized through making."[@jacobs-2021-tech p.33] He goes further into Hui's thinking, and suggests that Daoism -- a unification of making and living as exemplified in [[the Dao of butchering cows]] -- and the Daoist sage provides a way to consider a different kind of relationship to the technopoly: 
 
 >The particular tone of the sage’s skepticism is ironic, and the sage is in some essential sense an ironist, but his irony is always directed primarily toward himself. Indeed, this is precisely why people should seek him out to govern them: His primary qualification for office is the gently humorous attitude he takes toward himself, which then extends outward toward our technological “enframing” of the world.[@jacobs-2021-tech p.40]
 

@@ -4,7 +4,7 @@ type: "article"
 platform: "ijsd"
 current-status: "in-progress"
 status-updated: "20210629"
-csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
+csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
 # Lithium dance | Dancing reserve | Ambivalence and wonder in three minutes of dancing | The case of two people dancing
@@ -20,6 +20,7 @@ csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 >Technology is neither good nor bad; nor is it neutral.[@kranzberg-1986-technology p.545]
 
 > For these thinkers modernity continues to be characterized by a unique form of technical action and thought that threatens nontechnical values as it extends itself ever deeper into social life. They argue that technology is not neutral.[@feenberg-2000-essentialism pp.294-295] 
+
 
 ## Prelude: Dance, record, watch, point, and laugh (two young people and their camera)
 
@@ -310,7 +311,7 @@ Hidden, seemingly unable to be rooted out. The way it resists time as well (see 
 - no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below). Touches on his writing in [[Jacobs - After Technopoly]] as well -- in the final statements about myth (and discussion of the Mars trilogy book) 
 - can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life]]
 
-Looking into the "possibility of different technological futures" [[Cosmotechnics as Cosmopolitics#^06b080]] -- this is really beautiful. That we are aware. Implications for screendance? 
+Looking into the "possibility of different technological futures" [[Hui - Cosmotechnics as Cosmopolitics#^06b080]] -- this is really beautiful. That we are aware. Implications for screendance? 
 
 > If the essence of technē is poiesis, or bringing forth (Hervorbringen), then modern technology, a product of European modernity, no longer possesses the same essence as technē but is rather an “enframing” (Gestell) apparatus, in the sense that all beings become standing reserves (Bestand) for it.[@hui-2017-cosmotechnics n.pag]
 
