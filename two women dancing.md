@@ -9,8 +9,6 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # Lithium dance | Dancing reserve | Ambivalence and wonder in three minutes of dancing | The case of two people dancing
 
-
-
 ## Abstract
 
 ---
@@ -21,6 +19,8 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 > For these thinkers modernity continues to be characterized by a unique form of technical action and thought that threatens nontechnical values as it extends itself ever deeper into social life. They argue that technology is not neutral.[@feenberg-2000-essentialism pp.294-295] 
 
+
+Sailboat - exploration and safety. From Kaufman. For two women. Exploration. Safety/security? 
 
 ## Prelude: Dance, record, watch, point, and laugh (two young people and their camera)
 
