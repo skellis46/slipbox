@@ -17,7 +17,8 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 >Technology is neither good nor bad; nor is it neutral.[@kranzberg-1986-technology p.545]
 
-
+> Here indeed, the whole mechanism of the operation is invisible to the viewer: the deepest darkness reigns: suddenly, a ghost appears, far, far away at first, appearing as a point of light to the audience. But it soon grows, becomes bigger and bigger and seems to approach slowly at first, to then rush towards the spectators: the illusion is total.[Victor de Moléon (1836), in @chateau-2016-screensa pp.49-50]
+ 
 ## Prelude: Dance, record, watch, point, and laugh (two young people and their camera)
 
 _In which I describe an actual event that prompted me to consider the choreography of screendance in this writing._
@@ -30,61 +31,57 @@ I am walking past them, wary of watching or intruding, but also captivated by th
 
 The dancing is mostly movement in the head and neck; rolling the head side to side around the frontal axis. They more or less do the same short sequence every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game seems to be on repeat. The movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
 
-By this stage I'm some way past where it is they are dancing. It has been no more than three minutes since I first saw them.
+By this stage I'm some way past where it is they are dancing. It has been no more than three minutes since I first saw them. Keep in mind that even though they were dancing in plain sight, it is not possible to know why they were recording their dancing. This writing is thereby an extrapolation of what I saw. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment. Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing. Perhaps. 
 
-## Introduction: 
+## Algorithmic choreography
 
 _In which I introduce the central conceit (or assumption) of this article, the structure, and how any discussion of technology is a discussion about economics._
 
-It seems important to keep in mind that I only saw what I saw. I cannot know why these two people were recording their dancing. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment? Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing? Perhaps. 
+In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such"[Rosenberg, [art.wisc.edu/2017/10/23/hiding-plain-site-screendance-histories-expanded-imagination-lecture-uw-madison-art-faculty-douglas-rosenberg](https://art.wisc.edu/2017/10/23/hiding-plain-site-screendance-histories-expanded-imagination-lecture-uw-madison-art-faculty-douglas-rosenberg), from @mcpherson-2020-walking pp.55]. The following volume of IJSD -- _This is where we dance now: COVID-19 and the new and next in dance onscreen_ -- was a type of celebration of screendance's undeniable visibility as people danced and watched dancing through screens during the COVID-19 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before COVID-19 acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283]
 
-This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. (blanco borelli and xx mention this ambivalence) I didn't need to see the mediated, algorithm-ed, commodification of their dancing (even though I could see it to a certain extent in the movement -- they were mimicking). I could imagine their filmic ghosts on that small screen; the framing, the dancing. 
-
-I am confident that what I saw that day was not the end of their story; that what they did next was to post the _best version_ of their screendance performances to a social media platform online. I am agnostic towards social media platforms. For the sake of this writing I will guess that they were using TikTok -- the fastest growing social media platform amongst teenagers in the USA.[^stat] Also, there's a lot of dancing on TikTok. 
-
-[^stat]: [statista.com/statistics/250172/social-network-usage-of-us-teens-and-young-adults/](https://www.statista.com/statistics/250172/social-network-usage-of-us-teens-and-young-adults/)
-
-part of the awe is the sense of their dancing being _with_ others. That they are networked. Seeing and being seen.
+There's another kind of hiding ...
 
 
-By making this assumption I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. I trust though that my assumption does not prevent these ideas from having some value to how we might understand social and artistic contexts in screendance. After all, people dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. **line here about this is where we dance now. That these cultural levers and patterns are part of screendance practices.**
 
+I am confident that what I saw that day was not the end of their story; that what they did next was to post the _best version_ of their screendance performances _on social_. I am agnostic towards social media platforms, so for the sake of this writing let's assume they were using TikTok because there's a lot of dancing on TikTok.[See for example @blancoborelli-2021-tiktok; @harlig-2021-tiktok] 
+
+By making this assumption I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. I trust though that my assumption does not prevent these ideas from having some value to how we might understand social and artistic contexts in screendance. After all, people dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. In many respects, Volume 12 of IJSD  -- is testimony that these cultural levers and patterns are deeply embedded screendance practices. [@blancoborelli-2021-tiktok] also [@benthaus-2021-this]
 
 Let us agree then that their dance was being shaped algorithmically. Then what? Where does that leave those of us thinking about the body and movement for screen? Does it do anything to us? Does it help? Get in the way?  
+
+> On TikTok, remix cultures are built into the platform norm; my friends Meg Zeng, Xu Chen, as well as Bondy Kaye wrote a paper describing creativity on TikTok as a type of “circumscribed creativity,” where all the features of the platform shape you to create content in specific ways. So while you believe you’ve got flexibility, this platform is really squishing you into a template and teaching you how to perform creativity within a box. -- Crystal Abidin[@harlig-2021-tiktok p.192]
+
+
+
+It's much more like an ice-berg. That something is being done to these two people beneath the surface of their awareness. The screen is above the water -- we can see its beauty, the way it reflects the sun. But below the surface, the algorithms are extending up into how they move and for how long. 
+
+These are new ways of moving not so much in what the actions are. They are familiar movements of the head, I can sense them or remember them in my body. But they are instances of something much darker. Who is doing the choreography here? And for what purposes? These are ways of moving shaped by the great unseen of our time. This is a machine that doesn't see them, it doesn't need to. It is not a machine of the state, a panopticon, but rather a commercial machine. (see Harari and deindividuation of the individual). They are being directed by a machine that has no need for eyes. But it's not so simple is it? These machines were programmed. The algorithms -- "an opinion formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_. Perhaps more than one person. A group of choreographers-as-developers, unseen. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the developers' work in Swift or Objective C.  
+
+If these two people -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and shot with the camera they were using. I suspect though that they did not set out to make a screendance the way readers might understand _an intention to make a screendance_. Rather, the screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. 
+
+XXXX - algorithmic performance (from Blanco Borelli)
+
+> In similar fashion, we also see TikTok enacting what Sianne Ngai would call a “capitalist gimmick.”3 This gimmick “is both a wonder and a trick. It is a form we marvel at and distrust, admire and disdain, whose affective intensity for us increases precisely because of this ambivalence.”4 These critical frames could not be more relevant in 2020 and beyond.[@blancoborelli-2021-tiktok p.298]
+
+This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. (blanco borelli and xx mention this ambivalence) I didn't need to see the mediated, algorithm-ed, commodification of their dancing (even though I could see it to a certain extent in the movement -- they were mimicking). I could imagine their filmic ghosts on that small screen; the framing, the dancing. 
 
 I would like to make sense of what I saw that day. In this writing I try to make sense of what I saw that day through _awe_ (note link to Kaufman's Transcend here). I want to recognise and describe the patterns of their trio (two people and a smartphone), and how these patterns might matter to people who make films, and particularly those of us that make films in and around dance and movement. Before I do this I need to paint a bleak picture.
 
 This article is about screendance and ... (then say who I think it's for).
 
+
+
 Can I discuss paradox of the situation in terms of device paradigm and focal things? But what does this all matter for screendance? These are questions of culture: of privacy and freedom. We must make visible. To unhide. To recognise the games that are being played (on us).
- 
 
 ## Up close and short term: The bleakest of pictures
 
 > embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
 
-For most of the time preparing and writing this article, I found it difficult to sublimate my sense of sadness and dread in what I saw that day. Such a position is simply too easy to adopt. Can we agree that their screendance -- and it is so clearly a dance for screens -- appeared as it did because of the smartphone they were holding, and also the software that will gratefully swallow them and their dance when they are finished. Instagram Stories? TikTok? 
+For most of the time preparing and writing this article, I found it difficult to sublimate my sense of dread in what I saw that day. Such a position is simply too easy to adopt. Can we agree that their screendance -- and it is so clearly a dance for screens -- appeared as it did and was performed as it was because of the smartphone they were holding, and its software that will gratefully swallow them and their dance when they are finished. 
 
 Let me paint that bleakest of bleak pictures. I want to get it out of the way. Not dwell on it. To acknowledge its presence, and the ease with which it can be painted. To give it substance such that we can get to the critical questions of this writing. To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed.
 
-### Virality
-
-Quest for virality. See [[Jacobs - After Technopoly#^cde1fd]] and also [[Blitz - Understanding Heidegger on Technology#^05e7db]]. Also Blanco Borelli and moore discuss virality a lot in their article [[Blanco Borelli and moore - TikTok, Friendship, and Sipping Tea, or How to Endure a Pandemic]]. See also [[Jacobs - After Technopoly#^cde1fd]]
-
-### Being choreographed / algorithmic dancing
-
-It's much more like an ice-berg. That something is being done to these two people beneath the surface of their awareness. The screen is above the water -- we can see its beauty, the way it reflects the sun. But below the surface, the digital is reaching up and enframing how they move and for how long. 
-
-These are new ways of moving not so much in what the actions are. They are familiar movements of the head, I can sense them or remember them in my body. But they are instances of something much darker. Who is doing the choreography here? And for what purposes? These are ways of moving shaped by the great unseen of our time. This is a machine that doesn't see them, it doesn't need to. It is not a machine of the state, a panopticon, but rather a commercial machine. (see Harari and deindividuation of the individual). They are being directed by a machine that has no need for eyes. But it's not so simple is it? These machines were programmed. The algorithms -- "an opinion formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_. Perhaps more than one person. A group of choreographers-as-developers, unseen. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the developers' work in Swift or Objective C.  
-
-If these two people -- or anyone for that matter -- were making an algorithmically inspired screendance it would likely look like the dancing they were doing, and shot with the camera they were using. But the point is that I imagine they did not set out to make such a screendance. The screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. In the case of Roth (artist), it would be as if the software's role was to capture the slides and touches of the gesture in his work and then upload them to (most likely) massive Amazon Web Services servers. This is a very very different thing. Much more subtle. Much less direct. But not at all subtle, and utterly direct. Because of course I have no doubt that our screen-based gestures are being uploaded.
-
-Neil Postman was a media theorist who took a famously sceptical stance on the role and value of technology in human culture and society. His most well-known book -- _Amusing ourselves to death: public discourse in the age of show business_[@postman-2006-amusing] -- was first published in 1985 and it reconstitutes Marshall McCluhan's famous aphorism: the medium is the message.[@mcluhan_understanding_1967] Postman argues that a message is too specific or fixed, and that media forms do not convey messages. Instead, he writes that media are "rather like metaphors, working by unobtrusive but powerful implication to enforce their special definitions of reality." [@postman-2006-amusing p.10] Postman impels us to consider that "in every tool we create, an idea is embedded that goes beyond the function of the thing itself."[@postman-2006-amusing p.14] Postman died in 2003: a year before Mark Zuckerberg founded Facebook, three years before Dorsey, Glass, Stone and Williams founded Twitter, four years before the release of the first iPhone, and six years before Facebook added its _like_ button.
-
-
 ### Dancing in the swarm
-
-Philosophical speculation 
 
 The ... Zygmunt Bauman describes a liquid-modern society that ... In it, groups are replaced by swarms that "assemble, disperse, and come together again from one occasion to another, each time guided by different, invariably shifting relevancies, and attracted by changing and moving targets."[@bauman-2008-does p.15]. Swarms need no leaders, no hierarchies. Each unit of the swarm "reenacts the moves made by the other, while performing the whole job, from beginning to end in all its parts, alone."[@bauman-2008-does p.16] A swarm creates an endless process of copying and making in which any original does not exist or has been forgotten. In a consuming swarm, the job of a swarm is to consume. 
 
@@ -100,8 +97,6 @@ These two people are in a public space, what in the UK is called a common. Such 
 
 
 ### Economics / dancing reserve
-
-Be precise about the technology. It's not so much the smartphone, but the software. And what is this software an instance of? It's not all technology. Not all software.
 
 Let us also agree that to talk about technology in any guise is to talk about economics. The social psychologist Shoshana Zuboff states in _The Age of Surveillance Capitalism_ (2019) that "technology was, is, and always will be an expression of the economic objectives that direct it into action."[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.] She cites the German sociologist and historian Max Weber who wrote: 
 
@@ -151,7 +146,7 @@ as human beings they are not mere standing reserve. But as ... well, what are th
 
 > ... these acts [above re standing reserve] occur primarily by our own doing; we belong to the activity. Technological conscriptions of things occur in a sense prior to our actual technical use of [p.72] them, because things must be (and be seen as) already available resources in order for them to be used in this fashion. ... But these technical ends are never ends in themselves: "A success is that type of consequence that itself remains assigned to the yielding of further consequences." This chain does not move toward anything that has its own presence, but instead, "only enters into its circuit," and is "regulating and securing" natural resources and energies in this never-ending fashion.[@blitz-2014-understanding pp.71-72]
 
-This circularity is a key feature of standing reserve. How might I describe the circularity of these two women? Also am reminded of recursion (see elsewhere in this document)
+This circularity is a key feature of standing reserve. How might I describe the circularity of these two women? Also am reminded of recursion ...
 
 
 
@@ -196,6 +191,7 @@ Harari: deindividuation of the individual (from Talking Politics on Arendt?)
 
 - on acquiring moral life by habituation: [[Jacobs - After Technopoly#^ec599c]]
 - Note here about work this writing draws on. Jacobs, Hui.
+- part of the awe is the sense of their dancing being _with_ others. That they are networked. Seeing and being seen.
 
 ### The Dao of butchering a cow
 
@@ -238,6 +234,10 @@ Possible to go to mythical core from [[Jacobs - After Technopoly]] -- do this vi
 
 Perhaps then screendance ought to stay hidden in plain sight. That there is tremendous value in seeking ways to bypass the bleakest of bleak pictures.
 
+Neil Postman was a media theorist who took a famously skeptical stance on the role and value of technology in human culture and society. His most well-known book -- _Amusing ourselves to death: public discourse in the age of show business_[@postman-2006-amusing] -- was first published in 1985 and it reconstitutes Marshall McCluhan's famous aphorism: the medium is the message.[@mcluhan_understanding_1967] Postman argues that a message is too specific or fixed, and that media forms do not convey messages. Instead, he writes that media are "rather like metaphors, working by unobtrusive but powerful implication to enforce their special definitions of reality." [@postman-2006-amusing p.10] Postman impels us to consider that "in every tool we create, an idea is embedded that goes beyond the function of the thing itself."[@postman-2006-amusing p.14] 
+
+Function is data extraction. Simple. But something awe-inspiring as well. Humans making. 
+
 ## Hidden in the future 
 
 _In which I zoom out into the future and call on Alan Jacobs' understanding of the value of myth in the technopoly._
@@ -273,7 +273,7 @@ Hidden, seemingly unable to be rooted out. The way it resists time as well (see 
 
 Looking into the "possibility of different technological futures" [[Hui - Cosmotechnics as Cosmopolitics#^06b080]] -- this is really beautiful. That we are aware. Implications for screendance? 
 
-> If the essence of technē is poiesis, or bringing forth (Hervorbringen), then modern technology, a product of European modernity, no longer possesses the same essence as technē but is rather an “enframing” (Gestell) apparatus, in the sense that all beings become standing reserves (Bestand) for it.[@hui-2017-cosmotechnics n.pag]
+> If the essence of technē is poiesis, or bringing forth (Hervorbringen), then modern technology, a product of European modernity, no longer possesses the same essence as technē but is rather an "enframing" (Gestell) apparatus, in the sense that all beings become standing reserves (Bestand) for it.[@hui-2017-cosmotechnics n.pag]
 
 [^ack1]: I first read of Hillis' work in Brian Eno's _A Year with Swollen Appendices_ (1995), but was reminded of his work (and Stewart Brand's) while reading Douglas Rushkoff's book _Present Shock_ (2013). This is to acknowledge their influence on this section of the article.
 
@@ -289,6 +289,26 @@ Low friction technology (convenience, see [[how informs what and this produces c
 Bob Whalley -- introducing me to Yuk Hui's book _The Question Concerning Technology in China_ (which appeared at nearly the same time in some writing I found by Alan Jacobs.)  Instance of [[Baader-Meinhof phenomenon]]. People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas.
 
 # Edit bin
+
+-- the fastest growing social media platform among teenagers in the USA, with serious legs in the UK as well.[^stat] Also, there's a 
+
+[^stat]: [statista.com/statistics/250172/social-network-usage-of-us-teens-and-young-adults/](https://www.statista.com/statistics/250172/social-network-usage-of-us-teens-and-young-adults/) and [emarketer.com/content/uk-tiktok-sees-explosive-growth-amid-pandemic](https://www.emarketer.com/content/uk-tiktok-sees-explosive-growth-amid-pandemic)
+
+> I think it’ll be useful to differentiate finding implications in this fast-changing social media world versus celebrating or glamorizing social media trends. Because what I also notice is that the life span of a viral dance video is really short! -- Chuyun Oh[@harlig-2021-tiktok p.204]
+
+> So we have a really specific movement style that’s predicated on the technological components, and that continues to reinforce a change in the performance itself. -- Alexandra Harlig[@harlig-2021-tiktok pp.204-205]
+
+Be precise about the technology. It's not so much the smartphone, but the software. And what is this software an instance of? It's not all technology. Not all software.
+
+Postman died in 2003: a year before Mark Zuckerberg founded Facebook, three years before Dorsey, Glass, Stone and Williams founded Twitter, four years before the release of the first iPhone, and six years before Facebook added its _like_ button.
+
+In the case of Roth (artist), it would be as if the software's role was to capture the slides and touches of the gesture in his work and then upload them to (most likely) massive Amazon Web Services servers. This is a very very different thing. Much more subtle. Much less direct. But not at all subtle, and utterly direct. Because of course I have no doubt that our screen-based gestures are being uploaded.
+
+### Virality
+
+One part of the picture is the quest for virality. 
+
+Quest for virality. See [[Jacobs - After Technopoly#^cde1fd]] and also [[Blitz - Understanding Heidegger on Technology#^05e7db]]. Also Blanco Borelli and moore discuss virality a lot in their article [[Blanco Borelli and moore - TikTok, Friendship, and Sipping Tea, or How to Endure a Pandemic]]. See also [[Jacobs - After Technopoly#^cde1fd]]
 
 Let's say, for argument's sake, that it is the year 2142. 
 
