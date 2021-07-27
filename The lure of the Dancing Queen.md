@@ -4,7 +4,7 @@ aliases: []
 type: "newsletter"
 platform: "skellis.net"
 current-status: "in-progress"
-status-updated: "20210723"
+status-updated: "20210726"
 
 ---
 
@@ -20,8 +20,8 @@ The dancing is mostly movement in the head and neck; rolling the head side to si
 
 By this stage I'm some way past where it is they are dancing. It has been no more than three minutes since I first saw them.
 
-And now imagine it is 1976 and my 8 year old self has to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to _Dancing Queen_ -- and no not like [this Dancing Queen](https://youtu.be/VwRX0mcqSoQ). My sister at the time is 14 years old, and that shoebox-sized hunk of _modern_ at the time recording technology enforces my silence, if only for 3 minutes and 52 seconds. 
+And now imagine it is 1976 and my [8 year old self](https://www.skellis.net/_assets/_1976.jpg) has to be quiet because my sister is recording a TV screening of ABBA through her portable cassette recorder's on-board microphone. Ssshhhh! Later she plays back this lowest of lo-fi recordings and grooves to _Dancing Queen_ -- and no not like [this Dancing Queen](https://youtu.be/VwRX0mcqSoQ). My sister at the time is 14 years old, and that shoebox-sized hunk of _modern_ at the time recording technology enforces my silence, if only for 3 minutes and 52 seconds. 
 
 In both scenarios, more than 40 years apart, technology affords certain ways of being. Indeed, 'technological affordance' -- the kind that [Janet Murray has written about](https://inventingthemedium.com/four-affordances/) based on the term [first coined by James Gibson in 1966](https://en.wikipedia.org/wiki/Affordance) -- is the least surprising thing I could write here really; it's what technology does. I'm reminded though of Melvin Kranzberg, the American historian, who wrote that "[Technology is neither good nor bad; nor is it neutral](https://ssrmc.wm.edu/technology-is-neither-good-nor-bad-nor-is-it-neutral-the-case-of-algorithmic-biasing/)."
 
-These technologies -- one a smartphone used as a video recording device, the other an analogue cassette-recorder -- were designed for non-neutral reasons, and were used for different non-neutral reasons. In other words, how they were being used may or may not have been imagined by the designers. Both technologies shaped (and one is still shaping) human movement and behaviour. What feels different though is in 1976 the hardware was not driven by algorithm-based social networking software that effectively reached out through the recording device to shape my sister's dancing. The music did -- of course the music did -- because that is what music does. After all, who can resist the lure of the Dancing Queen? 
+These technologies -- one a smartphone used as a video recording device, the other an analogue cassette-recorder -- were designed for non-neutral reasons, and were likely used for different non-neutral reasons. In other words, how they were being used may or may not have been imagined by the designers. Both technologies shaped (and one is still shaping) human movement and behaviour. What feels different though is in 1976 the hardware was not driven by algorithm-based social networking software that effectively reached out through the recording device to shape my sister's dancing. The music did -- of course the music did -- because that is what music does. After all, who can resist the lure of the Dancing Queen? 
