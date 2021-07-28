@@ -25,7 +25,7 @@ _In which I describe an actual event that prompted me to consider the choreograp
 
 I am out for a walk during my one hour of permitted outdoor exercise. It is March 2021 and we are nearing the end of the strictest part of the UK's second national lockdown. 
 
-They are two young people, perhaps 15 years old, playing together in a park. The area is not nature as such but it is also definitely not the city. 
+They are two young people, perhaps 15 years old, playing together in a park, or what is called a common. The area is not nature as such but it is also definitely not the city. 
 
 I am walking past them, wary of watching or intruding, but also captivated by their play. They are dancing for each other. Or rather, one of them is dancing for the other who is recording the dancing on a smartphone held in portrait mode. The camera and the dancer are close to each other; it's a close-up. They take turns: they dance, record, watch, point at the screen, and laugh.
 
