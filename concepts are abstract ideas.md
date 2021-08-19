@@ -16,6 +16,7 @@ In common usage concepts are often the same as ideas.
 _thoughts & links:_
 
 - What that paragraph describes is #finger-pointing-moon -- ! I am attempting to conceptualise this approach (practice-research) to understanding phenomena. See my thinking in [[concept as method#^28c6e4]] re using in/visibility as a concept to yield more nuanced understanding through practice-research.
+- also in [[phonocentrism and the really real]] -- and Adams St Pierre's argument against words being abstract in relation to empirical 'presence' 
 - drawn to this definition/wiki entry because of Adams St. Pierre's discussion fo [[concept as method]]
 - wondering about the notion of capturing reality in relation to [[the really real]]. That is, there's some kind of paradox here between capturing reality through concepts (which is what we inevitably do in research), and the contemplative (e.g. authentic movement) as something unable to be represented (and that is the really real)
 

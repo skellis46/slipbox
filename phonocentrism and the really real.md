@@ -10,8 +10,7 @@ tags: []
 
 >But Derrida (1967/1974) explained this half a century ago, and his post analysis, deconstruction, is a critique of Plato’s ontology, its phonocentrism, and its privileging of presence, which grounds the “face-to-face” demands of qualitative methodology’s ontology and empiricism and thus relegates the text to secondary status. Derrida deconstructed the material/textual binary early on when he wrote, “There is nothing outside of the text [there is no outside-text; il n’y a pas de hors-texte]” (p. 158).[@adamsst.pierre-2014-brief p.11]
 
--- useful in the sense that 'presence' is required in fpm. being there does matter. not to privilege presence, but to acknowledge its fundamental role in this particular practice
-
+-- useful in the sense that 'presence' is required in #finger-pointing-moon. being there does matter. not to privilege presence, but to acknowledge its fundamental role in this particular practice
 
 >In this regard, Deleuze and Guattari (1980/1987) explained that the material/linguistic distinction does not work in their ontology, “There is no longer a tripartite division between a field of reality (the world) and a field of representation (the book) and a field of subjectivity (the author)” (p. 23). The hierarchy that enables the privileging of the material in the material/textual dualism is not thinkable in their ontology, and the “just textual analysis” distinction doesn’t make sense. However, I believe it is very difficult for those of us well-trained in the empiricism that grounds conventional humanist qualitative inquiry not to think that material/textual binary, not to privilege language collected “in the field” and “face-to-face” over already written language—in other words, it’s difficult not to privilege presence.[@adamsst.pierre-2014-brief p.12]
 

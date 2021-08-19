@@ -83,7 +83,7 @@ Let me paint that bleakest of bleak pictures. I want to get it out of the way. N
 
 ### Dancing in the swarm
 
-The ... Zygmunt Bauman describes a liquid-modern society that ... In it, groups are replaced by swarms that "assemble, disperse, and come together again from one occasion to another, each time guided by different, invariably shifting relevancies, and attracted by changing and moving targets."[@bauman-2008-does p.15]. Swarms need no leaders, no hierarchies. Each unit of the swarm "reenacts the moves made by the other, while performing the whole job, from beginning to end in all its parts, alone."[@bauman-2008-does p.16] A swarm creates an endless process of copying and making in which any original does not exist or has been forgotten. In a consuming swarm, the job of a swarm is to consume. 
+The ... Zygmunt Bauman describes a liquid-modern society that ... In it, groups are replaced by swarms that "assemble, disperse, and come together again from one occasion to another, each time guided by different, invariably shifting relevancies, and attracted by changing and moving targets."[@bauman-2008-does p.15]. Swarms need no leaders, no hierarchies. Each unit of the swarm "reenacts the moves made by the other, while performing the whole job, from beginning to end in all its parts, alone."[@bauman-2008-does p.16] A swarm creates an endless process of copying and making in which any original does not exist or has been forgotten. In a consuming swarm, the job of a swarm is to consume. See here how [[the bias of technology is to copy]] and attempting to resist this bias is futile.
 
 I find Bauman's vision of swarms troubling. They are troubling because I can imagine those two young people dancing as part of a consuming swarm. They are leaderless, yet following, copying, refracting, renewing, reinventing, replicating; a recursive loop of dancing and being danced. And what they are following profoundly embedded pleasures/freedoms that have been organised, planned and coded. It is pure enframing. They are blissfully unaware of their enframing. Aren't we all? 
 
@@ -110,7 +110,7 @@ When we dance with technologies, we dance with profit-making. And perhaps we are
 
 This technological filter I have already (and perhaps unjustly) put on these two young people dancing creates one problem that will help frame what is to follow. And that is before even a vague discussion about how technology is and can be defined.
 
-I am already dancing around Martin Heidegger; it is a soft-shoe shuffle. Others have danced with him in this publication ...(essentialist view of tech -- see Feenberg who describes lack of clarity as to whether we are discussing attitude towards technology or the design of technologies)
+I am already dancing around Martin Heidegger; it is a soft-shoe shuffle. Others have danced with him in this publication ...(essentialist view of tech -- see Feenberg who describes lack of clarity as to whether we are discussing attitude towards technology or the design of technologies): [[Feenberg - From Essentialism to Constructivism#^ef59e7]]
 
 They were indeed playing, and it likely clear that the technology and particularly the software was also playing them.  infinite game ... but with a brutal and less than benign heartbeat? [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. But I don't want to see it in this way. It's too easy, and requires so little effort from me as writer, and you as reader. This is the finite game we are all playing as digital technologies predicated on the attention economy play us. 
 
@@ -197,7 +197,7 @@ Harari: deindividuation of the individual (from Talking Politics on Arendt?)
 
 start with Hui and then move to Jacobs' reading of him. 
 
-Yuk Hui is a philosopher of technology, and in _Cosmotechnics as Cosmopolitics_[-@hui-2017-cosmotechnics] **introduce the article**. Cosmotechnics is a strange term and seems to hint at historical understandings of _making_ and _craft_. As if reaching back from Postman's technopoly to tool-using cultures. In the article, Hui tells the story of a very good butcher called Pao Ding. Pao Ding claims that having an excellent knife is not enough:
+Yuk Hui is a philosopher of technology, and in _Cosmotechnics as Cosmopolitics_[-@hui-2017-cosmotechnics] **introduce the article**. Cosmotechnics is a strange term and seems to hint at historical understandings of _making_ and _craft_. (**worth looking at Ladkin's Against Value here?**) As if reaching back from Postman's technopoly to tool-using cultures. In the article, Hui tells the story of a very good butcher called Pao Ding. Pao Ding claims that having an excellent knife is not enough:
 
 >it is more important to understand the Dao in the cow, so that one does not use the blade to cut through the bones and tendons, but rather to pass alongside them in order to enter into the gaps between them.[@hui-2017-cosmotechnics n.pag.]
 
@@ -217,8 +217,9 @@ Technology here is akin to what Neil Postman famously called the technopoly.
 
 Possible to go to mythical core from [[Jacobs - After Technopoly]] -- do this via that long time/term version of what happened. A long time later. ?? (based on Jacobs)
 
-
 >... technopoly arises from the technological core of society but produces people who are driven and formed by the mythical core.[@jacobs-2019-technopoly p.4] 
+
+- _how_ does it produce these people formed by the mythical core?
 
 > By contrast, the mythical core of culture is that aspect of experience that is not subject to manipulation, because it is prior to our instrumental reasoning about our environment. Throughout human civilization, says Kołakowski, people have participated in myth -- they may call it "illumination" or "awakening" or something else -- as a way of connecting with "nonempirical unconditioned reality." It is something we enter into with our full being, and all attempts to describe the experience in terms of desire, will, understanding, or literal meaning are ways of trying to force the mythological core into the technological core by analyzing and rationalizing myth and pressing it into a logical order.[@jacobs-2019-technopoly p.3]
 
@@ -242,21 +243,20 @@ Function is data extraction. Simple. But something awe-inspiring as well. Humans
 
 _In which I zoom out into the future and call on Alan Jacobs' understanding of the value of myth in the technopoly._
 
-
-
 [[Jacobs - from tech critique to ways of living]] -- this is amazing. ;-)
 
 The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From "fast and attention-getting to slow and powerful"[@brand-2008-clock p.36] the six levels are: fashion/art, commerce, infrastructure, governance, culture and nature. Brand writes how the role of fashion and art is essentially to be "quick, irrelevant, engaging, self-preoccupied, and cruel"[@brand-2008-clock p.36] whereas the "vast slow-motion dance"[@brand-2008-clock p.38] of culture operates through centuries and millennia. Brand suggests that together these distinct and contradictory pace layers provide internal negative feedback that stabilizes and affords the health of civilization. 
 
 So now I'm going to attempt to zoom out in time to the pace of _culture_ in Brand's levels. It is a level or place where time as chronos operates akin to Danny Hillis' _10,000-year clock_ or _The Clock of the Long Now_.[@hillis-1995-millennium] [^ack1] 
 
-Here goes.
+Here goes. "On a long enough timeline, everything becomes obsolete."[@millburn-2021-love n.pag.] 
+[[Millburn - Love People Use Things#^315a65]]
 
 Those two young people have grown up, lived their lives and are gone. They are probably survived by family, but maybe not. I'm long long gone. Perhaps the park is still there? It is common land so hopefully it has not been developed; but I am doubtful. There are parts of the teenagers' phones from 2021 that are obviously still on the planet in some form: lithium, copper, gold, lead, zinc, etc; elemental fragments of devices that once afforded some dancing of pleasure back in 2021 during the pandemic. For the most part these elements are in landfill. Those software companies that wielded algorithms to reach through the phone to choreograph/enframe that dancing are long gone too; I can no longer remember their names. They were once so certain and stable; omnipresent. Their algorithms disappeared with them, and have been replaced by old mathematics rethought and recompiled.
 
-I feel none of the vertigo that American media theorist Douglas Rushkoff suggested I might feel if I were to zoom so far out.[-@rushkoff-2013-present] I notice the stillness and slowness, and the absence of sniping judging chatter. In that stillness I remember seeing a screendance by Annie Pfingst and Helen Poynor called _in Memoriam_ that was first screened in 2016.[-@poynor-2016-memoriam] I saw it at the Light Moves Festival of Screendance in 2018; such a long time ago. This is a film that -- according to Brand's thinking -- is the scale of art operating at the pace of nature. In it a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key memory is of the tapestry of the terrain, and of the passing of time. But this is no ordinary time that is passing, even under the machinations and co-ordinates of the long now. 
+I feel none of the vertigo that American media theorist Douglas Rushkoff suggested I might feel if I were to zoom so far out.[-@rushkoff-2013-present] I notice the stillness and slowness, and the absence of sniping judging chatter. In that stillness I remember seeing a screendance by Annie Pfingst and Helen Poynor called _in Memoriam_ that was first screened in 2016.[-@poynor-2016-memoriam] I saw it at the Light Moves Festival of Screendance in 2018; such a long time ago. This is a film that -- according to Brand's thinking -- is the scale of art operating at the pace of nature. In it a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key memory is of the tapestry of the terrain, and of the passing of time. But that was no ordinary time that is passing, even under the machinations and co-ordinates of the long now. 
 
-_in Memoriam_ is a film that treasures myth and seems to resist and transcend technopoly. It is a film in a _hidden place_ seemingly unable to be rooted out, even as the dancer Helen Poynor is enmeshed in the roots of trees and of nature. It exists through its edit and feel in an _other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
+_in Memoriam_ is—or is it _was_?—a film that treasures myth and seems to resist and transcend technopoly. It is a film in a _hidden place_ seemingly unable to be rooted out, even as the dancer Helen Poynor is enmeshed in the roots of trees and of nature. It exists through its edit and feel in an _other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
 
 Here, as I write, long into the future, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection, a place by which we recognise the slowness of culture, and the creep of nature. A place where others like us sought shelter, protection and safety.
 

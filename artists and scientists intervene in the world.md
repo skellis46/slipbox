@@ -22,7 +22,7 @@ comparison of scientific creation of phenomena (through experiments) with artist
 - this is the 'practical turn' in philosophy of science
 
 
->scientific knowledge is the product of stable patterns of scientific practice that emerge from com- plex networks of skills, competences, instruments, and intellectual and ma- terial resources, in which “the manipulative hand and the attentive eye,”6 to use Ian Hacking’s words, play a role.[p.78]
+>scientific knowledge is the product of stable patterns of scientific practice that emerge from complex networks of skills, competences, instruments, and intellectual and material resources, in which “the manipulative hand and the attentive eye,”6 to use Ian Hacking’s words, play a role.[p.78]
 
 
 

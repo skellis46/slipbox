@@ -6,7 +6,7 @@ _previous note:_ [[noë - strange tools]]
 
 In _Strange Tools_ Alva Noë writes that "A work of art is a strange tool; it is an implement or instrument that has been denuded of its function."[@noe_strange_2015 Chapter 8, n.p.] He states that art can _also_ be functional (his example is Duchamp's urinal that is both a toilet and an art work), but not solely. The fact that an art work can be both functional and disfunctional -- or "that art is one thing and technology is another" -- is important precisely because those differences are not inherent in the makeup of those things. Noë suggests that "what matters is how we use them."
 
-He then compares art to design. Whereas design's role is to fall into the background -- to wear "the guise of nature" -- art pulls itself into the foreground: "Art starts when things get strange."
+He then compares art to design. Whereas design's role is to fall into the background -- to wear "the guise of nature" -- art pulls itself into the foreground: "Art starts when things get strange." ^ad29b3
 
 >Design organizes and enables; art subverts. It does this by abrogating the background that needs to be in place for things to have their functions. You never ask, when confronted with a doorknob, What is this? For the question even to come up is for the doorknob’s utility already to have been undermined. If you even notice the knob, it’s potentially bad design.[@noe_strange_2015 Chapter 8, n.p.]
 

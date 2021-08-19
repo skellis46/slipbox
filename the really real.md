@@ -1,16 +1,12 @@
 # the really real
 
-_previous note:_ [[contemplation beyond rationalization]]
-
----
-
 Kerr asks this question of contemplation:
 
 >With the contemporary emergence of this exponentially expansive technology inserted daily within our common life, how can we touch, as it were, the really real?[@kerr_borgmann_2016 p.65]
 
 In this sense, contemplation is a type of "unmediated encounter"[@kerr_borgmann_2016 p.65], and the _really real_ is positioned by Merton (as quoted by Kerr) in opposition to pseudo-reality.  
 
-At about the same time, I came across the same term in George Mumford's book _The Mindful Athlete_ (I love such coincidences). Mumford discusses his rehabilitation from serious addictions and as part of the Twelve Step program the first step is to have believe or have faith in a power greater than himself. Mumford wonders if this might be "God", but then cites the write Anne Lamott who also was struggling with words like God and prayer: 
+At about the same time, I came across the same term in George Mumford's book _The Mindful Athlete_ (I love such coincidences: [[Baader-Meinhof phenomenon]]). Mumford discusses his rehabilitation from serious addictions and as part of the Twelve Step program the first step is to have believe or have faith in a power greater than himself. Mumford wonders if this might be "God", but then cites the write Anne Lamott who also was struggling with words like God and prayer: 
 
 >Lamott suggests that if “God” is too “triggering” for some people, perhaps God could be called “the force that is beyond our comprehension but that in our pain or supplication or relief we don’t need to define or have proof of or any established contact with.” She also suggests the term the Greeks used: “the Really Real.”[@mumford_mindful_2015 Chapter 6 n.p.]
 
@@ -22,6 +18,7 @@ _thoughts & links:_
 - proposed link to authentic movement, somatic practices and #finger-pointing-moon 
 - [[direct experience through the senses]]
 - [[without symbolic mediation]]
+- [[contemplation beyond rationalization]]
 
 
 ---
