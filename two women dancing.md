@@ -279,6 +279,8 @@ Looking into the "possibility of different technological futures" [[Hui - Cosmot
 
 See also [[Gelassenheit]] -- Gelassenheit is translated as _releasement_ or _letting go_; "to let things be in whatever may be their uncertainty and their mystery".
 
+- think through [[moral and ethical implications of our tools]] as overview of my thinking in this writing -- as a way of narrowing its focus
+
 ## Unsure but not yet for edit bin
 
 Low friction technology (convenience, see [[how informs what and this produces culture#^aa0fb6]]) and our behavior, ways of thinking and epistemic understanding change. This is Postman really. This is the printing press. Bench is talking about documentation (is this accurate?). I'm talking about making. Yes, how things are made is changing. That's a given. But what things are made. It goes all the way back to the kinds of dancing. Our focus has been on how technologies influence production, post-production, and presentation. Opportunity here to mention key influences of screendance writing about editing, production (many from IJSD?, Pearlman) But the mode of presentation (this is where we dance now) is inevitably reaching backwards through the film-making 'workflow' into the dancing itself. These are dances enframed by software (more than hardware) and algorithms. But they are also dances of togetherness, pleasure. The hearth? 

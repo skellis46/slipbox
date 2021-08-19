@@ -12,6 +12,8 @@ tags: [two_women_dancing]
 > The application of this knife, the division of the world into parts and the building of this structure, is something everybody does. All the time we are aware of millions of things around us -- these changing shapes, these burning hills, the sound of the engine, the feel of the throttle, each rock and weed and fence post and piece of debris beside the road -- aware of these things but not really conscious of them unless there is something unusual or unless they reflect something we are predisposed to see. We could not possibly be conscious of these things and remember all of them because our mind would be so full of useless details we would be unable to think. From all this awareness we must select, and what we select and call consciousness is never the same as the awareness because the process of selection mutates it. We take a handful of sand from the endless landscape of awareness around us and call that handful of sand the world.
 > Once we have the handful of sand, the world of which we are conscious, a process of discrimination goes to work on it. This is the knife. We divide the sand into parts. This and that. Here and there. Black and white. Now and then. The discrimination is the division of the conscious universe into parts.[@pirsig-2008-zen p.82]
 
+^d557bd
+
 - Pirsig: sharpen knife to make cleaner (analytical) cuts. Compare with Hui?
 - creating division. 
 

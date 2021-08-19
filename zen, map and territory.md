@@ -1,9 +1,7 @@
 
 ---
-
 aliases: []
 tags: [practice-research, finger-pointing-moon]
-
 ---
 
 # zen, map and territory
