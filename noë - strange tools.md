@@ -1,8 +1,5 @@
 # noë - strange tools
 
-_previous note:_ 
-
----
 
 _Strange Tools_ is a book by the philosopher Alva Noë about the importance of art in our lives. Noë writes that the basic argument of the book is as follows:
 

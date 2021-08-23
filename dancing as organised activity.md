@@ -14,6 +14,8 @@ The organisational paradox in dance is that we choose to dance. It is a purposef
 
 >The dancing just happens. One dancer may “lead,” but this is just a special way of letting oneself be caught up in the dance. A good dancer is in the flow. When two people dance, their movements and actions and thoughts and perceptions are entrained by the larger organization, the dancing itself.[@noe_strange_2015 Chapter 2 Reorganizing Ourselves, n.p.]
 
+^c3862d
+
 _questions & thoughts:_
 
 - this continues my deepening curiosity about social dancing (even if by one's self)

@@ -42,6 +42,8 @@ Jacobs' thinking here is based on Zygmunt Bauman's _Does Ethics Have a Chance in
 
 > First, if there is a place in the world for those who treasure a myth that claims to transcend technopoly, it will be, at best, a hidden place. If transnational technopoly can hunt you down and root you out, it will; and it probably can. Stephen Dedalus in James Joyce’s _A Portrait of the Artist as a Young Man_, dissenting from his Irish Catholic culture, said that his weapons would be "silence, exile, and cunning." To those whose dissent from technopoly is rooted deeply in a mythological core, these are words to survive by.[@jacobs-2019-technopoly p.13]
 
+^518461
+
 > Second, open resistance to the regime, arising from no transcendent myth but merely deep outrage, may be able to delay some of technopoly’s victories but can prevent none.[p.14] 
 
 > Third, the "antimythological myth" of technopoly, to borrow a term from W. H. Auden’s "In Praise of Limestone," exhausts both its adherents and itself, leaving behind an irresistible ennui. Technopoly eventually collapses under the weight of its own successes, which suggests that sooner or later, when pressed for self-justification, the rationalism of the technological core needs a mythical propulsion. Perhaps in the long run there is no purely technological core after all, but rather a technological "shell"; perhaps the choice is between a mythical core that knows itself as such and one that doesn’t. If so, then technopoly’s production of people who live within the mythical core may ultimately be self-defeating—if the people so formed end up choosing a better myth than the one technopoly proffers.[p.14] 
