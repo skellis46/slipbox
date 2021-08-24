@@ -137,7 +137,9 @@ updated: "20210819"
 > Overcoming the tyranny of merit does not mean that merit should play no role in the allocation of jobs and social roles. Instead, it means rethinking the way we conceive success, questioning the meritocratic conceit that those on top have made it on their own. And it means challenging inequalities of wealth and esteem that are defended in the name of merit but that foster resentment, poison our politics, and drive us apart. Such rethinking should focus on the two domains of life most central to the meritocratic conception of success: education and work.
 
 
+> [John W.] Gardner gamely argued that "achievement should not be confused with human worth" and that individuals were worthy of respect regardless of their achievements. But he seemed to understand that the meritocratic society he was helping bring about left little room for the distinction between educational achievement and social esteem. 54
 
+- this is Sandel discussing Gardner's 1961 book _Excellence_
 
  
 ---

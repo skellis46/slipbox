@@ -3,13 +3,14 @@ aliases: []
 type: "article"
 platform: "ijsd"
 current-status: "in-progress"
-status-updated: "20210629"
+status-updated: "20210824"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
-# Lithium dancing in plain sight | Dancing reserve | Ambivalence and wonder in three minutes of dancing | The case of two people dancing | Hidden in plain sight
+# Lithium dance: screendance hidden in plain sight
+(in plain sight | Dancing reserve | Ambivalence and wonder in three minutes of dancing | The case of two people dancing | Hidden in plain sight)
 
-[[dancing as organised activity#^c3862d]]
+> When two people dance, their movements and actions and thoughts and perceptions are entrained by the larger organization, the dancing itself.[@noe_strange_2015 Chapter 2 Reorganizing Ourselves, n.p.]
 
 ## Abstract
 
@@ -21,9 +22,9 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 > Here indeed, the whole mechanism of the operation is invisible to the viewer: the deepest darkness reigns: suddenly, a ghost appears, far, far away at first, appearing as a point of light to the audience. But it soon grows, becomes bigger and bigger and seems to approach slowly at first, to then rush towards the spectators: the illusion is total.[Victor de Moléon (1836), in @chateau-2016-screensa pp.49-50]
  
-## Prelude: Dance, record, watch, point, and laugh (two young people and their camera)
+## Prelude: Two young people and their camera
 
-_In which I describe an actual event that prompted me to consider the choreography of screendance in this writing._
+_In which I describe an actual event that prompted this thinking-writing._
 
 I am out for a walk during my one hour of permitted outdoor exercise. It is March 2021 and we are nearing the end of the strictest part of the UK's second national lockdown. 
 
@@ -31,23 +32,31 @@ They are two young people, perhaps 15 years old, playing together in a park, or 
 
 I am walking past them, wary of watching or intruding, but also captivated by their play. They are dancing for each other. Or rather, one of them is dancing for the other who is recording the dancing on a smartphone held in portrait mode. The camera and the dancer are close to each other; it's a close-up. They take turns: they dance, record, watch, point at the screen, and laugh.
 
-The dancing is mostly movement in the head and neck; rolling the head side to side around the frontal axis. They more or less do the same short sequence every time, as if they are trying to perfect the performance of the moves, or perfect the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game seems to be on repeat. The movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
+The dancing is mostly movement in the head and neck; rolling the head side to side around the frontal axis. They more or less do the same short sequence every time, as if they are trying to perfect the performance of the moves, or the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game seems to be on repeat. The movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
 
-By this stage I'm some way past where it is they are dancing. It has been no more than three minutes since I first saw them. Keep in mind that even though they were dancing in plain sight, it is not possible to know why they were recording their dancing. This writing is thereby an extrapolation of what I saw. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment. Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing. Perhaps. 
+By this stage I'm some way past where it is they are dancing. It has been no more than three minutes since I first saw them. 
 
 ## Algorithmic choreography
 
 _In which I introduce the central conceit (or assumption) of this article, the structure, and how any discussion of technology is a discussion about economics._
 
-In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such"[Rosenberg, [art.wisc.edu/2017/10/23/hiding-plain-site-screendance-histories-expanded-imagination-lecture-uw-madison-art-faculty-douglas-rosenberg](https://art.wisc.edu/2017/10/23/hiding-plain-site-screendance-histories-expanded-imagination-lecture-uw-madison-art-faculty-douglas-rosenberg), from @mcpherson-2020-walking pp.55]. The following volume of IJSD, Volume 12 -- _This is where we dance now: COVID-19 and the new and next in dance onscreen_ -- was a type of celebration of screendance's undeniable visibility as people danced and watched dancing through screens during the COVID-19 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before COVID-19 acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283]
+In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such"[Rosenberg, [art.wisc.edu/2017/10/23/hiding-plain-site-screendance-histories-expanded-imagination-lecture-uw-madison-art-faculty-douglas-rosenberg](https://art.wisc.edu/2017/10/23/hiding-plain-site-screendance-histories-expanded-imagination-lecture-uw-madison-art-faculty-douglas-rosenberg), from @mcpherson-2020-walking pp.55]. The following volume of IJSD, Volume 12 -- _This is where we dance now: COVID-19 and the new and next in dance onscreen_ -- acknowledged and even celebrated screendance's undeniable visibility as people danced and watched dancing through screens during the COVID-19 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before COVID-19 acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283]
 
-There's another kind of hiding ...
+This tension between the practices of screendance being hidden, revealed, circulated, and invasive is telling in how those of us interested in screendance -- as artists and/or scholars -- narrate or construct its history. How can something _not_ be hiding in plain sight if there wasn't yet a name for it, or the artistic-scholarly desire to do that naming? 
 
+This article is not about that kind of hiding that speaks to screendance's uncertainty about itself and desire for recognition. Instead it is about how I've tried to understand what I couldn't see when I saw those two young people making dances for the smartphones. 
 
+I would like to make sense of what I saw that day. In this writing I try to make sense of what I saw that day through _awe_ (note link to Kaufman's Transcend here). I want to recognise and describe the patterns of their trio (two people and a smartphone), and how these patterns might matter to people who make films, and particularly those of us that make films in and around dance and movement. Before I do this I need to paint a bleak picture.
+
+This article is about screendance and ... (then say who I think it's for).
+
+Keep in mind that even though they were dancing in plain sight, it is not possible to know why they were recording their dancing. This writing is thereby an extrapolation of what I saw. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment. Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing. Perhaps. 
+
+Can I discuss paradox of the situation in terms of device paradigm and focal things? But what does this all matter for screendance? These are questions of culture: of privacy and freedom. We must make visible. To unhide. To recognise the games that are being played (on us).
 
 I am confident that what I saw that day was not the end of their story; that what they did next was to post the _best version_ of their screendance performances _on social_. I am agnostic towards social media platforms, so for the sake of this writing let's assume they were using TikTok because there's a lot of dancing on TikTok.[See for example @blancoborelli-2021-tiktok; @harlig-2021-tiktok] 
 
-By making this assumption I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. I trust though that my assumption does not prevent these ideas from having some value to how we might understand social and artistic contexts in screendance. After all, people dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. In many respects, Volume 12 of IJSD  -- is testimony that these cultural levers and patterns are deeply embedded screendance practices. [@blancoborelli-2021-tiktok] also [@benthaus-2021-this]
+By making this assumption I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. I trust though that my assumption does not prevent these ideas from having some value to how we might understand social and artistic contexts in screendance. After all, people dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. In many respects, Volume 12 of IJSD  -- is testimony that these cultural levers and patterns are deeply embedded in creendance practices. [@blancoborelli-2021-tiktok] also [@benthaus-2021-this]
 
 Can we agree that their dance was being shaped algorithmically? Then what? Where does that leave those of us thinking about the body and movement for screen? Does it do anything to us? Does it help? Get in the way?  
 
@@ -55,26 +64,22 @@ Can we agree that their dance was being shaped algorithmically? Then what? Where
 
 - thinking about Harmony's book (Chapter 2 in particular) and 'digital commons' -- and the division between what I saw and what I'm assuming or imagining.  Seems like my focus is on my imagination. It's confabulation but confabulation that's not unwarranted (ie likely to end up in 'digital commons' for sure right?)
 
+[[Bench - Perpetual Motion#^3fb97b]]
+
 It's much more like an ice-berg. That something is being done to these two people beneath the surface of their awareness. The screen is above the water -- we can see its beauty, the way it reflects the sun. But below the surface, the algorithms are extending up into how they move and for how long. 
 
-These are new ways of moving not so much in what the actions are. They are familiar movements of the head, I can sense them or remember them in my body. But they are instances of something much darker. Who is doing the choreography here? And for what purposes? These are ways of moving shaped by the great unseen of our time. This is a machine that doesn't see them, it doesn't need to. It is not a machine of the state, a panopticon, but rather a commercial machine. (see Harari and deindividuation of the individual). They are being directed by a machine that has no need for eyes. But it's not so simple is it? These machines were programmed. The algorithms -- "an opinion formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_. Perhaps more than one person. A group of choreographers-as-developers, unseen. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the developers' work in Swift or Objective C.  
+These are new ways of moving not so much in what the actions are. They are familiar movements of the head, I can sense them or remember them in my body; I've seen similar kinds of movement or dancing in films. But they are instances of something much darker. Who is doing the choreography here? And for what purposes? These are ways of moving shaped by the great unseen of our time. This is a machine that doesn't see them, it doesn't need to. It is not a machine of the state, a panopticon, but rather a commercial machine. (see Harari and deindividuation of the individual). They are being directed by a machine that has no need for eyes. But it's not so simple is it? These machines were programmed. The algorithms -- "an opinion formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_. Perhaps more than one person. A group of choreographers-as-developers, unseen; hidden. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the developers' work in Swift or Objective C.  
 
-If these two people -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and shot with the camera they were using. I suspect though that they did not set out to make a screendance the way readers might understand _an intention to make a screendance_. Rather, the screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. 
+If these two people -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and shot with the camera/smartphone they were using. I suspect though that they did not set out to make a screendance the way readers might understand _an intention to make a screendance_. Rather, the screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. 
 
-XXXX - algorithmic performance (from Blanco Borelli)
+- algorithmic performance (from Blanco Borelli)
 
-> In similar fashion, we also see TikTok enacting what Sianne Ngai would call a “capitalist gimmick.”3 This gimmick “is both a wonder and a trick. It is a form we marvel at and distrust, admire and disdain, whose affective intensity for us increases precisely because of this ambivalence.”4 These critical frames could not be more relevant in 2020 and beyond.[@blancoborelli-2021-tiktok p.298]
+> In similar fashion, we also see TikTok enacting what Sianne Ngai would call a “capitalist gimmick.”3 This gimmick “is both a wonder and a trick. It is a form we marvel at and distrust, admire and disdain, whose affective intensity for us increases precisely because of this ambivalence.”4 These critical frames could not be more relevant in 2020 and beyond.[@blancoborelli-2021-tiktok p.298] (see p.472 and 478 of Ngai)
 
-Intensity increases because of the ambivalence? Really? How do they know this? Like it's doing something transgressive? I imagine if capitalism had a face it would smile deeply at these claims for increased affective intensity. I have you right where I want you. 
+Intensity increases because of the ambivalence? Really? How do they know this? Like it's doing something transgressive? I imagine if capitalism had a face it would smile deeply at these claims for increased affective intensity: "I have you right where I want you and your affective intensity". We are suckers.
 This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. (blanco borelli and xx mention this ambivalence) I didn't need to see the mediated, algorithm-ed, commodification of their dancing (even though I could see it to a certain extent in the movement -- they were mimicking). I could imagine their filmic ghosts on that small screen; the framing, the dancing. 
 
-I would like to make sense of what I saw that day. In this writing I try to make sense of what I saw that day through _awe_ (note link to Kaufman's Transcend here). I want to recognise and describe the patterns of their trio (two people and a smartphone), and how these patterns might matter to people who make films, and particularly those of us that make films in and around dance and movement. Before I do this I need to paint a bleak picture.
 
-This article is about screendance and ... (then say who I think it's for).
-
-
-
-Can I discuss paradox of the situation in terms of device paradigm and focal things? But what does this all matter for screendance? These are questions of culture: of privacy and freedom. We must make visible. To unhide. To recognise the games that are being played (on us).
 
 ## Up close and short term: The bleakest of pictures
 
@@ -108,7 +113,7 @@ Let us also agree that to talk about technology in any guise is to talk about ec
 
 > The fact that what is called the technological development of modern times has been so largely oriented economically to profit-making is one of the fundamental facts of the history of technology.[@weber-1978-economy Part 1, p.67]
 
-The social psychologist Shoshana Zuboff has a strongly Postman-like attitude towards technology. In _The Age of Surveillance Capitalism_ (2019) Zuboff describes surveillance capitalism as the "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff-2019-age Chapter 1] The purpose of these hidden extractive operations is to predict our future behaviours and to sell those predictions to advertisers. Data and advertising rule the world.[@noauthor-2017-world]
+The social psychologist Shoshana Zuboff has a Neil Postman-like attitude towards technology. In _The Age of Surveillance Capitalism_ (2019) Zuboff describes surveillance capitalism as the "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff-2019-age Chapter 1] The purpose of these hidden extractive operations is to predict our future behaviours and to sell those predictions to advertisers. Data and advertising rule the world.[@noauthor-2017-world]
 
 theme of hidden. See also Jacobs and hidden: [[Jacobs - After Technopoly#^518461]]. Note also mention of screendance being hidden in plain sight [[Benthaus - This is where we have danced for quite a while#^6caf5d]]
 
@@ -201,6 +206,8 @@ Harari: deindividuation of the individual (from Talking Politics on Arendt?) int
 - Note here about work this writing draws on. Jacobs, Hui.
 - part of the awe is the sense of their dancing being _with_ others. That they are networked -- no, this isn't the right word. They are together. Close. Sharing. Seeing and being seen.
 
+> While the concepts of awe and wonder have a long history in philosophy and religion, James and Maslow helped bring them to psychology. Today, much of the contemporary investigation of awe stems from a 2003 paper, “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion,” written by Dacher Keltner and Jonathan Haidt.47 The authors argued that there are two main cognitive appraisals that are central to awe experiences: the perception of vastness and the struggle to mentally process the experience. Vastness need not be perceptual, such as seeing the Grand Canyon, but can also be conceptual, such as contemplating eternity. Awe is an unusual and complex emotion because it mixes emotions that don’t tend to go with each other, such as ecstasy and fear.[@kaufman-2020-transcend Chapter 7 Peak Experiences n.pag.]
+
 ### The Dao of butchering a cow
 
 start with Hui and then move to Jacobs' reading of him. 
@@ -251,39 +258,51 @@ Function is data extraction. Simple. But something awe-inspiring as well. Humans
 
 _In which I zoom out into the future and call on Alan Jacobs' understanding of the value of myth in the technopoly._
 
+- perhaps I am talking about two types of hiding. One is device paradigm/algorithmic. The other is how to respond (based on Jacobs' thinking)??
+
 [[Jacobs - from tech critique to ways of living]] -- this is amazing. ;-)
 
 The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From "fast and attention-getting to slow and powerful"[@brand-2008-clock p.36] the six levels are: fashion/art, commerce, infrastructure, governance, culture and nature. Brand writes how the role of fashion and art is essentially to be "quick, irrelevant, engaging, self-preoccupied, and cruel"[@brand-2008-clock p.36] whereas the "vast slow-motion dance"[@brand-2008-clock p.38] of culture operates through centuries and millennia. Brand suggests that together these distinct and contradictory pace layers provide internal negative feedback that stabilizes and affords the health of civilization. 
 
-So now I'm going to attempt to zoom out in time to the pace of _culture_ in Brand's levels. It is a level or place where time as chronos operates akin to Danny Hillis' _10,000-year clock_ or _The Clock of the Long Now_.[@hillis-1995-millennium] [^ack1] 
+So now I'm going to attempt to zoom out in time to the pace of _culture_ according Brand's levels. It is a level or place where time as chronos operates akin to Danny Hillis' _10,000-year clock_ or _The Clock of the Long Now_.[@hillis-1995-millennium] [^ack1] 
+
+[^ack1]: I first read of Hillis' work in Brian Eno's _A Year with Swollen Appendices_ (1995), but was reminded of his work (and Stewart Brand's) while reading Douglas Rushkoff's book _Present Shock_ (2013). This is to acknowledge their influence on this section of the article.
 
 Here goes. "On a long enough timeline, everything becomes obsolete."[@millburn-2021-love n.pag.] 
 [[Millburn - Love People Use Things#^315a65]]
 
 Those two young people have grown up, lived their lives and are gone. They are probably survived by family, but maybe not. I'm long long gone. Perhaps the park is still there? It is common land so hopefully it has not been developed; but I am doubtful. There are parts of the teenagers' phones from 2021 that are obviously still on the planet in some form: lithium, copper, gold, lead, zinc, etc; elemental fragments of devices that once afforded some dancing of pleasure back in 2021 during the pandemic. For the most part these elements are in landfill. Those software companies that wielded algorithms to reach through the phone to choreograph/enframe that dancing are long gone too; I can no longer remember their names. They were once so certain and stable; omnipresent. Their algorithms disappeared with them, and have been replaced by old mathematics rethought and recompiled.
 
-I feel none of the vertigo that American media theorist Douglas Rushkoff suggested I might feel if I were to zoom so far out.[-@rushkoff-2013-present] I notice the stillness and slowness, and the absence of sniping judging chatter. In that stillness I remember seeing a screendance by Annie Pfingst and Helen Poynor called _in Memoriam_ that was first screened in 2016.[-@poynor-2016-memoriam] I saw it at the Light Moves Festival of Screendance in 2018; such a long time ago. This is a film that -- according to Brand's thinking -- is the scale of art operating at the pace of nature. In it a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key memory is of the tapestry of the terrain, and of the passing of time. But that was no ordinary time that is passing, even under the machinations and co-ordinates of the long now. 
+I feel none of the vertigo that American media theorist Douglas Rushkoff suggested I might feel if I were to zoom so far out.[-@rushkoff-2013-present] I notice the stillness and slowness, and the absence of sniping judging chatter. In that stillness I remember seeing a screendance by Annie Pfingst and Helen Poynor called _in Memoriam_ that was first screened in 2016.[-@poynor-2016-memoriam] I saw it at the Light Moves Festival of Screendance in 2018; such a long time ago. This is a film that -- according to Brand's thinking -- is the scale of art operating at the pace of nature. It is kryptonite to that old platform called TikTok that people once used. In the film a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key memory is of the tapestry of the terrain, and of the passing of time. But that was no ordinary time that was passing, even under the machinations and co-ordinates of the long now. 
 
-_in Memoriam_ is—or is it _was_?—a film that treasures myth and seems to resist and transcend technopoly. It is a film in a _hidden place_ seemingly unable to be rooted out, even as the dancer Helen Poynor is enmeshed in the roots of trees and of nature. It exists through its edit and feel in an _other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
-
-Here, as I write, long into the future, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection, a place by which we recognise the slowness of culture, and the creep of nature. A place where others like us sought shelter, protection and safety.
-
-- meaningful lives. This is the kind of screendance that recognises and understands modes of production and presentation, and pursures new modes. It's grounded in making and process. The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
-
-Sailboat - exploration and safety. From Kaufman. For two women. Exploration. Safety/security? 
+_in Memoriam_ is—or is it _was_?—a film that treasures myth and seems to resist and transcend technopoly. It is a film in a _hidden place_ seemingly unable to be rooted out, even as the dancer Helen Poynor is enmeshed in the roots of trees and of nature. It exists through its edit and feel in an 
+_other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
 
 Hidden, seemingly unable to be rooted out. The way it resists time as well (see below notes about long time). That film speaks to those qualities. 
+
+Here, as I write, long into the future, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection, a place by which we recognise the slowness of culture, and the creep of nature. A place where others like us sought shelter, protection and safety. It is, after all, worth remembering that the feeling of safety makes it possible for us to "dare to choose the unknown."[@maslow-2011-psychology p.67]   
+
+This is the kind of screendance that recognises and understands modes of production and presentation, and pursures new modes. It's grounded in making and process. The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
+
+
 
 
 - not saying people should all make films like this one. I don't mean for this to be a question or matter of taste. 
 - no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below). Touches on his writing in [[Jacobs - After Technopoly]] as well -- in the final statements about myth (and discussion of the Mars trilogy book) 
-- can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life]]
+- can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life#^ca4c17]]
 
 Looking into the "possibility of different technological futures" [[Hui - Cosmotechnics as Cosmopolitics#^06b080]] -- this is really beautiful. That we are aware. Implications for screendance? 
 
+"The Anthropocene is the planetarization of standing reserves"[@hui-2017-cosmotechnics n.pag.]
+"To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option."[@hui-2017-cosmotechnics n.pag.]
+
+Then, centuries later, screendance emerged out of the rubble of the humankinds soft-shoe-shuffle with the technological singularity. The singularity -- which did not end up happening -- described  the point at which "ever-more-rapid technological change leads to unpredictable consequences"[@chalmers-2010-singularity n.pag.] The technological singuarlity is the thing that even back in 2017 Hui was calling a pipedream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
+
+Yuk Hui is a Korean-born Germany-based philosopher. His work is to be with philosphy. Mine is not. For this reason, I need or rely on his thinking and writing for he is able to think and write philosophically far better than me. What he says here ... _in Memoriam_ does this work. It is not caught in a bubble of screendance; it resists culture. It is heterogenuous. Screendance is a small enough field -- and collection of practices -- to interrograte and indeed resist modes of production and presentation. The field has talked about this for years (examples) but if not now then when? To come out of hiding. To lead. 
+
 > If the essence of technē is poiesis, or bringing forth (Hervorbringen), then modern technology, a product of European modernity, no longer possesses the same essence as technē but is rather an "enframing" (Gestell) apparatus, in the sense that all beings become standing reserves (Bestand) for it.[@hui-2017-cosmotechnics n.pag]
 
-[^ack1]: I first read of Hillis' work in Brian Eno's _A Year with Swollen Appendices_ (1995), but was reminded of his work (and Stewart Brand's) while reading Douglas Rushkoff's book _Present Shock_ (2013). This is to acknowledge their influence on this section of the article.
+
 
 See also [[Gelassenheit]] -- Gelassenheit is translated as _releasement_ or _letting go_; "to let things be in whatever may be their uncertainty and their mystery".
 

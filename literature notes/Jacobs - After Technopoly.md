@@ -28,9 +28,9 @@ Jacobs' thinking here is based on Zygmunt Bauman's _Does Ethics Have a Chance in
 
 
 > Oakeshott foresaw the coming of a world -- to him a sadly depleted world -- in which everyone, or almost everyone, would be a rationalist.[p.8]
-> But that isn’t what happened. What happened was the elevation of a technocratic elite into a genuine technopoly, in which transnational powers in command of digital technologies sustain their nearly complete control by using the instruments of rationalism to ensure that the great majority of people acquire their moral life by habituation.[p.8] 
+> But that isn’t what happened. What happened was the elevation of a technocratic elite into a genuine technopoly, in which transnational powers in command of digital technologies sustain their nearly complete control by using the instruments of rationalism to ensure that the great majority of people acquire their moral life by habituation.[p.8] ^ec599c
 
-^ec599c
+- note here about technocratic elite and this article -- <https://www.theatlantic.com/magazine/archive/2021/09/blame-the-bobos-creative-class/619492/> -- that Jim Cotter sent me.
 
 > The lessons that I think we may draw from this sketch of three major perspectives in Robinson’s Mars novels are as follows: In an ever more highly developed technological future, mere accommodation will be co-opted; simple resistance will be unsustainable; naked myth-making will be despised and uprooted. But there may be an alternative. The great hope of the books is that one can pass through the technological to the mythical. There may be a path to areophany, to transcendence, that leads first to altering the landscape --terraforming --and then to another kind of transformation, areoforming.[p.11]
 

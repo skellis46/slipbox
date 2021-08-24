@@ -9,7 +9,7 @@ Gerd-Günter Voß is a German sociologist who has thought about our changing rel
 
 >The movement through these three forms of conduct, whatever benefits it might have, makes our relations with nature increasingly instrumental. We can see this shift more clearly when looking at our changing experience of time, and our understanding of the values inscribed in the passage of time. Within the traditional conduct of life, it is necessary to take stewardly care of the resources required for the exercise of a craft or a profession, as these get passed on from generation to generation.[@jacobs-2021-tech p.29]
 
->... in the progression from the traditional to the strategic to the situational conduct of life, _continuity of preservation_ becomes less valuable than _immediacy of appropriation_: We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_.
+>... in the progression from the traditional to the strategic to the situational conduct of life, _continuity of preservation_ becomes less valuable than _immediacy of appropriation_: We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_. ^ca4c17
 
 ---
 

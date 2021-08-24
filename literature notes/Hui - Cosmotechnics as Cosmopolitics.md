@@ -1,13 +1,19 @@
 ---
 aliases: []
 tags: []
+author: "Yuk Hui"
+year: "2017"
+title: "Cosmotechnics as Cosmopolitics"
+type: "literature"
+current-status: "in-process"
+updated: "20210824"
 ---
 
 # Hui - Cosmotechnics as Cosmopolitics
 
->Therefore, my project is not one of substantializing tradition, as in the case of traditionalists like René Guénon or Aleksandr Dugin; it doesn’t refuse modern technology, but rather looks into the possibility of different technological futures. The Anthropocene is the planetarization of standing reserves, and Heidegger’s critique of technology is more significant today than ever before. The unilateral globalization that has come to an end is being succeeded by the competition of technological acceleration and the allures of war, technological singularity, and transhumanist (pipe) dreams. The Anthropocene is a global axis of time and synchronization that is sustained by this view of technological progress towards the singularity. To Preopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option.
+>Therefore, my project is not one of substantializing tradition, as in the case of traditionalists like René Guénon or Aleksandr Dugin; it doesn’t refuse modern technology, but rather looks into the possibility of different technological futures. The Anthropocene is the planetarization of standing reserves, and Heidegger’s critique of technology is more significant today than ever before. The unilateral globalization that has come to an end is being succeeded by the competition of technological acceleration and the allures of war, technological singularity, and transhumanist (pipe) dreams. The Anthropocene is a global axis of time and synchronization that is sustained by this view of technological progress towards the singularity. To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option.[@hui-2017-cosmotechnics n.pag.] ^06b080
 
-^06b080
+- what is this singularity he is talking about here? (oh, he's talking about [that singularity](https://en.wikipedia.org/wiki/Technological_singularity)!)
 
 >I would like to suggest that in order to develop such a cosmopolitics it is necessary to elucidate the question of cosmotechnics. I have been developing this concept of cosmotechnics in order to reopen the question of technology by undoing certain translations that were driven by the search for equivalence during modernization. This problematization can be presented in terms of a Kantian antinomy:
 
