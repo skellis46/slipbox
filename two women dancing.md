@@ -3,11 +3,11 @@ aliases: []
 type: "article"
 platform: "ijsd"
 current-status: "in-progress"
-status-updated: "20210824"
+status-updated: "20210825"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
-# Lithium dance: screendance hidden in plain sight
+# Lithium dance (hidden in plain sight)
 (in plain sight | Dancing reserve | Ambivalence and wonder in three minutes of dancing | The case of two people dancing | Hidden in plain sight)
 
 > When two people dance, their movements and actions and thoughts and perceptions are entrained by the larger organization, the dancing itself.[@noe_strange_2015 Chapter 2 Reorganizing Ourselves, n.p.]
@@ -32,7 +32,7 @@ They are two young people, perhaps 15 years old, playing together in a park, or 
 
 I am walking past them, wary of watching or intruding, but also captivated by their play. They are dancing for each other. Or rather, one of them is dancing for the other who is recording the dancing on a smartphone held in portrait mode. The camera and the dancer are close to each other; it's a close-up. They take turns: they dance, record, watch, point at the screen, and laugh.
 
-The dancing is mostly movement in the head and neck; rolling the head side to side around the frontal axis. They more or less do the same short sequence every time, as if they are trying to perfect the performance of the moves, or the recording of the performances. This trio of two young people and their camera are deep in their own world. Their game seems to be on repeat. The movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
+The dancing is mostly movement in the head and neck; rolling the head side to side around the frontal axis. They more or less do the same short sequence every time, as if they are trying to perfect the performance of the moves, or the recording of the performances. This trio of two young people and a smartphone are deep in their own world. Their game seems to be on repeat. The movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
 
 By this stage I'm some way past where it is they are dancing. It has been no more than three minutes since I first saw them. 
 
@@ -40,25 +40,17 @@ By this stage I'm some way past where it is they are dancing. It has been no mor
 
 _In which I introduce the central conceit (or assumption) of this article, the structure, and how any discussion of technology is a discussion about economics._
 
-In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such"[Rosenberg, [art.wisc.edu/2017/10/23/hiding-plain-site-screendance-histories-expanded-imagination-lecture-uw-madison-art-faculty-douglas-rosenberg](https://art.wisc.edu/2017/10/23/hiding-plain-site-screendance-histories-expanded-imagination-lecture-uw-madison-art-faculty-douglas-rosenberg), from @mcpherson-2020-walking pp.55]. The following volume of IJSD, Volume 12 -- _This is where we dance now: COVID-19 and the new and next in dance onscreen_ -- acknowledged and even celebrated screendance's undeniable visibility as people danced and watched dancing through screens during the COVID-19 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before COVID-19 acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283]
+In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such"[Rosenberg, in @mcpherson-2020-walking p.55]. The following volume of IJSD, Volume 12 -- _This is where we dance now: COVID-19 and the new and next in dance onscreen_ -- acknowledged and even celebrated screendance's undeniable visibility as people danced and watched dancing through screens during the COVID-19 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before COVID-19 acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283; see also @bench-2020-perpetual p.10]
 
-This tension between the practices of screendance being hidden, revealed, circulated, and invasive is telling in how those of us interested in screendance -- as artists and/or scholars -- narrate or construct its history. How can something _not_ be hiding in plain sight if there wasn't yet a name for it, or the artistic-scholarly desire to do that naming? 
+These descriptions of the practices of screendance being hidden, revealed, circulated, and invasive is telling in how those of us interested in screendance -- as artists and/or scholars -- narrate or construct its history and practices. Something will always be hiding (in plain sight) if there isn't yet a name for it, or the desire to do that naming. When we name anything we are attempting to render it visible.  
 
-This article is not about that kind of hiding that speaks to screendance's uncertainty about itself and desire for recognition. Instead it is about how I've tried to understand what I couldn't see when I saw those two young people making dances for the smartphones. 
+This writing is not about the kind of hiding (in plain sight) that speaks to screendance's uncertainty about itself and desire for recognition. Instead it is about an attempt to understand what I couldn't see when I happened across those two young people making dances for their smartphone, and how  mechanisms of _hiding_ might matter to people who make films, and particularly those of us that make films in and around dance and movement. 
 
-I would like to make sense of what I saw that day. In this writing I try to make sense of what I saw that day through _awe_ (note link to Kaufman's Transcend here). I want to recognise and describe the patterns of their trio (two people and a smartphone), and how these patterns might matter to people who make films, and particularly those of us that make films in and around dance and movement. Before I do this I need to paint a bleak picture.
+These two young people were dancing in plain sight while recording their movement, but it's not possible to know with any certainty _why_ they were recording their dancing. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment. Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing. Perhaps they were feverishly archiving their dancing. Perhaps. 
 
-This article is about screendance and ... (then say who I think it's for).
+My assumption -- and it an assumption on which this entire article is built -- is that what I saw that day was not the end of their story; that what they did next or soon after was to post the _best version_ of their screendance performances _on social_. After all, it is "difficult if not impossible to separate dance in public from social media in an era when the latter are determining forces of contemporary social life and engagement."[@bench-2020-perpetual p.65] I am agnostic towards social media platforms, so for the sake of this writing I will assume they were using TikTok because there is a lot of dancing on TikTok.[See for example @blancoborelli-2021-tiktok; @harlig-2021-tiktok] 
 
-Keep in mind that even though they were dancing in plain sight, it is not possible to know why they were recording their dancing. This writing is thereby an extrapolation of what I saw. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment. Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing. Perhaps. 
-
-Can I discuss paradox of the situation in terms of device paradigm and focal things? But what does this all matter for screendance? These are questions of culture: of privacy and freedom. We must make visible. To unhide. To recognise the games that are being played (on us).
-
-I am confident that what I saw that day was not the end of their story; that what they did next was to post the _best version_ of their screendance performances _on social_. I am agnostic towards social media platforms, so for the sake of this writing let's assume they were using TikTok because there's a lot of dancing on TikTok.[See for example @blancoborelli-2021-tiktok; @harlig-2021-tiktok] 
-
-By making this assumption I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. I trust though that my assumption does not prevent these ideas from having some value to how we might understand social and artistic contexts in screendance. After all, people dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. In many respects, Volume 12 of IJSD  -- is testimony that these cultural levers and patterns are deeply embedded in creendance practices. [@blancoborelli-2021-tiktok] also [@benthaus-2021-this]
-
-Can we agree that their dance was being shaped algorithmically? Then what? Where does that leave those of us thinking about the body and movement for screen? Does it do anything to us? Does it help? Get in the way?  
+By making this assumption of _what happened next_ I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. After all, people dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. In many respects, Volume 12 of IJSD is testimony to the fact that these cultural levers and patterns are deeply embedded in screendance practices.[See again for instance @blancoborelli-2021-tiktok; and also @benthaus-2021-this] 
 
 > On TikTok, remix cultures are built into the platform norm; my friends Meg Zeng, Xu Chen, as well as Bondy Kaye wrote a paper describing creativity on TikTok as a type of “circumscribed creativity,” where all the features of the platform shape you to create content in specific ways. So while you believe you’ve got flexibility, this platform is really squishing you into a template and teaching you how to perform creativity within a box. -- Crystal Abidin[@harlig-2021-tiktok p.192]
 
@@ -70,24 +62,29 @@ It's much more like an ice-berg. That something is being done to these two peopl
 
 These are new ways of moving not so much in what the actions are. They are familiar movements of the head, I can sense them or remember them in my body; I've seen similar kinds of movement or dancing in films. But they are instances of something much darker. Who is doing the choreography here? And for what purposes? These are ways of moving shaped by the great unseen of our time. This is a machine that doesn't see them, it doesn't need to. It is not a machine of the state, a panopticon, but rather a commercial machine. (see Harari and deindividuation of the individual). They are being directed by a machine that has no need for eyes. But it's not so simple is it? These machines were programmed. The algorithms -- "an opinion formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_. Perhaps more than one person. A group of choreographers-as-developers, unseen; hidden. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the developers' work in Swift or Objective C.  
 
-If these two people -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and shot with the camera/smartphone they were using. I suspect though that they did not set out to make a screendance the way readers might understand _an intention to make a screendance_. Rather, the screendance was made on them; it was forced upon them, against their will. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. 
+If these two people -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and shot with the camera/smartphone they were using. I suspect though that they did not set out to make a screendance the way readers might understand _an intention to make a screendance_. Rather, the screendance they made was in truth made _on_ them; it was forced upon them, against their will, but without them even sensing the coercion or agency denied. Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. This is not some innocent prelude to our digital commons. 
 
 - algorithmic performance (from Blanco Borelli)
 
 > In similar fashion, we also see TikTok enacting what Sianne Ngai would call a “capitalist gimmick.”3 This gimmick “is both a wonder and a trick. It is a form we marvel at and distrust, admire and disdain, whose affective intensity for us increases precisely because of this ambivalence.”4 These critical frames could not be more relevant in 2020 and beyond.[@blancoborelli-2021-tiktok p.298] (see p.472 and 478 of Ngai)
 
-Intensity increases because of the ambivalence? Really? How do they know this? Like it's doing something transgressive? I imagine if capitalism had a face it would smile deeply at these claims for increased affective intensity: "I have you right where I want you and your affective intensity". We are suckers.
-This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. (blanco borelli and xx mention this ambivalence) I didn't need to see the mediated, algorithm-ed, commodification of their dancing (even though I could see it to a certain extent in the movement -- they were mimicking). I could imagine their filmic ghosts on that small screen; the framing, the dancing. 
+Intensity increases because of the ambivalence? Really? How do they know this? Like it's doing something transgressive? Like stealing a cigarette to have a smoke on schoolgrounds? And what critical frames are they talking about? I imagine if capitalism had a face it would smile deeply at these claims for increased affective intensity: "I have you right where I want you and your affective intensity". We are suckers.
 
-
-
-## Up close and short term: The bleakest of pictures
+Can we agree that their dance was being shaped algorithmically? Then what? Where does that leave those of us thinking about the body and movement for screen? Does it do anything to us? Does it help? Get in the way?  
 
 > embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
 
-For most of the time preparing and writing this article, I found it difficult to sublimate my sense of dread in what I saw that day. Such a position is simply too easy to adopt. Can we agree that their screendance -- and it is so clearly a dance for screens -- appeared as it did and was performed as it was because of the smartphone they were holding, and its software that will gratefully swallow them and their dance when they are finished? 
+For most of the time preparing and writing this article, I found it difficult to sublimate my sense of dread in what I saw that day. Such a position is simply too easy to adopt. Can we agree that their screendance -- and it is so clearly a dance for screens -- appeared as it did and was performed as it was because of the smartphone they were holding, and its software that will fucntion to swallow them and their dance when they are finished? 
 
-Let me paint that bleakest of bleak pictures. I want to get it out of the way. Not dwell on it. To acknowledge its presence, and the ease with which it can be painted. To give it substance such that we can get to the critical questions of this writing. To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed.
+This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. (blanco borelli and xx mention this ambivalence) I didn't need to see the mediated, algorithm-ed, commodification of their dancing (even though I could see it to a certain extent in the movement -- they were mimicking). I could imagine their filmic ghosts on that small screen; the framing, the dancing, the desire to share and be seen. 
+
+tie in Baumann swarming here. 
+Can I discuss paradox of the situation in terms of device paradigm and focal things? But what does this all matter for screendance? These are questions of culture: of privacy and freedom. We must make visible. To unhide. To recognise the games that are being played (on us).
+
+- perhaps I am talking about two types of hiding. One is device paradigm/algorithmic. The other is how to respond (based on Jacobs' thinking)??
+
+## Up close and short term: The bleakest of pictures
+
 
 ### Dancing in the swarm
 
@@ -97,7 +94,7 @@ I find Bauman's vision of swarms troubling. They are troubling because I can ima
 
 Yet Bauman's thinking is more troubling in how he describes the way the public sphere has become one of the "many spoils of deregulation, privatization, individualization, of the conquest and annexation of the public by the private."[@bauman-2008-does p.28] -- contrast with Harmony's thinking on digital commons (which seems to have its own tragedy -- as I lay it out in the first part of this document)..
 
-<https://en.wikipedia.org/wiki/Digital_Commons_(Elsevier)>
+<https://en.wikipedia.org/wiki/Digital_Commons_(Elsevier)> (plenty of issues with them: <https://www.theatlantic.com/science/archive/2016/01/elsevier-academic-publishing-petition/427059/>)
 <https://en.wikipedia.org/wiki/Digital_commons_%28economics%29>
 
 These two people are in a public space, what in the UK is called a common. Such spaces are protected, cared for, and open. Yet within this public space, these two young people are unwittingly and paradoxically swarming ... Their public dance in a public space has been annexed by the private, and with the bonus loss of their privacy.  
@@ -143,7 +140,7 @@ Kołakowski's definition of technology doesn't seem so clearly related to Hui's.
 - could rewrite this as: We challenge people to yield dance, treating these people as nothing but a reserve. The dance is then stored in the cloud,[^cloud] subjected to algorithms on call, ready to deliver the creativity and movement that is stored in their dance. This dancing turns the wheels that keep people online while serving them ads.
 
 
-So frictionless, and clean. 4k pristine-ness. Way beyond industrial modernity in which the pleasure and play of these two young people is frictionless and clean labor of our time, in 4k. It's not even laboriousness. It is monetization of pleasure and joy without them being aware of it.  
+So frictionless, and clean. 4k pristine-ness. Way beyond industrial modernity in which the pleasure and play of these two young people is frictionless and clean labor of our time, in 4k. It's not even laboriousness. It is monetization of pleasure and joy without them being aware of it. These economics are hidden from the pleasure and joy of their dancing together in public. 
 
 [^cloud]: There is no cloud: [skellis.net/blog/there-is-no-cloud](https://www.skellis.net/blog/there-is-no-cloud)
 
@@ -167,6 +164,7 @@ This circularity is a key feature of standing reserve. How might I describe the 
 
 This last idea is very powerful. It seems to suggest the technological forces determine how it is that other things are seen (including things that we describe technologically). It's a loop. Recursion. and that their dancing in that park with that phone is a form of recursion. We can only understand this event in this way because it has "come to light" technologically. But I want to try and understand it beyond that recursion.
 
+- one is the economics (above section), but here is a way out of the loop ...?
 
 > Take recursion. It means, most simply, that you define a thing in terms of itself. But again and again, I watched people sit down at a computer, create a program that could go on forever, and quite simply freak out. Meeting recursion was like looking at objects of infinite regress, contemplating horizons, trying to find the end of the stars, all of these experiences that frighten and fascinate children—and adults.[@turkle-2021-empathy Chapter 16: Building 20, n.pag.]
 
@@ -181,9 +179,9 @@ see [[Feenberg - From Essentialism to Constructivism#^6a69ce]] for very clear su
 
 Albert Borgmann is an American scholar working in the philosophy of technology. His book _Technology and the Character of Contemporary Life_ (1984) builds on Heidegger's concept of enframing (Gestell) and introduces two key terms: the _device paradigm_, and _focal things_.
 
-the technology of software and hardware is enframed as a source of friendship expressed through dancing. The software in particular is hidden. 
+the technology of software and hardware is enframed as a source of friendship expressed through dancing. The software in particular -- and its mathematics -- is hidden. 
 
-The device paradigm is a way of understanding technology as a device or series of devices that deliver commodities, and that the mechanisms for this delivery are hidden. Technology becomes synonymous with devices and not the hidden mechanisms. 
+The device paradigm is a way of understanding technology as a device or series of devices that deliver commodities, and that the mechanisms for this delivery are hidden. Technology becomes synonymous with devices and not the hidden mechanisms. Which direction is the delivery operating? 
 
 A focal thing is intimately connected to practice and is something that delivers more than one commodity. For example, a hearth is for more than just warmth: it is communal, social, and even a place for cooking and sharing food. 
 
@@ -192,7 +190,7 @@ A focal thing is intimately connected to practice and is something that delivers
 [[device paradigm and focal things]] -- but their behaviour definitely operating as a device paradigm
 the technology faded into the background. The focal thing hid the device paradigm [[device paradigm and focal things#^fb451d]]
 
-- or something about spirit (their spirit), that in those few minutes, overwhelmed the tech. Something became possible. Something was illuminated through technological affordances. the smartphone became a hearth: enframed, and [[borgmann, effort and focal things]]. (really?)
+- or something about spirit (their spirit), that in those few minutes, overwhelmed the tech. Something became possible. Something was illuminated through technological affordances. the smartphone became a hearth: enframed, and [[borgmann, effort and focal things]]. (really?) Terrible terrible paradox of our time. Much like Blanco-Borelli discusses. magic trick. 
 
 
 Harari: deindividuation of the individual (from Talking Politics on Arendt?) into a collective
@@ -254,11 +252,11 @@ Neil Postman was a media theorist who took a famously skeptical stance on the ro
 
 Function is data extraction. Simple. But something awe-inspiring as well. Humans making. 
 
+To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed.
+
 ## Hidden in the future 
 
 _In which I zoom out into the future and call on Alan Jacobs' understanding of the value of myth in the technopoly._
-
-- perhaps I am talking about two types of hiding. One is device paradigm/algorithmic. The other is how to respond (based on Jacobs' thinking)??
 
 [[Jacobs - from tech critique to ways of living]] -- this is amazing. ;-)
 
@@ -318,6 +316,18 @@ Low friction technology (convenience, see [[how informs what and this produces c
 Bob Whalley -- introducing me to Yuk Hui's book _The Question Concerning Technology in China_ (which appeared at nearly the same time in some writing I found by Alan Jacobs.)  Instance of [[Baader-Meinhof phenomenon]]. People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas.
 
 # Edit bin
+
+Let me paint that bleakest of bleak pictures. I want to get it out of the way. Not dwell on it. To acknowledge its presence, and the ease with which it can be painted. To give it substance such that we can get to the critical questions of this writing. To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed.
+
+"dance in public is greatly facilitated by the channels of distribution that social media offer, and its meaning is accentuated by other similar circulations"[@bench-2020-perpetual p.65]
+
+This is distinct from ... the kind of dancing in public Bench describes: [[Bench - Perpetual Motion#^266756]]
+
+I trust though that my assumption does not prevent these ideas from having some value to how we might understand social and artistic contexts in screendance. 
+
+I would like to make sense of what I saw that day. In this writing I try to make sense of what I saw that day through _awe_ (note link to Kaufman's Transcend here). I want to recognise and describe the patterns of their trio (two people and a smartphone), and how these patterns Before I do this I need to paint a bleak picture.
+
+This article is about screendance and ... (then say who I think it's for).
 
 -- the fastest growing social media platform among teenagers in the USA, with serious legs in the UK as well.[^stat] Also, there's a 
 
