@@ -6,10 +6,6 @@ tags: [practice-research, finger-pointing-moon]
 
 # zen, map and territory
 
-_previous note:_ [[truth and beliefs]]
-
----
-
 In this post for the rationalist website Lesswrong G Gordon Worley III compares the common rationalist concept that [[the map is not the territory]] with three Zen understandings:
 
 1. _form and emptiness_ in which forms are fixed in our minds, while reality is empty of these forms;
@@ -25,6 +21,7 @@ Worley III then compares these to two Western philosophical traditions:
 
 _thoughts & links:_
 
+- [[truth and beliefs]]
 - [[finger pointing at the moon]]
 - [[without symbolic mediation]]
 - [[map and territory]]

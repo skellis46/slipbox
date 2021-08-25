@@ -9,7 +9,7 @@ Yuk Hui is a philosopher. In his article [[Hui - Cosmotechnics as Cosmopolitics]
 
 He tells the story of a very good butcher called Pao Ding (as told in _Zhuangzi_). Pao Ding claims that having an excellent knife is not enough:
 
->it is more important to understand the Dao in the cow, so that one does not use the blade to cut through the bones and tendons, but rather to pass alongside them in order to enter into the gaps between them.[@hui-2017-cosmotechnics n.pag.]
+> it is more important to understand the Dao in the cow, so that one does not use the blade to cut through the bones and tendons, but rather to pass alongside them in order to enter into the gaps between them.[@hui-2017-cosmotechnics n.pag.]
 
 Hui writes that when the butcher encounters any difficulty, "he slows down the knife and gropes for the right place to move further."[@hui-2017-cosmotechnics n.pag.] This is the Dao (or _way_ or _path_), whereas the Qi is the technical/phenomenal object (or "technics"): the knife.
 
