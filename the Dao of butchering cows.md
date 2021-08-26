@@ -15,6 +15,28 @@ Hui writes that when the butcher encounters any difficulty, "he slows down the k
 
 ---
 
+## notes from [[two women dancing]]
+
+start with Hui and then move to Jacobs' reading of him. 
+
+Yuk Hui is a philosopher of technology, and in _Cosmotechnics as Cosmopolitics_[-@hui-2017-cosmotechnics] **introduce the article**. Cosmotechnics is a strange term and seems to hint at historical understandings of _making_ and _craft_. As if reaching back from Postman's technopoly to tool-using cultures. In the article, Hui tells the story of a very good butcher called Pao Ding. Pao Ding claims that having an excellent knife is not enough:
+
+>it is more important to understand the Dao in the cow, so that one does not use the blade to cut through the bones and tendons, but rather to pass alongside them in order to enter into the gaps between them.[@hui-2017-cosmotechnics n.pag.]
+
+Hui writes that when the butcher encounters any difficulty, "he slows down the knife and gropes for the right place to move further."[@hui-2017-cosmotechnics n.pag.] This is the Dao (or _way_ or _path_), whereas the Qi is the technical/phenomenal object (or "technics"): the knife. 
+
+- imagine the knife of their dancing hitting the bone. Would they slow down? Does their algorithm enframed dancing even make that kind of gesture of Dao possible? Am I implying that Pfingst and Poynor are doing this? What does it look like? How is it qualitatively different? What differences make a difference? Does it just mean slower films? Or few edits? Or am I talking about the means of distributing? What might it mean to stay hidden? Asceticism. Hermits. Monks. Switching off. Tuning out. Stepping away. Backing off.  
+
+- wondering about directionality -- the flow of the technics/device paradigm squeezing back into their bodies, and how they move. and the flow of the Dao. 
+
+In _The question concerning technology in China: an essay in cosmotechnics_ (2016), Hui distinguishes precisely between technics, techne, and technology: 
+
+>technics refers to the general category of all forms of making and practice; techne refers to the Greek conception of it, which Heidegger understands as poiesis or bringing forth; and technology refers to a radical turn which took place during European modernity, and developed in the direction of ever-increasing automation, leading consequently to what Heidegger calls the Gestell.[@hui-2016-question p.4] 
+
+Technology here is akin to what Neil Postman famously called the technopoly.
+
+---
+
 _thoughts & links:_
 
 - Towards the end, Hui says something rather inscrutable: "But it is possible to infinitize Qi so as to infinitize the self and enter into the noumenon—this is the question of art." I don't quite know what it would mean to infinitize the self, but he seems to be getting at the possibility of art entering the neumonal; the unknowable "thing-in-itself".
