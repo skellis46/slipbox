@@ -7,7 +7,7 @@ status-updated: "20210826"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
-# Lithium dance (hidden in plain sight)
+# Lithium dancing (hidden in plain sight)
 ## possible ideas to consider or keep in mind
 (in plain sight | Dancing reserve | Ambivalence and wonder in three minutes of dancing | The case of two people dancing | Hidden in plain sight)
 
@@ -28,7 +28,7 @@ Can I discuss paradox of the situation in terms of device paradigm and focal thi
 
 > Here indeed, the whole mechanism of the operation is invisible to the viewer: the deepest darkness reigns: suddenly, a ghost appears, far, far away at first, appearing as a point of light to the audience. But it soon grows, becomes bigger and bigger and seems to approach slowly at first, to then rush towards the spectators: the illusion is total.[Victor de Moléon (1836), in @chateau-2016-screensa pp.49-50]
  
-## Prelude: Two young people and their camera
+## Two young people and their camera
 
 _In which I describe an actual event that prompted this thinking-writing._
 
@@ -50,72 +50,74 @@ In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Dougla
 
 These descriptions of the practices of screendance being variously hidden, revealed, circulated, and invasive is telling in how those of us interested in screendance -- as artists and/or scholars -- narrate or construct its history and practices. Something will always be hiding (in plain sight) if there isn't yet a name for it, or the desire to do that naming. When we name anything we render it visible. 
 
-This writing is not about the kind of hiding that speaks to screendance's uncertainty about itself and desire for recognition. Instead, it is an attempt to understand what I couldn't see when I happened across those two young people making dances for their smartphone, and how mechanisms and narratives of _hiding_ might matter to those of us who create screendances. 
+This writing is not about the kind of hiding that speaks to what I imagine is screendance's uncertainty about itself and desire for recognition. Instead, it is an attempt to understand what I couldn't see when I happened across those two young people making dances for their smartphone, and how mechanisms and narratives of _hiding_ might matter to those of us who create screendances. 
 
 These two young people were dancing in plain sight while recording their movement, but it's not possible to know with any certainty _why_ they were recording their dancing. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment. Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing. Perhaps they were feverishly archiving their dancing. Perhaps. 
 
-The assumption on which this entire article is built is that what I saw that day was not the the full story; that what they did next or soon after was to post the _best version_ of their screendance performances _on social_. I make this assumption because, as Harmony Bench has written, it is "difficult if not impossible to separate dance in public from social media in an era when the latter are determining forces of contemporary social life and engagement."[-@bench-2020-perpetual p.65] I am agnostic towards social media platforms, but given how much dancing is happening on TikTok[See for example @blancoborelli-2021-tiktok; @harlig-2021-tiktok] I will assume that this was their social media of choice.
+The assumption on which this writing rests is that what I saw that day was not the the full story; that what they did next or soon after was to post the _best version_ of their screendance performances _on social_. I think this is a fair assumption because, as Harmony Bench suggests, it is "difficult if not impossible to separate dance in public from social media in an era when the latter are determining forces of contemporary social life and engagement."[-@bench-2020-perpetual p.65] I am agnostic towards social media platforms, but given how much dancing is happening on TikTok[See for example @blancoborelli-2021-tiktok; @harlig-2021-tiktok] I will assume that this was their social media of choice.
+
+My assumption effectively renders these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. People dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. Volume 12 of IJSD is testimony to the fact that these cultural levers and patterns of social media technologies are deeply embedded in screendance practices.[See again for instance @blancoborelli-2021-tiktok; and also @benthaus-2021-this] 
 
 It's worth bearing in mind, even at this early stage of this article, that all technologies -- including those of social media -- are developments "largely oriented economically to profit-making"[@weber-1978-economy Part 1, p.67] and that "technology was, is, and always will be an expression of the economic objectives that direct it into action."[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.] 
 
-By making this assumption of _what happened next_ I have rendered these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. People dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. Volume 12 of IJSD is testimony to the fact that these cultural levers and patterns of social media technologies are deeply embedded in screendance practices.[See again for instance @blancoborelli-2021-tiktok; and also @benthaus-2021-this] 
+- add bit about my assumptions not unwarranted, and also 'digital commons'
 
 ## Algorithmic choreography
 
 _In which I ... _
 
-In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I suspect though that they did not set out to make a screendance the way IJSD readers might understand an _intention_ to make a screendance. Rather, the screendance they made was made _on_ them, but without them being aware of -- nor probably caring about -- the coercion or denial of agency. These two young people were certainly not innocently creating some content for our digital commons.
+> embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
+
+In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I suspect though that they did not set out to make a screendance the way IJSD readers might understand an _intention_ to make a screendance. Rather, the screendance they made was made _on_ them, but without them being aware of -- nor probably caring about -- the coercion or denial of agency.
 
 Who is doing the choreography here? These are ways of moving shaped by the great unseen of our time. This is a machine that doesn't see these young dancer-choreographers, it doesn't need to. It is not a machine of the state, a panopticon, but rather a commercial machine. These young dancing people are being directed by a machine that has no need for eyes. But it's not so simple is it? 
 
-This machine was programmed. The algorithms -- opinions "formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_, perhaps more than one person: a cloud of choreographers-as-developers; unseen, hidden. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the code they created in Kotlin, Java, Swift or Objective C. 
+This machine was programmed. The algorithms -- opinions "formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] --  were created by _someone_, perhaps more than one person: a cloud of choreographers-as-developers; unseen, hidden. It's difficult to imagine that those software developers were even aware of how these two women might end up dancing as a consequence of the code they created in Kotlin, Java, Swift or Objective C. At the same time, I would rather not overestimate the sophistication of their mathematics; it is more a question of how few data points are required for us to reveal ourselves. The Wall Street Journal recently found that although shares, likes, follows and the things you watch play a role in determining one's FYP (For You Page) on TikTok, the platform needs only one piece of data to "figure you out": "how long you linger over a piece of content."[@wallstreetjournal-2021-how n.pag.]
 
-I also don't want to overestimate the sophistication of their mathematics; it is more a question of how few mathematics are required for us to reveal ourselves. The Wall Street Journal recently found that although shares, likes, follows and the things you watch play a role in determining one's FYP (For You Page), TikTok needs only one piece of data to "figure you out": "how long you linger over a piece of content."[@wallstreetjournal-2021-how n.pag.]
+I didn't see the mediated, algorithm-ed, commodification of their dancing on TikTok, even though it was revealed to a certain extent in their movement-performances-on-repeat. Yet I can also imagine their filmic ghosts on a small screen: the framing, the dancing, the music, the stickers, the desire to share and be seen. For the purposes of this writing can we agree that their dance was shaped algorithmically? Mention here Morrison et al and algorithms of performance? (from Blanco Borelli and moore)
 
-In _TikTok, Friendship, and Sipping Tea, or How to Endure a Pandemic_ Melissa Blanco Borelli and madison moore call on Sianne Ngai's _Theory of the Gimmick_ to 
+This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. or is it freedom v security (and safety) - Baumann?
 
-Nagi does not make it clear HOW our affective intensity is increased. (see p.470 -- footnote)
-> In similar fashion, we also see TikTok enacting what Sianne Ngai would call a “capitalist gimmick.”3 This gimmick “is both a wonder and a trick. It is a form we marvel at and distrust, admire and disdain, whose affective intensity for us increases precisely because of this ambivalence.”4 These critical frames could not be more relevant in 2020 and beyond.[@blancoborelli-2021-tiktok p.298] (see p.472 and 478 of Ngai)
+Then what? Where does that leave those of us thinking about the body and movement for screen? Does it do anything to us? Does it help? Get in the way?  
 
-Intensity increases because of the ambivalence? Really? How do they know this? Like it's doing something transgressive? Like stealing a cigarette to have a smoke on schoolgrounds? And what critical frames are they talking about? I imagine if capitalism had a face it would smile deeply at these claims for increased affective intensity: "I have you right where I want you and your affective intensity". We are suckers.
+## Being in (the) common
+- [[swarms in liquid modernity]]
 
-Can we agree that their dance was being shaped algorithmically? Then what? Where does that leave those of us thinking about the body and movement for screen? Does it do anything to us? Does it help? Get in the way?  
+In 2000, the Polish sociologist Zygmunt Bauman described a liquid-modern society that is distinctive in two ways. The first is the recognition that the process of modernization is never-ending. There is no end-game, or point at which human affairs become "totally transparent thanks to knowing everything needing to be known."[@bauman-2000-liquid p.29] The second is that the burden of responsibility now rests squarely on the shoulders of the individual. The balance has tilted far from the societal improvement for the common good "towards the self-assertion of the individual."[@bauman-2000-liquid p.29] Bauman describes how, in liquid modernity, the public sphere has also become one of the "many spoils of deregulation, privatization, individualization, of the conquest and annexation of the public by the private."[@bauman-2008-does p.28]
 
-> embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
+These two young people are in a public space, and perhaps they are only there due to COVID-19 lockdown restrictions. That is, without COVID-19 perhaps they would have danced in the privacy of their own home(s)? This public space in the UK is called a common. Such spaces are owned privately, or by local councils or the National Trust. They have simple and reasonably relaxed rules, and are protected, cared for, and open. They are one of few areas in the UK not overwhelmed by CCTV. Yet within this public space, the public dances performed by these two people have been annexed by privately owned algorithms. This public-private paradox of the commons is a direct part of what social psychologist Shoshana Zuboff calls surveillance capitalism, that uses "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff-2019-age Chapter 1] The purpose of these hidden extractive operations is to predict our future behaviors and to sell those predictions to advertisers. This mostly hidden economy functions because data and advertising rule the world's economy.[@noauthor-2017-world] 
 
-This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. (blanco borelli and xx mention this ambivalence) I didn't need to see the mediated, algorithm-ed, commodification of their dancing on TikTok (even though I could see it to a certain extent in the movement -- they were mimicking). I could imagine their filmic ghosts on that small screen; the framing, the dancing, the music, the stickers, the desire to share and be seen. 
+In _Perpetual Motion: Dance, Digital Cultures, and the Common_ (2020) Harmony Bench describes and analyzes ... She suggests that what makes dances public "is as much about exposure to onsite spectators (who may not actually be the target audience) as it is about dancing in venues that are available and accessible to the general public."[@bench-2020-perpetual p.64]
 
+> Dance in public avails itself of the digital commons, which both circulates and provides audiences for these videos. As a result, many of the public performances seem to target an audience of internet users more so than copresent spectators.[@bench-2020-perpetual p.65]
 
-
-## A swarming dancing while being in (the) common
-
-The Polish sociologist Zygmunt Bauman's concept of liquid modernity is characterized by the never-ending process of modernization, and how societal improvements for the common good have been largely replaced by the "self-assertion of the individual."[@bauman-2000-liquid p.29] In liquid modernity groups are replaced by what swarms that need no leaders and no hierarchies.
-
-> The **liquid modernity is agile** , as it follows the fashion and the thought of that time. Science, technique, education, health, human relations and everything else that was created by human beings to compose society are subjected to the **capitalist logic of consumption** .<https://notesread.com/liquid-modernity/>
-
-groups are replaced by swarms that "assemble, disperse, and come together again from one occasion to another, each time guided by different, invariably shifting relevancies, and attracted by changing and moving targets."[@bauman-2008-does p.15]. Swarms need no leaders, no hierarchies. Each unit of the swarm "reenacts the moves made by the other, while performing the whole job, from beginning to end in all its parts, alone."[@bauman-2008-does p.16] A swarm creates an endless process of copying and making in which any original does not exist or has been forgotten. In a consuming swarm, the job of a swarm is to consume. 
-
-I find Bauman's vision of swarms troubling. They are troubling because I can imagine those two young people dancing as part of a consuming swarm. They are leaderless, yet following, copying, refracting, renewing, reinventing, replicating; a recursive loop of dancing and being danced. And even as I recognise the pleasure they are taking in their dancing play, it is dancing play that has been organised, planned and coded. It is pure enframing. They are blissfully unaware of their enframing. Aren't we all?
-
-Yet Bauman's thinking is more troubling in how he describes the way the public sphere has become one of the "many spoils of deregulation, privatization, individualization, of the conquest and annexation of the public by the private."[@bauman-2008-does p.28]
-
-These two people are in a public space, what in the UK is called a common. Such spaces are protected, cared for, and open. One of few areas not overwhelmed by CCTV. Yet within this public space, these two young people are unwittingly and paradoxically swarming ... Their public dance in a public space (even if it only happened there due to COVID-19 lockdown restrictions) has been annexed by the private, and with the bonus loss of their privacy.  
-
- -- contrast with Harmony's thinking on digital commons (which seems to have its own tragedy -- as I lay it out in the first part of this document)..
-
+- [[Bench - Perpetual Motion#^3fb97b]] - but what is common about it? Is commonality about access? 
+- tragedy of digital commons: <https://en.wikipedia.org/wiki/Tragedy_of_the_commons#Tragedy_of_the_digital_commons>
+- what of externalities?  
+-- contrast with Harmony's thinking on digital commons (which seems to have its own tragedy -- as I lay it out in the first part of this document)..
+- should I talk about virality (that there's hope there). [[Blitz - Understanding Heidegger on Technology#^05e7db]]. It's still producing a virus (it just might not be a successful virus)
 <https://en.wikipedia.org/wiki/Digital_Commons_(Elsevier)> (plenty of issues with them: <https://www.theatlantic.com/science/archive/2016/01/elsevier-academic-publishing-petition/427059/>)
 <https://en.wikipedia.org/wiki/Digital_commons_%28economics%29>
 
-Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play. This is not some innocent . 
+Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play.  These two young people were certainly not  creating some content for our innocent digital commons.
 
-- thinking about Harmony's book (Chapter 2 in particular) and 'digital commons' -- and the division between what I saw and what I'm assuming or imagining.  Seems like my focus is on my imagination. It's confabulation but confabulation that's not unwarranted (ie likely to end up in 'digital commons' for sure right?)
-- mention that swarming reading came from Alan Jacobs
 
-[[Bench - Perpetual Motion#^3fb97b]]
 
-- algorithmic performance (from Blanco Borelli)
+- thinking about virality, and the viral load of their dance. That is, what is carried or infected. Vast host. Leviathon. we are the virus. we are the infectious agent. by watching we are how the true pathological agent thrives. cross-talk between host and virus. 
+- habitat: social networks
+- mode of transmission: Vector transmission -- we are the vectors. But this virus collects information as it passes from one host to another. We are not infected. 
+- host: mobile phone? 
+- immune system? 
+- Imagine an ecosystem in which millions of viruses (and/or mutations of previous viruses) are produced every day. It is humans that produce these viruses. The system for transmission is a 'vector transmission'. Instead of mosquitoes carrying malaria, it is also humans who transmit these new viruses. We produce and transmit viruses. We are not harmed by the virus (at least on the surface). Each virus is hosted on a mobile phone that is connected to a vast global network and humans transmit that virus around that network. The habitat is social networks. Perfect conditions, perfectly resistant to any form of outside interference or compromises. Addictive. Potential Weakness is reliance on vector transmissions of viruses (by humans). That is, if humans stopped passing the virus onto others the habitat would disappear. The habitat is dependent on the presence of viruses. It would not exist without them. That's curious. The virus is less dependent on the social network habitat than the other way around. Without the network the virus still has a host (mobile) and can still be transmitted (through human sharing), but just not to scale. It's still a virus, but less likely to go viral! But all of this, ALL of this is made possible by massive massive organisms that more or less control the entire ecosystem. These are the leviathans of our time: mostly unregulated. The system of control is algorithmic. What's more, these organisms have an open secret -- each time a human views a virus or transmits (shares) a virus, these organisms extract information from the transmitters (we humans) that does two things: a) increases the desire of humans to produce and transmit more viruses; b) nourishes the organism by providing data that they can sell (to other humans who also produce viruses).  
+- Can jump across different kinds of hosts (OS platforms) 
+
+
 - logic of consumption (see <https://notesread.com/liquid-modernity/> disguised as a mode of production. The danger in valorizing their making -- their creativity. Social media leviathan.
 - between productive and (failed) distributive economies.  (Sandel)
+
+> And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
+
+> According to the civic ideal, the common good is not simply about adding up preferences or maximizing consumer welfare. It is about reflecting critically on our preferences—ideally, elevating and improving them—so that we can live worthwhile and flourishing lives. This cannot be achieved through economic activity alone. It requires deliberating with our fellow citizens about how to bring about a just and good society, one that cultivates civic virtue and enables us to reason together about the purposes worthy of our political community.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
 
 ## Device paradigm, focal things and dancing reserve
 
