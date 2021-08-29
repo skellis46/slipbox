@@ -14,7 +14,7 @@ In other words, Noë suggests that "art is bad design on purpose."
 
 >When we ask of a work of art What is this? What is this for? we need to come up with our own answer. And so we need to take a stand, a stand, critically, on our relation to the background, on our relation to that which we normally take for granted.[@noe_strange_2015 Chapter 8, n.p.]
 
-Noë uses dance as another example. He suggests that the art of dance (choreography) "has nothing to do with dancing". He thinks that choreography uses the familiar aspects of social dancing and "manipulates and obscures these; it makes art out of these. Choreography, in a sense, is the interruption (or subversion) of dancing."
+Noë uses dance as another example. He suggests that the art of dance (choreography) "has nothing to do with dancing". He thinks that choreography uses the familiar aspects of social dancing and "manipulates and obscures these; it makes art out of these. Choreography, in a sense, is the interruption (or subversion) of dancing."[@noe_strange_2015 Chapter 8, n.p.]
 
 >Works of art illuminate the questions, as James Baldwin is said to have put it, that are occluded by the answers we already know.
 
