@@ -35,7 +35,7 @@ updated: "20210824"
 
 > I similarly find that digital media, especially the space of the internet, offer contemporary performative commons in which individuals both perform and contest their belonging through practices such as dance.[@bench-2020-perpetual p.8]
 
-- But who is belonging to what? Who owns them? They belong to Silicon Valley
+- But who is belonging to what? Who owns them? They belong to Silicon Valley. That is, it's as if Bench hasn't zoomed out far enough (as it would undermine her thesis?)
 
 > How, why, and for whom are assertions of dance as common meaningful in digital contexts?[@bench-2020-perpetual p.9]
 
@@ -95,7 +95,7 @@ updated: "20210824"
 
 - Not if expressed as percentage of all content online. Doesn’t make sense.
 
-- 2wd is at Other end of spectrum from what HB is describing. Two people in process. Playing. It’s certainly not an Arendtian ‘space of appearance’, except perhaps here, in these pages.And they are certainly not dancing in a non-place (Augé).Also that common is not surveilled (which is amazing in the UK given hyper-presence of cameras). (See bottom of p.79 in Bench). Important that I don’t want to impose on these two people. To police their actions. Or judge them?
+- 2wd is at Other end of spectrum from what HB is describing. Two people in process. Playing. It’s certainly not an Arendtian ‘space of appearance’, except perhaps here, in these pages. And they are certainly not dancing in a non-place (Augé). Also that common is not surveilled (which is amazing in the UK given hyper-presence of cameras). (See bottom of p.79 in Bench). Important that I don’t want to impose on these two people. To police their actions. Or judge them?
 
 > Although American individualism encourages people to stand out from the crowd, in fact, visibility resulting from physical comportment, deportment, style, or general deviation from the norm invites reprimand. Thus panoptic surveillance produces, as Michel Foucault argues, "a state of conscious and permanent visibility that assures the automatic functioning of power."76 Visibility is therefore not synonymous with appearance as Arendt conceptualizes it. Foucault continues, "He who is subjected to a field of visibility, and who knows it, assumes responsibility for the constraints of power; he makes them play spontaneously upon himself; he inscribes himself in the power relation in which he simultaneously plays both roles; he becomes the principle of his own subjection."77 Visibility interpellates individuals into a hierarchical social matrix wherein some actors mobilize power as a repressive force over others, with the ultimate goal that self-policing will replace policing by the state or other apparatus. "Visibility is a trap."78 Appearance, in contrast, is predicated on the co-presence of and recognition by equals who empower themselves by working together in a public realm. Indeed, for Arendt, power exists precisely in this plurality, in "this potentiality in being together,"79 and is distinct from both strength and force.[@bench-2020-perpetual p.80]
 
@@ -137,6 +137,8 @@ updated: "20210824"
 > Tensions arise, it seems, when a dance or dance practice flows from one sense of belonging to another. Importantly, it is not commodification as such that produces this tension but what commodification enables: the circulation of gestural belongings outside the communities of practice that manifest social belonging through those very gestures, and the financial profits that accrue to those who facilitate monetized circulation as compared to community participation.[@bench-2020-perpetual p.148]
 
 > Despite the continuing drive to privatize resources and wealth, Hardt and Negri recognize that "contemporary forms of capitalist production and accumulation, paradoxically make possible and even require expansions of the common."66 For this reason, Randy Martin views contemporary revaluations of the common(s) with suspicion. Referencing the enclosure movement that forcibly removed eighteenth-century peasants from common lands, Martin argues that "now dispossession breeds commons without anyone needing to be moved anywhere."67 [@bench-2020-perpetual p.159]
+
+^2630fc
 
 > Indeed, the concept of the natural common requires adherence to practices of exclusion so as to avoid the very tragedy of the commons that Garrett Hardin famously describes in his economic fable.68 [@bench-2020-perpetual p.159]
 
