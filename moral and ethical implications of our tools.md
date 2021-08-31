@@ -18,10 +18,10 @@ These are 41 questions by L. M. Sacasas -- originally posted in 2016 -- designed
 7.  What practices will the use of this technology cultivate?
 8.  What practices will the use of this technology displace?
 9.  What will the use of this technology encourage me to notice?
-10.  What will the use of this technology encourage me to ignore?
+10.  **What will the use of this technology encourage me to ignore?**
 11.  What was required of other human beings so that I might be able to use this technology?
 12.  What was required of other creatures so that I might be able to use this technology?
-13.  What was required of the earth so that I might be able to use this technology?
+13.  **What was required of the earth so that I might be able to use this technology?**
 14.  Does the use of this technology bring me joy? [N.B. This was years before I even heard of Marie Kondo!]
 15.  Does the use of this technology arouse anxiety?
 16.  How does this technology empower me? At whose expense?
@@ -30,19 +30,19 @@ These are 41 questions by L. M. Sacasas -- originally posted in 2016 -- designed
 19.  How does this technology encourage me to allocate my time?
 20.  Could the resources used to acquire and use this technology be better deployed?
 21.  Does this technology automate or outsource labor or responsibilities that are morally essential?
-22.  What desires does the use of this technology generate?
+22.  **What desires does the use of this technology generate?**
 23.  What desires does the use of this technology dissipate?
 24.  What possibilities for action does this technology present? Is it good that these actions are now possible?
 25.  What possibilities for action does this technology foreclose? Is it good that these actions are no longer possible?
 26.  How does the use of this technology shape my vision of a good life?
-27.  What limits does the use of this technology impose upon me?
+27.  **What limits does the use of this technology impose upon me?**
 28.  What limits does my use of this technology impose upon others?
 29.  What does my use of this technology require of others who would (or must) interact with me?
 30.  What assumptions about the world does the use of this technology tacitly encourage?
 31.  What knowledge has the use of this technology disclosed to me about myself?
 32.  What knowledge has the use of this technology disclosed to me about others? Is it good to have this knowledge?
 33.  **What are the potential harms to myself, others, or the world that might result from my use of this technology?**
-34.  Upon what systems, technical or human, does my use of this technology depend? Are these systems just?
+34.  **Upon what systems, technical or human, does my use of this technology depend? Are these systems just?**
 35.  Does my use of this technology encourage me to view others as a means to an end?
 36.  Does using this technology require me to think more or less?
 37.  What would the world be like if everyone used this technology exactly as I use it?
