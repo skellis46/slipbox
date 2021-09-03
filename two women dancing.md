@@ -49,7 +49,7 @@ _In which I introduce the central conceit (or assumption) of this article, the s
 
 In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such."[Rosenberg, in @mcpherson-2020-walking p.55] Then, Volume 12 of IJSD -- _This is where we dance now: COVID-19 and the new and next in dance onscreen_ -- acknowledged and celebrated screendance's undeniable visibility as people danced and watched dancing through screens during the COVID-19 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before COVID-19 acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283; see also @bench-2020-perpetual p.10]
 
-These descriptions of the practices of screendance being variously hidden, revealed, circulated, and invasive is telling in how those of us interested in screendance narrate or construct its history and practices. Something will always be hiding (in plain sight) if there isn't yet a name for it, or the desire to do that naming. When we name anything we render it visible. 
+These descriptions of the practices of screendance being variously hidden, revealed, circulated, and invasive are telling in how those of us interested in screendance narrate or construct its history and practices. Something will always be hiding (in plain sight) if there isn't yet a name for it, or the desire to do that naming. When we name anything we render it visible. 
 
 This writing is not about the kind of hiding that speaks to what I imagine is screendance's uncertainty about itself and desire for recognition. Instead, it is an attempt to understand what I could not see when I happened across those two young people making dances for their smartphone, and how mechanisms and narratives of _hiding_ might matter to those of us who create screendances. 
 
@@ -69,15 +69,15 @@ _In which I ... _
 
 > embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
 
-In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I saw their movement-performances-on-repeat, yet I can only imagine their video ghosts on a small screen: the framing, the dancing, the music, the stickers, the desire to share and be seen.
+In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I saw their movement-performances-on-repeat, and I can imagine their video ghosts on a small screen: the framing, the dancing, the music, the virtual stickers, the desire to share and be seen.
 
-I suspect though that they did not set out to make a screendance the way IJSD readers might understand an _intention_ to make a screendance. Rather, the screendance they made was made _on_ them, but without them being aware of -- nor probably caring about -- the coercion or diminished agency.
+I suspect though that they did not set out to make a screendance the way IJSD readers might understand an _intention_ to make a screendance. Rather, the screendance was more made _on_ them, and without them being aware of -- nor probably caring about -- the coercion or diminished agency.
 
-Who is doing the choreography here? These are ways of moving shaped by a machine that doesn't see how these young people are dancing, it doesn't need to. It is not an all-seeing machine of an invisible state. Rather, it is a commercial machine that has "blown by the panopticon"[Zuboff, in @farrell-2017-shoshana n.pag.] There is no _outside_ this institutional building, "no zone of life that is not being infiltrated."[Zuboff, in @farrell-2017-shoshana n.pag.] These two dancing people are being directed by an invasive all-seeing yet blind machine that carries the "colonizing forces of algorithmic logic."[@morrison-2019-algorithms p.10]
+Who is doing the choreography here? These are ways of moving shaped by a machine that doesn't see how these young people are dancing, it doesn't need to. It is not an all-seeing machine of an invisible state. Rather, it is a commercial machine that has "blown by the panopticon"[Zuboff, in @farrell-2017-shoshana n.pag.] There is no _outside_ because it is not an institutional building, and there is "no zone of life that is not being infiltrated."[Zuboff, in @farrell-2017-shoshana n.pag.] These two dancing people are being directed by an invasive all-seeing yet blind machine that carries the "colonizing forces of algorithmic logic."[@morrison-2019-algorithms p.10]
 
 But it's not so simple is it? This machine was programmed. The algorithms -- opinions "formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] -- were created by _someone_, perhaps more than one person: a cloud of choreographers-as-developers; unseen, hidden. American author/blogger Seth Godin writes, "The folks with the power are the anonymous engineers, tweaking algorithms without clear awareness of what the impact might be."[@godin-2021-tiktok n.pag.] It is improbable that those software developers could imagine how their code in Kotlin, Java, Swift or Objective C would prescribe the way these two people were dancing. 
 
-At the same time, I do not want to overestimate the sophistication of their mathematics; it is more a question of how few data points are required for us to reveal ourselves. The Wall Street Journal recently found that although shares, likes, follows and the things you watch play a role in determining one's FYP (For You Page) on TikTok, the platform needs only one piece of data to "figure you out": "how long you linger over a piece of content."[@wallstreetjournal-2021-how n.pag.]
+At the same time, I do not want to overestimate the sophistication of their mathematics; very few data points are required for us to reveal ourselves. The Wall Street Journal recently found that although shares, likes, follows and the things you watch play a role in determining one's FYP (For You Page) on TikTok, the platform needs only one piece of data to "figure you out": "how long you linger over a piece of content."[@wallstreetjournal-2021-how n.pag.]
 
 This is one of the tremendous paradoxes of our time: it undermines the binary of the focal thing vs device paradigm. or is it freedom v security (and safety) - Baumann?
 
@@ -121,7 +121,7 @@ In _Perpetual Motion: Dance, Digital Cultures, and the Common_ (2020) Harmony Be
 <https://en.wikipedia.org/wiki/Digital_Commons_(Elsevier)> (plenty of issues with them: <https://www.theatlantic.com/science/archive/2016/01/elsevier-academic-publishing-petition/427059/>)
 <https://en.wikipedia.org/wiki/Digital_commons_%28economics%29>
 
-Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play.  These two young people were certainly not  creating some content for our innocent digital commons.
+Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play.  These two young people were certainly not creating some content for our innocent digital commons. To even call it commons is to trivialise the mechanism. Gloss over. Veneer. 
 
 
 
@@ -140,6 +140,8 @@ Their freedom to play and make was curtailed. They have been coerced under the i
 > And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
 
 > According to the civic ideal, the common good is not simply about adding up preferences or maximizing consumer welfare. It is about reflecting critically on our preferences—ideally, elevating and improving them—so that we can live worthwhile and flourishing lives. This cannot be achieved through economic activity alone. It requires deliberating with our fellow citizens about how to bring about a just and good society, one that cultivates civic virtue and enables us to reason together about the purposes worthy of our political community.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
+
+- economic activity ties back to how all tech is economic. See above and also below. 
 
 ## Device paradigm, focal things and dancing reserve
 
@@ -211,7 +213,7 @@ Harari: deindividuation of the individual (from Talking Politics on Arendt?) int
 
 > The rise of the so-called internet of everything—which involves the incorporation of networked sensors and actuators into everything in the world, including human beings—could enable rational integration and coordination at an unprecedented scale. The historian Yuval Noah Harari argues in his book Homo Deus (2016) that this technology enables the deindividuation of humans into a collective. [Danaher, John & Petersen, Steve. (2020). In Defence of the Hivemind Society. Neuroethics. 10.1007/s12152-020-09451-7.]
 
-- collective as standing reserve?  Connected (not community) - bauman 
+- collective as standing reserve?  Connected (not community) - bauman. Collective as "common". Ambiguity of word common.
 
 ## Technopoly and myth
 
