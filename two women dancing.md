@@ -20,6 +20,26 @@ Can I discuss paradox of the situation in terms of device paradigm and focal thi
 - theme of hidden. See also Jacobs and hidden: [[Jacobs - After Technopoly#^518461]]. 
 - think through [[moral and ethical implications of our tools]] as overview of my thinking in this writing -- as a way of narrowing its focus (or perhaps a question at the start of each section?)
 - note also [[future responsibility and stewardship]] (Jacobs discussing Jonas and Berry)
+- Harari: deindividuation of the individual (from Talking Politics on Arendt?) into a collective:
+
+> The rise of the so-called internet of everything—which involves the incorporation of networked sensors and actuators into everything in the world, including human beings—could enable rational integration and coordination at an unprecedented scale. The historian Yuval Noah Harari argues in his book Homo Deus (2016) that this technology enables the deindividuation of humans into a collective. [Danaher, John & Petersen, Steve. (2020). In Defence of the Hivemind Society. Neuroethics. 10.1007/s12152-020-09451-7.]
+
+- logic of consumption (see <https://notesread.com/liquid-modernity/> disguised as a mode of production. The danger in valorizing their making -- their creativity. 
+
+> And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
+
+> According to the civic ideal, the common good is not simply about adding up preferences or maximizing consumer welfare. It is about reflecting critically on our preferences—ideally, elevating and improving them—so that we can live worthwhile and flourishing lives. This cannot be achieved through economic activity alone. It requires deliberating with our fellow citizens about how to bring about a just and good society, one that cultivates civic virtue and enables us to reason together about the purposes worthy of our political community.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.] 
+
+- collective as standing reserve?  Connected (not community) - bauman (more like hist [[swarms in liquid modernity]]). Collective as "common". Ambiguity of word common.
+- part of the awe is the sense of their dancing being _with_ others. That they are networked -- no, this isn't the right word. They are together. Close. Sharing. Seeing and being seen. But see Bauman (<https://notesread.com/liquid-modernity/>) on 'connection' -- and how disconnecting becomes so easy. 
+
+Function is data extraction. Simple. But something awe-inspiring as well. Humans making. 
+
+To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed.
+
+McLuhan's 'global village' (1964) – what kind of village is this? 
+
+> While the concepts of awe and wonder have a long history in philosophy and religion, James and Maslow helped bring them to psychology. Today, much of the contemporary investigation of awe stems from a 2003 paper, “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion,” written by Dacher Keltner and Jonathan Haidt.47 The authors argued that there are two main cognitive appraisals that are central to awe experiences: the perception of vastness and the struggle to mentally process the experience. Vastness need not be perceptual, such as seeing the Grand Canyon, but can also be conceptual, such as contemplating eternity. Awe is an unusual and complex emotion because it mixes emotions that don’t tend to go with each other, such as ecstasy and fear.[@kaufman-2020-transcend Chapter 7 Peak Experiences n.pag.]
 
 ## Abstract
 
@@ -60,9 +80,7 @@ The assumption on which this writing rests is that what I saw that day was not t
 
 invisible hand (Adam Smith) -- with a difference. 
 
-My assumption effectively renders these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. People dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. Volume 12 of IJSD is testimony to the fact that these cultural levers and patterns of social media technologies are deeply embedded in screendance practices.[e.g. @blancoborelli-2021-tiktok; @benthaus-2021-this] 
-
-It's worth bearing in mind, even at this early stage of this article, that all technologies -- including those of social media -- are developments "largely oriented economically to profit-making"[@weber-1978-economy Part 1, p.67] and that "technology was, is, and always will be an expression of the economic objectives that direct it into action."[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.] 
+My assumption effectively renders these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. People dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. Volume 12 of IJSD is testimony to the fact that social media technologies are cultural levers and patterns deeply embedded in screendance practices.[e.g. @blancoborelli-2021-tiktok; @benthaus-2021-this] 
 
 ## Algorithmic choreography
 
@@ -70,22 +88,22 @@ _In which I ... _
 
 > embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
 
-In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I saw their movement-performances-on-repeat without the need to scroll or refresh, and I can imagine their video ghosts on a small screen: the framing, the dancing, the music, the virtual stickers, the desire to share and be seen.
+In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I saw their movement-performances-on-repeat without the need to scroll or refresh, and I can imagine their video likenesses on a small screen: the framing, dancing, music, and virtual stickers, and the desire to share and be seen.
 
 I suspect though that they did not set out to make a screendance the way IJSD readers might understand an _intention_ to make a screendance. Rather, the screendance was more made _on_ them, and without them being aware of -- nor probably caring about -- the coercion. Who is doing the choreography here? These are ways of moving shaped by a machine that doesn't see how these young people are dancing, it doesn't need to. It is not an all-seeing machine of an invisible state. Rather, it is a commercial machine that has "blown by the panopticon"[Zuboff, in @farrell-2017-shoshana n.pag.] There is no _outside_ because it is not an institutional building, and there is "no zone of life that is not being infiltrated."[Zuboff, in @farrell-2017-shoshana n.pag.] These two dancing people were being directed by an invasive all-seeing blind machine that carries the "colonizing forces of algorithmic logic."[@morrison-2019-algorithms p.10]
 
-But it's not so simple is it? This machine was programmed. The algorithms -- opinions "formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] -- were created by _someone_, perhaps more than one person: a cloud of choreographers-as-developers; unseen, hidden. American author/blogger Seth Godin writes, "The folks with the power are the anonymous engineers, tweaking algorithms without clear awareness of what the impact might be."[@godin-2021-tiktok n.pag.] It is improbable that those software developers could imagine how their code in Kotlin, Java, Swift or Objective C would prescribe the way these two people were dancing. 
+But it's not so dystopic is it? After all, this machine was programmed. The algorithms -- opinions "formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] -- were created by _someone_, perhaps more than one person: a cloud of choreographers-as-developers; unseen, hidden. American author/blogger Seth Godin writes, "The folks with the power are the anonymous engineers, tweaking algorithms without clear awareness of what the impact might be."[@godin-2021-tiktok n.pag.] It is improbable that those software developers could imagine how their code in Kotlin, Java, Swift or Objective C would prescribe the way these two people were dancing. 
 
-At the same time, I do not want to overestimate the sophistication of their mathematics; very few data points are required for us to reveal ourselves. The Wall Street Journal recently found that although shares, likes, follows and the things you watch play a role in determining one's FYP (For You Page) on TikTok, the platform needs only one piece of data to "figure you out": "how long you linger over a piece of content."[@wallstreetjournal-2021-how n.pag.]
+At the same time, I do not want to overestimate the sophistication of their mathematics; very few data points are required for us to reveal ourselves through social media. The Wall Street Journal recently found that although shares, likes, follows and the things you watch play a role in determining one's FYP (For You Page) on TikTok, the platform needs only one piece of data to "figure you out": "how long you linger over a piece of content."[@wallstreetjournal-2021-how n.pag.]
 
 ## Being in (the) common
 - [[swarms in liquid modernity]]
 
 In 2000, the Polish sociologist Zygmunt Bauman described a liquid-modern society in which the balance has tilted far from the societal improvement for the common good "towards the self-assertion of the individual."[@bauman-2000-liquid p.29] In liquid modernity, the public sphere has become one of the "many spoils of deregulation, privatization, individualization, of the conquest and annexation of the public by the private."[@bauman-2008-does p.28]
 
-These two young people are in a public sphere that in the UK is called a common. Such spaces are owned privately, or by local councils or the National Trust. They have simple and reasonably relaxed rules, and are protected, cared for, and open. They are one of few areas in the UK not overwhelmed by CCTV. Yet within this particular public space on that day in March 2021, the public dances performed by these two people have been annexed by privately owned algorithms. This public-private paradox of the commons is a direct part of what social psychologist Shoshana Zuboff calls surveillance capitalism, that deploys "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff-2019-age Chapter 1] The purpose of these hidden extractive operations is to predict our future behaviors and to sell those predictions to advertisers. This mostly hidden economy functions because data and advertising rule the world's economy.[@noauthor-2017-world] 
+These two young people were in a public sphere that in the UK is called a common. Such spaces are owned privately, or by local councils or the National Trust. They have simple and reasonably relaxed rules, and are protected, cared for, and open. They are one of few areas in the UK not overwhelmed by CCTV. Yet within this particular public space on that day in March 2021, the public dances performed by these two people were annexed by privately owned algorithms. This public-private paradox of the commons is a direct part of what social psychologist Shoshana Zuboff calls surveillance capitalism, that deploys "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[@zuboff-2019-age Chapter 1] The purpose of these hidden extractive operations is to predict our future behaviors and to sell those predictions to advertisers. This mostly hidden economy functions because data and advertising rule the world's economy.[@noauthor-2017-world] 
 
-In _Perpetual Motion: Dance, Digital Cultures, and the Common_ (2020) Harmony Bench describes and analyzes the role of digital technologies in global participation and circulation of dances. She writes that "regardless of whether gestures should circulate freely across moving bodies, they most certainly do."[@bench-2020-perpetual p.160] Bench employs the understanding of lens for her thinking is that of the common, not as a shared resource, but 
+In _Perpetual Motion: Dance, Digital Cultures, and the Common_ (2020) Harmony Bench describes and analyzes the role of digital technologies in global participation and circulation of dances. She writes that "regardless of whether gestures should circulate freely across moving bodies, they most certainly do."[@bench-2020-perpetual p.160] Bench employs the understanding of lens for her thinking is that of the common, not as a shared resource, but **add hardt and negri here, then detail her position in relation to circulation, and my sense is that she is missing the broader context. Like a "yes and" situation.** What was called by Neil Postman "Technopoly". Finish section at that point.
 
 ... She suggests that what makes dances public "is as much about exposure to onsite spectators (who may not actually be the target audience) as it is about dancing in venues that are available and accessible to the general public."[@bench-2020-perpetual p.64] These kinds of dances in public use the digital commons to circulate and provide audiences.[@bench-2020-perpetual] Need to critique digital commons? Bench's digital commons are distinct from these: <https://en.wikipedia.org/wiki/Digital_commons_%28economics%29>; <https://en.wikipedia.org/wiki/Digital_Commons_(Elsevier)> (plenty of issues with them: <https://www.theatlantic.com/science/archive/2016/01/elsevier-academic-publishing-petition/427059/>)
 
@@ -93,24 +111,27 @@ In _Perpetual Motion: Dance, Digital Cultures, and the Common_ (2020) Harmony Be
 > Whereas Burt posits the commons of contemporary dance, I employ Michael Hardt and Antonio Negri’s language of the common to distinguish my usage from a default understanding of the commons as a shared resource.[p.5]
 
 
-
 > Even though Happy circulates within a commercial economy, it simultaneously activates (and is amplified by) an internet gift economy, where digital platforms cultivate and capture the circulation of intangible commodities such as the embodied objects of gesture and movement.[p.171]
+
+- commodities might be intangible, but that is forgetting the real economy going on here. It's like watching two fish fight over a piece of bread in a pond that is being poisoned by a landowner for their private good. this isn't quite right. It's more that the fish are producing something that is shared around the pond, but how the pond is constructed shapes how they move, and is poisoning them?? I'm suggesting we must zoom out. That, to squeeze too much out of my metaphor, the bread (the gestures) are inconsequently, and how it is made and squabbled over is a level of dialogue too low.
 
 > In their book Commonwealth, Hardt and Negri note the inadequacy of the commons as both precedent and metaphor for contemporary reinvestments in a cultural commons. They write instead of the common, of which they posit two main types: the “natural” common of limited resources, such as land, air, and water, and the “artificial” common “that resides in languages, images, knowledges, affects, codes, habits, and practices” as well as gestures.8 They define the common as “those results of social production that are necessary for social interaction and further production.”9 Ideas, customs, and practices that are collectively generated and make it possible to live together are exemplars of the artificial common.[@bench-2020-perpetual p.5]
 
 > In approaching dance as common, it is necessary to continuously examine how the common repackages ideologies of freedom and universal access in the project of proliferating and circulating movement, while simultaneously acknowledging how dancing can craft a sense of mutual belonging through the sharing of movements and gestures.[@bench-2020-perpetual p.8]
 
+- above is getting at HB's ambivalence (or the paradox)
+
 > I similarly find that digital media, especially the space of the internet, offer contemporary performative commons in which individuals both perform and contest their belonging through practices such as dance.[p.8]
 
 > Employing the lens of the common allows me to approach the ways dancers corporeally and rhetorically configure dance within digital cultural practices. What can dance, movement, and gesture afford—and what conflicts arise—when they are perceived as common or utilized to enact a common? How, why, and for whom are assertions of dance as common meaningful in digital contexts?[p.9]
 
-But what is it that these women are asserting? They are being asserted. What freedoms are being performed here? I worry that Bench does not grapple with how both sides of her _common_ paradox -- belonging and illusions of openness of freedom -- are controlled by Big Tech.  
-
-
+But what is it that these women are asserting? They are being asserted. What freedoms are being performed here? I worry that Bench does not grapple with how both sides of her _common_ paradox -- belonging and illusions of openness of freedom -- are controlled by Big Tech.  See HB below -- she hints at this, what might it even mean to 'make' or 'create' something under such conditions? Something is being circulated -- and HB deals with this beautifully. 
 
 - she describes the sense of an open commons that has been financialized? See Randy Martin in [[Bench - Perpetual Motion#^2630fc]]
 
-> It is not my intention, then, to posit the common of dance as an antidote to cultural appropriation or capitalist expropriation. Instead, I explore the common as a model for understanding how dance circulates through early twenty-first-century digital cultures and what happens when technologically enabled decontextualization allows dancers to bypass the social norms that sustain a movement culture.[@bench-2020-perpetual p.160]
+> It is not my intention, then, to posit the common of dance as an antidote to cultural appropriation or capitalist expropriation. Instead, I explore the common as a model for understanding how dance circulates through early twenty-first-century digital cultures and what happens when **technologically enabled decontextualization** allows dancers to bypass the social norms that sustain a movement culture.[@bench-2020-perpetual p.160]
+
+that tech enabled decontextualisation is interesting. Implies a distancing. Invisbility. or absence. Need to look more at in HB book. degrees of invisibility? 
 
 - [[Bench - Perpetual Motion#^3fb97b]]
 
@@ -118,54 +139,142 @@ But what is it that these women are asserting? They are being asserted. What fre
 - what of externalities?  
 
 
-- should I talk about virality (that there's hope there). [[Blitz - Understanding Heidegger on Technology#^05e7db]]. It's still producing a virus (it just might not be a successful virus)
+- should I talk about virality (that there's hope there). [[Blitz - Understanding Heidegger on Technology#^05e7db]]. It's still producing a virus (it just might not be a successful virus). See also revealing but also challenging-forth in [[Waddington - A Field Guide to Heidegger#^e6b68f]] -- it leaves me with a great deal of sadness. 
 
 
 But perhaps the biggest oversight is Bench is describing these digital commons as a mechanism for distribution and circulation. 
 
 Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play.  These two young people were certainly not creating some content for our innocent digital commons. To even call it commons is to trivialise the mechanism. Gloss over. Veneer. 
 
-- thinking about virality, and the viral load of their dance. That is, what is carried or infected. Vast host. Leviathon. we are the virus. we are the infectious agent. by watching we are how the true pathological agent thrives. cross-talk between host and virus. 
-- habitat: social networks
-- mode of transmission: Vector transmission -- we are the vectors. But this virus collects information as it passes from one host to another. We are not infected. 
-- host: mobile phone? 
-- immune system? 
-- Imagine an ecosystem in which millions of viruses (and/or mutations of previous viruses) are produced every day. How many just on TikTok? How many dance? It is humans that produce these viruses. The system for transmission is a 'vector transmission'. Instead of mosquitoes carrying malaria, it is also humans who transmit these new viruses. We produce and transmit viruses. We are not harmed by the virus (at least on the surface). Each virus is hosted on a mobile phone that is connected to a vast global network and humans transmit that virus around that network. The habitat is social networks. Perfect conditions, perfectly resistant to any form of outside interference or compromises. Addictive. Potential Weakness is reliance on vector transmissions of viruses (by humans). That is, if humans stopped passing the virus onto others the habitat would disappear. The habitat is dependent on the presence of viruses. It would not exist without them. That's curious. The virus is less dependent on the social network habitat than the other way around. Without the network the virus still has a host (mobile) and can still be transmitted (through human sharing), but just not to scale. It's still a virus, but less likely to go viral! But all of this, ALL of this is made possible by massive massive organisms that more or less control the entire ecosystem. These are the leviathans of our time: mostly unregulated. The system of control is algorithmic. What's more, these organisms have an open secret -- each time a human views a virus or transmits (shares) a virus, these organisms extract information from the transmitters (we humans) that does two things: a) increases the desire of humans to produce and transmit more viruses; b) nourishes the organism by providing data that they can sell (to other humans who also produce viruses).  I couldn't dream of such a Thing
-- Can jump across different kinds of hosts (OS platforms) 
+For all HB is saying about the implicit value of the circulation of gestures, all technologies -- including those of social media -- are developments "largely oriented economically to profit-making"[@weber-1978-economy Part 1, p.67] and that "technology was, is, and always will be an expression of the economic objectives that direct it into action."[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.] 
+
+When we dance with technologies, we dance with profit-making. And perhaps we are only ever dancing with technologies? See all my notes here from Dance after Lockdown prep, reading and writing (on creative industries, McRobbie, Ladkin, eco-system, etc). Contrasts with Lepecki in Singularities.
+
+## Technopoly, myth and going into hiding
+
+_and call on Alan Jacobs' understanding of the value of myth in the technopoly._
+
+The technology skeptic Neil Postman coined a word, technopoly, which he describes as "the submission of all forms of cultural life to the sovereignty of technique and technology."[@postman-1993-technopoly p.52] **add here**. 
+
+In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ and, like much of his thinking, it calls attention to the power and value of myth making. Jacobs describes how technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs_after_2019 p.4] Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. It is those of us "who practice moral life by habits of affection, not by rules."[@jacobs_after_2019 p.4] For Kołakowski, the mythical core of culture are those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-after p.3] In other words, the mythical core -- "a way of connecting with nonempirical unconditioned reality"@jacobs-2019-after p.3] -- is unable to be pressed into the logic of technology no matter our rational capacities. 
+
+This interplay between rationalism and myth is a key aspect of Jacobs' thinking. He argues that technocratic rationalism cannot be avoided but rather transcended: "that there is something better, not in opposition to it, but on the other side of it. Something that will in time emerge."[@jacobs-2019-after p.13] This all sounds so easy, but Jacobs also warns that the place for transcending technopoly will be "a hidden place" because if transnational technopoly can hunt you down and root you out, it will; and it probably can.[@jacobs-2019-after p.13]
+
+Shoshana Zuboff also talks about hiding, and her thinking is similarly bleak when it comes to the future. She writes of the terrible danger that we become accustomed to either life without privacy or the necessity to hide from being seen. She suggests that both alternatives -- total transparency or hiding underground -- "rob us of the life-sustaining inwardness, born in sanctuary, that finally distinguishes us from the machines."[@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.] Her perspective is that surveillance capitalism has compromised "our elemental right to the future tense"[@zuboff-2019-age Chapter 6.VI The Power of the Unprecedented: A Review, n.pag.]. This is the right to make moral decisions free from forces that modify and exploit our behavior, and that function beyond our awareness.
+
+So what kind of hiding might function for our future? 
+
+## Hidden in the future
+
+_In which I zoom out into the future to remember a screendance and consider what it might mean for those of us here in the present._
+
+> [The Robber Barons'] greatest achievement was in convincing their countrymen that the future need have no connection to the past.[@postman-1993-technopoly p.54]
+
+> On a long enough timeline, everything becomes obsolete.[@millburn-2021-love n.pag.] 
+
+The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From "fast and attention-getting to slow and powerful"[@brand-2008-clock p.36] the six levels are: fashion/art, commerce, infrastructure, governance, culture and nature. Brand writes how the role of fashion and art is essentially to be "quick, irrelevant, engaging, self-preoccupied, and cruel"[@brand-2008-clock p.36] whereas the "vast slow-motion dance"[@brand-2008-clock p.38] of culture operates through centuries and millennia. Brand suggests that together these distinct and contradictory pace layers provide internal negative feedback that stabilizes and affords the health of civilization. 
+
+So now I'm going to attempt to zoom out in time to the pace of _culture_ according to Brand's levels. It is a level or place where time as chronos operates akin to Danny Hillis' _10,000-year clock_ or _The Clock of the Long Now_.[@hillis-1995-millennium] [^ack1] 
+
+[^ack1]: I first read of Hillis' work in Brian Eno's _A Year with Swollen Appendices_ (1995), but was reminded of his work (and Stewart Brand's) while reading Douglas Rushkoff's book _Present Shock_ (2013). This is to acknowledge their influence on this section of the article.
+
+Those two young people have grown up, lived their lives and are gone. They are probably survived by family, but maybe not. I am long dead. Perhaps the park is still there? It is common land so hopefully it has not been developed; but I am doubtful. There are parts of the teenagers' phones from 2021 that are still on the planet in some form: lithium, copper, gold, lead, zinc, etc; elemental fragments of devices that once afforded some public dancing back in 2021 during the pandemic that is almost forgotten. For the most part these elements are in landfill. Those software companies that wielded algorithms to reach through the smartphone to choreograph that dancing are long gone too; I can no longer remember their names. They were once so certain and stable; omnipresent. Their algorithms disappeared with them, and have been replaced by old mathematics rethought and recompiled.
+
+I feel none of the vertigo that American media theorist Douglas Rushkoff suggested I might feel if I were to zoom so far out.[-@rushkoff-2013-present] I notice the stillness and slowness, and the absence of sniping chatter. In that stillness I remember seeing a screendance by Annie Pfingst and Helen Poynor called _in Memoriam_ that was first screened in 2016.[-@poynor-2016-memoriam] I saw it at the Light Moves Festival of Screendance in 2018; such a long time ago. This is a film that -- according to Brand's thinking -- is the scale of art operating at the pace of nature. It is kryptonite to that old platform called TikTok that people once used. In the film a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key memory is of the tapestry of the terrain, and of the passing of time. But that was no ordinary time that was passing, even under the machinations and co-ordinates of the long now. 
+
+_in Memoriam_ is—or is it _was_?—a film that treasures myth and seems to resist and transcend technopoly. It is a film in a _hidden place_ in plain sight. It is unable to be rooted out, even as the dancer Helen Poynor is enmeshed in the roots of trees and of nature. It exists through its edit and feel in an 
+_other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
+
+Hidden, seemingly unable to be rooted out. The way it resists time as well (see below notes about long time). That film speaks to those qualities. 
+
+Here, as I write, long into the future, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection, a place by which we recognize the slowness of culture, and the creep of nature. A place where others like us sought shelter, protection and safety. It is, after all, worth remembering that the feeling of safety makes it possible for us to "dare to choose the unknown."[@maslow-2011-psychology p.67]   
+
+This is the kind of screendance that recognizes and understands modes of production and presentation, and pursues new modes. It's grounded in making and process yet somehow manages to avoid the feeling that it was designed for consumption. How can that be? What sleight of hand is at play? The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
+
+Then, centuries later, screendance emerged out of the rubble of humankind's dance with the technological singularity. The singularity -- which did not end up happening -- once described the point at which "ever-more-rapid technological change leads to unpredictable consequences"[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017 Yuk Hui was calling a pipedream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
+
+>And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
+
+- thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game -- posting to TikTok.
+
+Perhaps then screendance ought to stay hidden in plain sight. That there is tremendous value in seeking ways to bypass the bleakest of bleak pictures.
+
+Looking into the "possibility of different technological futures" [[Hui - Cosmotechnics as Cosmopolitics#^06b080]] -- this is really beautiful. That we are aware. Implications for screendance? 
+
+"The Anthropocene is the planetarization of standing reserves"[@hui-2017-cosmotechnics n.pag.]
+"To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option."[@hui-2017-cosmotechnics n.pag.]
+
+## The future common
+
+This screendance feels different from "life versus the machine" [[technopoly in the west deploys carrots rather than sticks#^448207]].
+
+- not saying people should all make films like this one. I don't mean for this to be a question or matter of taste. 
+- no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below). 
+- can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life#^ca4c17]]
+
+Yuk Hui's work is to be with philosophy in a way that mine can never be, nor never way.For this reason, I need or rely on his thinking and writing for he is able to think and write philosophically far better than me. What he says here ... _in Memoriam_ does this work. It is not caught in a bubble of screendance; it resists culture. It is heterogenuous. Screendance is a small enough field -- and collection of practices -- to interrograte and indeed resist modes of production and presentation. The field has talked about this for years (examples) but if not now then when? To come out of hiding. To lead. (promise to the future).
+
+See also [[Gelassenheit]] -- Gelassenheit is translated as _releasement_ or _letting go_; "to let things be in whatever may be their uncertainty and their mystery".
+
+> For Projectors and futurists, “all the grand perfect dreams of the technologists are happening in the future, but nobody is there.” Their imagined world is devoid of actual persons and much of the rest of Creation as well.15 But if one is not to be a Projector, what better attitude might one have toward the future? For Berry, the vital distinction is between projecting and promising: “The ‘projecting’ of ‘futurologists’ uses the future as the safest possible context for whatever is desired; it binds one only to selfish interest. But making a promise binds one to someone else’s future.” It is this distinction that points us toward means of fulfilling Jonas’s “imperative of responsibility.”[@jacobs-2018-tending n.pag.]
+
+"the human agency necessary for moral judgment"[@zuboff-2019-age Chapter 16.V Homing to the Herd n.pag.]
+
+> The complexities of social media ought to prompt deep reflection on what we all owe to the future, and how we might discharge this debt.[@jacobs-2018-tending n.pag.]
+
+> The problem comes when, by living in conditions of such dependence, you forget that there’s any other way to live—and therefore cannot teach another way to those who come after you. Your present-day social-media ecology eclipses the future social-media ecology of others.[@jacobs-2018-tending n.pag.]
+
+> As much as networked technology has dismantled and distributed power in more egalitarian ways, it has also extended and obscured power, making it less visible and, arguably, harder to resist.[Astra Taylor, in @jacobs-2018-tending n.pag.]
+
+ > Training young people how to live and work extramurally—to limit their exposure to governance via terms of service and APIs—is a vital hedge against this future.[@jacobs-2018-tending n.pag.]
+
+## Thanks
+
+Bob Whalley -- introducing me to Yuk Hui's book _The Question Concerning Technology in China_ (which appeared at nearly the same time in some writing I found by Alan Jacobs.) Instance of [[Baader-Meinhof phenomenon]]? People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas. 
+
+# Edit bin
 
 
-- logic of consumption (see <https://notesread.com/liquid-modernity/> disguised as a mode of production. The danger in valorizing their making -- their creativity. Social media leviathan.
-- between productive and (failed) distributive economies.  (Sandel)
 
-> And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
+> if there is a place in the world for those who treasure a myth that claims to transcend technopoly, it will be, at best, a hidden place. If transnational technopoly can hunt you down and root you out, it will; and it probably can.[@jacobs-2019-after p.13]
 
-> According to the civic ideal, the common good is not simply about adding up preferences or maximizing consumer welfare. It is about reflecting critically on our preferences—ideally, elevating and improving them—so that we can live worthwhile and flourishing lives. This cannot be achieved through economic activity alone. It requires deliberating with our fellow citizens about how to bring about a just and good society, one that cultivates civic virtue and enables us to reason together about the purposes worthy of our political community.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
 
-- economic activity ties back to how all tech is economic. See above and also below. 
+> These new architectures feed on our fellow feeling to exploit and ultimately to suffocate the individually sensed inwardness that is the wellspring of personal autonomy and moral judgment, the first-person voice, the will to will, and the sense of an inalienable right to the future tense. That we vibrate to one another should be a life-enhancing fact, but this third modernity amplifies our mutual vibration to an excruciating pitch. In the milieu of total instrumentation, it is less that we resonate to one another’s presence and more that we drown in its inescapability.[@zuboff-2019-age Chapter 15.IV The Third Modernity of the Hive n.pag.]
+
+>These operations challenge our elemental right to the future tense, which is the right to act free of the influence of illegitimate forces that operate outside our awareness to influence, modify, and condition our behavior. We grow numb to these incursions and the ways in which they deform our lives. We succumb to the drumbeat of inevitability, but nothing here is inevitable. Astonishment is lost but can be found again.[@zuboff-2019-age Chapter 6.VI The Power of the Unprecedented: A Review, n.pag.]
+
+
+Zuboff describes how young people "are the spirits of a Christmas Yet to Come. They live on the frontier of a new form of power that declares the end of a human future, with its antique allegiances to individuals, democracy, and the human agency necessary for moral judgment. Should we awaken from distraction, resignation, and psychic numbing with Scrooge’s determination, it is a future that we may still avert."[@zuboff-2019-age Chapter 16.V Homing to the Herd n.pag.]
+
+> hiding risks becomes an adaptation when it should be a rallying point for outrage. _These conditions are unacceptable. Tunnels under this wall are not enough. This wall must come down._ [@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.]
+
+
+> By contrast, the mythical core of culture is that aspect of experience that is not subject to manipulation, because it is prior to our instrumental reasoning about our environment. Throughout human civilization, says Kołakowski, people have participated in myth -- they may call it "illumination" or "awakening" or something else -- as a way of connecting with "nonempirical unconditioned reality." It is something we enter into with our full being, and all attempts to describe the experience in terms of desire, will, understanding, or literal meaning are ways of trying to force the mythological core into the technological core by analyzing and rationalizing myth and pressing it into a logical order.[@jacobs-2019-technopoly p.3]
+
+> Technopoly is a system that arises within a society that views moral life as an application of rules but that produces people who practice moral life by habits of affection, not by rules. (Think of Silicon Valley social engineers who have created and capitalized upon Twitter outrage mobs.) Put another way, technopoly arises from the technological core of society but produces people who are driven and formed by the mythical core.[@jacobs_after_2019 p.4]
+
+
+
+> "Technology" for Kołakowski is something broader than we usually mean by it. It describes a stance toward the world in which we view things around us as objects to be manipulated, or as instruments for manipulating our environment and ourselves.[p.3]
+
+> By contrast, the mythical core of culture is that aspect of experience that is not subject to manipulation, because it is prior to our instrumental reasoning about our environment. Throughout human civilization, says Kołakowski, people have participated in myth --they may call it "illuminenation" or "awakening" or something else --as a way of connecting with "nonempirical unconditioned reality."[p.3]
+
+he uses the work of English political philosopher Michael Oakeshott and Polish philosopher Leszek Kołakowski to try and describe what might come after technopoly. Jacobs 
+
+- on acquiring moral life by habituation: [[Jacobs - After Technopoly#^ec599c]]
+
+- [[media are like metaphors]]
+-- see also [[Postman - Amusing Ourselves to Death#technological trade-offs and the printing press]] for note on the trade-offs of technology and also mention of Marx as excellent 'technological affordance' example.
+
 
 ## Device paradigm, focal things and dancing reserve
 
 > If the essence of technē is poiesis, or bringing forth (Hervorbringen), then modern technology, a product of European modernity, no longer possesses the same essence as technē but is rather an "enframing" (Gestell) apparatus, in the sense that all beings become standing reserves (Bestand) for it.[@hui-2017-cosmotechnics n.pag]
 
-When we dance with technologies, we dance with profit-making. And perhaps we are only ever dancing with technologies? See all my notes here from Dance after Lockdown prep, reading and writing (on creative industries, McRobbie, Ladkin, eco-system, etc). Contrasts with Lepecki in Singularities.
-
-This technological filter I have already (and perhaps unjustly) put on these two young people dancing creates one problem that will help frame what is to follow. And that is before even a vague discussion about how technology is and can be defined.
-
-I am already dancing around Martin Heidegger; it is a soft-shoe shuffle. Others have danced with him in this journal over the years ...
-
-They were indeed playing, and it likely clear that the technology and particularly the software was also playing them.  infinite game ... but with a brutal and less than benign heartbeat? [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. But I don't want to see it in this way. It's too easy, and requires so little effort from me as writer, and you as reader. This is the finite game we are all playing as digital technologies predicated on the attention economy play us. 
+ [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. 
 
 As social media subjects they are standing reserve; mere commodities for ... But as human beings, they are not.[@jacobs-2021-tech p.31]
 
-> Introducing the Bremen lectures, Heidegger observes that because of technology, "all distances in time and space are shrinking" and "yet the hasty setting aside of all distances brings no nearness; for nearness does not consist in a small amount of distance." The lectures set out to examine what this nearness is that remains absent and is "even warded off by the restless removal of distances." As we shall see, we have become almost incapable of experiencing this nearness, let alone understanding it, because all things increasingly present themselves to us as technological: we see them and treat them as what Heidegger calls a "standing reserve," supplies in a storeroom, as it were, pieces of inventory to be ordered and conscripted, assembled and disassembled, set up and set aside. Everything approaches us merely as a source of energy or as something we must organize. We treat even human capabilities as though they were only means for technological procedures, as when a worker becomes nothing but an instrument for production. Leaders and planners, along with the rest of us, are mere human resources to be arranged, rearranged, and disposed of. Each and every thing that presents itself technologically thereby loses its distinctive independence and form. We push aside, obscure, or simply cannot see, other possibilities.[@blitz-2014-understanding p.68]
-
-who is doing this treating? Am I treating these two women in this way by focusing on the standing reserve? No, it's really software. "loses its distinctive independence and form" -- this is the terrible worry. 
-I need to look for other possibilities. Is it presenting itself, or am I presenting it in this way? 
-
-
-Jacobs describes the Polish philosopher's definition of technology as being broader than we usually understand it, as "instruments for manipulating our environment and ourselves."[Kołakowski, in @jacobs-2019-technopoly p.3]. Manipulation in this sense is not necessarily a _bad_ thing. For example, each time we use a fork we are manipulating the environment such that we can eat.  
-
-(essentialist view of tech -- see Feenberg who describes lack of clarity as to whether we are discussing attitude towards technology or the design of technologies): [[Feenberg - From Essentialism to Constructivism#^ef59e7]]
 
 Kołakowski's definition of technology doesn't seem so clearly related to Hui's. It seems to fit most simply into a broad understanding of the world as being able to be manipulated or perhaps automated; a world which renders technologically-driven processes invisible. At a stretch, this connects Kołakowski's thinking with Heidegger's notion of enframing (Gestell), a process of revealing and which "all beings become standing reserve"[@hui-2017-cosmotechnics n.pag.] -- a term I will return to later in this writing. 
 
@@ -208,131 +317,22 @@ the technology faded into the background. The focal thing hid the device paradig
 
 - or something about spirit (their spirit), that in those few minutes, overwhelmed the tech. Something became possible. Something was illuminated through technological affordances. the smartphone became a hearth: enframed, and [[borgmann, effort and focal things]]. (really?) Terrible terrible paradox of our time. Much like Blanco-Borelli discusses. magic trick. 
 
+Jacobs describes the Polish philosopher's definition of technology as being broader than we usually understand it, as "instruments for manipulating our environment and ourselves."[Kołakowski, in @jacobs-2019-technopoly p.3]. Manipulation in this sense is not necessarily a _bad_ thing. For example, each time we use a fork we are manipulating the environment such that we can eat.  
 
-Harari: deindividuation of the individual (from Talking Politics on Arendt?) into a collective
+(essentialist view of tech -- see Feenberg who describes lack of clarity as to whether we are discussing attitude towards technology or the design of technologies): [[Feenberg - From Essentialism to Constructivism#^ef59e7]]
 
-> The rise of the so-called internet of everything—which involves the incorporation of networked sensors and actuators into everything in the world, including human beings—could enable rational integration and coordination at an unprecedented scale. The historian Yuval Noah Harari argues in his book Homo Deus (2016) that this technology enables the deindividuation of humans into a collective. [Danaher, John & Petersen, Steve. (2020). In Defence of the Hivemind Society. Neuroethics. 10.1007/s12152-020-09451-7.]
+> Introducing the Bremen lectures, Heidegger observes that because of technology, "all distances in time and space are shrinking" and "yet the hasty setting aside of all distances brings no nearness; for nearness does not consist in a small amount of distance." The lectures set out to examine what this nearness is that remains absent and is "even warded off by the restless removal of distances." As we shall see, we have become almost incapable of experiencing this nearness, let alone understanding it, because all things increasingly present themselves to us as technological: we see them and treat them as what Heidegger calls a "standing reserve," supplies in a storeroom, as it were, pieces of inventory to be ordered and conscripted, assembled and disassembled, set up and set aside. Everything approaches us merely as a source of energy or as something we must organize. We treat even human capabilities as though they were only means for technological procedures, as when a worker becomes nothing but an instrument for production. Leaders and planners, along with the rest of us, are mere human resources to be arranged, rearranged, and disposed of. Each and every thing that presents itself technologically thereby loses its distinctive independence and form. We push aside, obscure, or simply cannot see, other possibilities.[@blitz-2014-understanding p.68]
 
-- collective as standing reserve?  Connected (not community) - bauman. Collective as "common". Ambiguity of word common.
+who is doing this treating? Am I treating these two women in this way by focusing on the standing reserve? No, it's really software. "loses its distinctive independence and form" -- this is the terrible worry. 
+I need to look for other possibilities. Is it presenting itself, or am I presenting it in this way? 
 
-## Technopoly and myth
+But I don't want to see it in this way. It's too easy, and requires so little effort from me as writer, and you as reader. This is the finite game we are all playing as digital technologies predicated on the attention economy play us. 
 
-_and call on Alan Jacobs' understanding of the value of myth in the technopoly._
+This technological filter I have already (and perhaps unjustly) put on these two young people dancing creates one problem that will help frame what is to follow. And that is before even a vague discussion about how technology is and can be defined.
 
-- on acquiring moral life by habituation: [[Jacobs - After Technopoly#^ec599c]]
-- Note here about work this writing draws on. Jacobs, Hui.
-- part of the awe is the sense of their dancing being _with_ others. That they are networked -- no, this isn't the right word. They are together. Close. Sharing. Seeing and being seen. But see Bauman (<https://notesread.com/liquid-modernity/>) on 'connection' -- and how disconnecting becomes so easy. 
+I am already dancing around Martin Heidegger; it is a soft-shoe shuffle. Others have danced with him in this journal over the years ...
 
-> While the concepts of awe and wonder have a long history in philosophy and religion, James and Maslow helped bring them to psychology. Today, much of the contemporary investigation of awe stems from a 2003 paper, “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion,” written by Dacher Keltner and Jonathan Haidt.47 The authors argued that there are two main cognitive appraisals that are central to awe experiences: the perception of vastness and the struggle to mentally process the experience. Vastness need not be perceptual, such as seeing the Grand Canyon, but can also be conceptual, such as contemplating eternity. Awe is an unusual and complex emotion because it mixes emotions that don’t tend to go with each other, such as ecstasy and fear.[@kaufman-2020-transcend Chapter 7 Peak Experiences n.pag.]
-
-- similar to ambivalence ... blanco borelli. Awe at the lithium dance. 
-
-Possible to go to mythical core from [[Jacobs - After Technopoly]] -- do this via that long time/term version of what happened. A long time later. ?? (based on Jacobs)
-
->... technopoly arises from the technological core of society but produces people who are driven and formed by the mythical core.[@jacobs-2019-technopoly p.4] 
-
-- _how_ does it produce these people formed by the mythical core?
-
-> By contrast, the mythical core of culture is that aspect of experience that is not subject to manipulation, because it is prior to our instrumental reasoning about our environment. Throughout human civilization, says Kołakowski, people have participated in myth -- they may call it "illumination" or "awakening" or something else -- as a way of connecting with "nonempirical unconditioned reality." It is something we enter into with our full being, and all attempts to describe the experience in terms of desire, will, understanding, or literal meaning are ways of trying to force the mythological core into the technological core by analyzing and rationalizing myth and pressing it into a logical order.[@jacobs-2019-technopoly p.3]
-
-
-- [[media are like metaphors]]
--- see also [[Postman - Amusing Ourselves to Death#technological trade-offs and the printing press]] for note on the trade-offs of technology and also mention of Marx as excellent 'technological affordance' example.
-
->And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
-
-- thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game -- posting to TikTok.
-
-> if there is a place in the world for those who treasure a myth that claims to transcend technopoly, it will be, at best, a hidden place. If transnational technopoly can hunt you down and root you out, it will; and it probably can.[@jacobs-2019-technopoly p.13]
-
-Perhaps then screendance ought to stay hidden in plain sight. That there is tremendous value in seeking ways to bypass the bleakest of bleak pictures.
-
- 
-
-Function is data extraction. Simple. But something awe-inspiring as well. Humans making. 
-
-To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed.
-
->These operations challenge our elemental right to the future tense, which is the right to act free of the influence of illegitimate forces that operate outside our awareness to influence, modify, and condition our behavior. We grow numb to these incursions and the ways in which they deform our lives. We succumb to the drumbeat of inevitability, but nothing here is inevitable. Astonishment is lost but can be found again.[@zuboff-2019-age Chapter 6.VI The Power of the Unprecedented: A Review, n.pag.]
-
-> These new architectures feed on our fellow feeling to exploit and ultimately to suffocate the individually sensed inwardness that is the wellspring of personal autonomy and moral judgment, the first-person voice, the will to will, and the sense of an inalienable right to the future tense. That we vibrate to one another should be a life-enhancing fact, but this third modernity amplifies our mutual vibration to an excruciating pitch. In the milieu of total instrumentation, it is less that we resonate to one another’s presence and more that we drown in its inescapability.[@zuboff-2019-age Chapter 15.IV The Third Modernity of the Hive n.pag.]
-
-Zuboff describes how young people "are the spirits of a Christmas Yet to Come. They live on the frontier of a new form of power that declares the end of a human future, with its antique allegiances to individuals, democracy, and the human agency necessary for moral judgment. Should we awaken from distraction, resignation, and psychic numbing with Scrooge’s determination, it is a future that we may still avert."[@zuboff-2019-age Chapter 16.V Homing to the Herd n.pag.]
-
-My point here is to point to a different future. Hidden. But not in plain view. But see Zuboff here -- there's something more than hiding. Underground is not the anwer.
-
-> hiding risks becomes an adaptation when it should be a rallying point for outrage. _These conditions are unacceptable. Tunnels under this wall are not enough. This wall must come down._ [@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.]
-
-> The greatest danger is that we come to feel at home in glass life or in the prospect of hiding from it. Both alternatives rob us of the life-sustaining inwardness, born in sanctuary, that finally distinguishes us from the machines. This is the well from which we draw the capacities to promise and to love, without which both the private bonds of intimacy and the public bonds of society wither and die. If we do not alter this course now, we leave a monumental work for the generations that follow us. Industrial capitalism commandeered nature only to saddle the coming generations with the burden of a burning planet. Will we add to this burden with surveillance capitalism’s invasion and conquest of human nature? Will we stand by as it subtly imposes the life of the hive while demanding the forfeit of sanctuary and the right to the future tense for the sake of its wealth and power?[@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.]
-
-McLuhan's 'global village' (1964) – what kind of village is this? 
-
-> The complexities of social media ought to prompt deep reflection on what we all owe to the future, and how we might discharge this debt.[@jacobs-2018-tending n.pag.]
-
-> The problem comes when, by living in conditions of such dependence, you forget that there’s any other way to live—and therefore cannot teach another way to those who come after you. Your present-day social-media ecology eclipses the future social-media ecology of others.[@jacobs-2018-tending n.pag.]
-
-
-> Scholars, I might add, who, through their scholarship, can be accountable to the future—who, to borrow a phrase from W.H. Auden, can “assume responsibility for time.”[@jacobs-2018-tending n.pag.]
-
-> As much as networked technology has dismantled and distributed power in more egalitarian ways, it has also extended and obscured power, making it less visible and, arguably, harder to resist.[Astra Taylor, in @jacobs-2018-tending n.pag.]
-
- > Training young people how to live and work extramurally—to limit their exposure to governance via terms of service and APIs—is a vital hedge against this future.[@jacobs-2018-tending n.pag.]
-
-> For Projectors and futurists, “all the grand perfect dreams of the technologists are happening in the future, but nobody is there.” Their imagined world is devoid of actual persons and much of the rest of Creation as well.15 But if one is not to be a Projector, what better attitude might one have toward the future? For Berry, the vital distinction is between projecting and promising: “The ‘projecting’ of ‘futurologists’ uses the future as the safest possible context for whatever is desired; it binds one only to selfish interest. But making a promise binds one to someone else’s future.” It is this distinction that points us toward means of fulfilling Jonas’s “imperative of responsibility.”[@jacobs-2018-tending n.pag.]
-
-- maybe use language of my promise to the future
-
-## Hidden in the future 
-
-_In which I zoom out into the future to remember a screendance and consider what it might mean for those of us here in the present._
-
-[[Jacobs - from tech critique to ways of living]] -- this is amazing. ;-)
-
-The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From "fast and attention-getting to slow and powerful"[@brand-2008-clock p.36] the six levels are: fashion/art, commerce, infrastructure, governance, culture and nature. Brand writes how the role of fashion and art is essentially to be "quick, irrelevant, engaging, self-preoccupied, and cruel"[@brand-2008-clock p.36] whereas the "vast slow-motion dance"[@brand-2008-clock p.38] of culture operates through centuries and millennia. Brand suggests that together these distinct and contradictory pace layers provide internal negative feedback that stabilizes and affords the health of civilization. 
-
-So now I'm going to attempt to zoom out in time to the pace of _culture_ according Brand's levels. It is a level or place where time as chronos operates akin to Danny Hillis' _10,000-year clock_ or _The Clock of the Long Now_.[@hillis-1995-millennium] [^ack1] 
-
-[^ack1]: I first read of Hillis' work in Brian Eno's _A Year with Swollen Appendices_ (1995), but was reminded of his work (and Stewart Brand's) while reading Douglas Rushkoff's book _Present Shock_ (2013). This is to acknowledge their influence on this section of the article.
-
-> On a long enough timeline, everything becomes obsolete.[@millburn-2021-love n.pag.] 
-
-Those two young people have grown up, lived their lives and are gone. They are probably survived by family, but maybe not. I am long dead. Perhaps the park is still there? It is common land so hopefully it has not been developed; but I am doubtful. There are parts of the teenagers' phones from 2021 that are still on the planet in some form: lithium, copper, gold, lead, zinc, etc; elemental fragments of devices that once afforded some pleasurable dancing back in 2021 during the pandemic that is almost forgotten. For the most part these elements are in landfill. Those software companies that wielded algorithms to reach through the phone to choreograph or enframe that dancing are long gone too; I can no longer remember their names. They were once so certain and stable; omnipresent. Their algorithms disappeared with them, and have been replaced by old mathematics rethought and recompiled.
-
-I feel none of the vertigo that American media theorist Douglas Rushkoff suggested I might feel if I were to zoom so far out.[-@rushkoff-2013-present] I notice the stillness and slowness, and the absence of sniping chatter. In that stillness I remember seeing a screendance by Annie Pfingst and Helen Poynor called _in Memoriam_ that was first screened in 2016.[-@poynor-2016-memoriam] I saw it at the Light Moves Festival of Screendance in 2018; such a long time ago. This is a film that -- according to Brand's thinking -- is the scale of art operating at the pace of nature. It is kryptonite to that old platform called TikTok that people once used. In the film a single figure inhabits densely forested areas through different seasons. I don't remember there being much movement in the body; indeed my key memory is of the tapestry of the terrain, and of the passing of time. But that was no ordinary time that was passing, even under the machinations and co-ordinates of the long now. 
-
-_in Memoriam_ is—or is it _was_?—a film that treasures myth and seems to resist and transcend technopoly. It is a film in a _hidden place_ seemingly unable to be rooted out, even as the dancer Helen Poynor is enmeshed in the roots of trees and of nature. It exists through its edit and feel in an 
-_other_ time. Kairos (thinking that Hillis' clock opens up the terrain or space of myth)
-
-Hidden, seemingly unable to be rooted out. The way it resists time as well (see below notes about long time). That film speaks to those qualities. 
-
-Here, as I write, long into the future, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection, a place by which we recognize the slowness of culture, and the creep of nature. A place where others like us sought shelter, protection and safety. It is, after all, worth remembering that the feeling of safety makes it possible for us to "dare to choose the unknown."[@maslow-2011-psychology p.67]   
-
-This is the kind of screendance that recognizes and understands modes of production and presentation, and pursues new modes. It's grounded in making and process yet somehow manages to avoid the feeling that it was designed for consumption. How can that be? What sleight of hand is at play? The point of making. The craft of making. It resists production. Yet the tension, the paradox, the ambivalence remains. It was always and inevitably heading somewhere. extend this outwards in time ... 
-
-
-
-
-- not saying people should all make films like this one. I don't mean for this to be a question or matter of taste. 
-- no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below). Touches on his writing in [[Jacobs - After Technopoly]] as well -- in the final statements about myth (and discussion of the Mars trilogy book) 
-- can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life#^ca4c17]]
-
-Looking into the "possibility of different technological futures" [[Hui - Cosmotechnics as Cosmopolitics#^06b080]] -- this is really beautiful. That we are aware. Implications for screendance? 
-
-"The Anthropocene is the planetarization of standing reserves"[@hui-2017-cosmotechnics n.pag.]
-"To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option."[@hui-2017-cosmotechnics n.pag.]
-
-Then, centuries later, screendance emerged out of the rubble of humankind's soft-shoe-shuffle with the technological singularity. The singularity -- which did not end up happening -- once described the point at which "ever-more-rapid technological change leads to unpredictable consequences"[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017 Hui was calling a pipedream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
-
-Yuk Hui's work is to be with philosophy in a way that mine can never be, nor never way.For this reason, I need or rely on his thinking and writing for he is able to think and write philosophically far better than me. What he says here ... _in Memoriam_ does this work. It is not caught in a bubble of screendance; it resists culture. It is heterogenuous. Screendance is a small enough field -- and collection of practices -- to interrograte and indeed resist modes of production and presentation. The field has talked about this for years (examples) but if not now then when? To come out of hiding. To lead. 
-
-See also [[Gelassenheit]] -- Gelassenheit is translated as _releasement_ or _letting go_; "to let things be in whatever may be their uncertainty and their mystery".
-
-
-## Thanks
-
-Bob Whalley -- introducing me to Yuk Hui's book _The Question Concerning Technology in China_ (which appeared at nearly the same time in some writing I found by Alan Jacobs.)  Instance of [[Baader-Meinhof phenomenon]]. People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas.
-
-# Edit bin
+They were indeed playing, and it likely clear that the technology and particularly the software was also playing them.  infinite game ... but with a brutal and less than benign heartbeat?
 
 I find Bench's position on the digital commons somewhat confusing/ambiguous. The common is her fundamental lens to understand the transmission and circulation of dance. She recognises how the "participatory commons appeals as an alternative to the extractive neoliberal financial logics that govern much of contemporary life."[@bench-2020-perpetual p.4] equivocation? or just recognising the paradox? But why no mention of this is not an alternative at all. Touches on this 
 
