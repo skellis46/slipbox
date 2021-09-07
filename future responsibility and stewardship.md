@@ -16,6 +16,8 @@ He discusses the work of Hans Jonas -- who was mentored by Heidegger -- and in p
 
 Jacobs states that we must accept the responsibility of stewardship and that this depends on the distinction between projecting and promising. Whereas projecting is a way to make the future anything we might want it to be (what he calls "only selfish interest", promising "binds one to someone else’s future."[@jacobs_tending_2018 n.p.] He cites Wendell Berry who writes that, "We are speaking where we stand, and we shall stand afterwards in the presence of what we have said."[Berry, in @jacobs_tending_2018 n.p.]
 
+> Scholars, I might add, who, through their scholarship, can be accountable to the future—who, to borrow a phrase from W.H. Auden, can “assume responsibility for time.”[@jacobs-2018-tending n.pag.]
+
 _questions & thoughts:_
 
 - such tight resonances with my previous (published) writing on stewardship
