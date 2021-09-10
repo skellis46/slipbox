@@ -26,6 +26,8 @@ Can I discuss paradox of the situation in terms of device paradigm and focal thi
 
 - logic of consumption (see <https://notesread.com/liquid-modernity/> disguised as a mode of production. The danger in valorizing their making -- their creativity. 
 
+- invisible hand (Adam Smith) -- with a difference. 
+
 > And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
 
 > According to the civic ideal, the common good is not simply about adding up preferences or maximizing consumer welfare. It is about reflecting critically on our preferences—ideally, elevating and improving them—so that we can live worthwhile and flourishing lives. This cannot be achieved through economic activity alone. It requires deliberating with our fellow citizens about how to bring about a just and good society, one that cultivates civic virtue and enables us to reason together about the purposes worthy of our political community.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.] 
@@ -62,25 +64,23 @@ I am walking past them, wary of watching or intruding, but also captivated by th
 
 The dancing is mostly movement in the head and neck; rolling the head side to side around the frontal axis. They more or less do the same short sequence every time, as if they are trying to perfect the performance of the moves, or the recording of the performances. This trio of two young people and a smartphone are deep in their own world. Their game seems to be on repeat. The movement has a quality of being able to be reversed, repeated, or played back. Each dance is exquisitely brief, and not linear or forward seeking. It is as if there is a visual glitch in their matrix.
 
-By this stage I'm some way past where it is they are dancing. It has been no more than three minutes since I first saw them. 
+By this stage I am some way past where it is they are dancing. It has been no more than three minutes since I first saw them. 
 
 ## An assumption about what happened next
 
 _In which I introduce the central conceit (or assumption) of this article, the structure, and how any discussion of technology is a discussion about economics._
 
-In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such."[Rosenberg, in @mcpherson-2020-walking p.55] Then, Volume 12 of IJSD -- _This is where we dance now: COVID-19 and the new and next in dance onscreen_ -- acknowledged and celebrated screendance's undeniable visibility as people danced and watched dancing through screens during the SARS-CoV-2 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before SARS-CoV-2 acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283; see also @bench-2020-perpetual p.10]
+In Volume 11 of IJSD -- _Expanded Screendance_ -- Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such."[Rosenberg, in @mcpherson-2020-walking p.55] Then, Volume 12 of IJSD -- _This is where we dance now: COVID-19 and the new and next in dance onscreen_ -- acknowledged and celebrated screendance's undeniable visibility as people danced and watched dancing through screens during the SARS-CoV-2 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before the virus acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283; see also @bench-2020-perpetual p.10]
 
-These descriptions of the practices of screendance being variously hidden, revealed, circulated, and invasive are telling in how those of us interested in screendance narrate or construct its history and practices. Something will always be hiding (in plain sight) if there isn't yet a name for it, or the desire to do that naming. When we name anything we render it visible. 
+These descriptions of the practices of screendance being variously hidden, revealed, circulated, and invasive are telling in how those of us interested in screendance narrate or construct its history and practices. Something will always be hiding (in plain sight) if there isn't yet a name for it, or the desire to do that naming. When we name or attach a label to anything we render it visible. 
 
-This writing is not about the kind of hiding that speaks to what I imagine is screendance's uncertainty about itself and desire for recognition. Instead, it is an attempt to understand what I could not see when I happened across those two young people making dances for their smartphone, and how mechanisms and narratives of _hiding_ might matter to those of us who create screendances. 
+This writing is not about the kind of hiding that speaks of screendance's uncertainty about itself and desire for recognition. Instead, it is an attempt to understand what I could not see when I happened across those two young people making dances for their smartphone, and how mechanisms and narratives of _hiding_ might matter to those of us who create screendances. 
 
-These two young people were dancing in plain sight while recording their movement, but it's not possible to know with any certainty _why_ they were recording their dancing. Perhaps what they were doing stopped there? Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment. Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing. Perhaps they were feverishly archiving their dancing. Perhaps. 
+These two young people were dancing in plain sight while recording their movement, but it's not possible to know with any certainty _why_ they were recording their dancing. Perhaps what they were doing stopped there? Perhaps the smartphone was solely a low-friction way to record the dancing they were doing, or the game they were playing. Perhaps they were feverishly archiving their dancing. Perhaps. 
 
-The assumption on which this writing rests is that what I saw that day was not the the full story; that what they did next or soon after was to post the _best version_ of their screendance performances _on social_. I think this assumption is warranted because, as Harmony Bench suggests, it is "difficult if not impossible to separate dance in public from social media in an era when the latter are determining forces of contemporary social life and engagement."[-@bench-2020-perpetual p.65] I am agnostic towards social media platforms, but given how much dancing is happening on TikTok[e.g. @blancoborelli-2021-tiktok; @harlig-2021-tiktok; @dexter-2021-dance] I will assume that this was their social media of choice.
+The assumption on which this writing rests is that what I saw that day was not the the full story; that what they did next or soon after was to post the _best version_ of their screendance performances _on social_. I think this assumption is warranted because, as Harmony Bench suggests, it is "difficult if not impossible to separate dance in public from social media in an era when the latter are determining forces of contemporary social life and engagement."[-@bench-2020-perpetual p.65] My assumption effectively renders these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. People dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. Volume 12 of IJSD is testimony to the fact that social media technologies are cultural levers and patterns deeply embedded in screendance practices.[e.g. @blancoborelli-2021-tiktok; @benthaus-2021-this] 
 
-invisible hand (Adam Smith) -- with a difference. 
-
-My assumption effectively renders these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. People dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. Volume 12 of IJSD is testimony to the fact that social media technologies are cultural levers and patterns deeply embedded in screendance practices.[e.g. @blancoborelli-2021-tiktok; @benthaus-2021-this] 
+I am agnostic towards social media platforms, but given how much dancing is happening on TikTok[e.g. @blancoborelli-2021-tiktok; @harlig-2021-tiktok; @dexter-2021-dance] I will assume that this was their social media of choice.
 
 ## Algorithmic choreography
 
@@ -88,9 +88,9 @@ _In which I ... _
 
 > embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
 
-In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I saw their movement-performances-on-repeat without the need to scroll or refresh, and I can imagine their video likenesses on a small screen: the framing, dancing, music, and virtual stickers, and the desire to share and be seen.
+In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown -- or anyone for that matter -- set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I saw their movement-performances-on-repeat without the need to _scroll_ or _refresh_, and I can imagine their video likenesses on a small screen: the framing, dancing, music, and virtual stickers, and the desire to share and be seen.
 
-I suspect though that they did not set out to make a screendance the way IJSD readers might understand an _intention_ to make a screendance. Rather, the screendance was more made _on_ them, and without them being aware of -- nor probably caring about -- the coercion. Who is doing the choreography here? These are ways of moving shaped by a machine that doesn't see how these young people are dancing, it doesn't need to. It is not an all-seeing machine of an invisible state. Rather, it is a commercial machine that has "blown by the panopticon"[Zuboff, in @farrell-2017-shoshana n.pag.] There is no _outside_ because it is not an institutional building, and there is "no zone of life that is not being infiltrated."[Zuboff, in @farrell-2017-shoshana n.pag.] These two dancing people were being directed by an invasive all-seeing blind machine that carries the "colonizing forces of algorithmic logic."[@morrison-2019-algorithms p.10]
+I suspect though that they did not set out to make a screendance the way IJSD readers might understand an _intention_ to make a screendance. Rather, the screendance was more made _on_ them, and without them being aware of -- nor probably caring about -- the coercion. Who is doing the choreography here? These are ways of moving shaped by a machine that doesn't see how these young people are dancing, it doesn't need to. It is not an all-seeing machine of an invisible state. Rather, it is a commercial machine that has "blown by the panopticon"[Zuboff, in @farrell-2017-shoshana n.pag.] There is no _outside_ because it is not an institutional building, and there is "no zone of life that is not being infiltrated."[Zuboff, in @farrell-2017-shoshana n.pag.] These two dancing people were being directed by an invasive all-seeing sightless machine that carries the "colonizing forces of algorithmic logic."[@morrison-2019-algorithms p.10]
 
 But it's not so dystopic is it? After all, this machine was programmed. The algorithms -- opinions "formalized in code"[@oneil-2016-weapons Chapter 3: Arms Race, n.pag] -- were created by _someone_, perhaps more than one person: a cloud of choreographers-as-developers; unseen, hidden. American author/blogger Seth Godin writes, "The folks with the power are the anonymous engineers, tweaking algorithms without clear awareness of what the impact might be."[@godin-2021-tiktok n.pag.] It is improbable that those software developers could imagine how their code in Kotlin, Java, Swift or Objective C would prescribe the way these two people were dancing. 
 
@@ -98,6 +98,8 @@ At the same time, I do not want to overestimate the sophistication of their math
 
 ## Being in (the) common
 - [[swarms in liquid modernity]]
+
+_In which I _
 
 In 2000, the Polish sociologist Zygmunt Bauman described a liquid-modern society in which the balance has tilted far from the societal improvement for the common good "towards the self-assertion of the individual."[@bauman-2000-liquid p.29] In liquid modernity, the public sphere has become one of the "many spoils of deregulation, privatization, individualization, of the conquest and annexation of the public by the private."[@bauman-2008-does p.28]
 
@@ -107,21 +109,18 @@ In _Perpetual Motion: Dance, Digital Cultures, and the Common_ (2020) Harmony Be
 
 ... She suggests that what makes dances public "is as much about exposure to onsite spectators (who may not actually be the target audience) as it is about dancing in venues that are available and accessible to the general public."[@bench-2020-perpetual p.64] These kinds of dances in public use the digital commons to circulate and provide audiences.[@bench-2020-perpetual] Need to critique digital commons? Bench's digital commons are distinct from these: <https://en.wikipedia.org/wiki/Digital_commons_%28economics%29>; <https://en.wikipedia.org/wiki/Digital_Commons_(Elsevier)> (plenty of issues with them: <https://www.theatlantic.com/science/archive/2016/01/elsevier-academic-publishing-petition/427059/>)
 
-
 > Whereas Burt posits the commons of contemporary dance, I employ Michael Hardt and Antonio Negri’s language of the common to distinguish my usage from a default understanding of the commons as a shared resource.[p.5]
-
 
 > Even though Happy circulates within a commercial economy, it simultaneously activates (and is amplified by) an internet gift economy, where digital platforms cultivate and capture the circulation of intangible commodities such as the embodied objects of gesture and movement.[p.171]
 
-- commodities might be intangible, but that is forgetting the real economy going on here. It's like watching two fish fight over a piece of bread in a pond that is being poisoned by a landowner for their private good. this isn't quite right. It's more that the fish are producing something that is shared around the pond, but how the pond is constructed shapes how they move, and is poisoning them?? I'm suggesting we must zoom out. That, to squeeze too much out of my metaphor, the bread (the gestures) are inconsequently, and how it is made and squabbled over is a level of dialogue too low.
+- commodities might be intangible, but that is forgetting the real economy going on here. It's like watching two fish fight over a piece of bread in a pond that is being poisoned by a landowner for their private good. this isn't quite right. It's more that the fish are producing something that is shared around the pond, but how the pond is constructed shapes how they move, and is poisoning them?? I'm suggesting we must zoom out. That, to squeeze too much out of my metaphor, the bread (the gestures) are inconsequential, and how it is made and squabbled over is a level of dialogue too low.
 
 > In their book Commonwealth, Hardt and Negri note the inadequacy of the commons as both precedent and metaphor for contemporary reinvestments in a cultural commons. They write instead of the common, of which they posit two main types: the “natural” common of limited resources, such as land, air, and water, and the “artificial” common “that resides in languages, images, knowledges, affects, codes, habits, and practices” as well as gestures.8 They define the common as “those results of social production that are necessary for social interaction and further production.”9 Ideas, customs, and practices that are collectively generated and make it possible to live together are exemplars of the artificial common.[@bench-2020-perpetual p.5]
 
 > In approaching dance as common, it is necessary to continuously examine how the common repackages ideologies of freedom and universal access in the project of proliferating and circulating movement, while simultaneously acknowledging how dancing can craft a sense of mutual belonging through the sharing of movements and gestures.[@bench-2020-perpetual p.8]
 
-- above is getting at HB's ambivalence (or the paradox)
+In the book, Bench expresses a delicate ambivalence in describing the digital commons in contemporary dance. She articulates the ideologies at play in how dance snowballs and circulates, while acknowledging that individuals generate belonging and community through digital circulations of movement.
 
-> I similarly find that digital media, especially the space of the internet, offer contemporary performative commons in which individuals both perform and contest their belonging through practices such as dance.[p.8]
 
 > Employing the lens of the common allows me to approach the ways dancers corporeally and rhetorically configure dance within digital cultural practices. What can dance, movement, and gesture afford—and what conflicts arise—when they are perceived as common or utilized to enact a common? How, why, and for whom are assertions of dance as common meaningful in digital contexts?[p.9]
 
@@ -136,33 +135,24 @@ that tech enabled decontextualisation is interesting. Implies a distancing. Invi
 - [[Bench - Perpetual Motion#^3fb97b]]
 
 - tragedy of digital commons: <https://en.wikipedia.org/wiki/Tragedy_of_the_commons#Tragedy_of_the_digital_commons>
-- what of externalities?  
 
+Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play.  Even while distributing and circulating their public dancing, these two young people were certainly not creating some content for our innocent digital commons. To even call it commons is to trivialise the mechanism. Gloss over. Veneer. **discuss externalities.** How is it paid for? What price is paid? By whom? When?
 
-- should I talk about virality (that there's hope there). [[Blitz - Understanding Heidegger on Technology#^05e7db]]. It's still producing a virus (it just might not be a successful virus). See also revealing but also challenging-forth in [[Waddington - A Field Guide to Heidegger#^e6b68f]] -- it leaves me with a great deal of sadness. 
-
-
-But perhaps the biggest oversight is Bench is describing these digital commons as a mechanism for distribution and circulation. 
-
-Their freedom to play and make was curtailed. They have been coerced under the illusion of freedom and play.  These two young people were certainly not creating some content for our innocent digital commons. To even call it commons is to trivialise the mechanism. Gloss over. Veneer. 
+The technology skeptic Neil Postman coined a word, technopoly, which he describes as "the submission of all forms of cultural life to the sovereignty of technique and technology."[@postman-1993-technopoly p.52] Postman describes technopoly as totalitarian technocracy because"eliminates alternatives to itself"[@postman-1993-technopoly p.48] by rendering them invisible. Technopoly is a way of thinking and culture in which no matter the question, the answer is technology. When there is only one answer, the questions we ask begin to change. Add here about recursion. [[technological forces and recursion]] (Turkle and Heidegger)
 
 For all HB is saying about the implicit value of the circulation of gestures, all technologies -- including those of social media -- are developments "largely oriented economically to profit-making"[@weber-1978-economy Part 1, p.67] and that "technology was, is, and always will be an expression of the economic objectives that direct it into action."[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.] 
 
-When we dance with technologies, we dance with profit-making. And perhaps we are only ever dancing with technologies? See all my notes here from Dance after Lockdown prep, reading and writing (on creative industries, McRobbie, Ladkin, eco-system, etc). Contrasts with Lepecki in Singularities.
+When we dance with technologies, we dance with profit-making. And perhaps we are only ever dancing with technologies? 
 
 ## Technopoly, myth and going into hiding
 
 _and call on Alan Jacobs' understanding of the value of myth in the technopoly._
 
-The technology skeptic Neil Postman coined a word, technopoly, which he describes as "the submission of all forms of cultural life to the sovereignty of technique and technology."[@postman-1993-technopoly p.52] **add here**. 
-
-In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ and, like much of his thinking, it calls attention to the power and value of myth making. Jacobs describes how technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs_after_2019 p.4] Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. It is those of us "who practice moral life by habits of affection, not by rules."[@jacobs_after_2019 p.4] For Kołakowski, the mythical core of culture are those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-after p.3] In other words, the mythical core -- "a way of connecting with nonempirical unconditioned reality"@jacobs-2019-after p.3] -- is unable to be pressed into the logic of technology no matter our rational capacities. 
+In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ and, like much of his thinking, it calls attention to the power and value of myth making. Jacobs describes how technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs_after_2019 p.4] What does he mean by these two cores? **add here about what these two cores are**. Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. It is those of us "who practice moral life by habits of affection, not by rules."[@jacobs_after_2019 p.4] For Kołakowski, the mythical core of culture are those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-after p.3] In other words, the mythical core -- a way of experiencing "nonempirical unconditioned reality"[Kołakowski, in @jacobs-2019-after p.3] -- is unable to be pressed into the logic of technology no matter our rational capacities. For Jacobs, the mythical core is a way out of the recursive loop of the technopoly.
 
 This interplay between rationalism and myth is a key aspect of Jacobs' thinking. He argues that technocratic rationalism cannot be avoided but rather transcended: "that there is something better, not in opposition to it, but on the other side of it. Something that will in time emerge."[@jacobs-2019-after p.13] This all sounds so easy, but Jacobs also warns that the place for transcending technopoly will be "a hidden place" because if transnational technopoly can hunt you down and root you out, it will; and it probably can.[@jacobs-2019-after p.13]
 
-Shoshana Zuboff also talks about hiding, and her thinking is similarly bleak when it comes to the future. She writes of the terrible danger that we become accustomed to either life without privacy or the necessity to hide from being seen. She suggests that both alternatives -- total transparency or hiding underground -- "rob us of the life-sustaining inwardness, born in sanctuary, that finally distinguishes us from the machines."[@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.] Her perspective is that surveillance capitalism has compromised "our elemental right to the future tense"[@zuboff-2019-age Chapter 6.VI The Power of the Unprecedented: A Review, n.pag.]. This is the right to make moral decisions free from forces that modify and exploit our behavior, and that function beyond our awareness.
-
-So what kind of hiding might function for our future? 
+In _Surveillance Capitalism_ Shoshana Zuboff also talks about hiding, and her thinking is similarly bleak when it comes to the future. She writes of the terrible danger that we become accustomed to either life without privacy or the necessity to hide from being seen. She suggests that both alternatives -- total transparency or hiding underground -- "rob us of the life-sustaining inwardness, born in sanctuary, that finally distinguishes us from the machines."[@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.] Her perspective is that surveillance capitalism has compromised "our elemental right to the future tense"[@zuboff-2019-age Chapter 6.VI The Power of the Unprecedented: A Review, n.pag.]. This is the right to make moral decisions free from forces that modify and exploit our behavior, and that function beyond our awareness.
 
 ## Hidden in the future
 
@@ -234,7 +224,13 @@ Bob Whalley -- introducing me to Yuk Hui's book _The Question Concerning Technol
 
 # Edit bin
 
+See all my notes here from Dance after Lockdown prep, reading and writing (on creative industries, McRobbie, Ladkin, eco-system, etc). Contrasts with Lepecki in Singularities.
 
+- should I talk about virality (that there's hope there). [[Blitz - Understanding Heidegger on Technology#^05e7db]]. It's still producing a virus (it just might not be a successful virus). See also revealing but also challenging-forth in [[Waddington - A Field Guide to Heidegger#^e6b68f]] -- it leaves me with a great deal of sadness. 
+
+But perhaps the biggest oversight is Bench is describing these digital commons as a mechanism for distribution and circulation. 
+
+Perhaps they had started some game and the smartphone became an innocent part of that game, like a 'What if we did this?' moment. 
 
 > if there is a place in the world for those who treasure a myth that claims to transcend technopoly, it will be, at best, a hidden place. If transnational technopoly can hunt you down and root you out, it will; and it probably can.[@jacobs-2019-after p.13]
 
