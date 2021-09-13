@@ -4,15 +4,17 @@
 
 [cie.acm.org/articles/panopticism-cyberculture-could-privacy-invasive-social-media-stifle-innovation](https://cie.acm.org/articles/panopticism-cyberculture-could-privacy-invasive-social-media-stifle-innovation/)
 
-- [[panop]]
-
-- privacy, panopticon, confession, (over)sharing, individualism vs individuation, common good/community and responsibility. 
-
 > Most importantly, as David Brooks rightfully articulates, privacy is critical in the “development of full individuals because there has to be an interior zone within each person that other people don’t see” or approve of . In this internal zone “half-formed thoughts and delicate emotions can grow and evolve, without being exposed to the harsh glare of public judgment” and condemnation. In this inner space we can be free to develop ideas, often subversive or even dangerous, and convictions away from the pressure to conform. It is a spot where “you are only yourself and can define yourself” [6]. In its very essence, this private, internal zone made us who we are; it shaped our humanity and allowed intellectual growth and creativity to flourish. It fostered experimentation with ideas without social judgment and ostracism. This notion of privacy is deeply related to intimacy and freedom of thought [7–10].
 
 > By making our actions and shares visible to a crowd, social media exposes us to a kind of virtual Panopticon. Self-surveillance and, consequently, the oppression it brings about are direct results of these cyber tools. “There are no guards and no prisoners in Facebook’s virtual Panopticon. We are both guards and prisoners, watching and implicitly judging one another as we share content” [12]. 
 
 - see original article for references 
  
+ - privacy, panopticon, confession, (over)sharing, individualism vs individuation, common good/community and responsibility. 
+- [[two women dancing#^9d0d6a]]
+- [[Sandel - The Tyranny of Meritocracy]]
+- [[somatics and the homogenous body]]
+- [[technology and individualism]]
+
 ---
  
