@@ -30,3 +30,13 @@ updated: "20210622"
 This is what is going on in two women dancing for sure. 
 
 >"The mechanical clock," as Lewis Mumford wrote, "made possible the idea of regular production, regular working hours and a standardized product." In short, without the clock, capitalism would have been quite impossible.4 The paradox, the surprise, and the wonder are that the clock was invented by men who wanted to devote themselves more rigorously to God; it ended as the technology of greatest use to men who wished to devote themselves to the accumulation of money. In the eternal struggle between God and Mammon, the clock quite unpredictably favored the latter.[p.15]
+
+
+
+> Something else reached a mass audience as well: political and religious freedom. It would be an inadmissible simplification to claim that the Age of Enlightenment originated solely because of the emerging importance of technology in the eighteenth century, but it is quite clear that the great stress placed on [p.45] individuality in the economic sphere had an irresistible resonance in the political sphere.[@postman-1993-technopoly pp.44-45]
+
+> With the rise of Technopoly, one of those thought-worlds disappears. Technopoly eliminates alternatives to itself in precisely the way Aldous Huxley outlined in Brave New World. It does not make them illegal. It does not make them immoral. It does not even make them unpopular. It makes them invisible and therefore irrelevant. And it does so by redefining what we mean by religion, by art, by family, by politics, by history, by truth, by privacy, by intelligence, so that our definitions fit its new requirements. Technopoly, in other words, is totalitarian technocracy.[@postman-1993-technopoly p.48]
+
+> That is crucial, because it led to the idea that technique of any kind can do our thinking for us, which is among the basic principles of Technopoly.[@postman-1993-technopoly p.52]
+
+> Technopoly is a state of culture. It is also a state of mind. It consists in the deification of technology, which means that the culture seeks its authorization in technology, finds its satisfactions in technology, and takes its orders from technology[@postman-1993-technopoly p.71]

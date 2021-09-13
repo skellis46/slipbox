@@ -146,7 +146,7 @@ and there could be a beanbag
 
 >the twenty-first century finds surveillance capital pitted against the entirety of our societies, right down to each individual member. The competition for surveillance revenues bears down on our bodies, our homes, and our cities in a battle for power and profit as violent as any the world has seen. Surveillance capitalism cannot be imagined as something “out there” in factories and offices. Its aims and effects are here… are us.
 
->These operations challenge our elemental right to the future tense, which is the right to act free of the influence of illegitimate forces that operate outside our awareness to influence, modify, and condition our behavior. We grow numb to these incursions and the ways in which they deform our lives. We succumb to the drumbeat of inevitability, but nothing here is inevitable. Astonishment is lost but can be found again.
+>These operations challenge our elemental right to the future tense, which is the right to act free of the influence of illegitimate forces that operate outside our awareness to influence, modify, and condition our behavior. We grow numb to these incursions and the ways in which they deform our lives. We succumb to the drumbeat of inevitability, but nothing here is inevitable. Astonishment is lost but can be found again.[@zuboff-2019-age Chapter 6.VI The Power of the Unprecedented: A Review, n.pag.]
 
 ## PART II THE ADVANCE OF SURVEILLANCE CAPITALISM
 
@@ -237,4 +237,16 @@ Who knows? Who decides? Who decides who decides?
 
 
 
+### Chapter Fifteen: The Instrumentarian Collective
 
+> These new architectures feed on our fellow feeling to exploit and ultimately to suffocate the individually sensed inwardness that is the wellspring of personal autonomy and moral judgment, the first-person voice, the will to will, and the sense of an inalienable right to the future tense. That we vibrate to one another should be a life-enhancing fact, but this third modernity amplifies our mutual vibration to an excruciating pitch. In the milieu of total instrumentation, it is less that we resonate to one another’s presence and more that we drown in its inescapability.[@zuboff-2019-age Chapter 15.IV The Third Modernity of the Hive n.pag.]
+
+### Chapter Sixteen:
+
+Zuboff describes how young people "are the spirits of a Christmas Yet to Come. They live on the frontier of a new form of power that declares the end of a human future, with its antique allegiances to individuals, democracy, and the human agency necessary for moral judgment. Should we awaken from distraction, resignation, and psychic numbing with Scrooge’s determination, it is a future that we may still avert."[@zuboff-2019-age Chapter 16.V Homing to the Herd n.pag.]
+
+### Chapter Seventeen: The Right to Sanctuary
+
+> Our artists, like our young people, are canaries in the coal mine. That the need to make ourselves invisible is the theme of a brilliant artistic vanguard is another kind of message in a bottle cast from the front lines of mourning and revulsion. Glass life is intolerable, but so is fitting our faces with masks and draping our bodies in digitally resistant fabrics to thwart the ubiquitous lawless machines. Like every counter-declaration, hiding risks becomes an adaptation when it should be a rallying point for outrage. _These conditions are unacceptable. Tunnels under this wall are not enough. This wall must come down._ [@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.]
+
+> The greatest danger is that we come to feel at home in glass life or in the prospect of hiding from it. Both alternatives rob us of the life-sustaining inwardness, born in sanctuary, that finally distinguishes us from the machines. This is the well from which we draw the capacities to promise and to love, without which both the private bonds of intimacy and the public bonds of society wither and die. If we do not alter this course now, we leave a monumental work for the generations that follow us. Industrial capitalism commandeered nature only to saddle the coming generations with the burden of a burning planet. Will we add to this burden with surveillance capitalism’s invasion and conquest of human nature? Will we stand by as it subtly imposes the life of the hive while demanding the forfeit of sanctuary and the right to the future tense for the sake of its wealth and power?[@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.]

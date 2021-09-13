@@ -16,8 +16,6 @@ The writing is -- like much of Jacobs' thinking -- a celebration of the beauty, 
 
 Jacobs is citing [[Bauman - Does Ethics Have a Chance in a World of Consumers]] here (re swarms)
 
-
-
 > Proceduralism --with its accompanying criteria of fairness, balance, equal treatment --is a political strategy that arises from the technological core of our civilization. It seeks to manipulate discourse in such a way as to preserve itself. It is for that very reason alien to any mind shaped fundamentally by the mythical core, whose convictions arise from a reality that we perceive by living among certain persons and practicing certain forms of conduct. Those being shaped by a mythical core respond to pleas for procedural fairness by crying, "What fellowship hath righteousness with unrighteousness? And what communion hath light with darkness?" Even if some elaborate verbal gymnastics may be performed by way of post-hoc rationalization, this is ultimately why it’s okay to punch (anyone you deem) a Nazi.[p.6]
 
 Jacobs' thinking here is based on Zygmunt Bauman's _Does Ethics Have a Chance in a World of Consumers?_ (2008). -- and idea of swarming. 
@@ -65,10 +63,6 @@ _consider:_
 
 
 _source:_ Jacobs' list of publications on his website?
-
-_local link:_ [jacobs-2019-after.pdf](hook://file/oKKri69FZ?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=jacobs-2019-after.pdf)
-
-_citekey & zotero link:_ [@jacobs_after_2019](zotero://select/items/1_S6KH2VJP)
 
 
 _reference:_ Jacobs, A., 2019. _After Technopoly_. The New Atlantis Spring, 3–14. <https://www.thenewatlantis.com/publications/after-technopoly>
