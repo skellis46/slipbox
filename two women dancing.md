@@ -9,9 +9,6 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # Lithium dancing (hidden in plain sight)
 
-## other possible titles
-(in plain sight | Dancing reserve | Ambivalence and wonder in three minutes of dancing | The case of two people dancing | Hidden in plain sight | Lithium dancing in/for the future)
-
 ## Abstract
 
 - going to circle along away from the centre.
@@ -102,11 +99,11 @@ In _Surveillance Capitalism_ Shoshana Zuboff also talks about hiding, and her th
 
 ## Hidden in the future
 
-_In which I zoom out long into the future to remember a screendance and consider what it might mean for those of us here in the present who make screendances._
-
 > [The Robber Barons'] greatest achievement was in convincing their countrymen that the future need have no connection to the past.[@postman-1993-technopoly p.54]
 
 > On a long enough timeline, everything becomes obsolete.[@millburn-2021-love n.pag.] 
+
+_In which I zoom out long into the future to remember a screendance and consider what it might mean for those of us here in the present who make screendances._
 
 The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From "fast and attention-getting to slow and powerful"[@brand-2008-clock p.36] the six levels are: fashion/art, commerce, infrastructure, governance, culture and nature. Brand writes how the role of fashion and art is essentially to be "quick, irrelevant, engaging, self-preoccupied, and cruel"[@brand-2008-clock p.36] whereas the "vast slow-motion dance"[@brand-2008-clock p.38] of culture operates through centuries and millennia. Brand suggests that together these distinct and contradictory pace layers provide internal negative feedback that stabilizes and affords the health of civilization. 
 
@@ -128,58 +125,39 @@ Here, as I write, long into the future, some uncountable years after the screeni
 
 _in Memoriam_ is the kind of screendance that recognizes and understands modes of production and presentation, and pursues alternate tastes, pace, and time. It is grounded in making and process yet somehow manages to avoid the feeling that it was designed for consumption. How can that be? What sleight of hand is at play? 
 
-Then, centuries later, screendance emerged out of the rubble of “life versus the machine”[Paul Kingsnorth, in @jacobs-2021-tech p.28] and humankind's dance with the technological singularity. The singularity—which did not end up happening just in case you were wondering—once described the point at which "ever-more-rapid technological change leads to unpredictable consequences"[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017 the philosopher Yuk Hui was calling a pipedream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
+Then, in this future or the next, screendance emerged out of the rubble of “life versus the machine”[Paul Kingsnorth, in @jacobs-2021-tech p.28] and humankind's dance with the technological singularity. The singularity—which did not end up happening just in case you were wondering—once described the point at which "ever-more-rapid technological change leads to unpredictable consequences"[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017 the philosopher Yuk Hui was calling a pipedream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
 
 
 ## The future common
 
+> As much as networked technology has dismantled and distributed power in more egalitarian ways, it has also extended and obscured power, making it less visible and, arguably, harder to resist.[Astra Taylor, in @jacobs-2018-tending n.pag.]
+
+_In which I_
+
 common good. production not based on consumption. swarming? 
-
->And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
-
-- thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game—posting to TikTok.
-
-Perhaps then screendance ought to stay hidden in plain sight. That there is tremendous value in seeking ways to bypass the bleakest of bleak pictures.
 
 Looking into the "possibility of different technological futures" [[Hui - Cosmotechnics as Cosmopolitics#^06b080]]—this is really beautiful. That we are aware. Implications for screendance? 
 
 "The Anthropocene is the planetarization of standing reserves"[@hui-2017-cosmotechnics n.pag.]
 "To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option."[@hui-2017-cosmotechnics n.pag.]
 
+I've long wondered about screendance's fascination with filming dancing in nature. The trees, the green grass. A trope. [[Gerd-Günter Voß's three conducts of life]]
 
-
-- not saying people should all make films like this one. I don't mean for this to be a question or matter of taste. 
 - no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below). 
-- can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life#^ca4c17]]
+
 
 Yuk Hui's work is to be with philosophy in a way that mine can never be, nor never way.For this reason, I need or rely on his thinking and writing for he is able to think and write philosophically far better than me. What he says here ... _in Memoriam_ does this work. It is not caught in a bubble of screendance; it resists culture. It is heterogenuous. Screendance is a small enough field—and collection of practices—to interrograte and indeed resist modes of production and presentation. The field has talked about this for years (examples) but if not now then when? To come out of hiding. To lead. (promise to the future).
-
-See also [[Gelassenheit]]—Gelassenheit is translated as _releasement_ or _letting go_; "to let things be in whatever may be their uncertainty and their mystery".
 
 > For Projectors and futurists, “all the grand perfect dreams of the technologists are happening in the future, but nobody is there.” Their imagined world is devoid of actual persons and much of the rest of Creation as well.15 But if one is not to be a Projector, what better attitude might one have toward the future? For Berry, the vital distinction is between projecting and promising: “The ‘projecting’ of ‘futurologists’ uses the future as the safest possible context for whatever is desired; it binds one only to selfish interest. But making a promise binds one to someone else’s future.” It is this distinction that points us toward means of fulfilling Jonas’s “imperative of responsibility.”[@jacobs-2018-tending n.pag.]
 
 "the human agency necessary for moral judgment"[@zuboff-2019-age Chapter 16.V Homing to the Herd n.pag.]
 
-> The complexities of social media ought to prompt deep reflection on what we all owe to the future, and how we might discharge this debt.[@jacobs-2018-tending n.pag.]
 
-> The problem comes when, by living in conditions of such dependence, you forget that there’s any other way to live—and therefore cannot teach another way to those who come after you. Your present-day social-media ecology eclipses the future social-media ecology of others.[@jacobs-2018-tending n.pag.]
+He discusses the work of Hans Jonas -- who was mentored by Heidegger -- and in particular a book called _The Imperative of Responsibility_. One key idea in the book (for Jacobs) is that new technologies demand new ethics; that we cannot rely on old ethical concerns or thinking "because no previous society possessed powers that could extend its reach so far in both space and time."[@jacobs_tending_2018 n.p.] For Jonas we must expand our understanding of responsibility to include how our actions effect people we will never meet. Jacobs writes how we can, by and large, deal with the expansion of space through technological means, but that time is more complex or largely ignored: "What force shall represent the future in the present?"[Jonas, in @jacobs_tending_2018 n.p.]
 
-> As much as networked technology has dismantled and distributed power in more egalitarian ways, it has also extended and obscured power, making it less visible and, arguably, harder to resist.[Astra Taylor, in @jacobs-2018-tending n.pag.]
-
- > Training young people how to live and work extramurally—to limit their exposure to governance via terms of service and APIs—is a vital hedge against this future.[@jacobs-2018-tending n.pag.]
-
-
-> When two people dance, their movements and actions and thoughts and perceptions are entrained by the larger organization, the dancing itself.[@noe_strange_2015 Chapter 2 Reorganizing Ourselves, n.p.]
-
-Can I discuss paradox of the situation in terms of device paradigm and focal things? But what does this all matter for screendance? These are questions of culture: of privacy and freedom. We must make visible. To unhide. To recognise the games that are being played (on us).
-
-- perhaps I am talking about two types of hiding. One is device paradigm/algorithmic. The other is how to respond (based on Jacobs' thinking)??
-- theme of hidden. See also Jacobs and hidden: [[Jacobs - After Technopoly#^518461]]. 
 - think through [[moral and ethical implications of our tools]] as overview of my thinking in this writing—as a way of narrowing its focus (or perhaps a question at the start of each section?)
-- note also [[future responsibility and stewardship]] (Jacobs discussing Jonas and Berry)
-- Harari: deindividuation of the individual (from Talking Politics on Arendt?) into a collective:
 
-> The rise of the so-called internet of everything—which involves the incorporation of networked sensors and actuators into everything in the world, including human beings—could enable rational integration and coordination at an unprecedented scale. The historian Yuval Noah Harari argues in his book Homo Deus (2016) that this technology enables the deindividuation of humans into a collective. [Danaher, John & Petersen, Steve. (2020). In Defence of the Hivemind Society. Neuroethics. 10.1007/s12152-020-09451-7.]
+
 
 - logic of consumption (see <https://notesread.com/liquid-modernity/> disguised as a mode of production. The danger in valorizing their making—their creativity. 
 
@@ -195,20 +173,55 @@ Function is data extraction. Simple. But something awe-inspiring as well. Humans
 
 To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed.
 
-McLuhan's 'global village' (1964) – what kind of village is this? 
+This writing is filled with uncertainty and ambivalence that is based on my assumption of what those two people did next that day in March 2021; that is, their unwitting participation in a complex choreography of extraction. I understand my ambivalence to be something akin to _awe_—a curious phenomenon based on "the perception of vastness and the struggle to mentally process the experience."[@kaufman-2020-transcend Chapter 7 Peak Experiences n.pag.] Awe is unusual because it mixes emotions that do not normally reside together. In the case of these two people dancing, I experienced beauty and fear. There was beauty in happening across two human beings dancing together through play. Since then, I imagine that in that fleeting moment James Carse's idea of the infinite game came to mind; this is a game predicated on surprise and in which there is no audience, only players.[@carse-1986-finite] They were making something together, not something to be watched or consumed. Yet I was afraid too. I was afraid of the hidden players and costs—the externalities—of that play for their future, and for our future. Perhaps then this writing is an attempt to place that feeling of awe in the context of the work we make and see in the field of screendance. 
 
-> While the concepts of awe and wonder have a long history in philosophy and religion, James and Maslow helped bring them to psychology. Today, much of the contemporary investigation of awe stems from a 2003 paper, “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion,” written by Dacher Keltner and Jonathan Haidt.47 The authors argued that there are two main cognitive appraisals that are central to awe experiences: the perception of vastness and the struggle to mentally process the experience. Vastness need not be perceptual, such as seeing the Grand Canyon, but can also be conceptual, such as contemplating eternity. Awe is an unusual and complex emotion because it mixes emotions that don’t tend to go with each other, such as ecstasy and fear.[@kaufman-2020-transcend Chapter 7 Peak Experiences n.pag.]
-
-## Thanks
+## Acknowledgements
 
 Bob Whalley—introducing me to Yuk Hui's book _The Question Concerning Technology in China_ (which appeared at nearly the same time in some writing I happened across by Alan Jacobs). People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas. 
 
+Mention how development is publicly accessible -- working title was two women dancing. (7 May 2020 is first git commit of document called two women dancing.md)
+
 # Edit bin
 
+See also [[Gelassenheit]]—Gelassenheit is translated as _releasement_ or _letting go_; "to let things be in whatever may be their uncertainty and their mystery".
+
+> While the concepts of awe and wonder have a long history in philosophy and religion, James and Maslow helped bring them to psychology. Today, much of the contemporary investigation of awe stems from a 2003 paper, “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion,” written by Dacher Keltner and Jonathan Haidt.47 The authors argued that there are two main cognitive appraisals that are central to awe experiences: the perception of vastness and the struggle to mentally process the experience. Vastness need not be perceptual, such as seeing the Grand Canyon, but can also be conceptual, such as contemplating eternity. Awe is an unusual and complex emotion because it mixes emotions that don’t tend to go with each other, such as ecstasy and fear.[@kaufman-2020-transcend Chapter 7 Peak Experiences n.pag.]
+
+McLuhan's 'global village' (1964) – what kind of village is this? 
+
+- Harari: deindividuation of the individual (from Talking Politics on Arendt?) into a collective:
+
+> The rise of the so-called internet of everything—which involves the incorporation of networked sensors and actuators into everything in the world, including human beings—could enable rational integration and coordination at an unprecedented scale. The historian Yuval Noah Harari argues in his book Homo Deus (2016) that this technology enables the deindividuation of humans into a collective. [Danaher, John & Petersen, Steve. (2020). In Defence of the Hivemind Society. Neuroethics. 10.1007/s12152-020-09451-7.] 
+
+**See Chapter 9 of Harari: The Great Decoupling**
+
+- theme of hidden. See also Jacobs and hidden: [[Jacobs - After Technopoly#^518461]]. 
+
+Can I discuss paradox of the situation in terms of device paradigm and focal things? But what does this all matter for screendance? These are questions of culture: of privacy and freedom. We must make visible. To unhide. To recognise the games that are being played (on us).
+
+- perhaps I am talking about two types of hiding. One is device paradigm/algorithmic. The other is how to respond (based on Jacobs' thinking)??
+
+> Training young people how to live and work extramurally—to limit their exposure to governance via terms of service and APIs—is a vital hedge against this future.[@jacobs-2018-tending n.pag.]
+
+> When two people dance, their movements and actions and thoughts and perceptions are entrained by the larger organization, the dancing itself.[@noe_strange_2015 Chapter 2 Reorganizing Ourselves, n.p.]
+
+> The complexities of social media ought to prompt deep reflection on what we all owe to the future, and how we might discharge this debt.[@jacobs-2018-tending n.pag.]
+
+> The problem comes when, by living in conditions of such dependence, you forget that there’s any other way to live—and therefore cannot teach another way to those who come after you. Your present-day social-media ecology eclipses the future social-media ecology of others.[@jacobs-2018-tending n.pag.]
+
+- can make something of the two girls in nature ... the trees, the green grass. Then consider our relationship to nature in, for example, [[Gerd-Günter Voß's three conducts of life#^ca4c17]]
+
+
+- not saying people should all make films like this one. I don't mean for this to be a question or matter of taste. 
+
+
+Perhaps then screendance ought to stay hidden in plain sight. That there is tremendous value in seeking ways to bypass the bleakest of bleak pictures.
+
+>And the fact that cosmotechnics, as I noted earlier, can be generally described but only locally instantiated makes room for a great deal of creative adaptation.[@jacobs-2021-tech p.41]
 
 
 
-
+- thinking here about the girls' dancing as a local instantiation. But this is compromised by what I imagine is the end game—posting to TikTok.
 
 It is more as if their freedom to play and make was being asserted on them. They have been coerced under the illusion of freedom and play. 
 
