@@ -123,65 +123,78 @@ _in Memoriam_ is—or is it _was_?—a film that treasures myth and seems to res
 
 Here, as I write, long into the future, some uncountable years after the screening in Limerick, it seems that it is no mere coincidence that the film was shot in an Iron Age fort; an ancient place of protection, a place by which we recognize the slowness of culture, and the creep of nature. A place where others like us sought shelter, protection and safety. It is, after all, worth remembering that the feeling of safety makes it possible for us to "dare to choose the unknown."[@maslow-2011-psychology p.67]   
 
-_in Memoriam_ is the kind of screendance that recognizes and understands modes of production and presentation, and pursues alternate tastes, pace, and time. It is grounded in making and process yet somehow manages to avoid the feeling that it was designed for consumption. How can that be? What sleight of hand is at play? 
+_in Memoriam_ is the kind of screendance that recognizes and understands modes of production and presentation, and pursues alternate tastes, pace, and time. It is grounded in making and process yet somehow manages to avoid the feeling that it was designed for consumption. How can that be? What sleight of hand is at play? (to render visible that which must be made invisible)
 
-Then, in this future or the next, screendance emerged out of the rubble of “life versus the machine”[Paul Kingsnorth, in @jacobs-2021-tech p.28] and humankind's dance with the technological singularity. The singularity—which did not end up happening just in case you were wondering—once described the point at which "ever-more-rapid technological change leads to unpredictable consequences"[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017 the philosopher Yuk Hui was calling a pipedream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
+Around the same time that _in Memoriam_ was being made, the philosopher of technology Yuk Hui[^bob] wrote an article called _Cosmotechnics as Cosmopolitics_.[-@hui-2017-cosmotechnics] Cosmotechnics is a strange term that describes the "unification of the cosmos and the moral through technical activities, whether craft-making or art making."[@hui-2017-cosmotechnics, p.7] It is as if Hui is reaching back from Postman's technopoly to tool-using cultures. In the article, Hui tells the story of a very good butcher called Pao Ding who claims that having an excellent knife is not enough:
+
+[^bob]: Thanks to Joanne "Bob" Whalley for introducing me to Yuk Hui's book _The Question Concerning Technology in China_[-@hui-2016-question] at around the same time that I stumbled across Alan Jacobs discussing Hui in _From Tech Critique to Ways of Living_.[-@jacobs-2021-tech] 
+
+>it is more important to understand the Dao in the cow, so that one does not use the blade to cut through the bones and tendons, but rather to pass alongside them in order to enter into the gaps between them.[@hui-2017-cosmotechnics n.pag.]
+
+Hui writes that when the butcher encounters any difficulty, "he slows down the knife and gropes for the right place to move further."[@hui-2017-cosmotechnics n.pag.] This is the Dao (or _way_ or _path_), whereas the Qi is the technical/phenomenal object (or "technics"): the knife. 
+
+Annie Pfingst and Helen Poynor's sleight of hand was to recognise the utility of the knife as technic, while being busy with the Dao of making; they unified the cosmos and the moral. 
+
+In this future or the next, screendance emerged out of the rubble of “life versus the machine”[Paul Kingsnorth, in @jacobs-2021-tech p.28] and humankind's dance with the technological singularity. The singularity—which did not end up happening just in case you were wondering—once described the point at which "ever-more-rapid technological change leads to unpredictable consequences"[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017  Hui was calling a pipe dream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
 
 
 ## The future common
 
-> As much as networked technology has dismantled and distributed power in more egalitarian ways, it has also extended and obscured power, making it less visible and, arguably, harder to resist.[Astra Taylor, in @jacobs-2018-tending n.pag.]
+> As much as networked technology has dismantled and distributed power in more egalitarian ways, it has also extended and obscured power, making it less visible and, arguably, harder to resist.
 
-_In which I_
-
-common good. production not based on consumption. swarming? 
-
-Looking into the "possibility of different technological futures" [[Hui - Cosmotechnics as Cosmopolitics#^06b080]]—this is really beautiful. That we are aware. Implications for screendance? 
-
-"The Anthropocene is the planetarization of standing reserves"[@hui-2017-cosmotechnics n.pag.]
-"To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option."[@hui-2017-cosmotechnics n.pag.]
-
-I've long wondered about screendance's fascination with filming dancing in nature. The trees, the green grass. A trope. [[Gerd-Günter Voß's three conducts of life]]
-
-- no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß (see below). 
-
-
-Yuk Hui's work is to be with philosophy in a way that mine can never be, nor never way.For this reason, I need or rely on his thinking and writing for he is able to think and write philosophically far better than me. What he says here ... _in Memoriam_ does this work. It is not caught in a bubble of screendance; it resists culture. It is heterogenuous. Screendance is a small enough field—and collection of practices—to interrograte and indeed resist modes of production and presentation. The field has talked about this for years (examples) but if not now then when? To come out of hiding. To lead. (promise to the future).
-
-> For Projectors and futurists, “all the grand perfect dreams of the technologists are happening in the future, but nobody is there.” Their imagined world is devoid of actual persons and much of the rest of Creation as well.15 But if one is not to be a Projector, what better attitude might one have toward the future? For Berry, the vital distinction is between projecting and promising: “The ‘projecting’ of ‘futurologists’ uses the future as the safest possible context for whatever is desired; it binds one only to selfish interest. But making a promise binds one to someone else’s future.” It is this distinction that points us toward means of fulfilling Jonas’s “imperative of responsibility.”[@jacobs-2018-tending n.pag.]
-
-"the human agency necessary for moral judgment"[@zuboff-2019-age Chapter 16.V Homing to the Herd n.pag.]
-
-
-He discusses the work of Hans Jonas -- who was mentored by Heidegger -- and in particular a book called _The Imperative of Responsibility_. One key idea in the book (for Jacobs) is that new technologies demand new ethics; that we cannot rely on old ethical concerns or thinking "because no previous society possessed powers that could extend its reach so far in both space and time."[@jacobs_tending_2018 n.p.] For Jonas we must expand our understanding of responsibility to include how our actions effect people we will never meet. Jacobs writes how we can, by and large, deal with the expansion of space through technological means, but that time is more complex or largely ignored: "What force shall represent the future in the present?"[Jonas, in @jacobs_tending_2018 n.p.]
+-- Astra Taylor[in @jacobs-2018-tending n.pag.]
 
 - think through [[moral and ethical implications of our tools]] as overview of my thinking in this writing—as a way of narrowing its focus (or perhaps a question at the start of each section?)
 
+_In which I_
 
+common good. production not based on consumption. 
+
+Screendance is a small enough field—and collection of practices—to interrograte and indeed resist modes of production and presentation. The field has talked about this for years (examples) but if not now then when? To come out of hiding. To lead. (promise to the future).
+
+To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but within the possibilities opened up by this exchange, this social dance, this elemental friendship I witnessed.
+
+I've long wondered about screendance's fascination with filming dancing in nature. The trees, the green grass. A trope. [[Gerd-Günter Voß's three conducts of life]]
+
+- no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß. 
 
 - logic of consumption (see <https://notesread.com/liquid-modernity/> disguised as a mode of production. The danger in valorizing their making—their creativity. 
 
-
 > And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
 
-> According to the civic ideal, the common good is not simply about adding up preferences or maximizing consumer welfare. It is about reflecting critically on our preferences—ideally, elevating and improving them—so that we can live worthwhile and flourishing lives. This cannot be achieved through economic activity alone. It requires deliberating with our fellow citizens about how to bring about a just and good society, one that cultivates civic virtue and enables us to reason together about the purposes worthy of our political community.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.] 
+This writing is filled with ambivalence generated by my assumption that what those two people did next that day in March 2021 was to unwittingly participate in a complex techno-choreography of extraction. In many respects I feel something akin to _awe_: "the perception of vastness and the struggle to mentally process the experience."[@kaufman-2020-transcend Chapter 7 Peak Experiences n.pag.] Awe is unusual because it mixes emotions that do not normally reside together. In the case of these two people dancing, I experienced beauty and fear. There was beauty in happening across two human beings dancing together through play; the sense of them being close together and in common, and of their obliviousness and disinterest in being seen. I like to pretend that in that fleeting moment James Carse's idea of the infinite game came to mind; this is a game predicated on surprise and in which there is no audience, only players.[@carse-1986-finite] They were making something together, not something to be watched or consumed. Yet I was afraid too. I was afraid of the hidden players and costs—the externalities—of that play for their future, and for our future. Perhaps then this writing is an attempt to place that feeling of awe in the context of the work we make and see in the field of screendance. 
 
-- collective as standing reserve?  Connected (not community) - bauman (more like hist [[swarms in liquid modernity]]). Collective as "common". Ambiguity of word common.
-- part of the awe is the sense of their dancing being _with_ others. That they are networked—no, this isn't the right word. They are together. Close. Sharing. Seeing and being seen. But see Bauman (<https://notesread.com/liquid-modernity/>) on 'connection'—and how disconnecting becomes so easy. 
-
-Function is data extraction. Simple. But something awe-inspiring as well. Humans making. 
-
-To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but "within the realm of possibilities"[@feenberg-2000-essentialism p.301] opened up by this exchange, this social dance, this elemental friendship I witnessed.
-
-This writing is filled with uncertainty and ambivalence that is based on my assumption of what those two people did next that day in March 2021; that is, their unwitting participation in a complex choreography of extraction. I understand my ambivalence to be something akin to _awe_—a curious phenomenon based on "the perception of vastness and the struggle to mentally process the experience."[@kaufman-2020-transcend Chapter 7 Peak Experiences n.pag.] Awe is unusual because it mixes emotions that do not normally reside together. In the case of these two people dancing, I experienced beauty and fear. There was beauty in happening across two human beings dancing together through play. Since then, I imagine that in that fleeting moment James Carse's idea of the infinite game came to mind; this is a game predicated on surprise and in which there is no audience, only players.[@carse-1986-finite] They were making something together, not something to be watched or consumed. Yet I was afraid too. I was afraid of the hidden players and costs—the externalities—of that play for their future, and for our future. Perhaps then this writing is an attempt to place that feeling of awe in the context of the work we make and see in the field of screendance. 
+He discusses the work of Hans Jonas -- who was mentored by Heidegger -- and in particular a book called _The Imperative of Responsibility_. One key idea in the book (for Jacobs) is that new technologies demand new ethics; that we cannot rely on old ethical concerns or thinking "because no previous society possessed powers that could extend its reach so far in both space and time."[@jacobs_tending_2018 n.p.] For Jonas we must expand our understanding of responsibility to include how our actions effect people we will never meet. Jacobs writes how we can, by and large, deal with the expansion of space through technological means, but that time is more complex or largely ignored: "What force shall represent the future in the present?"[Jonas, in @jacobs_tending_2018 n.p.]
 
 ## Acknowledgements
 
-Bob Whalley—introducing me to Yuk Hui's book _The Question Concerning Technology in China_ (which appeared at nearly the same time in some writing I happened across by Alan Jacobs). People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas. 
+People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas. 
 
 Mention how development is publicly accessible -- working title was two women dancing. (7 May 2020 is first git commit of document called two women dancing.md)
 
 # Edit bin
+
+To recognise that the real struggle for screendance practitioners is not between no-tech analogue dancing and the algorithms of social media platforms, but within the possibilities opened up by this exchange, this social dance, this elemental friendship I witnessed.
+
+Looking into the "possibility of different technological futures" [[Hui - Cosmotechnics as Cosmopolitics#^06b080]]—this is really beautiful. That we are aware. Implications for screendance? 
+
+
+"within the realm of possibilities"[@feenberg-2000-essentialism p.301]
+
+"The Anthropocene is the planetarization of standing reserves"[@hui-2017-cosmotechnics n.pag.]
+"To reopen the question of technology is to refuse this homogeneous technological future that is presented to us as the only option."[@hui-2017-cosmotechnics n.pag.]
+
+> For Projectors and futurists, “all the grand perfect dreams of the technologists are happening in the future, but nobody is there.” Their imagined world is devoid of actual persons and much of the rest of Creation as well.15 But if one is not to be a Projector, what better attitude might one have toward the future? For Berry, the vital distinction is between projecting and promising: “The ‘projecting’ of ‘futurologists’ uses the future as the safest possible context for whatever is desired; it binds one only to selfish interest. But making a promise binds one to someone else’s future.” It is this distinction that points us toward means of fulfilling Jonas’s “imperative of responsibility.”[@jacobs-2018-tending n.pag.]
+
+
+> According to the civic ideal, the common good is not simply about adding up preferences or maximizing consumer welfare. It is about reflecting critically on our preferences—ideally, elevating and improving them—so that we can live worthwhile and flourishing lives. This cannot be achieved through economic activity alone. It requires deliberating with our fellow citizens about how to bring about a just and good society, one that cultivates civic virtue and enables us to reason together about the purposes worthy of our political community.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.] 
+
+Yuk Hui's work is to be with philosophy in a way that mine can never be, nor never way.For this reason, I need or rely on his thinking and writing for he is able to think and write philosophically far better than me. What he says here ... _in Memoriam_ does this work. It is not caught in a bubble of screendance; it resists culture. It is heterogenuous. 
+
+- collective as standing reserve?  Connected (not community) - bauman (more like hist [[swarms in liquid modernity]]). Collective as "common". Ambiguity of word common.
+- part of the awe is the sense of their dancing being _with_ others. That they are networked—no, this isn't the right word. They are together. Close. Sharing. Seeing and being seen. But see Bauman (<https://notesread.com/liquid-modernity/>) on 'connection'—and how disconnecting becomes so easy. 
+
+"the human agency necessary for moral judgment"[@zuboff-2019-age Chapter 16.V Homing to the Herd n.pag.]
 
 See also [[Gelassenheit]]—Gelassenheit is translated as _releasement_ or _letting go_; "to let things be in whatever may be their uncertainty and their mystery".
 
