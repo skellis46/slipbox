@@ -10,8 +10,8 @@
 
 - see original article for references 
  
- - privacy, panopticon, confession, (over)sharing, individualism vs individuation, common good/community and responsibility. 
-- [[two women dancing#^9d0d6a]]
+- privacy, panopticon, confession, (over)sharing, individualism vs individuation, common good/community and responsibility. 
+- [[two women dancing]]
 - [[Sandel - The Tyranny of Meritocracy]]
 - [[somatics and the homogenous body]]
 - [[technology and individualism]]
