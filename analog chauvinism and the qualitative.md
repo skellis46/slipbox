@@ -3,7 +3,7 @@ aliases: []
 tags: []
 ---
 
-# analog chauvinism and the qualitative 
+# analog chauvinism and the qualitative
 
 Alexander Galloway's post is a response to Brian Massumi's book _99 Theses on the Revaluation of Value: A Postcapitalist Manifesto_. Galloway includes a playful rant about being able to spot digital philosophers, and also that "analog philosophers are observable in the wild."[@galloway-2020-massumi n.pag] He describes Massumi's penchant for marveling at the complexity and beauty of the world as "awesomeology", and links it to Massumi's "deep skepticism toward anything digital, particularly number and quantity."[@galloway-2020-massumi n.pag] Galloway gives the following example from Massumi's book of this link between awesomeology and skepticism towards numbers: 
 
