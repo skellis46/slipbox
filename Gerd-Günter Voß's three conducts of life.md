@@ -5,6 +5,8 @@ tags: [two_women_dancing]
 
 # Gerd-Günter Voß's three conducts of life
 
+In _From Tech Critique to Ways of Living_ Alan Jacobs introduces German sociologist Gerd-Günter Voß's three conducts of life: traditional, strategic, and situational.[@jacobs-2021-tech p.29] These conducts describe an increasingly instrumental relationship to nature from taking stewardly and sustainable care of resources to the "immediacy of appropriation":[@jacobs-2021-tech p.30]
+
 Gerd-Günter Voß is a German sociologist who has thought about our changing relationship to nature, and has proposed three different models of the _conduct of life_: traditional, strategic, situational. 
 
 >The movement through these three forms of conduct, whatever benefits it might have, makes our relations with nature increasingly instrumental. We can see this shift more clearly when looking at our changing experience of time, and our understanding of the values inscribed in the passage of time. Within the traditional conduct of life, it is necessary to take stewardly care of the resources required for the exercise of a craft or a profession, as these get passed on from generation to generation.[@jacobs-2021-tech p.29]
