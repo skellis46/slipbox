@@ -5,7 +5,7 @@ tags: []
 
 # the Dao of butchering cows
 
-Yuk Hui is a philosopher. In his article [[Hui - Cosmotechnics as Cosmopolitics]] he briefly discusses [[noumenon and phenomenon]], and states that Dao "belongs to the noumenon according to the Kantian distinction, while Qi belongs to the phenomenon.[@hui-2017-cosmotechnics n.pag.]
+Yuk Hui is a philosopher of technology. In his article [[Hui - Cosmotechnics as Cosmopolitics]] he briefly discusses [[noumenon and phenomenon]], and states that Dao "belongs to the noumenon according to the Kantian distinction, while Qi belongs to the phenomenon.[@hui-2017-cosmotechnics n.pag.]
 
 He tells the story of a very good butcher called Pao Ding (as told in _Zhuangzi_). Pao Ding claims that having an excellent knife is not enough:
 
