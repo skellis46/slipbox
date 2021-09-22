@@ -2,7 +2,7 @@
 aliases: []
 type: "article"
 platform: "ijsd"
-current-status: "in-progress"
+current-status: "submitted"
 status-updated: "20210922"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
@@ -15,13 +15,13 @@ social media, digital commons, public commons, technology, myth, algorithms
 
 ## Abstract
 
-In this article I explore screendance's affair with social media, and the logics of production and consumption endemic to dancing for smartphones. I use an incidental encounter with two people making a dance video to try and make sense of how screendance practices and practitioners are being changed by social media technologies. I use the work of Harmony Bench, Shosana Zuboff, Alan Jacobs, Zygmunt Bauman, Neil Postman, Yuk Hui and Annie Pfingst and Helen Poynor to help construct a seven-part narrative about how screendance can stop hiding in plain sight and become a set of practices that visibly contradict the extractive datafication of humans in motion. 
+In this article I explore screendance's affair with social media, and the logics of production and consumption endemic to dancing for smartphones. I use an incidental encounter with two people making a dance video to try and make sense of the ways in which screendance practices and practitioners are being changed by social media technologies. I use the work of Harmony Bench, Shosana Zuboff, Alan Jacobs, Zygmunt Bauman, Neil Postman, Yuk Hui and Annie Pfingst and Helen Poynor to help construct a seven-part narrative about how screendance can stop hiding in plain sight and become a set of practices that visibly contradict the extractive datafication of humans in motion. 
 
 ---
 
  >the outside world, the non-digital world, is merely a theatrical space in which one stages and records content for the much more real, much more vital digital space.
  
- -- Bo Burnham [-@burnham-2021-inside n.pag]
+ -- Bo Burnham [-@burnham-2021- n.pag]
 
 > Here indeed, the whole mechanism of the operation is invisible to the viewer: the deepest darkness reigns: suddenly, a ghost appears, far, far away at first, appearing as a point of light to the audience. But it soon grows, becomes bigger and bigger and seems to approach slowly at first, to then rush towards the spectators: the illusion is total.
 
@@ -51,7 +51,7 @@ These descriptions of the practices of screendance being variously hidden, revea
 
 This writing is not about the kind of hiding that speaks of screendance's uncertainty about itself and desire for recognition. Instead, it is an attempt to understand what I could not see when I happened across those two young people making dances for their smartphone, and how mechanisms and narratives of _hiding_ might matter to those of us who create screendances. 
 
-These two young people were dancing in plain sight while recording their movement, but it's not possible to know with any certainty _why_ they were recording their dancing. The assumption on which this writing rests is that what I saw that day was not the the full story; that what they did next or soon after was to post the _best version_ of their screendance performances _on social_. I think this assumption is plausible and warranted because, as Harmony Bench suggests, it is "difficult if not impossible to separate dance in public from social media in an era when the latter are determining forces of contemporary social life and engagement."[-@bench-2020-perpetual p.65] 
+These two young people were dancing in plain sight while recording their movement, but it's not possible to know with any certainty _why_ they were recording their dancing. The assumption on which this writing rests is that what I saw that day was not the full story; that what they did next or soon after was to post the _best version_ of their screendance performances _on social_. I think this assumption is plausible and warranted because, as Harmony Bench suggests, it is "difficult if not impossible to separate dance in public from social media in an era when the latter are determining forces of contemporary social life and engagement."[-@bench-2020-perpetual p.65] 
 
 My assumption effectively renders these two young people as representations or proxies; they stand in for all humans recording their dancing and uploading it to social media, not solely teenagers doing the same thing. People dance, record their dancing, and upload those recordings to social media; and we do all of these things routinely. Volume 12 of IJSD is testimony to the fact that social media technologies are cultural levers and patterns deeply embedded in screendance practices.[e.g. @blancoborelli-2021-tiktok; @benthaus-2021-this] 
 
@@ -91,15 +91,15 @@ For all that Bench so beautifully and diplomatically articulates, my sense is th
 
 [^hb]: In a personal communication with Harmony Bench in September of 2021 I asked her if she felt my description or _sense_ of her position was accurate. She disagreed and suggested two things: a) that "delicate ambivalence" was more accurate; and b) that if the question were flipped: "Is dance good for social media?" then she would could agree with that.
 
-In 1993, the technology skeptic Neil Postman coined a word, technopoly, which he describes as "the submission of all forms of cultural life to the sovereignty of technique and technology."[@postman-1993-technopoly p.52] Postman describes technopoly as totalitarian technocracy because it "eliminates alternatives to itself"[@postman-1993-technopoly p.48] by rendering them invisible. Technopoly is a way of culture and thinking in which no matter the question, the answer is technology. Yet, when there is only one answer, the nature of the questions we ask inevitably changes and we create loops of recursion that are both frightening and fascinating.[@turkle-2021-empathy] 
+In 1993, the technology skeptic Neil Postman coined a word, technopoly, which he describes as "the submission of all forms of cultural life to the sovereignty of technique and technology."[@postman-1993-technopoly p.52] Postman describes technopoly as totalitarian technocracy because it "eliminates alternatives to itself"[@postman-1993-technopoly p.48] by rendering them invisible. Technopoly is a way of culture and thinking in which no matter the question, the answer is technology. Yet, when there is only one answer, the nature of the questions we ask inevitably changes and we create loops of recursion that are both frightening and fascinating.[@turkle-2021-empathy] 
 
 ## Myth and the right to a future tense
 
 _In which I describe Alan Jacobs' understanding of the value of myth in the technopoly and the understandable temptation to go into hiding._
 
-In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ and, like much of his thinking, it calls attention to the power and value of myth making. Jacobs describes how Postman's technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs_after_2019 p.4] Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. The mythical core represents those of us "who practice moral life by habits of affection, not by rules."[@jacobs_after_2019 p.4] For Kołakowski, the mythical core of culture is those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-after p.3] In other words, the mythical core—a way of experiencing "nonempirical unconditioned reality"[Kołakowski, in @jacobs-2019-after p.3]—is unable to be pressed into the logic of technology no matter our rational capacities. For Jacobs, the mythical core is a way out of the recursive loop of the technopoly.
+In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ and, like much of his thinking, it calls attention to the power and value of myth making. Jacobs describes how Postman's technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs-2019-technopoly p.4] Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. The mythical core represents those of us "who practice moral life by habits of affection, not by rules."[@jacobs-2019-technopoly p.4] For Kołakowski, the mythical core of culture is those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-technopoly p.3] In other words, the mythical core—a way of experiencing "nonempirical unconditioned reality"[Kołakowski, in @jacobs-2019-technopoly p.3]—is unable to be pressed into the logic of technology no matter our rational capacities. For Jacobs, the mythical core is a way out of the recursive loop of the technopoly.
 
-This interplay between rationalism and myth is a key aspect of Jacobs' ongoing thinking. He argues that technocratic rationalism cannot be avoided but rather transcended: "that there is something better, not in opposition to it, but on the other side of it. Something that will in time emerge."[@jacobs-2019-after p.13] This all sounds so easy, perhaps even quaint, but Jacobs also warns that the place for transcending technopoly will be a _hidden place_ because if "transnational technopoly can hunt you down and root you out, it will; and it probably can".[@jacobs-2019-after p.13]
+This interplay between rationalism and myth is a key aspect of Jacobs' ongoing thinking. He argues that technocratic rationalism cannot be avoided but rather transcended: "that there is something better, not in opposition to it, but on the other side of it. Something that will in time emerge."[@jacobs-2019-technopoly p.13] This all sounds so easy, perhaps even quaint, but Jacobs also warns that the place for transcending technopoly will be a _hidden place_ because if "transnational technopoly can hunt you down and root you out, it will; and it probably can".[@jacobs-2019-technopoly p.13]
 
 In _Surveillance Capitalism_ Shoshana Zuboff also talks about hiding, and her thinking is similarly bleak when it comes to the future. She writes of the terrible danger that we become accustomed to either life without privacy or the necessity to hide from being seen. She suggests that both alternatives—total transparency or hiding underground—"rob us of the life-sustaining inwardness, born in sanctuary, that finally distinguishes us from the machines."[@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.] Her perspective is that surveillance capitalism has compromised our right to the future tense. This is the right to make moral decisions free from forces that modify and exploit our behavior, and that function beyond our awareness.
 
@@ -144,13 +144,13 @@ In this future or the next, screendance emerged out of the rubble of “life ver
 
 ## To distill production from consumption
 
-_In which I try to draw these threads together through the lens of **awe**, and then make a gentle provocation for the field of screendance_
+_In which I try to draw these threads together through lenses of awe and ambiguity._
 
 > As much as networked technology has dismantled and distributed power in more egalitarian ways, it has also extended and obscured power, making it less visible and, arguably, harder to resist.
 
 -- Astra Taylor[in @jacobs-2018-tending n.pag.]
 
-> What was required of the earth so that I might be able to use this technology? [...] Upon what systems, technical or human, does my use of this technology depend? Are these systems just?
+> What was required of the earth so that I might be able to use this technology? [...] Upon what systems, technical or human, does my use of this technology depend? Are these systems just?
 
 -- L. M. Sacasas[-@sacasas-2021-questions n.pag.]
 
@@ -162,7 +162,7 @@ Perhaps also the writing reflects my desire to convince readers—particularly t
 
 > And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
 
-I am proposing that we must seek methods of making that distill production from consumption; that our work is to pry apart the discombobulating effects of screendancing to be seen, and to do this in plain sight. I understand screendance to be a small enough field—and collection of practices—to interrogate and resist the logic of production predicated on consumption. We have talked about such resistance for years as a community but as dance has become more and more visible on social media, the temptation is to celebrate these days in the sun, and turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs_tending_2018 n.p.] Western culture's crash zoom to social media since around the introduction of Facebook's Like button in 2009[@alter-2017-irresistible Chapter 5 Feedback, n.pag.] has made the stakes high and ambiguous for screendance: the promise of being transmitted and seen (finally!) at the cost of extractive consumption and the "immediacy of appropriation":[@jacobs-2021-tech p.30]
+I am proposing that we must seek methods of making that distill production from consumption; that our work is to pry apart the discombobulating effects of screendancing to be seen, and to do this in plain sight. I understand screendance to be a small enough field—and collection of practices—to interrogate and resist the logic of production predicated on consumption. We have talked about such resistance for years as a community but as dance has become more and more visible on social media, the temptation is to celebrate these days in the sun, and turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs-2018-tending n.p.] Western culture's crash zoom to social media since around the introduction of Facebook's Like button in 2009[@alter-2017-irresistible Chapter 5 Feedback, n.pag.] has made the stakes high and ambiguous for screendance: the promise of being transmitted and seen (finally!) at the cost of extractive consumption and the "immediacy of appropriation":[@jacobs-2021-tech p.30]
 
 > We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_.[@jacobs-2021-tech p.30]
  
