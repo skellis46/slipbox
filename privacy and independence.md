@@ -11,7 +11,7 @@
 - see original article for references 
  
 - privacy, panopticon, confession, (over)sharing, individualism vs individuation, common good/community and responsibility. 
-- [[two women dancing]]
+- [[Lithium dancing]]
 - [[Sandel - The Tyranny of Meritocracy]]
 - [[somatics and the homogenous body]]
 - [[technology and individualism]]

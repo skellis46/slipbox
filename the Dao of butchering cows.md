@@ -15,7 +15,7 @@ Hui writes that when the butcher encounters any difficulty, "he slows down the k
 
 ---
 
-## notes from [[two women dancing]]
+## notes from [[Lithium dancing]]
 
 start with Hui and then move to Jacobs' reading of him. 
 

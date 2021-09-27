@@ -14,7 +14,7 @@ See also [en.wikipedia.org/wiki/Parametricism](https://en.wikipedia.org/wiki/Par
 
 _thoughts & links:_
 
-- taken by that phrase 'eruptions of the digital' and might be useful for [[two women dancing]]
+- taken by that phrase 'eruptions of the digital' and might be useful for [[Lithium dancing]]
 
 #two_women_dancing 
 

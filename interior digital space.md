@@ -15,7 +15,7 @@ tags: [two_women_dancing]
 
 _thoughts & links:_
 
-- [[two women dancing]]
+- [[Lithium dancing]]
 
 
 ---

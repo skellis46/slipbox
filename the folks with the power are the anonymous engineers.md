@@ -15,7 +15,7 @@ _thoughts & links:_
 
 - [[Blanco Borelli and moore - TikTok, Friendship, and Sipping Tea, or How to Endure a Pandemic]]
 - [[TikTok and Short-Form Screendance Before and After Covid]]
-- [[two women dancing]]
+- [[Lithium dancing]]
 
 
 ---
