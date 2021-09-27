@@ -4,10 +4,6 @@ current-status: "in-progress"
 
 # future responsibility and stewardship
 
-_previous note:_ [[device paradigm and focal things]]
-
----
-
 Humanities professor Alan Jacobs' article _Tending the Digital Commons_ is about the nature of online content, who owns it, who can access it, and what these questions mean for our future. It is this concern for the future that interests me here. Jacobs writes:
 
 >Those of us who live much of our lives online are not faced here simply with matters of intellectual property; we need to confront significant choices about the world we will hand down to those who come after us. The complexities of social media ought to prompt deep reflection on what we all owe to the future, and how we might discharge this debt.[@jacobs_tending_2018 n.p.]
@@ -17,6 +13,14 @@ He discusses the work of Hans Jonas -- who was mentored by Heidegger -- and in p
 Jacobs states that we must accept the responsibility of stewardship and that this depends on the distinction between projecting and promising. Whereas projecting is a way to make the future anything we might want it to be (what he calls "only selfish interest", promising "binds one to someone else’s future."[@jacobs_tending_2018 n.p.] He cites Wendell Berry who writes that, "We are speaking where we stand, and we shall stand afterwards in the presence of what we have said."[Berry, in @jacobs_tending_2018 n.p.]
 
 > Scholars, I might add, who, through their scholarship, can be accountable to the future—who, to borrow a phrase from W.H. Auden, can “assume responsibility for time.”[@jacobs-2018-tending n.pag.]
+
+> For Projectors and futurists, “all the grand perfect dreams of the technologists are happening in the future, but nobody is there.” Their imagined world is devoid of actual persons and much of the rest of Creation as well.15 But if one is not to be a Projector, what better attitude might one have toward the future? For Berry, the vital distinction is between projecting and promising: “The ‘projecting’ of ‘futurologists’ uses the future as the safest possible context for whatever is desired; it binds one only to selfish interest. But making a promise binds one to someone else’s future.” It is this distinction that points us toward means of fulfilling Jonas’s “imperative of responsibility.”[@jacobs-2018-tending n.pag.]
+
+> Training young people how to live and work extramurally—to limit their exposure to governance via terms of service and APIs—is a vital hedge against this future.[@jacobs-2018-tending n.pag.]
+
+> The complexities of social media ought to prompt deep reflection on what we all owe to the future, and how we might discharge this debt.[@jacobs-2018-tending n.pag.]
+
+> The problem comes when, by living in conditions of such dependence, you forget that there’s any other way to live—and therefore cannot teach another way to those who come after you. Your present-day social-media ecology eclipses the future social-media ecology of others.[@jacobs-2018-tending n.pag.]
 
 _questions & thoughts:_
 
@@ -30,6 +34,7 @@ _questions & thoughts:_
 
 _consider:_
 
+- [[device paradigm and focal things]]
 - in the article Jacobs cites _Their Lonely Betters_ by Auden -- [[words, promises and time]] -- and of assuming responsibility for time (and for keeping promises)
 - compare with [[action is the foundation of thought]] which is highlighting actions in space over time; here it is a question of time and responsibility (perhaps more abstract?)
 - [ ] check out _The Imperative of Responsibility_ by Hans Jonas
