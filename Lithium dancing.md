@@ -172,5 +172,4 @@ It is simply a coincidence that the extraction of lithium plays a key role in th
 
 People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas. Harmony.
 
-Note that the entire development of _Lithium dancing (hidden in plain sight)_—every edit, tangent, and syntactical tic—is publicly accessible as part of a GitHub repository at [github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md](https://github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md). The working title was _two women dancing_, and the first git commit (or upload to GitHub) was on 7 May 2020.
-
+Note that the entire development of _Lithium dancing (hidden in plain sight)_—every edit, tangent, and syntactical tic—is publicly accessible as part of a GitHub repository at [github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md](https://github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md). The working title was _two women dancing_, and the first git commit (or upload to GitHub) was on 7 May 2021 (check this date -- 2021? or 2020?)
