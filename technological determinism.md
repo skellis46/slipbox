@@ -19,6 +19,18 @@ Consider technological determinism in relation to [[gestell and enframing]] and 
 
 _thoughts & links:_
 
+- note from edit bin of [[Lithium dancing]]:
+
+Technological determinism is the idea that technological development determines social change or human behaviour. These represent old and rather obvious stories of technology. , , so old that it is a trope one that is little more than a trope or meme. In the _The Gutenberg Galaxy_ (1962) Marshall McLuhan wrote ... Heidegger; Determinism.
+
+This is the history of technologies –- affording certain behaviours, preventing others . 
+
+Affordances . Gibson. Technologies afford behaviours 
+- two perspectives; one is what is afforded by the interaction and indeed the technology. Technologies afford behaviours. 
+
+The _problem_ is seen everywhere. In dance, technological determinism can be seen as a problem or a possibility. Cooper Albright has written of "how the ubiquity of screens in contemporary dance affects how we watch movement"[@cooperalbright-2012-tensions p.21], and Ellis has described how the hyper-presence of movement on screens has increased screendance literacy[@ellis-2018-faces] 
+
+Again, this is a cliche. We are changed. But how is the question, and do we want this? Or perhaps it's the invisible things (as Postman says) that are the key? 
 
 ---
 
