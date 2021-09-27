@@ -144,6 +144,8 @@ updated: "20210824"
 
 > It is not my intention, then, to posit the common of dance as an antidote to cultural appropriation or capitalist expropriation. Instead, I explore the common as a model for understanding how dance circulates through early twenty-first-century digital cultures and what happens when technologically enabled decontextualization allows dancers to bypass the social norms that sustain a movement culture.[@bench-2020-perpetual p.160]
 
+> Even though Happy circulates within a commercial economy, it simultaneously activates (and is amplified by) an internet gift economy, where digital platforms cultivate and capture the circulation of intangible commodities such as the embodied objects of gesture and movement.[p.171]
+
 > Gift economies retain the connection between giver and gift (or contributor and contribution), mediated by the recipient. Market economies, as Marx observed, alienate producers from (the products of ) their labor, and compensation, in theory, terminates the relationship with payment for services rendered—whether in the context of a factory, a dance studio, or a video game.[@bench-2020-perpetual p.179]
 
 > Maurizio Lazzarato follows Nietzsche in arguing that it is debt that lies at the foundation of social relations. The principle of exchange, Lazzarato argues, presupposes parties that are on equal footing, but acknowledging the force of debt in structuring social relations also acknowledges that there is an imbalance of power in every relation, and this influences the flow of capital. Imbalance "does not mean that exchange does not exist, but rather that it functions according to a logic not of equality but of disequilibrium and difference."128[@bench-2020-perpetual p.180]
