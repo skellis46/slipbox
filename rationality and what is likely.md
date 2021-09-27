@@ -15,6 +15,7 @@ _questions & thoughts:_
 - in #practice-research practice-research, given my interests, evidence (etc), what is likely? What are the other things that might be equal
 - the kicker in all this is about recognising and understanding our interests and biases
 - #finger-pointing-moon 
+- writing from [[Lithium dancing]] edit bin: I also understand this writing to be an expression of rationality in the sense that I hope it reveals my interests, understanding, and concerns and how these "shape what is likely, what is pertinent, what is useful, and what matters".[@noe-2015-strange Part I, Chapter 5: Art, Evolution, and the Puzzle of Puzzles, n.pag.] 
 
 --- 
 
@@ -22,6 +23,7 @@ _consider:_
 
 - [[epistemic rationality]]
 - [[interpretation remains present]]
+- [[rationalism vs empiricism]]
 
 
 _source:_ Searching for possible third-person collaborators for #finger-pointing-moon, thought of Alva Noë and then noticed this book (which I had already downloaded some years ago)
