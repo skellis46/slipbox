@@ -18,6 +18,7 @@ Gerd-Günter Voß is a German sociologist who has thought about our changing rel
 _thoughts & links:_
 
 - Reminded by situational conduct of life of [[knowledge that is localised and fleeting]] and the value of that localised understanding.
+- it'no longer necessary to take stewardly care. This seems to relate (slightly) to ideas above re zooming out/long now. See [[Jacobs - from tech critique to ways of living]] and in particular his discussion of Gerd-Günter Voß. 
 - interesting re [[Lithium dancing]] the idea of the two young women's place in nature. Paradox of their location (most likely just to escape being inside, or at least their only option was to be outside -- other not allowed during lockdown), how oblivious they were to it, and the technology's instrumental relationship to nature. See [[human industrial economy]]
 - reminded of screendance's fascination with filming dancing in nature. The trees, the green grass. A trope.
 
