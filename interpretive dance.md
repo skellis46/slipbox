@@ -12,4 +12,4 @@ status-updated: "20210824"
 
 Dance your PhD: [https://youtu.be/UlDWRZ7IYqw](https://youtu.be/UlDWRZ7IYqw)
 
-See also links from [[Murphy Paul - The Extended Mind]] re choreography as teaching aid, and also instrumentalisation of dance.
+See also links from [[Murphy Paul - The Extended Mind#^781857]] re choreography as teaching aid, and also [[Murphy Paul - The Extended Mind#^fefc98]] re instrumentalisation of dance. 
