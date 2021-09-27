@@ -7,9 +7,10 @@ tags: [two_women_dancing]
 
 Technopoly is Neil Postman's term from his book: _Technopoly: The Surrender of Culture to Technology_. Summary: [en.wikipedia.org/wiki/Technopoly](https://en.wikipedia.org/wiki/Technopoly)
 
+Postman died in 2003: a year before Mark Zuckerberg founded Facebook, three years before Dorsey, Glass, Stone and Williams founded Twitter, four years before the release of the first iPhone, and six years before Facebook added its _like_ button. (check this final fact)
 
-
-[[technopoly in the west deploys carrots rather than sticks]]
+- [[technopoly in the west deploys carrots rather than sticks]]
+- [[Lithium dancing]]
 
 ---
 
