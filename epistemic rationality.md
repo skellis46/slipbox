@@ -12,7 +12,7 @@ Instrumental rationality is about choosing actions and behaviours that encourage
 
 Yudkowsky's perspective is fundamentally mathematical. For example, the post describes Bayesian formalisms in relation to rationality. But then, he writes:
 
->There’s a whole further art to finding the truth and accomplishing value _from inside a human mind_: we have to learn our own flaws, overcome our biases, prevent ourselves from self-deceiving, get ourselves into good emotional shape to confront the truth and do what needs doing, et cetera, et cetera.
+> There’s a whole further art to finding the truth and accomplishing value _from inside a human mind_: we have to learn our own flaws, overcome our biases, prevent ourselves from self-deceiving, get ourselves into good emotional shape to confront the truth and do what needs doing, et cetera, et cetera.
 
 
 
