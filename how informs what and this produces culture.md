@@ -10,9 +10,7 @@ updated: "20210525"
 
 Postman's argument is that the means by which we have discussions informs what those discussions are able to easily express, and that easily expressible ideas become central markers of culture. Postman's argument: 
 
-> ... fixes its attention on the forms of human conversation, and postulates that how we are obliged to conduct such conversations will have the strongest possible influence on what ideas we can conveniently express. And what ideas are convenient to express inevitably become the important content of a culture.[@postman-2006-amusing p.6]
-
-^aa0fb6
+> ... fixes its attention on the forms of human conversation, and postulates that how we are obliged to conduct such conversations will have the strongest possible influence on what ideas we can conveniently express. And what ideas are convenient to express inevitably become the important content of a culture.[@postman-2006-amusing p.6] ^aa0fb6
 
 To understand what is possible and what is not given the terms of a medium is fundamental. But I'm struck by the idea of something being convenient to express. Convenience matters enormously. Think memes. Which of course begs the question about the value of things/experiences that are inconvenient to express. 
 
