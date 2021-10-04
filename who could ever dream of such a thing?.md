@@ -2,16 +2,12 @@
 aliases: []
 type: "newsletter"
 platform: "skellis.net"
-current-status: "in-progress"
-status-updated: "20210921"
+current-status: "published"
+status-updated: "20211008"
 
 ---
 
 # Who could ever dream of such a thing?
-
-_I know that [last month I promised I'd write something about interpretive dance]() but that will have to wait until November. This is because I've recently been doing some scholarly writing about dance and social media. At the moment it is called Lithium dancing (hidden in plain sight) -- if you are interested let me know and I'll send a copy. While doing that work I went off on a tangent one afternoon (well, it wasn't a tangent at the time) and ended up drafting what follows. I've edited it a bit for you, but mostly it is as I initially wrote it. I hope it brings you some pleasure._ 
-
----
 
 Human beings now produce (and upload) an extraordinary volume of video, and homemade dance videos are both common and massively popular on social media. 
 
@@ -26,12 +22,3 @@ The potential weakness of these social network habitats is their reliance on the
 But all of this, _all_ of this, is made possible by massive corporation-organisms that more or less control the entire ecosystem. These are the leviathans of our time and they are the organisations who own and train the social networks. They are mostly unregulated -- we might say _untouchable_ or _immune_ -- and their system of control is algorithmic. What's more, these organisms have an open secret: each time a human views or transmits a virus, these corporation-organisms extract information from the human transmitters that serves two purposes: a) to increase the desire of humans to produce, transmit and consume more viruses; b) to sustain the leviathan organism by providing it with data that it then sells. These data are bought and used by big and small commercial enterprises to sell more things to humans in part so we will produce more viruses. 
 
 Who could ever dream of such a thing?
-
-
-
-### Recent newsletters
-
-- September 2021: [Making tennis something different](https://mailchi.mp/c9d358c3419f/tdkyqsgow4-4801366)
-- August 2021: [The lure of the dancing queen](https://mailchi.mp/85e606144428/tdkyqsgow4-4774690)
-- July 20201: [Choreography as a hammer](https://mailchi.mp/533ec5858e5b/tdkyqsgow4-4771458)
-- June 2021: [Speeing to go slow](https://mailchi.mp/365968feffc4/june-2021-speeding-to-go-slow-4769030)
