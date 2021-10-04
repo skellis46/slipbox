@@ -25,7 +25,9 @@ In this article I explore screendance's affair with social media, and the logics
 
 > Here indeed, the whole mechanism of the operation is invisible to the viewer: the deepest darkness reigns: suddenly, a ghost appears, far, far away at first, appearing as a point of light to the audience. But it soon grows, becomes bigger and bigger and seems to approach slowly at first, to then rush towards the spectators: the illusion is total.
 
--- Victor de Moléon (1836) [in @chateau-2016-screensa pp.49-50]
+-- Victor de Moléon (1836) [in @chateau-2016-screensa pp.49-50] [^mm]
+
+[^mm]: Check re MM
  
 ## Two young people and their camera
 
@@ -97,7 +99,7 @@ In 1993, the technology skeptic Neil Postman coined a word, technopoly, which he
 
 _In which I describe Alan Jacobs' understanding of the value of myth in the technopoly and the understandable temptation to go into hiding._
 
-In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ and, like much of his thinking, it calls attention to the power and value of myth making. Jacobs describes how Postman's technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs-2019-technopoly p.4] Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. The mythical core represents those of us "who practice moral life by habits of affection, not by rules."[@jacobs-2019-technopoly p.4] For Kołakowski, the mythical core of culture is those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-technopoly p.3] In other words, the mythical core—a way of experiencing "nonempirical unconditioned reality"[Kołakowski, in @jacobs-2019-technopoly p.3]—is unable to be pressed into the logic of technology no matter our rational capacities. For Jacobs, the mythical core is a way out of the recursive loop of the technopoly.
+In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ that, like much of his thinking, calls attention to the power and value of myth making. Jacobs describes how Postman's technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs-2019-technopoly p.4] Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. The mythical core represents those of us "who practice moral life by habits of affection, not by rules."[@jacobs-2019-****technopoly p.4] For Kołakowski, the mythical core of culture is those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-technopoly p.3] In other words, the mythical core—a way of experiencing "nonempirical unconditioned reality"[Kołakowski, in @jacobs-2019-technopoly p.3]—is unable to be pressed into the logic of technology no matter our rational capacities. For Jacobs, the mythical core is a way out of the recursive loop of the technopoly.
 
 This interplay between rationalism and myth is a key aspect of Jacobs' ongoing thinking. He argues that technocratic rationalism cannot be avoided but rather transcended: "that there is something better, not in opposition to it, but on the other side of it. Something that will in time emerge."[@jacobs-2019-technopoly p.13] This all sounds so easy, perhaps even quaint, but Jacobs also warns that the place for transcending technopoly will be a _hidden place_ because if "transnational technopoly can hunt you down and root you out, it will; and it probably can".[@jacobs-2019-technopoly p.13]
 
@@ -139,7 +141,7 @@ Hui writes that when the butcher encounters any difficulty, "he slows down the k
 
 I like to think that Annie Pfingst and Helen Poynor's sleight of hand was to recognise the utility of the knife as technic, while being busy with the Dao of making. That is, in _in Memoriam_ they unified the cosmos and the moral. 
 
-In this future or the next, screendance emerged out of the rubble of “life versus the machine”[Paul Kingsnorth, in @jacobs-2021-tech p.28] and humankind's dance with the technological singularity. The singularity—which did not end up happening just in case you were wondering—once described the point at which "ever-more-rapid technological change leads to unpredictable consequences".[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017  Hui was calling a pipe dream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
+In this future or the next, screendance emerged out of the rubble of “life versus the machine”[Paul Kingsnorth, in @jacobs-2021-tech p.28] and humankind's dance with the technological singularity. The singularity—which did not end up happening just in case you were wondering—once described the point at which "ever-more-rapid technological change leads to unpredictable consequences".[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017 Hui was calling a pipe dream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
 
 
 ## To distill production from consumption
