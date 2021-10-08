@@ -1,3 +1,7 @@
+---
+tags: [blog-post]
+---
+
 # early questions for practice-research
 
 _previous note:_ [[thomson - practice as research]]

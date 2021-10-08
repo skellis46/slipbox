@@ -4,6 +4,7 @@ type: "post"
 platform: "blog-par"
 current-status: "published"
 status-updated: "20210507"
+tags: [blog-post]
 ---
 
 

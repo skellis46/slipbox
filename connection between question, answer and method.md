@@ -1,3 +1,7 @@
+---
+tags: [blog-post]
+---
+
 # connection between question, answer and method
 
 _previous note:_ [[biggs and buchler - eight criteria for practice-based research]]
