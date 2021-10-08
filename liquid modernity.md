@@ -9,7 +9,9 @@ The Polish sociologist Zygmunt Bauman describes a liquid-modern society that is 
 
 Liquid modernity is characterized by the never-ending process of modernization, and how societal improvements for the common good have been largely replaced by the "self-assertion of the individual."[@bauman-2000-liquid p.29] 
 
-> The **liquid modernity is agile** , as it follows the fashion and the thought of that time. Science, technique, education, health, human relations and everything else that was created by human beings to compose society are subjected to the **capitalist logic of consumption** . Source: <https://notesread.com/liquid-modernity/>
+> The **liquid modernity is agile** , as it follows the fashion and the thought of that time. Science, technique, education, health, human relations and everything else that was created by human beings to compose society are subjected to the **capitalist logic of consumption** .
+
+Source: <https://notesread.com/liquid-modernity/>
 
 - see Bauman (<https://notesread.com/liquid-modernity/>) on 'connection'—and how disconnecting becomes so easy. 
 
