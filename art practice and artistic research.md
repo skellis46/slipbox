@@ -23,6 +23,7 @@ _consider:_
 - [[search for truth]]
 - [[finger pointing at the moon]]
 - #practice-research 
+- see notes 
 
 
 _source:_ unknown

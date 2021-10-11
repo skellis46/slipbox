@@ -17,19 +17,18 @@ Noë is stating that the value and function of art is not about discovery, but i
 _questions & thoughts:_
 
 - this note is taken from materials in Chapter 11:  _Art Is a Philosophical Practice and Philosophy an Aesthetic One_.
-- who ought to be responsible for these enactments, or conversations? the artist reflecting as in PaR? Or the audience? or both? #practice-research 
+- who ought to be responsible for these enactments, or conversations? the artist reflecting as in PaR? Or the audience? or both? #practice-research
 - how then -- and this is not the first time this question has been asked? -- is practice-research different from making art? See Magee ([magee-2012-accountability.pdf](hook://file/mz8Ki68gv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=magee-2012-accountability.pdf)) for overview of how art made sense of itself in the academy at the beginning. See also Frayling (1993)
-- the idea that art (and philosophy) produce change in understanding chimes very well with _Finger Pointing Moon_. The question becomes then who is changed by it -- and sets up the possibility of [[a case for writing in practice-research]] in which the artist-researcher sometimes does that work of change, other times allows it to rest with the audience/viewer. In this respect it's not so much the presence of writing that confers the status of 'research' on a work of art, but rather that the researcher has done the work of communicating change/understanding (which will not be equivalent to the understandings afforded by the artistic artefact)
+- the idea that art (and philosophy) produce change in understanding chimes very well with _Finger Pointing Moon_. The question becomes then who is changed by it -- and sets up the possibility of [[a case for writing in practice-research]] in which the artist-researcher sometimes does that work of change, other times allows it to rest with the audience/viewer. In this respect it's not so much the presence of writing that confers the status of 'research' on a work of art, but rather that the researcher has done the work of communicating change/understanding (which will necessarily not be equivalent to the understandings afforded by the artistic artefact)
 - reminded here of how useful 'meaning potentials' and 'affordance' is in this case. That something is afforded by practice-research
-
-- [ ] look more into underpinnings of affordances? 
+ ^d47823
+- [ ] look more into underpinnings of affordances? (Gibson)
 
 
 --- 
 
 _consider:_
 
-- #finger-pointing-moon 
 - [[human experience and language]]
 - [[interpretation remains present]]
 - [[seeing as exchange with the world]]

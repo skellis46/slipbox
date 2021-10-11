@@ -12,3 +12,6 @@ https://www.nytimes.com/2021/07/20/opinion/ezra-klein-podcast-annie-murphy-paul.
  
 ---
  
+ - [[Murphy Paul - The Extended Mind]]
+ - [[4e cognition]]
+ - [[the radical hypothesis of embodiment]]

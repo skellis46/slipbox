@@ -3,7 +3,7 @@
 aliases: []
 tags: []
 type: "newsletter"
-platform: "skellis.net"
+platform: "skellis mailing list"
 current-status: "published"
 status-updated: "20210625"
 

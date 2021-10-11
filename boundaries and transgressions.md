@@ -14,6 +14,7 @@ _thoughts & links:_
 
 - [[a border is not a boundary]]
 - I wonder if the transgression of a border is more difficult (emotionally, physically, etc) than transgressing a boundary. The relative fuzziness of a border -- the relative lack of clarity -- might make it more destabilising.
+- perhaps thinking re [[the Dao of butchering cows]] is useful re transgression of the body (with a knife). That there are margins in the body that are more akin to a border than a boundary. Sites of intermingling that ask the butcher to slow down; they are sites of the Dao (and not Qi and technics)
 
 ---
 

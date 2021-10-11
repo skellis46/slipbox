@@ -14,3 +14,5 @@
 
 >The way people choose their keywords shows clearly if they think like an archivist or a writer. Do they wonder where to store a note or how to retrieve it? The archivist asks: Which keyword is the most fitting? A writer asks: In which circumstances will I want to stumble upon this note, even if I forget about it? It is a crucial difference.
 
+
+Ahrens, S. (2017) _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers_. North Charleston, SC: CreateSpace

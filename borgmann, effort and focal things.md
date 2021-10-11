@@ -22,7 +22,7 @@ O'Brien believes that it is important that one loves the focal practice; it is m
 _questions & thoughts:_
 
 - interested in the effort or labour required to _be_ in a focal thing, or to practice a focal thing. 
-- note word "incarnational" in relation to _embodiment_ and effort
+- note word "incarnational" in relation to _embodiment_ and effort; compare incarnational effort with the ease with which we in dance studies throw around the word embodiment and also in film: [[embodied structures and patterns of film]]
 
 --- 
 

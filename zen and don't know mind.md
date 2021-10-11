@@ -14,11 +14,13 @@ He describes two ways of looking at the concept of _don't know mind_:
 
 Both ways suggest that as we come to name (or know) things, we are also open to all. That knowing is about making distinctions and therefore leaving something out. The beginner's mind -- "don't know mind" -- is therefore curious, willing and ready. It is open and accepting.
 
+---
+
 _questions & thoughts:_
 
---- 
-
-_consider:_
+- some additional notes:
+	+ Susuki Roshi: beginner's mind (mentioned by Jon Kabat-Zinn): <https://www.youtube.com/watch?v=3nwwKbM_vJc> (just before Seungsahn quote below)
+	+ "don't know mind": Seungsahn <https://www.youtube.com/watch?v=3nwwKbM_vJc> (15:09min)
 
 
 _source:_ lesswrong RSS

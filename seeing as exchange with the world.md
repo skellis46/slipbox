@@ -18,13 +18,14 @@ Noë understands seeing, when viewed from the "right level of description" as be
 _questions & thoughts:_
 
 - I'm fascinated by this dynamic exchange with the world, and how it might be a way to conceive of _epistemic things_ in artistic research. 
+- how doe this thinking relation to [[the radical hypothesis of embodiment]]?
 
 --- 
 
 _consider:_
 
 - taking a look at Dana Ballard and _embodiment level_ in robotics
-- [[conversation and understanding]]
+- [[conversation and understanding]] and the ways in which this dynamic exchange with the world functions epistemically (??)
 
 
 _source:_ n/a

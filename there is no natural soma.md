@@ -26,6 +26,7 @@ _thoughts & links:_
 - my sense is much of the writing on device paradigm and focal things seems to _other_ technology in a way that Ginot does not.
 - Ginot's disruption of -- or challenge to -- the _claimed clarity_ re the human body is vitally important. It undermines dance studies' focus on -- and valorisation of -- embodiment; and how I've suggested that [[the word embodied is a modifier]].
 - see also Noë's description of the embodiment level (taken from roboticist Dana Ballard) in [[seeing as exchange with the world]]
+- Ginot's thinking seems to fit with [[the radical hypothesis of embodiment]] which extends thinking way beyond the skin of the body.
 
 
 ---
