@@ -14,7 +14,7 @@ Ginot proposes an "epistemology of somatic discourses"[@ginot_shustermans_2010 p
 
 _questions & thoughts:_
 
-- this is a very brief summary of the article. I'll generate other notes that get into specific aspects (but that I would think to be different zettelkasten-based ideas)
+- this is a very brief summary of the article. I'll generate other notes that get into specific aspects
 - this is the first substantial and careful critique of many of the central tenets of somatics I've ever read
 - [[somatics is the field which studies the soma]]
 

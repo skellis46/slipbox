@@ -2,17 +2,15 @@
 
 ## introduction
 
-
-
 ### speed kills
 
-Fried was taken aback, but then he realized the point, and the point’s value. After the first few moments of the speaker’s lecture, Fried had effectively stopped listening: he had heard something he didn’t agree with and immediately entered Refutation Mode—and in Refutation Mode there is no listening. Moreover, when there is no listening there is no thinking. To enter Refutation Mode is to say, in effect, that you’ve already done all the thinking you need to do, that no further information or reflection is required.
+> Fried was taken aback, but then he realized the point, and the point’s value. After the first few moments of the speaker’s lecture, Fried had effectively stopped listening: he had heard something he didn’t agree with and immediately entered Refutation Mode—and in Refutation Mode there is no listening. Moreover, when there is no listening there is no thinking. To enter Refutation Mode is to say, in effect, that you’ve already done all the thinking you need to do, that no further information or reflection is required.
 
 
 ### consensus and emotions 
 
-That is, the kinds of traits we label “puritan”—rigidity, narrowness of mind, judgmentalism—are precisely the ones people display whenever they talk about the Puritans.*4
-And why is this? Why are people so puritanical about the Puritans? “Very simply,” Robinson writes, “it is a great example of our collective eagerness to disparage without knowledge or information about the thing disparaged, when the reward is the pleasure of sharing an attitude one knows is socially approved.” That is, we deploy the accusation of Puritanism because we know that the people we’re talking to will share our disparagement of Puritanism, and will approve of us for invoking it. Whether the term as we use it has any significant relationship to the reality of Puritan actions and beliefs is totally irrelevant. The word doesn’t have any meaning as such, certainly not any historical validity; it’s more like the password to get into the clubhouse.
+> That is, the kinds of traits we label “puritan”—rigidity, narrowness of mind, judgmentalism—are precisely the ones people display whenever they talk about the Puritans.*4
+> And why is this? Why are people so puritanical about the Puritans? “Very simply,” Robinson writes, “it is a great example of our collective eagerness to disparage without knowledge or information about the thing disparaged, when the reward is the pleasure of sharing an attitude one knows is socially approved.” That is, we deploy the accusation of Puritanism because we know that the people we’re talking to will share our disparagement of Puritanism, and will approve of us for invoking it. Whether the term as we use it has any significant relationship to the reality of Puritan actions and beliefs is totally irrelevant. The word doesn’t have any meaning as such, certainly not any historical validity; it’s more like the password to get into the clubhouse.
 
 Robinson further comments that this kind of usage “demonstrates how effectively such consensus can close off a subject from inquiry,” which may be the most important point of all. The more useful a term is for marking my inclusion in a group, the less interested I will be in testing the validity of my use of that term against—well, against any kind of standard. People who like accusing others of Puritanism have a fairly serious investment, then, in knowing as little as possible about actual Puritans. They are invested, for the moment anyway, in not thinking.
 
@@ -23,7 +21,7 @@ Again, this is no new thing. T. S. Eliot wrote almost a century ago about a phe
 
 ### BELONGING TO MULTIPLE COMMUNITIES
 
-All of which is to say that I may all too easily forget that political and social and religious differences are not the whole of human experience. The cold divisive logic of the RCO impoverishes us, all of us, and brings us closer to that primitive state that the political philosopher Thomas Hobbes called “the war of every man against every man.”
+All of which is to say that I may all too easily forget that political and social and religious differences are not the whole of human experience. The cold divisive logic of the RCO impoverishes us, all of us, and brings us closer to that primitive state that the political philosopher Thomas Hobbes called "the war of every man against every man."
 
 ### OBLIQUE STRATEGIES
 
@@ -32,7 +30,6 @@ footnotes
 
 As Jeff Schmidt writes in Disciplined Minds (Rowman & Littlefield, 2001), academia and the other high-ranking professions are good at maintaining “ideological discipline” within their ranks, and people who do well in the academy tend to have “assignable curiosity,” which is to say, they are obediently interested in the things they’re told to be interested in.
 
-Norton Reader,
 
 ## 1. BEGINNING TO THINK
 

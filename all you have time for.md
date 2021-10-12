@@ -2,7 +2,7 @@
 aliases: []
 tags: []
 type: "atomic"
-status: "nascent, in-progress, evergreen"
+status: "in-progress"
 ---
 
 # all you have time for

@@ -12,7 +12,7 @@ embodied, embedded, enacted, and extended cognition
 > Although the concept of 4E cognition brings these different approaches together under one heading and conceives of them as coherently opposed to the internalist, brain-centered views of cognitivism, there are continuing disagreements about a variety of issues within and among these embodied approaches. Is cognition embodied, embedded, extended, or enactive? The issues that continue to be debated concern the very nature of embodiment, the precise way that brain, body, and environment are coupled or integrated in cognition, and how much we can generalize from the observation of embodiment in one type of cognitive performance to others. Furthermore, there are questions about the role of representations and what it means to say that cognition is “constituted” by bodily and environmental processes.[@newen-2018-4e p.4]
 
 
-McCallum suggests that "proponents include Andy Clark, Edwin Hutchins and Alva Noë"[@mccallum-2020-situating p.35] 
+McCallum (in her PhD) suggests that "proponents include Andy Clark, Edwin Hutchins and Alva Noë"[@mccallum-2020-situating p.35] 
 
 > ... perceptual experience, in whatever sensory modality, is a temporally extended process of exploration of the environment on the part of an embodied animal. [Noë, 2000 pp.127–8 in @mccallum-2020-situating p.36]
 

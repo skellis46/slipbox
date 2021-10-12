@@ -18,6 +18,7 @@ _consider:_
 
 - [[human experience and language]]  
 - [[without symbolic mediation]]
+- idea that language is post-kinetic sits very tightly with [[4e cognition]] and [[the radical hypothesis of embodiment]]
 
 
 _return links:_ 

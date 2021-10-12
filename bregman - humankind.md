@@ -5,15 +5,7 @@
 ## 1 A New Realism
 
 
-## 3.1
 
-This brings me to another odd quirk of Homo sapiens. Machiavelli, in his classic book, advises never revealing your emotions. Work on your poker face, he urges; shame serves no purpose. The object is to win, by fair means or foul. But if only the shameless win, why are humans the only species in the whole animal kingdom to blush?
-Blushing, said Charles Darwin, is ‘the most peculiar and the most human of all expressions’. Wanting to know if this phenomenon was universal, he sent letters to everyone in his foreign network, polling missionaries, merchants, and colonial bureaucrats.11 Yes, they all replied, people here blush, too.
-But why? Why didn’t blushing die out?
-
-## 3.5 
-
-Human beings, it turns out, are ultrasocial learning machines. We’re born to learn, to bond and to play. Maybe it’s not so strange, then, that blushing is the only human expression that’s uniquely human. Blushing, after all, is quintessentially social – it’s people showing they care what others think, which fosters trust and enables cooperation.
 
 Something similar happens when we look one another in the eye, because humans have another weird feature: we have whites in our eyes. This unique trait lets us follow the direction of other people’s gazes. Every other primate, more than two hundred species in all, produces melanin that tints their eyes. Like poker players wearing shades, this obscures the direction of their gaze.
 But not humans. We’re open books; the object of our attention plain for all to see. Imagine how different human friendships and romance would be if we couldn’t look each other in the eye. How would we feel able to trust one another? Brian Hare suspects our unusual eyes are another product of human domestication. As we evolved to become more social, we also began revealing more about our inner thoughts and emotions.31

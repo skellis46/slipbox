@@ -20,7 +20,7 @@ _thoughts & links:_
 - contrast with [[memory and the future]] which is almost entirely the opposite use of remembering "the world"
 - contrast idea of dismemberment with parts of Pirsig in [[knifing into parts#^d557bd]]
 - [[contemplation beyond rationalization]]
-- #finger-pointing-moon -- useful in attempting to describe the experience of authentic movement (as a contemplative practice)?
+- #finger-pointing-moon -- useful in attempting to describe the experience of authentic movement (as a contemplative practice)? And see in relation to [[Schmalzl - Movement-based embodied contemplative practices]]
 
 
 ---

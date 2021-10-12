@@ -11,7 +11,7 @@ https://aeon.co/essays/the-phenomenology-of-merleau-ponty-and-embodiment-in-the-
 
 >In tech circles, ‘dwell time’ is used to refer to how long a user spends on a particular webpage – but perhaps we can reclaim the expression for time spent intentionally dwelling in a state of embodied presence without seeking to ‘get’ anything out of it.
 
-- am reminded here of [[Kabat-Zinn - Wherever You Go, There You Are]] and his bodyscape practices
+- am reminded here of [[Kabat-Zinn - Wherever You Go, There You Are]] and his bodyscape practices ^55f871
 
 >It’s not that we are all ‘one’, but that we inhabit a world in which, to quote the philosopher Glen Mazis, ‘things, people, creatures intertwine, interweave, yet do not lose the wonder that each is each and yet not without the others’.
 

@@ -13,7 +13,7 @@ status: "nascent"
 
 > Embodied cognition (in any form) is about acknowledging the role perception, action, and the environment can now play.[@wilson-2013-embodied p.2]
 
-> A radical conclusion emerges from taking all this seriously: if perception-action couplings and resources distributed over brain, body, and environment are substantial participants in cognition, then the need for the specific objects and processes of standard cognitive psychology (concepts, internally represented competence, and knowledge) goes away, to be replaced by very different objects and processes (most commonly perception-action couplings forming non-linear dynamical systems, e.g., van Gelder, 1995). This, in a nutshell, is the version of embodiment that Shapiro (2011) refers to as the replacement hypothesis and our argument here is that this hypothesis is inevitable once you allow the body and environment into the cognitive mix. If such replacement is viable, then any research that keeps the standard assumptions of cognitive psychology and simply allows a state of the body to tweak cognition misses the point. To earn the name, embodied cognition research must, we argue, look very different from this standard approach.[@wilson-2013-embodied p.2]
+> Replacement style embodied cognition research has produced methods, formal tools (primarily in the form of dynamical systems models) and a great number of empirical successes. The explanations it produces place embodiment at the center of the organism’s solution to a given task, rather than on the periphery, and this is the research we feel deserves the name embodied cognition.[@wilson-2013-embodied p.11] 
 
 ---
 
