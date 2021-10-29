@@ -14,6 +14,7 @@ _questions & thoughts:_
 - [[vision is kinaesthetic]]
 - [[somatic feedback interrupts habits]]
 - [[somatics is the field which studies the soma]]
+- updating on 20211015: lots of other material here re [[4e cognition]], [[self is a complex interplay of brain, body and environment]], [[six views of embodied cognition]] and [[situated and embodied cognition]]. Seems like Tversky is getting at the enaction part of 4e cognition?
 
 
 
