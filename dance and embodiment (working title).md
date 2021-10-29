@@ -25,8 +25,9 @@ It is perhaps the least surprising thing that dance scholars and artists have la
 - curious how Wilson's [[six views of embodied cognition]] (from which the 'proponent's quote above is taken) are distinctive from the ways in which McCallum distinguishes between [[situated and embodied cognition]]. Need to be very precise about how embodiment (as generally used in dance) aligns with Wilson's explication of six views. 
 - curious about skin as boundary (container or package) - see [[situated and embodied cognition#^43d692]] for summary of this.
 - my writing on [[the word embodied is a modifier]]
-- go through Jonathan Burrows' podcast series
+- in [[self is a complex interplay of brain, body and environment]] I start thinking through inside/outside the body, role of environment in the work of the soma. 
+- [ ] go through Jonathan Burrows' podcast series
 - my citation of Sheets-Johnstone <https://github.com/skellis46/finger-pointing-moon/blob/master/20191129%20-%20performance%20knowledges%20conference%20malta/20200206%20-%20corporeal%20epistemics%20-%20presentation%20plan.md> and also more specifically in _Corporeal Epistemics_ [@ellis-2020-corporeal] (see also my older drafts on GitHub when I mention other scholars using the word embody.)
-- Choinière [@choiniere-2018-somatica] - talks about embodiment all the time, but simply not clear what it is (used her quote in Corporeal Epistemics)
+- [Choinière](x-devonthink-item://98BE098F-A795-46F6-BFC9-EE06CCE00E75) [@choiniere-2018-somatica] - talks about embodiment all the time, but simply not clear what it is (used her quote in Corporeal Epistemics)
 
 > these recent positions on the somatic bear witness to the commitment of certain artists to experiment with different forms of embodied mediation and new interpretations of embodiment.[@choiniere-2018-somatica p.196]
