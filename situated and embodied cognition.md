@@ -11,7 +11,7 @@ Stumbled across [Kate McCallum's PhD work "Situating Mathematical Communication"
 
 > A challenge to this assumption [cognition as a purely internal phenomenon] has arisen and gained momentum in the situated cognition paradigm, a research programme of the last few decades that views cognition as importantly comprised of a whole person’s actions in and interactions with the world. Proponents include Andy Clark, Edwin Hutchins and Alva Noë, the latter of whom summarised his position in particularly succinct form: ‘to understand consciousness in human and animals, we must look not inward, into the recesses of our insides; rather, we need to look to the ways in which each of us, as a whole animal, carries on the processes of living in and with and in response to the world around us’ (Noë, 2009 p.7). The research programme is known as dealing with the mind as embodied, embedded, enactive and extended, from which come the terms ‘4E’ or ‘E-turn’, and the terms ‘situated’ or ‘grounded’ are often used. I will default to the simple term ‘situated cognition’ to refer to the broad movement.[@mccallum-2020-situating p.35]
 
-That Noë citation is from _Out of Our Heads_. 
+That Noë citation is from _[Out of Our Heads](x-devonthink-item://862E4140-BE38-4B24-92CC-CF329937C950)_. 
 On the next page in her PhD McCallum turns to Andy Clark's work.
 
 
@@ -29,4 +29,4 @@ _thoughts & links:_
 
 _original source/found:_ see beginning of zettel for this information. <https://infiltratemathematics.wordpress.com/2017/01/26/what-might-cognition-be-if-not-computation-by-van-gelder-1995/> (Kate's blog as process for PhD)
 
-_reference:_ McCallum, K. (2020) _Situating Mathematical Communication: The Settings, Interactions and Material Practices of Contemporary Mathematical Research_ [online] PhD Thesis. Brighton: University of Brighton. available from [https://katiemccallumdotnet.files.wordpress.com/2020/09/situating-mathematical-communication-corrections.pdf](https://katiemccallumdotnet.files.wordpress.com/2020/09/situating-mathematical-communication-corrections.pdf) [11 October 2021]
+_[reference:](x-devonthink-item://E9BE695A-E52E-40E9-A67A-421ABE021350)_ McCallum, K. (2020) _Situating Mathematical Communication: The Settings, Interactions and Material Practices of Contemporary Mathematical Research_ [online] PhD Thesis. Brighton: University of Brighton. available from [https://katiemccallumdotnet.files.wordpress.com/2020/09/situating-mathematical-communication-corrections.pdf](https://katiemccallumdotnet.files.wordpress.com/2020/09/situating-mathematical-communication-corrections.pdf) [11 October 2021]
