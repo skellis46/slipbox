@@ -13,6 +13,9 @@ updated: "20210526"
 # Heidegger - The Question Concerning Technology
 
  > Bringing-forth comes to pass only insofar as something concealed comes into unconcealment.[@heidegger-1977-question p.11]
+
+^667812
+
  
  
  

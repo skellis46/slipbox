@@ -23,7 +23,7 @@ updated: "20210526"
 
 > Of course, were there no way out of technological thinking, Heidegger's own standpoint, however sophisticated, would also be trapped within it. He attempts to show a way out - a way to think about technology that is not itself beholden to technology.[@blitz-2014-understanding p.69]
 
-- this is really what I'm doing in #two_women_dancing -- I'm tripping into a way to think about technology that is beholden to it. Right? 
+- this is really what I'm doing in [[Lithium dancing]] -- I'm tripping into a way to think about technology that is beholden to it. Right? Related to [[technological forces and recursion]]
 
 > The basic phenomenon that belongs together with being is truth, or "revealing," which is the phenomenon Heidegger brings forward in his discussion in "The Question Concerning Technology." Things can show or reveal themselves to us in different ways, and it is attention to this that will help us recognize that technology is itself one of these ways, but only one. Other kinds of revealing, and attention to the realm of truth and being as such, will allow us to "experience the technological within its own bounds."[@blitz-2014-understanding p.69]
 
@@ -62,7 +62,7 @@ what is this technological system I am describing in this article of two women d
 
 > But the essence of technology does not just affect things and people. It "attacks everything that is: Nature and history, humans, and divinities." When theologians on occasion cite the beauty of atomic physics or the subtleties of quantum mechanics as evidence for the existence of God, they have, Heidegger says, placed God "into the realm of the realm of the orderable."[p.72] God becomes technologized.[@blitz-2014-understanding pp.72-73]
 
-This is the Gestell, or enframing (what translator of Bremen lectures called _positionality_!) I am in a mess here really. I am in a trap of Heidegger's making. See [[two women dancing#^29940f]]
+This is the Gestell, or enframing (what translator of Bremen lectures called _positionality_!) I am in a mess here really. I am in a trap of Heidegger's making. See [[Lithium dancing#^29940f]]
 
 ---
 

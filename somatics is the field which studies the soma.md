@@ -10,19 +10,18 @@ Hanna says the body and the soma are "categorically distinct"[@hanna-1995-what p
 
 --- 
 
-_consider:_ 
+_thoughts & links_: 
 
 - curious how Eddy says listening deeply to the _body_ and not the soma.
 - [[human experience and language]]
+- [[interoception]]
 - [[search for truth]]
 - see [Batson's summary](zotero://select/items/1_39B8594Q) of Varela on p.77 of her book: "First-person experience should be the starting point for understanding cognition" 
 
 
+---
+
 _source:_ [loke_somatic_2018](zotero://select/items/1_6IERMMFC)
-
-_local link:_ [hanlon-johnson-1995-bone.pdf](hook://file/l347hqaVe?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=hanlon-johnson-1995-bone.pdf)
-
-_citekey & zotero link:_ [hanna_what_1995](zotero://select/items/1_5RDSB9TX)
 
 _[reference:](x-devonthink-item://EEBD3C8E-3DF4-4F83-A753-338602E541F6)_ Hanna, T., 1995. 'What is Somatics?'', in: Johnson, D.H. (Ed.), _Bone, Breath & Gesture: Practices of Embodiment_, North Atlantic Books ; California Institute of Integral Studies, Berkeley, Calif. : San Francisco, Calif, pp. 339–352.
 

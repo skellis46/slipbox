@@ -5,7 +5,7 @@ author: ""
 year: ""
 title: ""
 type: "literature"
-status: "nascent, in-progress, gardening"
+status: "in-progress, gardening"
 updated: "{{date}}"
 ---
 

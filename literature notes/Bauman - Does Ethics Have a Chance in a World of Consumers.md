@@ -18,6 +18,8 @@
 
 > A swarm can be visualized best as being like Warhol’s endlessly copied images without an original, or with an original that was discarded and impossible to trace and retrieve. Each unit of the swarm reenacts the moves made by the others, while performing the whole job, from beginning to end and in all its parts, alone (in the case of consuming swarms, that job is the job of consuming).[@bauman-2008-does p.16] 
 
+^b572cd
+
 - the two women dancing are part of a consuming swarm.
 
 > The product of self-creation, the process operated by the art of life, is supposed to be the "identity" of the creator. Given the oppositions that self-creation struggles in vain to reconcile, and the interplay between the constantly changing world and similarly unstable self-definitions of the individuals trying hard to catch up with the changing conditions, identity can’t be internally consistent, nor can it at any point exude an air of finality, leaving no room (and no urge) for further improvement. Identity is perpetually _in statu nascendi_, each of the forms it assumes suffering from more or less acute inner contradiction, each to a greater or lesser extent failing to satisfy and yearning for reform, each lacking in the self-confidence that could be offered solely by comfortingly long life expectancy.[@bauman-2008-does p.18]

@@ -32,7 +32,7 @@ Note here that Feenberg is not yet talking about social media, and in particular
 
 ^6a69ce
 
-This is the aspect of [[device paradigm and focal things]] that is about what is hidden. It's very hard to argue in [[two women dancing]] that this is not happening with the software. 
+This is the aspect of [[device paradigm and focal things]] that is about what is hidden. It's very hard to argue in [[Lithium dancing]] that this is not happening with the software. 
 
 > Focal things require a certain effort, it is true, but without that effort, the rewards of a meaningful life are lost in the vapid disengagement of the operator of a smoothly functioning machinery (Borgmann 1984, 204 ff.).[@feenberg-2000-essentialism p.299]
 
