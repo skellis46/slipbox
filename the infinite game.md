@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [two_women_dancing, blog-post]
+tags: [two_women_dancing, blog-post, published]
 type: "post"
 platform: "blog-ske"
 current-status: "published"

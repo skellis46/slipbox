@@ -1,6 +1,7 @@
 ---
 aliases: []
 type: "newsletter"
+tags: [newsletter, published]
 platform: "skellis mailing list"
 current-status: "published"
 status-updated: "20210709"
@@ -31,4 +32,3 @@ I suspect we choreographers are guilty of falling into the trap set by Abraham M
  
 ---
  
-#obsidian 

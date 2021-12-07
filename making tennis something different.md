@@ -1,5 +1,6 @@
 ---
 aliases: []
+tags: [newsletter, published]
 type: "newsletter"
 platform: "skellis mailing list"
 current-status: "published"

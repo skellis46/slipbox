@@ -23,4 +23,3 @@ Vaillant, George E. Triumphs of Experience: The Men of the Harvard Grant Study, 
  
 ---
  
-#obsidian 

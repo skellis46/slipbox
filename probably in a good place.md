@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [blog-post]
+tags: [blog-post, published]
 type: "post"
 platform: "blog-ske"
 current-status: "published"

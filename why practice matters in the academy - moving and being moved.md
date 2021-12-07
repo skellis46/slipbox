@@ -2,7 +2,7 @@
 aliases: []
 type: "post"
 platform: "blog-par"
-tags: [blog-post]
+tags: [blog-post, published]
 current-status: "published"
 status-updated: "20210531"
 ---
