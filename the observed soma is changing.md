@@ -17,6 +17,7 @@ The sensing soma is adapting and changing as it is observed. Being observed chan
 _thoughts & links:_
 
 - reminded of my interview with Amaara Raheem for Choreographic Practices. That simple instruction to imagine one is being watched. 
+- [[the observer is the observed]]
 
 
 ---

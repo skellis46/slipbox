@@ -4,7 +4,7 @@ _previous note:_ [[search for truth]]
 
 ---
 
-As part of his podcast and website called _The Knowledge Project_ Shane Parrish interviews the renowned psychologist and economist Daniel Kahneman. They discuss many things, mostly to do with [[cognitive biases]], and at one stage Parrish asks Kahneman about ways to reliably bring to our attention evidence that is contrary to what we think or believe, and to make it difficult to ignore that evidence. Kahneman responds that if you are managing a team one of your key roles is to "protect the dissenters"[Kahneman, in @parrish_daniel_2020 34min 40sec], and that you ought to make it "painless to dissent"
+As part of his podcast and website called _The Knowledge Project_ Shane Parrish interviews the renowned psychologist and economist Daniel Kahneman. They discuss many things, mostly to do with [[cognitive biases]], and at one stage Parrish asks Kahneman about ways to reliably bring to our attention evidence that is contrary to what we think or believe, and to make it difficult to ignore that evidence. Kahneman responds that if you are managing a team one of your key roles is to "protect the dissenters"[Kahneman, in @parrish_daniel_2020 34min 40sec], and that you ought to make it "painless to dissent".
 
 
 _questions & thoughts:_
