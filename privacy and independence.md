@@ -1,4 +1,4 @@
-# privacy and independence 
+# privacy and independence
 
 > Privacy is a fairly modern construct that emerged along with notions of individuality, personal liberty, and independence [5]. When public discourse entered the stage of history, one had to create an autonomous inner space to ideate private thoughts and opinions that could, subsequently, lead to publically arguing, questioning, debating, and advocating for change. Thus, privacy was necessary to enjoy freedom of thought. In Medieval Europe the notion of privacy became a peculiar paradox. Theologians conceived a notion of individual conscience—an autonomous faculty to discern between right and wrong. Yet, the Church developed an elaborate spiritual apparatus to shape, control, and punish “the private” through confession, internalized guilt, taxonomy of sins, and a vision of constant, and direct, divine surveillance. During the Reformation, with the great aid of the printing press, subversive literature inspired the germination of ideas that questioned the very foundations of feudal order and authority. This ultimately brought about the Scientific Revolution and the Enlightenment.
 
