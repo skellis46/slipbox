@@ -35,6 +35,9 @@ Recording of her singing?
 
 250 years. This body extended through time. It's traumas, hopes, dreams, desires, limitations, number of bones, number of muscles. 
 
+Out of touch - metaphor
+Whitman: I am large, I contain multitudes. 
+
 PaR - expansion. Blossoming. Products. 
 Limitation. Narrow the attention. The resources. To touch the earth and our bodies on it lightly. 
 
@@ -66,6 +69,11 @@ To de-instrumentalise the body. It's not a body FOR this or that thing. It is a 
 The purpose of this body, under these conditions is to be this body under these conditions. These are the practices, the researches in which we resist temptation to make it a body under these conditions in order to be a body under other (instrumental) conditions. To write/understand that body as it was, this body as it is. The question then, is, what is the purpose of this body in this practice? That to understand it's purpose or purposes is to start to enter deeply the mangle of practice. That even under the worst conditions of stress, pain, and pressure, if we look to the future or futures then we fail to understand and indeed experience the body as a territory. That those futures are only maps. Useful, interesting, but partial, flawed and red herrings. The research is in the body as territory 
 
 Finger pointing moon. 
+
+more like a hobby --to resist the compression of time through neoliberal (eye-roll) pressure. https://seths.blog/2022/01/generative-hobbies/
+
+Out of touch - metaphor - build into stuff on somatic practices. 
+Whitman: I am large, I contain multitudes. (https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version)
 
 Resist with all our hearts the instrumental and future-focused way. That industrial PAR will do this. In order to do or get this I must do this. 
 
