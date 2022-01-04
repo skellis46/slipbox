@@ -19,4 +19,6 @@ Noting initial urge to test my sitting. To squat. To sit on my haunches (buttock
 - <https://performativities.info/submission-form/>
 - <https://performativities.info>
 - [[gaming chairs]]
+- [[to find a home in circumstances]]
 - [[to want to run away is an essence of being human]]
+- [[sitting on the ground]]
