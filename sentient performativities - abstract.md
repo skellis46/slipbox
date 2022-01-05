@@ -32,6 +32,8 @@ This presentation will use the computer's desktop as a site for performance -- a
 
 ## Other notes and scraps
 
+[[Magnason - On Time and Water#^3f3232]] - computers are nature
+
 Seeing and reading about gaming chairs also reminded me of a chapter in  _Consolations_[^dw], the book by the poet David Whyte. In the section called _Ground_ Whyte writes the following: 
 
 > Ground is what lies beneath our feet. It is the place where we already stand; a state of recognition, the place or the circumstances to which we belong, whether we wish to or not. It is what holds and supports us, but also what we do not want to be true: it is what challenges us, physically or psychologically, irrespective of our hoped for needs. It is the living, underlying foundation that tells us what we are, where we are, what season we are in and what, no matter what we wish in the abstract, is about to happen in our body, in the world or in the conversation between the two.[^dw71]
