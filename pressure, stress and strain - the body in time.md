@@ -7,6 +7,8 @@ status-updated: "2022-01-02"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
+# pressure, stress and strain - the body in time
+
 ## conference details
 Conference Title: Harnessing a 21st Century Approach to Performing Arts: Technology Practice, Education & Research.
 
@@ -21,41 +23,100 @@ This is a shared screen desktop performance that explores the body under stress,
 ### Biography
 Simon Ellis is an artist working with research practices of choreography, filmmaking and dance. He was born in the Wairarapa in Aotearoa/New Zealand, but now lives in London. He grew up in a politicised family environment where they often talked about things like human dignity, consumerism and even technology. These, in turn, have shaped his values as an artist, and underpin much of what his practice is about, and how it is conducted. Simon also thinks a lot about the ways humans might value things that are not easily commodified, and likes to imagine a world filled with people who are sensitive to their own bodies, and the bodies of others.
 
-# pressure, stress and strain: the body in time
+## keynote
 
-Trying to make sense of the scale of this fleeting, fragile, rapacious human body. Pressure. Force. Stress. Strain. 
+### biography: I am a body
 
-make sure go through [[Graeber and Wengrow - The Dawn of Everything]] for marginal notes that might apply here.
+Good morning everyone. I am honoured to be here with you this morning. Well, not _with_ you, but ... among? Around? Next to? I'm certainly not on the same screen as you. Perhaps on the same cloud-based server? I am honoured to be on the same server as you this morning. Actually I suspect that's not right either. I am honoured to be on Zoom at the same time as you. Let's go with that. Sometimes it's hard for me to even imagine what it's like to be _with_ other people.
 
-In this shared screen performance. 
+My name is Simon Ellis and, just in case you are wondering ... I have a body, and this body is not just a head and shoulders. That word _have_ in "I have a body" is strange isn't it? Like a possession. Like: I have a car; I have a washing machine; or I have a cat. If I were to say "I am a body" then, in English at least, it seems to diminish my agency or identity, as if I am _only_ a body. How would that idea translate? Into Cantonese? Italian? Farsi? People in dance use the word 'body' like this quite a bit -- as in "I want to work with some bodies", as if these bodies are merely instruments with which to choreograph space and time. In dance, we often talk about 'training our instrument', meaning, our bodies. Language is so telling or instructive isn't it? Wittgenstein famously wrote that "The limits of my language mean the limits of my world."
 
-The game of people we loved and were loved by. Gladys. Zoe. Delusions of grandeur. 
+In saying all this, you might have guessed that I am a dancer. Recently, I read a book that described "extremely human activities as gossiping, arguing, playing games, dancing or travelling for pleasure."[@graeber-2021-dawn Chapter 4, n.pag] I love that dancing is up there with gossip and arguing as an extremely human activity. But probably not the kind of dancing I was trained in. 
 
-Recording of her singing? 
+I make dance performances and films and I've been doing this for more than 30 years. They have all been tiny. Small scale. Insignificant. I am unheralded. Unheard of. Perhaps Walt Whitman was wrong, and I am not large, and I do not contain multitudes. These performances were microscopic. No, that's not true, all were able to be seen with the naked eye although I like the idea of making literally microscopic dances. Each of these choreographies in my past reflected my interests -- and the interests of the people I collaborated with -- at the time. They reveal the changes in my interests through my life as an artist, and the things that have remained. (show stills). You might even say -- if you were being unkind -- that they were all really just about me. It's fine if you'd like to be unkind. You can be unkind right there in the Zoom chat -- I'll weep over it later. That's the thing when you _are_ a body, and a body that performs, it's hard for those choreographies not to be personal or about you (even if you don't want them to be). 
+
+### practice-research
+
+At a certain point -- just over 20 years ago -- I started to integrate ideas about research into my dancing practice. I don't mean the commonplace kind of research that artists do into the subject of their work. For instance, if you were developing an artistic project about, I don't know, climate change, then you'd do a whole lot of reading and background research into climate change. Your research would be a way for you to gather images, ideas, inspiration ... to become informed on the subject matter, while also stoking or loading your imagination. It's more like background information or work. I'm not talking about that kind of research -- like when we say 'research and development'. Not that there's anything wrong with this kind of research. Some of my best friends do research and development.  
+
+I'm talking about: go to list (opportunity for meditation -- to interrupt me talking and to consider possibilities -- and use it fully [[making sense of dance research]]. This is what practice-as-research is. It is when we investigate ideas through artistic practices. It is not necessarily _about_ those practices (although it might be), but it is most definitely through those practices. 
+
+### focus on the now: presence and body-based practices
+
+[[weber-fechner law]] - and compare with [[Magnason - On Time and Water#Back in time]] -- slow slow slow down. 
+[[sati, mindfulness and remembering]]
+
+### The game of people we loved and were loved by
+
+There's a simple game to play; it's a game based on people we loved and were loved by. I first read about it in Andri Snaer Magnason _On Time and Water_. 
+
+> When is someone you will love still going to be alive?[@magnason-2021-time p.308]
+
+> That’s the length of time you connect, more than 250 years. The time you can touch with your own hands. Your time is the time of the people you know and love, the time that moulds you. And your time is also the time of the people you will know and love. The time that you will shape. Everything you do matters. You create the future every single day.’[@magnason-2021-time p.309]
+
+The game of people we loved and were loved by. Gladys. Recording of her singing? Zoe. Delusions of grandeur. 1913 (2005) - 1937 (2021) - 1968 - 1980 - 2016 - 2106
+Just give generations, two of which are dead.
+
+There's another version of this game in which you imagine yourself to be that last person you know who loved you -- in this case my great-niece Zoe Ellis-Craig -- and write a letter to yourself from that person. Might she describe me as a good ancestor? That these practices of performance, dance and film are insignificant compared with how I stepped on the planet so that I might have been a good ancestor for Zoe Ellis-Craig. (video of her?) Will she judge my life as "laughable and foolish"[@magnason-2021-time p.259] or recognise how I squandered resource after resource making dances about myself ;-)?
 
 250 years. This body extended through time. It's traumas, hopes, dreams, desires, limitations, number of bones, number of muscles. 
 
-Out of touch - metaphor
-Whitman: I am large, I contain multitudes. 
+
+
+
+[[Magnason - On Time and Water#^f0cae3]] -- purposelessness. Focus on the empty. But to build these practices so that they touch the earth lightly. 
+
+
+
+What became clear, even in the earliest days of the pandemic, was that touching others -- making physical contact with others -- was under direct and immediate pressure to change. We went from people who touch each other all of the time (in different circumstances, conventions and situations) to a species that avoided touch. We avoided touch to protect ourselves and to protect others. For some, this was a kind of relief; for others not at all. We became out of touch.
+
+To be _out of touch_ in English of course means to be disconnected or out of date. As if we have no remaining touch left. "Sorry I'm all out of touch. I have no touch left to give." The way in which middle-aged people become out of touch with the culture and language of young people. That guy is so out of touch. Not up to speed. Disconnected. Not with it. To no longer be able to 'read the room.'
+
+Yet we felt the pressure to stay connected or be in touch. We experienced -- and likely still experience -- zoom fatigue. A kind of hyper-connectivity made possible by 21st C technologies. We were desperate to stay in touch while knowing deep down in our zoom-fatigued bodies that we also remained deeply out of touch. Touch was dangerous. Touch was certainly no longer innocent (was it ever?)
+
+I started (and continue) to get the sense that this work was out of touch. That all this work. Disconnected. 
+
+
+Trying to make sense of the scale of this fleeting, fragile, rapacious human body. Pressure. Force. Stress. Strain. 
+
 
 PaR - expansion. Blossoming. Products. 
 Limitation. Narrow the attention. The resources. To touch the earth and our bodies on it lightly. 
 
-This body. Collecting. 
 
-This body is not far from death and I am not afraid. 
-This body can't escape technology. 
-This body is unknown. 
-This body can't be know. 
+
+> To recognize the close parallels between private property and notions of the sacred is also to recognize what is so historically odd about European social thought. Which is that – quite unlike free societies – we take this absolute, sacred quality in private property as a paradigm for all human rights and freedoms. This is what the political scientist C. B. Macpherson meant by ‘possessive individualism’. Just as every man’s home is his castle, so your right not to be killed, tortured or arbitrarily imprisoned rests on the idea that you own your own body, just as you own your chattels and possessions, and legally have the right to exclude others from your land, or house, or car, and so on.53 As we’ve seen, those who did not share this particular European conception of the sacred could indeed be killed, tortured or arbitrarily imprisoned – and, from Amazonia to Oceania, they often were. [@graeber-2021-dawn Chapter 4, n.pag.]
+
+- possessive individualism. Macpherson _Political Theory of Possessive Individualism_ (1962) (talks about negative rights versus positive rights, see footnote 53 in Graeber)
+
+> ‘Societies’, wrote Mauss, ‘live by borrowing from each other, but they define themselves rather by the refusal of borrowing than by its acceptance.’14[@graeber-2021-dawn Chapter 5, n.pag.]
+- paradox of artistic research is desire for originality/uniqueness ... to be different. To stamp one's identity on an artistic work. Define ourselves by refusal of borrowing. But how to live? Openly borrow. System of exchange. 
+- perhaps schismogenesis is useful as well: "a process of differentiation in the norms of individual behaviour resulting from cumulative interaction between individuals." (from wiki)
+- sonder -- useful?
+
+
+> Cities are tangible things. Certain elements of their physical infrastructure – walls, roads, parks, sewers – might remain fixed for hundreds or even thousands of years; but in human terms they are never stable. People are constantly moving in and out of them, whether permanently, or seasonally for holidays and festivals, to visit relatives, trade, raid, tour around, and so on; or just in the course of their daily rounds. Yet cities have a life that transcends all this. This is not because of the permanence of stone or brick or adobe; neither is it because most people in a city actually meet one another. It is because they will often think and act as people who belong to the city – as Londoners or Muscovites or Calcuttans.[@graeber-2021-dawn Chapter 8, n.pag.] 
+- a practice more akin to a city? It is a thing that depends on certain characteristics. Hong Kong. geography, history, architecture. 
+
+> In other words, from the perspective of someone living in an ancient city, the city itself was not so entirely different from earlier landscapes of clans or moieties that extended across hundreds of miles. It was a structure raised primarily in the human imagination, which allowed for the possibility of amicable relations with people they had never met.[@graeber-2021-dawn Chapter 8, n.pag.]
+
+> The particular mix depended largely on where in the world the cities happened to be, but it’s becoming increasingly apparent that history’s first city dwellers did not always leave a harsh footprint on the environment, or on each other.[@graeber-2021-dawn Chapter 8, n.pag.]
+- a practice with small footprint 
+- [[Magnason - On Time and Water#The god in the steam engine]] -- about hiding fire. To create practices not built on fire (as best as possible). Not because this will make one difference to the numbers. But rather because it changes culture. 
+
+- get stressed. becoming ghosts like bleached coral. Time of the body. How to describe an ecology of practice -- what balances and imbalances are in play? What powerful phenomena? What increased intensities? [[Magnason - On Time and Water#^9da54a]]
+
+
 
 High fidelity. Low fidelity. Granularity. 
 To go deeper into that which cannot be observed. Fall into poetry. What other languages might be useful? 
+it might be I need to talk about compression -- [[lossy compression and the mythical core of culture]] -- to think through pragmatics of information?? (seems like a distraction.)
 
 Ketamine. To render another body useless. 
 
 Become materialists. People who care for materials. 
 
-Ask them what their body is to them. Give a minute. 
+
 
 
 Videos from my newsletter -- crushed/compressed bodies. Star Wars compressor thing. 
@@ -121,7 +182,7 @@ See Heidegger in 4000 - we are time.
 
 "Entering space and time completely" - von Franz in 4000
 
- What is my warrant in making these claims? What right do I have to suggest such things. I will let you decide depending on their value to you. 
+What is my warrant in making these claims? What right do I have to suggest such things. I will let you decide depending on their value to you. 
 
 Brown Atlas: see intro on maps and layers. To orient. 
 
@@ -150,3 +211,61 @@ See my note from ch 8 of Dawn re practice as a city. Belonging. Shifting. Perman
 
 > By understanding as a full-body phenomenon the consciousness that lenses our view of reality and shapes our life-experience, we can not only become better stewards of our own bodies and of the planet we share with other bodies, human and nonhuman, but we can begin to dismantle the artificial hierarchies and categories by which we have long bolstered our creaturely centrality across the various scales and spectra of existence, from Ptolemism to anthropocentrism to racism, choosing instead to be both humbled and hallowed by the evolutionary wonder of consciousness.
 https://www.themarginalian.org/2021/12/24/feeling-knowing-damasio/
+
+
+### This body
+
+Recently, whenever I meet or see someone, I've been asking them a simple question. What is your body to you? I then ask them to respond by starting with the words "This body" (or however that may be translated into their mother language). For instance, in italian, it would be "Questo corpo".
+
+Meditation.
+
+I would love for you to email yours to me -- in whichever language you choose. Or even just put them in the chat. This would be a beautiful gift.
+
+I like to imagine having a physical location to collect all these instances of _this body_, perhaps like Nichlas Luhrman's zettelkasten or slipboxes (image). Like the analogue library catalogues I remember from my youth. Each instance a removable card: something to be held, to be touched, reflected on. Something that long after my great-niece Zoe Ellis-Craig is dead, some time after 2106, would not require any hidden fires to sustain it, but just a little bit of space in someone's home. People could visit it, photograph it, steal from it, add to it. Perhaps such a simple thing might be a way to become a good ancestor while paying attention to the smallness of the human body.  
+
+Here is a sample of what I have collected so far.  
+
+This body is aging
+This body makes things possible 
+This body is constantly reinventing itself 
+This body is beautifully asymmetrical just like all the other bodies 
+This body knows how to walk, run and dance
+This body is not like the others
+This body feels
+This body is wounded 
+This body sees and is seen
+This body has buried the bodies of others 
+This body adapts
+This body has been exploited 
+This body cannot be known
+This body is "the supreme instrument of sanity and self-regard" 
+This body is at a loss
+This body houses these feelings 
+This body is consciousness and self-knowing 
+This body cannot escape technology
+This body is unknown and cannot be known
+This body is bleeding
+This body is broken
+This body is a time-traveler
+This body is overwhelmed in detail 
+This body is the place through which experiences flood 
+This body is where I need to go
+This body belongs to this mind
+This body trusts you
+This body has a 4 billion year old memory 
+This body is in pain
+This body has no boundary
+This body is not far from death and I am not afraid
+This body will die
+This body humbles me over and over again
+
+Thank you. And thank you once again for being given this tremendous honour to to present these ideas to you this morning. It has been a pleasure and this body is most certainly humbled.
+
+
+### uncertain
+
+- [[Magnason - On Time and Water#^de1fa5]] -- wtf to do with that!!
+
+
+## edit bin
+
