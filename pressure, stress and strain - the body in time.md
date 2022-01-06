@@ -50,7 +50,7 @@ That word _have_ in "I have a body" is strange isn't it? Like a possession. Like
 
 In saying all this, you might have guessed that I am a dancer. Recently, I read a book that described "extremely human activities" like "gossiping, arguing, playing games, dancing or travelling for pleasure."[@graeber-2021-dawn Chapter 4, n.pag] I love that dancing is up there with gossip and arguing as an extremely human activity. But probably not the kind of dancing I was trained in. 
 
-I make dance performances and films and I've been doing this for more than 30 years. They have all been tiny. Small scale. Insignificant. I am unheralded. Unheard of. Perhaps Walt Whitman was wrong, and I am not large, and I do not contain multitudes. These performances were microscopic. No, that's not true, all were able to be seen with the naked eye although I like the idea of making literally microscopic dances. Each of these choreographies in my past reflected my interests -- and the interests of the people I collaborated with -- at the time. They reveal the changes in my interests through my life as an artist, and the things that have remained. (show stills). You might even say -- if you were being unkind -- that they were all really just about me. It's fine if you'd like to be unkind. You can be unkind right there in the Zoom chat -- I'll weep over it later. That's the thing when you _are_ a body, and a body that performs, it's hard for those choreographies not to be thought to be personal or about you (even if you don't want them to be). 
+I make dance performances and films and I've been doing this for more than 30 years. They have all been tiny. Small scale. Insignificant. I am unheralded. Unheard of. Perhaps this is where human beings are most equal: in our complete cosmic insignificance. Perhaps Walt Whitman was wrong, and we are not large, and we do not contain multitudes. These performances were microscopic. No, that's not true, all were able to be seen with the naked eye although I like the idea of making literally microscopic dances. Each of these choreographies in my past reflected my interests -- and the interests of the people I collaborated with -- at the time. They reveal the changes in my interests through my life as an artist, and the things that have remained. (show stills). You might even say -- if you were being unkind -- that they were all really just about me. It's fine if you'd like to be unkind. You can be unkind right there in the Zoom chat -- I'll weep over it later. That's the thing when you _are_ a body, and a body that performs, it's hard for those choreographies not to be thought to be personal or about you (even if you don't want them to be). 
 
 - I am performing for a camera like we have all been performing for camera these last two years. my armpits are sweaty. it's not even 2am local time. 
 
@@ -64,6 +64,15 @@ At a certain point -- just over 20 years ago -- I started to integrate ideas abo
 
 I'm talking about: go to list (opportunity for meditation[^med] -- to interrupt me talking and to consider possibilities -- and use it fully [[making sense of dance research]]. This is what practice-as-research is. It is when we investigate ideas through artistic practices. It is not necessarily _about_ those practices (although it might be), but it is most definitely through those practices. 
 
+Meditations. A way to knowledge that the time in this space, online, is a different kind of time with different kinds of pressures, affordances, limits. That in this time, there is time for you to reflect, note, imagine, drift. 
+
+PaR - expansion. Blossoming. Products. 
+
+> ‘Societies’, wrote Mauss, ‘live by borrowing from each other, but they define themselves rather by the refusal of borrowing than by its acceptance.’14[@graeber-2021-dawn Chapter 5, n.pag.]
+- paradox of artistic research is desire for originality/uniqueness ... to be different. To stamp one's identity on an artistic work. Define ourselves by refusal of borrowing. But how to live? Openly borrow. System of exchange. 
+- perhaps schismogenesis is useful as well: "a process of differentiation in the norms of individual behaviour resulting from cumulative interaction between individuals." (from wiki)
+- sonder -- useful?
+
 ### pressure, stress and strain
 
 - a diversion / an aside / a departure / a tangent
@@ -72,7 +81,10 @@ I'm talking about: go to list (opportunity for meditation[^med] -- to interrupt 
 - can't talk about pressure, stress without talking about time (transition to next section)
 - Geological time and pressure. The sense of time in the stress equation
 
-### zoom into the now: presence and body-based practices
+- Ketamine. To render another body useless. 
+
+
+### zoom in: presence, body-based practices and now
 
 - explain why relevant
 - how related to research
@@ -86,6 +98,8 @@ I'm talking about: go to list (opportunity for meditation[^med] -- to interrupt 
 - constraint/limitation of PaR -- oriented towards the self (and often solo practices)
 - use of resources in performing arts / spectacles.
 - understand this to be vital important work. The unit of our experience. The means to our experience. Some Damasio here? 
+- the breath and non-judgement
+- authentic movement
 
 > the [4] great irony of our time,” writes the anthropologist Mary Catherine Bateson, “is that even as we are living longer, we are thinking shorter.”2 This is the age of the tyranny of the now.[@krznaric-2021-good pp.4-5]
 
@@ -94,7 +108,7 @@ I'm talking about: go to list (opportunity for meditation[^med] -- to interrupt 
 	+ two different kinds of now (based on Bateson's tyranny below)
 	+ [[obsession with generating noise]] - vs signal
 
-### zoom out practices for the future
+### zoom out: artistic practices for the future
 
 What became clear, even in the earliest days of the pandemic, was that touching others -- making physical contact with others -- was under direct and immediate pressure to change. We went from people who touch each other all of the time (in different circumstances, conventions and situations) to a species that avoided touch. We avoided touch to protect ourselves and to protect others. For some, this was a kind of relief; for others not at all. We became out of touch.
 
@@ -104,16 +118,9 @@ Yet we felt the pressure to stay connected or be in touch. We experienced -- and
 
 I started (and continue) to get the sense that this work was out of touch. That all this work. Disconnected. 
 
+Trying to make sense of the scale of this fleeting, fragile, rapacious human body. Pressure. Force. Stress. Strain. That when I start to reflect critically on the work I'm doing, and while taking into account the scale of time, of individualism, of now-ness, of personal ambition, and most pressing of all the climate emergency, I start to wonder, what might a body-based practice be in the long now? In deep time? as if "blinded by the excess of clarity" [@merton-1954-elected p.30]
 
-Trying to make sense of the scale of this fleeting, fragile, rapacious human body. Pressure. Force. Stress. Strain. 
-
-[[Magnason - On Time and Water#^f0cae3]] -- purposelessness. Focus on the empty. But to build these practices so that they touch the earth lightly. 
-
-> blinded by the excess of clarity [@merton-1954-elected p.30] 
-- to do with climate; to do with now-ness, and individualism. 
-
-PaR - expansion. Blossoming. Products. 
-Limitation. Narrow the attention. The resources. To touch the earth and our bodies on it lightly. 
+Limitation. Narrow the attention. The resources. To touch the earth and our bodies on it lightly. But what do I mean by _scale of time?_
 
 #### The game of people we loved and were loved by
 
@@ -128,11 +135,13 @@ Just five generations, only two of these people are dead.
 
 193 years. This small, insignificant, delicate body extended through time. It's traumas, hopes, dreams, desires, limitations, number of bones, number of muscles. This a body that counts. These are the bodies that count. 
 
+[[Magnason - On Time and Water#^f0cae3]] -- purposelessness. Focus on the empty. But to build these practices so that they touch the earth lightly. 
+
 #### to be a good ancestor
 
 There's another version of this game in which you imagine yourself to be that last person you know who will love you -- in this case my great-niece Zoe Ellis-Craig -- and write a letter to yourself as if you were that person. Might she describe me as a good ancestor? That these practices of performance, dance and film are insignificant compared with how I stepped on the planet so that I might have been a good ancestor for Zoe Ellis-Craig. (video of her?) Will she judge my life as "laughable and foolish"[@magnason-2021-time p.259] or recognise how I squandered resource after resource making dances about myself ;-)?
 
-Concept of good ancestor. 
+Concept of good ancestor. There was a man called Jonas Salk. He looked like this. Salk died in 1995, and he was an American virologist and medical researcher most famous for one single thing: the development of the polio vaccine. 
 
 > The most important question we must ask ourselves is, "Are we being good ancestors?" So said Jonas Salk, who developed the polio vaccine in 1953 but refused to patent it--forgoing profit so that more lives could be saved. Salk's radical generosity to future generations should inspire us. But when leading philosopher Roman Krznaric examines society today, he sees just the opposite: Our short term, exploitative mindsets have "colonized the future." (The Good Ancestor blurb)
 
@@ -141,44 +150,30 @@ Concept of good ancestor.
 > An essential starting point is to develop a sense of deep-time humility, where we grasp the insignificance of our own transitory existence in relation to the vast time frame of cosmic history, freeing our minds to look both far into the past and beyond our lifetimes into a distant future. We must accept the reality that our personal stories from birth to death, and all the achievements and tragedies of human civilization, will barely register in the annals of cosmological time.[@krznaric-2021-good p.39]
 
 
-
 > The Arrow concerns the extent to which we are responsible for the future consequences of our actions. One of its best-known formulations appears in the writing of philosopher Derek Parfit:
 > >Remoteness in time has, in itself, no more significance than remoteness in space. Suppose that I shoot some arrow into a distant wood, where it wounds some person. If I should have known that there might be someone in this wood, I am guilty of gross negligence. Because this person is far away, I cannot identify the person whom I harm. But this is no excuse. Nor is it any excuse that this person is far away. We should make the same claims about effects on people who are temporally remote.18 [@krznaric-2021-good p.81]
-- another body under pressure 
+- these are bodies under pressure: the bodies of the future, organisms of the future. They are out of sight, and out of mind these bodies under pressure. Their futures are being colonized by our present. 
+
+> Paleontologist Tim Flannery puts it even more starkly, describing our rapacious species as “the future eaters.”6 [@krznaric-2021-good p.141]
+
 - could be stewardship of other (future) bodies
 
 > Suzuki recognizes that seeing humans as interdependent with the living world lies at the heart of the seventh-generation principle. The environment is not something “out there”; as he puts it, “we are the environment.” We are connected to the landscape, just as we are to future generations, through the air we breathe, the water we drink, and the soil in which we grow our food.
 > The oxygen we breathe in, for instance, circulates in our blood-stream and around half remains in our lungs, so there is no clear line separating where the air ends and we begin. When we exhale, our breath mixes with the air and is taken in by other people, birds, mammals, and reptiles. “If I am air and you are air, then I am you,” writes Suzuki. But the atoms in the air also persist through time. According to one study, there are 3 x 1019 (three followed by nineteen zeros) argon atoms in a breath of air. These quintillions of atoms are continually being blown around the planet, so wherever you are, you will breathe in around 15 argon atoms that you breathed in a year earlier. And that’s not all. Each breath we take contains argon atoms that were probably once inhaled by Cleopatra and Gautama Buddha, and will be breathed in by our descendants seven generations from today. “Air,” says Suzuki, plays an essential role “linking all life in a single matrix, and joining past, present and future in a single flowing entity.”32 [@krznaric-2021-good p.88]
 
-> Ise Jingū, Japan
-> A Shinto shrine that has been torn down and rebuilt to exactly the same design every 20 years since 690 CE. A building forever new and forever ancient.[@krznaric-2021-good p.96]
-- resilience of body under pressure
-- Flexibility, absorbing strain, lightness 
+Whitman was right after all. We do contain multitudes. 
+
 
 The clock of the long now. 
-
-
-
-> Paleontologist Tim Flannery puts it even more starkly, describing our rapacious species as “the future eaters.”6 [@krznaric-2021-good p.141]
-
 
 > To recognize the close parallels between private property and notions of the sacred is also to recognize what is so historically odd about European social thought. Which is that – quite unlike free societies – we take this absolute, sacred quality in private property as a paradigm for all human rights and freedoms. This is what the political scientist C. B. Macpherson meant by ‘possessive individualism’. Just as every man’s home is his castle, so your right not to be killed, tortured or arbitrarily imprisoned rests on the idea that you own your own body, just as you own your chattels and possessions, and legally have the right to exclude others from your land, or house, or car, and so on.53 As we’ve seen, those who did not share this particular European conception of the sacred could indeed be killed, tortured or arbitrarily imprisoned – and, from Amazonia to Oceania, they often were. [@graeber-2021-dawn Chapter 4, n.pag.]
 
 - possessive individualism. Macpherson _Political Theory of Possessive Individualism_ (1962) (talks about negative rights versus positive rights, see footnote 53 in Graeber)
 
-> ‘Societies’, wrote Mauss, ‘live by borrowing from each other, but they define themselves rather by the refusal of borrowing than by its acceptance.’14[@graeber-2021-dawn Chapter 5, n.pag.]
-- paradox of artistic research is desire for originality/uniqueness ... to be different. To stamp one's identity on an artistic work. Define ourselves by refusal of borrowing. But how to live? Openly borrow. System of exchange. 
-- perhaps schismogenesis is useful as well: "a process of differentiation in the norms of individual behaviour resulting from cumulative interaction between individuals." (from wiki)
-- sonder -- useful?
 
 
-> Cities are tangible things. Certain elements of their physical infrastructure – walls, roads, parks, sewers – might remain fixed for hundreds or even thousands of years; but in human terms they are never stable. People are constantly moving in and out of them, whether permanently, or seasonally for holidays and festivals, to visit relatives, trade, raid, tour around, and so on; or just in the course of their daily rounds. Yet cities have a life that transcends all this. This is not because of the permanence of stone or brick or adobe; neither is it because most people in a city actually meet one another. It is because they will often think and act as people who belong to the city – as Londoners or Muscovites or Calcuttans.[@graeber-2021-dawn Chapter 8, n.pag.] 
-- a practice more akin to a city? It is a thing that depends on certain characteristics. Hong Kong. geography, history, architecture. 
 
-> In other words, from the perspective of someone living in an ancient city, the city itself was not so entirely different from earlier landscapes of clans or moieties that extended across hundreds of miles. It was a structure raised primarily in the human imagination, which allowed for the possibility of amicable relations with people they had never met.[@graeber-2021-dawn Chapter 8, n.pag.]
 
-> The particular mix depended largely on where in the world the cities happened to be, but it’s becoming increasingly apparent that history’s first city dwellers did not always leave a harsh footprint on the environment, or on each other.[@graeber-2021-dawn Chapter 8, n.pag.]
-- a practice with small footprint 
 - [[Magnason - On Time and Water#The god in the steam engine]] -- about hiding fire. To create practices not built on fire (as best as possible). Not because this will make one difference to the numbers. But rather because it changes culture. 
 
 - get stressed. becoming ghosts like bleached coral. Time of the body. How to describe an ecology of practice -- what balances and imbalances are in play? What powerful phenomena? What increased intensities? [[Magnason - On Time and Water#^9da54a]]
@@ -189,11 +184,8 @@ High fidelity. Low fidelity. Granularity.
 To go deeper into that which cannot be observed. Fall into poetry. What other languages might be useful? 
 it might be I need to talk about compression -- [[lossy compression and the mythical core of culture]] -- to think through pragmatics of information?? (seems like a distraction.)
 
-Ketamine. To render another body useless. 
 
 Become materialists. People who care for materials. 
-
-
 
 
 Videos from my newsletter -- crushed/compressed bodies. Star Wars compressor thing. 
@@ -227,33 +219,11 @@ Kind of opposite to Brand's stuff in lithium. To slow down the art. To wrestle i
 
 I am proposing that we must seek methods of making that distill production from consumption; that our work is to pry apart the discombobulating effects of screendancing to be seen, and to do this in plain sight. I understand screendance to be a small enough field—and collection of practices—to interrogate and resist the logic of production predicated on consumption. We have talked about such resistance for years as a community but as dance has become more and more visible on social media, the temptation is to celebrate these days in the sun, and turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs-2018-tending n.p.] Western culture's crash zoom to social media since around the introduction of Facebook's Like button in 2009[@alter-2017-irresistible Chapter 5 Feedback, n.pag.] has made the stakes high and ambiguous for screendance: the promise of being transmitted and seen (finally!) at the cost of extractive consumption and the "immediacy of appropriation":[@jacobs-2021-tech p.30]
 
-> We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_.[@jacobs-2021-tech p.30]
+
 
 Not to do this in order to ... that understanding its purpose (including the possibility it has no purpose) is one's only task. When shift from that you are serving something or someone else. They feel different. I can feel the difference now. Typing while on my bed. I am quite into this. Deep in thought, in reading. I am in the process of coming to understand what to present and how. Not because of what it might bring me, but because of the ideas themselves. No utility. It is the body in the service of that creates the pressure and stress. 
 
-They re practices that are incompleteable. They stretch into time the way those we love and who love us:
 
-> Taking a walk in the countryside, like listening to a favorite song or meeting friends for an evening of conversation, is thus a good example of what the philosopher Kieran Setiya calls an “atelic activity,” meaning that its value isn’t derived from its telos, or ultimate aim. You shouldn’t be aiming to get a walk “done”; nor are you likely to reach a point in life when you’ve accomplished all the walking you were aiming to do. “You can stop doing these things, and you eventually will, but you cannot complete them,” Setiya explains. They have “no outcome whose achievement exhausts them and therefore brings them to an end.” And so the only reason to do them is for themselves alone: “There is no more to going for a walk than what you are doing right now.”
-
-Atelic. (Is a hobby!) But there's a lie here isn't there? But in recognising the difference we are changed. Our bodies are changed. The pressures are changed. 
-
-This is the body that takes the time it needs to take. I think this is body based PaR. A body under consideration that takes the time it needs to take. 
-
-Q (for meditation?): what is the role of "control" and "force" in such a body?
-
-Meditations. A way to knowledge that the time in this space, online, is a different kind of time with different kinds of pressures, affordances, limits. That in this time, there is time for you to reflect, note, imagine, drift. 
-
-
-
-Meditation: what is the role of patience in your work and research? What (if anything) does it have to do with originality? 
-
-Meditation: when to admit to not-knowing? That the territory is unattainable. That paradox lies at the heart of research. 
-
-Work that goes on. That is followed. 
-
-
-
-Mum: I can't believe it happened so quickly. It took precisely as long as it needed. But ...
 
 > [Heidegger's] answer is that our being is totally, utterly bound up with our finite time. So bound up, in fact, that the two are synonymous: to be, for a human, is above all to exist temporally, in the stretch between birth and death, certain that the end will come, yet unable to know when. We tend to speak about our having a limited amount of time. But it might make more sense, from Heidegger’s strange perspective, to say that we are a limited amount of time. That’s how completely our limited time defines us.[@burkeman-2021-four Chapter 3 Facing Finitude: Thrown into Time, n.pag.]
 
@@ -267,6 +237,12 @@ What is my warrant in making these claims? What right do I have to suggest such 
 
 Quality of the questioning. The questions lack precision. They are more like drag nets. Capturing all. What is the risk in the precision? To narrow attention. I don't have evidence of this. It's a feeling. Perhaps a proposition. 
 
+- domestication -- requires human intervention (else it dies). opposite of this for PaR and the body. The danger of domestication. Keeping it wild. The lightest of touches. But also narrowing and being specific. (re questions).
+
+### two propositions
+
+(one imagined, the other started)
+
 Haiku by Kobayashi Issa (1763-1828): (was a Japanese poet and lay Buddhist priest)
 
 In this world  
@@ -277,14 +253,45 @@ Source: https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#
 
 > who do we think of, when we use the pronoun “we”? And I want my “we” to be absolutely continuous amongst my fellow humans, amongst living beings, amongst the largeness of the expanding universe, down to the tiniest physics and particle. -- Jane Hirshfield (https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#)
 
+> nothing we produce can hold a candle to the ocean itself, nothing is as magnificent as a glacier,[p.260] nothing so mysterious as a rainforest at night. Nothing we have done will be considered remarkable if achieving it has meant closing our eyes to science and throwing away the life and happiness of future generations.[@magnason-2021-time pp.259-260]
 
+So, yes, just collecting blossoms while acknolweding the heat from below. to make something for the future that is not about legacy. That we thought about them. We paid them attention, even as continued to suck fossil fuels out of the ground. 
 
-- domestication -- requires human intervention (else it dies). opposite of this for PaR and the body. The danger of domestication. Keeping it wild. The lightest of touches. But also narrowing and being specific. (re questions).
+_Conditions for these proposals:_
 
+- atelic
+- intrinsic (not dependent on extrinsic resources -- care for externalities)
+- body is present (why?)
+- minimal footprint
 
+They re practices that are incompleteable. Work that goes on. That is followed. They stretch into time the way those we love and who love us:
 
+> Taking a walk in the countryside, like listening to a favorite song or meeting friends for an evening of conversation, is thus a good example of what the philosopher Kieran Setiya calls an “atelic activity,” meaning that its value isn’t derived from its telos, or ultimate aim. You shouldn’t be aiming to get a walk “done”; nor are you likely to reach a point in life when you’ve accomplished all the walking you were aiming to do. “You can stop doing these things, and you eventually will, but you cannot complete them,” Setiya explains. They have “no outcome whose achievement exhausts them and therefore brings them to an end.” And so the only reason to do them is for themselves alone: “There is no more to going for a walk than what you are doing right now.”
 
-### This body
+Atelic: Presenting an action or event as being incomplete. (Is a hobby!) But there's a lie here isn't there? But in recognising the difference we are changed. Our bodies are changed. The pressures are changed. 
+
+> We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_.[@jacobs-2021-tech p.30]
+
+#### The steward
+
+> Ise Jingū, Japan
+> A Shinto shrine that has been torn down and rebuilt to exactly the same design every 20 years since 690 CE. A building forever new and forever ancient.[@krznaric-2021-good p.96]
+
+- what kind of framework for an practice like this. One in which the infrastructure is replaced every 20 years. What might we understand by infrastructure in this case? That in its cyclical destruction and construction is gathers resilience and mobility: the capacity to absorb contemporary pressure, be ready for unseen and unknown stressors, and to be flexible.  
+- resilience of body under pressure
+- infrastructure of a shared body; a body unable to be owned, a public body. Or perhaps it's a name ... dance of the long now. _Custodians_. To do one dance a year at a specific time and place. How would this body be named? It does not even need an audience. 
+- Flexibility, absorbing strain, lightness 
+- infrastructure with the long now in mind. So different from the short now. 
+
+> Cities are tangible things. Certain elements of their physical infrastructure – walls, roads, parks, sewers – might remain fixed for hundreds or even thousands of years; but in human terms they are never stable. People are constantly moving in and out of them, whether permanently, or seasonally for holidays and festivals, to visit relatives, trade, raid, tour around, and so on; or just in the course of their daily rounds. Yet cities have a life that transcends all this. This is not because of the permanence of stone or brick or adobe; neither is it because most people in a city actually meet one another. It is because they will often think and act as people who belong to the city – as Londoners or Muscovites or Calcuttans.[@graeber-2021-dawn Chapter 8, n.pag.] 
+- a practice more akin to a city? It is a thing that depends on certain characteristics. Hong Kong. geography, history, architecture. 
+
+> In other words, from the perspective of someone living in an ancient city, the city itself was not so entirely different from earlier landscapes of clans or moieties that extended across hundreds of miles. It was a structure raised primarily in the human imagination, which allowed for the possibility of amicable relations with people they had never met.[@graeber-2021-dawn Chapter 8, n.pag.]
+
+> The particular mix depended largely on where in the world the cities happened to be, but it’s becoming increasingly apparent that history’s first city dwellers did not always leave a harsh footprint on the environment, or on each other.[@graeber-2021-dawn Chapter 8, n.pag.]
+- a practice with small footprint 
+
+#### This body
 
 > By understanding as a full-body phenomenon the consciousness that lenses our view of reality and shapes our life-experience, we can not only become better stewards of our own bodies and of the planet we share with other bodies, human and nonhuman, but we can begin to dismantle the artificial hierarchies and categories by which we have long bolstered our creaturely centrality across the various scales and spectra of existence, from Ptolemism to anthropocentrism to racism, choosing instead to be both humbled and hallowed by the evolutionary wonder of consciousness.
 https://www.themarginalian.org/2021/12/24/feeling-knowing-damasio/
@@ -339,8 +346,19 @@ This body humbles me over and over again
 
 Thank you. And thank you once again for being given this tremendous honour to to present these ideas to you this morning. It has been a pleasure and this body is most certainly humbled.
 
+### unused meditations
+
+This is the body that takes the time it needs to take. I think this is body based PaR. A body under consideration that takes the time it needs to take. 
+
+Q (for meditation?): what is the role of "control" and "force" in such a body?
+
+Meditation: what is the role of patience in your work and research? What (if anything) does it have to do with originality? 
+
+Meditation: when to admit to not-knowing? That the territory is unattainable. That paradox lies at the heart of research. 
 
 ### uncertain
+
+Mum: I can't believe it happened so quickly. It took precisely as long as it needed. But ...
 
 > As Milton Friedman put it, while a crisis provides the opportunity for change, “when that crisis occurs, the actions that are taken depend on the ideas that are lying around.”28 The tragedy of the 2008 financial crisis was that there was no obvious alternative economic vision on offer.[@krznaric-2021-good p.114]
 
