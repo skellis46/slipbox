@@ -119,3 +119,75 @@ Naomi Klein, see <https://theintercept.com/2018/08/03/climate-change-new-york-ti
 > We need a system where politicians are drawn from a hat, the same way we set up our juries. People should be charged to serve for six years—they have no political party, their only job is to govern to the best of their ability. There’s no chance in hell of that ever happening, but when you think about it that’s the only system that would work.31 [180] -- David Suzuki
 
 >  Thirdly, citizens’ assemblies are an exercise in “slow thinking,” allowing participants the time and space to learn about and reflect on long-term issues facing society. Such factors, points out political scientist Graham Smith, help explain why citizens’ assemblies “outperform more traditional democratic institutions in orientating participants to consider long-term implications.”34 [181]
+
+>  If giving rights to a non-human entity like a planet sounds fanciful, don’t forget that corporations have enjoyed legal personhood since 1886, when the US Supreme Court deemed that they should be granted “due process of law,” a right originally established to protect freed slaves.42 [185]
+
+> We also need the creativity of cities like Bogotá, Colombia, where former mayor Antanas Mockus replaced corrupt traffic officers with 400 mime artists who held up football-style yellow and red cards to offending drivers. And it worked: Traffic violations plummeted and within a decade the number of road fatalities had halved.50 [190]
+
+>  What we really need, argues ecologist William Rees, is to create self-sustaining “bioregional [190] city-states” that are integrated into their local ecosystems rather than parasitic upon them.51 [190-191]
+
+> Nation states are a recent historical invention and have only been the dominant form of political organization for the past two centuries. Cities, in contrast, are the greatest and most enduring social technology ever invented by humankind. That is why cities such as Istanbul have lasted thousands of years, while empires and nations have risen and fallen around them. The nation state will be with us for some time yet, drawing us into its vortex of short- termism. But if humanity is to have a long-term future, the old political borders must disappear, and power must be wrenched away from the grip of centralized state authority. Our great hope lies in becoming citizens of a twenty-first century polis. [191]
+
+>  This chapter takes an alternative view, arguing for a radically different guiding purpose: to create a global economy that meets human needs within the biophysical means of the planet, generation after generation. It is about aspiring to an “ecological civilization,” described by visionary economic thinker David Korten as one that “secures material sufficiency and spiritual abundance for all in balance with the regenerative systems of a living Earth.”4 [195]
+- plant native tree each year/performance?
+
+> Here’s the problem in a nutshell: short-termism is built into the genetic code of the neoliberal paradigm that has come to dominate economic thought since it was unleashed on the world in the 1980s by the free-market ideology of Margaret Thatcher and Ronald Reagan.
+> Its fullest expression has been the birth of a new era of speculative capitalism. [196]
+- short terminism and neoliberalism pressure
+
+> Neoliberalism offered the world an economic model that denied the reality of the future. Yet it would be unfair to place all the blame for this myopia on the free marketeers and the greed-is-good traders on Wall Street. The three major models of economic development that have prevailed since the end of the Second World War—neoliberalism, its predecessor Keynesianism and Marxism—all have in common the belief in endless economic growth as the means to human progress.8 [197]
+- first sentence is gold
+
+> Most of the products you will see—from socks to smartphones to cotton balls to deodorant—are made through an old-fashioned linear model of industrial design that Kate Raworth sums up as “take, make, use, lose.”  We take Earth’s materials, make them into things we want, use them for a while—sometimes only once—and then throw them away. And it is this linear degenerative economic model that pushes us over the brink of planetary boundaries.26 [206]
+
+> The survival of our species depends on the biosphere surrounding us, which provides oxygen and other essentials of life. But according to anthropologist Wade Davis, we are also surrounded by an “ethnosphere” that provides the cultural air in which we breathe. It contains the swirl of ideas, beliefs, myths, and attitudes that are prevalent in society, and that constitute the worldviews shaping how we think and act.1
+> The ethnosphere is in a state of constant flux and changes through a process of “cultural evolution,” another useful concept for our long-term lexicon. At any one moment certain ways of thinking may be dominant in the ethnosphere, but then new ones come along to displace the old. For instance, in the late twentieth century, the belief in collective values (like social justice) gradually gave way to an ideology of individualism that came to permeate the ethnosphere of the Western world, thanks to the rise of neoliberalism and consumer capitalism. Similarly, secular values began to compete for dominance with religious belief systems.[219]
+
+> Arthur Ganson has built Machine with Concrete, containing a gear turning at 200 revolutions per minute at one end that is connected to 11 further gears, each running at one-fiftieth the speed of the preceding gear, the last of which is embedded in solid concrete and completes a single revolution every two trillion years.
+> Cathy Haynes has created Stereochron Island, a campaign to found a new state without clocks in a London park, which endeavors to return its citizens to a cyclical relationship with solar time.
+> John Cage’s intergenerational composition As Slow asPossible is currently being played on an organ in the German city of Halberstadt, over a period of 639 years. One chord began sounding in January 2006 and lasted two-and-a-half years before the next note was struck. The final note will be played in 2640.
+> Working with the World Wildlife Fund, Yoshiyuki Mikami created photos of disappearing species, where each pixel represented one remaining animal left in the wild: The image of the panda had only 1,600 pixels. [224]
+> In April 2019, scientists in Iceland erected the first memorial plaque to a lost glacier—the OK Glacier—recognizing that all the country’s glaciers are likely todisappear within 200 years.
+
+> Scottish artist Katie Paterson ranks among the greatest exponents of this temporal expressionism, having created a series of breathtaking works using time itself as her raw material.6 In Vatnajökull (the sound of), members of the public could call a phone number and listen live to the sound of a melting Icelandic glacier through an underwater microphone. The beads of Fossil Necklace were made from fossils across the expanses of deep time: a starfish from the Sahara, a giant lizard’s tooth from the Atlas Mountains, a toe-bone from a long-extinct English woolly rhino. None of Paterson’s works has done more to capture the public imagination than the 100-year art project Future Library. Starting in 2014, every year for a century a well-known writer is donating a new work that will be held in trust, unread, as a gift for future generations. In 2114, the 100 books will be printed on paper supplied from a forest of 1,000 trees that have been especially planted outside Oslo. “There is something magical about it,” says Margaret Atwood, one of the contributing writers. “It’s  like  Sleeping Beauty. The texts are going to slumber for 100 years and then they’ll wake up, come to life again.”7  ^addf96
+
+Future Library perfectly distills the ideal of a transcendent legacy, one that will be enjoyed by the readers of the twenty-second century when most of the authors involved in the project will be long dead. It raises questions that help forge a sense of intergenerational connection. Who will these readers be? What kind of world will they live in—will physical books even exist then? And how will they judge us and the legacies we have left them? Like the 10,000 Year Clock in the Texas desert, the forest of Future Library is destined to become a site of pilgrimage. [225]
+
+Public conversation between Katie Paterson, Elif Shafak and the author at the British Library, October 8, 2019. https://www.bl.uk/events/future-library-art-ideas-and-time#
+
+> For Eno, such generative works expand our minds into a longer now in much the same way as regenerative economics, which is similarly based on the idea of creating self-sustaining “complex adaptive systems” that ensure their longevity by adapting and changing through time within a set of basic parameters. He looks to Terry Riley’s 1964 composition In C for inspiration, a piece of no set duration that was written for any number of performers, where the musicians play 53 short melodic phrases in order, but with each player repeating them as many times as they wish before moving on to the next one. “To my way of thinking,” Eno told me, “Terry Riley’s In C is the dynamic complexity to Bach’s very mechanical fugues.”9 [226]
+
+> A similar—or perhaps even greater—challenge faces us today. How do we create a sense of shared identity with the unborn generations of tomorrow’s world, the future people we can never meet but whom we must endeavor to embrace as our kith and kin? The creative arts, film, and literature will all play a crucial role. But they will never in themselves be potent enough to create and sustain a new imagined community based on intergenerational solidarity. It is vital to harness the power of two forces that have the potential to scale up and spread the values of the good ancestor: education and religion. [230]
+
+> Our political systems have little capacity to take the long view: Both representative democracy and nation states are geared toward short time horizons and responding to near-term interests rather than long-term risks. There is an absence of institutional mechanisms that give voice to the interests of tomorrow’s generations, who are effectively disenfranchised from the system. Politics enables the colonization of the future. [239]
+
+_Good ancestor conversations_
+- Deep-Time Humility
+	+ What have been your most profound experiences of deep time, and how did they affect you?
+- Intergenerational Justice
+	+ What, for you, are the most powerful reasons for caring about future generations?
+- Legacy Mindset
+	+ What legacy do you want to leave for your family, your community, and for the living world?
+Transcendent Goal
+What do you think should be the ultimate goal 
+of the human species?
+Holistic Forecasting
+Do you anticipate a future of civilizational breakdown,radical transformation, or a different pathway? 
+Cathedral Thinking
+What long-term projects could you pursue
+with others that extend beyond your own lifetime? [242]
+
+> As David Wallace-Wells argues, “the climate calculus is such that individual lifestyle choices do not add up to much, unless they are scaled by politics.”6[243]
+
+Wallace-Wells, David, The Unhabitable Earth: A Story of the Future (Allen Lane, 2019). (P.34)
+
+
+> Remember the words of anthropologist James Scott: “The great emancipatory gains for human freedom have not been the result of orderly, institutional procedures but of disorderly, unpredictable, spontaneous action cracking open the social order from below.”7[243]
+
+> And the clock is ticking. We are enveloped in the paradox that we cannot wait patiently for long-term thinking to gradually emerge and make its presence felt: we need it urgently and immediately to tackle the multiple crises heading at speed towards us. As Martin Luther King Jr. wrote, “we are confronted with the fierce urgency of the now.”8 Tomorrow has become today.
+
+http://inside.sfuhs.org/dept/history/US_History_reader/Chapter14/MLKriverside.htm
+
+> To envision the lives of our younger loved ones stretching into the distance beyond our own can also be a bridge to a longer now. Who will they be when they are in old age? What kind of world will they inhabit? How will they look back on us, and what we did or didn’t do when we had the chance? The power of whakapapa can become part of our imaginations, helping to shine light on the great chain of living, dead, and unborn that extends unbroken through time itself. [244]
+
+
