@@ -205,7 +205,7 @@ more like a hobby --to resist the compression of time through neoliberal (eye-ro
 
 There's a simple game to play. I first read about it in Andri Snaer Magnason's _On Time and Water_. The game is to answer the question: "When is someone you will love still going to be alive?"[@magnason-2021-time p.308]
 
-Here's my version. My grandmother, Gladys Eastwood, was born in December 1913. Here she is singing. Gladys gave birth to my mother, Gabrielle Eastwood-Ellis in 1937. Here she is in 1960. I was born in 1968, and here I am in about 1973. My niece Rebecca was in 1980; and Rebecca's daughter -- my great niece -- Zoe Ellis-Craig was born in 2016. If we imagine that Zoe lives until she is 90 then this would mean she would die in 2106. 
+Here's my version. My grandmother, Gladys Eastwood, was born in December 1913. Here she is singing. Gladys gave birth to my mother, Gabrielle Eastwood-Ellis, in 1937. Here she is in 1960. I was born in 1968, and here I am in about 1973. My niece Rebecca was born in 1980; and Rebecca's daughter -- my great niece -- Zoe Ellis-Craig was born in 2016. If we imagine that Zoe lives until she is 90 then this would mean she would die in 2106. 
 
 Gladys: 1913 - 2005
 Gabrielle: 1937 - 2021
@@ -213,7 +213,7 @@ Simon: 1968 -
 Rebecca: 1980 - 
 Zoe: 2016 - 
 
-That is 193 years of people I have loved and who have loved me. 193 years. This small, insignificant, delicate body extended through time, and "beyond the ego boundary of [my] own mortality".[@krznaric-2021-good pp.14-15] This body's traumas, hopes, dreams, desires, and limitations; its 206 discrete bones, 650 or so muscles, and 100 billion neurons. This a body that counts. These are the bodies that count. 
+That is 193 years of people I have loved and who have loved me. 193 years. This small, insignificant, delicate body extended through time, and "beyond the ego boundary of [my] own mortality".[@krznaric-2021-good pp.14-15] This body's hopes, dreams, traumas, desires, and limitations; its 206 discrete bones, 650 or so muscles, and 100 billion neurons. This a body that counts. These are the bodies that count. 
 
 Magnason describes it like this: 
 
