@@ -314,64 +314,74 @@ Atelic: Presenting an action or event as being incomplete. (Is a hobby!) But the
 - Of all my privileges, this one -- to be able to imagine futures beyond my current needs -- is one that seems vital to take advantage of.
 
 
-#### This body
+#### This body (started)
 
-> By understanding as a full-body phenomenon the consciousness that lenses our view of reality and shapes our life-experience, we can not only become better stewards of our own bodies and of the planet we share with other bodies, human and nonhuman, but we can begin to dismantle the artificial hierarchies and categories by which we have long bolstered our creaturely centrality across the various scales and spectra of existence, from Ptolemism to anthropocentrism to racism, choosing instead to be both humbled and hallowed by the evolutionary wonder of consciousness.
-https://www.themarginalian.org/2021/12/24/feeling-knowing-damasio/
+add directly from Damasio or from [[consciousness as a full-body phenomenon]] - stewards of our bodies, humility
 
-Recently, whenever I meet or see someone, I've been asking them a simple question. What is your body to you? I then ask them to respond by starting with the words "This body" (or however that may be translated into their mother language). For instance, in Italian, it would be "Questo corpo".
+Recently, whenever I meet or see someone, I've been asking them a simple question. _What is your body to you?_ I then ask them to respond by starting with the words "This body" (or however that may be translated into their mother tongue). 
 
-Note how I started with "I have a body". Ownership.
-- custodian vs owner: https://patrickrhone.com/2012/01/04/owners-and-custodians/
-- see quote about possessive individualism
+---
+_Meditation:_ What is your body to you? ("This body ...")
 
-Meditation.
+---
 
-I would love for you to email yours to me -- in whichever language you choose. Or even just put them in the chat. This would be a beautiful gift and it would honour me.
+I would love for you to email yours to me -- se@skellis.net -- in whichever language you choose. This would be a beautiful gift and it would honour the work that I'm slowly starting to realise is my life. It's strange how a life sneaks up on you.
 
-I like to imagine having a physical location to collect all these instances of _this body_, perhaps like Nichlas Luhrman's zettelkasten or slipboxes (image). Like the analogue library catalogues I remember from my youth. Each instance a removable card: something to be held, to be touched, reflected on. Something that long after my great-niece Zoe Ellis-Craig is dead, some time after 2106, would not require any hidden fires to sustain it, but just a little bit of space in someone's home. People could visit it, photograph it, steal from it, add to it. Perhaps such a simple thing might be a way to become a good ancestor while paying attention to the smallness of the human body.  
+I like to imagine having a physical location to collect all these instances of _this body_, perhaps like the sociologist Niklas Luhmann's zettelkasten or slipboxes (image of him and slipbox). Like the analogue library catalogues I remember from my youth. Each instance of _This body_ would be a removable card: something to be held, to be touched, reflected on. Something that long after my great-niece Zoe Ellis-Craig is dead, some time after 2106, would not require any hidden fires to sustain it, but just a little bit of space in someone's home. People could visit it, photograph it, steal from it, add to it. Perhaps such a simple thing might be a way to become a good ancestor while paying attention to the smallness and profound humility of the human body.  
 
 Here is a sample of what I have collected so far.  
 
-This body is aging
-This body makes things possible 
-This body is constantly reinventing itself 
-This body is beautifully asymmetrical just like all the other bodies 
-This body knows how to walk, run and dance
-This body is not like the others
-This body feels
-This body is wounded 
-This body sees and is seen
-This body has buried the bodies of others 
-This body adapts
-This body has been exploited 
-This body cannot be known
+This body is aging.
+This body makes things possible.
+This body is constantly reinventing itself. 
+This body is beautifully asymmetrical just like all the other bodies. 
+This body knows how to walk, run and dance.
+This body is not like the others.
+This body feels.
+This body is wounded. 
+This body sees and is seen.
+This body is a chameleon. 
+This body has buried the bodies of others. 
+This body adapts.
+This body has been exploited. 
+This body cannot be known.
+This body will die.
+This body is no longer the same. 
 This body is "the supreme instrument of sanity and self-regard". 
-This body is at a loss
-This body houses these feelings 
-This body is consciousness and self-knowing 
-This body cannot escape technology
-This body is unknown and cannot be known
-This body is bleeding
+This body is at a loss.
+This body houses these feelings. 
+This body is consciousness and self-knowing. 
+This body cannot escape technology.
+This body is unknown and cannot be known.
+This body is bleeding.
+This body has bled.
 This body is technological.
-This body is broken
-This body is a time-traveler
-This body is overwhelmed by detail 
-This body is the place through which experiences flood 
-This body is where I need to go
-This body belongs to this mind
-This body trusts you
-This body has a 4.5 billion year old memory 
-This body is in pain
-This body has no boundary
+This body is broken.
+This body is a time-traveler.
+This body is overwhelmed by detail. 
+This body is the place through which experiences flood.
+This body is where I need to go.
+This body belongs to this mind.
+This body trusts you.
+This body has a 4.5 billion year old memory.
+This body is in pain.
+This body has no boundary.
 This body has betrayed me. 
 This body is worthy of trust. 
-This body is mine (Lee Miller, 20220108)
-This body is not far from death and I am not afraid
-This body will die
-This body humbles me over and over again
+This body is mine.
+This body is always reinventing itself.
+This body is not far from death and I am not afraid.
+This body humbles me over and over again.
+This body takes pleasure.
+This body plays.
+This body is untouchable.
+
+One final thing. I use a document version control system called Git and as such most of current writing and work is openly accessible under a Creative Commons license at Github. This means that the entire history of this presentation -- every edit, every mistake, every tangent -- is able to be viewed via what is called the document's _blame_ file at https://bit.ly/ellis-pressure. Terrifying.
 
 Thank you. And thank you once again for being given this tremendous honour to present these ideas to you this morning. It has been a pleasure and this body is most certainly humbled.
+
+www.skellis.net
+
 
 ### unused meditations
 
