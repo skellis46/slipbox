@@ -56,7 +56,7 @@ What follows this morning is a guided tour or maybe even misguided tour of the b
 
 ### a brief aside [.ptbrief]
 
-There's an Artificial Intelligence theorist whose name is Eliezer Yudkowsky. He is also the founder of the rationalist website _LessWrong_. Yudkowsky is perhaps best known for creating the term "friendly artificial intelligence." In his formerly prolific blogging days he used to drop in what he called _meditations_. He describes these meditations as being like "puzzles"[@yudkowsky_useful_2012 n.p.] designed to help people remember the ideas in the writing. I'm going to steal Yudkowsky's idea at various moments in this presentation but with two different purposes in mind. The first is to recognise that time in this online space -- a webinar -- is experienced as a different kind of time with different kinds of pressures, affordances and limits. To give you space to rest your eyes, and to acknowledge that how I choreograph this space-time makes a difference to how you experience it. The second is to provoke specific reflections from you. Each _meditation_ will last just 1 minute, and each will give you a chance to rest, reflect, note, imagine, drift or engage as you prefer. 
+There's an Artificial Intelligence theorist whose name is Eliezer Yudkowsky. He is also the founder of the rationalist website _LessWrong_. Yudkowsky is perhaps best known for creating the term "friendly artificial intelligence." In his formerly prolific blogging days he used to drop in what he called _meditations_. He describes these meditations as being like "puzzles"[@yudkowsky_useful_2012 n.p.] designed to help people remember the ideas in the writing. I'm going to steal Yudkowsky's idea at various moments in this presentation but with two different purposes in mind. The first is to recognise that time in this online space -- a webinar -- is experienced as a different kind of time with different kinds of pressures, affordances and limits. To give you space to rest your eyes, and to acknowledge that how I choreograph this space-time makes a difference to how you experience it. The second is to provoke specific reflections from you. Each _meditation_ will last just 1 minute, and each will give you a chance to rest, reflect, note, imagine, drift or engage as you prefer. I imagine some of you might even flick over to check your email -- maybe something important has arrived.
 
 ---
 
@@ -76,7 +76,7 @@ I'm talking about: go to list (opportunity for meditation[^med] -- to interrupt 
 
 ### pressure, stress and strain
 
-Tell story about Jim.
+Tell story about Jim. But these conceptualisations -- perhaps even abstractions -- have no place in this story this morning. Sorry Jim.
 Placing these ideas on the table. They are a means by which to frame what will come. 
 
 - neoliberalism? 
@@ -184,7 +184,7 @@ That is, like Heidegger described, our being is bound to finite time. Rather tha
 
 What became clear, even in the earliest days of the pandemic, was that touching others -- making physical contact with others -- was under direct and immediate pressure to change. We went from people who touch each other all of the time (in different circumstances, conventions and situations) to a species that avoided touch. We avoided touch to protect ourselves and to protect others. For some, this was a kind of relief; for others not at all. We became out of touch.
 
-To be _out of touch_ in English of course means to be disconnected or out of date. As if we have no remaining touch left. "Sorry I'm all out of touch. I have no touch left to give." The way in which middle-aged people become out of touch with the culture and language of young people. As in: That guy is so out of touch. Not up to speed. Disconnected. Not with it. To no longer be able to 'read the room' because the room has moved on beyond one's grasp.
+To be _out of touch_ in English of course means to be disconnected or out of date. As if we have no remaining touch left. "Sorry I'm all out of touch. I have no touch left to give." The way in which middle-aged people become out of touch with the culture and language of young people. As in: That guy is so out of touch. Not up to speed. Disconnected. Not with it. To no longer be able to 'read the room' because the room has moved beyond one's grasp.
 
 Yet we felt the pressure to stay connected or be in touch. We experienced -- and likely still experience -- zoom fatigue. A kind of hyper-connectivity made possible by 21st century technologies. We were desperate to stay in touch while knowing deep down in our zoom-fatigued bodies that we also remained deeply out of touch. Touch was dangerous. Touch was certainly no longer innocent (was it ever?)
 
@@ -200,7 +200,6 @@ Another way of being out of touch is about the invisible fires of the anthropoce
 
 Limitation. Narrow the attention. The resources. To touch the earth and our bodies on it lightly. But what do I mean by _scale of time?_
 
-more like a hobby --to resist the compression of time through neoliberal (eye-roll) pressure. https://seths.blog/2022/01/generative-hobbies/
 #### The game of people you will love
 
 There's a simple game to play. I first read about it in Andri Snaer Magnason's _On Time and Water_. The game is to answer the question: "When is someone you will love still going to be alive?"[@magnason-2021-time p.308]
@@ -256,44 +255,22 @@ _Meditation:_ Close your eyes and wait one minute.
 
 ---
 
-### Two propositions
+### Two descriptions
 
-(one imagined, the other started)
+I'd like to describe two art ideas -- one imagined, the other started -- that attempt to consider the body beyond its lifetime, and harness humility and responsibility. Both are inspired by art works like Katie Paterson's _Future Library_ (2014) or Danny Hillis's _Clock of the Long Now_ (1999), or Walter de Maria's _The Lightning Field_ (1977) or John Cage's _Organ2/ASLSP (As Slow as Possible)_ (1987) or Juha van Ingen's animated gif called _AS Long As Possible (ASLAP)_ (2015) or Jem Finer's _LongPlayer_ (2000). Yet, in describing these two art ideas I understand that, as Andri Magnason has written, "nothing is as magnificent as a glacier, nothing so mysterious as a rainforest at night."[@magnason-2021-time pp.259-260]
 
-Inspired by The clock of the long now. 
-Katie Paterson in [[Krznaric - The Good Ancestor#^addf96]]
-Others.
+They are descriptions of practices that are defined by not being able to be completed; their ontology is to be ongoing. They are "artworks as processes or the seeds for processes - things that exist and change in time, things that are never finished".[@eno-2000-big n.pag.] They stretch into time beyond those we love and who love us. They are an attempt to shift our attention from something extrinsic to our practices to something intrinsic to them. They are an attempt to generate signal without generating noise. They are so-called _atelic activities_ meaning their value is not from their telos or aim[@burkeman-2021-four] because, after all, how might I even begin to contemplate their affects (or lack of affect) when they continue long after I am gone? 
 
-Haiku by Kobayashi Issa (1763-1828): (was a Japanese poet and lay Buddhist priest)
+There is a haiku by the Japanese poet and Buddhist priest Kobayashi Issa (1763-1828). I first heard it quite recently when the poet Jane Hirshfield read it:
 
-In this world  
+> In this world  
 we walk on the roof of hell  
 gathering blossoms.
 
-Source: https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#
 
-> who do we think of, when we use the pronoun “we”? And I want my “we” to be absolutely continuous amongst my fellow humans, amongst living beings, amongst the largeness of the expanding universe, down to the tiniest physics and particle. -- Jane Hirshfield (https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#)
+So, yes, just collecting blossoms while acknowledging the heat from below. to make something for the future that is not about legacy. That we thought about them. We paid them attention, even as human corporations continued to suck fossil fuels out of the ground. 
 
-> nothing we produce can hold a candle to the ocean itself, nothing is as magnificent as a glacier,[p.260] nothing so mysterious as a rainforest at night. Nothing we have done will be considered remarkable if achieving it has meant closing our eyes to science and throwing away the life and happiness of future generations.[@magnason-2021-time pp.259-260]
-
-So, yes, just collecting blossoms while acknowledging the heat from below. to make something for the future that is not about legacy. That we thought about them. We paid them attention, even as continued to suck fossil fuels out of the ground. 
-
-_Conditions for these proposals:_
-
-- atelic
-- intrinsic (not dependent on extrinsic resources -- care for externalities)
-- body is present (why?)
-- minimal footprint
-
-They are practices that are defined by not being able to be completed (see Eno essay). Their ontology is to be ongoing. Work that goes on. That is followed. They stretch into time the way those we love and who love us:
-
-> Taking a walk in the countryside, like listening to a favorite song or meeting friends for an evening of conversation, is thus a good example of what the philosopher Kieran Setiya calls an “atelic activity,” meaning that its value isn’t derived from its telos, or ultimate aim. You shouldn’t be aiming to get a walk “done”; nor are you likely to reach a point in life when you’ve accomplished all the walking you were aiming to do. “You can stop doing these things, and you eventually will, but you cannot complete them,” Setiya explains. They have “no outcome whose achievement exhausts them and therefore brings them to an end.” And so the only reason to do them is for themselves alone: “There is no more to going for a walk than what you are doing right now.” (4000 weeks)
-
-Atelic: Presenting an action or event as being incomplete. (Is a hobby!) But there's a lie here isn't there? But in recognising the difference we are changed. Our bodies are changed. The pressures are changed. 
-
-> We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_.[@jacobs-2021-tech p.30]
-
-#### The steward
+#### The steward (imagined)
 
 > Ise Jingū, Japan
 > A Shinto shrine that has been torn down and rebuilt to exactly the same design every 20 years since 690 CE. A building forever new and forever ancient.[@krznaric-2021-good p.96]
@@ -393,9 +370,17 @@ Meditation: what is the role of patience in your work and research? What (if any
 
 Meditation: when to admit to not-knowing? That the territory is unattainable. That paradox lies at the heart of research. 
 
+### References and sources
+
+Source for haiku: https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#
+
+
 ### uncertain / possible
 
+more like a hobby --to resist the compression of time through neoliberal pressure. https://seths.blog/2022/01/generative-hobbies/
+
 > ‘Societies’, wrote Mauss, ‘live by borrowing from each other, but they define themselves rather by the refusal of borrowing than by its acceptance.’14[@graeber-2021-dawn Chapter 5, n.pag.]
+
 - paradox of artistic research is desire for originality/uniqueness ... to be different. To stamp one's identity on an artistic work. Define ourselves by refusal of borrowing. But how to live? Openly borrow. System of exchange. 
 - perhaps schismogenesis is useful as well: "a process of differentiation in the norms of individual behaviour resulting from cumulative interaction between individuals." (from wiki)
 - sonder -- useful?
@@ -443,6 +428,59 @@ What does it mean to go slow? Consider that word. P155 of Time and Water - about
 - 
 
 ## edit bin
+
+_Conditions for these proposals:_
+
+- atelic
+- intrinsic (not dependent on extrinsic resources -- care for externalities)
+- body is present (why?)
+- minimal footprint
+
+Atelic: Presenting an action or event as being incomplete. (Is a hobby!) But there's a lie here isn't there? But in recognising the difference we are changed. Our bodies are changed. The pressures are changed. 
+
+> We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_.[@jacobs-2021-tech p.30]
+
+> Taking a walk in the countryside, like listening to a favorite song or meeting friends for an evening of conversation, is thus a good example of what the philosopher Kieran Setiya calls an “atelic activity,” meaning that its value isn’t derived from its telos, or ultimate aim. You shouldn’t be aiming to get a walk “done”; nor are you likely to reach a point in life when you’ve accomplished all the walking you were aiming to do. “You can stop doing these things, and you eventually will, but you cannot complete them,” Setiya explains. They have “no outcome whose achievement exhausts them and therefore brings them to an end.” And so the only reason to do them is for themselves alone: “There is no more to going for a walk than what you are doing right now.” (4000 weeks)
+
+> who do we think of, when we use the pronoun “we”? And I want my “we” to be absolutely continuous amongst my fellow humans, amongst living beings, amongst the largeness of the expanding universe, down to the tiniest physics and particle. -- Jane Hirshfield (https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#)
+
+> nothing we produce can hold a candle to the ocean itself, nothing is as magnificent as a glacier,[p.260] nothing so mysterious as a rainforest at night. Nothing we have done will be considered remarkable if achieving it has meant closing our eyes to science and throwing away the life and happiness of future generations.[@magnason-2021-time pp.259-260]
+Resist with all our hearts the instrumental and short-term future-focused way. That industrial practice-research will do this. Industrial performing arts will do this. In order to do or get this I must do this. It's living in the short-term me future. 
+
+To de-instrumentalise the body. It's not a body FOR this or that thing. It is a body that is. It is a body under stress. Under pressure. It is not a body under pressure in order for something else to happen: justice, etc. 
+A body radically in the present - not judged for another (short-term future) means. 
+
+
+The purpose of this body, under these conditions is to be this body under these conditions. These are the practices -- the research practices -- in which we acknowledge and even resist the pressure to make it a body under these conditions instrumentalised to be another kind of body with other kinds of purposes. This is to write, understand and embody the body as it is. 
+
+PaR - expansion. Blossoming. Products. Professionalisation. Neoliberalism. 
+professionalisation of arts through PaR creates this danger quite explicitly. 
+
+> Paleontologist Tim Flannery puts it even more starkly, describing our rapacious species as “the future eaters.”6 [@krznaric-2021-good p.141]
+
+"to develop a sense of deep-time humility, where we grasp the insignificance of our own transitory existence in relation to the vast time frame of cosmic history, freeing our minds to look both far into the past and beyond our lifetimes into a distant future."[@krznaric-2021-good p.39]
+
+territory. That those futures are only maps. Useful, interesting, but partial, flawed and red herrings. The research is in the body as territory 
+
+> Admittedly, it’s not entirely our own fault that we approach our finite time in such a perversely instrumental and future-focused way. Powerful external pressures push us in this direction, too, because we exist inside an economic system that is instrumentalist to its core. One way of understanding capitalism, in fact, is as a giant machine for instrumentalizing everything it encounters—the earth’s resources, your time and abilities (or “human resources”)—in the service of future profit. (4000 weeks)
+
+
+Whitman was right after all. We do contain multitudes. 
+
+> Suzuki recognizes that seeing humans as interdependent with the living world lies at the heart of the seventh-generation principle. The environment is not something “out there”; as he puts it, “we are the environment.” We are connected to the landscape, just as we are to future generations, through the air we breathe, the water we drink, and the soil in which we grow our food.
+> The oxygen we breathe in, for instance, circulates in our blood-stream and around half remains in our lungs, so there is no clear line separating where the air ends and we begin. When we exhale, our breath mixes with the air and is taken in by other people, birds, mammals, and reptiles. “If I am air and you are air, then I am you,” writes Suzuki. But the atoms in the air also persist through time. According to one study, there are 3 x 1019 (three followed by nineteen zeros) argon atoms in a breath of air. These quintillions of atoms are continually being blown around the planet, so wherever you are, you will breathe in around 15 argon atoms that you breathed in a year earlier. And that’s not all. Each breath we take contains argon atoms that were probably once inhaled by Cleopatra and Gautama Buddha, and will be breathed in by our descendants seven generations from today. “Air,” says Suzuki, plays an essential role “linking all life in a single matrix, and joining past, present and future in a single flowing entity.”32 [@krznaric-2021-good p.88]
+
+It seems to embody the Persian poet Rumi's rather well-known directive to "sell your cleverness and buy bewilderment" (Rumi)
+
+“Sit down before fact as a little child, be prepared to give up every preconceived notion, follow humbly wherever and to whatever abysses nature leads, or you shall learn nothing.” - Huxley
+
+> An essential starting point is to develop a sense of deep-time humility, where we grasp the insignificance of our own transitory existence in relation to the vast time frame of cosmic history, freeing our minds to look both far into the past and beyond our lifetimes into a distant future. We must accept the reality that our personal stories from birth to death, and all the achievements and tragedies of human civilization, will barely register in the annals of cosmological time.[@krznaric-2021-good p.39]
+
+> Is there an ideal time horizon to which we should aspire in the tug-of-war against short-termism? This book proposes a hundred years as a minimum threshold for long-term thinking. This is the current length of a long human lifespan, taking us beyond the ego [p.15] boundary of our own mortality so we begin to imagine futures that we can influence yet not participate in ourselves.[@krznaric-2021-good pp.14-15]
+
+> The most important question we must ask ourselves is, "Are we being good ancestors?" So said Jonas Salk, who developed the polio vaccine in 1953 but refused to patent it--forgoing profit so that more lives could be saved. Salk's radical generosity to future generations should inspire us. But when leading philosopher Roman Krznaric examines society today, he sees just the opposite: Our short term, exploitative mindsets have "colonized the future." (The Good Ancestor blurb)
+
+[[Magnason - On Time and Water#^f0cae3]] -- purposelessness. Focus on the empty. But to build these practices so that they touch the earth lightly. 
 
 > To recognize the close parallels between private property and notions of the sacred is also to recognize what is so historically odd about European social thought. Which is that – quite unlike free societies – we take this absolute, sacred quality in private property as a paradigm for all human rights and freedoms. This is what the political scientist C. B. Macpherson meant by ‘possessive individualism’. Just as every man’s home is his castle, so your right not to be killed, tortured or arbitrarily imprisoned rests on the idea that you own your own body, just as you own your chattels and possessions, and legally have the right to exclude others from your land, or house, or car, and so on.53 As we’ve seen, those who did not share this particular European conception of the sacred could indeed be killed, tortured or arbitrarily imprisoned – and, from Amazonia to Oceania, they often were. [@graeber-2021-dawn Chapter 4, n.pag.]
 
