@@ -201,21 +201,23 @@ Another way of being out of touch is about the invisible fires of the anthropoce
 Limitation. Narrow the attention. The resources. To touch the earth and our bodies on it lightly. But what do I mean by _scale of time?_
 
 more like a hobby --to resist the compression of time through neoliberal (eye-roll) pressure. https://seths.blog/2022/01/generative-hobbies/
+#### The game of people you will love
 
-#### The game of people we loved and were loved by
+There's a simple game to play. I first read about it in Andri Snaer Magnason's _On Time and Water_. The game is to answer the question: "When is someone you will love still going to be alive?"[@magnason-2021-time p.308]
 
-There's a simple game to play; it's a game based on people we loved and were loved by. I first read about it in Andri Snaer Magnason's _On Time and Water_. 
+Here's my version. My grandmother, Gladys Eastwood, was born in December 1913. Here she is singing. Gladys gave birth to my mother, Gabrielle Eastwood-Ellis in 1937. Here she is in 1960. I was born in 1968, and here I am in about 1973. My niece Rebecca was in 1980; and Rebecca's daughter -- my great niece -- Zoe Ellis-Craig was born in 2016. If we imagine that Zoe lives until she is 90 then this would mean she would die in 2106. 
 
-> When is someone you will love still going to be alive?[@magnason-2021-time p.308]
+Gladys: 1913 - 2005
+Gabrielle: 1937 - 2021
+Simon: 1968 - 
+Rebecca: 1980 - 
+Zoe: 2016 - 
 
-> [This is the] time you can touch with your own hands. Your time is the time of the people you know and love, the time that moulds you. And your time is also the time of the people you will know and love. The time that you will shape. Everything you do matters. You create the future every single day.’[@magnason-2021-time p.309]
+That is 193 years of people I have loved and who have loved me. 193 years. This small, insignificant, delicate body extended through time, and "beyond the ego boundary of [my] own mortality".[@krznaric-2021-good pp.14-15] This body's traumas, hopes, dreams, desires, and limitations; its 206 discrete bones, 650 or so muscles, and 100 billion neurons. This a body that counts. These are the bodies that count. 
 
-The game of people we loved and were loved by. Gladys. Recording of her singing? Zoe. Delusions of grandeur. 1913 (2005) - 1937 (2021) - 1968 - 1980 - 2016 - 2106
-Just five generations, only two of these people are dead.
+Magnason describes it like this: 
 
-193 years. This small, insignificant, delicate body extended through time. It's traumas, hopes, dreams, desires, limitations; it's 206 discrete bones, 650 or so muscles, 100 billion neurons. This a body that counts. These are the bodies that count. 
-
-[[Magnason - On Time and Water#^f0cae3]] -- purposelessness. Focus on the empty. But to build these practices so that they touch the earth lightly. 
+> [This is the] time you can touch with your own hands. Your time is the time of the people you know and love, the time that moulds you. And your time is also the time of the people you *will* know and love. The time that you will shape. Everything you do matters. You create the future every single day.’[@magnason-2021-time p.309]
 
 #### To be a good ancestor
 
