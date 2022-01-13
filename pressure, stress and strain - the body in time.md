@@ -80,7 +80,7 @@ I'm talking about: go to list (opportunity for meditation[^med] -- to interrupt 
 
 ### pressure, stress and strain
 
-Tell story about Jim. But these conceptualisations -- perhaps even abstractions -- have no place in this story this morning. Sorry Jim.
+Tell story about Jim. But these conceptualisations (try as I might) -- perhaps even abstractions -- have no place in this story this morning. Sorry Jim.
 Placing these ideas on the table. They are a means by which to frame what will come. 
 
 - neoliberalism? 
@@ -117,72 +117,66 @@ In which I ... (set up the paradox: the now in short-term thinking and a differe
 
 In this moment, this body that seems to be me -- or that I call _mine_ -- is sitting in front of a screen. How does _your_ body feel right now? Where does it feel right now? What weighs heavily on your body that you might let go of?
 
-In dance and performance practices -- both in and outside of the University -- what do we artists do? We make performances. They are performances of enormously different scales, shapes, sizes, and colours. Sometimes they involve many many people, other times just a few (rarely just one, even when we call them "solos"). They are sometimes unpopular, sometimes popular -- although not nearly as culturally relevant as film or music. Sometimes they are under-developed, sometimes over-cooked, sometimes successful, sometimes not (however you might imagine 'success' to be gauged) They express ideas, they captivate, they alienate, they distract, they are didactic, they are open to interpretation. In dance -- or at least in so much of dance -- they are people moving (sometimes to music, sometimes not). It's absurd to attempt to characterise the set of global artistic practices that might fall under the banner of 'dance' or 'performance' as I've just done. So forgive me my hubris. But I'd like to propose that one thing all dance (perhaps all performance including theatre and opera) has in common -- from social dancing, to artistic dancing -- is a concern or deep curiosity about something that is called many things, but most often "presence." That _being present_ is an essential part of performance -- perhaps even an essential part of being human -- and somehow that not being present is a bad thing, or something to be avoided. It's the opposite of blanking. (so useful that word -- if presence is non-judgemental awareness, then blanking is hyper-judgemental )
+In dance and performance practices -- both in and outside of the University -- what do we artists do? We make performances. They are performances of enormously different scales, shapes, sizes, and colours. Sometimes they involve many many people, other times just a few (rarely just one, even when we call them "solos"). They are sometimes unpopular, sometimes popular -- although not nearly as culturally relevant as film or music. Sometimes they are under-developed, sometimes over-cooked, sometimes successful, sometimes not (however you might imagine 'success' to be gauged) They express ideas, they captivate, they alienate, they distract, they are didactic, they are open to interpretation. In dance -- or at least in so much of dance -- they are people moving (sometimes to music, sometimes not). It's absurd to attempt to characterise the set of global artistic practices that might fall under the banner of 'dance' or 'performance' as I've just done. So forgive me my hubris. But I'd like to propose that one thing all dance (perhaps all performance including theatre and opera) has in common -- from social dancing, to artistic dancing -- is a concern for, pleasure in, and deep curiosity about something that is called many things, but most often "presence." That _being present_ is an essential part of dancing (and performance) -- perhaps even an essential part of being human -- and somehow that not being present is a bad thing, or something to be avoided. Being present is the opposite of blanking while performing; or being so self-conscious -- or perhaps hyper-judgmental -- while out social dancing that your body refuses to move. 
 
-Nevertheless, most products -- including performances -- can be (perhaps cynically) summed up as "take, make, use, lose."[Kate Raworth, in @krznaric-2021-good p.206] We take the Earth's materials, make them into things we want or like, use them a bit (or present them), and then they are discarded or lost. This is not to say that they don't produce some value: pleasure ...
+Nevertheless, most products -- including performances -- can be (perhaps cynically) summed up as "take, make, use, lose."[Kate Raworth, in @krznaric-2021-good p.206] We take the Earth's materials, make them into things we want or like, use them a bit (or present them), and then they are discarded or lost. This is not to say that they don't produce some cultural value.
 
 You can imagine the tension or contradiction between such a mode of production, and a set of artistic practices predicated on presence. It's a strange formula:
 
 Take. Make. Use. Lose. But, oh, don't forget, be present. 
 
-#### process-oriented artistic practices
+#### one type of now: process-oriented artistic practices
 
-The almost exclusively linear model of production in dance and performance is increasingly disheartening, and unsustainable. Each choreography, each performance seems to take longer and longer to make (and to use more and more resources), but is seen or presented less and less. The feeling of running to stand still is stronger and stronger, and certainly the economics no longer add up, if they ever did. Perhaps it's not surprising that I've moved increasingly towards process-oriented body-based practices, and I've done this for a number of reasons: i) my aging body -- it is physically capable of less. In case you were wondering, this is also called _making a virtue out of necessity_; ii) sense of disillusionment with making and making and making for outcomes that were gone, often after only 2 or 3 performances; iii) deeper and deeper engagement with research through practice; iv) desire to seek practices that don't fit or make sense in current models of production. 
+The almost exclusively linear model of production in dance and performance is increasingly disheartening, and unsustainable. Each choreography, each performance seems to take longer and longer to make (and to use more and more resources), but is seen or presented less and less. The feeling of running to stand still is stronger and stronger, and certainly the economics no longer add up, if they ever did. Perhaps it's not surprising that I've moved increasingly towards process-oriented body-based practices, and I've done this for a number of reasons: i) my aging body -- it is physically capable of less. In case you were wondering, this is also called _making a virtue out of necessity_; ii) sense of disillusionment with making and making and making for outcomes that are gone, often after only 2 or 3 performances; iii) deeper and deeper engagement with research through practice; iv) desire to seek practices that don't fit or make sense in current models of production. 
 
-By process-oriented body-based practices, I mean things like somatics that distinguish the body as observed from the outside -- the body as spectacle or as it is seen, oculocentric -- versus the soma as perceived from the inside. These are practices known by names like Feldenkrais, Alexander technique, Body Mind Centering and Skinner Releasing Technique. The distinction I've just stated between inner and outer worlds, between what can be seen and what can only be felt, is an important one. It is perhaps even radical given just how visually oriented human beings are in our world of TikTok and Instagram, and that body-based practices like somatics seem to resist so many of the tropes of the body under pressure: pressure to take, pressure to make, pressure to use, pressure to lose. The pressures of production.
+By process-oriented body-based practices, I mean things like somatics that distinguish the body as observed from the outside -- the body as spectacle or as it is seen -- versus the soma as perceived from the inside. These are practices known by names like Feldenkrais, Alexander technique, Body Mind Centering and Skinner Releasing Technique. 
 
-If I consider body-based practices with respect to the conditions and history of practice-research, then such practices become vital -- and indeed provocative or challenging -- for five reasons. First, these body-based practices have a complex and often fraught relationship with language. That is, how does language function (in a descriptive or analytical way) with these practices? It is undoubtedly limited. Second, as I've just said, the experiential nuances are not seen but felt. Third, these practices intersect with contested issues of so-called embodied knowledge and tacit awareness. That is, when doing these practices, how might we recognise what is understood by the practitioners and how that understanding changes with practice? Fourth, these practices complicate decades-old problems in practice-research to do with arts practices that are ephemeral (or that 'disappear') and how they might be documented, and how they even resist documentation. Fifth, and finally, they ask us to slow down. They introduce "slack time"[@munger-2021-it n.pag], a chance to adjust ourselves to different experiences of the unfolding of time. 
+The distinction I've just stated between inner and outer worlds, between what can be seen and what can only be felt, is an important one. It is perhaps even radical given how oculocentric our world of TikTok and Instagram is, and that body-based practices like somatics seem to resist so many of the tropes of the body under pressure: pressure to take, pressure to make, pressure to use, pressure to lose. The pressures of production.
 
-In fact, somatics practitioners are so enamoured with slowness that they use the Weber-Fechner Law to justify working at slow and deliberate speeds.[e.g. Shusterman, in @ginot-2010-shusterman] The Weber-Fechner Law relates to human stimulus and perception, and more specifically the relationship between the actual change in a stimuli and the perceived change. For example, if a stimulus has an initial value of x, and is increased by 10, our perception of this change will be very different if, for example the initial value is x+400. In other words, if we slow the body right down, then our sensitivity to the same _quantity_ of change is heightened.
+If I consider body-based practices within the conditions and history of practice-research, then such practices become vital -- and indeed provocative or challenging -- for five reasons: 
+
+1. These body-based practices have a complex and often fraught relationship with language. That is, how does language (in a descriptive or analytical way) function with these practices? It is undoubtedly limited. 
+2. As I've just said, the experiential nuances are not seen but felt. 
+3. These practices intersect with contested issues of so-called embodied knowledge and tacit awareness. That is, when doing these practices, how might we recognise what is understood by the practitioners and how that understanding changes with practice? 
+4. These practices complicate decades-old problems in practice-research to do with arts practices that are ephemeral (or that 'disappear') and how they might be documented, and how they even resist documentation. 
+5. Finally, they ask us to slow down. They introduce "slack time"[@munger-2021-it n.pag], a chance to adjust ourselves to different experiences of the unfolding of time. 
+
+In fact, somatics practitioners are so enamoured with slowness that they use the Weber-Fechner Law to justify working at slow and deliberate speeds.[e.g. Shusterman, in @ginot-2010-shusterman] The Weber-Fechner Law describes the relationship between the actual change in a stimuli and the perceived change. For example, if a stimulus has an initial value of x, and is increased by 10, our perception of this change will be very different if, for example the initial value is 400 and is increased to 410. In other words, if we slow the body right down, then our sensitivity to the same _quantity_ of change is heightened.
 
 - compare with [[Magnason - On Time and Water#Back in time]] -- slow slow slow down? 
 
-Another somatic practice commonly used in dance is the oddly named Authentic Movement. 
+Another somatic practice commonly used in dance is the oddly named Authentic Movement. Authentic Movement was developed for therapeutic situations, but it is also used by dance and movement artists as a way to tune the body's senses, and less commonly as choreographic process and performance.[e.g. @mcleod-2016-movement] Authentic Movement does not require the participants to be experienced or trained. There are two roles, one is the mover who has their eyes closed. This person moves in direct response to what they are noticing, experiencing, feeling, sensing or imagining. Their task or activity is to be  awake to the "full universe of sensations associated with the body being itself." [jkz] To cultivate awareness without judgement. The other person keeps the mover safe, and simply observes them without judgement. After the improvisation -- which might last anywhere from 20 to 60 minutes (or longer), the mover reflects verbally on their experience while the watcher listens. They then change roles. Two people, one observing their inner world and moving, the other observing the other person in the outer world. 
 
-Authentic Movement is a practice that was developed in therapeutic situations. But, it is also used by dance and movement artists both as a way to tune the body, and less commonly as choreographic process and performance.[e.g. @mcleod-2016-movement] It's very simple to do, and does not require the two participants to be trained. There are two roles, one
+The distinction between inner and outer worlds, between what is felt and what is seen, is critical. The distinction reminds us that when we are dealing with body-based practices what we can observe bears little or no relationship to the experiential complexity of what happened.  
 
-One person -- the mover -- had their eyes closed. The other person -- the watcher -- was watching the mover. The watcher was also holding a smartphone _directed_ towards the mover, but was not paying attention to the phone's screen. A phone hyphen camera is not a regular part of Authentic Movement and you may or may not know that.
+I see Authentic Movement as a body-based process that involves empirical (visible) and sensorial (non-visible) observation, and although it is simple to describe, it generates complex psycho-physical experiences. What is profound about the experience is the simple-in-theory attempt to practice observation (internally and externally) without judgement. How often in our lives -- other than when we were very small children -- do we get to move, play and be supported without judgment? Even just imagining the attempt to stop judging ourselves and others is destabilising for many people. What remains beyond judgement? 
 
-It affords a body-based process of empirical (visible) and sensorial (non-visible) observation. Authentic Movement can be thought of as a contemplative practice, a set of processes in which we practice "the timeless present we call now" [Kabat Zinn, Mindfulness of the body as a whole, 13min, app); where we breathe out of clock time and into non-judgemental awareness. And this is what I understand the practice of presence to be in the performing arts: non-judgemental awareness. It's the keystone of the performing arts, perhaps experienced most commonly in many different circumstances by Csikszentmihalyi's famous concept _flow_.[@csikszentmihalyi-2009-flow]
+It might already seem quite clear to you that given all of this Authentic Movement is akin to a contemplative practice like mindfulness; a set of processes in which we practice "the timeless present we call now";[Kabat-Zinn in @mindfulnessappsswedenab-2021-jon _Mindfulness of the body as a whole_ n.pag.] where we breathe and move out of clock time and into non-judgemental awareness. 
 
-In 2019 the dancer-choreographer Shaun McLeod and I worked together with the movement practice called Authentic Movement. What can be said about what happened in that space during those six weeks of practice? If all of us here had been there what would we all have heard and/or seen that we could agree on?
+Curiously, the Pali term _sati_ (or _smṛti_ in Sanskrit) was first translated into English as _mindfulness_ in 1881 by English scholar Thomas William Rhys Davids. Sati means memory or to remember and this sense of remembering is lost in the English translation _mindfulness_. The meditation teacher and author Sebene Selassie writes of the importance of remembering in contemplative practices -- of coming back to the body (she calls this _bodyfulness_), or re-membering the body:
 
+>Interestingly, to dismember means to pull the body apart piece by piece ... Maybe we are re–membering. [...] coming to our senses, cultivating an embodied awareness ... putting our bodies back together breath by breath.[@selassie_getting_nodate n.d.; n.p.]
 
-The mover moved around the space; sometimes this was more like a series of stillnesses, other times it was everyday: like walking or sitting. Still other times the mover might do things that were a little less everyday. These movements were sometimes strung together; most of us in this room would call that -- or recognise it as -- contemporary dance, or maybe somatically informed contemporary dance if we were being a bit fancy. But it was definitely not the kind of contemporary dance I've seen on "So You Think You Can Dance". [expand: so.mp4] I would say the mover looked a little like they were _feeling_ or _sensing_, maybe _looking inside_. But I couldn't be sure, and nor do I think we would agree on this.
+And this is what I understand the concept of presence to be in the performing arts: non-judgemental awareness. It's the keystone of dancing, and perhaps all of the performing arts; it's akin to Csikszentmihalyi's famous concept _flow_.[@csikszentmihalyi-2009-flow] I understand this to be vitally important work. That non-judgemental awareness is the means to transformative experiences. One of its paradoxes is how it makes it possible for the self to fall away. That the language of I I I, me me me, my my my is rendered obsolete, or has no place in non-judgemental awareness. 
 
-It turns out that the smartphone was taking a photograph every 30 seconds, and the screen was darkened so the watcher wouldn't know when a photo was being taken nor how anything might be framed in the lens of the camera. 
+But so what?
 
-Here is a set of photos from one 20 minute Authentic Movement session with Shaun as the mover. [expand: 31shaun.jpg]]
+I want to propose that such practices remind us that there is an opportunity -- regardless of the practices we are involved in as artists, or teachers or researchers -- to seek methods of doing what we do that distill production from consumption. I'll say that again: to seek methods of creating and making that distill production from consumption. That rather than making something simply to be seen (or consumed in some other way), we interrogate our responsibilities as practitioners and seek to de-instrumentalize processes of making in order to understand more deeply their purpose; to consider deeply that to understand their purpose (including the possibility that they have no purpose) is one's only task. That as soon as we fall out of flow, or cease "holding the whole body in awareness"[@mindfulnessappsswedenab-2021-jon] we jolt into the unwieldy self-consciousness of instrumental production: I do this in order to get this sometime in the near future. These are our bodies that gravitate towards wondering what something might bring me. All roads lead to mesearch. The consequences of this gravitational pull towards I, I, I, me, me, me, my, my, my, are devastating. They are devastating not only because of the profound internal and external stresses created by short-term production, but because they lead us to turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs-2018-tending n.p.] 
 
-This collection of photos is the visual remains of the practice. It is thirty-one photos, randomly framed, systematically taken and turned into a collection -- as if to seem complete. The strip is probably quite rich compared with how I've just verbally described what was happening in the studio. We can see the room, positions on the floor, clothing, the light, postures, hints of gestures, expressions. But an enormous quantity of experiential data have not made it from what was in the room to what you can see here. 
+But more of this in a moment. 
 
-We can also infer some things from these photos, the most seductive being what kind of movement occurred. But we are _inferring_ movement, and by that I mean _implying_. We'd also be inferring understanding, and we would be inferring the presence or absence of this thing that gets called _embodied knowledge_. Even if these images were replaced by video ... still be inferring. It would still be 
+---
+_Meditation:_ We don't have time, we are time. Consider this for 1 minute.
 
-I think his concept of resolution is useful, even if I am robbing him of his thinking that was written for a particular context in a particular field. My digital theft of de Sousa Santos' thinking is to remind us that when we are dealing with body-based practices what we can observe bears little or no relationship to the experiential complexity of what happened. That is, we have high resolution experiences, and low resolution representations of those experiences. And that gap applies irrespective of how fancy our technocratic solutions are to the problem of archiving movement and choreography.
+---
 
-High fidelity. Low fidelity. Granularity. 
-To go deeper into that which cannot be observed. 
+#### a brief excursion or sideshow into another type of now.
 
-- see also [[sati, mindfulness and remembering]]
-Perhaps it's not surprising that these kinds of practices like authentic movement seem to mirror mindfulness strategies (and growing industry of mindfulness in the West -- McMindfulness).  But also a way to cope. To cope with the pressure of neoliberalism. 
-
-> The envelope of your skin. Caressing the air. 
-Cultivating awareness. 
-Fully awake. 
-Holding the whole body in awareness. 
-The full universe of sensations associated with the body being itself. Bathed by the air. 
-
-
-
-I am proposing that we must seek methods of making that distill production from consumption; that our work is to pry apart the discombobulating effects of performing to be seen, and to do this in plain sight. I understand dance, and perhaps all of the performing arts, to be a small enough field -- and collection of practices -- to interrogate and resist the logic of production predicated on consumption. In contemporary dance we have talked about such resistance for years as a community but as dance has become more and more visible on social media and the "immediacy of appropriation"[@jacobs-2021-tech p.30], the temptation is to celebrate these days in the sun, and turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs-2018-tending n.p.] 
-
-Not to do this in order to ... that understanding its purpose (including the possibility it has no purpose) is one's only task. When shift from that you are serving something or someone else. Not because of what it might bring me, but because of the ideas themselves. No utility. It is the body "in the service of" that creates the pressure and stress. but humility??
-
-I understand this to be vitally important work. That non-judgemental awareness is a _unit_ of our experience, perhaps even the means to our experience. One of its paradoxes is how it makes it possible for the self to fall away. That the language of I I I, me me me, my my my is rendered obsolete, or has no place in non-judgemental awareness. 
+> "the great irony of our time is that even as we are living longer, we are thinking shorter.” This is the age of the tyranny of the now.[Mary Catherine Bateson, in @krznaric-2021-good pp.4-5]
 
 I must be careful here. I think it's too easy to conflate two types of _now_. One seems to be an obsession with now that distracts us from the past or the future. This is what Bateson calls:
 
-> "the great irony of our time is that even as we are living longer, we are thinking shorter.” This is the age of the tyranny of the now.[Mary Catherine Bateson, in @krznaric-2021-good pp.4-5]
+
 
 
 Seems like a nowness that is an [[obsession with generating noise]] - vs signal
@@ -191,9 +185,11 @@ Make no mistake, Presence = non judgemental awareness. It's the opposite of dist
 
 Distinct from The timeless quality of the present moment. I see this as a kind of paradox of time (or scale and time?). The one version of 'now' voids the past, present and future. The other harnesses the present to expand our understanding, experience and imagination of the past and the future. 
 
-That is, like Heidegger described, our being is bound to finite time. Rather than having time, we are time. (this based on [@burkeman-2021-four Chapter 3 Facing Finitude: Thrown into Time, n.pag.])
+And it is to the future that I want to turn.
 
 ### zoom out: artistic practices for the future
+
+In which I 
 
 #### Being out of touch
 
@@ -205,9 +201,7 @@ To be _out of touch_ in English of course means to be disconnected or out of dat
 
 Yet we felt the pressure to stay connected or be in touch. We experienced -- and likely still experience -- zoom fatigue. A kind of hyper-connectivity made possible by 21st century technologies. We were desperate to stay in touch while knowing deep down in our zoom-fatigued bodies that we also remained profoundly out of touch. Touch was dangerous. Touch was certainly no longer innocent (was it ever?). Touch led to virality.
 
-As the human species worked hard to be phsycially out of touch with each other, I started (and continue) to feel as if get the sense that this work was out of touch. That all this work. Disconnected. 
-
-
+As the human species worked hard to be physically out of touch with each other, I started (and continue) to feel as if get the sense that this work was out of touch. That all this work. Disconnected. 
 
 Trying to make sense of the scale of this fleeting, fragile, rapacious human body. Pressure. Force. Stress. Strain. That when I start to reflect critically on the work I'm doing, and while taking into account the scale of time, of individualism, of now-ness, of personal ambition, and most pressing of all the climate emergency, I start to wonder, what might a body-based practice be in the long now? In deep time? as if "blinded by the excess of clarity" [@merton-1954-elected p.30] with respect to what is now commonly -- but not officially in the geologic time scale -- referred to as the anthropocene: 
 
@@ -347,6 +341,7 @@ This body will die.
 This body is no longer the same. 
 This body is "the supreme instrument of sanity and self-regard". 
 This body is at a loss.
+This body is enveloped by skin.
 This body houses these feelings. 
 This body is consciousness and self-knowing. 
 This body cannot escape technology.
@@ -395,6 +390,9 @@ Meditation: when to admit to not-knowing? That the territory is unattainable. Th
 
 Source for haiku: https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#
 
+### links (obsidian)
+
+- [[sati, mindfulness and remembering]]
 
 ### uncertain / possible
 
@@ -451,6 +449,47 @@ What does it mean to go slow? Consider that word. P155 of Time and Water - about
 - 
 
 ## edit bin
+
+
+
+> The envelope of your skin. Caressing the air. 
+Cultivating awareness. 
+Fully awake. 
+holding the whole body in awareness.[JKZ, app -- 13 min beginner's sit]
+Bathed by the air.
+
+Not to do this in order to ... that understanding its purpose (including the possibility it has no purpose) is one's only task. When shift from that you are serving something or someone else. Not because of what it might bring me, but because of the ideas themselves. No utility. It is the body "in the service of" that creates the pressure and stress. but humility??
+
+of performing to be seen, and to do this in plain sight. I understand dance, and perhaps all of the performing arts, to be a small enough field -- and collection of practices -- to interrogate and resist the logic of production predicated on consumption. In contemporary dance we have talked about such resistance for years as a community but as dance has become more and more visible on social media and the "immediacy of appropriation"[@jacobs-2021-tech p.30], the temptation is to celebrate these days in the sun, and turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs-2018-tending n.p.] 
+
+These are high resolution experiences masked byThat is, we have high resolution experiences, and low resolution representations of those experiences, even as . The process gently asks us deeper into corporeal experiences that cannot be observed.
+
+> The envelope of your skin. Caressing the air. 
+Cultivating awareness. 
+Fully awake. 
+Holding the whole body in awareness.[JKZ, app -- 13 min beginner's sit]
+Bathed by the air.
+
+At the time, the word _mindfulness_ already existed in English; it was most definitely not a neologism. 
+
+Perhaps it's not surprising that these kinds of practices like authentic movement seem to mirror mindfulness strategies (and growing industry of mindfulness in the West -- McMindfulness).  But also a way to cope. To cope with the pressure of neoliberalism. 
+
+I think his concept of resolution is useful, even if I am robbing him of his thinking that was written for a particular context in a particular field. My digital theft of de Sousa Santos' thinking is to remind us that. And that gap applies irrespective of how fancy our technocratic solutions are to the problem of archiving movement and choreography.
+
+
+In 2019 the dancer-choreographer Shaun McLeod and I worked together with the movement practice called Authentic Movement. What can be said about what happened in that space during those six weeks of practice? If all of us here had been there what would we all have heard and/or seen that we could agree on?
+
+The mover moved around the space; sometimes this was more like a series of stillnesses, other times it was everyday: like walking or sitting. Still other times the mover might do things that were a little less everyday. These movements were sometimes strung together; most of us in this room would call that -- or recognise it as -- contemporary dance, or maybe somatically informed contemporary dance if we were being a bit fancy. But it was definitely not the kind of contemporary dance I've seen on "So You Think You Can Dance". [expand: so.mp4] I would say the mover looked a little like they were _feeling_ or _sensing_, maybe _looking inside_. But I couldn't be sure, and nor do I think we would agree on this.
+
+It turns out that the smartphone was taking a photograph every 30 seconds, and the screen was darkened so the watcher wouldn't know when a photo was being taken nor how anything might be framed in the lens of the camera. 
+
+One person -- the mover -- had their eyes closed. The other person -- the watcher -- was watching the mover. The watcher was also holding a smartphone _directed_ towards the mover, but was not paying attention to the phone's screen. A phone hyphen camera is not a regular part of Authentic Movement and you may or may not know that.
+
+Here is a set of photos from one 20 minute Authentic Movement session with Shaun as the mover. These photos were taken at random without the watcher or  mover knowing when a photo was being taken, or how it was framed. [expand: 31shaun.jpg]]
+
+This collection of photos is the visual remains of the practice. It is thirty-one photos, randomly framed, systematically taken and turned into a collection -- as if to seem complete. The strip is probably quite rich compared with how I've just verbally described what was happening in the studio. We can see the room, positions on the floor, clothing, the light, postures, hints of gestures, expressions. But an enormous quantity of experiential data have not made it from what was in the room to what you can see here. 
+
+We can also infer some things from these photos, the most seductive being what kind of movement occurred. But we are _inferring_ movement, and by that I mean _implying_. We'd also be inferring understanding, and we would be inferring the presence or absence of this thing that gets called _embodied knowledge_. Even if these images were replaced by video ... still be inferring. It would still be 
 
 > Quick now, here, now, always—  
 > Ridiculous the waste sad time  
