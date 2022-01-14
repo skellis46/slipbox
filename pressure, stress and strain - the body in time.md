@@ -9,58 +9,29 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # pressure, stress and strain - the body in time
 
-## conference details
-Conference Title: Harnessing a 21st Century Approach to Performing Arts: Technology Practice, Education & Research.
-
-### notes from conversation with Josh Abrams
-
-- thinking about covid exacerbating the way we consider research 
-- students for next 30 years (graduating from HKAPA) - shaping field 
-- keynote: dialogue between Yuk Hui and Che hong Lau
-- largely practitioners as audience 
-- broad range of people: understanding nature of what 'research' is. 
-- assume some knowledge about PaR
-- a lot of applied / pedagogical -- 
-
-### Title
-
-Pressure, stress and strain: the body in time in practice-as-research
-
-### Abstract
-
-This is a shared screen desktop performance that explores the body under stress, and the role that artistic research practices might play in helping us understand the temporal scale of our fleeting, fragile and rapacious human bodies. Where so many body-based practices are predicated on nuanced and refined encounters with presence or awareness, what might the purpose of the body be in artistic research practices that extend through time? My grandmother, the artist Gladys Eastwood (1913-2005), used to joke that, "If you are going to have delusions, you may as well have delusions of grandeur." Indeed, it is easy to measure, admire or fetishise the grandeur of the human body's possibilities. But what if the body experienced and imagined through and in time affords us the humility to pay attention to what geologists call _deep time_? What then for how we steward the body in motion and the body under duress?
-
-### Biography
-
-Simon Ellis is an artist working with research practices of choreography, filmmaking and dance. He was born in the Wairarapa in Aotearoa/New Zealand, but now lives in London. He grew up in a politicised family environment where they often talked about things like human dignity, consumerism and even technology. These, in turn, have shaped his values as an artist, and underpin much of what his practice is about, and how it is conducted. Simon also thinks a lot about the ways humans might value things that are not easily commodified, and likes to imagine a world filled with people who are sensitive to their own bodies, and the bodies of others.
-
-## keynote
-
 ### self-introduction: I am a body
 
-Trigger warning: I'm going to use the word practice a lot in this presentation.
-
-add flip sound to my 1 min counter in keynote?
-
-Good morning everyone. It is an honour and a pleasure to be here with you this morning. In the last two years it has become hard for me to even imagine what it's like to be _with_ other people; and it's not so accurate to say I am _with_ you. Perhaps ... among? Around? Next to? I'm certainly not on the same screen as you. I suspect screens are the principle means by which we humans are atomised. Perhaps we are on the same cloud-based server? I am honoured to be on the same web server as you this morning. Actually I suspect that's not right either. I am honoured to be on Zoom at the same time as you. Let's go with that. 
+Good morning everyone. It is an honour and a pleasure to be here with you this morning. Actually, in the last two years it has become hard for me to even imagine what it's like to be _with_ other people; and it's not so accurate to say I am _with_ you. Perhaps ... among? Around? Next to? I'm certainly not on the same screen as you. Isn't it true that screens are now the principle means by which we humans are atomised? Perhaps we are on the same cloud-based server? I am honoured to be on the same web server as you this morning. Actually I suspect that's not right either. Perhaps all I can say is that I am honoured to be on Zoom at the same time as you. Let's go with that. 
 
 My name is Simon Ellis and, just in case you are wondering ... I have a body, and this body is not just a head and shoulders.(add image of me as I am sitting there) 
 
-That word _have_ in "I have a body" is strange isn't it? Like a possession. Like: I have a car; I have a washing machine; or I have a cat. If I were to say "I am a body" then, in English at least, it seems to diminish my agency or identity, as if I am _only_ a body. How would that idea translate? Into Cantonese? Italian? Farsi? People in dance use the word 'body' like this quite a bit -- as in "I want to work with some bodies", as if these bodies are merely instruments or abstractions with which to choreograph space and time. In dance, we also often talk about 'training our instrument', meaning, training our bodies. Language is so telling or instructive isn't it? Wittgenstein famously wrote that "The limits of my language mean the limits of my world." (Ludwig Wittgenstein’s “Tractatus Logico Philosophicus,” published in 1921) And just in case you imagine me to have spent time reading Wittgenstein, I actually read that quote in Brene Brown's latest book. I feel no shame over this.
+That word _have_ in "I have a body" is strange isn't it? Like a possession. Like: I have a car; I have a washing machine; I have a mind, or I have a cat. If I were to say "I am a body" then, in English at least, it seems to diminish my agency or identity, as if I am _only_ a body. How would that idea translate? Into Cantonese? Italian? Farsi? People in dance use the word 'body' like this quite a bit -- as in "I want to work with some bodies", as if these bodies are merely instruments or abstractions with which to choreograph space and time. 
 
-So in English when we say "I have a body" it's hard to shake this sense of it being something external that we have possession of. In their 2021 book called _The Dawn of Everything_, anthropologist David Graeber and archeologist David Wengrow describe the sacred quality of private property in historical European social thought, and how this sacred quality extends to ownership of our own bodies as a kind of human right. The Canadian political scientist C. B. Macpherson called this ‘possessive individualism’ in how we are thought to be the sole proprietors of our skills (and by extension our bodies), and how we owe nothing to society for them.(https://philosophy-question.com/library/lecture/read/274340-what-is-the-meaning-of-possessive-individualism)
+So in English when we say "I have a body" it's hard to shake this sense of it being something external that we have possession of. In their 2021 book called _The Dawn of Everything_, anthropologist David Graeber and archeologist David Wengrow describe the sacred quality of private property in historical European social thought, and how this sacred quality extends to ownership of our own bodies as a kind of human right. The Canadian political scientist C. B. Macpherson called this _possessive individualism_ in how we are thought to be the sole proprietors of our skills (and by extension our bodies), and how we owe nothing to society for them.[@little-2011-possessive]
 
 In saying all this -- in this rather strange introduction -- you might have guessed that I am a dancer, and in an act of stating the most obvious of facts, this means I am interested in the body, in bodies, in your bodies, in my body, in the human body and indeed the bodies of animals. In that same book by Graeber and Wengrow they describe "extremely human activities" like "gossiping, arguing, playing games, dancing or travelling for pleasure."[@graeber-2021-dawn Chapter 4, n.pag] I love that dancing is up there with gossip and arguing as an extremely human activity. 
 
-I make dance performances and films and I've been doing this for more than 30 years. They have all been tiny. Small scale. Insignificant. I am unheralded. Unheard of. Perhaps this is where human beings are most equal: in our complete cosmic insignificance. Perhaps Walt Whitman was wrong, and we are actually not large, and we do not contain multitudes. These performances I made were microscopic. No, that's not true, all were able to be seen with the naked eye although I like the idea of making literally microscopic dances. Each of these choreographies reflected my interests -- and the interests of the people I collaborated with -- at those times. They reveal the changes in my interests through my life as an artist, and the things that have not changed. (show stills). You might even say -- if you were being unkind -- that these choreographies were all really just about me. It's fine, by the way, if you'd like to be unkind. You can be unkind right there in the Zoom chat. Could there be a more contemporary way to start an online conference with some text-based trolling? 
+I make dance performances and films and I've been doing this for more than 30 years. They have all been tiny. Small scale. Insignificant. I am unheralded. Unheard of. Perhaps this is where human beings are most equal: in our complete cosmic insignificance. Perhaps Walt Whitman was wrong, and we are actually not large, and we do not contain multitudes. These performances I made were microscopic. No, that's not true, all were able to be seen with the naked eye although I like the idea of making literally microscopic dances. Each of these choreographies reflected my interests -- and the interests of the people I collaborated with -- at those times. They reveal the changes in my interests through my life as an artist, and the things that have not changed. (show stills). You might even say -- if you were being unkind -- that these choreographies were all really just about me. It's fine, by the way, if you'd like to be unkind. You can be unkind right there in the Zoom chat. Could there be a more contemporary way to start an online conference than with a bit of chat-room trolling? 
 
-The thing when you _are_ a body, and a body that performs, it's hard for choreographies not to be thought to be personal or about you (even if you don't want them to be). The emeritus professor of medicine and mindfulness Jon Kabat-Zinn describes how even the _not me story_ is the _story of me_.
+The thing when you _are_ a body, and a body that performs, it's hard for choreographies not to be thought to be personal or about you (even if you don't want them to be). The emeritus professor of medicine and mindfulness Jon Kabat-Zinn describes how, in meditation (and in life) even the _not me story_ is the _story of me_.
 
-What follows this morning is a guided tour or maybe even misguided tour of the body under pressure and in time. There will be a few diversions, a brief aside, perhaps even a dead-end if we are lucky. I make some claims, share some ideas, and propose something for us to consider in relation to experiences of stress, and what this might mean for artistic (and perhaps pedagogic) practices, including those that you describe as research. But at its heart this talk is about the kinds of things we make and for whom -- and for when -- they are made. add here about what being a 'me' (or an individual) might be in artistic practice if we think carefully about time. 
+What follows this morning is a guided tour -- or maybe even misguided tour -- of the body under pressure and in time. There will be a few diversions, a brief aside, perhaps even a dead-end if we are lucky. I make some claims, share some ideas, and propose something for us to consider in relation to experiences of stress, and what this might mean for artistic (and perhaps pedagogic) practices, including those that you describe as research. But at its heart this talk is about the kinds of things we make and for whom -- and for when -- they are made. add here about what being a 'me' (or an individual) might be in artistic practice if we think carefully about time. 
 
 ### a brief aside [.ptbrief]
 
-There's an Artificial Intelligence theorist whose name is Eliezer Yudkowsky. He is also the founder of the rationalist website _LessWrong_. Yudkowsky is perhaps best known for creating the term "friendly artificial intelligence." In his formerly prolific blogging days he used to drop in what he called _meditations_. He describes these meditations as being like "puzzles"[@yudkowsky_useful_2012 n.p.] designed to help people remember the ideas in the writing. I'm going to steal Yudkowsky's idea at various moments in this presentation but with two different purposes in mind. The first is to recognise that time in this online space -- a webinar -- is experienced as a different kind of time with different kinds of pressures, affordances and limits. To give you space to rest your eyes, and to acknowledge that how I choreograph this space-time makes a difference to how you experience it. The second is to provoke specific reflections from you. Each _meditation_ will last just 1 minute, and each will give you a chance to rest, reflect, note, imagine, drift or engage as you prefer. I imagine some of you might even flick over to check your email -- maybe something important has arrived.
+There's an Artificial Intelligence theorist whose name is Eliezer Yudkowsky. He is also the founder of the rationalist website _LessWrong_. Yudkowsky is perhaps best known for creating the term "friendly artificial intelligence." In his formerly prolific blogging days he used to drop in what he called _meditations_. He describes these meditations as being like "puzzles"[@yudkowsky-2012-useful n.p.] designed to help people remember the ideas in the writing. I'm going to steal Yudkowsky's idea at various moments in this presentation but with two different purposes in mind. The first is to recognise that time in this online space -- a webinar -- is experienced as a different kind of time with different kinds of pressures, affordances and limits. To give you space to rest your eyes, and to acknowledge that how I choreograph this space-time makes a difference to how you experience it. The second is to provoke specific reflections from you. Each _meditation_ will last just 1 minute, and each will give you a chance to rest, reflect, note, imagine, drift or engage as you prefer. I imagine some of you might even flick over to check your email -- maybe something important has arrived. You. Never. Know.
+
+So, let's try one, even at this early stage of the talk.
 
 ---
 
@@ -72,42 +43,58 @@ Here's 1 minute. [timer.mp4]
 
 ---
 
-### practice-research
+### understanding practice-research
 
-At a certain point -- just over 20 years ago -- I started to integrate ideas about research into my dancing practice. I don't mean the commonplace kind of research that artists do into the subject of their work. For instance, if you were developing an artistic project about, say, climate change, then you'd do a whole lot of reading and background research into climate change. Your research would be a way for you to gather images, ideas, inspiration ... to become informed on the subject matter, while also stoking or loading your imagination. It's more like background information or work. I'm not talking about that kind of research -- like when funding organisations talk about 'research and development'. Not that there's anything wrong with this kind of research. Some of my best friends do research and development.  
+At a certain point -- just over 20 years ago -- I started to integrate ideas about research into my dancing practice. I don't mean the commonplace kind of research that artists do into the subject of their work. For instance, if you were developing an artistic project about, say, climate change, then you'd do a whole lot of reading and background research into climate change. Your research would be a way for you to gather images, ideas, inspiration ... to become informed on the subject matter, while also stoking or loading your imagination. It's more like background information to be more informed, and there are no parameters for how the research might happen. I'm not talking about that kind of research -- like when funding organisations talk about 'research and development'. Not that there's anything wrong with this kind of research. Some of my best friends do research and development.  
 
-I'm talking about: go to list (opportunity for meditation[^med] -- to interrupt me talking and to consider possibilities -- and use it fully [[making sense of dance research]]. This is what practice-as-research is. It is when we investigate ideas through artistic practices. It is not necessarily _about_ those practices (although it might be), but it is most definitely through those practices. 
+Here's a brief and rather curious list. 
 
-### pressure, stress and strain
+- Science research  
+- Pizza research 
+- Music research 
+- Dance research  
 
-Tell story about Jim. But these conceptualisations (try as I might) -- perhaps even abstractions -- have no place in this story this morning. Sorry Jim.
-Placing these ideas on the table. They are a means by which to frame what will come. 
+When we attach the word 'research' to anything it implies a desire to find out or understand something differently. If I say to a friend that I need to do some research before choosing a pizzeria tonight they'd understand that there's a decision to be made, and that without the _research_ we might not make the best decision. 
 
-- neoliberalism? 
-- cult of productivity (so much about producing -- and thereby consuming -- more stuff)
-- can't talk about pressure, stress without talking about time (transition to next section)
-- Geological time and pressure. The sense of time in the stress equation
+Now let's apply two different words to each of the items in the list above:
 
-- get stressed. becoming ghosts like bleached coral. Time of the body. How to describe an ecology of practice -- what balances and imbalances are in play? What powerful phenomena? What increased intensities? [[Magnason - On Time and Water#^9da54a]]
+- research about science / research through science  
+- research about pizza / research through pizza  
+- research about music / research through music  
+- research about dance / research through dance  
 
-- everyday neoliberalism: unregulated hyper-individualism, loneliness, and the commodification of behaviour and thought.
+The word _about_ tells us the object of the research, but not how that research might happen. For example, research _about_ music might be something relatively informal or trivial like a web search to find the latest release from a particular artist. But research _about_ music also might use formal historical methods (with the traditions or conventions that historians use) to understand a piece of music differently. In the same way, research _about_ dance might use anthropology, history, sociology, or science (etc) as methods to increase human understanding of dance. 
 
-> Here’s the problem in a nutshell: short-termism is built into the genetic code of the neoliberal paradigm that has come to dominate economic thought since it was unleashed on the world in the 1980s by the free-market ideology of Margaret Thatcher and Ronald Reagan.[@krznaric-2021-good p.196]
+When we research _through_ something a method is already implied, but the object is not. Research through science uses the scientific method to explore a phenomenon. Research through dance uses the practices of dance in order to explore ideas, phenomena, etc. In both cases, what is able to be examined, what is understood, and how understanding is presented (or made accessible) is in no small part determined by the methods used. 
 
-"Neoliberalism offered the world an economic model that denied the reality of the future."[@krznaric-2021-good p.197]
-- short terminism and neoliberalism pressure
-- the pressure of producing. This. Now this. Now this. video of mouse on wheel. 
-It is a body under pressure ... physical, psychological, cultural. 
+This is what practice-as-research is. It is when we investigate ideas through artistic practices. It is not necessarily _about_ those practices (although it might be), but it is most definitely through those practices. 
+
+### jump cut to talk about pressure, stress and strain
+
+I have a friend who is an exercise physiologist. His name is Jim, Jim Cotter. Here he is. Not so long ago he and I were in a car together and I asked Jim if he was stressed. He smiled because his first thought was to think of stress the way physical scientists or engineers think about the term. It goes something like this:
+
+Stress is "generated whenever a force is applied on a body to deform it" <https://whatispiping.com/pressure-vs-stress/>. Stress is produced inside a material body and is the _intensity_ of internal resistance to the force or pressure applied. 
+
+Pressure, then, is the "intensity of external forces acting at a point." Pressure is exerted on the body.<https://whatispiping.com/pressure-vs-stress/>
+
+Jim also used another word: strain.
+
+Strain is how stress is measured in the physical sciences, and is a material property of a body's change in shape. It refers to the "amount of deformation experienced by the body in the direction of force applied" <https://byjus.com/physics/stress-and-strain/#what-is-strain> Think of how a flexible body responds to pressure -- an external force -- differently from a rigid body. Not better or worse, just differently. 
+
+In psychology, stress is the feeling we get when we perceive pressure from internal or external conditions as being beyond our ability to cope. In both understandings of stress, it's useful to note that there is a point beyond which we -- our bodies, or the material bodies in question -- cannot cope. There is some quantity of psychological or physical deformation beyond which we -- or systems, or bodies -- break. We cannot continue deforming. 
+
+In the arts and humanities in the UK, when we talk about pressure, stress and strain at work, we often pair those experiences or feelings with the word neoliberalism. That, in some way, neoliberalism generates pressure that causes stress that -- in time -- we feel unable to cope with. That we are being deformed by neoliberalism. 
+
+I don't want to get into the nuts and bolts of neoliberalism, but I also want to take care not to write it off because the everyday version of the "uninhibited private market"[@verdouw-2017-subject p.524] -- most commonly associated with Reagan and Thatcher in the 1980s -- underpins unregulated hyper-individualism, ill-conceived faith in the meritocracy,[@sandel-2020-tyranny] loneliness, and the commodification of behaviour and thought.[see for instance, @zuboff-2019-age] It drives the idea that each of us is solely responsible for continual production. The pressure to produce without careful consideration of the physical, temporal, material and psychological resources available both now and in the future is disastrous. This. Now this. Now this. This is a body under pressure. 
 
 [hamster.mp4]
 
-- Linear industrial design.
+Each of us -- as academics, as artists, as teachers, as human beings -- will have felt these demands in various ways. But the worst part of it -- at least in terms of this presentation -- is that "short-termism is built into the genetic code of the neoliberal paradigm."[@krznaric-2021-good p.196] 
 
-The rationalisation of decisions, ideas, and progress based solely on market-led thinking is a core principle of neoliberalism: “a widespread shift towards the uninhibited private market as the primary source of human advancement.” [Verdouw, Julia Joanne. “The Subject Who Thinks Economically? Comparative Money Subjectivities in Neoliberal Context.” Journal of Sociology 53, no. 3 (September 2017): 523–40. https://doi.org/10.1177/1440783316662717, p.524.]
+---
+_Meditation:_
 
-Independence acts as a moral proxy for neoliberal faith in individualism and self-sufficiency; that each of us earns or does not earn our just deserts, and yet the more “we think of ourselves as self-made and self-sufﬁcient, the harder it is to learn gratitude and humility. And without these sentiments, it is hard to care for the common good.”[Sandel, Michael J. The Tyranny of Merit: What’s Become of the Common Good? First published by Allen Lane. London: Allen Lane, an imprint of Penguin Books, 2020, n.pag.]
-
-In The Tyranny of Merit: What’s Become of the Common Good? Michael Sandel unpicks Western democracies’ faith in meritocracy as a cornerstone of neoliberal and global consumer capitalism. He describes how the meritocratic ethic is “corrosive of commonality” in how it celebrates the morality of freedom and autonomy through markets that “give people what they deserve.”  For Sandel, meritocracy is not a solution to inequality but a way to justify it. 
+---
 
 ### zoom in: presence, body-based practices and now
 
@@ -115,11 +102,13 @@ In which I ... (set up the paradox: the now in short-term thinking and a differe
 
 #### being present
 
-In this moment, this body that seems to be me -- or that I call _mine_ -- is sitting in front of a screen. How does _your_ body feel right now? Where does it feel right now? What weighs heavily on your body that you might let go of?
+In this moment, this body that seems to be me -- or that I call _mine_ -- is sitting in front of a screen. How does _your_ body feel right now? Where does it feel right now? What weighs heavily on your body that you might let go of? Isn't it remarkable -- and beautiful -- that you are able to recognise these feelings in your body and recognise them as belonging to you? 
 
-In dance and performance practices -- both in and outside of the University -- what do we artists do? We make performances. They are performances of enormously different scales, shapes, sizes, and colours. Sometimes they involve many many people, other times just a few (rarely just one, even when we call them "solos"). They are sometimes unpopular, sometimes popular -- although not nearly as culturally relevant as film or music. Sometimes they are under-developed, sometimes over-cooked, sometimes successful, sometimes not (however you might imagine 'success' to be gauged) They express ideas, they captivate, they alienate, they distract, they are didactic, they are open to interpretation. In dance -- or at least in so much of dance -- they are people moving (sometimes to music, sometimes not). It's absurd to attempt to characterise the set of global artistic practices that might fall under the banner of 'dance' or 'performance' as I've just done. So forgive me my hubris. But I'd like to propose that one thing all dance (perhaps all performance including theatre and opera) has in common -- from social dancing, to artistic dancing -- is a concern for, pleasure in, and deep curiosity about something that is called many things, but most often "presence." That _being present_ is an essential part of dancing (and performance) -- perhaps even an essential part of being human -- and somehow that not being present is a bad thing, or something to be avoided. Being present is the opposite of blanking while performing; or being so self-conscious -- or perhaps hyper-judgmental -- while out social dancing that your body refuses to move. 
+In dance and performance practices -- both in and outside of the University -- what do we artists do? We make performances. They are performances of enormously different scales, shapes, sizes, and colours. Sometimes they involve many many people, other times just a few (rarely just one, even when we call them "solos"). They are sometimes unpopular, sometimes popular -- although not nearly as culturally relevant as film or music. Sometimes they are under-developed, sometimes over-cooked, sometimes successful, sometimes not (however you might imagine 'success' to be gauged) They express ideas, they captivate, they alienate, they distract, they are didactic, they are open to interpretation. In dance -- or at least in so much of dance -- they are people moving (sometimes to music, sometimes not). It's absurd to attempt to characterise the set of global artistic practices that might fall under the banner of 'dance' or 'performance' as I've just done. So forgive me my hubris. But I'd like to propose that one thing all dance (perhaps all performance including theatre and opera) has in common -- from social dancing, to artistic dancing -- is a concern for, pleasure in, and deep curiosity about something that is called many things, but most often "presence." That _being present_ is an essential part of dancing (and performance) -- perhaps even an essential part of being human -- and somehow that not being present is a bad thing, or something to be avoided. Being present is the opposite of blanking while performing; or being so self-conscious -- or perhaps hyper-judgmental -- while out social dancing that your body refuses to move, or you refuse to move it. 
 
-Nevertheless, most products -- including performances -- can be (perhaps cynically) summed up as "take, make, use, lose."[Kate Raworth, in @krznaric-2021-good p.206] We take the Earth's materials, make them into things we want or like, use them a bit (or present them), and then they are discarded or lost. This is not to say that they don't produce some cultural value.
+**sort out this transition**
+
+Nevertheless, most products -- including performances -- can be (perhaps cynically) summed up as "take, make, use, lose."[Kate Raworth, in @krznaric-2021-good p.206] We take the Earth's materials, make them into things we want or like, use them a bit (or present them), and then they are discarded or lost. Which is not to say that they don't produce some cultural value.
 
 You can imagine the tension or contradiction between such a mode of production, and a set of artistic practices predicated on presence. It's a strange formula:
 
@@ -135,17 +124,15 @@ The distinction I've just stated between inner and outer worlds, between what ca
 
 If I consider body-based practices within the conditions and history of practice-research, then such practices become vital -- and indeed provocative or challenging -- for five reasons: 
 
-1. These body-based practices have a complex and often fraught relationship with language. That is, how does language (in a descriptive or analytical way) function with these practices? It is undoubtedly limited. 
-2. As I've just said, the experiential nuances are not seen but felt. 
-3. These practices intersect with contested issues of so-called embodied knowledge and tacit awareness. That is, when doing these practices, how might we recognise what is understood by the practitioners and how that understanding changes with practice? 
+1. These body-based practices have a complex and often fraught relationship with language. That is, how does descriptive or analytical language function with these practices? 
+2. The experiential nuances are felt, and not seen. 
+3. Body-based practices intersect with contested issues of so-called embodied knowledge and tacit awareness. That is, when doing these practices, how might we recognise what is understood by the practitioners and how that understanding changes through time? 
 4. These practices complicate decades-old problems in practice-research to do with arts practices that are ephemeral (or that 'disappear') and how they might be documented, and how they even resist documentation. 
-5. Finally, they ask us to slow down. They introduce "slack time"[@munger-2021-it n.pag], a chance to adjust ourselves to different experiences of the unfolding of time. 
+5. Finally, body-based practices ask us to slow down. They introduce "slack time"[@munger-2021-it n.pag], a chance to adjust ourselves to different experiences of the unfolding of time. 
 
-In fact, somatics practitioners are so enamoured with slowness that they use the Weber-Fechner Law to justify working at slow and deliberate speeds.[e.g. Shusterman, in @ginot-2010-shusterman] The Weber-Fechner Law describes the relationship between the actual change in a stimuli and the perceived change. For example, if a stimulus has an initial value of x, and is increased by 10, our perception of this change will be very different if, for example the initial value is 400 and is increased to 410. In other words, if we slow the body right down, then our sensitivity to the same _quantity_ of change is heightened.
+In fact, somatics practitioners are so enamoured with slowness that they use the Weber-Fechner Law to justify working at slow and deliberate speeds.[e.g. Shusterman, in @ginot-2010-shusterman] The Weber-Fechner Law describes the relationship between the actual change in a stimuli and the perceived change. For example, if a stimulus has an initial value of 1 arbitrary unit, and is increased by 10, our perception of this change will be very different if, for example the initial value is 400 and is increased to 410. In other words, if we slow the body right down, then our sensitivity to the same _quantity_ of change is heightened.
 
-- compare with [[Magnason - On Time and Water#Back in time]] -- slow slow slow down? 
-
-Another somatic practice commonly used in dance is the oddly named Authentic Movement. Authentic Movement was developed for therapeutic situations, but it is also used by dance and movement artists as a way to tune the body's senses, and less commonly as choreographic process and performance.[e.g. @mcleod-2016-movement] Authentic Movement does not require the participants to be experienced or trained. There are two roles, one is the mover who has their eyes closed. This person moves in direct response to what they are noticing, experiencing, feeling, sensing or imagining. Their task or activity is to be  awake to the "full universe of sensations associated with the body being itself." [jkz] To cultivate awareness without judgement. The other person keeps the mover safe, and simply observes them without judgement. After the improvisation -- which might last anywhere from 20 to 60 minutes (or longer), the mover reflects verbally on their experience while the watcher listens. They then change roles. Two people, one observing their inner world and moving, the other observing the other person in the outer world. 
+Another somatic practice commonly used in dance is the oddly named Authentic Movement. Authentic Movement was developed for therapeutic situations, but it is also used by dance and movement artists as a way to tune the body's senses, and less commonly as choreographic process and performance.[e.g. @mcleod-2016-movement] Authentic Movement does not require the participants to be experienced or trained. There are two roles; the first is the mover who has their eyes closed. This person moves in direct response to what they are noticing, experiencing, feeling, sensing or imagining. Their task or activity is to be  awake to the "full universe of sensations associated with the body being itself."[@mindfulnessappsswedenab-2021-jon n.pag] To cultivate awareness without judgement. The other person keeps the mover safe, and simply observes them without judgement. After the improvisation -- which might last anywhere from 20 to 60 minutes (or longer), the mover reflects verbally on their experience while the watcher listens. They then change roles. Two people, one observing their inner world and moving, the other observing the other person in the outer world. 
 
 The distinction between inner and outer worlds, between what is felt and what is seen, is critical. The distinction reminds us that when we are dealing with body-based practices what we can observe bears little or no relationship to the experiential complexity of what happened.  
 
@@ -157,7 +144,7 @@ Curiously, the Pali term _sati_ (or _smṛti_ in Sanskrit) was first translated 
 
 >Interestingly, to dismember means to pull the body apart piece by piece ... Maybe we are re–membering. [...] coming to our senses, cultivating an embodied awareness ... putting our bodies back together breath by breath.[@selassie_getting_nodate n.d.; n.p.]
 
-And this is what I understand the concept of presence to be in the performing arts: non-judgemental awareness. It's the keystone of dancing, and perhaps all of the performing arts; it's akin to Csikszentmihalyi's famous concept _flow_.[@csikszentmihalyi-2009-flow] I understand this to be vitally important work. That non-judgemental awareness is the means to transformative experiences. One of its paradoxes is how it makes it possible for the self to fall away. That the language of I I I, me me me, my my my is rendered obsolete, or has no place in non-judgemental awareness. 
+I am talking through all of this background in somatics and Authentic Movement because I understand the concept of presence in the performing arts to be _non-judgemental awareness_. It's the keystone of dancing, and perhaps all of the performing arts; it's akin to Csikszentmihalyi's famous concept _flow_[@csikszentmihalyi-2009-flow] in which concepts of self seem to fall away; that the language and sense of I, I, I, me, me, me, and my, my, my, is rendered obsolete, or has no place in non-judgemental awareness. 
 
 But so what?
 
@@ -175,8 +162,6 @@ _Meditation:_ We don't have time, we are time. Consider this for 1 minute.
 > "the great irony of our time is that even as we are living longer, we are thinking shorter.” This is the age of the tyranny of the now.[Mary Catherine Bateson, in @krznaric-2021-good pp.4-5]
 
 I must be careful here. I think it's too easy to conflate two types of _now_. One seems to be an obsession with now that distracts us from the past or the future. This is what Bateson calls:
-
-
 
 
 Seems like a nowness that is an [[obsession with generating noise]] - vs signal
@@ -197,9 +182,9 @@ A small section that seems to be a diversion but ends up being a transition into
 
 What became clear, even in the earliest days of the pandemic, was that touching others -- making physical contact with others -- was under direct and immediate pressure to change. We went from people who touch each other all of the time (in different circumstances, conventions and situations) to a species that avoided touch. We avoided touch to protect ourselves and to protect others. For some, this was a kind of relief; for others not at all. We became out of touch.
 
-To be _out of touch_ in English of course means to be disconnected or out of date. As if we have no remaining touch left. "Sorry I'm all out of touch. I have no touch left to give." The way in which middle-aged people become out of touch with the culture and language of young people. 
+To be _out of touch_ in English means of course to be disconnected or out of date. As if we have no remaining touch left: "Sorry I'm all out of touch. I have no touch left to give." The way in which middle-aged people become out of touch with the culture and language of young people. 
 
-Yet we felt the pressure to stay connected or be in touch. We experienced -- and likely still experience -- zoom fatigue. A kind of hyper-connectivity made possible by 21st century technologies. We were desperate to stay in touch while knowing deep down in our zoom-fatigued bodies that we also remained profoundly out of touch. Touch was dangerous. Touch was certainly no longer innocent (was it ever?). Touch led to virality.
+Yet during this pandemic we have all felt the pressure to stay connected or be in touch. We experienced -- and likely still experience -- zoom fatigue. A kind of hyper-connectivity made possible by 21st century technologies. We were desperate to stay in touch while knowing deep down in our zoom-fatigued bodies that we also remained profoundly out of touch. Touch was dangerous. Touch was certainly no longer innocent (was it ever?). Touch led to virality.
 
 As the human species worked hard to be physically out of touch with each other, I started (and continue) to feel as if get the sense that this work was out of touch. That all this work. Disconnected. 
 
@@ -217,12 +202,12 @@ Limitation. Narrow the attention. The resources. To touch the earth and our bodi
 
 There's a simple game to play. I first read about it in Andri Snaer Magnason's _On Time and Water_. The game is to answer the question: "When is someone you will love still going to be alive?"[@magnason-2021-time p.308]
 
-Here's my version. My grandmother, Gladys Eastwood, was born in December 1913. Here she is singing. Gladys gave birth to my mother, Gabrielle Eastwood-Ellis, in 1937. Here she is in 1960. I was born in 1968, and here I am in about 1973. My niece Rebecca was born in 1980; and Rebecca's daughter -- my great niece -- Zoe Ellis-Craig was born in 2016. If we imagine that Zoe lives until she is 90 then this would mean she would die in 2106. 
+Here's my version. My grandmother, Gladys Hopkins, was born in December 1913. Here she is singing. Gladys gave birth to my mother, Gabrielle Eastwood-Ellis, in 1937. Here she is in 1960. I was born in 1968, and here I am in about 1973. My niece Rebecca was born in 1980; and Rebecca's daughter -- my great niece -- Zoe Ellis-Craig was born in 2016. If we imagine that Zoe lives until she is 90 then this would mean she would die in 2106. 
 
-Gladys: 1913 - 2005
-Gabrielle: 1937 - 2021
-Simon: 1968 - 
-Rebecca: 1980 - 
+Gladys: 1913 - 2005  
+Gabrielle: 1937 - 2021  
+Simon: 1968 -  
+Rebecca: 1980 -   
 Zoe: 2016 - 
 
 That is 193 years of people I have loved and who have loved me. 193 years. This small, insignificant, delicate body extended through time, and "beyond the ego boundary of [my] own mortality".[@krznaric-2021-good pp.14-15] This body's hopes, dreams, traumas, desires, and limitations; its 206 discrete bones, 650 or so muscles, and 100 billion neurons. This a body that counts. These are the bodies that count. 
@@ -233,11 +218,11 @@ Magnason describes it like this:
 
 #### To be a good ancestor
 
-There's another version of this game in which you imagine yourself to be that last person you know who will love you -- in this case my great-niece Zoe Ellis-Craig -- and write a letter to yourself as if you were the elderly version of that person. Might she describe me as a good ancestor? That these practices of performance, dance and film are in fact insignificant compared with how I stepped on the planet so that I might have been a good ancestor for Zoe Ellis-Craig? Will she judge my life as "laughable and foolish"[@magnason-2021-time p.259] or recognise how I squandered resource after resource making dances about myself? Would she recognise how even the _not me dances_ were really the _me dances_? 
+There's another version of this game in which you imagine yourself to be that last person you know who will love you -- in this case my great-niece Zoe Ellis-Craig -- and write a letter to yourself as if you were the elderly version of that person. Might she describe me as a good ancestor? That these practices of performance, dance and film are in fact insignificant compared with how I stepped on the planet so that I might have been a good ancestor for Zoe Ellis-Craig? Will she judge my life as "laughable and foolish"[@magnason-2021-time p.259] or recognise how I squandered resource after resource making dances about myself? Will she recognise how even the _not me dances_ were really the _me dances_? 
 
 In this part of the presentation I'm going to draw heavily on the writing of Roman Krznaric, who describes himself as a "public philosopher." In particular, I'm using some of the ideas he presents in his remarkable book _The Good Ancestor_ (2021), and I want to acknowledge just how inspiring that writing has been for me. It also happens to be a coincidence that when I was asked to present to you I just happened to be reading it.
 
-Krznaric mentions that there was a man called Jonas Salk. He looked like this. Salk died in 1995, and he was an American virologist and medical researcher most famous for one thing: the development of the polio vaccine. Salk refused to patent the vaccine as a gift to humanity, and he also said that the most important question we must ask ourselves is this:
+Krznaric mentions a person called Jonas Salk. He looked like this. Salk died in 1995, and he was an American virologist and medical researcher most famous for one thing: the development of the polio vaccine. Salk refused to patent the vaccine so it would be a gift to humanity, and he also said that the most important question we must ask ourselves is this:
 
 "Are we being good ancestors?"
 
@@ -317,7 +302,7 @@ _Meditation:_ What is your body to you? ("This body ...")
 
 ---
 
-I would love for you to email yours to me -- se@skellis.net -- in whichever language you choose. This would be a beautiful gift and it would honour the work that I'm slowly starting to realise is my life. It's strange how a life sneaks up on you.
+I would love for you to email yours to me -- se@skellis.net -- in whichever language you choose. This would be a treasured gift and it would honour the work that I'm slowly starting to realise is my life. It's strange how a life sneaks up on you.
 
 I like to imagine having a physical location to collect all these instances of _this body_, perhaps like the sociologist Niklas Luhmann's zettelkasten or slipboxes (image of him and slipbox). Like the analogue library catalogues I remember from my youth. Each instance of _This body_ would be a removable card: something to be held, to be touched, reflected on. Something that long after my great-niece Zoe Ellis-Craig is dead, some time after 2106, would not require any hidden fires to sustain it, but just a little bit of space in someone's home. People could visit it, photograph it, steal from it, add to it. Perhaps such a simple thing might be a way to become a good ancestor while paying attention to the smallness and profound humility of the human body.  
 
@@ -373,6 +358,8 @@ One final thing. I use a document version control system called Git and as such 
 
 Thank you. And thank you once again for being given this tremendous honour to present these ideas to you this morning. It has been a pleasure and this body is most certainly humbled.
 
+mention ancestry? https://teara.govt.nz/en/whakapapa-genealogy/page-1
+
 www.skellis.net
 
 
@@ -393,6 +380,8 @@ Source for haiku: https://onbeing.org/programs/jane-hirshfield-the-fullness-of-t
 ### links (obsidian)
 
 - [[sati, mindfulness and remembering]]
+- [[Magnason - On Time and Water#Back in time]] -- slow slow slow down
+- [[making sense of dance research]]
 
 ### uncertain / possible
 
@@ -450,7 +439,48 @@ What does it mean to go slow? Consider that word. P155 of Time and Water - about
 
 ## edit bin
 
+Independence acts as a moral proxy for neoliberal faith in individualism and self-sufficiency; that each of us earns or does not earn our just deserts, and yet the more “we think of ourselves as self-made and self-sufﬁcient, the harder it is to learn gratitude and humility. And without these sentiments, it is hard to care for the common good.”[@sandel-2020-tyranny n.pag]
 
+In _The Tyranny of Merit: What’s Become of the Common Good?_ Michael Sandel unpicks Western democracies’ faith in meritocracy as a cornerstone of neoliberal and global consumer capitalism. He describes how the meritocratic ethic is “corrosive of commonality” in how it celebrates the morality of freedom and autonomy through markets that “give people what they deserve.”  For Sandel, meritocracy is not a solution to inequality but a way to justify it. 
+
+The rationalisation of decisions, ideas, and progress based solely on market-led thinking is a core principle of neoliberalism: “a widespread shift towards the uninhibited private market as the primary source of human advancement.”[@verdouw-2017-subject p.524]
+
+- can't talk about pressure, stress without talking about time (transition to next section)
+- Geological time and pressure. The sense of time in the stress equation
+
+- get stressed. becoming ghosts like bleached coral. Time of the body. How to describe an ecology of practice -- what balances and imbalances are in play? What powerful phenomena? What increased intensities? [[Magnason - On Time and Water#^9da54a]]
+
+
+
+"Neoliberalism offered the world an economic model that denied the reality of the future."[@krznaric-2021-good p.197]
+- short terminism and neoliberalism pressure
+
+What I find interesting is that I see these scientific uses of the terms pressure, stress and strain as being abstractions. Yet, I suspect Jim, in that moment, saw clarity in them as a response to my abstract question: Are you stressed? 
+
+
+Tell story about Jim. But these conceptualisations (try as I might) -- perhaps even abstractions -- have no place in this story this morning. Sorry Jim.
+Placing these ideas on the table. They are a means by which to frame what will come. 
+
+The massive cultural difference is that when we hear the word research, it pairs easily or conventionally with the word science. But conventions hide possibilities and ought not limit the ways in which humans seek understanding. 
+
+Trigger warning: I'm going to use the word practice a lot in this presentation.
+
+## conference details
+Conference Title: Harnessing a 21st Century Approach to Performing Arts: Technology Practice, Education & Research.
+
+### Title
+
+Pressure, stress and strain: the body in time in practice-as-research
+
+### Abstract
+
+This is a shared screen desktop performance that explores the body under stress, and the role that artistic research practices might play in helping us understand the temporal scale of our fleeting, fragile and rapacious human bodies. Where so many body-based practices are predicated on nuanced and refined encounters with presence or awareness, what might the purpose of the body be in artistic research practices that extend through time? My grandmother, the artist Gladys Eastwood (1913-2005), used to joke that, "If you are going to have delusions, you may as well have delusions of grandeur." Indeed, it is easy to measure, admire or fetishise the grandeur of the human body's possibilities. But what if the body experienced and imagined through and in time affords us the humility to pay attention to what geologists call _deep time_? What then for how we steward the body in motion and the body under duress?
+
+### Biography
+
+Simon Ellis is an artist working with research practices of choreography, filmmaking and dance. He was born in the Wairarapa in Aotearoa/New Zealand, but now lives in London. He grew up in a politicised family environment where they often talked about things like human dignity, consumerism and even technology. These, in turn, have shaped his values as an artist, and underpin much of what his practice is about, and how it is conducted. Simon also thinks a lot about the ways humans might value things that are not easily commodified, and likes to imagine a world filled with people who are sensitive to their own bodies, and the bodies of others.
+
+In dance, we also often talk about 'training our instrument', meaning, training our bodies. Language is so telling or instructive isn't it? Wittgenstein famously wrote that "The limits of my language mean the limits of my world." (Ludwig Wittgenstein’s “Tractatus Logico Philosophicus,” published in 1921) And just in case you imagine me to have spent time reading Wittgenstein, I actually read that quote in Brene Brown's latest book. I feel no shame over this.
 
 > The envelope of your skin. Caressing the air. 
 Cultivating awareness. 
@@ -595,4 +625,4 @@ https://kottke.org/21/12/the-betty-white-timeline-of-human-history
 - chairs that remove pressure/tension -- absorbed by contact 
 
 
-[^med]: https://www.lesswrong.com/posts/XqvnWFtRD2keJdwjX/the-useful-idea-of-truth
+
