@@ -264,7 +264,7 @@ Thinking of sonder - and the way the entire book is a failure of it at historica
 > Just as access to violence, information and charisma defines the very possibilities of social domination, so the modern state is defined as a combination of sovereignty, bureaucracy and a competitive political field.4
 
 > What we are challenging here is not any particular formulation, but the underlying teleology. All these accounts seem to assume that there is only one possible end point to this process: that these various types of domination were somehow bound to come together, sooner or later, in something like the particular form taken by modern nation states in America and France at the end of the eighteenth century, a form which was gradually imposed on the rest of the world after both world wars.
-What if this wasn’t true?
+> What if this wasn’t true?
 
 > With hindsight, it’s easy to see just how much these [ancient Egypt] chronological schemes reflect their authors’ political concerns. Or even, perhaps, a tendency – when casting their minds back in time – to imagine themselves either as part of the ruling elite, or as having roles somewhat analogous to ones they had in their own societies: the Egyptian or Maya equivalents of museum curators, professors and middle-range functionaries. But why, then, have these schemes become effectively canonical?
 
