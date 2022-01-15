@@ -4,7 +4,7 @@ _previous note:_ [[borgmann - merton, contemplation and technology]]
 
 ---
 
-Aaron Kerr is a philosopher who writes about theology and the ethics of technology. This article draws on the thinking of Albert Borgmann and Thomas Merton to consider the relationship between contemplation and technology. This relationship is vital as technology is now "more than a distraction, it is a constant fog."[@kerr_borgmann_2016 p.72]
+Aaron Kerr is a philosopher who writes about theology and the ethics of technology. This article draws on the thinking of Albert Borgmann and Thomas Merton to consider the relationship between contemplation and technology. This relationship is vital as technology is now "more than a distraction, it is a constant fog."[@kerr-2016-borgmann p.72]
 
 Kerr outlines Borgmann's concept of [[device paradigm and focal things]], but calls them simply "things" and "devices":
 
