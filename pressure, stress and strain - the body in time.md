@@ -11,9 +11,7 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 ### self-introduction: I am a body
 
-Good morning everyone. It is an honour and a pleasure to be here with you this morning. Actually, in the last two years it has become hard for me to even imagine what it's like to be _with_ other people; and it's not so accurate to say I am _with_ you. I'm not even with you on the same screen. Isn't it true that screens are now the principle means by which we humans are atomised? Perhaps we are on the same cloud-based server? I am honoured to be on the same web server as you this morning. Actually I suspect that's not right either. Perhaps all I can say is that I am honoured to be on Zoom at the same time as you. Let's go with that. 
-
-My name is Simon Ellis and, just in case you are wondering, I have a body, and this body is not just a head and shoulders.(add image of me as I am sitting there) 
+Good morning everyone and thank you so much to the HKAPA for the invitation to present these ideas to you. My name is Simon Ellis and, just in case you are wondering, I have a body, and this body is not just a head and shoulders.(add image of me as I am sitting there) 
 
 That word _have_ in "I have a body" is strange isn't it? Like a possession. As in: I have a car; I have a washing machine; I have a mind, or I have a cat. If I were to say "I am a body" then, in English at least, it seems to diminish my agency or identity, as if I am _only_ a body. How would that idea translate? Into Cantonese? Italian? Farsi? 
 
@@ -189,7 +187,7 @@ In _On Time and Water_ Andri Magnason reminds us of the mid to late 1700s in Sco
 
 > Watt allowed us to tame fire; gradually we learned to hide the flames better, isolating the heat, smoke and soot until fire has become invisible under the glossy hoods of air-conditioned cars that go cruising around the world with their upholstered seats and pumping music.[@magnason-2021-time p.191]
 
-That this is really how we humans are out of touch. That the mechanisms by which we burn resources are powerfully hidden from view. These invisible fires have fueled, and continue to fuel, what is now commonly -- but not officially in the geologic time scale -- referred to as the anthropocene.
+This is really how we humans are out of touch: the mechanisms by which we burn resources are powerfully hidden from view. These invisible fires have fueled, and continue to fuel, what is now commonly -- but not officially in the geologic time scale -- referred to as the anthropocene.
 
 I wonder if you are still with me. I seem to have created a terrible mess here. How to knit together these various things I've placed in or on this shared desktop? You see I am trying to make sense of the scale of this fleeting, fragile, rapacious human body, and to make sense of it in a way that each of us might find useful. This is not some abstract, hypothetical game with no consequences. Pressure. Stress. Strain. Time. That when I start to reflect critically on the work I'm doing, and while taking into account time beyond one's own lifetime, individualism, now-ness, personal ambition, and most pressing of all the climate emergency, I start to wonder, what might a body-based practice be in the long now? In deep time? What might it be like to be "blinded by the excess of clarity"?[@merton-1954-elected p.30]
 
@@ -209,19 +207,13 @@ That is 193 years of people I have loved and who have loved me. 193 years. This 
 
 #### To be a good ancestor
 
-There's another version of this game in which you imagine yourself to be that last person you know who will love you -- in this case my great-niece Zoe Ellis-Craig -- and write a letter to yourself as if you were the elderly version of that person. Might she describe me as a good ancestor? That these practices of performance, dance and film are in fact insignificant compared with how I stepped on the planet so that I might have been a good ancestor for Zoe Ellis-Craig? Will she judge my life as "laughable and foolish"[@magnason-2021-time p.259] or recognise how I squandered resource after resource making dances about myself? Will she recognise how even the _not me dances_ were really the _me dances_? 
-
 In this part of the presentation I'm going to draw heavily on the writing of Roman Krznaric, who describes himself as a "public philosopher." In particular, I'm using some of the ideas he presents in his remarkable book _The Good Ancestor_ (2021), and I want to acknowledge just how inspiring that writing has been for me. It also happens to be a coincidence that when I was asked to present to you I just happened to be reading it.
 
 Krznaric mentions a person called Jonas Salk. He looked like this. Salk died in 1995, and he was an American virologist and medical researcher most famous for one thing: the development of the polio vaccine. Salk refused to patent the vaccine so it would be a gift to humanity, and he also said that the most important question we must ask ourselves is this:
 
 "Are we being good ancestors?"
 
-I love this question. It is haunting, and for me it operates on two profound levels. The first is that it engenders a strong sense of what Krznaric describes as "deep-time humility"[@krznaric-2021-good p.39] in which our radical insignificance as organisms liberates us from the distracted now. The second is about responsibility, and here Krznaric cites the philosopher Derek Parfit's concept of the arrow:
-
-> Remoteness in time has, in itself, no more significance than remoteness in space. Suppose that I shoot some arrow into a distant wood, where it wounds some person. If I should have known that there might be someone in this wood, I am guilty of gross negligence. Because this person is far away, I cannot identify the person whom I harm. But this is no excuse. Nor is it any excuse that this person is far away. We should make the same claims about effects on people who are temporally remote.[Parfit (1987), in @krznaric-2021-good p.81]
-
-These temporally remote bodies are the bodies under real pressure: the bodies and lives of the future. They are out of sight and out of mind, and their futures are being colonized by our rapacious present. The Paleontologist Tim Flannery describes our human species as “the future eaters”.[in @krznaric-2021-good p.141]
+I love this question. It is haunting, and for me it operates on two profound levels. The first is that it engenders a strong sense of what Krznaric describes as "deep-time humility"[@krznaric-2021-good p.39] in which our radical insignificance as organisms liberates us from the distracted now. The second is about responsibility towards the bodies and lives of the future. These temporally remote bodies are the bodies under real pressure. They are out of sight and out of mind, and their futures are being colonized by our rapacious present. The Paleontologist Tim Flannery describes our human species as “the future eaters”.[in @krznaric-2021-good p.141]
 
 None of this is surprising particularly given just how seductive is the logic of instrumentalization. The writer Oliver Burkeman describes the global economy as a "giant machine for instrumentalizing everything it encounters -- the earth’s resources, your time and abilities (or “human resources”) -- in the service of future profit." [@burkeman-2021-four n.pag.]
 
@@ -244,9 +236,9 @@ _Meditation:_ Close your eyes and wait one minute.
 
 ### Two descriptions
 
-I'd like to describe two art ideas -- one imagined, the other started -- that attempt to consider the body beyond its lifetime, and harness humility and responsibility, while not being built on hidden fire. Both are inspired by art works like Katie Paterson's _Future Library_ (2014) or Danny Hillis's _Clock of the Long Now_ (1999), or Walter de Maria's _The Lightning Field_ (1977) or Juha van Ingen's animated gif called _AS Long As Possible (ASLAP)_ (2015) or Jem Finer's _LongPlayer_ (2000). Yet, in describing these two art ideas I understand profoundly that, as Andri Magnason wrote, "nothing is as magnificent as a glacier, nothing so mysterious as a rainforest at night."[@magnason-2021-time pp.259-260]
+I'd like to describe two art ideas -- one imagined, the other started -- that attempt to consider the body beyond its lifetime, and harness humility and responsibility, while not being built on hidden fire. Both are inspired by art works like Katie Paterson's _Future Library_ (2014) or Danny Hillis's _Clock of the Long Now_ (1999), or Walter de Maria's _The Lightning Field_ (1977). 
 
-They are descriptions of practices or activities that are defined by not being able to be completed; their ontology is to be ongoing. They are "artworks as processes or the seeds for processes -- things that exist and change in time, things that are never finished".[@eno-2000-big n.pag.] They stretch into time beyond those we love and who love us. They are an attempt to shift our attention from something extrinsic to our practices to something intrinsic to them. They are an attempt to generate signal without generating noise. They are so-called _atelic activities_ meaning their value is not derived from their telos or aim[@burkeman-2021-four] because, after all, how might I even begin to contemplate their affects (or lack of affect) when they continue long after I am gone? 
+They are descriptions of practices or activities that are defined by not being able to be completed; their ontology is to be ongoing. They are "artworks as processes or the seeds for processes -- things that exist and change in time, things that are never finished".[@eno-2000-big n.pag.] They stretch into time beyond those we love and who love us. They are an attempt to shift our attention from something extrinsic to our practices to something intrinsic to them. They are so-called _atelic activities_ meaning their value is not derived from their telos or aim[.@burkeman-2021-four]
 
 There is a haiku by the Japanese poet and Buddhist priest Kobayashi Issa (1763-1828). I first heard it quite recently when the poet Jane Hirshfield read it:
 
@@ -254,7 +246,7 @@ There is a haiku by the Japanese poet and Buddhist priest Kobayashi Issa (1763-1
 we walk on the roof of hell  
 gathering blossoms.
 
-It provided a fatally obvious link between simple physical practices that acknowledge the hidden fires. These two descriptions that follow express a desire to make things that extend into the future that are most certainly not about legacy. But rather, about those people in the future, those yet to be. That they (in the future) might know that we thought about them. We paid them attention, even as human corporations continued to suck fossil fuels out of the ground. 
+The haiku provides a fatally obvious link between simple physical practices that acknowledge the hidden fires. These two descriptions that follow express a desire to make things that extend into the future that are most certainly not about legacy. But rather, about those people in the future, those yet to be. That they (in the future) might know that we thought about them. We paid them attention, even as human corporations continued to suck fossil fuels out of the ground. 
 
 #### Description 1: Custodians (imagined)
 
@@ -262,7 +254,7 @@ Perhaps you know of the Shinto shrine in Japan called Ise Jingū that has been t
 
 Perhaps you've also thought about how cities are more than just tangible solid things that last for hundreds or thousands of years; and that "in human terms they are never stable"[@graeber-2021-dawn Chapter 8, n.pag.] with people constantly arriving and leaving. Rather, according to Graeber and Wengrow, a city is a place that is thought of -- or imagined to be -- a city because we humans "think and act as people who belong to the city – as Londoners or Muscovites or Calcuttans."[@graeber-2021-dawn Chapter 8, n.pag.] 
 
-These two things -- one an ancient re-building in Japan, the other a way of understanding the city as an imagined structure spawned a simple idea. What kind of fluid infrastructure -- or score -- could be created that mirrored these ideas? What kind of framework to be replaced or rebuilt every, say, 10 years? That through its cyclical destruction and reconstruction it might gather resilience and motility -- the capacity to absorb pressure, be ready for unseen and unknown stressors, and to be flexible. What if this _infrastructure_ were predicated on a literal and metaphorical body unable to be owned, a public body. What if one dance were to be performed at the same time in a specified place each year? That one body, one person, were responsible for making this dance happen every year, for 10 years. To be a custodian of that dance for 10 years. What if, at that point, another custodian took over and rebuilt the same infrastructure and acted as a steward for another 10 years? One dance for the long now, with or without an audience. The smallest of footprints. How would this body be named?    
+These two things -- one an ancient re-building in Japan, the other a way of understanding the city as an imagined structure spawned a simple idea. What kind of fluid infrastructure -- or score -- could be created that mirrored these ideas? What kind of framework to be replaced or rebuilt every, say, 10 years? That through its cyclical destruction and reconstruction it might gather resilience and motility -- the capacity to absorb pressure, be ready for unseen and unknown stressors, and to be flexible. What if this _infrastructure_ were predicated on a literal and metaphorical body unable to be owned, a public body. What if one dance were to be performed at the same time in a specified place each year? That one body, one person, were responsible for organising this dance every year, for 10 years. To be a custodian of that dance for 10 years. What if, at that point, another custodian took over and rebuilt the same infrastructure and acted as a steward for another 10 years? One dance for the long now, with or without an audience. The smallest of footprints. How would this body be named?    
 
 #### Description 2: This body (started)
 
@@ -277,59 +269,12 @@ I would love for you to email yours to me -- se@skellis.net -- in whichever lang
 
 I like to imagine having a physical location to collect all these instances of _this body_, perhaps like the sociologist Niklas Luhmann's zettelkasten or slipboxes. Like the analogue library catalogues I remember from my youth. Each instance of _This body_ would be a removable card: something to be held, to be touched, reflected on. Something that long after my great-niece Zoe Ellis-Craig is dead, some time after 2106, would not require any hidden fires to sustain it, but just a little bit of space in someone's home. People could visit it, photograph it, steal from it, add to it. Perhaps such a simple thing might be a way to become a good ancestor while paying attention to the smallness and profound humility of the human body.  
 
-Here is a sample of what I have collected so far.  
+Here is a sample of what I have collected so far. [across 2 spaces]
 
-This body is aging.
-This body makes things possible.
-This body is constantly reinventing itself. 
-This body is beautifully asymmetrical just like all the other bodies. 
-This body knows how to walk, run and dance.
-This body is not like the others.
-This body feels.
-This body is wounded. 
-This body sees and is seen.
-This body is a chameleon. 
-This body has buried the bodies of others. 
-This body adapts.
-This body has been exploited. 
-This body cannot be known.
-This body will die.
-This body is no longer the same. 
-This body is "the supreme instrument of sanity and self-regard". 
-This body is at a loss.
-This body is enveloped by skin.
-This body houses these feelings. 
-This body is consciousness and self-knowing. 
-This body cannot escape technology.
-This body is unknown and cannot be known.
-This body is bleeding.
-This body has bled.
-This body is technological.
-This body is broken.
-This body is a time-traveler.
-This body is overwhelmed by detail. 
-This body is the place through which experiences flood.
-This body is where I need to go.
-This body belongs to this mind.
-This body trusts you.
-This body has a 4.5 billion year old memory.
-This body is in pain.
-This body has no boundary.
-This body has betrayed me. 
-This body is worthy of trust. 
-This body is mine.
-This body is always reinventing itself.
-This body is not far from death and I am not afraid.
-This body humbles me over and over again.
-This body takes pleasure.
-This body plays.
-This body is untouchable.
 
-One final thing. I use a document version control system called Git and as such most of current writing and work is openly accessible under a Creative Commons license at Github. This means that the entire history of this presentation -- every edit, every mistake, every tangent -- is able to be viewed via what is called the document's _blame_ file at https://bit.ly/ellis-pressure. Terrifying, but who would not want a blame file?
+One final thing. I use a document version control system called Git and as such most of my current writing and work is openly accessible under a Creative Commons license at Github. This means that the entire history of this presentation -- every edit, every mistake, every tangent -- is able to be viewed via what is called the document's _blame_ file at https://bit.ly/ellis-pressure. Terrifying, but who would not want a blame file?
 
-I'd like to acknowledge an enormous debt of gratitude to Roman Krznaric, David Graeber and David Wengrow, Oliver Burkeman and Andris Snær Magnason -- the authors of _The Good Ancestor_, _The Dawn of Everything_, _Four Thousand Weeks_ and _On Time and Water_. Their work underpins so many of the ideas presented here, and I have mercilessly adopted and adapted their ideas without their permission. At the same time, they also just happened to be the books I was reading when I was asked to build this presentation. 
-
-Thank you. And thank you once again for being given this tremendous honour to present these ideas to you this morning. It has been a pleasure and this body is most certainly humbled.
+Thank you. And thank you once again for giving me this tremendous honour to present to you this morning. It has been a pleasure and this body is most certainly humbled.
 
 www.skellis.net
 
