@@ -17,9 +17,9 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 ## self-introduction: I am a body
 
-Good morning everyone and thank you so much to the Hong Kong Academy for Performing Arts for the invitation to present to you. My name is Simon Ellis and, just in case you are wondering, I have a body, and this body is not just a head and shoulders. 
+Good morning everyone and thank you Elizabeth and thank you so much to the Hong Kong Academy for Performing Arts for this invitation. My name is Simon Ellis and, just in case you are wondering, I have a body, and this body is not just a head and shoulders. 
 
-{**'body.gif in Firefox**}
+{**OPEN firefox: 'body.gif**}
 
 {**.cat**}
 
@@ -27,15 +27,13 @@ That word _have_ in "I have a body" is strange. Like a possession.  As in: I hav
 
 So in English when we say "I have a body" it's hard to shake this sense of it being something external that we have possession of. {**.ad**} The neurobiologist Antonio Damasio simply states that consciousness itself is the recognition that feelings and sensations are assumed to belong to the body each of us identifies as mine.[@damasio-2021-feeling {**.doe**} In their 2021 book _The Dawn of Everything_, anthropologist David Graeber and archeologist David Wengrow describe the sacred quality of private property in historical European social thought, and how this sacred quality extends to ownership of our own bodies as a kind of human right.
 
-In saying all this -- in this rather strange introduction -- you might have guessed that I am a dancer, and to state the obvious, this means I am interested in the body. Graeber and Wengrow describe "extremely human activities" like "gossiping, arguing, playing games, dancing or travelling for pleasure."[@graeber-2021-dawn Chapter 4, n.pag] I love that dancing is there with gossip and arguing as an extremely human activity. 
+In saying all this -- in this rather strange introduction -- you might have guessed that I am a dancer, and to state the obvious, this means I am interested in the body and bodies. Graeber and Wengrow describe "extremely human activities" like "gossiping, arguing, playing games, dancing or travelling for pleasure."[@graeber-2021-dawn Chapter 4, n.pag] I love that dancing is up there with gossip and arguing as an extremely human activity. 
 
-I make dance performances and films and I've been doing this for about 30 years. They have all been tiny. Insignificant. Perhaps this is where human beings are most equal: in our complete cosmic insignificance. You might even say these performances I made were microscopic. Well, that's not true, all were able to be seen with the naked eye although I like the idea of making literally microscopic dances. These choreographies reveal my how my interests have changed through time. 
+I make dance performances and films and I've been doing this for about 30 years. They have all been tiny. Insignificant. Perhaps this is where human beings are most equal: in our complete cosmic insignificance. You might even say these performances I made were microscopic. Well, that's not true, all were able to be seen with the naked eye although I like the idea of making literally microscopic dances. These choreographies reveal how my interests have changed through time. 
 
 {**.prev**}
 
-You might even say -- if you were being unkind -- that these choreographies were all really just about me. {**.jon**} The health and mindfulness specialist Jon Kabat-Zinn describes how, in meditation (and in life) even the _not me story_ is the _story of me_. It's fine, by the way, if you'd like to be unkind. {**.ar**}You can be unkind right there in the Zoom chat.
-
-Could there be a more contemporary way to start an online conference than with a bit of chat-room trolling? 
+You might even say -- if you were being unkind -- that these choreographies were all really just about me. {**.jon**} The health and mindfulness specialist Jon Kabat-Zinn describes how, in meditation (and in life) even the _not me story_ is the _story of me_. It's fine, by the way, if you'd like to be unkind. {**.ar**} You can be unkind right there in the Zoom chat. Could there be a more contemporary way to start an online conference than with a bit of chat-room trolling? 
 
 What follows this morning is a guided -- or maybe misguided -- tour of the body under pressure and in time. At its heart are the things each of us makes, and for whom -- and for when -- they are made. 
 
@@ -68,7 +66,7 @@ At a certain point -- just over 20 years ago -- I started to integrate ideas abo
 - Music research 
 - Dance research  
 
-When we attach the word 'research' to anything it implies a desire to find out or understand something differently. If I say to a friend that I need to do some research before choosing a pizza place tonight they'd understand that there's a decision to be made, and that without the _research_ we might not get to eat the best pizza. 
+When we attach the word 'research' to anything it implies a desire to find out or understand something differently. If I say to a friend that I need to do some research before choosing a pizzeria tonight they'd understand that there's a decision to be made, and that without the _research_ we might not get to eat the best pizza. 
 
 But what about this? 
 
@@ -114,7 +112,7 @@ In psychology, stress is the feeling we get when we perceive pressure from inter
 
 In the arts and humanities in the UK, when we talk about pressure, stress and strain at work, we often pair those experiences or feelings with the word neoliberalism. In some way, neoliberalism generates pressure that causes stress that -- in time or at times -- we feel unable to cope with. That we are being deformed by neoliberalism. 
 
-The everyday version of this "uninhibited private market"[@verdouw-2017-subject p.524] underpins unregulated hyper-individualism, ill-conceived faith in the meritocracy,[@sandel-2020-tyranny] loneliness, and the commodification of behaviour and thought.[see for instance, @zuboff-2019-age] Neoliberalism drives the idea that each of us is solely responsible for continual production. The pressure to produce without careful consideration of the physical, temporal, material and psychological resources available both now and in the future is disastrous. This. Now this. Now this. _This_ is a body under pressure. 
+The everyday version of neoliberalism underpins unregulated hyper-individualism, ill-conceived faith in the meritocracy,[@sandel-2020-tyranny] loneliness, and the commodification of behaviour and thought.[see for instance, @zuboff-2019-age] Neoliberalism drives the idea that each of us is solely responsible for continual production. The pressure to produce without careful consideration of the physical, temporal, material and psychological resources available both now and in the future is disastrous. This. Now this. Now this. _This_ is a body under pressure. 
 
 Each of us -- as academics, as artists, as teachers, as human beings -- will have felt these demands in various volumes and ways. But the worst part is that "short-termism is built into the genetic code of the neoliberal paradigm."[@krznaric-2021-good p.196] 
 
@@ -209,7 +207,7 @@ How to knit together these various things I've placed on this shared desktop? I 
 
 There's a simple game to play. The game is to measure the span of time of people you have loved and who will love you.[@magnason-2021-time p.308]
 
-My grandmother, Gladys Hopkins, was born in 1913. Here she is singing. {**'gladys.mp4**} Gladys gave birth to my mother, Gabrielle Eastwood, in 1937. Here she is in 1960. {**'gabrielle.jpg**} I was born in 1968, and here I am in about 1973.{**'glasses.jpg**} My niece Rebecca was born in 1980; and Rebecca's daughter -- my great niece -- Zoe Ellis-Craig was born in 2016.{**'zoebex.jpg**} If we imagine that Zoe lives until she is 90 then this would mean she would die in 2106. 
+My grandmother, Gladys Hopkins, was born in 1913. Here she is singing. {**'gladys.mp4**} Gladys gave birth to my mother, Gabrielle Eastwood, in 1937. Here she is in 1960. {**'gabrielle.jpg**} I was born in 1968, and here I am in about 1971.{**'glasses.jpg**} My niece Rebecca was born in 1980; and Rebecca's daughter -- my great niece -- Zoe Ellis-Craig was born in 2016.{**'zoebex.jpg**} If we imagine that Zoe lives until she is 90 then this would mean she would die in 2106. 
 
 From 1913 to 2106 is 193 years of people I have loved and who have loved me. 193 years. This small, insignificant, delicate body extended through time, and "beyond the ego boundary of [my] own mortality".[@krznaric-2021-good pp.14-15] This body's hopes, dreams, traumas, desires, and limitations; its 206 discrete bones, 650 or so muscles, and 100 billion neurons. This a body that counts. These are the bodies that count. 
 
@@ -219,7 +217,7 @@ From 1913 to 2106 is 193 years of people I have loved and who have loved me. 193
 
 {**.rom**}
 
-In his recent book _The Good Ancestor_ (2021) the self-described public philosopher -- Roman Krznaric -- writes about Jonas Salk. {**salk.jpg**} Salk was an American virologist most famous for one thing: the development of the polio vaccine. Salk refused to patent the vaccine so it would be a gift to humanity, and he also said that the most important question we must ask ourselves is this:
+In his recent book _The Good Ancestor_ (2021) the self-described public philosopher -- Roman Krznaric -- writes about Jonas Salk. {**salk.jpg**} Salk was an American virologist most famous for one thing: the development of the polio vaccine in the 1950s. Salk refused to patent the vaccine so it would be a gift to humanity, and he also said that the most important question we must ask ourselves is this:
 
 {**ONE space LEFT**}
 
@@ -237,7 +235,7 @@ The blooming of practice-research as part of the professionalisation of the arts
 
 It's a future that sounds like I, I, I. Me, me, me. My, my, my.
 
-And under such conditions of stress, strain, and pressure, if we collapse into the various and shiny short-term futures that are always pulling us, cajoling us, haunting us, then I think we fail to understand and indeed experience the body as it is, and the body as a means to be a good ancestor. The body de-instrumentalised is radically in the present of awareness, and is not judged or massaged for other short-term future means. This is a body filled with the humility of its insignificance, while profoundly aware of bodies yet to be.
+And under such conditions of stress, strain, and pressure, if we collapse into the various and shiny short-term futures that are always pulling us, cajoling us, haunting us, then I think we fail to understand and indeed experience the body as it is, and the body as a means to be a good ancestor. The body de-instrumentalised is radically in the present of awareness, and is not judged or massaged for other short-term future means. This is a body filled with the humility and dignity of its insignificance, while profoundly aware of bodies yet to be.
 
 The question then that each of us must ask and understand deeply -- and then ask again, and understand differently -- is, what is the fundamental purpose of one's practice? 
 
@@ -300,6 +298,8 @@ I like to imagine having a physical location to collect all these instances of _
 Here is a sample of what I have collected so far. 
 
 {**TWO spaces RIGHT**]
+
+{**'zoe-ellis-craig.mp4**}
 
 Thank you. And thank you once again for giving me this tremendous honour to present to you this morning. It has been a pleasure and this body is most certainly humbled.
 
