@@ -12,7 +12,7 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 > A formal or informal presentation lasting 20 minutes with an additional 10 minutes for Q&A.
 > Abstract of description: Please include as much detail as you can.
 
-## Delusions of grandeur: modern-day thrones and the eternal body 
+## Delusions of grandeur: modern-day thrones and the eternal body
 
 In 1849 Thomas E. Warren designed the _Centripetal Spring Armchair_. It was the first chair to combine both wheels and swivelling[^1] and it had a head-rest. Apparently it was so comfortable it was described as immoral.[^2] Contemporary gaming chairs like the _SecretLab Omega 2020_[^3] are direct descendants from Warren's invention. These are extraordinary designs; modern-day thrones in front of which lie the computer and its software as loyal subjects to their king. The _SecretLab Omega 2020_ is a chair that holds its inhabitant ventrally and deploys rigid and ongoing comfort to deny our bodies movement -- except for the eyes and hands. It's a flying machine, a spaceship, a means of porting us into other worlds and then fixing us in them. 
 
