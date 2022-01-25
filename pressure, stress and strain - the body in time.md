@@ -1,12 +1,10 @@
 ---
-
+csl: /Users/ac1906/Dropbox/pandoc/harvard-coventry-university.csl
 aliases: []
 type: "presentation"
 platform: "conference"
-status: "in-progress"
+status: "complete"
 status-updated: "2022-01-21"
-csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
-
 ---
 
 {**.h1**}
@@ -17,7 +15,7 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 ## self-introduction: I am a body
 
-Good morning everyone and thank you Elizabeth and thank you so much to the Hong Kong Academy for Performing Arts for this invitation. My name is Simon Ellis and, just in case you are wondering, I have a body, and this body is not just a head and shoulders. 
+My name is Simon Ellis and I have a body, and this body is not just a head and shoulders. 
 
 {**OPEN firefox: 'body.gif**}
 
@@ -25,7 +23,7 @@ Good morning everyone and thank you Elizabeth and thank you so much to the Hong 
 
 That word _have_ in "I have a body" is strange. Like a possession.  As in: I have a car or I have a cat. If I were to say "I _am_ a body" then, in English at least, it seems to diminish my agency or identity, as if I am _only_ a body. How would that idea translate into your mother tongue? 
 
-So in English when we say "I have a body" it's hard to shake this sense of it being something external that we have possession of. {**.ad**} The neurobiologist Antonio Damasio simply states that consciousness itself is the recognition that feelings and sensations are assumed to belong to the body each of us identifies as mine.[@damasio-2021-feeling {**.doe**} In their 2021 book _The Dawn of Everything_, anthropologist David Graeber and archeologist David Wengrow describe the sacred quality of private property in historical European social thought, and how this sacred quality extends to ownership of our own bodies as a kind of human right.
+So in English when we say "I have a body" it's hard to shake this sense of it being something external that we have possession of. {**.ad**} The neurobiologist Antonio Damasio simply states that consciousness itself is the recognition that feelings and sensations are assumed to belong to the body each of us identifies as mine.[@damasio-2021-feeling] {**.doe**} In their 2021 book _The Dawn of Everything_, anthropologist David Graeber and archeologist David Wengrow describe the sacred quality of private property in historical European social thought, and how this sacred quality extends to ownership of our own bodies as a kind of human right.
 
 In saying all this -- in this rather strange introduction -- you might have guessed that I am a dancer, and to state the obvious, this means I am interested in the body and bodies. Graeber and Wengrow describe "extremely human activities" like "gossiping, arguing, playing games, dancing or travelling for pleasure."[@graeber-2021-dawn Chapter 4, n.pag] I love that dancing is up there with gossip and arguing as an extremely human activity. 
 
@@ -33,7 +31,7 @@ I make dance performances and films and I've been doing this for about 30 years.
 
 {**.prev**}
 
-You might even say -- if you were being unkind -- that these choreographies were all really just about me. {**.jon**} The health and mindfulness specialist Jon Kabat-Zinn describes how, in meditation (and in life) even the _not me story_ is the _story of me_. It's fine, by the way, if you'd like to be unkind. {**.ar**} You can be unkind right there in the Zoom chat. Could there be a more contemporary way to start an online conference than with a bit of chat-room trolling? 
+You might even say -- if you were being unkind -- that these choreographies were all really just about me. {**.jon**} The health and mindfulness specialist Jon Kabat-Zinn describes how, in meditation (and in life) even the _not me story_ is the _story of me_. It's fine, by the way, if you'd like to be unkind. 
 
 What follows this morning is a guided -- or maybe misguided -- tour of the body under pressure and in time. At its heart are the things each of us makes, and for whom -- and for when -- they are made. 
 
@@ -41,7 +39,7 @@ What follows this morning is a guided -- or maybe misguided -- tour of the body 
 
 ## a brief aside
 
-{**.yud**} There's an Artificial Intelligence theorist Eliezer Yudkowsky who is best known for creating the term "friendly artificial intelligence." In his blogging days he used to include what he called _meditations_ or "puzzles" for readers to think through.[@yudkowsky-2012-useful n.p.] I'm going to steal Yudkowsky's idea but with two different purposes in mind. The first is to recognise that time in this online space -- a webinar -- is experienced as a different kind of time with different kinds of pressures, affordances and limits; and to acknowledge that how I choreograph this space-time makes a difference to how you experience it. The second is to provoke specific reflections from you. Each meditation will last 1 minute, and each will give you a chance to rest, reflect, note or drift as you prefer. I imagine some of you might even flick over to check your email -- maybe something important has arrived. You. Never. Know.
+{**.yud**} There's an Artificial Intelligence theorist Eliezer Yudkowsky who is best known for creating the term "friendly artificial intelligence." In his blogging days he used to include what he called _meditations_ or "puzzles" for readers to think through.[@yudkowsky-2012-useful n.p.] I'm going to steal Yudkowsky's idea but with two different purposes in mind. The first is to recognise that time in this online space -- a webinar -- is experienced as a different kind of time with different kinds of pressures, affordances and limits; and to acknowledge that how I choreograph this space-time makes a difference to how you experience it. The second is to provoke specific reflections from you. Each meditation will last 1 minute, and each will give you the viewer a chance to reflect, note or drift as you prefer. I imagine some of you might even flick over to check your email -- maybe something important has arrived. You. Never. Know.
 
 ---
 
@@ -98,7 +96,7 @@ This is what practice-as-research is. It is when we investigate ideas through ar
 
 I have a friend who is an exercise physiologist. His name is Jim, Jim Cotter. Here he is. {**'jim.jpg**} Not so long ago he and I were in a car together and I asked Jim if he was stressed. He smiled because his first thought was to think of stress the way physical scientists or engineers think about the term. It goes something like this:
 
-Stress is "generated whenever a force is applied on a body to deform it".[@deyin-nodate-pressure n.pag.] Stress is produced inside a material body. 
+Stress is "generated whenever a force is applied on a body to deform it".[@deyin-nodate-pressure n.pag.] Stress occurs inside a material body. 
 
 Pressure, then, is the "intensity of external forces acting at a point." Pressure is exerted on the body.[@deyin-nodate-pressure n.pag.]
 
@@ -138,7 +136,9 @@ In dance and performance practices -- both in and outside of the University -- w
 
 {**'wedding.mp4**}
 
-And if you were to quietly agree with me, at least for a moment, that being present -- whatever that really is -- seems important, then it is more than a little odd that most products or things we make -- including performances -- can be summed up by the economist Kate Raworth as "take, make, use, lose."[Raworth, in @krznaric-2021-good p.206] In other words, we take the Earth's materials, make them into things we want or like, use them a bit (or present them), and then they are discarded or lost. 
+{**.kate**}
+
+And if you were to quietly agree with me, at least for a moment, that being present -- whatever that really is -- seems important, then it is more than a little odd that most products or things we make -- including performances -- can be summed up by what the economist Kate Raworth describes as "take, make, use, lose."[Raworth, in @krznaric-2021-good p.206] In other words, we take the Earth's materials, make them into things we want or like, use them a bit (or present them), and then they are discarded or lost. 
 
 I think you can entertain or imagine the tension or contradiction between such a mode of production, and a set of artistic practices predicated on presence. It's a strange formula:
 
@@ -168,6 +168,24 @@ But so what?
 
 I want to propose that such practices remind us that there is an opportunity -- regardless of our roles as artists, or teachers or researchers -- to seek methods of doing what we do that distill production from consumption. That rather than making something simply to be seen (or consumed in some other way), we interrogate our responsibilities as practitioners and seek to de-instrumentalize processes of making in order to understand more slowly and deeply their purpose; to consider deeply that to understand their purpose (including the possibility that they have no purpose) is one's only task. That as soon as we cease "holding the whole body in awareness"[@mindfulnessappsswedenab-2021-jon] we jolt into the unwieldy self-consciousness of instrumental production: I do this in order to get this sometime in the near future. These are our bodies that gravitate towards wondering what something might bring us. The consequences of this gravitational pull towards I, me and my are devastating. They are devastating not only because of the profound internal and external stressors created by short-term production, but because they lead us to turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs-2018-tending n.p.] 
 
+{**.+2now**}
+
+### a brief excursion into another type of now
+
+I want to briefly note that there is another type of now that is different in kind from what I've just been describing as presence based on non-judgemental awareness. {**'bateson.jpg**} It is summed up by the cultural anthropologist Mary Catherine Bateson as follows:
+
+{**.irony**}
+
+> "the great irony of our time is that even as we are living longer, we are thinking shorter.” This is the age of the tyranny of the now.[Bateson, in @krznaric-2021-good pp.4-5]
+
+{**.bor**}
+
+The _sine qua non_ contemporary mode of such tyranny is doom-scrolling. The philosopher of technology Albert Borgmann -- building on the thinking and writing of the Trappist monk Thomas Merton -- describes technologically induced distraction as a "permanent, if attractively glamorous, fog".[@borgmann-2012-contemplation p.8]
+
+Distraction under these everyday conditions is time unfelt as it is smothered or erased by streams of algorithmically delivered images. It is a feeling of being _lost in now_ closely related to neoliberally induced hyper-productive busyness, and is the precise opposite of the timeless quality of now experienced by re-membering the body in non-judgemental awareness. I see this as a kind of paradox of time, or perhaps paradox of now. One version of _now_ voids the past, present and future. The other harnesses the present to expand our understanding, experience and imagination of the past and the future. 
+
+And it is to the future that I now turn.
+
 {**.zout**}
 
 ## zoom out: artistic practices for the future
@@ -181,7 +199,6 @@ What became clear, even in the earliest days of the pandemic, was that touching 
 To be _out of touch_ in English means of course to be disconnected or out of date, as if we have no remaining touch left. During the pandemic, I reflected on the possibility that all of this work -- and in particular all of _my_ work -- was out of touch. 
 
 This had nothing at all to do with the pandemic and everything to do with fire. 
-
 
 {**.mag**} 
 
@@ -217,7 +234,11 @@ From 1913 to 2106 is 193 years of people I have loved and who have loved me. 193
 
 {**.rom**}
 
-In his recent book _The Good Ancestor_ (2021) the self-described public philosopher -- Roman Krznaric -- writes about Jonas Salk. {**salk.jpg**} Salk was an American virologist most famous for one thing: the development of the polio vaccine in the 1950s. Salk refused to patent the vaccine so it would be a gift to humanity, and he also said that the most important question we must ask ourselves is this:
+In this next part I'm going to draw heavily on the writing of Roman Krznaric, who describes himself as a "public philosopher." In particular, I'm using some of the ideas he presents in his book _The Good Ancestor_ (2021), and I want to acknowledge just how inspiring that writing has been for me. 
+
+{**.salk**}
+
+Krznaric writes about Jonas Salk. Salk was an American virologist most famous for one thing: the development of the polio vaccine in the 1950s. Salk refused to patent the vaccine so it would be a gift to humanity, and he also said that the most important question we must ask ourselves is this:
 
 {**ONE space LEFT**}
 
@@ -269,7 +290,7 @@ Perhaps you know of the Shinto shrine in Japan called Ise Jingū in which the in
 
 Perhaps you've also thought about how cities are more than just fixed things that last for centuries; and that "in human terms they are never stable"[@graeber-2021-dawn Chapter 8, n.pag.] with people constantly arriving and leaving. According to Graeber and Wengrow a city is a place that is thought of -- or imagined to be -- a city because we humans "think and act as people who belong to the city – as Londoners or [...] Calcuttans" or Melbournians.[@graeber-2021-dawn Chapter 8, n.pag.] 
 
-These two things -- one an ancient re-building in Japan, the other a way of understanding the city as an imagined structure -- generated a simple idea for me. What kind of score could be created that mirrored these things? What kind of framework to be replaced or rebuilt every, say, 10 years? That through its cyclical destruction and reconstruction it might gather resilience and motility -- the capacity to absorb pressure, be ready for unseen and unknown stressors, and to be flexible. What if this _infrastructure_ were predicated on a literal and metaphorical body unable to be owned, a public body. What if one dance were to be performed at the same time in a specified place each year? That one body, one person, were responsible for organising this dance every year, for 10 years. To be a custodian of that dance for 10 years. What if, at that point, another custodian took over and rebuilt the same infrastructure and acted as a steward for another 10 years? And so on. One dance for the long now, with or without an audience. The smallest of footprints. How would this body be named?    
+These two things -- one an ancient re-building in Japan, the other a way of understanding the city as an imagined structure -- generated a simple idea for me. What kind of score could be created that mirrored these things? What kind of framework to be replaced or rebuilt every, say, 10 years? That through its cyclical destruction and reconstruction it might gather resilience and motility -- the capacity to absorb pressure, be ready for unseen and unknown stressors, and to be flexible. What if this _infrastructure_ were predicated on a literal and metaphorical body unable to be owned, a public body. What if one dance were to be performed at the same time in a specified place each year? That one body, one person, were responsible for organising this dance every year, for 10 years. To be a custodian of that dance for 10 years. What if, at that point, another custodian took over and rebuilt the same infrastructure and acted as a steward for another 10 years? And so on. One dance for the long now, with or without an audience. The smallest of footprints. How would this body be named?
 
 {**+.bo**}
 
@@ -288,28 +309,73 @@ _Meditation:_ What is your body to you? ("This body ...")
 ---
 
 
-
-I would love for you to email yours to me in whichever language you choose: {**.em**} se@skellis.net. This would be a treasured gift and it would honour the work that I'm slowly starting to realise is my life. It's strange how a life sneaks up on you. Being young is most definitely poor practice for becoming old.
+I would love for you to email yours to me in whichever language you choose. This would be a treasured gift and it would honour the work that I'm slowly starting to realise is my life. It's strange how a life sneaks up on you. Being young is most definitely poor practice for becoming old.
 
 {**.zet**} 
 
 I like to imagine having a physical location to collect all these instances of _this body_. Perhaps like the sociologist Niklas Luhmann's zettelkasten. Each instance of _This body_ would be a removable card: something to be held, to be touched, reflected on. Something that would not require any hidden fires to sustain it, but just a little bit of space in someone's home. People could visit it, photograph it, steal from it, add to it. Perhaps such a simple thing might be a way to become a good ancestor while paying attention to the smallness and profound humility of the human body.  
 
-Here is a sample of what I have collected so far. 
-
-{**TWO spaces RIGHT**]
+Here's Zoe Ellis-Craig to dance for you.
 
 {**'zoe-ellis-craig.mp4**}
 
-Thank you. And thank you once again for giving me this tremendous honour to present to you this morning. It has been a pleasure and this body is most certainly humbled.
+And here is a sample of what I have collected so far. 
 
+{**TWO spaces RIGHT**]
 
-{**.web**}
-
-www.skellis.net
-
-https://bit.ly/ellis-pressure
-
+This body is aging.
+This body makes things possible.
+This body is constantly reinventing itself. 
+This body is beautifully asymmetrical just like all the other bodies. 
+This body knows how to walk, run and dance.
+This body is not like the others.
+This body feels.
+This body grows.
+This body changes.
+This body is wounded.
+This body is bruised. 
+This body sees and is seen.
+This body is a chameleon. 
+This body has buried the bodies of others. 
+This body adapts.
+This body has been exploited. 
+This body cannot be known.
+This body will die.
+This body touches the earth.
+This body has a birthmark.
+This body is no longer the same. 
+This body is "the supreme instrument of sanity and self-regard". 
+This body is at a loss.
+This body is enveloped by skin.
+This body houses these feelings. 
+This body is consciousness and self-knowing. 
+This body cannot escape technology.
+This body is unknown and cannot be known.
+This body is bleeding.
+This body has bled.
+This body marks the planet.
+This body is technological.
+This body is broken.
+This body is a time-traveler.
+This body is overwhelmed by detail. 
+This body is the place through which experiences flood.
+This body is where I need to go.
+This body belongs to this mind.
+This body trusts you.
+This body consumes resources.
+This body has a 4.5 billion year old memory.
+This body is in pain.
+This body has no boundary.
+This body has betrayed me. 
+This body is worthy of trust. 
+This body is mine.
+This body walks.
+This body is always reinventing itself.
+This body is not far from death and I am not afraid.
+This body humbles me over and over again.
+This body takes pleasure.
+This body plays.
+This body is untouchable.
 
 
 
@@ -325,7 +391,9 @@ Meditation: when to admit to not-knowing? That the territory is unattainable. Th
 
 ## References and sources
 
-Source for haiku: https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#
+- Source for haiku: https://onbeing.org/programs/jane-hirshfield-the-fullness-of-things/#
+- 1 minute timer: https://www.youtube.com/watch?v=TkWVdq1rBJ0
+
 
 ## links (obsidian)
 
@@ -391,6 +459,12 @@ What does it mean to go slow? Consider that word. P155 of Time and Water - about
 
 ## edit bin
 
+{**.web**}
+
+www.skellis.net
+
+https://bit.ly/ellis-pressure
+
 I don't mean the usual research artists do into the subject of their work. For instance, if you were developing an artistic project about, say, climate change, then you'd do a whole lot of reading and background research into climate change. Your research would be a way for you to gather images, ideas, inspiration ... to become informed on the subject matter, while also stoking or loading your imagination. There are no parameters for how the research might happen.
 
 The thing when you _are_ a body, and a body that performs, it's hard for choreographies not to be thought to be personal or about you (even if you don't want them to be). 
@@ -401,17 +475,7 @@ One final thing. I use a document version control system called Git and as such 
 
 What might it be like to be "blinded" as Thomas Merton said by an "excess of clarity"?[@merton-1954-elected p.30]
 
-#### a brief excursion into another type of now [.pt3type]
 
-I want to briefly note that there is another type of now that is different in kind from what I've just been describing as presence based on non-judgemental awareness. It is summed up by the cultural anthropologist Mary Catherine Bateson as follows:
-
-> "the great irony of our time is that even as we are living longer, we are thinking shorter.” This is the age of the tyranny of the now.[Bateson, in @krznaric-2021-good pp.4-5]
-
-The _sine qua non_ contemporary mode of Bateson's tyranny is doom-scrolling. The philosopher of technology Albert Borgmann -- building on the thinking and writing of the Trappist monk Thomas Merton -- describes technologically induced distraction as a "permanent, if attractively glamorous, fog".[@borgmann-2012-contemplation p.8]
-
-Distraction under these everyday conditions is time unfelt as it is smothered or erased by streams of algorithmically delivered images. It is a feeling of being _lost in now_ closely related to neoliberally induced hyper-productive busyness, and is the precise opposite of the timeless quality of now experienced by re-membering the body in non-judgemental awareness. I see this as a kind of paradox of time, or perhaps paradox of now. One version of _now_ voids the past, present and future. The other harnesses the present to expand our understanding, experience and imagination of the past and the future. 
-
-And it is to the future that I want to turn.
 
 I am talking through all of this background in somatics because I understand the concept of presence in the performing arts to be _non-judgemental awareness_. It's the keystone of dancing, and perhaps all of the performing arts; it's akin to Csikszentmihalyi's famous idea _flow_[@csikszentmihalyi-2009-flow] in which concepts of self seem to fall away; that the language and sense of I, I, I, me, me, me, my, my, my, is rendered obsolete, or has no place in non-judgemental awareness. 
 
@@ -429,7 +493,7 @@ If I push a bit further and consider body-based practices within the context of 
 
 and I've done this for four reasons: i) my aging body -- it is physically capable of less. This is also called _making a virtue out of necessity_; ii) each choreography, each performance seems to take longer to make (and uses more resources), but is seen or presented fewer times; iii) a deeper focus on research through practice; and iv) the desire to seek practices that don't fit or make sense in current models of production.  
 
-In this part of the presentation I'm going to draw heavily on the writing of Roman Krznaric, who describes himself as a "public philosopher." In particular, I'm using some of the ideas he presents in his remarkable book _The Good Ancestor_ (2021), and I want to acknowledge just how inspiring that writing has been for me. It also happens to be a coincidence that when I was asked to present to you I just happened to be reading it.
+
 
 These two descriptions that follow express a desire to make things that extend into the future that are most certainly not about legacy. But rather, about those people in the future, those yet to be. That they (in the future) might know that we thought about them. We paid them attention, even as human corporations continued to suck fossil fuels out of the ground. 
 
@@ -692,4 +756,8 @@ https://kottke.org/21/12/the-betty-white-timeline-of-human-history
 - time -- geographical time (earth under pressure -- fossil fuels)
 - pressure of our sit bones
 - chairs that remove pressure/tension -- absorbed by contact 
+
+
+
+
 
