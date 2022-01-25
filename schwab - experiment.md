@@ -3,7 +3,7 @@ aliases: [experiment schwab]
 tags:
 ---
 
-# schwab - experiment! towards an artistic epistemology 
+# schwab - experiment! towards an artistic epistemology
 
 _previous note:_ [[schwab - experimental systems]]
 
