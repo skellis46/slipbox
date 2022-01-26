@@ -1,4 +1,4 @@
-#  noe 
+# noe
 
 ## 2 Reorganizing Ourselves
 
@@ -10,7 +10,7 @@ Second, my claim is not that choreography and philosophy are qualitatively the s
 
 
 
-##  4. Art Loops and the Garden of Eden
+## 4. Art Loops and the Garden of Eden
 
 >Art is interested in removing tools (in my extended sense) from their settings and thus in making them strange and, in making them strange, bringing out the ways and textures of the embedding that had been taken for granted. A work of art is a strange tool, an alien implement. We make strange tools to investigate ourselves.
 
@@ -85,7 +85,7 @@ If art is a subspecies of philosophy, or if—as I would put it—each is a subs
 
 Finally, as we have already considered at length, art can be very boring; it is always liable to bore us to tears. If works of art are strange tools, if art happens with the disruption of business as usual, always demanding that we look differently and try to see what we don’t quite know how to see, then it isn’t surprising that we run the risk of failing to see anything at all and just finding ourselves trapped and disengaged with the works around us and with our lives.
 
-#  Part III
+# Part III
 
 ## 12. Making Pictures
 
