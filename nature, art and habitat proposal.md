@@ -41,7 +41,7 @@ I have chosen these works to provide a sense of the breadth of my practice. They
 
 ## This body (2022)
 
-_This body_ is a collection of statements from people around the world responding to the question: "What is your body to you?". The work was first presented as part of an online performance-presentation to the Hong Kong Academy for Performing Arts in January 2022, but will be added to and re-developed as an analogue box catalogue in 2023. 
+_This body_ is a collection of statements from people around the world responding to the question: "What is your body to you?". The work was first presented as part of an online performance-presentation to the Hong Kong Academy for Performing Arts in January 2022, but will be added to and re-developed as an analogue box catalogue in 2023. I have included it ... 
 
 This body is aging. This body makes things possible. This body is constantly reinventing itself. This body is beautifully asymmetrical just like all the other bodies. This body knows how to walk, run and dance. This body is not like the others. This body feels. This body grows. This body changes. This body is wounded. This body is bruised. This body sees and is seen. This body is a chameleon. This body has buried the bodies of others. This body adapts. This body has been exploited. This body cannot be known. This body will die. This body touches the earth. This body has a birthmark. This body is no longer the same. This body is "the supreme instrument of sanity and self-regard". This body is at a loss. This body is enveloped by skin. This body is riddled with uncertainty. This body shares. This body houses these feelings. This body is consciousness and self-knowing. This body cannot escape technology. This body is unknown and cannot be known. This body is bleeding. This body has bled. This body was abused. This body marks the planet. This body is technological. This body is broken. This body is a time-traveler. This body is overwhelmed by detail. This body is the place through which experiences flood. This body is where I need to go. This body belongs to this mind. This body trusts you. This body consumes resources. This body has a 4.5 billion year old memory. This body is in pain. This body has no boundary. This body has betrayed me. This body is worthy of trust. This body is mine. This body walks. This body is always reinventing itself. This body is not far from death and I am not afraid. This body humbles me over and over again. This body takes pleasure. This body plays. This body is untouchable. This body participates.
 
@@ -51,15 +51,14 @@ This is a 10 second film or vision that was created as part of Siobhan Davies an
 
 https://vimeo.com/412017123
 
+![[women.png]]
 
-
-![screenshot](/Users/ac1906/Dropbox/projects/current_projects/2022012620220126_nahr/_women.png)
 
 
 - we record ourselves
 - sprawl
 - portrait
-- women will always
+
 - some things about dance
 - we took photographs
   
