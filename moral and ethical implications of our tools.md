@@ -32,13 +32,13 @@ These are 41 questions by L. M. Sacasas -- originally posted in 2016 -- designed
 21.  Does this technology automate or outsource labor or responsibilities that are morally essential?
 22.  **What desires does the use of this technology generate?**
 23.  What desires does the use of this technology dissipate?
-24.  What possibilities for action does this technology present? Is it good that these actions are now possible?
+24.  What possibilities for action does this technology present? Is it good that these actions are now possible?
 25.  What possibilities for action does this technology foreclose? Is it good that these actions are no longer possible?
 26.  How does the use of this technology shape my vision of a good life?
 27.  **What limits does the use of this technology impose upon me?**
 28.  What limits does my use of this technology impose upon others?
 29.  What does my use of this technology require of others who would (or must) interact with me?
-30.  What assumptions about the world does the use of this technology tacitly encourage?
+30.  What assumptions about the world does the use of this technology tacitly encourage?
 31.  What knowledge has the use of this technology disclosed to me about myself?
 32.  What knowledge has the use of this technology disclosed to me about others? Is it good to have this knowledge?
 33.  **What are the potential harms to myself, others, or the world that might result from my use of this technology?**
