@@ -11,7 +11,7 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 ## 1. Select form based on the residency you like to apply to,
 
-> if you like ot apply to multiple, please submit multiple forms, indicating that you have done so on cover page. Which residency?   
+> if you like to apply to multiple, please submit multiple forms, indicating that you have done so on cover page. Which residency?   
   
 ## 2. Contact and biographical information, including web page links (100 words)
 
@@ -41,7 +41,7 @@ I have chosen these works to provide a sense of the breadth of my practice. They
 
 ## This body (2022)
 
-_This body_ is a collection of statements from people around the world responding to the question: "What is your body to you?". The work was first presented as part of an online performance-presentation to the Hong Kong Academy for Performing Arts in January 2022, but will be added to and re-developed as an analogue box catalogue in 2023. I have included it ... 
+_This body_ is a collection of statements from people around the world responding to the question: "What is your body to you?". The work was first presented as part of an online performance-presentation to the Hong Kong Academy for Performing Arts in January 2022, but will be added to and re-developed as an analogue box catalogue in 2023. I have included a sample of the statements below to provide a sense of how I am working with and around the body, and the ways in which experiences of the body might be represented and/or archived. 
 
 This body is aging. This body makes things possible. This body is constantly reinventing itself. This body is beautifully asymmetrical just like all the other bodies. This body knows how to walk, run and dance. This body is not like the others. This body feels. This body grows. This body changes. This body is wounded. This body is bruised. This body sees and is seen. This body is a chameleon. This body has buried the bodies of others. This body adapts. This body has been exploited. This body cannot be known. This body will die. This body touches the earth. This body has a birthmark. This body is no longer the same. This body is "the supreme instrument of sanity and self-regard". This body is at a loss. This body is enveloped by skin. This body is riddled with uncertainty. This body shares. This body houses these feelings. This body is consciousness and self-knowing. This body cannot escape technology. This body is unknown and cannot be known. This body is bleeding. This body has bled. This body was abused. This body marks the planet. This body is technological. This body is broken. This body is a time-traveler. This body is overwhelmed by detail. This body is the place through which experiences flood. This body is where I need to go. This body belongs to this mind. This body trusts you. This body consumes resources. This body has a 4.5 billion year old memory. This body is in pain. This body has no boundary. This body has betrayed me. This body is worthy of trust. This body is mine. This body walks. This body is always reinventing itself. This body is not far from death and I am not afraid. This body humbles me over and over again. This body takes pleasure. This body plays. This body is untouchable. This body participates.
 
@@ -51,20 +51,58 @@ This is a 10 second film or vision that was created as part of Siobhan Davies an
 
 https://vimeo.com/412017123
 
-![[women.png]]
+Add screenshot.
+
+## We Took Photographs (2016)
+
+A photographic and writing collaboration with Paul Hughes and Hamish MacPherson. This work sought to understand identity and portraiture as modes of choreographic thinking. It is included here as an example of how simple photography has provided me with complex research opportunities and outcomes. 
+
+The written component is here: https://www.skellis.net/_assets/_we-took-photographs.pdf
+
+add image
 
 
+## Sprawl (2017)
 
-- we record ourselves
-- sprawl
-- portrait
+A performance collaboration with Shaun McLeod in which we practiced and presented somatically-informed _Authentic Movement_. I have included it in this collection to provide a sense of my recent experience and work as a performing dancer.
 
-- some things about dance
-- we took photographs
-  
+https://vimeo.com/236199478
+
+add image
+
+## Between Faces (2017)
+
+This is an attempt to make the computer's desktop a site for performance and animation. It combines still and moving images, text, and recorded and performed voice. I include it here to provide another example of my capacity to work across media and disciplines.
+
+https://vimeo.com/300770210
+
+add image.
+
+## We Record Ourselves (2016)
+
+This is a short film developed collaboratively with Natalia Barua, Owa Barua and Katrina McPherson. The artists worked simultaneously as performers, archivists, camera operators and editors. The multi-perspective materials, screens, bodies, and texts in the film are a distinctive collection of moving images – part performance, part archive, and part screendance. 
+
+https://vimeo.com/187299943
+
+## two people together
+
+This is a film made in collaboration with Igor Urzelai and Moreno Solinas. It works with extreme close-ups of the human body, as if to treat the body as landscape or map. It is included here to provide a direct example of my long-term focus on the body and how the camera re-renders how the body might be seen. 
+
+https://vimeo.com/392973733
+
+add image
+
+## Lil making postcards (2021)
+
+This is documentation of the artist Lil Boyce working on her project _Postcards from before_. It is both formal and stylised, and while focusing on the everydayness of Boyce's actions, it also attempts to heighten the role of sound in the document. It is included here as an example of my curiosity in how sound anchors the representation of physical movement. 
+
+https://vimeo.com/520358404
+
+add image
+
 ## 6. Letter of personal motivation (300 words)
 
-I am an experienced dance-artist, and have been making work for 30 years. In the last 5 years -- and exacerbated by the pandemic -- I've started to feel overwhelmed by, well, _stuff_ (akin to _roba_ in Italian). This feeling is acute in the conventions of dance and choreography in which large quantities of resources are poured into _being productive_ only for those productions to be consumed after just a few performances. The economist Kate Raworth describes this approach to the things we make as "take, make, use, lose."[^raworth] In other words, we take the Earth's materials, make them into things we want or like, use them a bit (or perform them), and then they are discarded or lost.  
+I am an experienced dance-artist, and have been making work for 30 years. In the last 5 years -- and exacerbated by the pandemic -- I've started to feel overwhelmed by, well, _stuff_. This feeling is most acute within the conventions of dance and choreography in which large quantities of resources are poured into _being productive_ only for those productions to be consumed after just a few performances. The economist Kate Raworth describes this approach to the things we make as "take, make, use, lose."[^raworth] In other words, we take the Earth's materials, make them into things we want or like, use them a bit (or perform them), and then they are discarded or lost.  
 
 I approach this proposed residency at _Nature, Art & Habitat_ profoundly motivated to break this pattern of unsustainable productivity. That my experience and expertise in movement, film, writing and artistic research might be channeled into understanding anthropogenic climate change through and in the body; and to wrestle with what it means to inhabit a body -- a human body -- in this time of the anthropocene extinction.
 
@@ -86,9 +124,9 @@ The research falls under NAHR's _Body Performing Nature_ domain and draws on cro
 
 The research's artefact will be a series of experimental time-lapse films. Time-lapse photography is the _sine qua non_ film technique in nature documentaries, as if we humans now experience nature vicariously -- mediated through the passage of time sped-up as animated photographs. 
 
-In the movement-performance-film experiments located in the Taleggio valley landscape I will use the cliché of the nature documentary time-lapse to re-cast the human body's relationship to soil and earth. These time-lapses will be familiar, perhaps even comforting given their connection to TV presenters like David Attenborough in the UK, or Alberto Angela in Italy. Yet, as each time-lapse self-consciously animates the passage of time in the landscape and soil, the human body in frame will perform radically or implausibly slow simple movements in reverse. The goal or desire in this research is to foreground a body in opposition to the time of soil; to re-render how time is experienced and seen in the resistance of the body as gravity unflinchingly pulls the body towards the soil from which it came.  
+In the movement-performance-film experiments located in the Taleggio valley landscape I will use the cliché of the nature documentary time-lapse to re-cast the human body's relationship to soil and earth. These time-lapses will be familiar, perhaps even comforting given their connection to TV presenters like David Attenborough in the UK, or Alberto Angela in Italy. Yet, as each time-lapse self-consciously animates the passage of time in the landscape and soil, the human body in frame will perform simple movements in reverse, but radically (or implausibly) slowly. The goal or desire in this research is to foreground a body in opposition to the time of soil; to re-render how time is seen and experienced in the resistance of the body as gravity unflinchingly pulls that same body towards the soil from which it came.  
 
-These photographic and physical practices will present a complex technological and physical challenges ideal for artistic research: how to modify and adapt anthropic postures, gestures and movements such that they pull the human body out of the temporal order of the natural environment? At the same time, time-lapse and film technologies demand sensitivity to the moral and ethical implications of the tools and practices at our disposal: "What was required of the earth so that I might be able to use this technology? ... What possibilities for action does this technology present? Is it good that these actions are now possible? ... What assumptions about the world does the use of this technology tacitly encourage?"[^moral]
+These photographic and physical practices will present a complex technological and physical challenges ideal for artistic research: how to modify and adapt anthropic postures, gestures and movements such that they extract the human body out of the temporal order of the natural environment? At the same time, time-lapse and film technologies demand sensitivity to the moral and ethical implications of the tools and practices at our disposal: "What was required of the earth so that I might be able to use this technology? ... What possibilities for action does this technology present? Is it good that these actions are now possible? ... What assumptions about the world does the use of this technology tacitly encourage?"[^moral]
 
 [^critical]: [nahr.it/Current-Program](https://nahr.it/Current-Program)
 
