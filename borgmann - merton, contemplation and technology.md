@@ -1,6 +1,6 @@
 # borgmann - merton, contemplation and technology
 
-_previous note:_ 
+_previous note:_ [[borgmann, effort and focal things]]
 
 ---
 

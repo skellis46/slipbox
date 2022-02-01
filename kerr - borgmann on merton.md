@@ -38,8 +38,6 @@ _thoughts & links:_
 
 _source:_ unknown
 
-_citekey & zotero link:_ [@kerr_borgmann_2016](zotero://select/items/1_QRTB3D4V)
-
 _reference:_ Kerr, A.K., 2016. _Borgmann on Merton: Exploring the Possibility of Contemplation in a Technological Age_. Logos 19, 57–78.
 
 

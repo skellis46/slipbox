@@ -1,5 +1,6 @@
 ---
 aliases: []
+tags: [published]
 type: "post"
 platform: "blog-ske"
 status: "published"

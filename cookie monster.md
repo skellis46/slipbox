@@ -4,7 +4,7 @@ type: "post"
 platform: "blog-ske"
 status: "published"
 status-updated: "2021-10-08"
-tags: [blog-post]
+tags: [blog-post, published]
 ---
 
 # cookie monster
