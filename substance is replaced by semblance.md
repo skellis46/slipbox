@@ -11,7 +11,7 @@ status: "in-progress, evergreen"
 
 -- George Monbiot, <https://www.theguardian.com/commentisfree/2022/jan/04/dont-look-up-life-of-campaigning>
 - distraction vs awareness and mindfulness [[sati, mindfulness and remembering]]
-- 
+
 
 ---
 
