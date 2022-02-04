@@ -39,4 +39,4 @@ Potential collective benefits:
 - in [[artistic research refers to a method]] Day refers to the marketplace and public sphere
 - [[McRobbie -  Be creative]]
 - [[Paramana - The Contemporary Dance Economy]]
-- [[sennett - together#^d4435f]]
+- [[Sennett - Together#^d4435f]]
