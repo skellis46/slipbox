@@ -8,6 +8,10 @@ tags: [published]
 status-updated: "2022-01-21"
 ---
 
+_previous note:_ [[Krznaric - The Good Ancestor]]
+
+--- 
+
 {**.h1**}
 
 # pressure, stress and strain - the body in time in practice as research
@@ -24,7 +28,7 @@ My name is Simon Ellis and I have a body, and this body is not just a head and s
 
 That word _have_ in "I have a body" is strange. Like a possession.  As in: I have a car or I have a cat. If I were to say "I _am_ a body" then, in English at least, it seems to diminish my agency or identity, as if I am _only_ a body. How would that idea translate into your mother tongue? 
 
-So in English when we say "I have a body" it's hard to shake this sense of it being something external that we have possession of. {**.ad**} The neurobiologist Antonio Damasio simply states that consciousness itself is the recognition that feelings and sensations are assumed to belong to the body each of us identifies as mine.[@damasio-2021-feeling] {**.doe**} In their 2021 book _The Dawn of Everything_, anthropologist David Graeber and archeologist David Wengrow describe the sacred quality of private property in historical European social thought, and how this sacred quality extends to ownership of our own bodies as a kind of human right.
+So in English when we say "I have a body" it's hard to shake this sense of it being something external that we have possession of. {**.ad**} The neurobiologist Antonio Damasio simply states that consciousness itself is the recognition that feelings and sensations are assumed to belong to the body each of us identifies as mine.[@damasio-2021-feeling] {**.doe**} In their 2021 book _The Dawn of Everything_, anthropologist David Graeber and archeologist David Wengrow describe the sacred quality of private property in historical European social thought, and how this sacred quality extends to ownership of our own bodies as a kind of human right. ^1225d0
 
 In saying all this -- in this rather strange introduction -- you might have guessed that I am a dancer, and to state the obvious, this means I am interested in the body and bodies. Graeber and Wengrow describe "extremely human activities" like "gossiping, arguing, playing games, dancing or travelling for pleasure."[@graeber-2021-dawn Chapter 4, n.pag] I love that dancing is up there with gossip and arguing as an extremely human activity. 
 
@@ -542,10 +546,7 @@ It's absurd to attempt to characterise the set of global human artistic practice
 
 People in dance use the word 'body' like this quite a bit -- as in "I want to work with some bodies", as if these bodies are merely instruments or abstractions with which to choreograph space and time. 
 
-> Cities are tangible things. Certain elements of their physical infrastructure – walls, roads, parks, sewers – might remain fixed for hundreds or even thousands of years; but in human terms they are never stable. People are constantly moving in and out of them, whether permanently, or seasonally for holidays and festivals, to visit relatives, trade, raid, tour around, and so on; or just in the course of their daily rounds. Yet cities have a life that transcends all this. This is not because of the permanence of stone or brick or adobe; neither is it because most people in a city actually meet one another. It is because they will often think and act as people who belong to the city – as Londoners or Muscovites or Calcuttans.[@graeber-2021-dawn Chapter 8, n.pag.] 
-- a practice more akin to a city? It is a thing that depends on certain characteristics. Hong Kong. geography, history, architecture. 
 
-> In other words, from the perspective of someone living in an ancient city, the city itself was not so entirely different from earlier landscapes of clans or moieties that extended across hundreds of miles. It was a structure raised primarily in the human imagination, which allowed for the possibility of amicable relations with people they had never met.[@graeber-2021-dawn Chapter 8, n.pag.]
 
 - infrastructure of a shared body; a body unable to be owned, a public body. Or perhaps it's a name ... dance of the long now. _Custodians_. To do one dance a year at a specific time and place. How would this body be named? It does not even need an audience. 
 - Flexibility, absorbing strain, lightness 
@@ -701,8 +702,7 @@ territory. That those futures are only maps. Useful, interesting, but partial, f
 
 Whitman was right after all. We do contain multitudes. 
 
-> Suzuki recognizes that seeing humans as interdependent with the living world lies at the heart of the seventh-generation principle. The environment is not something “out there”; as he puts it, “we are the environment.” We are connected to the landscape, just as we are to future generations, through the air we breathe, the water we drink, and the soil in which we grow our food.
-> The oxygen we breathe in, for instance, circulates in our blood-stream and around half remains in our lungs, so there is no clear line separating where the air ends and we begin. When we exhale, our breath mixes with the air and is taken in by other people, birds, mammals, and reptiles. “If I am air and you are air, then I am you,” writes Suzuki. But the atoms in the air also persist through time. According to one study, there are 3 x 1019 (three followed by nineteen zeros) argon atoms in a breath of air. These quintillions of atoms are continually being blown around the planet, so wherever you are, you will breathe in around 15 argon atoms that you breathed in a year earlier. And that’s not all. Each breath we take contains argon atoms that were probably once inhaled by Cleopatra and Gautama Buddha, and will be breathed in by our descendants seven generations from today. “Air,” says Suzuki, plays an essential role “linking all life in a single matrix, and joining past, present and future in a single flowing entity.”32 [@krznaric-2021-good p.88]
+
 
 It seems to embody the Persian poet Rumi's rather well-known directive to "sell your cleverness and buy bewilderment" (Rumi)
 
