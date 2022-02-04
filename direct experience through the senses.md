@@ -18,6 +18,7 @@ _consider:_
 - [[feelings in conversations]]
 - [[somatics is the field which studies the soma]]
 - [[without symbolic mediation]]
+- [[Damasio - Feeling and Knowing]] and also [[pressure, stress and strain - the body in time#^1225d0]]
 
 
 _return links:_
