@@ -16,6 +16,8 @@ Interoception is the conscious or unconscious sense of the internal state of the
 
 _questions & thoughts:_
 
+- #somatics; 
+
 --- 
 
 _consider:_
