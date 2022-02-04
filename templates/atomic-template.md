@@ -1,16 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress, evergreen"
+type: "evergreen"
 ---
 
 # 
 _previous note:_ 
 
----
-
-_thoughts & links:_
 
 
 
@@ -19,4 +15,4 @@ _thoughts & links:_
 
 _original source/found:_ 
 
-_reference:_ 
+
