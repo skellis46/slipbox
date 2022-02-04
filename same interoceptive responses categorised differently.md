@@ -24,4 +24,6 @@ _thoughts & links:_
 
 _original source/found:_ Google scholar search for "quantifying interoception"
 
-_reference:_ 
+_reference:_ Critchley, Hugo D, and Sarah N Garfinkel. ‘Interoception and Emotion’. _Current Opinion in Psychology_ 17 (October 2017): 7–14. [https://doi.org/10.1016/j.copsyc.2017.04.020](https://doi.org/10.1016/j.copsyc.2017.04.020).
+
+_local PDF:_ [critchley-2017-interoception.pdf](hook://file/8pj9Qg6dn?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=critchley%2D2017%2Dinteroception%2Epdf)
