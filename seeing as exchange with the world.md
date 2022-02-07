@@ -1,6 +1,6 @@
 # seeing as exchange with the world
 
-_previous note:_ [[noë - strange tools]]
+_previous note:_ [[literature notes/Noë - Strange Tools, Art and Human Nature]]
 
 ---
 
@@ -31,7 +31,5 @@ _consider:_
 _source:_ n/a
 
 _local link:_ [noe-2015-strange.epub](hook://file/mT3dr3uDv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noe-2015-strange.epub)
-
-_citekey & zotero link:_ [noe_strange_2015](zotero://select/items/1_GJLYSMRA)
 
 _reference:_ Noë, A., 2015. _Strange Tools, Art and Human Nature_. Hill and Wang, New York.

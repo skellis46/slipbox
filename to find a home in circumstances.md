@@ -8,6 +8,8 @@ status-updated: "20211210"
 
 # to find a home in circumstances
 
+_previous note:_ [[nature, art and habitat proposal]]
+
 > Ground is what lies beneath our feet. It is the place where we already stand; a state of recognition, the place or the circumstances to which we belong, whether we wish to or not. It is what holds and supports us, but also what we do not want to be true: it is what challenges us, physically or psychologically, irrespective of our hoped for needs. It is the living, underlying foundation that tells us what we are, where we are, what season we are in and what, no matter what we wish in the abstract, is about to happen in our body, in the world or in the conversation between the two.[@whyte-2019-consolations p.71]
 
 - look into Exercised re chair and [[sitting on the ground]]

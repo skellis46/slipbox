@@ -15,7 +15,7 @@ It covers topics like documentation, assessment, equivalence, PARIP, the nature 
 _thoughts & links:_
 
 - #practice-research 
-- #par_blog 
+- #par-blog 
 - [[early questions for practice-research]]
 
 ---

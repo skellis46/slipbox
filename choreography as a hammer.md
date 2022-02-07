@@ -1,14 +1,12 @@
 ---
 aliases: []
-type: "newsletter"
+type: "newsletter skellis mailing list"
 tags: [newsletter, published]
-platform: "skellis mailing list"
-current-status: "published"
-status-updated: "20210709"
-
 ---
 
 # choreography as a hammer
+
+_previous note:_ [[Noë - Strange Tools, Art and Human Nature]]
 
 Choreographers see choreography everywhere. Strangely, we often use the word in two distinct ways that are not how the word is conventionally used.
 

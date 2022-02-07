@@ -1,6 +1,6 @@
 # art is bad design on purpose
 
-_previous note:_ [[noë - strange tools]]
+_previous note:_ [[literature notes/Noë - Strange Tools, Art and Human Nature]]
 
 ---
 

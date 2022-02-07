@@ -3,8 +3,7 @@
 aliases: []
 tags: [practice-research]
 type: "post"
-platform: "blog-par"
-tags: [blog-post, published]
+tags: [blog-post, published, par-blog]
 
 ---
 

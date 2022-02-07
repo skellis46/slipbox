@@ -40,7 +40,7 @@ _thoughts & links:_
 
 - It's kind of crazy just how little has changed in 18 years (other than we seem to use the word problematize a little less often now). Some questions though have just gone away even though they never really got addressed (at least in the UK). I'm thinking here of 10, 11 and 14 in particular. The whole conversation -- edited by Thomson -- is well worth reading. 
 - #practice-research 
-- #par_blog 
+- #par-blog 
 - [[a case for writing in practice-research]]
 - [[artefacts and writing in practice-research]]
 - [[practice-research and transient knowledge]]

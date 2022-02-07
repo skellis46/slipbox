@@ -1,5 +1,7 @@
 # skipping, skimming and reading
 
+_previous note:_ [[Adler - How to Read a Book]]
+
 https://discord.com/channels/686053708261228577/694233507500916796/858514569978445854
 
 Written by user: Animalistic

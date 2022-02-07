@@ -5,6 +5,8 @@ tags: []
 
 # homo faber
 
+_previous note:_ [[technics, techne, and technology]]
+
 First cited in p.8 of [@hui-2016-question] -- 
 
 >In the evolution of human as homo faber, the moment of the liberation of the hands also marks the beginning of systematic and transmissible practices of making.
@@ -17,9 +19,6 @@ Homo faber:
 
 _thoughts & links:_
 
-
-
-- #unfinished 
 
 ---
 

@@ -5,6 +5,8 @@ tags: [two_women_dancing]
 
 # moral and ethical implications of our tools
 
+_previous note:_ [[Newport introducing technological determinism]]
+
 These are 41 questions by L. M. Sacasas -- originally posted in 2016 -- designed to help "draw out the moral or ethical implications of our tools"[@sacasas-2021-questions n.pag.]
 
 - they get at the heart of ambivalence in relation to technologies/tools. That they have the capacity for adding or taking away significance.

@@ -1,15 +1,15 @@
 ---
 aliases: []
 tags: []
-author: "Kevin Munger"
+author: "Munger, Kevin"
 year: "2021"
 title: "It's About Time"
 type: "literature"
-status: "in-progress"
-updated: "2021-12-22"
 ---
 
 #  Munger - It's About Time
+
+_previous note:_ [[printing press]]
 
 > Returning to time, McLuhan has a useful normative perspective. In a book review of political scientist Karl Deutsch’s The Nerves of Government (which is shockingly good), he quotes the following passage:
 

@@ -45,7 +45,7 @@ _consider:_
 - [[epistemic rationality]]
 - [[search for truth]]
 - [[habitual ways of seeing]] -- that not only is their always interpretation, but also practices of new interpretations (or ways of seeing)
-- [[noë - strange tools]]
+- [[literature notes/Noë - Strange Tools, Art and Human Nature]]
 - [[preconceptions and the hermeneutic circle]]
 - [[intuition and the intimate knowledge of a practice]]
 - [[first-person experience]]

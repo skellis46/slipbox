@@ -5,12 +5,12 @@ author: "Bench, Harmony and Halig, Alexandra"
 year: "2021"
 title: "Editorial: This Is Where We Dance Now"
 type: "literature"
-current-status: in-process
-updated: "20210720"
 ---
 
 
 # Bench and Harlig - Editorial: This Is Where We Dance Now
+
+_previous note:_ [[Lithium dancing]]
 
 > In 2020, the screen was seemingly the only venue, and its logics of geography and access to movement communities across the globe suddenly shifted in ways that will likely reverberate for years to come.[@bench-2021-editorial p.1]
 

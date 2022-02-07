@@ -1,7 +1,6 @@
 ---
 aliases: []
-platform: "blog-par"
-tags: [blog-post, published, practice-research]
+tags: [blog-post, published, practice-research, par-blog]
 ---
 
 # moving and being moved

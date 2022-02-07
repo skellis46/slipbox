@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress, evergreen"
+type: "evergreen"
 ---
 
 # to define the meaning of we
+
+_previous note:_
 
 > And that’s partly the point. It’s not about literal truth. But you said, “It gets under our skin by ghosting right past the logical mind,” which gets us into a lot of trouble — by thinking that facts alone can convey truth, for example. And you said metaphors are “like handles on the door of what we can know and what we can imagine.”
 

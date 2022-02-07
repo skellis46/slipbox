@@ -5,12 +5,12 @@ author: "LaMothe, Kimerer"
 year: "2019"
 title: "The dancing species: how moving together in time helps make us human"
 type: "literature"
-current-status: 
-updated: "20210622"
 ---
 
 
 # LaMothe - The Dancing Species
+
+_previous note:_ [[situated and embodied cognition]]
 
 > What if humans are the primates whose capacity to dance (shared by some birds and mammals) was the signature strategy enabling the evolution of a distinctively large and interconnected brain, empathic heart and ecological adaptability? And what if dancing plays this role for humans not just in prehistoric times, but continuing into the present? What if humans are creatures who [evolved](https://aeon.co/videos/dance-seems-to-be-the-ultimate-frivolity-how-did-it-become-a-human-necessity) to dance as the enabling condition of their own bodily becoming? [@lamothe-2019-dancing n.pag.]
 

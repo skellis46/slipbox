@@ -24,7 +24,7 @@ _thoughts & links:_
 - [[information, reflection and insight]]
 - see also Jacobs on [[future responsibility and stewardship]] -- something about promising towards the future
 - [[hermeneutic circle]]
-- [[noë - strange tools]]
+- [[literature notes/Noë - Strange Tools, Art and Human Nature]]
 
 ---
 

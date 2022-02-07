@@ -1,6 +1,6 @@
 # an interface is always an effect
 
-_previous note:_ 
+_previous note:_ [[touch exposes us to the world]]
 
 ---
 

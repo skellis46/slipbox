@@ -47,7 +47,7 @@ In many respects, Scrivener's chapter is arguing for writing about artistic rese
 
 _thoughts & links:_
 
-- tight relationship to [[noë - strange tools]] and [[art is bad design on purpose]]; e.g. on p.261 Scrivener mentions the art work of Stubbs and Constable, and says that their "primary contribution" was to "art fact and art discourse."
+- tight relationship to [[literature notes/Noë - Strange Tools, Art and Human Nature]] and [[art is bad design on purpose]]; e.g. on p.261 Scrivener mentions the art work of Stubbs and Constable, and says that their "primary contribution" was to "art fact and art discourse."
 - Scrivener discusses Frayling's conception of [[research on, for and in the arts]] on p.261.
 - [[a case for writing in practice-research]] -- see pp 263 and 264 in relation to Rancière
 - fascinating how he calls on a historical painter to exemplify research in the arts. Scrivener is in danger of doing precisely what Frayling was worried about: "we feel we don’t want to be in a position where the entire history of art is eligible for a postgraduate research degree"[@frayling_research_1993 p.5]

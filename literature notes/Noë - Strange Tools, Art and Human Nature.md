@@ -1,4 +1,24 @@
-#  Noë - Strange Tools, Art and Human Nature
+---
+aliases: []
+tags: []
+author: "Noë, Alva"
+year: "2015"
+title: "Strange Tools, Art and Human Nature"
+type: "literature"
+---
+
+# Noë - Strange Tools, Art and Human Nature
+
+_previous note:_ [[culture, assumptions and beliefs]]
+
+
+_Strange Tools_ is a book by the philosopher Alva Noë about the importance of art in our lives. Noë writes that the basic argument of the book is as follows:
+
+>Our lives are structured by organization. Art is a practice for bringing our organization into view; in doing this, art reorganizes us.[@noe_strange_2015 Chapter 4. Art Loops and the Garden of Eden, n.p.]
+
+
+--- 
+
 
 ## 2 Reorganizing Ourselves
 
@@ -33,18 +53,11 @@ It’s worrying. If every moment is a Kodak moment, then, really, no moment is. 
 
 - Shaun work
 
-
-
 ## 7. Philosophical Objects
 
->Now the character of the movie’s skepticism shifts to one of philosophy’s enduring concerns: the very possibility of knowing other people and what they think and feel. Philosophers have long noticed that there is room for doubt in this domain: all we ever really know, when it comes to others, is what they say and do. We can’t get inside their heads to learn directly what they actually think and feel. We are always at a remove from the other. It is also clear, to philosophy, and to us all, that this intellectual worry can be safely set aside in the course of our ordinary lives. Questions about what those around us are thinking and feeling and doing, let alone questions about whether they have inner lives at all, don’t seriously arise. Which itself raises a philosophical question: If the basis of our knowledge is so slight, why is our confidence in other minds so robust?
-
-^c8e1b6
-
-
+>Now the character of the movie’s skepticism shifts to one of philosophy’s enduring concerns: the very possibility of knowing other people and what they think and feel. Philosophers have long noticed that there is room for doubt in this domain: all we ever really know, when it comes to others, is what they say and do. We can’t get inside their heads to learn directly what they actually think and feel. We are always at a remove from the other. It is also clear, to philosophy, and to us all, that this intellectual worry can be safely set aside in the course of our ordinary lives. Questions about what those around us are thinking and feeling and doing, let alone questions about whether they have inner lives at all, don’t seriously arise. Which itself raises a philosophical question: If the basis of our knowledge is so slight, why is our confidence in other minds so robust? ^c8e1b6
 
 ## 8. See Me if You Can!
-
 
 >These days, as a matter of fact, there is a strong tendency to at least try to explain art away—along with humor and everything else. It is widely supposed that questions like those posed above—What is art? Why do we value it? What does it tell us about ourselves?—can and should be answered in the key of neuroscience. We think that everything about us that matters is fixed by our brains and that by turning our focus inward we can discover our true nature. And so it seems right, when we face the task of making sense of art, to look to neuroscience.
 I take a different approach. Not because there’s anything wrong with trying to understand art in relation to our biology; indeed, this is an exciting and important aspiration. But rather because neuroscience has yet to frame an adequate conception of our biology. We can’t take neuroscience for granted as an intellectual readymade.
@@ -52,12 +65,6 @@ I take a different approach. Not because there’s anything wrong with trying to
 >One reason is that it is a mistake to think that our responses to works of art are ever only mere responses. They are more like judgments, and, like judgments in general, they are thoughtful. Also, they are shaped by our knowledge and background and experience and the larger culture and shared attitudes and the ongoing dialogue among artists and experts and the rest of us. The idea that there is an aesthetic response whose neurological underpinnings could be usefully exhumed strikes me as something that could be seriously advanced only by people who are quite removed from art and the ways it matters.
 A work of art is not merely a trigger for a feeling or a perceptual response or anything else. In that sense, it is not merely a thing. It is a work. Art is a topic.
 Actually, it is a mistake to think of seeing (or perception) in general according to the trigger-experience conception. As if things just cause the lighting up of experiences inside our heads. This may be a traditional way to think and talk; it’s the British way. But it’s a straitjacket. The world acts on us and changes our brains. But we act right back on the world, and so we change what there is changing us. We do so just by moving, not to mention by making, doing, taking hold. John Dewey offers an alternative to the trigger theory: perception is an activity of doing and undergoing, a transaction with the world around us. Or, as the psychologist James J. Gibson claims, seeing doesn’t happen in the eye-brain system, it happens in the eye-brain-head-body-ground-environment system. It is something we do, not something that happens inside us. And like everything we do, it depends on more than just what is going on at a time inside the skull.
-
-
-
-
-
-
 
 ## 9. Why Is Art So Boring?
 
@@ -126,10 +133,6 @@ When it comes to art, the question we need to ask is: In what does the work of a
 In its original, etymological meaning, a person is a mask; from there this word (“person”) acquired the meaning of a role, as in, the role played in a drama by an actor who wears a mask (as in “dramatis personae”). The face of a person is a mask, and the person, in truth, is a role, not the one who plays the role. This idea connects to other crucial ideas.
 First, John Locke argued that person is a “forensic” concept. By this he meant that a person is, in its basic conception, the bearer of responsibility, the actor, the one deserving of praise or blame. For Locke the point was that a person is not the biological animal—the man or woman—but rather the agent. Again, as with the idea of person as role rather than player, we have the idea that personhood is something social, something performed, something undertaken. Something defined, crucially, in relation to praise, blame, and evaluation. So persons are citizens, they are fathers and mothers, they are employers and employees, they are baseball players and philosophers. They are these things. That is, these are the roles we play, better or worse, successfully or unsuccessfully, in our social lives. We are persons insofar as we are subject, always and implicitly, to the standards of our community.
 
-
-
-
-
 # Part IV
 
 ## 17. A Very Abbreviated and Highly Opinionated History of Aesthetics
@@ -165,5 +168,11 @@ I opened this book with a quote from Dewey. He expresses this idea: it is the ex
 Art is not manufacture. Art is not performance. Art is not entertainment. Art is not beauty. Art is not pleasure. Art is not participation in the art world. And art is definitely not commerce.
 Art is philosophy. Art is putting our true nature on display before ourselves. Because we need to. Art is writing ourselves.
 
-#unfinished 
+
+_source:_ Searching for possible third-person collaborators for #finger-pointing-moon, thought of Alva Noë and then noticed this book (which I had already downloaded some years ago!)
+
+_local link:_ [noe-2015-strange.epub](hook://file/mT3dr3uDv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noe-2015-strange.epub)
+
+_reference:_ Noë, A., 2015. _Strange Tools, Art and Human Nature_. Hill and Wang, New York.
+
 

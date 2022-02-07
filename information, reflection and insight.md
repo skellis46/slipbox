@@ -24,7 +24,7 @@ _thoughts & links:_
 
 - see also [[somatic feedback interrupts habits]] in thinking about the depth of understanding through practice
 - #practice-research 
-- #par_blog 
+- #par-blog 
 - [[art as source of knowledge]]
 
 ---

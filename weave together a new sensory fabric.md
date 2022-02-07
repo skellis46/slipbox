@@ -12,7 +12,7 @@ tags: []
 
 _thoughts & links:_
 
-- [[noë - strange tools]]
+- [[literature notes/Noë - Strange Tools, Art and Human Nature]]
 - 
 
 

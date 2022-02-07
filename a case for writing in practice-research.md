@@ -1,11 +1,9 @@
 ---
 aliases: []
-tag: [published]
+tag: [published, par-blog, blog-post]
 type: "post"
-platform: "blog-par"
 current-status: "published"
 status-updated: "20210507"
-tags: [blog-post]
 ---
 
 
@@ -31,7 +29,7 @@ _questions & thoughts:_
 
 _consider:_
 
-- [[noë - strange tools]]
+- [[literature notes/Noë - Strange Tools, Art and Human Nature]]
 - [[mäkelä - on reflecting and making in artistic research]]
 
 - see also my thinking in thoughts and links in [[dissemination, accumulation and originality#^d0ec3a]]

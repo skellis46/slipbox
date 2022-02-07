@@ -1,13 +1,13 @@
 ---
 aliases: []
+tags: [artistic-practice]
 type: "book"
-platform: "not yet known"
-current-status: "in-progress"
-status-updated: "20210509"
 
 ---
 
 # this body 
+
+_previous note:_ [[gaming chairs]]
 
 Chairs getting bigger in order for us to do less. (noticing software developers and gamers sitting in these massive chairs.)
 History of chairs. 

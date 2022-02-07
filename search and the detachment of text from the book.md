@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # search and the detachment of text from the book
+
+_previous note:_ [[printing press]]
 
 > Consequently, technological change not only transforms the texture of everyday life, it also alters the architecture and furniture of our mental spaces.
 
@@ -38,9 +39,6 @@ directory structure vs search (what he calls "the hot mess approach to informati
 ---
 
 _thoughts & links:_
-
-
-
 
 ---
 

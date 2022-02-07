@@ -5,7 +5,7 @@ tags: []
 
 # touch exposes us to the world
 
-_previous note:_ 
+_previous note:_ [[nature, art and habitat proposal]]
 
 ---
 

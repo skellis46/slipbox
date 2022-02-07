@@ -31,7 +31,7 @@ _thoughts & links:_
 - [[specialist and generalist audience in practice-research]] -- for rationale behind Situated Position
 - my sense is that it's common in PaR for students to start with an assumed method they call practice-research (or whatever version of the name is most common or fashionable): "I'm a PaR student". Imagine hearing someone say "I'm a scientific method student". This is even more curious given that PaR is not a singular method, and nor do its researchers "follow a single specific or dominant model of enquiry, as happens in other subjects".[@biggs_eight_2008 p.11] ... 
 - if you were to start a research project with an overly large circle representing "method", then what does that do to the nature of the questions that might emerge? And what does it in turn do to the nature of the contribution, findings or _claims_ of one's research? These circles -- question, answer and method -- are inter-dependent and the conditions and size of each circle influences the others
-- #par_blog 
+- #par-blog 
 - [[early questions for practice-research]]
 
 ---

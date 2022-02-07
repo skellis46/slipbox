@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Barometer_question.
 Racket as alternate device. Noe.
 
 See [[art is bad design on purpose#^ad29b3]] -- kind of the point.
-And also [[noë - strange tools]] -- summary of his book.
+And also [[literature notes/Noë - Strange Tools, Art and Human Nature]] -- summary of his book.
 
 
       

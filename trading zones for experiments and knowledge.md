@@ -1,7 +1,7 @@
 ---
 aliases: []
 tags: []
-current-status: "in-progress"
+type: "evergreen"
 ---
 
 # trading zones for experiments and knowledge

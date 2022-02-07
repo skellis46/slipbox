@@ -1,5 +1,6 @@
 # Berry - Why I Am Not Going To Buy A Computer
 
+_previous note:_ [[moral and ethical implications of our tools]]
 
 ## Why I Am Not Going To Buy A Computer
 

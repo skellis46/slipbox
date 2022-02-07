@@ -8,7 +8,7 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 # nature, art and habitat proposal
 
   
-## 2. Biography
+## Biography
 
 I am an artist working with practices of choreography, filmmaking and dance. I was born in the Wairarapa in Aotearoa/New Zealand, but now live in London. I grew up in a politicised family environment where we often talked about things like human dignity, consumerism and even technology. These, in turn, have shaped my values as an artist, and underpin much of what my practice is about, and how it is conducted. I also think a lot about the ways humans might value things that are not easily commodified, and like to imagine a world filled with people who are sensitive to their own bodies, and the bodies of others.
 

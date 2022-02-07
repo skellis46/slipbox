@@ -1,6 +1,6 @@
 # rationality and what is likely
 
-_previous note:_ [[noë - strange tools]]
+_previous note:_ [[literature notes/Noë - Strange Tools, Art and Human Nature]]
 
 ---
 
