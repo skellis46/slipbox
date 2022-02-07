@@ -25,7 +25,6 @@ _thoughts & links:_
 
 _source:_ borgdorff-2006-debate.pdf
 
-_citekey & zotero link:_ [thomson_practice_2003](zotero://select/items/1_2L3RKVVB)
 
 _reference:_ Thomson, P., 2003. 'Practice as Research'. _Studies in Theatre and Performance 22_, 159–180.
 

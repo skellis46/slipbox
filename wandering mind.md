@@ -16,7 +16,7 @@ The mindfulness expert Jon Kabat-Zinn has an app called _JKZ Meditations App_. I
 
 _thoughts & links:_
 
-- [[solitude]]
+- [[Harris - Solitude]]
 - [[Kabat-Zinn - Wherever You Go, There You Are]]
 - [[paying attention]]
 - [[sati, mindfulness and remembering]]

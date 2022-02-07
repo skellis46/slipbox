@@ -1,14 +1,16 @@
 
 ---
 aliases: []
+tags: [practice-research]
 type: "post"
 platform: "blog-par"
 tags: [blog-post, published]
-current-status: "published"
-status-updated: "20210507"
+
 ---
 
 # two definitions of research in practice-research
+
+_previous note:_ [[art practice and artistic research]]
 
 I've previously published a simple effort (originally from 2013) to [define practice-research](https://practiceasresearchblog.wordpress.com/2016/01/05/a-definition/). At the heart of that definition is the back and forth between one's artistic practice and the work and ideas of a community of practice. 
 
@@ -30,15 +32,12 @@ _thoughts & links:_
 
 - be clear that this is not a definition of practice-research, but of the nature of research in practice-research
 - [[knowledge verified and challenged]]
-- [[art practice and artistic research]]
 - I could split hairs over the "intended" part of the definition, and recognise the importance of serendipity in any research process, but perhaps the "intended" refers to a plan for something to happen as opposed to actually happens. 
 
 
 ---
 
-_source:_ _source:_ [magee-2012-accountability.pdf](hook://file/mz8Ki68gv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=magee-2012-accountability.pdf)
-
-_citekey & zotero link:_ [@borgdorff_debate_2006](zotero://select/items/1_QYPSQMY2)
+_source:_ [magee-2012-accountability.pdf](hook://file/mz8Ki68gv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=magee-2012-accountability.pdf)
 
 
 _reference:_ Borgdorff, H., 2006. _The Debate on Research in the Arts._ Presented at the Sensuous Knowledge 02, KHiB.

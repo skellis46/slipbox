@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "complete, evergreen"
+type: "evergreen"
 ---
 
 # the opposite of paradox is polarization
+
+_previous note:_ [[evidence and protecting the dissenters]]
 
 > the opposite of paradox is polarization.
 

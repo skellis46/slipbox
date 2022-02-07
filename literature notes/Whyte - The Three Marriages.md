@@ -5,11 +5,11 @@ author: "David Whyte"
 year: "2014"
 title: "The Three Marriages: Reimagining Work, Self and Relationship"
 type: "literature"
-status: "in-progress"
-updated: "2021-11-16"
 ---
 
 #  Whyte - The Three Marriages
+
+_previous note:_ [[we are breathing the same air]]
 
 > The marriage with the self is difficult because it is connected to the great questions of life that refuse to go away and which are also connected to our own mortality. In the silences that accompany a strong internal relationship with the self we see not only the truth of our present circumstances and a way forward but we also realize how short our stay is on this earth. Life waits for us in this internal marriage, but death waits for us also. The sudden absence of our partner waits for us. The end of our work or our retirement waits. The hospital bed waits. Right now, in some obscure medical appliance company in a corner of a bleak industrial estate, the very bed on which we will lie, trying to get the great perspective, is perhaps being manufactured as we read. We don’t want to know, of course, but all our great contemplative traditions concerned with this marriage, say, this willingness to look at the transitory nature of existence, are not pessimism but absolute realism: life is to be taken at the tilt, you do not have forever, and therefore why wait? Why wait, especially until your faculties have atrophied or your youth has gone, or you have lost confidence in your self? Why wait, to be, as the poet Mary Oliver says, “a bride to wonder”? To become a faithful and intimate companion to that initially formidable stranger you called your self?[@whyte-2014-three p.37]
 

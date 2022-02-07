@@ -1,4 +1,15 @@
+---
+aliases: []
+tags: []
+author: "Turkle, Sherry"
+year: "2021"
+title: "The Empathy Diaries: A Memoir"
+type: "literature"
+---
+
 #  Turkle - The Empathy Diaries 
+
+_previous note:_ [[technology and the constitution of being]]
 
 > I experienced something I had already begun exploring in my research: how science and technology can make us forget what we know about life.
 
@@ -28,15 +39,13 @@ Life is important in this writing. That relationship is important.
 
 
 > We read Freud’s “The Uncanny” and talked about computing machines as sitting on the boundary between things alive and not alive. We read the psychoanalyst Donald Winnicott on transitional objects. These are the objects of the playroom (the teddy bear, the bits of silk from a blanket) that children treat as though they were part of their own bodies and also separate from them. They are in a space betwixt and between self and not-self. Later in life we have experiences—sexual, artistic, creative, and spiritual—that bring us back to the feelings associated with those early objects. The compelling nature of programming, that feeling of getting lost in code, seemed to have something of the power of transitional objects. In programming, people get involved, body and mind.
-- what is this object to these girls? Getting lost. 
+- what is this object to these girls? Getting lost. [[Lithium dancing]]
 
 > The worst thing, to Seymour, was to give children a computer that presented them only with games or opaque applications.
 
 - opaque applications. But it's stronger than this. A hand is reaching out to choreograph them. 
 
-> Take recursion. It means, most simply, that you define a thing in terms of itself. But again and again, I watched people sit down at a computer, create a program that could go on forever, and quite simply freak out. Meeting recursion was like looking at objects of infinite regress, contemplating horizons, trying to find the end of the stars, all of these experiences that frighten and fascinate children—and adults.[@turkle-2021-empathy Chapter 16: Building 20, n.pag.]
-
-^063b3f
+> Take recursion. It means, most simply, that you define a thing in terms of itself. But again and again, I watched people sit down at a computer, create a program that could go on forever, and quite simply freak out. Meeting recursion was like looking at objects of infinite regress, contemplating horizons, trying to find the end of the stars, all of these experiences that frighten and fascinate children—and adults.[@turkle-2021-empathy Chapter 16: Building 20, n.pag.] ^063b3f
 
 - their dancing as recursive 
 
@@ -49,3 +58,6 @@ Life is important in this writing. That relationship is important.
 
 > The way we live now is an experiment in which we are the human subjects—treated as objects by the technology we have created. Our apps use us as much as we use our apps.
 > We are treated as objects when we are swept up as data to be bought and sold on an international market. Or when our attention is manipulated by our devices, not just to keep us glued to them but to determine what we read, what images we see, and what programs get to see us. We reduce ourselves to objects when we are addressed by machine-generated text or voices, because to be understood, we can only respond in ways that such objects can understand. When we are treated as objects, we are encouraged to objectify one another and, of course, ourselves.
+
+
+_reference:_ Turkle, Sherry. _The Empathy Diaries: A Memoir_. New York: Penguin Press, 2021.

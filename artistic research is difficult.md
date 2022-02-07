@@ -1,15 +1,13 @@
 ---
 aliases: []
-tags: [published]
-type: "post"
+tags: [published, blog-post]
 platform: "blog-par"
-current-status: "published"
-status-updated: "20210625"
-tags: [blog-post]
 ---
 
 
 # artistic research is difficult
+
+_previous note:_ [[research on, for and in the arts]]
 
 I have brief meetings twice a week with the PhD students I am supervising -- all of whom are working through and with practices of some kind. One of the things that came up recently was their growing awareness of how difficult artistic-research is. We haven't yet got into _why_ it seems difficult to them, and I imagine it is enough for now to simply register that difficulty.
 

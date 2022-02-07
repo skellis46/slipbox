@@ -1,19 +1,13 @@
 ---
 aliases: [lockdown]
+tags: [published]
 type: "report"
-platform: ""
-current-status: "in-progress"
-status-updated: "20210507"
 ---
-
-
-- [ ] print to pdf and send to Kleiman to check all OK with her
-- [ ] send version to someone on team for thoughts/responses
 
 
 # I want to see radical change
 
-
+_previous note:_ [[Palchinsky's principles of adaptation]]
 
 The professional contemporary dance sector was already precarious, and then the pandemic struck. What happens next? 
 
@@ -49,7 +43,7 @@ What might a contemporary dance practice look like that is not contingent on unp
 
 Our participants talked about agency and helplessness, particularly in relation to arts funding in the UK. They described how Arts Council England is acting on the whims of the Department for Digital, Culture, Media and Sport, dance venues are acting on the whims of ACE, and artists are on the receiving end.  
 
-"My goal is always more artists making more decisions about more resources." -- Gillie Kleiman (participant)
+"My goal is always more artists making more decisions about more resources."
 
 A lack of agency is nigh impossible to sustain psychologically and emotionally. Our participants indicated that the contemporary dance community would benefit from increased understanding of how arts policy is constructed, and to look to build relationships with policy makers. They felt though that this ought to go hand in hand with increased transparency (and accountability) in how institutions make decisions, where the money goes and how it is raised. See _Adaptation_ below.
 

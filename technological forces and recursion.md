@@ -5,6 +5,8 @@ tags: []
 
 # technological forces and recursion
 
+_previous note:_ [[Turkle - The Empathy Diaries]]
+
 > And fourth, for Heidegger, technology is not simply the practical application of natural science. Instead, modern natural science can understand nature in the characteristically scientific manner only because nature has already, in advance, come to light as a set of calculable, orderable forces – that is to say, technologically.[@blitz-2014-understanding p.71]
 
 This last idea is very powerful. It seems to suggest the technological forces determine how it is that other things are seen (including things that we describe technologically). It's a loop. Recursion. and that their dancing in that park with that phone is a form of recursion. We can only understand this event in this way because it has "come to light" technologically. But I want to try and understand it beyond that recursion.

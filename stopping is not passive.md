@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress, evergreen"
+type: "evergreen"
 ---
 
 # stopping is not passive
+
+_previous note:_ [[Whyte - The Three Marriages]]
 
 > Stopping is not passive; stopping allows us to look at the world as if we have seen it for the first time. Stopping stops us from keeping things alive beyond their appointed time. Stopping makes us realize everything is going to disappear, including ourselves, and enables us to stop trying to act as if we were immortal. We begin to realize that disappearance can be as miraculous as appearance.
 
@@ -13,9 +14,7 @@ status: "in-progress, evergreen"
 
 ---
 
-_thoughts & links:_
 
-- [[Whyte - The Three Marriages]]
 
 
 ---

@@ -1,13 +1,12 @@
 ---
 aliases: []
 tags: [blog-post, published]
-type: "post"
 platform: "blog-ske"
-current-status: "published"
-status-updated: "20210830"
 ---
 
 # probably in a good place
+
+_previous note:_ [[borgmann, effort and focal things]]
 
 In Daniel Pink's slightly flimsy book _When: the Scientific Secrets of Perfect Timing_, there's a section called _When to Quit a Job: A Guide_. 
 
@@ -18,6 +17,8 @@ Point 3 – _Does your boss allow you to do your best work?_  – goes as foll
 I like the way that Sutton is avoiding the 'weeds' of the politics of a place. Rather, he's considering quite basic things that I suspect apply regardless of the kind of work one does. 
 
 By the way, there is no way in hell my boss is reading this blog post but if she were I would let her know that she does all of these things very well indeed. I'm probably in a good place.
+
+_thoughts:_ the link with [[borgmann, effort and focal things]] is tentative or slight, but I made a simple connection with the burden of labour, and getting over the burden.
 
 
 

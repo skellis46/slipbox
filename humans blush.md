@@ -18,7 +18,7 @@ status: "in-progress, evergreen"
 _thoughts & links:_
 
 - [[network self and social identities]] for thinking about the role of the collective in forging the self. Or that the self (itself) is a networked entity. 
-- [[Alan Jacobs - How to Think]] re social approval, social conformity, and also how even thinking is social 
+- [[Jacobs - How to Think]] re social approval, social conformity, and also how even thinking is social 
 
 ---
 

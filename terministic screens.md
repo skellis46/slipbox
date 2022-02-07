@@ -1,6 +1,6 @@
 # terministic screens
 
-_previous note:_ [[jacobs - how to think]]
+_previous note:_ [[thinking is social]]
 
 ---
 

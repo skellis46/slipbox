@@ -1,13 +1,12 @@
 ---
 aliases: []
-type: "post"
 platform: "blog-par"
-tags: [blog-post, published]
-current-status: "published"
-status-updated: "20210531"
+tags: [blog-post, published, practice-research]
 ---
 
 # moving and being moved
+
+_previous note:_ [[epistemic things and technical objects]]
 
 _On 27 May 2021 [C-DaRE](http://c-dare.co.uk) hosted a conference called [Dance Research Matters](http://danceresearchmatters.coventry.ac.uk/). I was on a panel chaired by Susanne Foellmer, with panellists Jonathan Burrows, Funmi Adewole, and Efrosini Protopapa. We each gave a small provocation before a conversation and questions. The subject of the panel was:_
 

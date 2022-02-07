@@ -5,10 +5,9 @@ author: "Bakewell, Sarah"
 year: "2016"
 title: "At the existentialist café: freedom, being, and apricot cocktails with Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Karl Jaspers, Edmund Husserl, Maurice Merleau-Ponty and others"
 type: "literature"
-current-status: 
-updated: "20210611"
-
 ---
+
+_previous note:_ [[the enactive approach]]
 
 # Bakewell - At the existentialist café
 
@@ -56,7 +55,7 @@ updated: "20210611"
 
 > This was the idea of consciousness as a ‘chiasm’. The word ‘chiasm’ or ‘chiasmus’ comes from the Greek letter chi, written χ, and it denotes exactly that crossed intertwining shape. In biology, it refers to the crossing of two nerves or ligaments. In language, it is the rhetorical device in which one phrase is countered by another inverting the same words, as when John F. Kennedy said, ‘Ask not what your country can do for you, but what you can do for your country,’ or when Mae West said, ‘It’s not the men in my life, it’s the life in my men.’ The interwoven figure calls to mind two hands grasping each other, or the way a woollen thread loops back to grip itself in a knitting stitch. As Merleau-Ponty put it: ‘the hold is held’.
 > For him, this was the perfect way of making sense of the connection between consciousness and world. Each clasps the other, as if by criss-crossed, knitted links. Thus, I can see things in the world, but I can also be seen, because I am made of the world’s own stuff. When I touch something with my hand, that thing touches my hand too. If this were not the case, I could neither see nor touch anything at all. I never peer into the world from a safe place outside it, like a cat looking into a fish tank. I encounter things because I am encounterable to others. He wrote: ‘It is as though our vision were formed in the heart of the visible, or as though there were between it and us an intimacy as close as between the sea and the strand.’
-- what is my role in this Screendance? Am I merely a reporter? An interpreter? I'm an analog audience. 
+- what is my role in this Screendance? Am I merely a reporter? An interpreter? I'm an analog audience. See [[Lithium dancing]]
 
 
 > Traditional philosophy has no name for this ‘visibility’, says Merleau-Ponty, so he uses the word ‘flesh’, meaning something much more than a physical substance. Flesh is what we share with the world. ‘It is the coiling over of the visible upon the seeing body, of the tangible upon the touching body.’ It is because I am flesh that I move and respond to things while I observe them. It is what makes me ‘follow with my eyes the movements and the contours of the things themselves’.

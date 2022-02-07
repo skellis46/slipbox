@@ -1,4 +1,13 @@
+aliases: []
+tags: [two_women_dancing]
+author: "Kaufman, Scott Barry"
+year: "2020"
+title: "Transcend: the new science of self-actualization"
+type: "literature"
+
 # Kaufman - transcend
+
+_previous note:_ [[Harris - Solitude]]
 
 > If, however, these needs are fulfilled, a different picture emerges. . . . The fully developed (and very fortunate) human being working under the best conditions tends to be motivated by values which transcend his self. They are not selfish anymore in the old sense of that term. Beauty is not within one’s skin nor is justice or order. One can hardly class these desires as selfish in the sense that my desire for food might be. My satisfaction with achieving or allowing justice is not within my own skin; it does not lie along my arteries. It is equally outside and inside: therefore, it has transcended the geographical limitations of the self.6 - Maslow
 
@@ -14,7 +23,7 @@ We are Practising friendship
 - thinking about quest for vitality 
 
 > in a well-known 1962 essay called “Love and Power” in Commentary magazine, the political scientist Hans Morgenthau argues that love and power are actually united in a common motive: the striving to escape loneliness. According to Morgenthau, power and love offer very different strategies for achieving the same goal: “Love is reunion through spontaneous mutuality, power seeks to create union through unilateral imposition.”
-List of people in most need of a hug. Hugs and connection. 
+- List of people in most need of a hug. Hugs and connection. 
 
 
 > Emma Seppälä, science director at the Center for Compassion and Altruism Research and Education at Stanford University.56 Seppälä continues:
@@ -51,9 +60,9 @@ I deal well with challenges in my life.
 
 > Reading William James eventually led Yaden to reading more modern experimental psychology and then to the neuroscience work of Andrew Newberg at Thomas Jefferson University. The creator of a new field—neurotheology—Newberg and his colleagues published the book Why God Won’t Go Away in 2001, in which they presented their findings on the neuroscience of spiritual experiences. From Tibetan monks to Franciscan nuns, Newberg scanned the brains of expert meditators who had encountered the same sort of intense feelings of unity that Yaden experienced. Newberg found that regardless of their religion or spiritual belief, the very same brain area was implicated—the superior parietal lobe, a region of the brain associated with spatial body awareness.22
 
-Yaden, D. B., Haidt, J., Hood, R. W., Vago, D. R., & Newberg, A. B. (2017). The varieties of self-transcendent experience. Review of General Psychology, 21(2), 143–160.
+- Yaden, D. B., Haidt, J., Hood, R. W., Vago, D. R., & Newberg, A. B. (2017). The varieties of self-transcendent experience. Review of General Psychology, 21(2), 143–160.
 
-> Alternate Names for the Transcendent Experience24
+> Alternate Names for the Transcendent Experience:
 
 Mystic Experience
 Peak Experience
@@ -147,4 +156,5 @@ Becker, E. (1997; originally published in 1973). Denial of death. New York: Free
 > Imagine yourself to be dying—or to be on the edge of execution. Then imagine how vivid and precious everything and everyone looks. Imagine vividly saying good-bye to each of the persons you love best. What would you say to each one? What would you do? How would you feel?
  
 ---
- 
+
+Kaufman, Scott Barry. _Transcend: The New Science of Self-Actualization_. New York: Tarcher Perigee, 2020.

@@ -1,11 +1,13 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress, evergreen"
+type: "evergreen"
+
 ---
 
 # law of the suppression of radical potential
+
+_previous note:_ [[technological determinism]]
 
 > The **law of the suppression of radical potential** is an idea first described by [Brian Winston](https://en.wikipedia.org/wiki/Brian_Winston "Brian Winston") in his book, _Misunderstanding Media_. It states that when a communications technology is realized, its growth is suppressed through the constraining influence of already prevailing institutions and other mechanisms.
 

@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # the enactive approach
+
+_previous note:_ [[Murphy Paul - The Extended Mind]]
 
 > In The Embodied Mind, we presented the idea of cognition as enaction as an alternative to the view of cognition as representation. By “representation” we meant a structure inside the cognitive system that has meaning by virtue of its corresponding to objects, properties, or states of affairs in the outside world, independent of the system. By “enaction” we meant the ongoing process of being structurally and dynamically coupled to the environment through sensorimotor activity. Enaction brings forth an agent-dependent world of relevance rather than representing an agent-independent world. We called the investigation of cognition as enaction the “enactive approach.”
 
