@@ -36,7 +36,7 @@ I make dance performances and films and I've been doing this for about 30 years.
 
 {**.prev**}
 
-You might even say -- if you were being unkind -- that these choreographies were all really just about me. {**.jon**} The health and mindfulness specialist Jon Kabat-Zinn describes how, in meditation (and in life) even the _not me story_ is the _story of me_. It's fine, by the way, if you'd like to be unkind. 
+You might even say -- if you were being unkind -- that these choreographies were all really just about me. {**.jon**} The health and mindfulness specialist Jon Kabat-Zinn describes how, in meditation (and in life) even the _not me story_ is the _story of me_. It's fine, by the way, if you'd like to be unkind.  ^36ce59
 
 What follows this morning is a guided -- or maybe misguided -- tour of the body under pressure and in time. At its heart are the things each of us makes, and for whom -- and for when -- they are made. 
 
@@ -267,7 +267,7 @@ The question then that each of us must ask and understand deeply -- and then ask
 
 And if your practice is body-based then the question becomes more specific: What is the fundamental purpose of this body in this practice?
 
-Perhaps only then might we continue to understand and be in bodies that are less pointed at. That are not abstractions or tools for something else, including bodies to be admired, fetishised, mocked, and measured. These are not bodies as tourist destinations or instagrammable bodies to be swiped or scrolled. These are radically analogue bodies deep in non-judgmental awareness that are meeting and sensitive to deep time or the long now. These are bodies as stewards for those organisms yet to exist.
+Perhaps only then might we continue to understand and be in bodies that are less pointed at. That are not abstractions or tools for something else, including bodies to be admired, fetishised, mocked, and measured. These are not bodies as tourist destinations or instagrammable bodies to be swiped or scrolled. These are radically analogue bodies deep in non-judgmental awareness that are meeting and sensitive to deep time or the long now. These are bodies as stewards for those organisms yet to exist. ^34af68
 
 {**.two**}
 

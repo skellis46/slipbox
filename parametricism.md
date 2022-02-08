@@ -3,7 +3,7 @@ aliases: []
 tags: []
 ---
 
-# parametricism 
+# parametricism
 
 > If you look at the work of Norman Foster or OMA, Rem Koolhaas’ architecture or Zaha Hadid. These kind of architects, their work comes out of their use of digital tools. It’s a making visible of those tools. It’s a whole school of architecture called parametricism, which is named for a computer program, Parametrics, that allows complex forms like this to be generated. These are like eruptions of the digital into the physical world.[@bridle-2011-new n.pag]
 
@@ -16,7 +16,7 @@ _thoughts & links:_
 
 - taken by that phrase 'eruptions of the digital' and might be useful for [[Lithium dancing]]
 
-#two_women_dancing 
+#lithium-dancing 
 
 ---
 

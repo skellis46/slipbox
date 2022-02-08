@@ -5,8 +5,6 @@ author: "José Luis Bermúdez"
 year: "2021"
 title: "The Bodily Self, Selected Essays on Self-Consciousness"
 type: "literature"
-current-status: "in-process"
-updated: "20210819"
 ---
 
 # Bermúdez - The Bodily Self, Selected Essays on Self-Consciousness

@@ -1,12 +1,10 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Blitz, Mark"
 year: "2014"
 title: "Understanding Heidegger on Technology"
 type: "literature"
-current-status: "in-process"
-updated: "20210526"
 ---
 
 # Blitz - Understanding Heidegger on Technology

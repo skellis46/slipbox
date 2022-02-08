@@ -1,6 +1,8 @@
 # valorising vagueness
 
-This note is a collection of examples from #practice-research (and specifically JAR) in which the authors express vagueness in relation to their work. These examples are taken from an early draft of the case for support for #finger-pointing-moon. What is not clear is the line between vagueness and academic humility. That implicit in their language is the acknowledgement that none of their work is certain or clear, and indeed whether this is a bug or a feature
+_previous note:_ [[an exposition in practice-research]]
+
+This note is a collection of examples from #practice-research (and specifically JAR - The Journal of Artistic Research) in which the authors express vagueness in relation to their work. These examples are taken from an early draft of the case for support for #finger-pointing-moon. What is not clear is the line between vagueness and academic humility. That implicit in their language is to acknowledge that none of their work is certain or clear, and indeed whether this is a bug or a feature.
 
 > Most recently, the Journal of Artistic Research publishes what are called expositions of practice; a term underpinned by Rheinberger’s theory of experimental systems. Expositions focus on “particular knowledges” and implicitly valorise vagueness.
 
@@ -54,7 +56,7 @@ This note is a collection of examples from #practice-research (and specifically 
 
 - little if any sense of audience. Who is this for? why might it matter? 
 - presentation of practice. some kind of record of practice/process. that's it.
-- definitely more towards "intrinsic position" as I described in very early drafts of CfS for #finger-pointing-moon. See here: <https://github.com/skellis46/finger-pointing-moon/commit/07e342124d41ee6b27e0c5fd28b97c50bcf2b3bf> ^ac1336
+- definitely more towards "intrinsic position" as I described in very early drafts of case for support for #finger-pointing-moon. See here: <https://github.com/skellis46/finger-pointing-moon/commit/07e342124d41ee6b27e0c5fd28b97c50bcf2b3bf> ^ac1336
 
 > to understand the process of sense-making as mediated by the interaction of artistic practices
 
@@ -80,8 +82,7 @@ This note is a collection of examples from #practice-research (and specifically 
 > I hope this serves adequately as a case study for those working in creative research. 
  
 ---
- 
-- [[an exposition in practice-research]]
+
 - [[epistemic things are vague]]
 - contrast with vagueness and clarity in artistic drafting process: [[Murphy Paul - The Extended Mind#^afd414]]
 - am saying similar things in [[pragmatic epistemology#^0d1c3c]]

@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Bakewell, Sarah"
 year: "2016"
 title: "At the existentialist café: freedom, being, and apricot cocktails with Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Karl Jaspers, Edmund Husserl, Maurice Merleau-Ponty and others"

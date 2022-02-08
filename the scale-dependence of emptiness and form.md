@@ -5,6 +5,8 @@ tags: []
 
 # the scale-dependence of emptiness and form
 
+_previous note:_ [[map and territory]]
+
 [Lsusr](https://www.lesswrong.com/users/lsusr) describes the difference between form and emptiness as being one of scale. In fundamental physics a cat "is a collection of particles no more special than any other collection of particles". This is emptiness. But a cat can also be a representation created by the human mind. This is form. 
 
 >The perspective "cats are real" is called "form". The perspective "cats are an arbitrary ontology with no well-defined meaning amongst the fundamental laws of the universe" is called "emptiness". There is no conflict between form and emptiness just as there is no conflict between quantum mechanics and classical mechanics. They are different ways interpreting the same thing at different scales.[@lsusr-2020-emptiness n.pag.]

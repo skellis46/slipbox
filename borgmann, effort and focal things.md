@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 ---
 
 # borgmann, effort and focal things

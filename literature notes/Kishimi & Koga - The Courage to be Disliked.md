@@ -4,13 +4,12 @@ tags: []
 author: "Ichiro Kishimi"
 author: "Fumitake Koga"
 year: "2019"
-title: "The Courage to be Disliked"
 type: "literature"
-status: "in-progress"
-updated: "2021-12-22"
 ---
 
-#  Kishimi & Koga - The Courage to be Disliked
+# Kishimi & Koga - The Courage to be Disliked
+
+_previous note:_ [[Katie - Loving What Is]]
 
 ## THE FIRST NIGHT: Deny Trauma
 
@@ -20,7 +19,7 @@ updated: "2021-12-22"
 
 - aetiology (eziologia) vs teleology (teologia)
 
-###  Don’t Fall for the “Life-Lie”
+### Don’t Fall for the “Life-Lie”
 > Adler called the state of coming up with all manner of pretexts in order to avoid the life tasks the “life-lie.”
 
 ### From the Psychology of Possession to the Psychology of Practice
@@ -105,3 +104,5 @@ updated: "2021-12-22"
 > YOUTH: Wait a minute! If that’s the case, then what you are calling happiness is . . .
 > PHILOSOPHER: Do you see it now? In a word, happiness is the feeling of contribution. That is the definition of happiness.
 
+
+_reference:_ Kishimi, Ichirō, and Fumitake Koga. _The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness_. London: Allen & Unwin, 2019.

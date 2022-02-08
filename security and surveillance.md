@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # security and surveillance
+
+_previous note:_ [[technology is an expression of other interests]]d
 
 This writing by David Lyon is called _Liquid Surveillance: The Contribution of Zygmunt Bauman to Surveillance Studies_.
 

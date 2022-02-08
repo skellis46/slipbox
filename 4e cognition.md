@@ -1,8 +1,8 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
+
 ---
 
 # 4e cognition

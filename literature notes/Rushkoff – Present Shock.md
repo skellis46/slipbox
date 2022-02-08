@@ -1,12 +1,10 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Rushkoff, Douglas"
 year: "2013"
 title: "Present Shock: When Everything Happens Now"
 type: "literature"
-current-status: 
-updated: "20210604"
 ---
 
 >But we are also in danger of squandering this cognitive surplus on the trivial pursuit of the immediately relevant over any continuance of the innovation that got us to this point.

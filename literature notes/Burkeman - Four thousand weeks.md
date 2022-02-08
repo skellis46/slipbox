@@ -5,17 +5,17 @@ author: "Oliver Burkeman"
 year: "2021"
 title: "Four Thousand Weeks: Time Management for Mortals"
 type: "literature"
-status: "in-progress"
-updated: "2022-01-02"
 ---
 
-#  Burkeman - Four thousand weeks 
+# Burkeman - Four thousand weeks
+
+_previous note:_ [[the earth's critical zone]] (this is a curious decision but it's difficult for me not to think about productivity without considering production and resources)
 
 > “The spirit of the times is one of joyless urgency,” writes the essayist Marilynne Robinson, who observes that many of us spend our lives “preparing ourselves and our children to be means to inscrutable ends that are utterly not our own.” 
 
 ## Part I Choosing to Choose
 
-###  1. The Limit-Embracing Life
+### 1. The Limit-Embracing Life
 
 > Untroubled by any notion of time “ticking away,” he might have experienced a heightened awareness of the vividness of things, the feeling of timelessness that Richard Rohr, a contemporary Franciscan priest and author, calls “living in deep time.” 
 
@@ -74,7 +74,7 @@ updated: "2022-01-02"
 
 > But if it’s amazing to have been granted any being at all—if “your whole life is borrowed time,” as Cain realized, watching news reports of the Danforth Avenue shootings—then wouldn’t it make more sense to speak not of having to make such choices, but of getting to make them? From this viewpoint, the situation starts to seem much less regrettable: each moment of decision becomes an opportunity to select from an enticing menu of possibilities, when you might easily never have been presented with the menu to begin with. And it stops making sense to pity yourself for having been cheated of all the other options.
 
-###  4. Becoming a Better Procrastinator
+### 4. Becoming a Better Procrastinator
 
 > So the point isn’t to eradicate procrastination, but to choose more wisely what you’re going to procrastinate on, in order to focus on what matters most. The real measure of any time management technique is whether or not it helps you neglect the right things.
 

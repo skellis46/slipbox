@@ -1,8 +1,7 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # all you have time for

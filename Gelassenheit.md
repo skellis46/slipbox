@@ -5,6 +5,8 @@ tags: []
 
 # Gelassenheit
 
+_previous note:_ [[technics, techne, and technology]]
+
 Hui opens his book _The Question Concerning Technology in China: An Essay in Cosmotechnics_ (2016) with Heidegger's critique of technology as a shift from "_techne_ as _poiesis_ or bringing forth (Hervorbringen) to technology as _Gestell_"[@hui-2016-question p.3]. He suggests that Heidegger's thinking:
 
 >found a receptive audience among Eastern thinkers – most notably in the teachings of the Kyoto School, as well as in the Daoist critique of technical rationality, which identifies Heidegger’s Gelassenheit with the classical Daoist concept of wu wei or 'non-action'.[@hui-2016-question p.3]

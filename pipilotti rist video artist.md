@@ -1,3 +1,7 @@
+---
+tags: [no-previous-note]
+---
+
 # pipilotti rist video artist
 
 _previous note:_ 
@@ -16,21 +20,8 @@ Pipilotti Rist is a video artist that has worked closely with her own (female) b
 _questions & thoughts:_
 
 
-
---- 
-
-_consider:_ 
-
-
-
-
-_return links:_ 
-
 _source:_ unknown        
 
-_local file link:_    
-
-_zotero link & citekey:_   
 
 _reference:_ <http://pipilottirist.net>
 

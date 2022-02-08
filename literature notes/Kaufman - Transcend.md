@@ -1,5 +1,5 @@
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Kaufman, Scott Barry"
 year: "2020"
 title: "Transcend: the new science of self-actualization"

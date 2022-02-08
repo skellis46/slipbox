@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
+type: "evergreen"
 ---
 
 # art and culture glue human relations
 
-_previous note:_ 
+_previous note:_ [[civic ideal of the common good]]
 
 ---
 
@@ -18,13 +19,10 @@ _thoughts & links:_
 
 
 
-- #unfinished 
-
 ---
 
-_original source/found:_ [@wilson_share_2013]
+_original source/found:_ [@wilson-2013-sharea]
 
-_citekey & zotero link:_ [@ambrozic_regeneration_2013](zotero://select/items/1_V3QANPU9)
 
 _pdf link:_ [ambrozic-2013-art.pdf]([ambrozic-2013-art.pdf](hook://file/uQMk7HDbi?p=QWN0aW9uLzIwMjAwNzE0IC0gZG9jcyB0byBwcm9jZXNz&n=ambrozic-2013-art.pdf))
 

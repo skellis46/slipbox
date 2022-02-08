@@ -5,11 +5,11 @@ author: "Brené Brown"
 year: "2021"
 title: "Atlas of the Heart"
 type: "literature"
-status: "in-progress"
-updated: "2022-01-27"
 ---
 
-#  Brown - Atlas of the Heart
+# Brown - Atlas of the Heart
+
+_previous note:_ [[wisdom, care and culture]]
 
 ## Introduction
 
@@ -40,7 +40,7 @@ Without understanding how our feelings, thoughts, and behaviors work together, i
 
 > The good news is that we get to choose how we’re going to let it affect us. If we don’t want this constant automatic ranking to negatively shape our lives, our relationships, and our future, we need to stay aware enough to know when it’s happening and what emotions it’s driving. My new strategy is to look at the person in the lane next to me, and say to myself, as if I’m talking to them, Have a great swim. That way I acknowledge the inevitable and make a conscious decision to wish them well and return to my swim. So far, it’s working pretty well.
 
-### Resentment 
+### Resentment
 
 > If you want to know what’s likely to trigger shame for you, just fill in this sentence stem: It’s really important for me not to be perceived as _____­_____­_____­_.
 
@@ -49,8 +49,7 @@ Without understanding how our feelings, thoughts, and behaviors work together, i
 
 > Resentment is the feeling of frustration, judgment, anger, “better than,” and/or hidden envy related to perceived unfairness or injustice. It’s an emotion that we often experience when we fail to set boundaries or ask for what we need, or when expectations let us down because they were based on things we can’t control, like what other people think, what they feel, or how they’re going to react.
 
-## #3 Places We Go When Things Don’t Go as Planned
-
+## 3 Places We Go When Things Don’t Go as Planned
 
 ## 4 Places We Go When It’s Beyond Us
 
@@ -58,7 +57,7 @@ Without understanding how our feelings, thoughts, and behaviors work together, i
 
 > The concept of optimal confusion is key to understanding why confusion is good for us and why it’s categorized as an epistemic emotion—an emotion critical to knowledge acquisition and learning. 
 
-### Curiosity and interest 
+### Curiosity and interest
 
 > Curiosity seems to involve both feeling (emotion) and thinking (cognition), while interest is really more about thinking.
 

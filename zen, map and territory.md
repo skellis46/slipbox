@@ -25,7 +25,7 @@ _thoughts & links:_
 - [[finger pointing at the moon]]
 - [[without symbolic mediation]]
 - [[map and territory]]
-- [[sati, mindfulness and remembering]] -- the thread here is thin, but I wonder if the 'authentic' part of authentic movement might be conceived as a dance with the territory, or touching the territory. Momentary departures from the map of living to inhabit -- or re-member -- the perceiving and sensing body as it is. But, I can never know this and so the question really is what might be gained or learned from understanding the practice in this way? This idea is heading towards AM being a kind of noumenal engagement [[noumenon and phenomenon]] (although the idea of the territory as being noumenal is paradoxical). Perhaps relates to [[the rea]]
+- [[sati, mindfulness and remembering]] -- the thread here is thin, but I wonder if the 'authentic' part of authentic movement might be conceived as a dance with the territory, or touching the territory. Momentary departures from the map of living to inhabit -- or re-member -- the perceiving and sensing body as it is. But, I can never know this and so the question really is what might be gained or learned from understanding the practice in this way? This idea is heading towards AM being a kind of noumenal engagement [[noumenon and phenomenon]] (although the idea of the territory as being noumenal is paradoxical). Perhaps relates to [[the really real]]
 - perhaps, following this thought, Heidegger's ideas re the ontic might be useful along with some more detailed research into _guest_ and _host_?
 - [[paying attention]] -- "acceptance of present-moment reality". Touches on [[stockdale paradox]] as well -- committed attitude to the reality of a situation.
 

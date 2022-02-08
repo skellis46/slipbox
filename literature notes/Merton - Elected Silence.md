@@ -5,11 +5,11 @@ author: "Thomas Merton"
 year: "1954"
 title: "Elected Silence"
 type: "literature"
-status: "in-progress"
-updated: "2021-12-22"
 ---
 
-#  Merton - Elected Silence
+# Merton - Elected Silence
+
+_previous note:_ [[the Dao of butchering cows]]
 
 > the little spooky prejudiced that devour the people (p.3)
 

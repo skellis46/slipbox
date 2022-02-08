@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 ---
 
 # pro-filmic events occur in real time at the moment of filming
+
+_previous note:_ [[body of the film]]
 
 >Dancefilm is understood as a modality that appears across various types of films including the musical, music video and experimental shorts and is characterized by a ‘filmic performance’ dominated by choreographic strategies or effects. Filmic performance is a comprehensive term incorporating all aspects of cinematic production, so that the choreographic quality of the dancefilm can be considered in relation to both the pro-filmic and filmic elements. For, if the ‘pro-filmic’ refers to the events as they occur in real time at the moment of filming and ‘filmic’ to the elements of the final screen version, both are equally important when dealing with the parameters of dance and film in dancefilm.[@brannigan-2009-microchoreographies p.121]
 
@@ -15,14 +17,6 @@ But Ellis leaves out something crucial. He leaves out the part that screendance 
 
 But what if anything is pro-filmic about these two people I saw dancing for their smartphone that afternoon?  In theory, yes. But in practice, no. In practice I think they are more deeply involved in simply being friends. The 'filmic' aspect of their behaviour is not something I am privy to, and it is an open question as to how present it is for them. 
 
-
----
-
-_thoughts & links:_
-
-
-
-- #unfinished 
 
 ---
 

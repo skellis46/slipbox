@@ -1,8 +1,6 @@
 ---
 aliases: []
 tags: [blog-post, practice-research, par-blog]
-current-status: "in-process"
-
 ---
 
 # iteration

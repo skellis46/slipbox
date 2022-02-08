@@ -1,5 +1,5 @@
 ---
-current-status: "unprocessed"
+
 ---
 
 # 20200827 - it's all imagined

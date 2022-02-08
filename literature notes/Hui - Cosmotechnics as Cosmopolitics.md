@@ -5,8 +5,6 @@ author: "Yuk Hui"
 year: "2017"
 title: "Cosmotechnics as Cosmopolitics"
 type: "literature"
-current-status: "in-process"
-updated: "20210824"
 ---
 
 # Hui - Cosmotechnics as Cosmopolitics

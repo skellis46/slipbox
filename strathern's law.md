@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "evergreen"
+type: "evergreen"
 ---
 
 # strathern's law
+
+_previous note:_ [[to fit the way we measure it]]
 
 > When a measure becomes a target, it ceases to be a good measure.
 

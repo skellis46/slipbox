@@ -1,5 +1,5 @@
 ---
-current-status: "in-progress"
+
 ---
 
 # conversation and understanding

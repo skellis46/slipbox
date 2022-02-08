@@ -1,8 +1,7 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "evergreen"
+type: "evergreen"
 ---
 
 # movement from epistemology to cosmology

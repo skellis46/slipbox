@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 ---
 
 # the precarious terrain of technology with corporeality
+
+_previous note:_ [[dances enframed by software]]
 
 >... even if most of the time we will watch on our multinational company of choice's portable gadget negotiating the precarious terrain of technology with corporeality.[@blanco_borelli_gadgets_2016 p.435]
 

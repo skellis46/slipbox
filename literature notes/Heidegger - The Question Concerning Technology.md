@@ -1,12 +1,10 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Heidegger, Martin"
 year: "1977"
 title: "The Question Concerning Technology"
 type: "literature"
-current-status: in-process
-updated: "20210526"
 ---
 
 

@@ -1,5 +1,9 @@
 # dancing standing reserve
 
+_previous note:_ [[Heidegger's standing reserve]]
+
+**This note is from edit bin of [[Lithium dancing]]**
+
 > If the essence of technē is poiesis, or bringing forth (Hervorbringen), then modern technology, a product of European modernity, no longer possesses the same essence as technē but is rather an "enframing" (Gestell) apparatus, in the sense that all beings become standing reserves (Bestand) for it.[@hui-2017-cosmotechnics n.pag]
 
 [[bringing-forth vs challenging-forth]]
@@ -32,3 +36,5 @@ as human beings they are not mere standing reserve. But as ... well, what are th
 This circularity is a key feature of standing reserve. How might I describe the circularity of these two women in [[Lithium dancing]]? Also am reminded of [[technological forces and recursion]].
 
 > So we have a really specific movement style that’s predicated on the technological components, and that continues to reinforce a change in the performance itself.—Alexandra Harlig[@harlig-2021-tiktok pp.204-205]
+
+

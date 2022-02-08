@@ -1,9 +1,6 @@
 ---
 aliases: []
 tag: [published, par-blog, blog-post]
-type: "post"
-current-status: "published"
-status-updated: "20210507"
 ---
 
 

@@ -2,9 +2,6 @@
 aliases: []
 type: "newsletter"
 platform: "skellis.net"
-current-status: "in-progress"
-status-updated: "20210815"
-
 ---
 
 # more than getting the job done

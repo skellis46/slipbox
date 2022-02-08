@@ -17,10 +17,6 @@ _questions & thoughts:_
 
 --- 
 
-_consider:_
-
-
-
 _source:_ Searching for possible third-person collaborators for #finger-pointing-moon, thought of Alva Noë and then noticed this book (which I had already downloaded some years ago!)
 
 _local link:_ [noe-2015-strange.epub](hook://file/mT3dr3uDv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noe-2015-strange.epub)

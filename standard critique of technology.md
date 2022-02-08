@@ -1,9 +1,11 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 ---
 
 # standard critique of technology
+
+_previous note:_ [[borgmann, effort and focal things]]
 
 >We live in a technopoly, a society in which powerful technologies come to dominate the people they are supposed to serve, and reshape us in their image. These technologies, therefore, might be called prescriptive (to use Franklin’s term) or manipulatory (to use Illich’s). For example, social networks promise to forge connections—but they also encourage mob rule. Facial-recognition software helps to identify suspects—and to keep tabs on whole populations. Collectively, these technologies constitute the device paradigm (Borgmann), which in turn produces a culture of compliance (Franklin).[@jacobs-2021-tech p.25]
 
@@ -22,8 +24,6 @@ _thoughts & links:_
 
 - amazing collection of people to read!
 
-
-- #unfinished 
 
 ---
 

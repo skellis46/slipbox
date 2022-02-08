@@ -2,14 +2,14 @@
 aliases: []
 tags: [newsletter, published]
 platform: "skellis mailing list"
-current-status: "published"
-status-updated: "20210829"
-
+status: "published"
 ---
 
 I publish these essays to my mailing list on the first Friday of each month. If you like this one, please share.
 
 # making tennis something different
+
+_previous note:_ [[choreography as a hammer]]
 
 The American tennis player Jimmy Connors was in his heyday in the 1970s and 80s. He was known as being brash and he introduced fist-pumping into tennis long before fist-pumping was the go-to gesture for all athletes.
 

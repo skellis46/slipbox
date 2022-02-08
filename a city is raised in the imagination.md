@@ -1,7 +1,7 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
+type: "evergreen"
 status: "evergreen"
 ---
 

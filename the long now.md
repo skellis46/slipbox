@@ -1,5 +1,7 @@
 # the long now
 
+_previous note:_ [[future responsibility and stewardship]]
+
 > "Now" is never just a moment. The Long Now is the recognition that the precise moment you're in grows out of the past and is a seed for the future. The longer your sense of Now, the more past and future it includes. It's ironic that, at a time when humankind is at a peak of its technical powers, able to create huge global changes that will echo down the centuries, most of our social systems seem geared to increasingly short nows. Huge industries feel pressure to plan for the bottom line and the next shareholders meeting. Politicians feel forced to perform for the next election or opinion poll. The media attract bigger audiences by spurring instant and heated reactions to human interest stories while overlooking longer-term issues - the real human interest.
 
 https://longnow.org/essays/big-here-long-now/

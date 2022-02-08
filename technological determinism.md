@@ -1,9 +1,9 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 ---
 
-# technological determinism 
+# technological determinism
 
 Technological determinism is the idea that technological development determines social change or human behaviour. The _problem_ is seen everywhere. 
 

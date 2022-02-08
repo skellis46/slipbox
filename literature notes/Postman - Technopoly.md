@@ -1,15 +1,15 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Postman, Neil"
 year: "1993"
 title: "Technopoly"
 type: "literature"
-current-status: 
-updated: "20210622"
 ---
 
 # Postman - Technopoly
+
+_previous note:_ [[Postman's technopoly]]
  
 > First, technology is a friend. It makes life easier, cleaner, and longer. Can anyone ask more of a friend? Second, because of its lengthy, intimate, and inevitable relationship with culture, technology does not invite a close examination of its own consequences. It is the kind of friend that asks for trust and obedience, which most people are inclined to give because its gifts are truly bountiful. But, of course, there is a dark side to this friend. Its gifts are not without a heavy cost. Stated in the most dramatic terms, the accusation can be made that the uncontrolled growth of technology de- stroys the vital sources of our humanity. It creates a culture without a moral foundation. It undermines certain mental pro- cesses and social relations that make human life worth living. Technology, in sum, is both friend and enemy.[@postman-1993-technopoly p.vii]
 

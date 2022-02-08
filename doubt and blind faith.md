@@ -30,6 +30,6 @@ _local link:_ n/a
 
 _citekey & zotero link:_ [heffernan_uncharted_2020](zotero://select/items/1_XUWSM5QT)
 
-_reference:_ Heffernan, M., 2020. Uncharted: how to map the future. Simon & Schuster, London ; New York.
+_reference:_ Heffernan, M., 2020. _Uncharted: how to map the future_. Simon & Schuster, London ; New York.
 
 

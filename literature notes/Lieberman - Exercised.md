@@ -5,11 +5,11 @@ author: "Daniel Lieberman"
 year: "2020"
 title: "Exercised: the science of physical activity, rest and health"
 type: "literature"
-status: "in-progress"
-updated: "2021-12-22"
 ---
 
-#  Lieberman - Exercised
+# Lieberman - Exercised
+
+_previous note:_ [[sitting on the ground]]
 
 ## Prologue
 

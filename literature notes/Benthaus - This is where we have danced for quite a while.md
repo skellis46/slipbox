@@ -1,15 +1,15 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Bench, Harmony and Halig, Alexandra"
 year: "2021"
 title: "Editorial: This Is Where We Dance Now"
 type: "literature"
-current-status: in-process
-updated: "20210720"
 ---
 
 # Benthaus - This is where we have danced for quite a while
+
+_previous note:_ [[dances enframed by software]]
 
 > When it comes to screendance practices, [McPherson] asks, “An unexpected legacy of the 2020 COVID-19 pandemic may be that screendance becomes more visible, shifting if not into the limelight, then perhaps at least out of the shadows?”6 Riffing off Douglas Rosenberg’s observation, made in an unpublished talk at Stanford University, that screendance is not new, but has been “’hiding in plain site,”7 she later notes that “a frequent hiding place for screendance are music videos…”8 @benthaus-2021-this p.282]
 
@@ -27,3 +27,4 @@ updated: "20210720"
 - except I suspect those two people were not taking a position. A position was being taken on them. They were being technopolised. 
 - To make claims regarding the politics of exclusion/inclusion is tricky given that the only 'people' who really benefit are corporations.   
 
+- [[Lithium dancing]]

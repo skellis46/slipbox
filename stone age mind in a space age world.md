@@ -1,11 +1,13 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "nascent, in-progress, evergreen"
+type: "evergreen"
 ---
 
 # stone age mind in a space age world
+
+_previous note:_ [[device paradigm and focal things]]
+
 > Well, in my lifetime there was only the analog world and now at a certain point, in the late ’90s I think, you know, really for most of us, it became digital with the World Wide Web and, you know, all of that. So this is a gigantic experiment. It’s never happened before on the planet. Everybody that’s born more recently they’ve only experienced the digital world … not the analog world, as least talking about our country. So we do, I agree with you. I think we need to let that be in some sense an object of attention. We need to hold that in awareness and see how much the technology is improving our lives versus how much the technology is turning us into slaves of the technology, which it is certainly doing in a certain way. Because the technology is seductive. I don’t know if you’ve noticed that, but it can be very seductive. And addictive. And after a while, between BlackBerrys and pagers and laptops and this and that, first of all, just let’s consider what we used to quaintly call the “workweek.”
 > There’s no end to the workweek.
 > There’s no beginning to it. There’s no end to the workday or beginning of the workday. So we can work 24/7 everywhere. IBM brags about this in their advertisements. When IBM goes digital, the workplace is everywhere. Yeah. Great. Except that life isn’t merely working.
@@ -15,11 +17,8 @@ status: "nascent, in-progress, evergreen"
 
 ---
 
-_thoughts & links:_
-
-
-
-
+- [[pressure, stress and strain - the body in time#^34af68]]
+- [[the Dao of butchering cows]]
 ---
 
 _original source/found:_ Did simple search for Kabat-Zinn in Overcast

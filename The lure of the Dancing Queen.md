@@ -1,12 +1,9 @@
-
 ---
 aliases: []
 tags: [newsletter, published]
 type: "newsletter"
 platform: "skellis mailing list"
-current-status: "published"
-status-updated: "20210726"
-
+status: "published"
 ---
 
 # The lure of the Dancing Queen

@@ -1,13 +1,12 @@
 ---
 aliases: []
-tags: [two_women_dancing, blog-post, published]
-type: "post"
-platform: "blog-ske"
-current-status: "published"
-status-updated: "20210510"
+tags: [lithium-dancing, ske-blog, blog-post, published]
+status: "published"
 ---
 
 # the infinite game
+
+_previous note:_ [[the long now]]
 
 In 2019 the author and "unshakable optimist"[^ss] Simon Sinek published a book called _The Infinite Game_ (2019) that popularised the work of American religious historian James Carse in business and organisational circles. Carse's book was published in 1986 and it was called _Finite and Infinite Games_. The premise of the original book is simple: "A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play."[@carse-1986-finite p.3] Carse details other differences such as finite games having temporal, spatial and numerical boundaries, while infinite games do not; finite games have agreed upon rules, whereas "the rules of an infinite game must change in the course of play."[@carse-1986-finite p.9] The higher education system -- or earning a degree -- is a finite game, education is infinite; research assessment is finite, ongoing research is infinite; producing an artistic work is a finite game, developing a practice is infinite such that "the only purpose of the game is to prevent it from coming to an end."[@carse-1986-finite pp.6-7]
 

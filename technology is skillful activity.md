@@ -1,6 +1,6 @@
 # technology is skillful activity
 
-_previous note:_ [[literature notes/Noë - Strange Tools, Art and Human Nature]]
+_previous note:_ [[technics, techne, and technology]]
 
 ---
 
@@ -15,7 +15,7 @@ He describes language and writing themselves as being technologies; technologies
 
 _questions & thoughts:_
 
-- to return to etymology (e.g. technē) is always a tricky proposition. This is because our use of language changes. We no longer think of technology as a skillful activity. That premise doesn't hold in how we use the term _technology_. When we say "technology" we mean something beyond ourselves used to make doing something easier. But his point about technologies never being static is important -- that they make problems as they solve them. They are deeply connected to thinking and practice. #moving-camera-bodies 
+- to return to etymology (e.g. technē) is always a tricky proposition. This is because our use of language changes. We no longer think of technology as a skillful activity. That premise doesn't hold in how we use the term _technology_. When we say "technology" we mean something beyond ourselves used to make doing something easier. But his point about technologies never being static is important -- that they make problems as they solve them. They are deeply connected to thinking and practice. See [[moving camera bodies]]
 
 --- 
 
@@ -29,8 +29,6 @@ _consider:_
 _source:_ Searching for possible third-person collaborators for #finger-pointing-moon, thought of Alva Noë and then noticed this book (which I had already downloaded some years ago!)
 
 _local link:_ [noe-2015-strange.epub](hook://file/mT3dr3uDv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noe-2015-strange.epub)
-
-_citekey & zotero link:_ [@noe_strange_2015](zotero://select/items/1_GJLYSMRA)
 
 _reference:_ Noë, A., 2015. _Strange Tools, Art and Human Nature_. Hill and Wang, New York.
 

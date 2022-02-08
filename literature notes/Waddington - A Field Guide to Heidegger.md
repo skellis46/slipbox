@@ -1,12 +1,10 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Waddington, David"
 year: "2005"
 title: "A Field Guide to Heidegger: Understanding ‘The Question Concerning Technology’"
 type: "literature"
-current-status: in-process
-updated: "20210526"
 ---
 
 # Waddington - A Field Guide to Heidegger

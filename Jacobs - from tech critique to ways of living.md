@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 ---
 
 # Jacobs - from tech critique to ways of living

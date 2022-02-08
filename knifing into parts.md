@@ -1,9 +1,11 @@
 ---
-tags: [two_women_dancing] 
+tags: [lithium-dancing] 
 ---
 
 
 # knifing into parts
+
+_previous note:_ [[the Dao of butchering cows]]
 
 > Phaedrus was a master with this knife, and used it with dexterity and a sense of power. With a single stroke of analytic thought he split the whole world into parts of his own choosing, split the parts and split the fragments of the parts, finer and finer and finer until he had reduced it to what he wanted it to be. Even the special use of the terms “classic” and “romantic” are examples of his knifemanship.
 > But if this were all there were to him, analytic skill, I would be more than willing to shut up about him. What makes it important not to shut up about him was that he used this skill in such a bizarre and yet meaningful way. No one ever saw this, I don’t think he even saw it himself, and it may be an illusion of my own, but the knife he used was less that of an assassin than that of a poor surgeon. Perhaps there is no difference. But he saw a sick and ailing thing happening and he started cutting deep, deeper and deeper to get [p.80] at the root of it. He was after something. That is important. He was after something and he used the knife because that was the only tool he had. But he took on so much and went so far in the end his real victim was himself.[@pirsig-2008-zen pp.79-80]

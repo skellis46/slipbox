@@ -24,9 +24,6 @@ _consider:_
 
 _source:_ unknown
 
-_local link:_ n/a
-
-_citekey & zotero link:_ [johnston_cloud_2012](zotero://select/items/1_5C9D6UZA)
 
 _reference:_ Johnston, W., 2012. _The Cloud of Unknowing, and The Book of Privy Counseling_. Image.
 

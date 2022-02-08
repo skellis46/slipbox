@@ -9,7 +9,7 @@ Ahrens discusses the work of neurobiologist James Zull who understands that _to 
 
 _questions & thoughts:_
 
-- #moving-camera-bodies -- what kind of scanning is going on here?
+- in [[moving camera bodies]] what kind of scanning is going on here?
 - akin to the kinds of relaxed body scanning in somatic practices
 
 --- 

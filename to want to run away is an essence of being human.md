@@ -1,8 +1,7 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # to want to run away is an essence of being human

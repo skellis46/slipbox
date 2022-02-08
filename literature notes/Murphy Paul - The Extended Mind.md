@@ -5,13 +5,11 @@ author: "Annie Murphy Paul"
 year: "2021"
 title: "The Extended Mind: The Power of Thinking Outside the Brain"
 type: "literature"
-current-status: "in-process"
-updated: "2020927"
 ---
 
-#  Murphy Paul - The Extended Mind 
+# Murphy Paul - The Extended Mind
 
-## Prologue 
+## Prologue
 > I encountered his words as I was working on a chapter about how bodily movement affects the way we think. The quote from Nietzsche appears in a book titled A Philosophy of Walking, by the contemporary French philosopher Frédéric Gros; Gros has his own thoughts to add. Don’t think of a book as issuing only from an author’s head, he advises. “Think of the scribe’s body: his hands, his feet, his shoulders and legs. Think of the book as an expression of physiology. In all too many books the reader can sense the seated body, doubled up, stooped, shriveled in on itself.”
 > My seated body shifted guiltily in its chair, which it had occupied all morning.
 > Far more conducive to the act of creation, Gros continues, is “the walking body”—which, he says, is “unfolded and tensed like a bow: opened to wide spaces like a flower to the sun.” Nietzsche, he reminds us, wrote that we should “sit as little as possible; do not believe any idea that was not born in the open air and of free movement.”
@@ -28,7 +26,7 @@ updated: "2020927"
 
 > [Clark] observed that our physical movements and gestures play “an important role in an extended neural-bodily cognitive economy”; he noted that humans are inclined to create “designer environments”—carefully appointed spaces “that alter and simplify the computational tasks which our brains must perform in order to solve complex problems.” 
 
-##  Introduction: Thinking Outside the Brain
+## Introduction: Thinking Outside the Brain
 
 > The brain does do a few things exquisitely well—things like sensing and moving the body, navigating through space, and connecting with other humans. These activities it can manage fluently, almost effortlessly. But accurately recalling complex information? Engaging in rigorous logical reasoning? Grasping abstract or counterintuitive ideas? Not so much.
 
@@ -56,7 +54,7 @@ updated: "2020927"
 > That such trickery is even possible only serves to underline the robustness of the connection between body and mind, the two-way flow of information that does so much to shape our daily decisions, our everyday efforts, our most intimate relationships. This link may also form the foundation of something even more fundamental: our sense of self. Among all their other functions, the steady flow of internal sensations we experience provides us with a sense of personal continuity. Thinkers have long mused on how it is that we can regard ourselves as unique and persistently existing entities. “What makes me the same person throughout my life, and a different person from you?” wondered the late philosopher Derek Parfit. Their answers have usually had something to do with the brain—with our thoughts or our memories. As the French philosopher René Descartes declared, “I think, therefore I am.”
 > According to neuroanatomist and interoception expert A. D. Craig, it would be more accurate to say, “I feel, therefore I am.” Craig maintains that interoceptive awareness is the basis of the “material me,” the source of our most fundamental knowledge of ourselves. Because our hearts beat, because our lungs expand, because our muscles stretch and our organs rumble—and because all these sensations, unique to us, have carried on without interruption since the day of our birth—we know what it is to be one continuous self, to be ourselves and no other. Interoception, says Craig, is nothing less than “the feeling of being alive.”
 
-### 2. Thinking with movement 
+### 2. Thinking with movement
 
 > When we’re engaged in physical activity, our visual sense is sharpened, especially with regard to stimuli appearing in the periphery of our gaze. This shift, which is also found in non-human animals, makes evolutionary sense: the visual system becomes more sensitive when we are actively exploring our environment. When our bodies are at rest—that is, sitting still in a chair—this heightened acuity is dialed down.
 
@@ -80,15 +78,15 @@ Useful for [[interpretive dance]]?
 
 - Instrumentalisation of dance. Producing value. [[interpretive dance]]
  
- ## Thinking with gesture 
+ ## Thinking with gesture
 
 > Lacking a fully developed understanding, or even the relevant technical vocabulary, his students lean heavily on gesture to convey their budding knowledge—and this is just what their professor wants to see. “It is from the attempt of expressing themselves that understanding evolves, rather than the other way around,” he maintains.
 
 > Designed gestures offer another benefit as well: they are especially effective at reinforcing our memory. That’s because gesturing while speaking involves sinking multiple mental “hooks” into the material to be remembered—hooks that enable us to reel in that piece of information when it is needed later on. There is the auditory hook: we hear ourselves saying the words aloud. There is the visual hook: we see ourselves making the relevant gesture. And there is the “proprioceptive” hook; this comes from feeling our hands make the gesture. (Proprioception is the sense that allows us to know where our body parts are positioned in space.) Surprisingly, this proprioceptive cue may be the most powerful of the three: research shows that making gestures enhances our ability to think even when our gesturing hands are hidden from our view.
 
-#  Part Two
+# Part Two
 
-###  Chapter 4; Thinking with Natural Spaces
+### Chapter 4; Thinking with Natural Spaces
 
 >  All these salutary effects on our mental function can be understood as a process of restoration: time spent outdoors gives us back what the built environment so relentlessly drains away. More than a century ago, psychologist William James drew a distinction that bears closely on our understanding of nature’s restorative powers. There are two kinds of attention, wrote James in his 1890 book The Principles of Psychology: “voluntary” and “passive.” Voluntary attention takes effort; we must continually direct and redirect our focus as we encounter an onslaught of stimuli or concentrate hard on a task. Navigating an urban environment—with its hard surfaces, sudden movements, and loud, sharp noises—requires voluntary attention. Passive attention, by contrast, is effortless: diffuse and unfocused, it floats from object to object, topic to topic. This is the kind of attention evoked by nature, with its murmuring sounds and fluid motions; psychologists working in the tradition of James call this state of mind “soft fascination.”
 
@@ -158,7 +156,7 @@ Richard Feynman, who was as well known for authoring popular books such as Surel
 
 > These strategies—breaking down agglomerated steps, exaggerating salient features, supplying categories based on function—help pry open the black box of experts’ automatized knowledge and skill. Extended technology may offer an even more direct probe into the mind of the expert. For example: the nature of expertise is now being studied using eye tracking, the automated monitoring of where the expert’s gaze falls, when, and for how long. Research has shown that, across disciplines, experts look in ways different from novices: they take in the big picture more rapidly and completely, while focusing on the most important aspects of the scene; they’re less distracted by visual “noise,” and they shift more easily among visual fields, avoiding getting stuck. Within any occupation—among surgeons, pilots, programmers, architects, even high school teachers—experts’ gaze patterns are highly similar, while beginners’ are widely divergent and idiosyncratic.
 
-###  Chapter 8: Thinking with Peers
+### Chapter 8: Thinking with Peers
 
 
 

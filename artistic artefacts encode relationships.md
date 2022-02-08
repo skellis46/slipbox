@@ -1,7 +1,6 @@
 ---
 aliases: []
 tags: []
-current-status: "in-progress"
 ---
 
 # artistic artefacts encode relationships

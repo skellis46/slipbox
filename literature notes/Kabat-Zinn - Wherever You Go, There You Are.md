@@ -5,13 +5,11 @@ author: "Jon Kabat-Zinn"
 year: "2004"
 title: "Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life"
 type: "literature"
-status: "in-progress"
-updated: "2021-10-11"
 ---
 
-#  Kabat-Zinn - Wherever You Go, There You Are
+# Kabat-Zinn - Wherever You Go, There You Are
 
-##  Introduction
+## Introduction
 
 > Guess what? When it comes right down to it, wherever you go, there you are. Whatever you wind up doing, that’s what you’ve wound up doing. Whatever you are thinking right now, that’s what’s on your mind. Whatever has happened to you, it has already happened. The important question is, how are you going to handle it? In other words, “Now what?”
 
@@ -58,7 +56,7 @@ updated: "2021-10-11"
 
 - thinking how this relates to production without consumption. And also, obvs, _Finger Pointing Moon_ #finger-pointing-moon 
 
-###  Waking up
+### Waking up
 
 > One practical way to do this is to look at other people and ask yourself if you are really seeing them or just your thoughts about them. Sometimes our thoughts act like dream glasses. When we have them on, we see dream children, dream husband, dream wife, dream job, dream colleagues, dream partners, dream friends. We can live in a dream present for a dream future. Without knowing it, we are coloring everything, putting our spin on it all. While things in the dream may change and give the illusion of being vivid and real, it is still a dream we are caught in. But if we take off the glasses, maybe, just maybe, we might see a little more accurately what is actually here.
 
@@ -204,7 +202,7 @@ My own life!”
 > You may have noticed that you are not always a center of love and kindness, even toward yourself. In fact, in our society, one might speak of an epidemic of low self-esteem. In conversations with the Dalai Lama during a meeting in Dharamsala in 1990, he did a double take when a Western psychologist spoke of low self-esteem. The phrase had to be translated several times for him into Tibetan, although his English is quite good. He just couldn’t grasp the notion of low self-esteem, and when he finally understood what was being said, he was visibly saddened to hear that so many people in America carry deep feelings of self-loathing and inadequacy.
 > Such feelings are virtually unheard of among the Tibetans. They have all the severe problems of refugees from oppression living in the Third World, but low self-esteem is not one of them. But who knows what will happen to future generations as they come into contact with what we ironically call the “developed world.” Maybe we are overdeveloped outwardly and underdeveloped inwardly. Perhaps it is we who, for all our wealth, are living in poverty.
 
-## Part Three 
+## Part Three
 
 ### Wherever You Go, There You Are
 

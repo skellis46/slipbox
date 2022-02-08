@@ -5,12 +5,10 @@ author: "Joshua Millburn and Ryan Nicodemus"
 year: "2021"
 title: "Love people, use things: because the opposite never works: the minimalists"
 type: "literature"
-current-status: "finished"
-updated: "20210819"
 ---
 
 
-# Millburn - Love People Use Things 
+# Millburn - Love People Use Things
 
 > On a long enough timeline, everything becomes obsolete. A hundred years from now the world will be filled with new humans, and they will have long abandoned their USB cables, iPhones, and flat-screen televisions, letting go of the past to make room for the future. This means we must be careful with the new material possessions we bring into our lives today. And we must be equally careful when those things become obsolete, because a willingness to let go is one of life’s most mature virtues.[@millburn-2021-love n.pag.] ^315a65
 

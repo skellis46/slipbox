@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "evergreen"
+type: "evergreen"
 ---
 
-# network self and social identities 
+# network self and social identities
+
+_previous note:_ [[4e cognition]]
 
 Kathleen Wallace is a philosopher of the ethics and metaphysics of personal identity. She wrote a book called _The Network Self: Relation, Process, and Personal Identity (2019)._ She outlines her thinking in this article for Aeon. 
 

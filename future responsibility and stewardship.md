@@ -1,8 +1,12 @@
 ---
-current-status: "in-progress"
+aliases: []
+tags: []
+type: "evergreen"
 ---
 
 # future responsibility and stewardship
+
+_previous note:_ [[the long now]]
 
 Humanities professor Alan Jacobs' article _Tending the Digital Commons_ is about the nature of online content, who owns it, who can access it, and what these questions mean for our future. It is this concern for the future that interests me here. Jacobs writes:
 
@@ -39,6 +43,9 @@ _consider:_
 - compare with [[action is the foundation of thought]] which is highlighting actions in space over time; here it is a question of time and responsibility (perhaps more abstract?)
 - [ ] check out _The Imperative of Responsibility_ by Hans Jonas
 - [ ] check out _Standing by Words_ by Wendell Berry (1980)
+- [[pressure, stress and strain - the body in time]]
+- [[Krznaric - The Good Ancestor]]
+- [[Lithium dancing]]
 
 
 _source:_ unknown (likely RSS feed)

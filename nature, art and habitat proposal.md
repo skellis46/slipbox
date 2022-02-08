@@ -105,7 +105,7 @@ In the movement-performance-film experiments located in the Taleggio valley land
 
 These photographic and physical practices will present a complex technological and physical challenges ideal for artistic research: how to modify and adapt anthropic postures, gestures and movements such that they extract the human body out of the temporal order of the natural environment? At the same time, time-lapse and film technologies demand sensitivity to the moral and ethical implications of the tools and practices at our disposal: "What was required of the earth so that I might be able to use this technology? ... What possibilities for action does this technology present? Is it good that these actions are now possible? ... What assumptions about the world does the use of this technology tacitly encourage?"[^moral]
 
-[^critical]: [nahr.it/Current-Program](https://nahr.it/Current-Program)
+[^critical]: [nahr.it/Program](https://nahr.it/Program)
 
 [^humility]: Where humility is "openness to new learning combined with a balanced and accurate assessment of our contributions, including our strengths, imperfections, and opportunities for growth." -- Brene Brown, Atlas of the Heart (2021) Chapter 13, n.pag.
 

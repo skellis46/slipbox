@@ -1,5 +1,7 @@
 # wisdom, care and culture
 
+_previous note:_ [[the custodians]]
+
 > Generative people care for others in a direct, forward-oriented relationship—mentor to mentee, teacher to student. They are caregivers. Guardians are care*takers*. They take responsibility for the cultural values and riches from which we all benefit, offering their concern beyond specific individuals to their culture as a whole; they engage a social radius that extends beyond their immediate personal surround. They are curators, looking to the past to preserve it for the future. [p.155] 
 
 > The task of the Guardian is to honor the vast completing realities of past, present, and future, and to find, as the judge does in The Merchant of Venice, the true wisdom that is a fusion of caring and justice. [p.156]
@@ -18,8 +20,6 @@ Definitions of wisdom (by 75 year olds in the study):
 > Self-awareness combined with an absence of self-absorption.
 > The capacity to 'hear' what others say.[p.186]
 
-Vaillant, George E. Triumphs of Experience: The Men of the Harvard Grant Study, 2015. (in zotero)
-
- 
 ---
- 
+
+_reference:_ Vaillant, George E. Triumphs of Experience: The Men of the Harvard Grant Study, 2015.

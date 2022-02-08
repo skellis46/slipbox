@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress, evergreen"
+type: "evergreen"
 ---
 
 # humans blush
+
+_previous note:_ [[network self and social identities]]
 
 > This brings me to another odd quirk of Homo sapiens. Machiavelli, in his classic book, advises never revealing your emotions. Work on your poker face, he urges; shame serves no purpose. The object is to win, by fair means or foul. But if only the shameless win, why are humans the only species in the whole animal kingdom to blush?
 > Blushing, said Charles Darwin, is ‘the most peculiar and the most human of all expressions’. Wanting to know if this phenomenon was universal, he sent letters to everyone in his foreign network, polling missionaries, merchants, and colonial bureaucrats.11 Yes, they all replied, people here blush, too.
@@ -19,6 +20,7 @@ _thoughts & links:_
 
 - [[network self and social identities]] for thinking about the role of the collective in forging the self. Or that the self (itself) is a networked entity. 
 - [[Jacobs - How to Think]] re social approval, social conformity, and also how even thinking is social 
+- [[Brown - Atlas of the Heart]]
 
 ---
 

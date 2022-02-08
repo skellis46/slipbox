@@ -1,12 +1,10 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Postman, Neil"
 year: "2006"
 title: "Amusing ourselves to death: public discourse in the age of show business"
 type: "literature"
-current-status: 
-updated: "20210528"
 ---
 
 # Postman - Amusing Ourselves to Death

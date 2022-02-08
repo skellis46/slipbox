@@ -1,13 +1,11 @@
 ---
 aliases: []
-type: "post"
-platform: "blog-ske"
-status: "published"
-status-updated: "2021-10-08"
-tags: [blog-post, published]
+tags: [blog-post, ske-blog, published]
 ---
 
 # cookie monster
+
+_previous note:_ [[an interface is always an effect]]
 
 You know those [cookie consent](https://cookiefirst.com/tracking-cookies-gdpr/) dialog boxes that now pop up on every website you visit since [GDPR](https://www.skellis.net/blog/internet-rules) entered our world in 2018?
 

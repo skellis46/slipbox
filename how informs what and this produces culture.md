@@ -1,12 +1,12 @@
+---
 aliases: []
-tags: [two_women_dancing]
-type: "atomic"
-current-status: in-progress 
-updated: "20210525"
-
+tags: [lithium-dancing]
+type: "evergreen"
 ---
 
 # how informs what and this produces culture
+
+_previous note:_ [[dances enframed by software]]
 
 Postman's argument is that the means by which we have discussions informs what those discussions are able to easily express, and that easily expressible ideas become central markers of culture. Postman's argument: 
 
@@ -20,7 +20,7 @@ Postman uses the example of the 'news of the day' and how it could not exist unt
 
 This is the heart. What I saw on the common that day is different from Susan and ABBA. BUT HOW? Less friction. Image/visuals. Fidelity. Ease of tech. My behaviour could have interrupted the recording. Ruined it. Introducing noise. Like an audio photo bomb. These are the Screendances of now. Of our future. The ones that matter. Really? 
 
-Their dancing (the two girls) is the way it is because of the social. They are enframed. It's repeatable. It stops and starts. It's reversible. This is no accident that their movement is the way it is. It's not just any kind of movement. It's anything but indeterminate. They are being choreographed (go search for indeterminacy in Devonthink). Compare this with [[Zuboff – The Age of Surveillance Capitalism#VI Executing the Uncontract]]: "thus replacing the indeterminacy of social processes with the determinism of programmed machine processes."[@zuboff-2019-age n.pag.]
+Their dancing (the two women) is the way it is because of the social. They are enframed. It's repeatable. It stops and starts. It's reversible. This is no accident that their movement is the way it is. It's not just any kind of movement. It's anything but indeterminate. They are being choreographed (go search for indeterminacy in Devonthink). Compare this with [[Zuboff – The Age of Surveillance Capitalism#VI Executing the Uncontract]]: "thus replacing the indeterminacy of social processes with the determinism of programmed machine processes."[@zuboff-2019-age n.pag.]
 
 > I have remained steadfast to [McLuhan's] teaching that the clearest way to see through a culture is to attend to its tools for conversation.[@postman-2006-amusing p.8]
 
@@ -33,6 +33,7 @@ The introduction of new techniques transforms not only our behaviour, but how we
 _thoughts & links:_
 
 - extracted from [[Postman - Amusing Ourselves to Death]] literature note
+- also from edibt bin of [[Lithium dancing]]
 
 
 ---

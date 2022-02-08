@@ -1,6 +1,5 @@
 ---
-current-status: "in-progress"
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 ---
 
 # device paradigm and focal things

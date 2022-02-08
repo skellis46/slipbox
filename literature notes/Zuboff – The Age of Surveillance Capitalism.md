@@ -1,11 +1,11 @@
+---
 aliases: []
 tags: [two-women-dancing]
 author: Zuboff, Shoshana
 year: 2019
 title: The Age of Surveillance Capitalism: the Fight for the Future at the New Frontier of Power
 type: literature
-current-status: 
-updated: "20210511"
+---
 
 # Zuboff – The Age of Surveillance Capitalism
 
@@ -20,7 +20,7 @@ updated: "20210511"
 >Finally, people often say that the user is the “product.” This is also misleading, and it is a point that we will revisit more than once. For now let’s say that users are not products, but rather we are the sources of raw-material supply. As we shall see, surveillance capitalism’s unusual products manage to be derived from our behavior while remaining indifferent to our behavior. Its products are about predicting us, without actually caring what we do or what is done to us.
 
 
-####  IV. The Discovery of Behavioral Surplus
+#### IV. The Discovery of Behavioral Surplus
 
 >Google would no longer mine behavioral data strictly to improve service for users but rather to read users’ minds for the purposes of matching ads to their interests, as those interests are deduced from the collateral traces of online behavior. With Google’s unique access to behavioral data, it would now be possible to know what a particular individual in a particular time and place was thinking, feeling, and doing. That this no longer seems astonishing to us, or perhaps even worthy of note, is evidence of the profound psychic numbing that has inured us to a bold and unprecedented shift in capitalist methods.
 

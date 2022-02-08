@@ -2,8 +2,7 @@
 aliases: []
 type: "article"
 platform: "ijsd"
-current-status: "submitted"
-status-updated: "20210922"
+status: "submitted"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 

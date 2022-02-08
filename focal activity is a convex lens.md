@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 ---
 
 # focal activity is a convex lens

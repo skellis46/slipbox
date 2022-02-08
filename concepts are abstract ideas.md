@@ -5,6 +5,8 @@ tags: []
 
 # concepts are abstract ideas
 
+_previous note:_ [[finger pointing at the moon]]
+
 >Concepts are defined as abstract ideas or general notions that occur in the mind, in speech, or in thought.[@noauthor-2021-concept n.p.]
 
 In common usage concepts are often the same as ideas.

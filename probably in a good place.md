@@ -1,7 +1,6 @@
 ---
 aliases: []
-tags: [blog-post, published]
-platform: "blog-ske"
+tags: [blog-post, ske-blog, published]
 ---
 
 # probably in a good place

@@ -1,9 +1,7 @@
 ---
 aliases: []
 tags: []
-year: ""
 type: "literature"
-status: "processing"
 
 ---
 

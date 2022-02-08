@@ -5,6 +5,8 @@ tags: []
 
 # move slow and restore things
 
+_previous note:_ [[speeding to go slow]]
+
 Facebook's original motto was "move fast and break things". In 2014 they change it to "Move Fast With Stable Infra."[@noauthor-2018-facebook n.pag.] The author quotes a tech writer who says that, "Sadly Facebook didn’t realize is that moving fast can break things …"
 
 I've long been interested in the hubris of this motto, yet have also felt drawn to it. There's something about wanting to make things happen regardless of the consequences, or perhaps that the consequences are someone else's problem. 

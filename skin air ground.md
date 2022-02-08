@@ -2,11 +2,10 @@
 tags: [skin-air-ground] 
 ---
 
-# skin air ground moc
+# skin air ground index
 
 
 #artistic-practice
-#MOC
 
 [[index -- artistic practice]]
 

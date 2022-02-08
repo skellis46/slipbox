@@ -1,14 +1,12 @@
 ---
 aliases: []
-tags: [published]
-type: "post"
-platform: "blog-ske"
-status: "published"
-status-updated: "2022-01-04"
+tags: [published, ske-blog, blog-post]
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
 # emerging experience
+
+_previous note:_ [[self is a complex interplay of brain, body and environment]]
 
 There is something compelling about the constancy of Antonio Damasio's focus on the nature of consciousness. With each new publication, there's a sense that he's not only understanding his life's work more clearly, but is getting better at communicating it to the public. He says as much in his latest book _Feeling and Knowing: Making Minds Conscious_:
 

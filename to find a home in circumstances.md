@@ -2,8 +2,6 @@
 aliases: [sentient performativities, devon]
 tags: []
 type: "public"
-status: "in-progress"
-status-updated: "20211210"
 ---
 
 # to find a home in circumstances

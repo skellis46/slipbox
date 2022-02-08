@@ -3,9 +3,7 @@ aliases: []
 tags: [newsletter, published]
 type: "newsletter"
 platform: "skellis mailing list"
-current-status: "published"
-status-updated: "20211008"
-
+status: "published"
 ---
 
 # Who could ever dream of such a thing?

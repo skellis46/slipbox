@@ -1,5 +1,5 @@
 ---
-current-status: "in-progress"
+
 ---
 
 # unprecedented events and differential play

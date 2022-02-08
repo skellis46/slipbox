@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Bench, Harmony and Halig, Alexandra"
 year: "2021"
 title: "Editorial: This Is Where We Dance Now"

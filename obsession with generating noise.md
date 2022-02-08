@@ -1,11 +1,13 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
+type: "evergreen"
 status: "in-progress, evergreen"
 ---
 
 # obsession with generating noise
+
+_previous note:_ [[dances enframed by software]]
 
 > It’s the obsession with generating noise, regardless of signal. It’s the reflexive alignment with the status quo, whatever it may be. 
 

@@ -5,8 +5,6 @@ author: "James Heilbrun & Charles M. Gray"
 year: "2001"
 title: "The Economics of Art and Culture"
 type: "literature"
-current-status: "in-process"
-updated: "20210819"
 ---
 
 # Heilbrun and Gray - The Economics of Art and Culture

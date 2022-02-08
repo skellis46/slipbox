@@ -5,6 +5,8 @@ tags: []
 
 # liquid modernity
 
+_previous note:_ [[digital commons]]
+
 The Polish sociologist Zygmunt Bauman describes a liquid-modern society that is distinctive in two ways. The first is that we now recognize that the process of modernization is never-ending. There is no end-game, or point at which human affairs become "totally transparent thanks to knowing everything needing to be known."[@bauman-2000-liquid p.29] The second is that the burden of responsibility now rests squarely on the shoulders of the individual. The balance has tilted far from the societal improvement for the common good "towards the self-assertion of the individual."[@bauman-2000-liquid p.29]
 
 Liquid modernity is characterized by the never-ending process of modernization, and how societal improvements for the common good have been largely replaced by the "self-assertion of the individual."[@bauman-2000-liquid p.29] 

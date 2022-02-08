@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # self is a complex interplay of brain, body and environment
+
+_previous note:_ [[ginot - epistemology of somatics]]
 
 Schmalzl, Mardi, Crane-Godreau and Payne discuss embodied cognition in relation to what they call movement-based embodied contemplative practices. The writing is an overview of embodied cognition theory. 
 

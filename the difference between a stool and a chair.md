@@ -1,8 +1,7 @@
 ---
 aliases: []
 tags: []
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # the difference between a stool and a chair

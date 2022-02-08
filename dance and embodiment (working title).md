@@ -3,8 +3,6 @@ aliases: [embodiment]
 tag: [output]
 type: "article"
 platform: "jdsp"
-status: "in-progress"
-status-updated: "2021-10-12"
 csl: /Users/ac1906/Dropbox/pandoc/harvard-coventry-university.csl
 ---
 

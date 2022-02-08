@@ -5,11 +5,9 @@ author: "Roman Krznaric"
 year: "2021"
 title: "The good ancestor: how to think long term in a short-term world"
 type: "literature"
-status: "in-progress"
-updated: "2022-01-06"
 ---
 
-#  Krznaric - The Good Ancestor
+# Krznaric - The Good Ancestor
 
 ## Blurb
 

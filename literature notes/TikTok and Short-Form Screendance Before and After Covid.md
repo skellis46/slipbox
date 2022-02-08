@@ -1,12 +1,10 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Alexandra Harlig, Crystal Abidin, Trevor Boffone, Kelly Bowker, Colette Eloi, Pamela Krayenbuhl, Chuyun Oh"
 year: "2021"
 title: "TikTok and Short-Form Screendance Before and After Covid"
 type: "literature"
-current-status: in-process
-updated: "20210720"
 ---
 
 

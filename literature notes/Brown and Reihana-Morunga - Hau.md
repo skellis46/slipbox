@@ -5,11 +5,9 @@ year: "2020"
 author: "Carol Brown"
 author: "Tia Reihana-Morunga"
 type: "literature"
-status: "in-progress"
-updated: "2022-02-02"
 ---
 
-#  Brown and Reihana-Morunga - Hau: Living Archive of Breath
+# Brown and Reihana-Morunga - Hau: Living Archive of Breath
 
 _previous note:_ [[pressure, stress and strain - the body in time]]
 

@@ -5,8 +5,6 @@ author: "Michael J. Sandel"
 year: "2020"
 title: "The Tyranny of Meritocracy"
 type: "literature"
-current-status: "in-process"
-updated: "20210819"
 ---
 
 # Sandel - The Tyranny of Meritocracy: What's Become of the Public Good?

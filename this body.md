@@ -9,6 +9,8 @@ type: "book"
 
 _previous note:_ [[gaming chairs]]
 
+[[index -- artistic practice]]
+
 Chairs getting bigger in order for us to do less. (noticing software developers and gamers sitting in these massive chairs.)
 History of chairs. 
 

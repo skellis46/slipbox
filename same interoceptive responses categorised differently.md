@@ -1,8 +1,7 @@
 ---
 aliases: []
 tags: [somatics]
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # same interoceptive responses categorised differently

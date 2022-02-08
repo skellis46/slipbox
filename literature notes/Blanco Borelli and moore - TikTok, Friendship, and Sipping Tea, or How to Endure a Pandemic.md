@@ -1,13 +1,11 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Melissa Blanco Borelli"
 author: "madison moore"
 year: "2021"
 title: "TikTok, Friendship, and Sipping Tea, or How to Endure a Pandemic"
 type: "literature"
-current-status: in-process
-updated: "20210720"
 ---
 
 # Blanco Borelli and moore - TikTok, Friendship, and Sipping Tea, or How to Endure a Pandemic

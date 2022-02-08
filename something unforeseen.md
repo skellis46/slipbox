@@ -5,6 +5,8 @@ tags: []
 
 # something unforeseen
 
+_previous note:_ [[valorising vagueness]]
+
 >Most questions prepare the terrain for their potential answers, but sometimes one is lucky enough to come up with a question that points at something unforeseen, at a tiny spark of contingency, at an inconspicuous spot where an unknown future nests so eloquently that we cannot but start tracing it in the midst of everything. A future that already has passed without any fuss? Perhaps. This kind of question bothers. How could it emerge in the first place?[@elo-2017-faq p.49]
 
 >I consider artistic research practices a nascent set of cultural techniques, that is, operative processes of reproducing, handing down and passing on whatever remains of life: traces, patterns, artefacts. They are processes of differentiation. This abstract characterization of artistic research practices remains rather generic, since what difference does a difference make without some kind of relational setting? In more binding terms, however, artistic research practices show a peculiarity not limited to any specific context: they are transformative, which means that they deliberately touch upon their own opacity.[p.50]

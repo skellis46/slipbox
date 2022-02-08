@@ -22,6 +22,7 @@ _consider:_
 
 - [[human experience and language]]
 - [[closeness-communication bias]]
+- [[to define the meaning of we]]
 
 
 _source:_ unknown

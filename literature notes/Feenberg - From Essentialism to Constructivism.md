@@ -1,12 +1,10 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Feenberg, Andrew"
 year: "2000"
 title: "From Essentialism to Constructivism: Philosophy ofTechnology at the Crossroads"
 type: "literature"
-current-status: 
-updated: "20210630"
 ---
 
 # Feenberg - From Essentialism to Constructivism

@@ -9,7 +9,7 @@ type: "literature"
 
 # Adler - How to Read a Book
 
-_previous note:_ 
+_previous note:_ [[questions while reading]]
 
 ---
 

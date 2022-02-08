@@ -1,7 +1,6 @@
 ---
 aliases: []
 tags: []
-current-status: "in-progress"
 ---
 
 # observer and observed travel in the same direction

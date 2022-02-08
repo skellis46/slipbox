@@ -2,8 +2,6 @@
 aliases: []
 type: "newsletter"
 platform: "skellis mailing list"
-status: "in-progress"
-status-updated: "20211216"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 tags: []
 ---

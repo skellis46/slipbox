@@ -40,6 +40,8 @@ _consider:_
 - [[direct experience through the senses]]
 - [[human experience and language]]
 - [[without symbolic mediation]]
+- [[to define the meaning of we]]
+- [[humans blush]]
 
 
 _source:_ [jacobs_tending_2018](zotero://select/items/1_35HBH6EZ)

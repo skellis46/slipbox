@@ -26,13 +26,8 @@ _consider:_
 - [[tarkovsky and the indivisible image]]
 - modes of presentation in practice-research
 
-_return links:_
 
 _source:_ unknown, available at Coventry University library (physical book)      
-
-_local link:_ N/A
-
-_zotero link & citekey:_ [barker_tactile_2009](zotero://select/items/1_AGI2LELH)  
 
 _reference:_ Barker, Jennifer M., 2009. _The Tactile Eye: Touch and the Cinematic Experience_. Berkeley, CA: University of California Press.
 

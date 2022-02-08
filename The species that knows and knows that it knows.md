@@ -1,8 +1,7 @@
-	---
+---
 aliases: []
 tags: [embodiment]
-type: "atomic"
-status: "in-progress"
+type: "evergreen"
 ---
 
 # the species that knows and knows that it knows

@@ -1,4 +1,11 @@
+---
+type: "literature"
+---
+
 # Ladkin, McKay and Bojesen - Against Value, Introduction
+
+_previous note:_ [[art and culture glue human relations]]
+
 > Whether utilised by those with elistist or least non-egalitarian ideological programmes in mind or by those wishing, broadly, to pursue an amiable impulse to defend the humanising effect of the arts and education, value, helped by the audit culture, which is its regulatory ecosystem, damages that which it seeks to measure.[p.1]
 
 > [how arts and education] can be motivated by or incorporate a critique of value or values and how previous defences of the arts and education too often depend upon uncritical notions of value. *Against Value* probably sounds like a counter-intuitive way to go about describing and defending the value of anything. And it is.[p.2]

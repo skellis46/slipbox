@@ -5,8 +5,6 @@ author: "Harmony Bench"
 year: "2020"
 title: "Perpetual Motion: Dance, Digital Cultures, and the Common"
 type: "literature"
-current-status: "in-process"
-updated: "20210824"
 ---
 
 

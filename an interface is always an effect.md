@@ -14,7 +14,7 @@ An interface, for Galloway, is "not a thing, an interface is always an effect. I
 
 _thoughts & links:_
 
-- #moving-camera-bodies 
+- [[moving camera bodies]]
 
 
 

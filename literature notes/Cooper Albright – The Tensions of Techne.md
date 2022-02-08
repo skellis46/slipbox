@@ -1,15 +1,15 @@
 ---
 aliases: []
-tags: [two_women_dancing]
+tags: [lithium-dancing]
 author: "Cooper Albright, Ann"
 year: "2012"
 title: "The Tensions of Technē: On Heidegger and Screendance"
 type: "literature"
-current-status: 
-updated: "20210511"
 ---
 
 # Cooper Albright – The Tensions of Techne
+
+_previous note:_ [[Gelassenheit]]
 
 
 >Thus, as people around me chatted about so-and-so’s new film, or the latest politics of the latest curator at the latest screenings, I was busy looking out for the ways in which the act of filming dance was implicated in the screened representation and how the ubiquity of screens in contemporary dance affects how we watch movement. That is to say, I have become interested not only in what we are seeing (a particular filmmaker’s signature, the long shots, the jump cuts, the choreography, etc.), but in how the very structure of our seeing (both on and off the screen) has been affected by filmic technologies. As we enter the second decade of the twenty-first century, I believe that we must think seriously about the implications of the increasing presence of screens in the dance field as a whole. In other words, how has looking at dance on screen made us look at dance on stage differently? [p.21]
