@@ -24,13 +24,7 @@ _consider:_
 - [[search for truth]]
 
 
-_return links:_
-
 _source:_ n/a     
-
-_local link:_ [noauthor-2020-instrumental.pdf](hook://file/l75yeuWVe?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=noauthor-2020-instrumental.pdf)  
-
-_zotero link & citekey:_ [noauthor_instrumental_2020](zotero://select/items/1_DJ9C4HP6) 
 
 _reference:_ Instrumental and intrinsic value [WWW Document], 2020. Wikipedia. URL <https://en.wikipedia.org/wiki/Instrumental_and_intrinsic_value> (accessed 12 June 2020).
 
