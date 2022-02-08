@@ -12,7 +12,7 @@ The OODA loop is a cycle of observe -- orient -- decide -- act, and it was devel
 
 ---
 
-_original source/found:_ n/a
+_original source/found:_ unknown
 
 _reference:_ noauthor. ‘OODA Loop’. Wikipedia, November 2021. [https://en.m.wikipedia.org/wiki/OODA_loop](https://en.m.wikipedia.org/wiki/OODA_loop).
 
