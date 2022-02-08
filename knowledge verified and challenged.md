@@ -14,10 +14,7 @@ I'm yet to see any such thing.
 
 _questions & thoughts:_
 
---- 
-
-_consider:_
-
+- see [[understanding is liberation from the old]] for Huxley's ideas that hint at 'understanding' not being an ideal word.
 - [[art as source of knowledge]]
 - #finger-pointing-moon 
 - #practice-research 

@@ -5,6 +5,8 @@ tags: []
 
 # types of understanding
 
+_previous note:_ 
+
 Philosopher Emma C. Gordon's overview of the "epistemic state or states of understanding"[@gordon-nodate-understanding] is comprehensive.  
 
 She describes three types of understanding:

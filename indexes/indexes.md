@@ -1,6 +1,7 @@
 # indexes
 
-#index 
+#mainindex
+
 
 - [[index -- truth and research]]
 - [[index -- the limits of language]]
