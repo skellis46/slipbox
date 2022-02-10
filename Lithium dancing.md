@@ -1,12 +1,13 @@
 ---
 aliases: []
-type: "article"
+tags: [published]
 platform: "ijsd"
-status: "submitted"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
 # Lithium dancing (hidden in plain sight)
+
+_previous note:_ [[security and surveillance]]
 
 ## Keywords
 

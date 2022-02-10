@@ -8,7 +8,7 @@ _previous note:_ [[Heidegger's standing reserve]]
 
 [[bringing-forth vs challenging-forth]]
 
- [[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. 
+[[Heidegger's standing reserve]]. See p.31 of [jacobs-2021-from]. They become standing reserve for TikTok. 
 
 As social media subjects they are standing reserve; mere commodities for ... But as human beings, they are not.[@jacobs-2021-tech p.31]
 

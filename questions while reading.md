@@ -39,8 +39,6 @@ _source:_ unknown
 
 _local link:_ [ahrens-2017-how.epub](hook://file/lRSdYh2RT?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=ahrens-2017-how.epub)
 
-_citekey & zotero link:_ [ahrens_how_2017](zotero://select/items/1_RFS2KGG9)
-
 _reference:_ Ahrens, S., 2017. How to Take Smart Notes: one simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace, North Charleston, SC.
 
 

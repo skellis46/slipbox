@@ -5,17 +5,17 @@ author: "Laura Schmalzl, Mardi A. Crane-Godreau, and Peter Payne"
 year: "2014"
 title: "Movement-based embodied contemplative practices: definitions and paradigms"
 type: "literature"
-status: "in-progress, gardening"
-updated: "2021-10-12"
 ---
 
 #  Schmalzl - Movement-based embodied contemplative practices
+
+_previous note:_ [[the enactive approach]]
 
 Schmalzl, Mardi, Crane-Godreau and Payne discuss embodied cognition in relation to what they call movement-based embodied contemplative practices. The writing is an overview of the neuroscientific research on the mechanisms and effects of these practices. The authors say that their task is "one of translation—the translation of phenomena and theories emerging from one world-view into a language based on a very different world-view."[@schmalzl-2014-movementbased p.4]
 
 > Over the past decades, cognitive neuroscience has witnessed a shift from predominantly abstract and computational views of the mind, to more embodied and situated views of the mind.[@schmalzl-2014-movementbased p.1]
 
-Schmalzl dentifies Varela as one of first to introduce term _embodied mind_ (p.1), and _enactive approach_:
+Schmalzl identifies Varela as one of first to introduce the term _embodied mind_ (p.1), and _enactive approach_:
 
 > According to the “enactive approach” to cognition (Thompson and Varela, 2001; Thompson, 2005; Di Paolo and Thompson, 2014), living beings are autonomous agents that actively generate and maintain their physical and psychological identities, and that enact their cognitive domains through their activities. As such, the enactive approach postulates that human beings exists intrinsically as embodied beings, and that mental functions such as perception, cognition and motivation, cannot be fully understood without reference to the physical body as well as the environment in which they are experienced (Varela et al., 1991; Thompson, 2007).[@schmalzl-2014-movementbased p.1]
 

@@ -2,10 +2,11 @@
 aliases: []
 tags: []
 type: "evergreen"
-status: "nascent"
 ---
 
 # the radical hypothesis of embodiment
+
+_previous note:_ [[situated and embodied cognition]]
 
 > The most exciting idea in cognitive science right now is the theory that cognition is embodied. It is, in fact one of the things interested lay people know about cognitive science, thanks to many recent high profile experiments. These experiments claim to show (1) how cognition can be influenced and biased by states of the body (e.g., Eerland et al., 2011) or the environment (Adam and Galinsky, 2012) or (2) that abstract cognitive states are grounded in states of the body and using the former affects the latter (e.g., Lakoff and Johnson, 1980, 1999; Miles et al., 2010).[@wilson-2013-embodied p.1]
 

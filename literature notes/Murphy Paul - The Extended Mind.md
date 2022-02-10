@@ -9,6 +9,8 @@ type: "literature"
 
 # Murphy Paul - The Extended Mind
 
+_previous note:_ [[situated and embodied cognition]]
+
 ## Prologue
 > I encountered his words as I was working on a chapter about how bodily movement affects the way we think. The quote from Nietzsche appears in a book titled A Philosophy of Walking, by the contemporary French philosopher Frédéric Gros; Gros has his own thoughts to add. Don’t think of a book as issuing only from an author’s head, he advises. “Think of the scribe’s body: his hands, his feet, his shoulders and legs. Think of the book as an expression of physiology. In all too many books the reader can sense the seated body, doubled up, stooped, shriveled in on itself.”
 > My seated body shifted guiltily in its chair, which it had occupied all morning.
