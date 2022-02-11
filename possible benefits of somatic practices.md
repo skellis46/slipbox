@@ -19,6 +19,9 @@ _previous note:_ [[basic questions about somatic practices]]
 - improved "complex thought through inter-subjective de-conditioning processes" [@kampe-2015-eros p.200] (Feldenkrais)
 - Feldenkrais Method "offers a pedagogical foundation for the vitalising and integration of the learners’ sexually potent self into training and performance processes"[@kampe-2015-eros p.200]
 - "enhanced sense of agency and social complicity by providing conditions for a fleshing out of the 'erotic as power'"[@kampe-2015-eros p.201]
+- improved "functioning of the mind-body" (Feldenkrais wanted this)[@mattes-2016-attentional p.260]
+- (re Feldenkrais): "enhance people’s awareness of their habitual solutions to motor problems and the sensations accompanying those habits, demonstrate other solutions, and help students select easier, more efficient, and more effective movement options."[Buchanan and Ulrich (2001), in @mattes-2016-attentional p.261]
+
 
 --- 
 
