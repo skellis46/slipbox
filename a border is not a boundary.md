@@ -17,6 +17,7 @@ _thoughts & links:_
 - or between professional artists and academic artists
 - thinking also of Jacobs' use of the terms [[doxa and habitus]] and how these are methods of creating boundaries; they are not places to intermingle. They are powerful forces of separation.
 - also relates to [[questioning our beliefs]] and how beliefs are about community (boundary) building ... about "being part of something"[@godin_dancing_2020 n.pag.]
+- [[the infinite game#^6ad5a3]] -- "finite games having temporal, spatial and numerical boundaries, while infinite games do not."[@carse-1986-finite p.9] Two things to consider: 1) to investigate the line(s) between infinite and finite games as being a border rather than a boundary (as Sennett describes them); 2) perhaps this thinking re boundaries and borders is useful for [[the custodians]].
 
 ---
 
