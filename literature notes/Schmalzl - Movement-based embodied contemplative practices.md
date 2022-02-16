@@ -21,6 +21,7 @@ Schmalzl identifies Varela as one of first to introduce the term _embodied mind_
 
 - this enactive approach seems more or less the same as embodied cognition, but 'enaction' implies that it's only a part of [[4e cognition]]
 - [[senses united by action]] (Tversky)
+- able to fit in around [[six views of embodied cognition]]??
 
 > Such practices involve putting oneself into a state of receptivity and surrendering to the spontaneous movement that arises. Overtly, these movements may resemble animal movements, Taijiquan forms, or Yoga asanas and mudras. In other cases however, the “movement” is purely internal, involving vivid interior sensations of heat, vibration, “energy” currents, and even changes in experienced bodily shape and spatial extension. During infant development, spontaneous involuntary movement precedes controlled voluntary movement and the development of a sense of agency (Sheets-Johnstone, 1999). That is, an infant’s experience of “movement occurs” precedes the experience of “I move” (Haselager et al., 2012). We suggest that MECPs involving spontaneous movement may therefore allow a constructive regression to early stages of development of voluntary motor control, and a consequent re-modeling of the sense of agency.[@schmalzl-2014-movementbased p.2]
 

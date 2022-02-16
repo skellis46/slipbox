@@ -16,6 +16,9 @@ Peter-Paul Verbeek's mediation theory views technologies as "as mediators of hum
 
 [^2]: <https://ppverbeek.org/mediation-theory/>
 
+- 20220216 - reminded here rather explicitly of Rheinberger's idea of technical objects
+	- [[epistemic things and technical objects]] 
+	- [[epistemic things, technical objects and Duchamp]]
 
 ---
 

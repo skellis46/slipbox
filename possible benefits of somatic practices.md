@@ -23,11 +23,20 @@ _previous note:_ [[basic questions about somatic practices]]
 - (re Feldenkrais): "enhance people’s awareness of their habitual solutions to motor problems and the sensations accompanying those habits, demonstrate other solutions, and help students select easier, more efficient, and more effective movement options."[Buchanan and Ulrich (2001), in @mattes-2016-attentional p.261]
 
 
+
 --- 
 
 - what do any of these mean? Perhaps _postural adaptations_ is clear, also "improved mobility" (neither of which are particularly focused or precise).
+- noting from Hillier and Worley that they make a distinction between generic learning and self-improvement and a healing or disease-specific mechanism of action.[@hillier-2015-effectiveness p.10]
+- therapeutic and educational benefits[@mullan-2014-somatics p.254]
+- psychotherapeutic benefits (Johnson and Hanna - see Mullans, p.255
 
 
 ## science literature
 
+- improved balance: "[t]here is further promising evidence that the Feldenkrais Method may be effective for a varied population interested in improving functions such as balance."[@hillier-2015-effectiveness p.10] -- I found this cited in Mattes [-@mattes-2016-attentional p.266]
+- improved balance from Alexander technique [@mattes-2016-attentional p.263]
+- improved gait behaviour (Alexander) [@mattes-2016-attentional p.263]
+- decreased back pain (Alexander) [@mattes-2016-attentional p.263]. None of these three (re Alexander were statistically significant, although promising with back pain)
+- 
 

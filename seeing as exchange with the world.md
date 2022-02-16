@@ -24,7 +24,7 @@ _questions & thoughts:_
 
 _consider:_
 
-- taking a look at Dana Ballard and _embodiment level_ in robotics
+- taking a look at Dana Ballard and _embodiment level_ in robotics: 20220214 - looked at original and far too technical to my needs/experience.
 - [[conversation and understanding]] and the ways in which this dynamic exchange with the world functions epistemically (??)
 
 
