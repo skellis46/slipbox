@@ -17,6 +17,7 @@ _thoughts & links:_
 
 - [[pressure, stress and strain - the body in time]]
 - [[this body]]
+- [[nature, art and habitat proposal]]
 
 
 ---

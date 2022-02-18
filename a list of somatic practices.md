@@ -25,18 +25,20 @@ Somatics is a "name and theoretical umbrella"[Johnson, in @mullan-2014-somatics 
 - Aston-Patterning
 - Bartenieff Fundamentals
 - Continuum
-- Eutony
+- Eutony (Gerda Alexander)
 - Hanna Somatic Education
 - Ideokinesis (Mabel Todd)
 - Integrated Movement
 - Kinetic Awareness
 - Pilates
 - ROM Dance
-- Sensory Awareness
+- Sensory Awareness (Charlotte Selver - via work of Elsa Gindler [@mullan-2014-somatics p.262])
 - Soma Neuromuscular Integration
 - Rosen Method
 - Topf Technique
 - major part of this list is from Mullan [-@mullan-2014-somatics p.254] who cites Allison (1999) and Knaster (1996)
+- Mullan also lists body psychotherapy practices and systems (there are a lot), pp.258-259
+- 
 
 Noting that in science I've seen these kinds of practices called:
 1. _body awareness-enhancing therapies_ ([journals.plos.org/plosone/article?id=10.1371/journal.pone.0048230](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048230))

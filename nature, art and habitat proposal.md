@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [nahr]
 tags: [published]
 type: "proposal"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl

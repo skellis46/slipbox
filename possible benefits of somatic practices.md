@@ -21,8 +21,19 @@ _previous note:_ [[basic questions about somatic practices]]
 - "enhanced sense of agency and social complicity by providing conditions for a fleshing out of the 'erotic as power'"[@kampe-2015-eros p.201]
 - improved "functioning of the mind-body" (Feldenkrais wanted this)[@mattes-2016-attentional p.260]
 - (re Feldenkrais): "enhance people’s awareness of their habitual solutions to motor problems and the sensations accompanying those habits, demonstrate other solutions, and help students select easier, more efficient, and more effective movement options."[Buchanan and Ulrich (2001), in @mattes-2016-attentional p.261]
-
-
+- learn newly [Eddy, 2009, p. 6 in @mullan-2014-somatics p.256]
+- become pain free [Eddy, 2009, p. 6 in @mullan-2014-somatics p.256]
+- move more easily [Eddy, 2009, p. 6 in @mullan-2014-somatics p.256]
+- do our life work more efficiently [Eddy, 2009, p. 6 in @mullan-2014-somatics p.256]
+- perform with greater vitality and expressiveness [Eddy, 2009, p. 6 in @mullan-2014-somatics p.256]
+- better coordination [Batson & Schwartz, 2007, in @mullan-2014-somatics p.257]
+- efficiency of movement [Batson & Schwartz, 2007, in @mullan-2014-somatics p.257]
+- recovery from injury [Batson & Schwartz, 2007, in @mullan-2014-somatics p.257]
+- greater physical expression [Batson & Schwartz, 2007, in @mullan-2014-somatics p.257]
+- developing spatial awareness [Batson & Schwartz, 2007, in @mullan-2014-somatics p.257]
+- refining sensory (proprioceptive) experience [Batson & Schwartz, 2007, in @mullan-2014-somatics p.257]
+- physical harmony [@mullan-2014-somatics p.259]
+- 
 
 --- 
 
@@ -38,5 +49,5 @@ _previous note:_ [[basic questions about somatic practices]]
 - improved balance from Alexander technique [@mattes-2016-attentional p.263]
 - improved gait behaviour (Alexander) [@mattes-2016-attentional p.263]
 - decreased back pain (Alexander) [@mattes-2016-attentional p.263]. None of these three (re Alexander were statistically significant, although promising with back pain)
-- 
+- see also in [[Ahmadi - Comparison of the effects of the Feldenkrais method]] -- big +1 for FM
 
