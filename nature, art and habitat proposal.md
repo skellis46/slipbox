@@ -93,6 +93,12 @@ But, above all, I want to participate in the community in the Taleggio valley, t
 > Priority of selection will be given to proposals that demonstrate direct engagement with the surrounding nature and human habitat, through both objectives and methods, and to those that reveal the ability to leave a mark on the Taleggio Valley.   
 > If external funding is available to applicant please indicate it at the end of the project proposal page.
 
+
+a) _Relationship to soil:_ The physical practice will explore a slow motion descent or collapse from walking to standing to lying inert on the earth and soil (and then in reverse). It will become a representation of how all life returns to the soil, and a manifestation of gravity's role in drawing the human body towards the earth. 
+
+(b) _Body Performing Nature domain:_ This was a misunderstanding on my part. My research practice in the proposal is already rooted in the performing body, but the outcome I proposed is digital moving image (time-lapse video and photography). In addition to the moving image I would like to propose a participatory performance in which all the artists on residency experience and 'perform' an adaptation of the physical practice themselves: the gravity, the effort, and the descent to soil.
+
+
 _Soil as deep time. Soil as a memory keeper. Soil as a future protector. Soil as planet._ 
 
 This research project is called _Footfall_ and it is about time. The project reveals my desire to understand, interpret and represent a temporal scale of the human body that is out of step with ecological time. The research will be built on the rhythm of human walking and how this action -- a simple cyclical pattern of the body falling and catching itself -- might frame the more complex and less visible rhythms of the earth and its soil. The strike of the heel that starts the sound of footfall in human walking marks a quintessential meeting point or interface between the anthropic and natural worlds. When we walk, we trample the soil and leave a metaphorical and literal footprint as a register of human impact. But it is also through walking that we humans most directly feel this "critical zone just beneath our feet."[^critical] 
