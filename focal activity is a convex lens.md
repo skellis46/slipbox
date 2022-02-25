@@ -15,7 +15,7 @@ O'Brien cites Borgmann as follows: "[Reading] is a focal activity that collects 
 
 _thoughts & links:_
 
-- The metaphor absorb's Ginot's concern that [[there is no natural soma]] because it brings instruments, practices (etc) together 
+- The metaphor absorbs (not sure what I mean by this) Ginot's concern that [[there is no natural soma]] because it brings instruments, practices (etc) together. 
 
 ---
 

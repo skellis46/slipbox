@@ -24,14 +24,14 @@ Philosopher Aaron Kerr describes that Borgmann's task regarding technology and c
 
 >invite society to consider just how everyday life is oriented to technology -- in short to inspire a more intentionally aware approach to technological usage, making it secondary to other practices involving more communal, conversational, and contemplative activities.[@kerr_borgmann_2016 pp.59-60]
 
-
-
-
 _questions & thoughts:_
 
 - I'm interested in the 'technology' of the cloister. This is the ways in which -- thinking of Jacobs in [[mythical vs technological core of culture]] and how technology involves manipulation -- the cloister is in itself a technology. This is where Borgmann's writing is not specific enough about what he means by technology.
 - but also perhaps the artistic/poetic possibilities of the cloister -- a place for the "splendour of the simple"
-- regarding cloister and intentional attitude towards technology, see chapter in [Digital Minimalism]([newport-2019-minimalism.epub](hook://file/wwhShJKse?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=newport-2019-minimalism.epub)) on the Amish and their intentional attitude to new technologies and their effects on the community
+- regarding cloister and intentional attitude towards technology, see chapter in Newport's _Digital Minimalism_ on the Amish and their intentional attitude to new technologies and their effects on the community
+- [[kerr - borgmann on merton]]
+- [[Merton - Elected Silence]]
+- [[a border is not a boundary]]
 
 --- 
 

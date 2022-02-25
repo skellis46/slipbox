@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: []
+tags: [somatics]
 type: "evergreen"
 ---
 
@@ -29,7 +29,7 @@ Somatics is a "name and theoretical umbrella"[Johnson, in @mullan-2014-somatics 
 - Hanna Somatic Education
 - Ideokinesis (Mabel Todd)
 - Integrated Movement
-- Kinetic Awareness
+- Kinetic Awareness (See [https://doi.org/10.1386/jdsp.4.2.211_1](https://doi.org/10.1386/jdsp.4.2.211_1))
 - Pilates
 - ROM Dance
 - Sensory Awareness (Charlotte Selver - via work of Elsa Gindler [@mullan-2014-somatics p.262])

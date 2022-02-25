@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: []
+tags: [somatics]
 type: "evergreen"
 ---
 
@@ -19,8 +19,9 @@ Mehling's suggests that experienced body awareness practitioners might add a fif
 
 5. non-conceptual awareness of body and mind as one
 
-Mehling questions the logic of the linear progression, but even more difficult is 'capturing' any development for research purposes.[@mehling-2020-if pp.254-255]
+Mehling questions the logic of the linear progression, but even more difficult is 'capturing' any development for research purposes.[@mehling-2020-if pp.254-255] It certainly seems as if [[Mehling - Multidimensional Assessment of Interoceptive Awareness]] has quite strong connections with these stages of development from Gadow (1980):
 
+Gadow, S. (1980). Body and self: A dialectic. Journal of Medicine and Philosophy, 5(3), 172–185. PubMed ID: 6162903 <doi:10.1093/jmp/5.3.172>
 
 ---
 

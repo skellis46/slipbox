@@ -18,7 +18,7 @@ _previous note:_ [[history of somatics]]
 	- enhanced [[interoception]]
 5. What changes in the capacity to sense the body are able to be quantified (or even just described qualitatively)?
 	+ Multidimensional Assessment of Interoceptive Awareness Questionnaire. I first read of this in [[Ahmadi - Comparison of the effects of the Feldenkrais method]]. The test is here: <https://osher.ucsf.edu/research/maia>
-	+ heartbeat perception task. First came across this in Christensen et al [@christensen-2018-can]
+	+ heartbeat perception task. First came across this in Christensen et al [@christensen-2018-can] - learned of that paper in Lynette Fisher undergrad publication re Gaga called "Listening to my body"
 	+ proprioceptive awareness. First seen for me in Kiefer et al [@kiefer-2013-lowerlimb]. An enormous amount of literature on dancers and balance (not specifically somatic training)
 6. is it plausible to imagine one somatic practice as being representative or paradigmatic of them all? 
 

@@ -4,11 +4,11 @@ _previous note:_ [[practice of somatic movement education and therapy]]
 
 ---
 
-Mehling writes how interoception can be narrowly and broadly defined. Narrowly, it can be defined as "the perception of physical sensations from inside the body and includes sensations related to internal organ function, such as heartbeat, respiration, satiety, and autonomic nervous sys- tem activity related to emotions"[@mehling-2020-if p.255]. 
+Mehling writes how interoception can be narrowly and broadly defined. Narrowly, it can be defined as "the perception of physical sensations from inside the body and includes sensations related to internal organ function, such as heartbeat, respiration, satiety, and autonomic nervous system activity related to emotions"[@mehling-2020-if p.255]. 
 
 Broadly, Mehling defines it as "any perception that originates inside the body."[@mehling-2020-if p.255]
 
-He includes links to primary research on interoception (narrowly and broadly defined) and notes how research on interoception in the last decade has exploded.
+Mehling links to primary research on interoception (narrowly and broadly defined) and notes how research on interoception in the last decade has exploded.
 
 Note also the distinction between interoceptive accuracy (sensitivity) and awareness (sensibility).[@mehling-2020-if p.255]
 
@@ -27,7 +27,7 @@ Interoception is the conscious or unconscious sense of the internal state of the
 
 _questions & thoughts:_
 
-- when it coems to the skin in 5. the line between exteroception and interoception is not so clear to me. 
+- when it comes to the skin in 5. the line between exteroception and interoception is not so clear to me. 
 
 - #somatics; 
 

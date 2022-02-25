@@ -1,6 +1,6 @@
 ---
 aliases: [nahr]
-tags: [published]
+tags: [artistic-practice, footfall]
 type: "proposal"
 csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---

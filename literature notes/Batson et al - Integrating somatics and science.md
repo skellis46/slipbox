@@ -9,7 +9,11 @@ type: "literature"
 
 > The overall aim is to continue to promote awareness of models of embodiment for the ‘human-being-as-dancer’ by encouraging the next generation of dance science scholars to encompass theories of lived experience alongside objective and quantitative methodologies.[@batson-2012-integrating p.184]
 
+- curious that their concern is not for dance practitioners to embrace science models/thinking??
+
 > The use of the term ‘embodiment’ will be drawn from its scientific framework within cognitive neuroscience to represent a movement within science away from Cartesian dualism between body and mind, towards a more integrative (albeit cognitive) understanding of human existence (Varela et al. 1991; Gibbs 2006). While critics find the construct of ‘embodied cognition’ insufficient in capturing the scope of human movement (Sheets-Johnstone 2011), it represents a radical shift within science in which dance science and somatics could more readily be situated.[@batson-2012-integrating p.185]
+
+- note their concern re cognitive ("albeit cognitive") and [[brain versus body is the new dualism]]
 
 - they go into more detail on p.186 "An Emergent Paradigm"
 - see [[six views of embodied cognition]] for co-author Wilson's perspective on embodied cognition

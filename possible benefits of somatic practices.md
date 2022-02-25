@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: []
+tags: [somatics]
 type: "evergreen"
 ---
 
@@ -33,7 +33,10 @@ _previous note:_ [[basic questions about somatic practices]]
 - developing spatial awareness [Batson & Schwartz, 2007, in @mullan-2014-somatics p.257]
 - refining sensory (proprioceptive) experience [Batson & Schwartz, 2007, in @mullan-2014-somatics p.257]
 - physical harmony [@mullan-2014-somatics p.259]
-- 
+- profound and multiple learning difficulties (PMLD)?? -- Lamond, [https://doi.org/10.1386/jdsp.1.2.225_1](https://doi.org/10.1386/jdsp.1.2.225_1)
+- "help women with breast cancer deal with the symptoms of their treatments" - [https://doi.org/10.1386/jdsp.4.2.211_1](https://doi.org/10.1386/jdsp.4.2.211_1)
+- "challenge the dominant discourses" re sexual abuse: [https://doi.org/10.1386/jdsp.7.1.21_1](https://doi.org/10.1386/jdsp.7.1.21_1)
+- dance to foster critical thinking (not somatics): [10.1080/15290824.2014.907497](10.1080/15290824.2014.907497)
 
 --- 
 
@@ -50,4 +53,6 @@ _previous note:_ [[basic questions about somatic practices]]
 - improved gait behaviour (Alexander) [@mattes-2016-attentional p.263]
 - decreased back pain (Alexander) [@mattes-2016-attentional p.263]. None of these three (re Alexander were statistically significant, although promising with back pain)
 - see also in [[Ahmadi - Comparison of the effects of the Feldenkrais method]] -- big +1 for FM
+- see large review of science of body awareness in [[Mehling - If It All Comes Down to Bodily Awareness]].
+- what is the mechanism for changes? (assuming changes are real?)
 
