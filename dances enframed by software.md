@@ -12,5 +12,6 @@ My assumed knowledge of what this "play" is for changes how I see what I see. Se
 
 > When we focus on the space around the pieces, we have shifted to the time sensibility of kairos. The space between things matters more than the things themselves. We are thinking less about tinkering with particular objects than about recognizing or influencing the patterns they create and the connections they make.[@rushkoff-2013-present Chapter 4: Fractalnoia—To Be Or Not To Be, n.pag]
 
+- [[technology and truth]]
 
 - this note made from [[Lithium dancing]] edit bin

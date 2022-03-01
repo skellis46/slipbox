@@ -4,9 +4,15 @@ _previous note:_ [[listening and curiosity]]
 
 ---
 
-John Keats coined the term _negative capability_ to refer to the capacity to be in doubt, uncertainty and doubt without needing fact or reason. These are people who "are able to cope with contradictory ideas and gray areas."[@murphy_youre_2020 Chapter 7, n.p.]
+John Keats coined the term _negative capability_ to refer to the capacity to be in doubt and uncertainty without needing fact or reason. These are people who "are able to cope with contradictory ideas and gray areas."[@murphy-2020-you Chapter 7, n.pag.]
 
-Murphy states that negative capability (known as cognitive complexity in psychology) is "positively related to self-compassion and negatively related to dogmatism".[@murphy_youre_2020 Chapter 7, n.p.]
+The Keats definition is:
+
+> when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason.[^1]
+
+[^1]: [nesslabs.com/negative-capability](https://nesslabs.com/negative-capability)
+
+Murphy states that negative capability (known as cognitive complexity in psychology) is "positively related to self-compassion and negatively related to dogmatism".[@murphy-2020-you Chapter 7, n.pag.]
 
 _questions & thoughts:_
 
@@ -23,10 +29,6 @@ _consider:_
 
 
 _source:_ unknown
-
-_local link:_ [murphy-2020-youre.epub](hook://file/lTkXHj6RP?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=murphy-2020-youre.epub)
-
-_citekey & zotero link:_ [@murphy_youre_2020](zotero://select/items/1_B8Z9V7XR)
 
 _reference:_ Murphy, Kate, 2020. _You’re Not Listening: What You’re Missing and Why it Matters_, Celadon Books, New York.
 

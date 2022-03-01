@@ -1,5 +1,7 @@
 # the bias of technology is to copy
 
+_previous note:_ [[swarms in liquid modernity]]
+
 > And this is sort of unsupervised ways [of using technology] that reveal the underlying tendency or leaning the technologies have, and they all have leanings. They're biased in certain directions. So what I'm looking for is the biases in technologies and the biases — to give you an example, it's like copying. Right? And so the thing about the Internet, it's the world's largest copy machine. It wants to copy everything. If it can be copied and it touches the Internet, it will be copied. [00:04:35]
 
 > And so the bias is to copy it, your computer's copying just in a day-to-day basis. When it goes across the Internet, it's been copied thousands of times. That's just how the thing is set up. And so companies like music company— [00:05:03]

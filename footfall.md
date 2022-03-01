@@ -8,6 +8,8 @@ type:
 
 _previous note:_ [[nature, art and habitat proposal]]
 
+This is a collection of notes, ideas and links in preparation for Footfall residency.
+
 - sounds of digging
 - holding a shovel
 - site already dug? 
@@ -19,7 +21,7 @@ _previous note:_ [[nature, art and habitat proposal]]
 > We could also look at the cultural resonance of time capsules, consider the visual rhetoric of climate change animations, and analyze various artists’ and designers’ attempts to create clocks of the Anthropocene.[@mattern-2017-time n.pag.]
 
 - fascinated by visual rhetoric of climate change animations
-
+- see [[in our bodies as a question]] re living in our bodies as a question
 
 
 - [[20200827 - it's all imagined]]

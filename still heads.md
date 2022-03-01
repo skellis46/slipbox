@@ -9,6 +9,8 @@ status-updated: "20220222"
 
 # still heads
 
+_previous note:_ [[movement is the principal function of the nervous system]]
+
 Here are 19 seconds of a Red-tailed Hawk filmed by Bill Bryant. It's exquisite.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBwfj0d-5LQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
