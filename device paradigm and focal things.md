@@ -30,17 +30,11 @@ _consider:_
 - [[without symbolic mediation]]
 - [[gestell and enframing]]
 - [[instrumental extrinsic value definition]]
-- [ ] scan Borgmann's Technology and the Character of Contemporary Life (1984) to decide if warrants detailed reading: [borgmann-1984-technology.pdf](hook://file/nqMct1Yyk?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=borgmann-1984-technology.pdf)
-
-_return links:_
+- scan Borgmann's Technology and the Character of Contemporary Life (1984) to decide if warrants detailed reading: [borgmann-1984-technology.pdf](hook://file/nqMct1Yyk?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=borgmann-1984-technology.pdf)
 
 
 
-_source:_  unknown   
-
-_local link:_ [noauthor-2020-device](hook://file/kxDLnIfG7?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=noauthor-2020-device.pdf)
-
-_zotero link & citekey:_ [noauthor-2020-device](zotero://select/items/1_RWWSGIMK)
+_source:_  unknown 
 
 _reference:_ Device Paradigm [WWW Document], 2020. Wikipedia. URL <https://en.wikipedia.org/wiki/Device_paradigm> (accessed 8 June 2020).
 

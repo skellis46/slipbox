@@ -7,6 +7,7 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # nature, art and habitat proposal
 
+_previous note:_ [[footfall]]
   
 ## Biography
 

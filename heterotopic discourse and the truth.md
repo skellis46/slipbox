@@ -6,7 +6,7 @@ _previous note:_ [[search for truth]]
 
 In a post titled _On Triggering and the Triggered, Part 4_ British Christian blogger Alaister Roberts writes about heated debates and arguments. He notes that "the problem of offence"[@roberts_triggering_2012 n.p.] is created because of differing degrees of personal investment in a situation. The more investment, the closer that person is to the theme of the argument, and the more difficult it is for that person to establish some distance from the theme for "conventional disputation".[@roberts_triggering_2012 n.p.] Differences between parties in an argument are heightened by the "absence or decay of trust"[@roberts_triggering_2012 n.p.] which expose our vulnerabilities and produce more reactive forms of conversation.
 
-Roberts describes two constrasting forms of discourse:
+Roberts describes two contrasting forms of discourse:
 
 >The first mode of discourse [values] sensitivity, inclusivity, and inoffensiveness [and the] second mode of discourse [is] characterized and enabled by personal detachment from the issues under discussion, involving highly disputational and oppositional forms of rhetoric, scathing satire, and ideological combativeness. 
 

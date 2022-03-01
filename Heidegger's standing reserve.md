@@ -5,8 +5,7 @@ tags: [lithium-dancing]
 
 # Heidegger's standing reserve
 
-> There is a whole economic system here of which the forester has willy-nilly become a part. Trees make timber, which makes cellulose, which makes paper, which makes newspapers—and because the process is repeated and ongoing, all that material has to be held in “standing-reserve,” that is, regarded as a resource waiting to be used. And so too the forester. Now, as a human being he is not mere standing-reserve; but as a forester he is. Sturt’s account of the transformation of the craft of the wheelwright provides an equally vivid account of this situation.[@jacobs-2021-tech p.31]
-
+> There is a whole economic system here of which the forester has willy-nilly become a part. Trees make timber, which makes cellulose, which makes paper, which makes newspapers—and because the process is repeated and ongoing, all that material has to be held in “standing-reserve,” that is, regarded as a resource waiting to be used. And so too the forester. Now, as a human being he is not mere standing-reserve; but as a forester he is. Sturt’s account of the transformation of the craft of the wheelwright provides an equally vivid account of this situation.[@jacobs-2021-tech p.31] 
 ^763ca9
 
 - [[gestell and enframing]]
@@ -23,9 +22,8 @@ Jacob's quotes Blitz:
 
 _thoughts & links:_
 
+- see also Daniel Lehewych's excellent summary of enframing and standing reserve: <https://daniellehewych.medium.com/martin-heidegger-and-the-social-dilemma-acd6daa6ec56>
 
-
-- #unfinished 
 
 ---
 

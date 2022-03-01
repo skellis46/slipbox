@@ -11,8 +11,8 @@ Heidegger's concept of enframing -- _gestell_ -- comes from his 1954 book _The Q
 
 _questions & thoughts:_
 
-- compare with thinking on the _[[body of the film]]_ where we can't see this _body_  but rather what it makes possible
-- excellent summary of enframing and the essence of technology by Daniel Lehewych at [daniellehewych.medium.com/martin-heidegger-and-the-social-dilemma-acd6daa6ec56](https://daniellehewych.medium.com/martin-heidegger-and-the-social-dilemma-acd6daa6ec56).
+- compare with thinking on the [[body of the film]] where we can't see this _body_  but rather what it makes possible
+- excellent summary of concepts of [[gestell and enframing]]) and the essence of technology by Daniel Lehewych at [daniellehewych.medium.com/martin-heidegger-and-the-social-dilemma-acd6daa6ec56](https://daniellehewych.medium.com/martin-heidegger-and-the-social-dilemma-acd6daa6ec56).
 
 --- 
 
