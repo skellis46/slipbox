@@ -37,11 +37,7 @@ _consider:_
 - [[culture, assumptions and beliefs]]
 
 
-_source:_ <https://isteve.blogspot.com/2012/12/intellectual-discourse-taking.html> via Lesswrong.
-
-_local link:_ [roberts-2012-on.pdf](hook://file/mfQn9IULp?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=roberts-2012-on.pdf)
-
-_citekey & zotero link:_ [@roberts_triggering_2012](zotero://select/items/1_YQP267BC)
+_original source:_ <https://isteve.blogspot.com/2012/12/intellectual-discourse-taking.html> via Lesswrong.
 
 _reference:_ Roberts, A., 2012. On Triggering and the Triggered, Part 4. Alastair’s Adversaria. URL <https://alastairadversaria.com/2012/08/07/of-triggering-and-the-triggered-part-4/> (accessed 21 July 2020).
 
