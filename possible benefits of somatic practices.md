@@ -37,6 +37,7 @@ _previous note:_ [[basic questions about somatic practices]]
 - "help women with breast cancer deal with the symptoms of their treatments" - [https://doi.org/10.1386/jdsp.4.2.211_1](https://doi.org/10.1386/jdsp.4.2.211_1)
 - "challenge the dominant discourses" re sexual abuse: [https://doi.org/10.1386/jdsp.7.1.21_1](https://doi.org/10.1386/jdsp.7.1.21_1)
 - dance to foster critical thinking (not somatics): [10.1080/15290824.2014.907497](10.1080/15290824.2014.907497)
+- See Eddy 2009 on p.8 (wow!)
 
 --- 
 

@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [nature]
 tags: [artistic-practice, footfall]
 type: 
 ---

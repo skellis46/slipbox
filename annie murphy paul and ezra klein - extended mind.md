@@ -1,6 +1,10 @@
 # annie murphy paul and ezra klein - extended mind
 
+This is a series of quotes drawn from Ezra Klein interviewing Annie Murphy Paul.
+
 https://www.nytimes.com/2021/07/20/opinion/ezra-klein-podcast-annie-murphy-paul.html
+
+[[dead note tracy]]
 
 > And so when we think of ourselves as loopy creatures, we can kind of create those loops where we’re passing information and ideas in and out of these different domains — the body, spaces, other people’s minds — and then back through our own heads. And that’s a much more fertile and generative way of dealing with information than just always keeping it inside our own heads where it’s not going to be changed or altered or improved in any way. Murphy Paul
 
