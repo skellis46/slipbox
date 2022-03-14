@@ -7,7 +7,7 @@ tags: []
 
 >According to Carl Moustakas (1994), a heuristic journey begins when the researcher encounters a question or a problem that engages his or her attention within his or her experiential world.
 
-
+I think the name is Clark ;-)
 
 ---
 

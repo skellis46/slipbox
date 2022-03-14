@@ -133,7 +133,7 @@ NAHR is sharing! https://nahr.it
 To be a body performing _out of time in the time of_ nature.
 
 - To be sensitive to the [[moral and ethical implications of our tools]]
-- stress / softness -- this is the corporeal research: to inhabit (and render) ecological time. Slow slow slow. Long traditions in dance and performance, Butoh. "the timeless present we call now";[Kabat-Zinn in @mindfulnessappsswedenab-2021-jon n.pag.] where we breathe and move out of clock time and into non-judgemental awareness. But in different frames/perspectives and the time of the time-lapse (.) 
+- stress / softness -- this is the corporeal research: to inhabit (and render) ecological time. Slow slow slow. Long traditions in dance and performance, Butoh. "the timeless present we call now";[Kabat-Zinn in @mindfulnessappsswedenab-2021-jon n.pag.] where we breathe and move out of clock time and into non-judgemental awareness. But in different frames/perspectives and the time of the time-lapse (.)  ^735453
 
 
 Such practices have a long history in dance and performance, from Butoh to Rosemary Lee's Meltdown.[^melt]

@@ -12,17 +12,17 @@ Collins' contribution to scholarship on the sociology of scientific knowledge ce
 
 > In other words, you had to know what the correct outcome should be before you could know whether the experiment had been competently performed — but this is impossible when the correct outcome is what is in question.[Collins, in @collins-2022-science n.pag.] 
 
-- [[culture, assumptions and beliefs]]
-- [[how informs what and this produces culture]]
-- [[art and culture glue human relations]]
-- [[Postman - Technopoly]]
+- [[culture, assumptions and beliefs]] re carrying on assuming
+- [[how informs what and this produces culture]] re something about convenience in culture (this is a stretch)
+- [[art and culture glue human relations]] - not clear to me how this relates but leaving it here as I think about the culture of scientific knowledge
+- [[Postman - Technopoly]] - re inviting a close examination of its own consequences
 - [[Hui - Cosmotechnics as Cosmopolitics]] - variance between cultures
 
 ---
 
 _original source/found:_ 
 
-_reference:_ 
+_reference:_ Collins, H. and Mills, M.A. (2022) ‘Science as Craftwork with Integrity’. _The New Atlantis_ Winter (67), 53–70. [thenewatlantis.com/publications/science-as-craftwork-with-integrity](https://www.thenewatlantis.com/publications/science-as-craftwork-with-integrity)
 
 
 

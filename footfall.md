@@ -10,6 +10,8 @@ _previous note:_ [[nature, art and habitat proposal]]
 
 This is a collection of notes, ideas and links in preparation for Footfall residency.
 
+- see [[footfall - description, biography and engagement]] for brief description in Italian and English.
+
 - sounds of digging
 - holding a shovel
 - site already dug? 

@@ -12,6 +12,8 @@ Jacobs writes that, according to Kołakowski, technology is:
 
 This definition is not necessarily a negative thing, and nor does it only include tools. For instance, Jacobs writes that (some) philosophy and the sciences are technological in that they "are governed by instrumental, analytical forms of reasoning by which we seek some measure of control."[@jacobs_after_2019 p.3]
 
+"the discursive rationality of the technological core"[@jacobs-2020-paradoxical n.pag.]
+
 In contrast, the mythical core of culture is an aspect of experience "not subject to manipulation, because it is prior to our instrumental reasoning about our environment."[p.3] Crucially, any attempt to describe the experience (in any terms, for example will, desire, or meaning) is a way to try and compress or force the mythical core into the technological core.
 
 

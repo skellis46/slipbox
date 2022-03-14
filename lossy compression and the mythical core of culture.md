@@ -1,6 +1,6 @@
 # lossy compression and the mythical core of culture
 
-_previous note:_ [[jacobs - wokeness and myth]]
+_previous note:_ [[wokeness and myth]]
 
 ---
 

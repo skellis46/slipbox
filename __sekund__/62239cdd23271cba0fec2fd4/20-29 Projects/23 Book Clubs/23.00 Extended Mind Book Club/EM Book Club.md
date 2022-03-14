@@ -12,8 +12,8 @@ Continuing to meet on Saturdays.
 
 ## Immediate Goals
 
-- [ ] Testing out Sekund.
-- [ ] Getting the books.
+- [x] Testing out Sekund.
+- [x] Getting the books.
 	- [[annie murphy paul and ezra klein - extended mind]]
 
 ## Collecting What We've Learned so Far

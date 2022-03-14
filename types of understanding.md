@@ -5,7 +5,7 @@ tags: []
 
 # types of understanding
 
-_previous note:_ 
+_previous note:_ [[understanding is liberation from the old]]
 
 Philosopher Emma C. Gordon's overview of the "epistemic state or states of understanding"[@gordon-nodate-understanding] is comprehensive.  
 
@@ -30,7 +30,7 @@ Concerning objectual understanding Gordon also discusses the perceived epistemic
 _thoughts & links:_
 
 - see for example Noë's analysis of understanding why a joke is funny in [[a case for writing in practice-research]] and also in [[art as source of knowledge]], and in [[conversation and understanding]]
-- the critical question for me is to be clear how understanding is different know from knowledge
+- the critical question for me is to be clear how understanding is different know from knowledge: see perhaps [[understanding is liberation from the old]] (Huxley)
 - compare with [[gadamer and understanding as an event]] and how it seems to differ inconsequentially from objectual understanding
 - worth noting how common it is (or at least it seems to be) in practice-research for the words _knowledge_ and _understanding_ to be lumped together. See [[borgdorff - debate on research in the arts#^e4ce42]]
 - see Scrivener in [[scrivener - transformational practice]] and development of understanding through art

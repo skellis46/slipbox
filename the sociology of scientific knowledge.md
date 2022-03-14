@@ -14,9 +14,7 @@ At first, science seemed to exist outside of this idea; scientific knowledge was
 
 The sociology of scientific knowledge is an attempt to understand the ways in which science practices and understandings are socialised and encultured. It is discussed in a conversation between M. Anthony Mills (editor for The New Atlantis) and sociologist of science Harry Collins. 
 
-Collins' contribution to this scholarship centred on the concept of the [[experimenter's regress]]. He found that repeating scientific experiments depended on some form of local socialization or the transfer of tacit knowledge. However, there is no test for this type of socialization except for the results of an experiment being correct (ie repeating previous research):
-
-> In other words, you had to know what the correct outcome should be before you could know whether the experiment had been competently performed — but this is impossible when the correct outcome is what is in question.[Collins, in @collins-2022-science n.pag.] 
+Collins' contribution to this scholarship centred on the concept of the [[experimenter's regress]]. 
 
 > Sociology of scientific knowledge caused a huge fuss because its relativism seemed to put science’s ability to stand above the sociology of knowledge in doubt — it seemed to challenge the idea that science is exceptional. At best, the methodology had uncovered uncertainty where before there had been a kind of “magical” certainty surrounding scientific truth. When one investigated science in real time, or with the right kind of historical sensibility, you found that things were never as clear as they were in the retrospective myths.[Collins, in @collins-2022-science n.pag.]
 

@@ -120,6 +120,8 @@ Becker, E. (1997; originally published in 1973). Denial of death. New York: Free
 
 > I was able to track down some of the B-exercises that Maslow was working on during the last few years of his life. I include some of them here in the hopes that they can further help you in your own journey of integration, wholeness, and transcendent experience. Feel free to return to these again and again, as they are timeless.
 
+^1a5ce6
+
 > Sample things.
 > Keep your eye on the ends, not only on the means.
 > Fight familiarization. Seek fresh experiences.
