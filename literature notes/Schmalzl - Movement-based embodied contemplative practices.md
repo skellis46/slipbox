@@ -34,7 +34,7 @@ Schmalzl identifies Varela as one of first to introduce the term _embodied mind_
 
 - this default mode network is fascinating. Less self-centred! 
 
-> Regardless of the specific underlying mechanisms, for most practitioners of MECPs contemplation represents the cultivation of sustained attention and equanimity (Desbordes et al., 2014), that for some has the ultimate aim of transforming habitual self- identity (akin to most seated meditation practices). [@schmalzl-2014-movementbased p.3]
+> Regardless of the specific underlying mechanisms, for most practitioners of MECPs contemplation represents the cultivation of sustained attention and equanimity (Desbordes et al., 2014), that for some has the ultimate aim of transforming habitual self-identity (akin to most seated meditation practices).[@schmalzl-2014-movementbased p.3]
 
 
 

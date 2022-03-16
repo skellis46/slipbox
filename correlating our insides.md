@@ -18,6 +18,11 @@ I've been reading a lot of science lately; mostly neuroscience to do with a thin
 I know some of you will be able to read that information as if you were a musician reading a musical score, but surely there are more accessible ways of communicating what differences might exist between two groups or populations?
 
 
+https://www.statisticshowto.com/cohens-d/
+https://dataschool.com/fundamentals-of-analysis/correlation-and-p-value/
+https://www.scribbr.com/statistics/standard-error/
+https://www.talkstats.com/threads/p-values-correlation-analysis-and-sample-size.24461/
+https://blog.minitab.com/en/adventures-in-statistics-2/understanding-analysis-of-variance-anova-and-the-f-test
 
 
 - [[interoception]]

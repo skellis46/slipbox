@@ -5,6 +5,8 @@ tags: []
 
 # an artist confronts their experiential world by means of a craft
 
+_previous note:_ [[the Dao of butchering cows]]
+
 Marjatta Saarnivaara uses the word _artist_, based on Juha Varto's work, as someone who "confronts her experiential world by means of a craft and without exerting any conscious conceptual influence and who draws on it to create something new."[@saarnivaara-2003-art p.582]
 
 She then writes: "Thus, anyone can be an artist."(p.582)

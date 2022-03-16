@@ -12,6 +12,8 @@ _previous note:_ [[definition of mindfulness]]
 
 Mehling writes how, neurologically, body awareness is the part of [[proprioception]] and [[interoception]] that we can be aware of. Contrast this with interoceptive information that is not conscious.
 
+- see list of names for _somatics_ in science literature in [[a list of somatic practices]]
+
 ---
 
 _original source/found:_ by chance while in Locate (CovUni library) looking for stuff on Feldenkrais in science.

@@ -20,10 +20,10 @@ This is a collection of notes, ideas and links in preparation for Footfall resid
 - circadian rhythms
 - "The timetable, with its disciplined layout, reinforced a disciplining of human bodies"[@mattern-2017-time n.pag] -- thinking about timelapse and disciplining the body
 
-> We could also look at the cultural resonance of time capsules, consider the visual rhetoric of climate change animations, and analyze various artists’ and designers’ attempts to create clocks of the Anthropocene.[@mattern-2017-time n.pag.]
+> We could also look at the cultural resonance of time capsules, consider the visual rhetoric of climate change animations, and analyze various artists’ and designers’ attempts to create clocks of the Anthropocene.[@mattern-2017-time n.pag.] ^35a573
 
 - fascinated by visual rhetoric of climate change animations
-- see [[in our bodies as a question]] re living in our bodies as a question
+- see [[in our bodies as a question]] re living in our bodies as a question and shedding our outer skin
 
 
 - [[20200827 - it's all imagined]]
