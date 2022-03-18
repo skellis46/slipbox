@@ -11,6 +11,10 @@ platform: "JDSP"
 > [Somatic discourses] cover the world of their tautology, ignoring what is unfamiliar to them and creating a system of reference centered on itself.[@ginot-2010-shusterman p.21]
 
 
+ 
+
+
+
 - could start with list of efficacy just from V1.1? 
 
 ## naming the somatic practices
@@ -26,6 +30,7 @@ In volume 1 issue 1 of this journal, Sandra Eddy's brief history of somatic prac
 - based on going through every article in every issue in JDSP. Not exhaustive in the sense that other claims are made in other journals (e.g. dance and psychotherapy), but it's a start.
 - useful summary at beginning of [[ginot - epistemology of somatics]] -- describes pedagogic, better (more virtuosic) dancing, injury prevention and rehab
 - "sometimes overzealous and too narrowly optimistic stances towards somatics" (written as a counter to this)[@fortin-2017-looking p.146]
+- "And institutionally, we have defined body practice through a need for efficiency, efficacy, and maximum performance."[@green-2007-american n.pag]"
 
 ## placing myself in this field
 
@@ -43,9 +48,15 @@ Ginot describes the imperative for somatic practices to legitimise themselves. S
 
 - Ginot describes the kind of science used in (what she calls) endogenous somatic discourse (see p.13 -- discourses of the professional world) as representing "a form of homogeneous, nonhistoricized, almost eternal truth."[@ginot-2010-shusterman p.15]
 
-- compare with [[Batson et al - Integrating somatics and science]] and their effort to integrate science (but so oddly). As if they are increasing the system of reference centred on itself.
+- compare Ginot with [[Batson et al - Integrating somatics and science]] and their effort to integrate science (but so oddly). As if they are increasing the system of reference centred on itself.
 
-Batson plays a key role in bridging science and somatic worlds. 
+Batson plays a key role in bridging science and somatic worlds. In [[Batson et al - Integrating somatics and science]] they urge dance research to integrate phenomenological and scientific ways of understanding experience; to use an interdiscipinary approach[@batson-2012-integrating p.190] Is JDSP the journal for that? Batson et al touch on history of connection between science and somatics, but Green[@green-2007-american] (who they cite) goes further:
+
+> Where the dance sciences seek objective truths, somatics may not seek truth, as measurable facts, but as how one constructs the body itself from a subjective viewpoint.[@green-2007-american n.pag]
+
+- Given Green's statement here why then do we make so many unfalsifiable claims about the efficacy of somatics? It also fails to account for more recent (??) acknowledgement of how [[interoception]] helps create sense of self. 
+- Am I suggesting here that interoception is a powerful bridge? (wary of how fashionable research into interoception is)
+- re efficacy see above quote from Green and how we have "defined bodily practice"
 
 Introduce Ginot's appraisal of somatic practices dependence on science -- such a strange relationship.
 
