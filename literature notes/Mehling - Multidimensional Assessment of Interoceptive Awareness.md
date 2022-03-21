@@ -12,7 +12,7 @@ _previous note:_ [[basic questions about somatic practices]]
 
 > it is important to note that objective assessments of interoceptive accuracy only poorly correlate with self-reported interoceptive awareness or sensibility.[@mehling-2020-if p.256]
 
-The current version (2.0) of test -- available from [osher.ucsf.edu/maia.](https://osher.ucsf.edu/maia.) -- has 37 items:
+The current version (2.0) of test -- available from [osher.ucsf.edu/maia.](https://osher.ucsf.edu/maia) -- has 37 items:
 
 - Noticing (4 items): the awareness of uncomfortable, comfortable, and neutral body sensations
 - Not-distracting(6items):the tendency not to ignore or distract oneself from sensations of pain or discomfort

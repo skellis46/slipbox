@@ -19,7 +19,7 @@ type: "literature"
 - curious that their concern is not for dance practitioners to embrace science models/thinking?? "presenting a model for somatics in dance science" (p.184)
 
 - They use the term somatics not to refer to a specific practice but rather as a "more focused application of mind-body theories within dance practice and research" (pp.184-185)
-- describe how dance science is relatively new (p.185) but ignore fact that kinesiology and movement sciences been around for a lot longer
+- describe how dance science is relatively new (p.185) but ignore fact that kinesiology and movement sciences been around for a lot longer. Perhaps this relates to Green's work [@green-2007-american] in which dance science and somatics developed at the same time and got stuck together. It is indeed a curious moment. 
 
 
 
