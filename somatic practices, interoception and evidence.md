@@ -13,8 +13,6 @@ platform: "JDSP"
 
  
 
-
-
 - could start with list of efficacy just from V1.1? 
 
 ## naming the somatic practices
@@ -62,10 +60,15 @@ Introduce Ginot's appraisal of somatic practices dependence on science -- such a
 
 >  In sum, the scientific discourse used in somatic practices is not necessarily a guarantee of the scientific value of the work engaged in, and even less so of the potentially scientific attitude of its author. The function of science is neither to introduce doubt, nor to situate somatics within current scientific debates. Somatics does not depend on traditional scientific procedure that would require the description of experiments, the determination of the limits of validity of an argument, or the possible presentation of contradictory hypotheses. The function of science within somatics is to foster belief.[@ginot-2010-shusterman p.15]
 
-"The function of science within somatics is to foster belief"[@ginot-2010-shusterman p.15]. true stories are stories that are believed in. [[search for truth]] but also debate on [[internalism and externalism in epistemology]] -- something about how science functions? 
+"The function of science within somatics is to foster belief"[@ginot-2010-shusterman p.15]. true stories are stories that are believed in! [[search for truth]] but also debate on [[internalism and externalism in epistemology]] -- something about how science functions? 
 
 > The function of science within somatics is to foster belief. Whereas somatic practice incessantly exposes differences in and the immaterial and elusive nature of sensing, scientific discourse inscribes vertiginous individual experience into a larger scheme whose uniformity promotes generalization. Somatics induces us to believe in the "scientific," universal, and "provable" nature of experience, in order to provide a stable collective context for what is fundamentally an unstable, highly individualized experience.[@ginot-2010-shusterman p.15]
 
+Thinking more about belief:
+
+> The field is based on the belief that we have the capacity and personal agency to direct and/or redirect our lives through gentle self-reflexive processes; these processes help us to actively participate in the world, discover more about ourselves, and make change if called to do so.[@williamson-2009-formative p.39]
+
+It's just belief!
 
 
 - strange article by [[Batson et al - Integrating somatics and science]] about 'integration' (when what they are really asking for is for "somatic principles and experiences" (p.185) to get a seat at the table.
@@ -82,19 +85,22 @@ Introduce Ginot's appraisal of somatic practices dependence on science -- such a
 - mechanisms for change. On what grounds are we making claims? 
 - [[ginot - epistemology of somatics]]
 - [[dance and embodiment (working title)]]
+- [[biggs and buchler - eight criteria for practice-based research]] -- thinking about specialist and generalist audiences and being inside and outside that field. That somatics is in on itself and missing too many opportunities
+- failure of EBSCO database searches (unbelievably inconsistent results)
 
 - note heavy (is that correct?) presence of Feldenkrais and Alexander in science literature. See [[ginot - epistemology of somatics#^ad8209]] -- Ginot claims because of empirical results. This is important -- sense of something observable (interoception is increasingly becoming part of that empirical world)
 
 ## interoception is almost missing (interoceptive isn't)
 
 - search JDSP database (3 March 2022): 
-	- _interoception_ returns: [@weig-2021-novel], [@moradian-2021-human], [@kussmaul-2021-queer] (only in reference)
-	- _interoceptive_ returns: [@batson-2017-how], [@cohen-2010-sightless], [@eddy-2009-briefa], [@rufo-2020-re], [@davidson-2016-ontological], [@choiniere-2013-methodologya], [@mchugh-2021-embodying]
+	- _interoception_ returns: [@weig-2021-novel], [@moradian-2021-human], [@kussmaul-2021-queer] (only in reference); but also mentioned in [@williamson-2009-formative p.32]
+	- _interoceptive_ returns: [@batson-2017-how], [@cohen-2010-sightless], [@eddy-2009-briefa], [@rufo-2020-re], [@davidson-2016-ontological], [@choiniere-2013-methodologya], [@mchugh-2021-embodying]; also [@williamson-2009-formative] (not mentioned in database search)
 	- _proprioception_ returns: [@rufo-2020-re], [@delima-2013-transmeaninga], [@silveira-2020-somatic], [@mcleod-2020-dance], [@sweeney-2013-topophilia], [@davidson-2016-ontological], [@choiniere-2013-methodologya], [@weig-2021-novel]
 	- _exteroception_ returns: [@davidson-2016-ontological], [@choiniere-2013-methodologya], [@moradian-2021-human]
-	- _exteroceptive_ returns: [@mchugh-2021-embodying], [@davidson-2016-ontological], [@rufo-2020-re], [@choiniere-2018-somatica]
+	- _exteroceptive_ returns: [@mchugh-2021-embodying], [@davidson-2016-ontological], [@rufo-2020-re], [@choiniere-2018-somatica]; note that that Williamson uses the work (see quote below) -- so difficult to trust the search function
+- note that in JDSP I suspect _kinesthetic_ is used instead of interoception (loosely). e.g. in Williamson 2009 (but she also uses the term interoception!): 
+
+> For example, traditional education teaches people to know the world through the exteroceptive system, primarily the visual and auditory. As Tom Myers notes, we learn about our world and what is ‘going on at some distance from our bodies’, and the kinaesthetic sense (what we feel in and through our body) is undervalued (Myers 1998: 102).[@williamson-2009-formative p.33]
 
 - search database _International Bibliography of Theatre & Dance with Full Text_ (10 March 2022):
-	- _interoception:_
-- 
-- why?
+	- _interoception:
