@@ -17,6 +17,7 @@ _questions & thoughts:_
 - #question What body-based assumptions and beliefs are unspoken or taken for granted? 
 - compare with Kahneman's idea that we can't change people's minds (metaphor of spring) in same podcast as [[evidence and protecting the dissenters]] ^4f0c9f
 - Part of ongoing interest in [[cognitive biases]]
+- see also [[doxa and habitus]] and the the role of ritual in creating doxa.
 
 --- 
 

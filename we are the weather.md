@@ -19,7 +19,7 @@ _thoughts & links:_
 - beautiful shift between _make_ and _are_ not so different from I have a body and I am a body in [[pressure, stress and strain - the body in time]]
 - also re non-attachment to the weather as simple example of mindfulness training; see [[sati, mindfulness and remembering]]
 - interpenetration and air in [[the circulation of oxygen]] 
-
+- [[footfall]]
 
 
 ---

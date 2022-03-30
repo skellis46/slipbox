@@ -17,7 +17,6 @@ Originally published in 1985.
 
 The problem is not epistemic partiality but the pretense of certainty. We have much to learn from science. See also [[knowledge that is localised and fleeting]] and [[standpoint epistemology and particular knowledge]]
 
-
 >  A message denotes a specific, concrete statement about the world. But the forms of our media, including the symbols through which they permit conversation, do not make such statements. They are rather like metaphors, working by unobtrusive but powerful implication to enforce their special definitions of reality. Whether we are experiencing the world through the lens of speech or the printed word or the television camera, our media-metaphors classify the world for us, sequence it, frame it, enlarge it, reduce it, color it, argue a case for what the world is like.[@postman-2006-amusing p.10] 
 
 >if we start from the assumption that in every tool we create, an idea is embedded that goes beyond the function of the thing itself.[@postman-2006-amusing p.14] 

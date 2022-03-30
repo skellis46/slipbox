@@ -17,7 +17,7 @@ Has it been ruined though?
 
 _thoughts & links:_
 
-- included here because of the power of skittling everything and being left with ... what? It must have been so tempting in those days to ride that deconstruction wave. To tear everything to bits. To say 'nothing' has any value. It leaves me cold -- the cyncism of it, but also the power of it. 
+- included here because of the power of skittling everything and being left with ... what? It must have been so tempting in those days to ride that deconstruction wave. To tear everything to bits. To say 'nothing' has any value. It leaves me cold -- the cynicism of it, but also the power of it. 
 - 
 
 ---
