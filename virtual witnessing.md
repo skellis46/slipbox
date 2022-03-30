@@ -11,15 +11,8 @@ _previous note:_ [[schwab - experiment]]
 
 >In addition, perhaps the most radical extension of a witnessing public happens when a matter of fact is accepted on the basis of mere description and not direct observation, which Shapin calls ‘virtual witnessing’ (Shapin 1984, 490). To witness, it is claimed, does not require presence, since according to Shapin (1984, 491) ‘we should also appreciate that the text itself constitutes a visual source’. On the most basic level, the insertion of illustrations into the text provides visuality, in particular if images are naturalistic, creating the impression of seeing a document and thus a trace of the actual experiment. Moreover, visuality can also be part of the language itself since it can allow an experiment to be ‘seen’ in one’s imagination. Thus, visuality can be scattered across all the different building blocks of a text. This turns the mind into a form of laboratory where understanding what to do can replace actually doing it, apparently without much epistemic loss.[@schwab_experiment_2015 p.123] 
 
-- paragraph about virtual witnessing (make own note from it): seems to relate to experimenting with documentation in relation to authentic movement #finger-pointing-moon; continues this discussion (about virtual witness -- slightly more clearly) on p.124
+- seems to relate to experimenting with documentation in relation to authentic movement #finger-pointing-moon; continues this discussion (about virtual witness -- slightly more clearly) on p.124
 
----
-
-_thoughts & links:_
-
-
-
-- #unfinished 
 
 ---
 
