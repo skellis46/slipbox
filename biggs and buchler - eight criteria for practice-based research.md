@@ -9,7 +9,7 @@ _previous note:_ [[art practice and artistic research]]
 
 ---
 
-In this article Biggs and Büchler attempt to delineate the nature of PbR -- practice-based research -- by developing a "set of criteria that can be used to delimit the boundaries of research and to identify cases."[@biggs_eight_2008 p.16] In doing so they are attempting to identify what is different or unique about the research down by artists and designers that would "justify the existence of a distinct label such as PbR."[@biggs_eight_2008 p.6] 
+In this article Biggs and Büchler attempt to delineate the nature of PbR -- practice-based research -- by developing a "set of criteria that can be used to delimit the boundaries of research and to identify cases."[@biggs_eight_2008 p.16] In doing so they are attempting to identify what is different or unique about the research done by artists and designers that would "justify the existence of a distinct label such as PbR."[@biggs_eight_2008 p.6] 
 
 Their criteria are divided into two parts. The first are four conditions common to academic research:
 
