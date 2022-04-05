@@ -16,7 +16,8 @@ updated: "2022-01-28"
 ### 1
 
 > In an attempt to answer the critical question, I focus on two observations. One of them relates to the unique anatomical and functional features of the interoceptive nervous system—the system responsible for signaling from the body to the brain. These features are radically different from those that can be found in other sensory channels, and although some of them have previously been documented, their significance has been overlooked. And yet they help explain the peculiar melding of “body signals” and “neural signals” that decisively contributes to experiencing the flesh.
-> Another pertinent observation concerns the equally unique relationship between the body and the nervous system, specifically the fact that the former entirely contains the latter within its borders. The nervous system, including its natural core, the brain, is located in its entirety within the territory of the body proper and is fully conversant with it. As a consequence, body and nervous system can interact directly and abundantly. Nothing comparable holds for the relation between the world external to our organisms and our nervous systems. An astonishing consequence of this peculiar arrangement is that feelings are not conventional perceptions of the body but rather hybrids, at home in both body and brain.
+
+> Another pertinent observation concerns the equally unique relationship between the body and the nervous system, specifically the fact that the former entirely contains the latter within its borders. The nervous system, including its natural core, the brain, is located in its entirety within the territory of the body proper and is fully conversant with it. As a consequence, body and nervous system can interact directly and abundantly. Nothing comparable holds for the relation between the world external to our organisms and our nervous systems. An astonishing consequence of this peculiar arrangement is that feelings are not conventional perceptions of the body but rather hybrids, at home in both body and brain. ^46b1f1
 
 ## 1. On being
 
@@ -28,7 +29,7 @@ updated: "2022-01-28"
 
 > Eventually, when multicellular and multisystem organisms became all the rage—that was about three and a half billion years later—homeostasis was assisted by newly evolved coordinating devices known as nervous systems. The stage was set for those nervous systems to not just manage actions but also represent patterns. Maps and images were on their way, and minds—the feeling and conscious minds that nervous systems made possible—became the result. Gradually, over a few hundred million years, homeostasis began to be partly governed by minds. All that was needed now for life to be managed even better, was creative reasoning based on memorized knowledge. 
 
-- maps and patterns for keynote 
+- maps and patterns for keynote [[pressure, stress and strain - the body in time]]
 
 > Sensing (detecting) is most basic, and I believe it is present in all living forms. Minding is next. It requires a nervous system and the creation of representations and images, the critical component of minds. Mental images flow relentlessly in time and are infinitely open to manipulation so as to yield novel images. As we will see, minding opens the way to feeling and consciousness. There is not much hope of elucidating consciousness if we do not insist on distinguishing these intermediate steps.
 

@@ -21,10 +21,6 @@ type: "literature"
 - They use the term somatics not to refer to a specific practice but rather as a "more focused application of mind-body theories within dance practice and research" (pp.184-185)
 - describe how dance science is relatively new (p.185) but ignore fact that kinesiology and movement sciences been around for a lot longer. Perhaps this relates to Green's work [@green-2007-american] in which dance science and somatics developed at the same time and got stuck together. It is indeed a curious moment. 
 
-
-
-
-
 > The use of the term ‘embodiment’ will be drawn from its scientific framework within cognitive neuroscience to represent a movement within science away from Cartesian dualism between body and mind, towards a more integrative (albeit cognitive) understanding of human existence (Varela et al. 1991; Gibbs 2006). While critics find the construct of ‘embodied cognition’ insufficient in capturing the scope of human movement (Sheets-Johnstone 2011), it represents a radical shift within science in which dance science and somatics could more readily be situated.[@batson-2012-integrating p.185]
 
 - note their concern re cognitive ("albeit cognitive") and [[brain versus body is the new dualism]]
@@ -43,10 +39,10 @@ type: "literature"
 - what is theoretical about science and pragmatic about somatics? 
 
  > this notion of embodiment helps validate first-person narrative and frames it within scientific parlance, and provides context for thinking about the integration of dance science and somatics in theory and in practice.[@batson-2012-integrating p.186]
-- this sums it up really: validation
+- this sums it up really: validation; she is pretty much doing what Ginot is accusing 'somatics' of doing.
 
 > Embodied cognition establishes the role of the body and movement in thinking, learning and meaning-making.[@batson-2012-integrating pp.186-187] 
-- word 'establishes' is fascinating. But, also, what does this mean in practice? That is, so what?
+- word 'establishes' is fascinating. But, also, what does this mean in practice? That is, so what? (validation)
 
 - seems as if much of the writing is based on the premise that we are seeking to understand experience. It's hard to argue against this except what kinds of understanding? What kinds of experience? 
 - this article is broad overview of ways in which dance science and somatics might serve each other in a 'holistic' way: "an integration of lived experience with objective methodologies, each telling its own ‘narrative’ to provide a more coherent whole."[@batson-2012-integrating pp.189-190]

@@ -14,7 +14,7 @@ Mediation analysis is an attempt to explore the underlying mechanism of how one 
 
 ---
 
-_original source/found:_ Mehling
+_original source/found:_ [@mehling-2020-if]
 
 _reference:_ <https://en.wikipedia.org/wiki/Mediation_(statistics)>
 

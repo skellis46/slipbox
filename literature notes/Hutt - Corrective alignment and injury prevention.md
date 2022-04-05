@@ -13,7 +13,7 @@ This is a review article by Kimberley Hutt that explores the ways in which a com
 
 The writing describes how there is little or no evidence (other than anecdotal) that somatic practices decrease the risk of injury (or indeed improve injury recovery), even though Hutt describes many examples of how _sensory awareness_ is seen as fundamental.
 
-- contrast with [[Mehling - If It All Comes Down to Bodily Awareness]]: a comprehensive review of so much clinical work that shows improvement through somatic-based inquiries and practices (and based on idea that increased bodily awareness is underlying cause)
+- contrast with [[Mehling - If It All Comes Down to Bodily Awareness]]: a comprehensive review of so much clinical work that shows improvement through somatic-based inquiries and practices (and based on idea that increased bodily awareness (and hence interoception) is underlying cause)
 - [[five stages of development of body awareness]]
 - [[definition of body awareness]]
 

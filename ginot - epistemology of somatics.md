@@ -16,28 +16,19 @@ Ginot proposes an "epistemology of somatic discourses"[@ginot-2010-shusterman p.
 2. that somatics have acquired status as _alternative knowledge_ that is distinctive from what Ginot calls the normative physical culture;
 3. that somatics itself has become a normative system with its own ideological construction.
 
+>  My hypothesis is the following: be hind the insistence on the singularity of each corporeality, most somatic methods have as a backdrop a homogenous, universal, ahistorical, and occidental body. Furthermore, despite the interest of Feldenkrais and others in the plasticity model—the idea that most human functions are acquired and that the nervous system is in perpetual re-articulation in relation to contextual variation—an essentialist ideal of the body reasserts itself, one that brings with it illusions of the natural and organic.[@ginot-2010-shusterman p.23]
+
 _questions & thoughts:_
 
 - this is a very brief summary of the article. I'll generate other notes that get into specific aspects
-- this is the first substantial and careful critique of many of the central tenets of somatics I've ever read
+- this is the first substantial and careful critique of many of the central tenets of somatics I've read
 - mentions Shusterman's use of [[weber-fechner law]] to support his claims
 
 
-> As in Shusterman's earlier works, Alexander technique and the Feldenkrais Method are explicitly and amply cited in this book. The choice of these two methods is pertinent in the first place because these two men seem to represent a critical mass of respectability in an ocean of somatic studies: this is thanks to their longevity, the number of practitioners that work in their schools, and the empirical results produced from their work.[@ginot-2010-shusterman p.20] 
+> As in Shusterman's earlier works, Alexander technique and the Feldenkrais Method are explicitly and amply cited in this book. The choice of these two methods is pertinent in the first place because these two men seem to represent a critical mass of respectability in an ocean of somatic studies: this is thanks to their longevity, the number of practitioners that work in their schools, and the empirical results produced from their work.[@ginot-2010-shusterman p.20]  ^ad8209
 
-^ad8209
-
-
---- 
-
-_consider:_ 
-
-- to look at the work of Godard who "shifted the question of scientific truth toward that of imaginary production" and I can then relate to Ingold's [[search for truth]]
+- worth looking at the work of Godard who "shifted the question of scientific truth toward that of imaginary production"[@ginot-2010-shusterman p.22]and I can then relate to Ingold's [[search for truth]]
 
 _source:_ Emma Meehan via Microsoft Teams thread, 12 June 2020
-
-_local link:_ [ginot-2010-from.pdf](hook://file/lbAfkD39E?p=RHJvcGJveC9BY3Rpb24=&n=ginot-2010-from.pdf)
-
-_citekey & zotero link:_ [ginot_shustermans_2010](zotero://select/items/1_C3ITT6AR)
 
 _reference:_ Ginot, I., 2010. 'From Shusterman’s Somaesthetics to a Radical Epistemology of Somatics'. _Dance Research Journal 42_, 12–29. <https://doi.org/10.2307/23266984>

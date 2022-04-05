@@ -20,6 +20,7 @@ _questions & thoughts:_
 - This is an 'edge-case' for me really. I've included it as a note because it's really a primary source -- an organisation busy with the business of somatic practices. 
 - there are lots of big words in the ways in which somatics help people
 - do I doubt that it does these things? What are my doubts based on? 
+- perhaps the critical question is about mechanisms for these changes. That is, **how** does somatic movement education function and what evidence is there for this? 
 - there is certainly a lack of precision in the language, as if there is a sense of obfuscation
 
 --- 
@@ -32,8 +33,6 @@ _consider:_
 _source:_ [eddy-2009-brief.pdf](hook://file/ldd5F2AL4?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=eddy-2009-brief.pdf) - p.8
 
 _local link:_ [ismeta-2020-scope.pdf](hook://file/ldd1Q7d9N?p=c2tlbGxpcy9Eb3dubG9hZHM=&n=ismeta-2020-scope.pdf)
-
-_citekey & zotero link:_ [noauthor_scope_2020](zotero://select/items/1_P6BYCU7F)
 
 _reference:_ Scope of Practice [WWW Document], 2020. ISMETA. URL <https://ismeta.org/about-ismeta/scope-of-practice> (accessed 25 June 2020).
 

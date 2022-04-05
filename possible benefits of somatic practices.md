@@ -47,6 +47,9 @@ _previous note:_ [[basic questions about somatic practices]]
 - "the potential to question and critique the dominant social discourse and practices of neo-liberal societies, in which the life of people is increasingly subject to control, surveillance and regulation"[@fortin-2017-looking p.146] -- Fortin mentions 4 others in same paragraph
 - "that through somatics we can exercise individual and collective agency within the constraints of neo-liberal societies, which tend to underestimate social inequalities. Actually, social somatics is expanding into what some call ‘politicized somatics’."[@fortin-2017-looking p.148]
 
+
+- note the basic list of benefits/changes in [[practice of somatic movement education and therapy]]
+
 ## JDSP V1.1
 
 ### Editorial [@whatley-2009-editorial]
