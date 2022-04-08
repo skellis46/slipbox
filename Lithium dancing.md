@@ -15,21 +15,30 @@ social media, digital commons, public commons, technology, myth, algorithms
 
 ## Abstract
 
-In this article I explore screendance's affair with social media, and the logics of production and consumption endemic to dancing for smartphones. I use an incidental encounter with two people making a dance video to try and make sense of the ways in which screendance practices and practitioners are being changed by social media technologies. I use the work of Harmony Bench, Shoshana Zuboff, Alan Jacobs, Zygmunt Bauman, Neil Postman, Yuk Hui and Annie Pfingst and Helen Poynor to help construct a seven-part narrative about how screendance can stop hiding in plain sight and become a set of practices that visibly contradict the extractive datafication of humans in motion. 
+In this article I explore screendance's affair with social media, and the logics of production and consumption endemic to dancing for and with smartphones. I use an incidental encounter with two people making a dance video to try and make sense of the ways in which screendance practices and practitioners are being changed by social media technologies. I use the work of Harmony Bench, Shoshana Zuboff, Alan Jacobs, Zygmunt Bauman, Neil Postman, Yuk Hui and Annie Pfingst and Helen Poynor to construct a seven-part experimental and non-linear narrative about how screendance can become a set of practices that visibly contradict the extractive datafication of humans in motion. 
+
+Part 1 -- _Two young people and their camera_ -- describes the encounter with two people filming their dancing, and serves as the platform on which this writing is based. Part 2 -- _An assumption about what happened next_ -- introduces the theme of hiding in plain sight underpinning theme of the writing key theme of the w of screendance presupposes that these two people were making their screendance for social media
+
+_In which I introduce the central conceit (or assumption) of this article, and use these two young people to stand-in for screendancing on social media._
+
+Part 3 -- _Algorithmic choreography_ -- 
+
+_In which I question who is doing the choreography and just how little social media needs to know in order to know us._
+
+
 
 ---
 
  >the outside world, the non-digital world, is merely a theatrical space in which one stages and records content for the much more real, much more vital digital space.
  
- -- Bo Burnham [-@burnham-2021- n.pag]
+ -- Bo Burnham [-@burnham2021a]
+ 
 
 > Here indeed, the whole mechanism of the operation is invisible to the viewer: the deepest darkness reigns: suddenly, a ghost appears, far, far away at first, appearing as a point of light to the audience. But it soon grows, becomes bigger and bigger and seems to approach slowly at first, to then rush towards the spectators: the illusion is total.
 
--- Victor de Moléon (1836) [in @chateau-2016-screensa pp.49-50] [^mm]
-
-[^mm]: Check re MM
+-- Victor de Moléon (1836) [in @chateau-2016-screensa pp.49-50]
  
-## Two young people and their camera
+## 1. Two young people and their camera
 
 _In which I describe an actual event that prompted this thinking and writing._
 
@@ -43,13 +52,13 @@ The dancing is mostly movement in the head and neck; rolling the head side to si
 
 By this stage I am some way past where it is they are dancing. It has been no more than three minutes since I first saw them. 
 
-## An assumption about what happened next
+## 2. An assumption about what happened next
 
 _In which I introduce the central conceit (or assumption) of this article, and use these two young people to stand-in for screendancing on social media._
 
 In Volume 11 of IJSD—_Expanded Screendance_—Katrina McPherson noted Douglas Rosenberg's description of screendance as "the most invasive of all arts species" that "has been hiding in plain site since well before there was a critical mass of interest in the form, even before it was named as such."[Rosenberg, in @mcpherson-2020-walking p.55] Then, Volume 12 of IJSD—_This is where we dance now: COVID-19 and the new and next in dance onscreen_—acknowledged and celebrated screendance's undeniable visibility as people danced and watched dancing through screens during the SARS-CoV-2 pandemic lockdowns. In that same issue, Elena Benthaus described feeling "wary"[@benthaus-2021-this p.283] that screendance was somehow hidden before the virus acted as a great revealer, and outlined how dance fads have long been "circulated by Hollywood musicals and dance films" and TV shows.[@benthaus-2021-this p.283; see also @bench-2020-perpetual p.10]
 
-These descriptions of the practices of screendance being variously hidden, revealed, circulated, and invasive are telling in how those of us interested in screendance narrate or construct its history and practices. Something will always be hiding (in plain sight) if there isn't yet a name for it, or the desire to do that naming. When we name or attach a label to anything we render it visible. 
+These descriptions of the practices of screendance being variously hidden, revealed, circulated, and invasive are telling in how those of us interested in screendance narrate or construct its history and practices. Something will always be hiding (in plain sight) if there isn't yet a name for it, or indeed the desire to do that naming. When we name or attach a label to anything we render it visible. 
 
 This writing is not about the kind of hiding that speaks of screendance's uncertainty about itself and desire for recognition. Instead, it is an attempt to understand what I could not see when I happened across those two young people making dances for their smartphone, and how mechanisms and narratives of _hiding_ might matter to those of us who create screendances. 
 
@@ -59,11 +68,13 @@ My assumption effectively renders these two young people as representations or p
 
 I am agnostic towards social media platforms, but given how much dancing is happening on TikTok[e.g. @blancoborelli-2021-tiktok; @harlig-2021-tiktok; @dexter-2021-dance] I will assume that this was their social media weapon of choice.
 
-## Algorithmic choreography
+## 3. Algorithmic choreography
 
 _In which I question who is doing the choreography and just how little social media needs to know in order to know us._
 
-> embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.[@postman-1993-technopoly p.13]
+> embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another.
+
+-- Neil Postman [-@postman-1993-technopoly p.13]
 
 In _TikTok and Short-Form Screendance Before and After Covid_ the internet anthropologist Crystal Abidin describes how TikTok shapes you "to create content in specific ways", and is "squishing you into a template and teaching you how to perform creativity within a box."[in @harlig-2021-tiktok p.192] If these two people on the common during lockdown—or anyone for that matter—set out to make algorithmically inspired screendance it would likely look like the dancing they were doing, and be shot with the smartphone they were using. I saw their movement-performances-on-repeat without the need to _scroll_ or _refresh_, and I can easily imagine their video likenesses on a small screen: the framing, dancing, music, and virtual stickers, and the desire to share and be seen.
 
@@ -73,7 +84,7 @@ But it is not so dystopic is it? After all, this machine was programmed by human
 
 At the same time, I do not want to overestimate the sophistication of their mathematics; very few data points are required for us to reveal ourselves through social media. The Wall Street Journal has found that although shares, likes, follows and the things you watch play a role in determining one's FYP (For You Page) on TikTok, the platform needs only one piece of data to "figure you out": "how long you linger over a piece of content."[@wallstreetjournal-2021-how n.pag.] We will always linger over the things that attract our attention, whether we are in public or whatever remains of the private. 
 
-## Being in (the) economic common
+## 4. Being in (the) economic common
 
 _In which I think through dancing in common (spaces), the recursive power of Postman's technopoly, and how any discussion of technology is a discussion about economics._
 
@@ -91,27 +102,31 @@ I wonder though what those two young people in the common were really asserting.
 
 For all that Bench so beautifully and diplomatically articulates, my sense is that she leans towards the circulation of dancing through the digital commons as being a good thing for dance.[^hb] The implication is that the circulation and proliferation of humans in motion in the digital common creates positive externalities; that is, by definition, benefits to the public good not mediated through the market. But what of negative externalities? What kind of effluent is created by our digital dancing commons and who eventually pays for it, and when, and how? Even given the implicit or explicit value of the circulation and proliferation of gestures in the digital common, it is worth remembering that all technologies—including those of social media—are developments "largely oriented economically to profit-making"[@weber-1978-economy Part 1, p.67] and that "technology was, is, and always will be an expression of the economic objectives that direct it into action."[@zuboff-2019-age Chapter 1.V The Puppet Master, Not the Puppet: n.pag.] In other words, when we dance with technologies, we dance with profit-making, and perhaps now we are only ever dancing with technologies.
 
-[^hb]: In a personal communication with Harmony Bench in September of 2021 I asked her if she felt my description or _sense_ of her position was accurate. She disagreed and suggested two things: a) that "delicate ambivalence" was more accurate; and b) that if the question were flipped: "Is dance good for social media?" then she would could agree with that.
+[^hb]: In a personal communication with Harmony Bench in September of 2021 I asked her if she felt my description or _sense_ of her position was accurate. She disagreed and suggested two things: a) that "delicate ambivalence" was more accurate; and b) that if the question were flipped: "Is dance good for social media?" then she would agree with that.
 
 In 1993, the technology skeptic Neil Postman coined a word, technopoly, which he describes as "the submission of all forms of cultural life to the sovereignty of technique and technology."[@postman-1993-technopoly p.52] Postman describes technopoly as totalitarian technocracy because it "eliminates alternatives to itself"[@postman-1993-technopoly p.48] by rendering them invisible. Technopoly is a way of culture and thinking in which no matter the question, the answer is technology. Yet, when there is only one answer, the nature of the questions we ask inevitably changes and we create loops of recursion that are both frightening and fascinating.[@turkle-2021-empathy] 
 
-## Myth and the right to a future tense
+## 5. Myth and the right to a future tense
 
 _In which I describe Alan Jacobs' understanding of the value of myth in the technopoly and the understandable temptation to go into hiding._
 
-In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ that, like much of his thinking, calls attention to the power and value of myth making. Jacobs describes how Postman's technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs-2019-technopoly p.4] Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. The mythical core represents those of us "who practice moral life by habits of affection, not by rules."[@jacobs-2019-****technopoly p.4] For Kołakowski, the mythical core of culture is those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-technopoly p.3] In other words, the mythical core—a way of experiencing "nonempirical unconditioned reality"[Kołakowski, in @jacobs-2019-technopoly p.3]—is unable to be pressed into the logic of technology no matter our rational capacities. For Jacobs, the mythical core is a way out of the recursive loop of the technopoly.
+In 2019, the humanities scholar Alan Jacobs wrote an essay called _After Technopoly_ that, like much of his thinking, calls attention to the power and value of myth making. Jacobs describes how Postman's technopoly "arises from the technological core of society but produces people who are driven and formed by the mythical core."[@jacobs-2019-technopoly p.4] Jacobs' thinking about the mythical core is based on the work of the Polish philosopher Leszek Kołakowski. The mythical core represents those of us "who practice moral life by habits of affection, not by rules."[@jacobs-2019-technopoly p.4] For Kołakowski, the mythical core of culture is those experiences that are not able to be manipulated because they are "prior to our instrumental reasoning about our environment."[@jacobs-2019-technopoly p.3] In other words, the mythical core—a way of experiencing "nonempirical unconditioned reality"[Kołakowski, in @jacobs-2019-technopoly p.3]—is unable to be pressed into the logic of technology no matter our rational capacities. For Jacobs, the mythical core is a way out of the recursive loop of the technopoly.
 
 This interplay between rationalism and myth is a key aspect of Jacobs' ongoing thinking. He argues that technocratic rationalism cannot be avoided but rather transcended: "that there is something better, not in opposition to it, but on the other side of it. Something that will in time emerge."[@jacobs-2019-technopoly p.13] This all sounds so easy, perhaps even quaint, but Jacobs also warns that the place for transcending technopoly will be a _hidden place_ because if "transnational technopoly can hunt you down and root you out, it will; and it probably can".[@jacobs-2019-technopoly p.13]
 
 In _Surveillance Capitalism_ Shoshana Zuboff also talks about hiding, and her thinking is similarly bleak when it comes to the future. She writes of the terrible danger that we become accustomed to either life without privacy or the necessity to hide from being seen. She suggests that both alternatives—total transparency or hiding underground—"rob us of the life-sustaining inwardness, born in sanctuary, that finally distinguishes us from the machines."[@zuboff-2019-age Chapter 17.III Every Unicorn Has a Hunter n.pag.] Her perspective is that surveillance capitalism has compromised our right to the future tense. This is the right to make moral decisions free from forces that modify and exploit our behavior, and that function beyond our awareness.
 
-## Hidden in the future
+## 6. Hidden in the future
 
 _In which I zoom out far into the future to remember a screendance and consider what it might mean for those of us here in the present who make screendances._
 
-> [The Robber Barons'] greatest achievement was in convincing their countrymen that the future need have no connection to the past.[@postman-1993-technopoly p.54]
+> [The Robber Barons'] greatest achievement was in convincing their countrymen that the future need have no connection to the past.
 
-> On a long enough timeline, everything becomes obsolete.[@millburn-2021-love n.pag.] 
+-- Neil Postman [-@postman-1993-technopoly p.54]
+
+> On a long enough timeline, everything becomes obsolete.
+
+-- Joshua Millburn and Ryan Nicodemus [-@millburn-2021-love n.pag.] 
 
 The American writer Stewart Brand proposes that there are "six significant levels of pace and size in the working structure of a robust and adaptable civilization".[@brand-2008-clock p.36] From "fast and attention-getting to slow and powerful"[@brand-2008-clock p.36] the six levels are: fashion/art, commerce, infrastructure, governance, culture and nature. Brand writes how the role of fashion and art is essentially to be "quick, irrelevant, engaging, self-preoccupied, and cruel"[@brand-2008-clock p.36] whereas the "vast slow-motion dance"[@brand-2008-clock p.38] of culture operates through centuries and millennia. Brand suggests that together these distinct and contradictory pace layers provide internal negative feedback that stabilizes and affords the health of civilization. 
 
@@ -144,17 +159,17 @@ I like to think that Annie Pfingst and Helen Poynor's sleight of hand was to rec
 In this future or the next, screendance emerged out of the rubble of “life versus the machine”[Paul Kingsnorth, in @jacobs-2021-tech p.28] and humankind's dance with the technological singularity. The singularity—which did not end up happening just in case you were wondering—once described the point at which "ever-more-rapid technological change leads to unpredictable consequences".[@chalmers-2010-singularity n.pag.] The technological singularity is the thing that even back in 2017 Hui was calling a pipe dream. At some point in the 21st century screendance simply refused the "homogeneous technological future"[@hui-2017-cosmotechnics n.pag.] that had been presented to humankind as the only option.
 
 
-## To distill production from consumption
+## 7. To distill production from consumption
 
 _In which I try to draw these threads together through lenses of awe and ambiguity._
 
 > As much as networked technology has dismantled and distributed power in more egalitarian ways, it has also extended and obscured power, making it less visible and, arguably, harder to resist.
 
--- Astra Taylor[in @jacobs-2018-tending n.pag.]
+-- Astra Taylor [in @jacobs-2018-tending n.pag.]
 
 > What was required of the earth so that I might be able to use this technology? [...] Upon what systems, technical or human, does my use of this technology depend? Are these systems just?
 
--- L. M. Sacasas[-@sacasas-2021-questions n.pag.]
+-- L. M. Sacasas [-@sacasas-2021-questions n.pag.]
 
 I recognize that this writing is a rather curious rollercoaster ride through many sources and many ideas. I worry that what I hope is a strength (traversing broad terrain) will be judged as a weakness. Perhaps some of you are still with me. Perhaps I lost others in making the assumption I did about those two young people doing their lithium dancing in the common.
 
@@ -162,16 +177,20 @@ Certainly, this article is filled with the ambivalence generated by my assumptio
 
 Perhaps also the writing reflects my desire to convince readers—particularly those of you who make screendances—that in social media (and the dancing that happens on it) we have acquired a logic of consumption disguised or hidden as a mode of production.[@bauman-2000-liquid] That there is danger in valorizing the making or creativity of these two young people who are proxies for all of us who make screendances to be consumed:
 
-> And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.[@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
+> And it is in our role as producers, not consumers, that we contribute to the common good and win recognition for doing so.
 
-I am proposing that we must seek methods of making that distill production from consumption; that our work is to pry apart the discombobulating effects of screendancing to be seen, and to do this in plain sight. I understand screendance to be a small enough field—and collection of practices—to interrogate and resist the logic of production predicated on consumption. We have talked about such resistance for years as a community but as dance has become more and more visible on social media, the temptation is to celebrate these days in the sun, and turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs-2018-tending n.p.] Western culture's crash zoom to social media since around the introduction of Facebook's Like button in 2009[@alter-2017-irresistible Chapter 5 Feedback, n.pag.] has made the stakes high and ambiguous for screendance: the promise of being transmitted and seen (finally!) at the cost of extractive consumption and the "immediacy of appropriation":[@jacobs-2021-tech p.30]
+-- Michael Sandel [-@sandel-2020-tyranny Chapter 7 Recognizing Work, n.pag.]
 
-> We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_.[@jacobs-2021-tech p.30]
+I am proposing that we must seek methods of making that distill production from consumption; that our work is to pry apart the discombobulating effects of screendancing to be seen, and to do this in plain sight. I understand screendance to be a small enough field—and collection of practices—to interrogate and resist the logic of production predicated on consumption. We have talked about such resistance for years as a community but as dance has become more and more visible on social media, the temptation is to celebrate these days in the sun, and turn our backs on promises to the future in which we "expand our understanding of responsibility to include how our actions effect people we will never meet".[@jacobs-2018-tending n.p.] Western culture's crash zoom to social media since around the introduction of Facebook's Like button in 2009[@alter-2017-irresistible Chapter 5 Feedback, n.pag.] has made the stakes high and ambiguous for screendance: the promise of being transmitted and seen (finally!) at the cost of extractive consumption and the "immediacy of appropriation".[@jacobs-2021-tech p.30]
+
+> We need more lithium today, and merely hope to find greater reserves—or a suitable replacement—tomorrow. This revaluation has the effect of shifting the place of the natural order from something intrinsic to our practices to something extrinsic. The whole of nature becomes what economists tellingly call an _externality_.
+
+-- Alan Jacobs [-@jacobs-2021-tech p.30]
  
 It is simply a coincidence that the extraction of lithium plays a key role in the production of our smartphones that themselves are agents and transmitters of extraction and consumption. Perhaps also it is a coincidence that those two young people dancing with and for their smartphone offered a glimpse (in plain sight) of the thin line between that difficult-to-name thing intrinsic to their playful practice, and the poison of social media's consumptive virality.  
 
 ## Acknowledgments
 
-People whose work I have cited. Am grateful for their scholarship and the influence they've had on my thinking and understanding. Love those silent threads between people and ideas. Harmony.
+I humbly acknowledge the people whose work I have cited. I have done this without their permission, and in many instances pulled their work out of the context in which it was first presented. I am grateful for their scholarship and craft, and the influence they've had on my thinking and understanding. Thank you to Harmony Bench for the endnoted clarification in Part 4 of this writing. Thank you also to the journal's peer reviewers for their generosity and care with the work, and to Kyra Norman for her careful copy-editing to prepare the document for publication in IJSD.
 
-Note that the entire development of _Lithium dancing (hidden in plain sight)_—every edit, tangent, and syntactical tic—is publicly accessible as part of a GitHub repository at [github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md](https://github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md). The working title was _two women dancing_, and the first git commit (or upload to GitHub) was on 7 May 2021 (check this date -- 2021? or 2020?)
+The entire development of _Lithium dancing (hidden in plain sight)_—every edit, tangent, and syntactical tic—is publicly accessible as part of a GitHub repository at [github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md](https://github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md). The working title was _two women dancing_, and the first git commit (i.e. upload to GitHub) was on 7 May 2021. The document was renamed _Lithium dancing_ on 27 September 2021 and all remaining edits are available at [github.com/skellis46/slipbox/blame/master/Lithium%20dancing.md](https://github.com/skellis46/slipbox/blame/master/Lithium%20dancing.md).
