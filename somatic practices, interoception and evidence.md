@@ -12,7 +12,7 @@ platform: "JDSP"
 **Notes from walking 20220401: **
 
 1. claims vs mechanisms
-2. interoception (location in brain) -- but multifaceted. Not just interoception located there (can't remember the article though -- one of recent ones??)
+2. interoception (location in brain) -- but multifaceted. Not just interoception located there  --  citation?
 3. science / somatics
 - *that* something happens versus *how* it happens
 - this *how* is critical in applications of somatics to science
@@ -21,6 +21,7 @@ platform: "JDSP"
 - _what's my end game? what do I want out of this article (thinking of future)?_
 	+ not belief systems
 	+ more of an overview? sci/somaticss -- intero? 
+	+ basis of future bid
 
 Started with doubt, scepticism. But in this writing I bring tremendous respect. Respect for those on the edges -- and perhaps all of somatics exists on those edges. 
 
@@ -35,6 +36,8 @@ Start with that story of being given credit at VCA for a totally different subje
 On the pages of the Journal of Dance and Somatic Practices and elsewhere in dance scholarship, artists, scholars, teachers and practitioners are not shy in claiming the benefits of somatic practices. In fact, such claims are endemic to JDSP; from 
 
 And why wouldn't we be? We believe in the value and importance of these practices -- either collectively or separately. 
+
+Any sign of negativity? Or scepticism? Or even just some limits of what is possible? 
 
 - could start with list of efficacy just from V1.1? or perhaps a sample (taken at random from every volume?)
 - [[possible benefits of somatic practices]]
