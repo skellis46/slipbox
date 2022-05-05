@@ -7,6 +7,8 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # Lithium dancing (hidden in plain sight)
 
+Simon Ellis, Centre for Dance Research (C-DaRE), Coventry University
+
 _previous note:_ [[security and surveillance]]
 
 ## Keywords
@@ -15,23 +17,16 @@ social media, digital commons, public commons, technology, myth, algorithms
 
 ## Abstract
 
-In this article I explore screendance's affair with social media, and the logics of production and consumption endemic to dancing for and with smartphones. I use an incidental encounter with two people making a dance video to try and make sense of the ways in which screendance practices and practitioners are being changed by social media technologies. I use the work of Harmony Bench, Shoshana Zuboff, Alan Jacobs, Zygmunt Bauman, Neil Postman, Yuk Hui and Annie Pfingst and Helen Poynor to construct a seven-part experimental and non-linear narrative about how screendance can become a set of practices that visibly contradict the extractive datafication of humans in motion. 
+In this article I explore screendance's affair with social media, and the logics of production and consumption endemic to dancing for and with smartphones. I use an incidental encounter with two people making a dance video to try and make sense of the ways in which screendance practices and practitioners are being changed by social media technologies. The writing is built on the work of Harmony Bench, Shoshana Zuboff, Alan Jacobs, Zygmunt Bauman, Neil Postman, Yuk Hui and Annie Pfingst and Helen Poynor. I use their scholarship and art to construct an experimental and non-linear seven-part narrative about how screendance can become a set of practices that visibly contradict the extractive datafication of humans in motion. 
 
-Part 1 -- _Two young people and their camera_ -- describes the encounter with two people filming their dancing, and serves as the platform on which this writing is based. Part 2 -- _An assumption about what happened next_ -- introduces the theme of hiding in plain sight underpinning theme of the writing key theme of the w of screendance presupposes that these two people were making their screendance for social media
-
-_In which I introduce the central conceit (or assumption) of this article, and use these two young people to stand-in for screendancing on social media._
-
-Part 3 -- _Algorithmic choreography_ -- 
-
-_In which I question who is doing the choreography and just how little social media needs to know in order to know us._
-
+Part 1—_Two young people and their camera_—describes the encounter with two people filming their dancing, and serves as the platform on which this writing is based. In part 2—_An assumption about what happened next_—I introduce the theme of hiding that runs throughout the article, and make a case for my assumption that these two people were making their screendance for social media. Part 3—_Algorithmic choreography_—introduces the relationship between choreography in screendance and social media algorithms. Part 4—_Being in (the) economic common_—explores the digital commons as outlined by Bench, and its relationship to visibility, technology and profit-making. Part 5—_Myth and the right to a future tense_—discusses Jacobs and Zuboff and how they both deploy _hiding_ to consider a future that transcends technocratic rationalism. In part 6—_Hidden in the future_ I zip forward far into the future and  remember a 2016 screendance work by Annie Pfingst and Helen Poynor. I do this to as a strategy to imagine a non-technocratic world. Finally, part 7—_To distill production from consumption_—describes how, through social media, we in screendance have acquired a logic of consumption disguised or hidden as a mode of production.
 
 
 ---
 
  >the outside world, the non-digital world, is merely a theatrical space in which one stages and records content for the much more real, much more vital digital space.
  
- -- Bo Burnham [-@burnham2021a]
+-- Bo Burnham [-@burnham2021a]
  
 
 > Here indeed, the whole mechanism of the operation is invisible to the viewer: the deepest darkness reigns: suddenly, a ghost appears, far, far away at first, appearing as a point of light to the audience. But it soon grows, becomes bigger and bigger and seems to approach slowly at first, to then rush towards the spectators: the illusion is total.
@@ -191,6 +186,18 @@ It is simply a coincidence that the extraction of lithium plays a key role in th
 
 ## Acknowledgments
 
-I humbly acknowledge the people whose work I have cited. I have done this without their permission, and in many instances pulled their work out of the context in which it was first presented. I am grateful for their scholarship and craft, and the influence they've had on my thinking and understanding. Thank you to Harmony Bench for the endnoted clarification in Part 4 of this writing. Thank you also to the journal's peer reviewers for their generosity and care with the work, and to Kyra Norman for her careful copy-editing to prepare the document for publication in IJSD.
+I acknowledge the people whose work I have cited. I have done this without their permission, and in some instances pulled their work out of the context in which it was first presented. I am grateful for their scholarship and craft, and the influence they've had on my thinking and understanding. Thank you to Harmony Bench for the endnoted clarification in Part 4 of this writing. Thank you also to the journal's peer reviewers for their generosity and care with the work, and to Kyra Norman for her careful copy-editing to prepare the document for publication in IJSD, and for her ongoing stewardship of IJSD.
 
-The entire development of _Lithium dancing (hidden in plain sight)_—every edit, tangent, and syntactical tic—is publicly accessible as part of a GitHub repository at [github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md](https://github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md). The working title was _two women dancing_, and the first git commit (i.e. upload to GitHub) was on 7 May 2021. The document was renamed _Lithium dancing_ on 27 September 2021 and all remaining edits are available at [github.com/skellis46/slipbox/blame/master/Lithium%20dancing.md](https://github.com/skellis46/slipbox/blame/master/Lithium%20dancing.md).
+The entire development of _Lithium dancing (hidden in plain sight)_—every edit, tangent, and syntactical tic—is publicly accessible as part of a GitHub repository at [github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md](https://github.com/skellis46/slipbox/commits/master/two%20women%20dancing.md). The working title was _two women dancing_, and the first git commit (i.e. upload to GitHub) was on 7 May 2021. The document was renamed _Lithium dancing_ on 27 September 2021 and all remaining edits are visible at [github.com/skellis46/slipbox/blame/master/Lithium%20dancing.md](https://github.com/skellis46/slipbox/blame/master/Lithium%20dancing.md).
+
+## Biography
+
+Simon Ellis works with practices of choreography, filmmaking and dance. He was born in the Wairarapa in Aotearoa/New Zealand, but now lives in the UK and works at the Centre for Dance Research (C-DaRE) at Coventry University. He grew up in a family where politicised conversations about human dignity, consumerism and even technology were common. These conversations have shaped his values as an artist, and underpin much of what his practice is about, and how it is conducted. He also thinks about the ways humans might value things that are not easily commodified, and likes to imagine a world filled with people who are sensitive to their own bodies, and the bodies of others. 
+
+Email: [simon.ellis@coventry.ac.uk](mailto:simon.ellis@coventry.ac.uk)
+Website: [www.skellis.net](https://www.skellis.net)
+
+## Notes
+
+
+## References
