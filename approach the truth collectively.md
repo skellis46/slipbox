@@ -20,6 +20,7 @@ _thoughts & links:_
 - Noë on [[rationality and what is likely]]: note connection about noticing biases, and the simple idea to consider what is likely
 - I'm strongly drawn to the sense of the collective here that seems so distinct from groupthink. Check also [[Murphy Paul - The Extended Mind#^6fe10a]] and her description of our suspicion of the collective. There's a paradox here between the collective and groupthink. It's not clear to me.
 - I wonder what the rules of #practice-research might be? I've tended towards principles but could there something tighter or clearer?
+- see also Kahenman's _Noise_ and the wisdom of crowds: [[Kahneman - Noise#^91acfc]]
 
 
 

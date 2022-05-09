@@ -20,6 +20,7 @@ type: "literature"
 - [[contemplation beyond rationalization]]
 - [[device paradigm and focal things]] -- the capacity to attend in somatic sensing
 - [[knifing into parts]]
+- [[Mehling - If It All Comes Down to Bodily Awareness]]
 
 _reference:_ Bermúdez, José Luis. The Bodily Self: Selected Essays on Self-Consciousness. Cambridge, Massachusetts: MIT Press, 2018.
 

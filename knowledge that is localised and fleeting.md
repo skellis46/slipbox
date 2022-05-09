@@ -15,7 +15,7 @@ This is telling -- the idea of knowledge that is localised and fleeting, and the
 
 _thoughts & links:_
 
-- Harford here and McKeever in [[standpoint epistemology and particular knowledge]] both call on Hayek's thinking, and McKeever's thought is that such local understanding or knowledge is not so far from the concept of standpoint epistemology. [[st]]
+- Harford here and McKeever in [[standpoint epistemology and particular knowledge]] both call on Hayek's thinking, and McKeever's thought is that such local understanding or knowledge is not so far from the concept of standpoint epistemology. 
 - the 1945 Hayek article is here: [en.wikipedia.org/wiki/The_Use_of_Knowledge_in_Society](https://en.wikipedia.org/wiki/The_Use_of_Knowledge_in_Society)
 
 ---

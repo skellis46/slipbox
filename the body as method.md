@@ -10,7 +10,7 @@ _previous note:_ [[history of somatics]]
 
 In his introduction to the edited volume _Modes of Knowing: Resources from the Baroque_, the sociologist John Law lists some areas that social science's _modes of knowing_ have the most difficulty with:
 
->BODIES. The idea that the body might be part of method is difficult. ... But despite the exceptions, social science m odes of knowing depend on but also tend to other the methodologically salient body.[@law_modes_2016-1 p.21]
+>BODIES. The idea that the body might be part of method is difficult. ... But despite the exceptions, social science modes of knowing depend on but also tend to other the methodologically salient body.[@law_modes_2016-1 p.21]
 
 
 _questions & thoughts:_

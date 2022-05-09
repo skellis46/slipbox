@@ -27,6 +27,7 @@ _questions & thoughts:_
 - [[somatics is the field which studies the soma]]
 - [[I move precedes I can]]
 - [[Sheets-Johnstone - Why Is Movement Therapeutic?]]
+- [[footfall]] -- on changing and being changed
 
 
 

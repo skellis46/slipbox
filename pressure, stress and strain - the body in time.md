@@ -277,7 +277,7 @@ I'd like to describe two art project ideas -- one imagined, the other started --
 
 {**issa.jpg**}
 
-There is a haiku by the Japanese poet and Buddhist priest Kobayashi Issa (1763-1828). I include it here because some 300 years later it places side by side a simple physical practice that happens to acknowledge the hidden fires that sustain our unsustainable way of life. 
+There is a haiku by the Japanese poet and Buddhist priest Kobayashi Issa (1763-1828). I include it here because some 300 years later it places side by side a simple physical practice that happens to acknowledge the hidden fires that sustain our unsustainable way of life. ^315ee8
 
 {**.hai**}
 
