@@ -20,8 +20,6 @@ directory structure vs search (what he calls "the hot mess approach to informati
 
 > It’s commonly known that the invention of printing in the 15th century was a momentous development in the history of European culture. Elizabeth Eisenstein’s work, especially, made the case that the emergence of printing revolutionized European society. Without it, it seems unlikely that we get the Protestant Reformation, modern science, or the modern liberal order. Illich was not interested in challenging this thesis, but he did believe that the print revolution had an important antecedent: the differentiation of the text from the book.
 
-- [[printing press]]
-
 > They help organize the information in such a way that readers can now dip in and out of what now can be imagined as a text independent of the book.
 
 > The text is information that has lost its body, i.e. the book. According to Illich, until these textual innovations took hold in the 12th century, it was very hard to imagine a text apart from its particular embodiment in a book, a book that would’ve born the marks of its long history—in the form, for example, of marginalia accruing around the main text.

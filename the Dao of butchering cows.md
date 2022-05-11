@@ -29,12 +29,6 @@ Hui writes that when the butcher encounters any difficulty, "he slows down the k
 
 - wondering about directionality -- the flow of the technics/device paradigm squeezing back into their bodies, and how they move. and the flow of the Dao. 
 
-In _The question concerning technology in China: an essay in cosmotechnics_ (2016), Hui distinguishes precisely between technics, techne, and technology: 
-
->technics refers to the general category of all forms of making and practice; techne refers to the Greek conception of it, which Heidegger understands as poiesis or bringing forth; and technology refers to a radical turn which took place during European modernity, and developed in the direction of ever-increasing automation, leading consequently to what Heidegger calls the Gestell.[@hui-2016-question p.4] 
-
-Technology here is akin to what Neil Postman famously called the technopoly.
-
 ---
 
 _thoughts & links:_

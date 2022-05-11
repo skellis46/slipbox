@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [artistic-practice, footfall]
+tags: [in-progress, artistic-practice, footfall]
 type: 
 ---
 
@@ -28,6 +28,9 @@ This is a collection of notes, ideas and links in preparation for Footfall resid
 
 - [[20200827 - it's all imagined]]
 - [[index -- artistic practice]]
+- [[summer sound (poem)]] - a koan I wrote
+
+
 ---
 
 
