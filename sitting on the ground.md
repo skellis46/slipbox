@@ -16,6 +16,7 @@ _thoughts & links:_
 
 - [[sentient performativities - abstract]]
 - [[nature, art and habitat proposal]]
+- [[footfall]]
 
 
 ---

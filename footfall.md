@@ -29,6 +29,12 @@ This is a collection of notes, ideas and links in preparation for Footfall resid
 - [[20200827 - it's all imagined]]
 - [[index -- artistic practice]]
 - [[summer sound (poem)]] - a koan I wrote
+- [[footfall keywords]]
+- [[to find a home in circumstances|sentient performativities]] - very useful ideas re stewarding and researching the body, but also "our fleeting, fragile and rapacious human bodies"
+
+
+## possible titles
+
 
 
 ---

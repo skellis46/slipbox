@@ -10,17 +10,17 @@ _previous note:_ [[the girl is teaching the cat to dance (poem)]]
 
 I wrote this haiku after reading the haiku in previous note.
 
-Summer sound—
+Summer din—
 A man falls to the ground
 Earth pays no mind
 
-I think I prefer "Summer din—"
 
 - [[footfall]]
 
 ## variations
 
 Summer beats—
+Summer sound— (this was original line)
 Summer rhythm—
 Summer heat—
 Warming summer—

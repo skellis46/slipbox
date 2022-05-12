@@ -6,7 +6,7 @@ type: "evergreen"
 
 # collapse is generative
 
-_previous note:_ 
+_previous note:_ [[touching the earth]]
 
 > Collapse can be the most generative experience. We can’t manage an ecosystem! What hubris to think human beings can enter into millions of interconnected, complicated, refluxing, pricking, stinging, collaborating relationships, and manage it. Just as we can’t organise an ecosystem, we can’t plan collapse. We can’t narcissistically techno-fix a way through this. We have to enter into it.
 

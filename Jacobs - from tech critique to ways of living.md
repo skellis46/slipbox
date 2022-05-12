@@ -16,6 +16,7 @@ Jacobs' proposal draws on Yuk Hui's work, and in particular [[Hui - Cosmotechnic
 >The particular tone of the sage’s skepticism is ironic, and the sage is in some essential sense an ironist, but his irony is always directed primarily toward himself. Indeed, this is precisely why people should seek him out to govern them: His primary qualification for office is the gently humorous attitude he takes toward himself, which then extends outward toward our technological “enframing” of the world.[@jacobs-2021-tech p.40]
 
 - thinking here of the tone of my voice in some writing (which was initially [[Lithium dancing]]. What would it be like to smile at the tech and ignore it in this case? To write a section dealing with the mess of nature/stewardly care, but then to ask the reader to ignore it. That that section is a version of myself that is more troubling, less important. Worth ignoring, or perhaps, at best, just smiling at. Can I mock the tech? 
+- regarding the quote re Daoist sage above, see [[the natural world does not question the timing of its birth and death]] and the article in full which discusses the Daoist sage.
 
 ---
 

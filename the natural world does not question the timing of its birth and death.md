@@ -20,13 +20,13 @@ A key aspect of cosmological time -- and in Daosim more broadly -- is that there
 
 Chai includes a story from Daoism’s central text, the _Zhuangzi_, about the death of Zhuangzi's wife, and what he says when asked by a friend why he has stopped grieving:
 
-> I looked back to her beginning and the time before she was born. Not only the time before she was born, but the time before she had a body. Not only the time before she had a body, but the time before she had a spirit. In the midst of the jumble of wonder and mystery, a change took place and she had a spirit. Another change and she had a body. Another change and she was born. Now there’s been another change and she’s dead. It’s just like the progression of the four seasons: spring, summer, fall, winter.
+> I looked back to her beginning and the time before she was born. Not only the time before she was born, but the time before she had a body. Not only the time before she had a body, but the time before she had a spirit. In the midst of the jumble of wonder and mystery, a change took place and she had a spirit. Another change and she had a body. Another change and she was born. Now there’s been another change and she’s dead. It’s just like the progression of the four seasons: spring, summer, fall, winter. ^3d93c5
 
 And so, Chai says, there has never been a time when Zhuangzi's wife did not exist, and what makes her existence and non-existence possible is the Dao. 
 
 > By retraining ourselves to reside in the in-betweenness of things, we can release ourselves from the notion that time is being-centric, and consider the alternative: time is the resting nothingness of the Dao. This non-being is not a nihilistic threat to being but its natural counterpart. As the root of being and non-being, the temporal and spatial nature of the Dao cannot be limited to either of these terms. The Dao, therefore, operates in the time of non-time and resides in the space of non-space.
 
-Before human beings the Dao was unnamed undisturbed and "existed in perfect equanimity and quietude."[@chai-2021-there n.pag] Human beings introduced naming things and the concept of time to try and describe the nature of Dao and, most importantly, "justify our self-elevated standing in the world."[@chai-2021-there n.pag]
+Before human beings the Dao was unnamed, undisturbed and "existed in perfect equanimity and quietude."[@chai-2021-there n.pag] Human beings introduced naming things and the concept of time to try and describe the nature of Dao and, most importantly, "justify our self-elevated standing in the world."[@chai-2021-there n.pag]
 
 
 - [[footfall]]
@@ -34,6 +34,7 @@ Before human beings the Dao was unnamed undisturbed and "existed in perfect equa
 - [[collapse is generative]]
 - [[ancestors provide the range of what it is to be human]]
 - [[a continuation of our ancestors]]
+- [[Jacobs - from tech critique to ways of living]]
 
 ---
 

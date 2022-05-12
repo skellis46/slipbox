@@ -130,10 +130,10 @@ NAHR is participation!
 NAHR is sharing! https://nahr.it
 
 
-To be a body performing _out of time in the time of_ nature.
+To be a body performing _out of time in the time of_ nature. - relates to [[the pivot between being and non-being#^51b019]]
 
 - To be sensitive to the [[moral and ethical implications of our tools]]
-- stress / softness -- this is the corporeal research: to inhabit (and render) ecological time. Slow slow slow. Long traditions in dance and performance, Butoh. "the timeless present we call now";[Kabat-Zinn in @mindfulnessappsswedenab-2021-jon n.pag.] where we breathe and move out of clock time and into non-judgemental awareness. But in different frames/perspectives and the time of the time-lapse (.)  ^735453
+ - stress / softness -- this is the corporeal research: to inhabit (and render) ecological time. Slow slow slow. Long traditions in dance and performance, Butoh. "the timeless present we call now";[Kabat-Zinn in @mindfulnessappsswedenab-2021-jon n.pag.] where we breathe and move out of clock time and into non-judgemental awareness. But in different frames/perspectives and the time of the time-lapse (.)  ^735453
 
 
 Such practices have a long history in dance and performance, from Butoh to Rosemary Lee's Meltdown.[^melt]
@@ -141,14 +141,16 @@ Such practices have a long history in dance and performance, from Butoh to Rosem
 [^melt]: [artsadmin.co.uk/media/documents/promoters/Rosemary%20Lee_Meltdown_Ed.pdf](https://www.artsadmin.co.uk/media/documents/promoters/Rosemary%20Lee_Meltdown_Ed.pdf) 
 
 
-This is a paradox based on a body in presence (expressed as non-judgemental awareness the underpins somatic dance practices)
+This is a paradox based on a body in presence (expressed as non-judgemental awareness that underpins somatic dance practices)
 
-This is a radically analogue human body practicing the non-judgemental awareness the underpins somatic dance practices; it is a body that meets and is sensitive to deep time or the long now. These are bodies as stewards for those organisms yet to exist.
+This is a radically analogue human body practicing the non-judgemental awareness that underpins somatic dance practices; it is a body that meets and is sensitive to deep time or the long now. These are bodies as stewards for those organisms yet to exist. (see [[ancestry is not a lineage]] and [[your body is an ancestor]])
 
 
 that juxtapose .. Their effect will be to radically slow down the body in motion against the seemingly sped-up landscapes of the Taleggio valley. These experiments will happen using wide framings of the natural surrounds, and also tightly framed parts of the body moving in hyper-slow in the soil. 
 
 And under such conditions of stress, strain, and pressure, if we collapse into the various and shiny short-term futures that are always pulling us, cajoling us, haunting us, then I think we fail to understand and indeed experience the body as it is, and the body as a means to be a good ancestor. The body de-instrumentalised is radically in the present of awareness, and is not judged or massaged for other short-term future means. This is a body filled with the humility and dignity of its insignificance, while profoundly aware of bodies yet to be.
+
+20220512 - adding a note here about not wanting to fetishize the body. See [[the natural world does not question the timing of its birth and death#^3d93c5]] and also [[ancestry is not a lineage]] and how the body is subsumed into deeper connective tissues with deep time.
 
 "holding the whole body in awareness"[@mindfulnessappsswedenab-2021-jon] but only in the background. To background these practices against local ecological time. Different framings. 
 

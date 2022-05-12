@@ -16,7 +16,7 @@ csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 In 1849 Thomas E. Warren designed the _Centripetal Spring Armchair_. It was the first chair to combine both wheels and swivelling[^1] and it had a head-rest. Apparently it was so comfortable it was described as immoral.[^2] Contemporary gaming chairs like the _SecretLab Omega 2020_[^3] are direct descendants from Warren's invention. These are extraordinary designs; modern-day thrones in front of which lie the computer and its software as loyal subjects to their king. The _SecretLab Omega 2020_ is a chair that holds its inhabitant ventrally and deploys rigid and ongoing comfort to deny our bodies movement -- except for the eyes and hands. It's a flying machine, a spaceship, a means of porting us into other worlds and then fixing us in them. 
 
-Chairs of all kinds also possess a strange relationship to the earth. They don't normally hold us completely from the ground; they are a strange interface with it in which our feet (in most circumstances) are placed or dangled outliers -- the things that remind our tactile senses that the ground is still there. I wonder how our feet feel when we are sitting: the way they conduct or transmit our bodily selves with the planet. Where do we feel them? Are they resisting or affording movement? Or might they even become the means by which we remember what geochemists call the _critical zone_: that thinest of thin layers of our planet where "everything we care for and everything we have ever encountered exists"?[^4] 
+Chairs of all kinds also possess a strange relationship to the earth. They don't normally hold us completely from the ground; they are a strange interface with it in which our feet (in most circumstances) are placed or dangled outliers -- the things that remind our tactile senses that the ground is still there. I wonder how our feet feel when we are sitting: the way they conduct or transmit our bodily selves with the planet. Where do we feel them? Are they resisting or affording movement? Or might they even become the means by which we remember what geochemists call the _critical zone_: that thinest of thin layers of our planet where "everything we care for and everything we have ever encountered exists"?[^4]  ^2e6eb6
 
 This proposal will employ the chair as an everyday literal and figurative device to understand a key paradox for somatic practices: Where so many body-based practices are predicated on nuanced and refined encounters with presence or awareness, what might the purpose of the body be in artistic research practices that stretch time beyond the limits of a lifetime? My grandmother, the artist Gladys Eastwood (1913-2005), used to sit in her armchair and joke that, "If you are going to have delusions, you may as well have delusions of grandeur." Indeed, it is easy to measure, admire or fetishise the grandeur of the human body's possibilities. But what if the body experienced and imagined through and in time affords us the humility to pay attention to what geologists call _deep time_? What then for how we steward and research the body in motion and the body at rest?
 
@@ -32,11 +32,11 @@ This presentation will use the computer's desktop as a site for performance -- a
 
 ## Other notes and scraps
 
-[[Magnason - On Time and Water#^3f3232]] - computers are nature
+- on deep time: [[ancestry is not a lineage#^6c5e3e]]
+- [[Magnason - On Time and Water#^3f3232]] - computers are nature
 
-Seeing and reading about gaming chairs also reminded me of a chapter in  _Consolations_[^dw], the book by the poet David Whyte. In the section called _Ground_ Whyte writes the following: 
+Seeing and reading about gaming chairs also reminded me of a chapter in  _Consolations_, the book by the poet David Whyte. In the section called _Ground_ Whyte writes a section that is in the note [[to find a home in circumstances]]. 
 
-> Ground is what lies beneath our feet. It is the place where we already stand; a state of recognition, the place or the circumstances to which we belong, whether we wish to or not. It is what holds and supports us, but also what we do not want to be true: it is what challenges us, physically or psychologically, irrespective of our hoped for needs. It is the living, underlying foundation that tells us what we are, where we are, what season we are in and what, no matter what we wish in the abstract, is about to happen in our body, in the world or in the conversation between the two.[^dw71]
 
 Computer as a site for performance. Tension with focus of the proposal.
 
