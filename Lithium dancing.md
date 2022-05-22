@@ -2,7 +2,7 @@
 aliases: []
 tags: [published]
 platform: "ijsd"
-csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
+csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
 # Lithium dancing (hidden in plain sight)
@@ -26,12 +26,12 @@ Part 1—_Two young people and their camera_—describes the encounter with two 
 
  >the outside world, the non-digital world, is merely a theatrical space in which one stages and records content for the much more real, much more vital digital space.
  
--- Bo Burnham [-@burnham2021a]
+-- Bo Burnham [-@burnham-2021-a]
  
 
 > Here indeed, the whole mechanism of the operation is invisible to the viewer: the deepest darkness reigns: suddenly, a ghost appears, far, far away at first, appearing as a point of light to the audience. But it soon grows, becomes bigger and bigger and seems to approach slowly at first, to then rush towards the spectators: the illusion is total.
 
--- Victor de Moléon (1836) [in @chateau-2016-screensa pp.49-50]
+-- Victor de Moléon (1836) [in @chateau-2016-screens pp.49-50]
  
 ## 1. Two young people and their camera
 
