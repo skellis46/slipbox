@@ -8,11 +8,11 @@ type: "evergreen"
 
 _previous note:_ [[the natural world does not question the timing of its birth and death]]
 
-> Indeed, past and future as designators of motion can be replaced with an emerging from and a returning to cosmological oneness. Standing in the non-time of the Dao is thus to stand in the pivot between being and non-being,and having relocated ourselves to this position of no-self, we can know what it means to be simultaneously in and out of time, alive yet dying.[@chai-2021-there n.pag]
-
-^51b019
+> Indeed, past and future as designators of motion can be replaced with an emerging from and a returning to cosmological oneness. Standing in the non-time of the Dao is thus to stand in the pivot between being and non-being,and having relocated ourselves to this position of no-self, we can know what it means to be simultaneously in and out of time, alive yet dying.[@chai-2021-there n.pag] ^51b019
 
 - [[footfall]]
+
+
 ---
 
 _original source/found:_ weekly Aeon newsletter
