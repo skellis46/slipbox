@@ -1,5 +1,5 @@
 ---
-csl: /Users/ac1906/Dropbox/pandoc/harvard-coventry-university.csl
+csl: /Users/skiptime/Dropbox/pandoc/harvard-coventry-university.csl
 aliases: []
 type: "presentation"
 platform: "conference"

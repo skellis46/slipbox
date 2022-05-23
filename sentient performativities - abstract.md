@@ -4,7 +4,7 @@ type: "presentation"
 platform: "Sentient Performativities"
 status: "published"
 status-updated: "2022-01-04"
-csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
+csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
 # sentient performativities - abstract (500 words max)

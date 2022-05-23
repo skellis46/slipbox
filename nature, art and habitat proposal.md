@@ -2,7 +2,7 @@
 aliases: [nahr]
 tags: [artistic-practice, footfall]
 type: "proposal"
-csl: /Users/ac1906/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
+csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 
 # nature, art and habitat proposal

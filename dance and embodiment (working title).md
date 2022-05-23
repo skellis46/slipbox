@@ -3,7 +3,7 @@ aliases: [embodiment]
 tag: 
 type: "article"
 platform: "jdsp"
-csl: /Users/ac1906/Dropbox/pandoc/harvard-coventry-university.csl
+csl: /Users/skiptime/Dropbox/pandoc/harvard-coventry-university.csl
 ---
 
 # dance and embodiment (working title)
@@ -27,3 +27,6 @@ It is perhaps the least surprising thing that dance scholars and artists have la
 - [Choinière](x-devonthink-item://98BE098F-A795-46F6-BFC9-EE06CCE00E75) [@choiniere-2018-somatica] - talks about embodiment all the time, but simply not clear what it is (used her quote in Corporeal Epistemics)
 
 > these recent positions on the somatic bear witness to the commitment of certain artists to experiment with different forms of embodied mediation and new interpretations of embodiment.[@choiniere-2018-somatica p.196]
+
+
+- see [[the present is usually illegible to itself]] for not on hermeneutics and glimpsing assumptions
