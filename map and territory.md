@@ -21,7 +21,7 @@ _thoughts & links:_
 
 - I've written so many times, "just because you say it does not make it so"
 - see also Wikipedia page on [map-territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
-- I'm really interested in the idea of maps as necessary abstractions. That any form of language is an approximation of what we wish to communicate. This is how we are only ever #finger-pointing-moon. The finger becomes a form of map, and is only ever able to point in the general direction of the moon (as territory)
+- I'm really interested in the idea of maps as necessary abstractions. That any form of language is an approximation of what we wish to communicate (see [[the origin of the map is not the territory]] and Testa's suggestion we should remind ourselves of this every day). This is how we are only ever #finger-pointing-moon. The finger becomes a form of map, and is only ever able to point in the general direction of the moon (as territory)
 - see [[apophatic theology]] for a different take on the map -- more akin to a series of anti-maps or inverse maps. This is very useful for #practice-research and #finger-pointing-moon 
 
 ---
