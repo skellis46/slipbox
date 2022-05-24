@@ -10,7 +10,7 @@ _previous note:_ [[the present is usually illegible to itself]]
 
 > Like-wise, cinema, a major technological development of this period, continued the “meanwhile time” of the novel through techniques such as parallel editing, which sequenced shots so that spectators felt two events to be happening at the same time. But the presentism of parallel editing was inflected by the past, if a past overwhelmed by an investment in the present. As Mary Ann Doane has shown, in exposing “people to aspects and events of the world that had previously been distant and inaccessible,” early film produced “the sense of a present moment laden with [p.11] historicity at the same time that [it encouraged] a belief in our access to pure presence, instantaneity.”25 [@burges-2016-introduction pp.10-11] 
 
-- I wonder to what extent in [[footfall]] I might exaggerate 'aspects and events' of 'pure presence'. That they are almost drifting apart (in time) but are felt/experienced instantaneously.
+- I wonder to what extent in [[footfall]] I might exaggerate 'aspects and events' of 'pure presence'. That they are almost drifting apart (in time) but are felt/experienced instantaneously. That the film might exaggerate [[the accounts of time by Parmenides and Heraclitus]] and how "time as we experience it simply does not make logical sense, therefore it must be either an illusion or a window into the divine"[@gardner-2016-serial p.162] ^b92246
 - also gives me particular license to build multiple frames in the frame -- and the kinds of which times existing in those multiple frames might exist in different modes/frames. That something other than 'meanwhile time' might emerge?
 
 ---
