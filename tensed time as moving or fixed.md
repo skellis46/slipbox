@@ -13,6 +13,10 @@ _previous note:_ [[relationality and co-presence - objects are events based in v
 - never heard this phrase 'tensed terms' before. Past, present and future
 - see in [[keywords]] and those tensed words seem "too limited" to express our experiences of time
 
+Also:
+
+> Today we increasingly seek out narrative that offers us both ways at once—tensed, serial time and tenseless, simultaneous time. We spent the last century preparing ourselves for this moment, in the highly complex laboratories of quantum physics and the relatively marginalized laboratories of narrative comics. But the arts of the present suggest that we are eagerly seeking out opportunities to explore tenseless time serially, and serial time simultaneously.[@gardner-2016-serial p.174]
+
 ---
 
 _original source/found:_ Mattern, Shannon. ‘Time’s Interfaces’. Keynote presented at the DESIS Philosophy Talks: Potentialities, Storytelling & Politics, New York, 7 March 2017. [https://wordsinspace.net/2017/03/07/times-interfaces/](https://wordsinspace.net/2017/03/07/times-interfaces/).

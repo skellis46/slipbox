@@ -5,7 +5,7 @@ type: "literature"
 
 ---
 
-#  Kampe - Eros and inquiry: the Feldenkrais Method as a complex resource
+# Kampe - Eros and inquiry: the Feldenkrais Method as a complex resource
 
 _previous note:_ [[possible benefits of somatic practices]]
 

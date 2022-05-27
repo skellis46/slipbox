@@ -24,6 +24,7 @@ This is a collection of notes, ideas and links in preparation for Footfall resid
 
 - fascinated by visual rhetoric of climate change animations
 - see [[in our bodies as a question]] re living in our bodies as a question and shedding our outer skin
+- "You were a boy once. And before you were a boy you were your ancestors". (thinking about narrations as part of a comic strip: [[time in comics is represented as territory in space]])
 
 
 - [[20200827 - it's all imagined]]
