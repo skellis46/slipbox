@@ -1,5 +1,5 @@
 ---
-tags: [blog-post]
+tags: [blog-post, par-blog]
 ---
 
 # connection between question, answer and method
