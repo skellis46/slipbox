@@ -8,7 +8,7 @@ type:
 
 _previous note:_ [[nature, art and habitat proposal]]
 
-This is a collection of notes, ideas and links in preparation for Footfall residency.
+This is a collection of notes, ideas and links in preparation for Footfall residency. I did not add to it after 4 June 2022 (when I arrived in Sottochiesa) so it is more like a pre-production archive.
 
 - see [[footfall - description, biography and engagement]] for brief description in Italian and English.
 

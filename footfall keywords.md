@@ -29,7 +29,11 @@ This note is to play with b) a simple list, but it starts with words from the ha
 - non-time [[the pivot between being and non-being]]
 
 
-- "Your body is an ecosystem of ancestors" [[ancestry is not a lineage#^e2246b]]
+- instability
+- digging / zooming in 
+
+
+
 
 ---
 
