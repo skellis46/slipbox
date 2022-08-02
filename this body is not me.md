@@ -13,6 +13,7 @@ _previous note:_ [[boundaries between ourselves and others]]
 - [[boundaries and transgressions]]
 - [[a border is not a boundary]]
 - [[footfall]]
+- [[this body]]
 
 ---
 
