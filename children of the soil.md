@@ -21,3 +21,15 @@ In one essay, [The Work of Local Culture](https://thecontraryfarmer.wordpress.co
 > However small a landmark the old bucket is, it is not trivial. It is one of the signs by which I know my country and myself. And to me it is irresistibly suggestive in the way it collects leaves and other woodland sheddings as they fall through time. It collects stories, too, as they fall through time. It is irresistibly metaphorical. It is doing in a passive way what a human community must do actively and thoughtfully. A human community, too, must collect leaves and stories, and turn them to account. It must build soil, and build that memory of itself – in lore and story and song – that will be its culture. These two kinds of accumulation, of local soil and local culture, are intimately related.
 
 I'm not long back from a [NAHR residency](https://nahr.it/2022-Fellows) in a tiny town in Italy called Sottochiesa. The theme of the residency for the eight artists was soil. I made a small performance-ritual and also collected materials for a short film called _Children of the soil_. I'd like to share the first draft of the film. It's pretty raw so I'd rather you didn't share it, but hopefully you'll get a pretty good sense of the experimentation and the ways in which it wrestles with some of the ideas in this writing. 
+
+
+## note from informal presentation in Sottochiesa
+
+Ian B "no relationship to the land"
+- whakapapa: A person reciting their whakapapa proclaims their Māori identity, places oneself in a wider context, and links oneself to land and tribal groupings and the mana of those.
+- tangata whenua: to be birthed from the land (people of the land); pakeha are 'their other'
+- turangawaewae: ancestral place/unique place to stand (literally standing place and feet)
+
+To simply be on it. Independent of where it is. 
+
+- [[nature, art and habitat proposal]]
