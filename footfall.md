@@ -1,12 +1,18 @@
 ---
 aliases: []
-tags: [in-progress, artistic-practice, footfall]
+tags: [artistic-practice, footfall]
 type: 
 ---
 
 # footfall / rumore di passi
 
 _previous note:_ [[nature, art and habitat proposal]]
+
+---
+
+_Edit 20220801:_ Added new note [[children of the soil film]] which collates all the various notes (including this one) that underpin or contribute to the development of the film.
+
+---
 
 This is a collection of notes, ideas and links in preparation for Footfall residency. I did not add to it after 4 June 2022 (when I arrived in Sottochiesa) so it is more like a pre-production archive.
 
