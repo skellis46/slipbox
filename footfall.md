@@ -10,7 +10,7 @@ _previous note:_ [[nature, art and habitat proposal]]
 
 ---
 
-_Edit 20220801:_ Added new note [[children of the soil film]] which collates all the various notes (including this one) that underpin or contribute to the development of the film.
+_Edit 20220801:_ Added new note [[children of the soil film index]] which collates all the various notes (including this one) that underpin or contribute to the development of the film.
 
 ---
 

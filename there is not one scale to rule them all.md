@@ -8,7 +8,7 @@ type: "evergreen"
 
 _previous note:_ [[causing the illusion of smooth functioning to malfunction]]
 
-- [[children of the soil film]]
+- [[children of the soil film index]]
 
 > Ecological awareness is shaking our faith in the anthropocentric idea that there is one scale to rule them all – the human one. [@morton-2018-being p.22]
 

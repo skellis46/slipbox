@@ -6,7 +6,7 @@ type: "evergreen"
 
 # causing the illusion of smooth functioning to malfunction
 
-_previous note:_ [[children of the soil film]]
+_previous note:_ [[children of the soil film index]]
 
 > This is why art, which disables getting from A to B by causing the illusion of smooth functioning to malfunction, so as to reveal the spooky openness of things, is in the end joyful and funny ... [@morton-2018-being p.19]
 

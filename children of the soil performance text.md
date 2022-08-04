@@ -6,7 +6,7 @@ type: "evergreen"
 
 # children of the soil performance text
 
-_previous note:_ [[children of the soil film]]
+_previous note:_ [[children of the soil film index]]
 
 Children of the soil
 
