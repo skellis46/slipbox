@@ -11,16 +11,16 @@ _previous note:_ [[children of the soil film index]]
 ## 01 Children of the soil [title]
 
 ## 02 This body is an instrument of change. [shovel]
-"I am old but my blade is sharp. I am ready to work." / "I know what I am doing." / "That's uncanny."
+"I am old but my blade is sharp. I am ready to work." / "I know what I am doing." / "That's so uncanny."
 
 ## 03 This body is a real place where being born and dying are always present. [dirt shadow timelapse]
 
 ## 04 This body knows beauty in its flesh. [wide angle trees]
-"I will never be the same—at least for the time-being." / "Neither will I"
+"I will never be the same – at least for the time-being." / "Neither will I"
 
-	<-- 03 This body is a real place where being born and dying are always present. 
-	<-- 02 This body is an instrument of change.
-		"I am old but my blade is sharp. I am ready to work." / "I know what I am doing." / "That's uncanny."
+	<-- 03 [dirt shadow timelapse]
+	<-- 02 [shovel]
+		"I am old but my blade is sharp. I am ready to work." / "I know what I am doing." / "That's so uncanny."
 	<-- 01 Children of the soil
 
 ## 05 This body welcomes another body. [burial]
@@ -35,19 +35,19 @@ _previous note:_ [[children of the soil film index]]
 ## 07  [sunset]
 "I am ungraspable."
 
-	03 This body is a real place where being born and dying are always present. 
+	03 [dirt shadow timelapse] 
 
 ## 08 [lying in dirt / sliding down]  
-	ººº How wonderful to have a body ... this gift from my mother and father.
+ººº How wonderful to have a body ... this gift from my mother and father.
 
 ## 09  [clay and shale]
-"I have never been an individual." / "I am an empire of dirt." / "I refuse to be named 'this body'."
+"I have never been an individual." / "I am an empire of dirt." / "I refuse to be named 'this body'" / ººº How wonderful to just go with the flow
 
-	--> 04 This body knows beauty in its flesh.
-		"I will never be the same—at least for the time-being." / "Neither will I" / "Same here. "
+	--> 04 [wide angle trees]
+		"I will never be the same—at least for the time-being." / "Neither will I" / "Same here."
 
 ## 10 This body marks its own time. [finger scratching]
-ººº I can no longer tell the difference.
+ººº I am not alone.
 
 ## 11 This body lives in a hierarchy of angels. [ant-caterpillar fight]
 "I contain all possible histories." / "I am nourished by joy."
@@ -57,6 +57,7 @@ _previous note:_ [[children of the soil film index]]
 		ººº I am a stranger to myself.
 	--> 17 This body is a time-traveler.
 		ººº I am no longer moving. / ººº I understand my place.
+	--> 11b This body is gone [cutting grass]
 
 ## 12 This body comes from earth. [digging stills]
 "I am haunted." / "I am manufacturing futures." / "I am beyond scale and time." /  ººº This body has no pretensions.
@@ -72,22 +73,22 @@ _previous note:_ [[children of the soil film index]]
 "Wahoooooo!"
 
 ## 16  [rain and mist timelapse]
-	--> 13 This body is worthy of trust.
+	--> 13 [worm alive and dead]
 
 ## 17 This body is a time-traveler. [dead fox]
 ººº I am no longer moving / ººº I understand my place.
 
-	--> 06 This body is strangeness and hope.
+	--> 06 [bones]
 
 ## 18 This body endures. [moving dirt timelapse]
 
 ## 19 [digging on top of hill]
 "I have tremendous longing for mystery." / "So do I." / "Yeah, same here."
 
-	--> 12 This body comes from earth. 
+	--> 12 [digging still] 
 	--> 01 Children of the soil
 
-## 20 This body is all that is not yet said. [sky clouds timelapse]
+## 20 This body breathes. [sky clouds timelapse]
 
 
 
@@ -96,13 +97,11 @@ _previous note:_ [[children of the soil film index]]
 
 A film by Simon Ellis
 
-Developed as part of a Nature, Art & Habitat Residency in Taleggio Valley, June 2022. 
-Supported by C-DaRE – the Centre for Dance Research – at Coventry University.
-
 With thanks to Barbara Stimoli, Titta Raccagni, Isabel Kuh, Giuseppe Mongiello, Danielle Stevenson, Marco Ranieri, Nora Sweeney, Sonia Arienta, Ilaria Mazzoleni, Lil Boyce, Rosa Cisneros and Paul Paschal.
 
-Logos.
-Creative commons, 2022
+Developed as part of a Nature, Art & Habitat Residency in Taleggio Valley, June 2022. 
+
+Supported by C-DaRE – the Centre for Dance Research – at Coventry University.
 skellis.net
 
 
@@ -116,7 +115,7 @@ skellis.net
 09 Johnny Cash
 11 Rilke
 14 This body tumbles into that body. M10 (Swanson, Tsing, Bubandt, and Gan, Art Damaged Planet)
-20 Rilke
+
 
 
 ## possible and old
@@ -175,6 +174,7 @@ _Old: This body is dense with farewells._
 ### 20 sky clouds timelapse
 _Possible: This body falls out of silence_
 _Old: This body hugs._
+_Old: This body is all that is not yet said._
 
 # edit bin
 
