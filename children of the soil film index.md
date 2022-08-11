@@ -9,7 +9,7 @@ type: "evergreen"
 _previous note:_ [[index -- artistic practice]]
 
 
-- [[children of the soil]]
+- [[children of the soil (newsletter)]]
 - [[footfall]]
 - [[footfall keywords]]
 - [[footfall script ideas]]
@@ -21,7 +21,7 @@ _previous note:_ [[index -- artistic practice]]
 - [[unlocking keywords]]
 - [[nature, art and habitat proposal|nahr]]
 - [[nahr workshop notes]]
-- [[children of the soil - short description]]
+- [[children of the soil - short description of film]]
 - [[a body’s movement through space impacts its movement through time]]
 - [[film as a series of events witnessed from the perspective of a moving now]]
 - [[meanwhile time and parallel editing]]
