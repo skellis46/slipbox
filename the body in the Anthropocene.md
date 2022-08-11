@@ -64,6 +64,9 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 - I really do not want anthropocene in the title. But we (humans) are always "at the centre of the narrative" (p.G173). "Its story is still all about an 'us.'"
 - irony of self-authored article
 
+> Whatever we say, we’re always talking about ourselves.
+—Alison Bechdel (in Kleon's "show your working")
+
 
 > I guess I’m trying to subjectify the universe, because look where objectifying it has gotten us. To subjectify is not necessarily to co-opt, colonize, exploit. Rather, it may involve a great reach outward of the mind and imagination.
 > What tools have we got to help us make that reach? - Le Guin, p.M16
