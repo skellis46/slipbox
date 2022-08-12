@@ -8,11 +8,9 @@ csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # the body in the Anthropocene (working title)
 
-> I have talking to Richard Ralph, editor of Dance Research and who has asked me to take on editing an issue of the journal with a focus on practice research. The idea is to invite key practitioners to contribute some writing that focuses on their practice. Might you have something that could emerge from your current research in Italy (for example)?  We would be looking for something to be submitted in early January. There is no specific length requirement as we want the contributions to find their own form (images are welcomed but not required, as well as links, as appropriate). -- email from SW, 29 June 2022
-
 _previous note:_ 
 
-
+> I have talking to Richard Ralph, editor of Dance Research and who has asked me to take on editing an issue of the journal with a focus on practice research. The idea is to invite key practitioners to contribute some writing that focuses on their practice. Might you have something that could emerge from your current research in Italy (for example)?  We would be looking for something to be submitted in early January. There is no specific length requirement as we want the contributions to find their own form (images are welcomed but not required, as well as links, as appropriate). -- email from SW, 29 June 2022
 
 
 - offer to 'write about my practice'; this is what we do in practice-research. the various journals dedicated to practice-research are filled with practitioners in their bubble attempting to convince us of the value of their work. No, not convince us (that would be more palatable), rather, expect us to recognise the value of their work. 
@@ -20,21 +18,35 @@ _previous note:_
 - other examples: Freeman book (?), JAR (take random issue), CHOR (of which I'm co-editor). 
 - I'm guilty. 
 - perhaps more guilty given the unsurprising focus of dance practices on the body. I've even started calling them body-based practices as my curiosity has stretched away from codified dance practices (including improvisation).
-- attempt to do a little dance here -- to introduce some research while attempting to reach out beyond my solipsism. That this writing is not _about_ this particular research project (called [[children of the soil - short description of film]])
+- attempt to do a little dance here -- to introduce some research while attempting to reach out beyond my solipsism to attempt to understand how that research might be useful to you. That this writing is not _about_ this particular research project (called [[children of the soil - short description of film]])
 - get the project out of the way: a short photo essay as part of the writing -- perhaps 6 images occupying a single page? (in a grid) -- perhaps even with some of the graphic novel texts
+- or perhaps large (non-human body) images sprinkled throughout? 
 
-- the body and par ; potted history
+## the body and par (potted history?)
+
+> Our human body is part of space and our first reference for inside  
+and outside; it is our first approach to frontiers. (Augé, Non-places 1995) - in [@calderon-2010-intimate p.20]
+> my body is the first reference I have in the context of frontiers and limits.[@calderon-2010-intimate p.21]
 
 - after brief description of ineffability (and also just how much autobiography is going on -- little could he have imagined!), Freeman says this (in introduction to book):
 > In the context of practice-based research, ineffability is premised on the notion of embodiment as an existential condition: one in which the researcher's performing (doing) body is the subjective source for experience, and it is from this conceptual platform that arguments in favour of practice as research are often launched.[@freeman-2010-ineffability p.3]
 
 "the primacy and sanctity of embodied knowledge" [@freeman-2010-ineffability p.6] (either body of the performer or the body of the work)
 
-Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and phenomenology and practice-research:
+> The body in the middle of the octagonal room refers to the artist, his/her intentions, and display. The octagonal room forces the artist at the centre to question relations between artist and public, between inside and outside, ‘in-sight’ and ‘out-sight’, self and other – and the self as other – between the visible and the invisible.[@coessens-2021-artistic p.58]
+
+working through dictionary definitions, Frayling writes (remember he's nutting it out re art and design, much like Carole Gray): 
+> for an activity to count in either sense as research the subject or object of research must exist outside the person or persons doing the searching. And the person must be able to tell someone about it.[@frayling-1993-research p.1]
+
+
+> 15 October 2002: [Susan Melrose] I wonder if some of the implications might be clearer if we identified one particularly problematic area of PaR as ‘Own-Creative-Practice-as-Research’ (OCPaR). Does ANYbody out there want to talk about assessment criteria (let alone judgements of taste and value) which apply here? -- in [@thomson-2003-practice p.160]
+- goes further than this when it's our own body doing our own creative practice. Kind of comical in a way. Not surprising just how much autobiographical stuff was happening in early 2000s (which Freeman mentions in intro to Blood, Sweat and Theory)
+
+Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and phenomenology and practice-research. as I was starting (in Oz) so little was known about what would come to be known as (at the time) practice-led research. Phenomenlogy was massively important (Moustakas was big) as a methodological guide for making sense of experience:
 
 > In the work of Maurice Merleau-Ponty, embodied knowledge is also concretely ‘bodily knowledge’. The _a priori_ of the body assumes the place of the a priori of intellectual knowledge, making the pre-reflective bodily intimacy with the world around us into the foundation of our thinking and acting. By virtue of our bodily constitution and our bodily situatedness in the world, we are capable of ‘getting a grip on reality’ as we observe, learn, and act, and of ‘acting in flow’ prior to any reflection and without following rules.[@borgdorff-2012-conflict pp.168-169]
 
-- or draw link between embodiment of knowledge in the art work (Borgdorff discusses this) and the double whammy of one whose body is present. double epistemic whack.
+- or draw link between embodiment of knowledge in the art work (Borgdorff discusses this as does Scrivener) and the double whammy of one whose body is present. double epistemic whack.
 
 > When we listen to music, look at images, or identify with body movements, we are brought into touch with a reality that precedes any representation in the space of the conceptual. That is the abstractness of all art, even after the long farewell to the aesthetics of early Romanticism. In a certain sense, this reality is more real, and nearer to us, than the reality we try to approach with our epistemological projects. This is the concreteness of all art, even in its most abstract forms and contents.[@borgdorff-2012-conflict p.171]
 
@@ -42,6 +54,10 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 > The performing body bites back at the thinking mind in a prospective quintessential practice- as-research experiment. -- Kershaw, Chapter 5 of smith-2009-practiceled, p.104
 
 - [ ] read Kershaw in Smith and Dean
+- [x] read Frayling 1993
+- [x] Thomson 2003
+- [x] Gray? 
+- [ ] continue going through docs in process folder to find PaR ones
 
 - but what of the dissolution of the body in the Anthropocene. That we are not individual. 
 - what might this mean for practice-research? 
@@ -61,7 +77,7 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 
 - "we have never been individuals" - [[Gilbert - Holobiont by Birth#^3d3b10]]
 - any use in Mary Louise Pratt's thinking about "Imperial Eyes" (p.G.173 of Arts of Living on a Damaged Planet) (it's actually a book) -- thinking about 'contact zones' but as places where the individually-focused arts practitioner meets the world (this is a total stretch)
-- I really do not want anthropocene in the title. But we (humans) are always "at the centre of the narrative" (p.G173). "Its story is still all about an 'us.'"
+- I really do not want anthropocene in the title. But we (humans) are always "at the centre of the narrative" (p.G173). "Its story is still all about an 'us.'" - Mary Louise Pratt, Coda, G173
 - irony of self-authored article
 
 > Whatever we say, we’re always talking about ourselves.
