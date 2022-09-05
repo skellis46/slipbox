@@ -9,7 +9,7 @@ status: "in-progress, gardening"
 updated: "2021-12-22"
 ---
 
-#  Magnason - On Time and Water
+# Magnason - On Time and Water
 
 > If you’re a writer and don’t feel the need to write about these issues, you simply don’t grasp the science or the seriousness of the matter. Anyone who understands what’s at stake would not prioritise anything else. -- Wolfgang Lucht [@magnason-2021-time p.64]
 
@@ -42,7 +42,7 @@ updated: "2021-12-22"
 
 > And now scientists have drawn up new horror scenarios about the consequences of a three-to-five-degree rise in Earth’s temperature. The Earth has abandoned geological speed; it is changing at human speed. And yet our response happens at a glacial pace. We hold a conference to determine the location for the next conference.[@magnason-2021-time p.126]
 
-- tension here between geological and human speed. Zooming into a body under pressure -- asking us to slow down. Slow slow down. (coincidence as I get older? ha)
+- tension here between geological and human speed. Zooming into a body under pressure -- asking us to slow down. Slow slow down. (coincidence as I get older? ha); see also [[Sleigh - Relationships Between the Cracks - Making Oddkin#^342953]] - time is urgent, let us slow down
 
 
 ## Crocodile dreams

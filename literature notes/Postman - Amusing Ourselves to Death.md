@@ -9,6 +9,8 @@ type: "literature"
 
 # Postman - Amusing Ourselves to Death
 
+_previous note:_ 
+
 Originally published in 1985.
 
 ## epistemic partiality and the pretense of certainty

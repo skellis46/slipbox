@@ -15,7 +15,7 @@ _previous note:_ [[a border is not a boundary]]
 
 - oral storytelling (carried within the body) is not single authorship but a collage, p.88 (idea from Doireann Ní Ghríofa)
 - etymology of word text is "texere" -- to weave, to fuse, to brain
-- Bayo Akomolafe: 'the times are urgent; let us slow down', p.89
+- Bayo Akomolafe: 'the times are urgent; let us slow down', p.89 ^342953
 
 
 _reference:_ Sleigh, V. (2022) ‘Relationships Between the Cracks: Making Oddkin’. _Dark Mountain_ 21 (Spring), 85–93
