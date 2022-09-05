@@ -12,7 +12,7 @@ _previous note:_
 
 > I have talking to Richard Ralph, editor of Dance Research and who has asked me to take on editing an issue of the journal with a focus on practice research. The idea is to invite key practitioners to contribute some writing that focuses on their practice. Might you have something that could emerge from your current research in Italy (for example)?  We would be looking for something to be submitted in early January. There is no specific length requirement as we want the contributions to find their own form (images are welcomed but not required, as well as links, as appropriate). -- email from SW, 29 June 2022
 
-
+- might I be able to fold in interoception/soil/de-corpification/eco-anxiety? (ha ha)
 - offer to 'write about my practice'; this is what we do in practice-research. the various journals dedicated to practice-research are filled with practitioners in their bubble attempting to convince us of the value of their work. No, not convince us (that would be more palatable), rather, expect us to recognise the value of their work. 
 - see [[Steyerl on specificity and singularity]] of epistemic claims. 
 - other examples: Freeman book (?), JAR (take random issue), CHOR (of which I'm co-editor). 
