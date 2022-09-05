@@ -8,7 +8,7 @@ type: "evergreen"
 
 _previous note:_ [[touching the earth]]
 
-> Collapse can be the most generative experience. We can’t manage an ecosystem! What hubris to think human beings can enter into millions of interconnected, complicated, refluxing, pricking, stinging, collaborating relationships, and manage it. Just as we can’t organise an ecosystem, we can’t plan collapse. We can’t narcissistically techno-fix a way through this. We have to enter into it.
+> Collapse can be the most generative experience. We can’t manage an ecosystem! What hubris to think human beings can enter into millions of interconnected, complicated, refluxing, pricking, stinging, collaborating relationships, and manage it. Just as we can’t organise an ecosystem, we can’t plan collapse. We can’t narcissistically techno-fix a way through this. We have to enter into it.
 
 > I’m in a body that does collapse sometimes. I can take all the right medicines, take care of myself and it will still melt. Contracting around that inability to control myself limits my improvisational ability to dance with uncertainty. Collapse is when things that shouldn’t be connected merge. When the river overflows its banks and inundates the soil and washes things away is the moment when materials and elements that would never meet each other, touch. I think there is something inherently haptic (in the sense of meaning touch and also fasten) in this. It’s what hyphae do in the soil when they connect plants and trees: that mycelial interrogative intelligence that fastens things together by touching. For me the intelligence of collapse is in the unruly, funny, uncanny connections that happen by the nature of emergent systems.
 
