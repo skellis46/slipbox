@@ -25,6 +25,8 @@ _previous note:_
 
 I will start with a theft. Actually, two thefts. The first is from the Finnish Nigerian journalist Minna Salami's simple suggestion of the value in having an image to hang an idea from [@lawson-2022-other p.151]. The second is from the American artist and writer Sophie Strand who describes ecological storytelling as "held between the ripe and the rot" [@ducann-2022-my p.83] (from _As You Like It_). I think it's a useful image to imagine all practice-research as being held between the ripe and the rot. 
 
+- or perhaps use of word ecosystem (see above re Rawlence). Consider how fashionable it is? 
+
 ## the body and par (potted history?)
 
 > Our human body is part of space and our first reference for inside  
@@ -45,7 +47,7 @@ working through dictionary definitions, Frayling writes (remember he's nutting i
 > 15 October 2002: [Susan Melrose] I wonder if some of the implications might be clearer if we identified one particularly problematic area of PaR as ‘Own-Creative-Practice-as-Research’ (OCPaR). Does ANYbody out there want to talk about assessment criteria (let alone judgements of taste and value) which apply here? -- in [@thomson-2003-practice p.160]
 - goes further than this when it's our own body doing our own creative practice. Kind of comical in a way. Not surprising just how much autobiographical stuff was happening in early 2000s (which Freeman mentions in intro to Blood, Sweat and Theory)
 
-Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and phenomenology and practice-research. as I was starting (in Oz) so little was known about what would come to be known as (at the time) practice-led research. Phenomenlogy was massively important (Moustakas was big) as a methodological guide for making sense of experience:
+Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and phenomenology and practice-research. as I was starting (in Oz) so little was known about what would come to be known as (at the time) practice-led research. Phenomenology was massively important (Moustakas was big) as a methodological guide for making sense of experience:
 
 > In the work of Maurice Merleau-Ponty, embodied knowledge is also concretely ‘bodily knowledge’. The _a priori_ of the body assumes the place of the a priori of intellectual knowledge, making the pre-reflective bodily intimacy with the world around us into the foundation of our thinking and acting. By virtue of our bodily constitution and our bodily situatedness in the world, we are capable of ‘getting a grip on reality’ as we observe, learn, and act, and of ‘acting in flow’ prior to any reflection and without following rules.[@borgdorff-2012-conflict pp.168-169]
 
@@ -78,8 +80,8 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 
 > Collective behavior begins not as an internally generated algorithm but rather in the midst of encounter. “When one ant touches another with its antennae, it decides whether the other ant is a nestmate,” she explains. From tiny interactions such as these, colonies develop foraging strategies and reproductive trajectories, not as “individuals,” but as encounters in motion.[@tsing-2017-individuals p.M72] [this text is introducing Chapter 7 by Deborah M. Gordon]
 
-- "we have never been individuals" - [[Gilbert - Holobiont by Birth#^3d3b10]]
-- any use in Mary Louise Pratt's thinking about "Imperial Eyes" (p.G.173 of Arts of Living on a Damaged Planet) (it's actually a book) -- thinking about 'contact zones' but as places where the individually-focused arts practitioner meets the world (this is a total stretch)
+- "we have never been individuals" - [[Gilbert - Holobiont by Birth#^3d3b10]]; also [[I am a collaboration]] (Sophie Strand)
+- any use in Mary Louise Pratt's thinking about "Imperial Eyes" (p.G173 of Arts of Living on a Damaged Planet) (it's actually a book) -- thinking about 'contact zones' but as places where the individually-focused arts practitioner meets the world (this is a total stretch)
 - I really do not want anthropocene in the title. But we (humans) are always "at the centre of the narrative" (p.G173). "Its story is still all about an 'us.'" - Mary Louise Pratt, Coda, G173
 - irony of self-authored article
 
@@ -90,6 +92,7 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 > I guess I’m trying to subjectify the universe, because look where objectifying it has gotten us. To subjectify is not necessarily to co-opt, colonize, exploit. Rather, it may involve a great reach outward of the mind and imagination.
 > What tools have we got to help us make that reach? - Le Guin, p.M16
 
+- Le Guin's thinking here marks a very useful tension between the "I" and subjectifying that which is usually objectified. To introduce subjectification as an antidote to objectification. 
 
 ### possible titles
 
