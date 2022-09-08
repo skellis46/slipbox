@@ -13,7 +13,7 @@ _previous note:_
 > I have talking to Richard Ralph, editor of Dance Research and who has asked me to take on editing an issue of the journal with a focus on practice research. The idea is to invite key practitioners to contribute some writing that focuses on their practice. Might you have something that could emerge from your current research in Italy (for example)?  We would be looking for something to be submitted in early January. There is no specific length requirement as we want the contributions to find their own form (images are welcomed but not required, as well as links, as appropriate). -- email from SW, 29 June 2022
 
 - might I be able to fold in interoception/soil/de-corpification/eco-anxiety? (ha ha)
-- offer to 'write about my practice'; this is what we do in practice-research. the various journals dedicated to practice-research are filled with practitioners in their bubble attempting to convince us of the value of their work. No, not convince us (that would be more palatable), rather, expect us to recognise the value of their work. 
+- offer to 'write about my practice'; this is what we do in practice-research. the various journals dedicated to practice-research are filled with practitioners in their bubble attempting to convince us of the value of their work. No, not convince us (that would be more palatable), rather, expect us to recognise the value of their work. Noting just how much this diverges from Strand's claim that [[I am a collaboration]] (see backlinks in that note for extended thinking on individuation/individualism)
 - see [[Steyerl on specificity and singularity]] of epistemic claims. 
 - other examples: Freeman book (?), JAR (take random issue), CHOR (of which I'm co-editor). 
 - I'm guilty. 
@@ -21,6 +21,9 @@ _previous note:_
 - attempt to do a little dance here -- to introduce some research while attempting to reach out beyond my solipsism to attempt to understand how that research might be useful to you. That this writing is not _about_ this particular research project (called [[children of the soil - short description of film]])
 - get the project out of the way: a short photo essay as part of the writing -- perhaps 6 images occupying a single page? (in a grid) -- perhaps even with some of the graphic novel texts
 - or perhaps large (non-human body) images sprinkled throughout? 
+- see Rawlence's Treeline for broad understanding of what it means to be an entity in an ecosystem and being restored to "that inherited role"[@rawlence-2022-treeline p.215] -- [[Rawlence - The Treeline#^1445bb]] and also Strand on not being able to manage an ecosystem in [[collapse is generative]]
+
+I will start with a theft. Actually, two thefts. The first is from the Finnish Nigerian journalist Minna Salami's simple suggestion of the value in having an image to hang an idea from [@lawson-2022-other p.151]. The second is from the American artist and writer Sophie Strand who describes ecological storytelling as "held between the ripe and the rot" [@ducann-2022-my p.83] (from _As You Like It_). I think it's a useful image to imagine all practice-research as being held between the ripe and the rot. 
 
 ## the body and par (potted history?)
 
