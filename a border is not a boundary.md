@@ -23,7 +23,7 @@ _thoughts & links:_
 
 _original source/found:_ Lil Boyce
 
-_citekey & zotero link:_ [@sennett_together_2012](zotero://select/items/1_ZKR55RVE)
+_citekey & zotero link:_ [@sennett-2012-together](zotero://select/items/1_ZKR55RVE)
 
 _reference:_ Sennett, R., 2012. _Together, The Rituals, Pleasures and Politics of Cooperation_. Yale University Press.
 

@@ -14,6 +14,7 @@ Here's the Canales reference (I have the pdf of [Burges and Elias](hook://file/9
 
 Jimena Canales, “Clock/Lived” in Joel Burges and Amy L. Elias, eds., _Time: A Vocabulary of the Present_ (New York: New York University Press, 2016): 126.
 
+- literature note is [[Canales - Clock Lived]]
 - [[footfall]]
 
 ---
