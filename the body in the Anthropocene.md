@@ -25,7 +25,17 @@ _previous note:_
 
 I will start with a theft. Actually, two thefts. The first is from the Finnish Nigerian journalist Minna Salami's simple suggestion of the value in having an image to hang an idea from [@lawson-2022-other p.151]. The second is from the American artist and writer Sophie Strand who describes ecological storytelling as "held between the ripe and the rot" [@ducann-2022-my p.83] (from _As You Like It_). I think it's a useful image to imagine all practice-research as being held between the ripe and the rot. 
 
-- or perhaps use of word ecosystem (see above re Rawlence). Consider how fashionable it is? 
+- or perhaps use of word ecosystem (see above re Rawlence). Consider how fashionable it is? The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem.
+
+## ecosystems
+- what is an ecosystem?
+- word search "ecosystem" from JDSP (entire catalogue). 14 articles:
+- Moradian: ecosystem as something we live in (ie external to us); lip service to it really [@moradian-2021-human p.13] (also mentions exteroception -- just as a note here)
+- Vicente: ecosystem as place to inhabit - "as if by changing my body I was at the same time changing the ecosystem in which it is grounded" (p.81); also equating to 'natural world' (p.84) in the sense of reducing distant between spectator and 'global ecosystem' (which is a good thing) [@vicente-2022-turning p.84]
+- both these two are drawing on that difficult thing of the body as subject and object (like interoception) that Leder discusses in Chapter 17 of The Interoceptive Mind; like we have to separate ourselves in order to talk about the body (ourselves)
+- Laidlaw: role of humans "within the ecosystem" (human as guardian/saviour of that which we separate ourselves through language); [@laidlaw-2021-ecological p.105]
+- Weig: use of word ecosystemic (without clarifying what that is); metaphor of fascia in body (body first body first body first!) - "ways of shaping community, honouring human ecosystemic nestedness, and coming to appreciate Earth as co-guider in eco-somatic practices" [@weig-2021-novel p.55]; describes more-than-human ecosystemic aliveness (p.56). Focus in general in this article on ecosystemic awareness. The article is perhaps an example of trying to speak of more than human or of not separating ourselves the *the* ecosystem. Perhaps use of definite article is useful/intriguing? 
+- Bettmann: article about eco-somatics; one use of word 'ecosystem' deployed as "her ecosystem" -- sense of belonging (not separate); [@bettmann-2021-public p.43]
 
 ## the body and par (potted history?)
 
