@@ -28,14 +28,33 @@ I will start with a theft. Actually, two thefts. The first is from the Finnish N
 - or perhaps use of word ecosystem (see above re Rawlence). Consider how fashionable it is? The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem.
 
 ## ecosystems
-- what is an ecosystem?
-- word search "ecosystem" from JDSP (entire catalogue). 14 articles:
+- what is an ecosystem? 
+
+> A biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other. Also in extended use: a complex system resembling this.(OED)
+
+Example from 1935 (from OED):
+
+> A. G. Tansley in  _Ecology_ **16** 306   The fundamental concept appropriate to the biome considered together with all the effective inorganic factors of its environment is the _ecosystem_, which is a particular category among the physical systems that make up the universe.
+
+- Perhaps where we choose to delineate ecosystems is just that: a choice. A way to mark our understanding, or even the limitations of our perspectives. Perhaps not so far from [[a border is not a boundary]]
+- word search "ecosystem" from JDSP (entire catalogue). 14 articles (but I could also take sample from performance research, even choreographic practices):
 - Moradian: ecosystem as something we live in (ie external to us); lip service to it really [@moradian-2021-human p.13] (also mentions exteroception -- just as a note here)
 - Vicente: ecosystem as place to inhabit - "as if by changing my body I was at the same time changing the ecosystem in which it is grounded" (p.81); also equating to 'natural world' (p.84) in the sense of reducing distant between spectator and 'global ecosystem' (which is a good thing) [@vicente-2022-turning p.84]
 - both these two are drawing on that difficult thing of the body as subject and object (like interoception) that Leder discusses in Chapter 17 of The Interoceptive Mind; like we have to separate ourselves in order to talk about the body (ourselves)
 - Laidlaw: role of humans "within the ecosystem" (human as guardian/saviour of that which we separate ourselves through language); [@laidlaw-2021-ecological p.105]
 - Weig: use of word ecosystemic (without clarifying what that is); metaphor of fascia in body (body first body first body first!) - "ways of shaping community, honouring human ecosystemic nestedness, and coming to appreciate Earth as co-guider in eco-somatic practices" [@weig-2021-novel p.55]; describes more-than-human ecosystemic aliveness (p.56). Focus in general in this article on ecosystemic awareness. The article is perhaps an example of trying to speak of more than human or of not separating ourselves the *the* ecosystem. Perhaps use of definite article is useful/intriguing? 
 - Bettmann: article about eco-somatics; one use of word 'ecosystem' deployed as "her ecosystem" -- sense of belonging (not separate); [@bettmann-2021-public p.43]
+- Kampe et al: editorial for volume on eco-consciouness (that most of above are part of). They say "embodied eco-consciousness" which in itself speaks volumes about body body body. [@kampe-2021-embodying]
+- Nuding takes ecosystems into the body (microbial) -- adopts critical framing of eco-somatics (p.34). "Instead of cultivating embodied understandings of entanglement, does it not risk reinforcing concepts of nature as something ‘out there’, as an exoticized other to be appropriated for human experience?" [@nuding-2021-approaching p.34]:
+
+> However, the reconfiguration of human/nature and nature/culture has relevance far beyond disciplines and discourse directly concerned with landscape; these binary constructions are inherent aspects of what Stein calls ‘the modern-colonial habit-of-being’, which ‘rests first and foremost on a foundational separation of humans from each other and the rest of nature (other-than-human beings)’(2019: 199).[@nuding-2021-approaching p.35]
+
+- Kussmaul and Longley -- mention of permeability of ecosystems (at end, p.151) -- more sensitive; less like "out there" [@nuding-2021-approaching p.34] which seems more common; mention of fascia (but haven't yet looked into overlaps with Weig?); critiques inside/outside binary [@kussmaul-2021-queer p.151]
+- McHugh on embodying nature: "Eco-consciousness has its foundation in an active relationship between the individual soma and the larger body of the natural world" [@mchugh-2021-embodying p.125]. Makes me think we can't avoid that me/it discrepancy. But this statement makes it about a question of scale and that's just too simplistic. And also as if we are somehow unnatural; describes (more specifically than others) ecosystems: "encounters with available ecosystems such as ocean, woods, rivers and meadows" [@mchugh-2021-embodying p.128]
+- Fraleigh [@fraleigh-2021-body] uses phrase in relation to Japanese writer Yasuo and as humans being integral to ecosystems; talks about finding nature
+- Sebiane Serrano [@sebianeserrano-2020-mestizo] seems to use the term in very loose way (more like something in fashion/vogue)
+- **what I think I'm getting at is that the 'self' in the body in practice-research is akin to the body in the ecosystem; and perhaps even that by endlessly (and rather haphazardly) using the word embodied we are trying to pull the self into that body but perhaps it sews the division further?** Perhaps [[the lived body and embodiment]] is useful here: Husserl, but also other parts of that chapter.  
+- Caetano et al: more like humans and ecosystems (out there) [@caetano-2020-performing]
 
 ## the body and par (potted history?)
 
