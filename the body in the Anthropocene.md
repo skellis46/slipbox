@@ -12,20 +12,28 @@ _previous note:_
 
 > I have talking to Richard Ralph, editor of Dance Research and who has asked me to take on editing an issue of the journal with a focus on practice research. The idea is to invite key practitioners to contribute some writing that focuses on their practice. Might you have something that could emerge from your current research in Italy (for example)?  We would be looking for something to be submitted in early January. There is no specific length requirement as we want the contributions to find their own form (images are welcomed but not required, as well as links, as appropriate). -- email from SW, 29 June 2022
 
-- might I be able to fold in interoception/soil/de-corpification/eco-anxiety? (ha ha)
+> Whatever we say, we’re always talking about ourselves.
+—Alison Bechdel (in Kleon's "show your working")
+
+
+> I guess I’m trying to subjectify the universe, because look where objectifying it has gotten us. To subjectify is not necessarily to co-opt, colonize, exploit. Rather, it may involve a great reach outward of the mind and imagination.
+> What tools have we got to help us make that reach? - Le Guin, p.M16
+
+- Le Guin's thinking here marks a very useful tension between the "I" and subjectifying that which is usually objectified. To introduce subjectification as an antidote to objectification. 
+
+
 - offer to 'write about my practice'; this is what we do in practice-research. the various journals dedicated to practice-research are filled with practitioners in their bubble attempting to convince us of the value of their work. No, not convince us (that would be more palatable), rather, expect us to recognise the value of their work. Noting just how much this diverges from Strand's claim that [[I am a collaboration]] (see backlinks in that note for extended thinking on individuation/individualism)
 - see [[Steyerl on specificity and singularity]] of epistemic claims. 
 - other examples: Freeman book (?), JAR (take random issue), CHOR (of which I'm co-editor). 
 - I'm guilty. 
 - perhaps more guilty given the unsurprising focus of dance practices on the body. I've even started calling them body-based practices as my curiosity has stretched away from codified dance practices (including improvisation).
-- attempt to do a little dance here -- to introduce some research while attempting to reach out beyond my solipsism to attempt to understand how that research might be useful to you. That this writing is not _about_ this particular research project (called [[children of the soil - short description of film]])
-- get the project out of the way: a short photo essay as part of the writing -- perhaps 6 images occupying a single page? (in a grid) -- perhaps even with some of the graphic novel texts
-- or perhaps large (non-human body) images sprinkled throughout? 
+
+- perhaps large (non-human body) images sprinkled throughout - with 'this body' on top?
+
+
+I will start with a theft from the Finnish Nigerian journalist Minna Salami's simple suggestion of the value in having an image to hang an idea from [@lawson-2022-other p.151]. Use of word ecosystem (see below re Rawlence). Consider how fashionable it is? The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem.
+
 - see Rawlence's Treeline for broad understanding of what it means to be an entity in an ecosystem and being restored to "that inherited role"[@rawlence-2022-treeline p.215] -- [[Rawlence - The Treeline#^1445bb]] and also Strand on not being able to manage an ecosystem in [[collapse is generative]]
-
-I will start with a theft. Actually, two thefts. The first is from the Finnish Nigerian journalist Minna Salami's simple suggestion of the value in having an image to hang an idea from [@lawson-2022-other p.151]. The second is from the American artist and writer Sophie Strand who describes ecological storytelling as "held between the ripe and the rot" [@ducann-2022-my p.83] (from _As You Like It_). I think it's a useful image to imagine all practice-research as being held between the ripe and the rot. 
-
-- or perhaps use of word ecosystem (see above re Rawlence). Consider how fashionable it is? The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem.
 
 ## ecosystems
 - what is an ecosystem? 
@@ -37,12 +45,33 @@ Example from 1935 (from OED):
 > A. G. Tansley in  _Ecology_ **16** 306   The fundamental concept appropriate to the biome considered together with all the effective inorganic factors of its environment is the _ecosystem_, which is a particular category among the physical systems that make up the universe.
 
 - Perhaps where we choose to delineate ecosystems is just that: a choice. A way to mark our understanding, or even the limitations of our perspectives. Perhaps not so far from [[a border is not a boundary]]
-- word search "ecosystem" from JDSP (entire catalogue). 14 articles (but I could also take sample from performance research, even choreographic practices):
-- Moradian: ecosystem as something we live in (ie external to us); lip service to it really [@moradian-2021-human p.13] (also mentions exteroception -- just as a note here)
+- see here for comparison with biome, biosphere and ecosystem: <https://socratic.org/questions/what-is-the-relationship-between-the-biosphere-a-biome-and-an-ecosystem> -- note point about "given environment." and also biotic and abiotic aspects of an ecosystem.
+
+This body ... [lines from the film?]
+
+The thing about an ecosystem is that it can be defined and redefined quite fluidly. Gerrymandering. In writings in dance and performance, it gets used loosely and broadly: sometimes as an unspecified place we live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a somewhat fashionable term akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a thing to save [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a metaphor [e.g. @parkinson-2010-art], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying]
+
+I'm going to deploy it as a metaphor; but with recognition of its currency in writings about climate emergency. 
+
+Resist writing about a work of mine even though invitation was to "focus on my practice." I'd rather let the practice do its own work. There are too many words written about the practices of artists, especially by the artists themselves. 
+
+### word search 'ecosystem' for Dance Research (entire catalogue)
+
+- just 1 article: 'Site, Adapt, Perform: A Practice-as-Research Confrontation with Climate Change' by Melanie Kloetzel (2017) - practice-research (not surprising)
+
+### word search 'ecosystem' in CHOR and PR:
+
+- 7 articles (including one of my editorials)
+- 82 articles in Performance Research
+
+### word search "ecosystem" from JDSP (entire catalogue)
+
+- 14 articles:
+- Moradian: ecosystem as something we live in (ie external to us); lip service to it really [@moradian-2021-human p.13] (also mentions exteroception -- just as a note here) -- this is common and something that Latour describes as deanimating the Earth and thereby robbing it of agency (through science objectifying the planet) -- see Kloetzel for this reference to Latour [@kloetzel-2017-site pp.121-122]
 - Vicente: ecosystem as place to inhabit - "as if by changing my body I was at the same time changing the ecosystem in which it is grounded" (p.81); also equating to 'natural world' (p.84) in the sense of reducing distant between spectator and 'global ecosystem' (which is a good thing) [@vicente-2022-turning p.84]
-- both these two are drawing on that difficult thing of the body as subject and object (like interoception) that Leder discusses in Chapter 17 of The Interoceptive Mind; like we have to separate ourselves in order to talk about the body (ourselves)
+- both these two (Moradian and Vicente) are drawing on that difficult thing of the body as subject and object (like interoception) that Leder discusses in Chapter 17 of The Interoceptive Mind ([[the lived body and embodiment]]); like we have to separate ourselves to talk about the body (ourselves) -- is this a discrete problem from, say, autoethnography?
 - Laidlaw: role of humans "within the ecosystem" (human as guardian/saviour of that which we separate ourselves through language); [@laidlaw-2021-ecological p.105]
-- Weig: use of word ecosystemic (without clarifying what that is); metaphor of fascia in body (body first body first body first!) - "ways of shaping community, honouring human ecosystemic nestedness, and coming to appreciate Earth as co-guider in eco-somatic practices" [@weig-2021-novel p.55]; describes more-than-human ecosystemic aliveness (p.56). Focus in general in this article on ecosystemic awareness. The article is perhaps an example of trying to speak of more than human or of not separating ourselves the *the* ecosystem. Perhaps use of definite article is useful/intriguing? 
+- Weig: use of word ecosystemic; metaphor of fascia in body (body first body first body first!) - "ways of shaping community, honouring human ecosystemic nestedness, and coming to appreciate Earth as co-guider in eco-somatic practices" [@weig-2021-novel p.55]; describes more-than-human ecosystemic aliveness (p.56). Focus in general in this article on ecosystemic awareness. The article is perhaps an example of trying to speak of more than human or of not separating ourselves from *the* ecosystem. Perhaps use of definite article is useful/intriguing? 
 - Bettmann: article about eco-somatics; one use of word 'ecosystem' deployed as "her ecosystem" -- sense of belonging (not separate); [@bettmann-2021-public p.43]
 - Kampe et al: editorial for volume on eco-consciouness (that most of above are part of). They say "embodied eco-consciousness" which in itself speaks volumes about body body body. [@kampe-2021-embodying]
 - Nuding takes ecosystems into the body (microbial) -- adopts critical framing of eco-somatics (p.34). "Instead of cultivating embodied understandings of entanglement, does it not risk reinforcing concepts of nature as something ‘out there’, as an exoticized other to be appropriated for human experience?" [@nuding-2021-approaching p.34]:
@@ -51,10 +80,11 @@ Example from 1935 (from OED):
 
 - Kussmaul and Longley -- mention of permeability of ecosystems (at end, p.151) -- more sensitive; less like "out there" [@nuding-2021-approaching p.34] which seems more common; mention of fascia (but haven't yet looked into overlaps with Weig?); critiques inside/outside binary [@kussmaul-2021-queer p.151]
 - McHugh on embodying nature: "Eco-consciousness has its foundation in an active relationship between the individual soma and the larger body of the natural world" [@mchugh-2021-embodying p.125]. Makes me think we can't avoid that me/it discrepancy. But this statement makes it about a question of scale and that's just too simplistic. And also as if we are somehow unnatural; describes (more specifically than others) ecosystems: "encounters with available ecosystems such as ocean, woods, rivers and meadows" [@mchugh-2021-embodying p.128]
-- Fraleigh [@fraleigh-2021-body] uses phrase in relation to Japanese writer Yasuo and as humans being integral to ecosystems; talks about finding nature
+- Fraleigh [@fraleigh-2021-body] uses phrase in relation to Japanese writer Yasuo and as humans being integral to ecosystems; talks about finding nature (noting from NAHR time that the concept of nature/natural no longer really exists -- everything is touched)
 - Sebiane Serrano [@sebianeserrano-2020-mestizo] seems to use the term in very loose way (more like something in fashion/vogue)
 - **what I think I'm getting at is that the 'self' in the body in practice-research is akin to the body in the ecosystem; and perhaps even that by endlessly (and rather haphazardly) using the word embodied we are trying to pull the self into that body but perhaps it sews the division further?** Perhaps [[the lived body and embodiment]] is useful here: Husserl, but also other parts of that chapter.  
 - Caetano et al: more like humans and ecosystems (out there) [@caetano-2020-performing]
+- Sarco-Thomas [@sarco-thomas-2014-touch p.198] refers to Chrysa Parkinson's art practice as ecosystem questionnaire. <https://nivel.teak.fi/adie/art-practice-as-eco-system-questionnaire/>. Sarco-Thomas also uses the word 'ecology' a lot but doesn't clarify why (or even what she might mean by it). Sense that this is about fashion -- of appealing to nature. Neither does Parkinson but the sense of an ecosystem (as metaphor) is more clearly implicit.
 
 ## the body and par (potted history?)
 
@@ -87,11 +117,7 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 
 > The performing body bites back at the thinking mind in a prospective quintessential practice- as-research experiment. -- Kershaw, Chapter 5 of smith-2009-practiceled, p.104
 
-- [ ] read Kershaw in Smith and Dean
-- [x] read Frayling 1993
-- [x] Thomson 2003
-- [x] Gray? 
-- [ ] continue going through docs in process folder to find PaR ones
+
 
 - but what of the dissolution of the body in the Anthropocene. That we are not individual. 
 - what might this mean for practice-research? 
@@ -114,14 +140,13 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 - I really do not want anthropocene in the title. But we (humans) are always "at the centre of the narrative" (p.G173). "Its story is still all about an 'us.'" - Mary Louise Pratt, Coda, G173
 - irony of self-authored article
 
-> Whatever we say, we’re always talking about ourselves.
-—Alison Bechdel (in Kleon's "show your working")
+### to dos
 
-
-> I guess I’m trying to subjectify the universe, because look where objectifying it has gotten us. To subjectify is not necessarily to co-opt, colonize, exploit. Rather, it may involve a great reach outward of the mind and imagination.
-> What tools have we got to help us make that reach? - Le Guin, p.M16
-
-- Le Guin's thinking here marks a very useful tension between the "I" and subjectifying that which is usually objectified. To introduce subjectification as an antidote to objectification. 
+- [ ] read Kershaw in Smith and Dean
+- [x] read Frayling 1993
+- [x] Thomson 2003
+- [x] Gray? 
+- [ ] continue going through docs in process folder to find PaR ones
 
 ### possible titles
 
@@ -130,6 +155,13 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 
 ---
 
+# edit bin
 
+- attempt to do a little dance here -- to introduce some research while attempting to reach out beyond my solipsism to attempt to understand how that research might be useful to you. That this writing is not _about_ this particular research project (called [[children of the soil - short description of film]])
+- get the project out of the way: a short photo essay as part of the writing -- perhaps 6 images occupying a single page? (in a grid) -- perhaps even with some of the graphic novel texts
+
+The second is from the American artist and writer Sophie Strand who describes ecological storytelling as "held between the ripe and the rot" [@ducann-2022-my p.83] (from _As You Like It_). I think it's a useful image to imagine all practice-research as being held between the ripe and the rot. 
+
+- might I be able to fold in interoception/soil/de-corpification/eco-anxiety? (ha ha)
 
 
