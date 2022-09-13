@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [in-progress]
+tags: [published]
 platform: "ijsd"
 csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
