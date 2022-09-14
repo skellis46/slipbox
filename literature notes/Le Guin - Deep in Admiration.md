@@ -7,7 +7,9 @@ type: "literature"
 
 # Le Guin - Deep in Admiration
 
-_previous note:_
+_previous note:_ [[Rawlence - The Treeline]]
+
+- note in Rawlence about naming the bear as a form of objectification
 
 > I guess I’m trying to subjectify the universe, because look where objectifying it has gotten us. To subjectify is not necessarily to co-opt, colonize, exploit. Rather, it may involve a great reach outward of the mind and imagination.
 > What tools have we got to help us make that reach?

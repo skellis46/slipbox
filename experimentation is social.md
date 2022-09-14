@@ -12,7 +12,7 @@ _previous note:_ [[schwab - experiment]]
 >Only the combination of matter and discourse gives experimentation its own distinct identity in the field of knowledge. This makes experimentation not only an epistemic project but also, as Shapin argues, deeply social.[pp.121-122] 
 >Hans-Jörg Rheinberger (1997) calls such a combination of matter and discourse  ‘experimental system’. Experimental systems are complex apparatuses for the production of knowledge.[p.122]
 
->The social dimension of experimentation stems from the agreement that has to be reached whereby a particular something resulting from the experimental system is, in fact, matter-of-fact. This something as matter-of-fact does not strictly speaking exist before such (public) negotiation, making an epistemic thing not only a piece of knowledge but also an ‘artefact of communication’ (Shapin 1984, 484).[@schwab_experiment_2015 p.123]
+>The social dimension of experimentation stems from the agreement that has to be reached whereby a particular something resulting from the experimental system is, in fact, matter-of-fact. This something as matter-of-fact does not strictly speaking exist before such (public) negotiation, making an epistemic thing not only a piece of knowledge but also an ‘artefact of communication’ (Shapin 1984, 484).[@schwab_experiment_2015 p.123] ^da953d
 
 >Both the communicative and the material role of replication allow for a slippage from concrete experiment to universal theory: if a large and diverse group of people believes something to be a matter of fact in a number of different experiments, can we not assume it to be a matter of fact in all possible cases and for all possible witnesses?[@schwab_experiment_2015 p.123]
 

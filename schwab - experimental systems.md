@@ -22,7 +22,7 @@ As Schwab thinks through the relationship between artistic research and contempo
 
 >within artistic practices, artworks are the hybrid objects, situations, or events--the epistemic things--that constitute the driving force in artistic research.[Borgdorff, 2012 p.193, in @schwab_experimental_2019 p.166]
 
-According to Schwab, Borgdorff is focusing on the _potential_ of artworks to become knowledge. Artworks are _provisional things_ filled with epistemic potential (after Rheinberger -- see [[epistemic things and technical objects]]).
+According to Schwab, Borgdorff is focusing on the _potential_ of artworks to become knowledge. Artworks are _provisional things_ filled with epistemic potential (after Rheinberger -- see [[epistemic things and technical objects]]). ^279252
  
 >Regardless of how one may finally decide on the ontology of contemporary works of art, when linking it to Rheinberger’s philosophy, these diverse positions agree in one point: value lies with what is unknown, underdetermined, and open, as associated with epistemic things, and not with what is known, identified, and closed, which is the functional position of technical objects.[@schwab_experimental_2019 p.167]
 
