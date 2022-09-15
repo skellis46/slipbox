@@ -35,7 +35,7 @@ _thoughts & links:_
 
 ---
 
-_original source/found:_ [@wilson_share_2013]
+_original source/found:_ [@wilson-2013-share]
 
 _citekey & zotero link:_ [@garbolino_what_2013](zotero://select/items/1_XA59N38Y)
 
