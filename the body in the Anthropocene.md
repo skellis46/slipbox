@@ -58,9 +58,18 @@ Example from 1935 (from OED):
 - Perhaps where we choose to delineate ecosystems is just that: a choice. A way to mark our understanding, or even the limitations of our perspectives. Perhaps not so far from [[a border is not a boundary]]
 - see here for comparison with biome, biosphere and ecosystem: <https://socratic.org/questions/what-is-the-relationship-between-the-biosphere-a-biome-and-an-ecosystem> -- note point about "given environment." and also biotic and abiotic aspects of an ecosystem.
 
+> Against this background, the negotiations of sense at the interfaces of arts and academia—in Henk Borgdorff’s (2010) terms, “boundary work”—concern also the registers of sense and the questions of whether, how, and why some of them are prioritised over others. [@elo-2018-ineffable p.282]
+- I include this quote here as perhaps something to consider when I discuss ecosystem edges and why we prioritise singular (in Steyerl's term) over dialogue
+- also [@schindler-2020-negotiation] on boundary objects in practice-research (based on work of Star and Griesemer)
+
+> The environmental crisis is so extensive and neither temporally nor spatially understandable to an individual that some scholars (such as Carlson, 2002; Berleant, 1995) call for a new environmental aesthetic, which would enable an appreciation of nature from a new point of view. Such a re-situating of human agency into its natural environment is being discussed in new approaches to materialism as well. New Materialism, as it developed as a theoretical field in the humanities since the late 1990s, joins several fields in their common way of re-thinking subjectivity in emphasizing the role non-human powers and processes play on various levels of life and sense-making. In this text I will explore how new aesthetic practices on the intersection of art and design develop forms of incorporating non-human agencies into the lived and sensual experience or expand the human body towards its animated, vital environment. Using concepts from phenomenology, New Material- ism, and actor–network theory, I will discuss these practices as examples for a new aesthetic, which is not so much an environmental aesthetic but already goes beyond the systemic approach associated with it. [@forster-2020-figurations p.117]
+
+- perhaps though it's absurd (hyperobjects, and not being able to deal with that scale) -- we don't even connect with like-minded, let alone the distant. 
+
 This body ... [lines from the film?]
 
 what I think I'm getting at is that the 'self' in the body in practice-research is akin to the body in the ecosystem; and perhaps even that by endlessly (and rather haphazardly) using the word embodied we are trying to pull the self into that body but perhaps it sews the division further? Perhaps [[the lived body and embodiment]] is useful here: Husserl, but also other parts of that chapter.  
+- am I doing anything different from what the New Materialists have been trying to do? 
 
 The thing about an ecosystem is that it can be used quite fluidly. Gerrymandering. In writings in dance and performance, it gets used loosely and broadly: as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a somewhat fashionable term akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a metaphor [e.g. @parkinson-2010-art], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying]
 
