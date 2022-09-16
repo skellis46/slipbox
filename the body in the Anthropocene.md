@@ -71,6 +71,10 @@ This body ... [lines from the film?]
 what I think I'm getting at is that the 'self' in the body in practice-research is akin to the body in the ecosystem; and perhaps even that by endlessly (and rather haphazardly) using the word embodied we are trying to pull the self into that body but perhaps it sews the division further? Perhaps [[the lived body and embodiment]] is useful here: Husserl, but also other parts of that chapter.  
 - am I doing anything different from what the New Materialists have been trying to do? 
 
+> Merleau-Ponty said, ‘Our own body is in the world as the heart is in the organism’ (1986: 205).[@schwartz-2014-this p.317]
+
+> Everything that I know about the world, even through science, I know from a perspective that is my own. (Maurice Merleau-Ponty, Phenomenology of Perception, trans. Donald A. Landes (London and New York: Routledge, 2014), 9.  - but cited in Rothfield intro chapter to her book)
+
 The thing about an ecosystem is that it can be used quite fluidly. Gerrymandering. In writings in dance and performance, it gets used loosely and broadly: as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a somewhat fashionable term akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a metaphor [e.g. @parkinson-2010-art], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying]
 
 Curious that for all the word's utility in performance writing, in practice-research we exist in bubbles: these are ecosystems of theory, with borders and boundaries constructed by authors to validate an artistic practice. 
