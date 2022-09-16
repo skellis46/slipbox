@@ -77,4 +77,5 @@ _previous note:_ [[basic questions about somatic practices]]
 - see also in [[Ahmadi - Comparison of the effects of the Feldenkrais method]] -- big +1 for FM
 - see large review of science of body awareness in [[Mehling - If It All Comes Down to Bodily Awareness]].
 - what is the mechanism for changes? (assuming changes are real?)
+- working with trauma in [@payne-2015-somatic]. Payne gives a very useful summary of efficacious aspects of [[interoception]]
 
