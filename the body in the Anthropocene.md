@@ -17,6 +17,24 @@ Curious also re [[a claim to specificity clashes with a claim to singularity]] a
 
 Is it worth -- re Children of the Soil -- to do a very brief mapping of who/how it is in relation to other practices? 
 
+> We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves. [@trimingham-2002-methodology p.54]
+- is Trimingham's statement here different from the ecosystem/bubble I am hinting at? My hunch is that the bubble is a sub-set of her thinking. 
+
+What if this article was in three parts (after opening with Trimingham's statement - and include brief summary of her thinking): 
+1. a bubble-like version of COTS that references other works that it is not in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men.
+2. an example of COTS in dialogue (see below re graphic novels, non-human, etc) -- it would have to be absurdly brief but I could also show more detail in some kind of diagram
+3. body in the centre of the room (see Freeman in this zettel) - has nothing to do with [[children of the soil - short description of film]]
+
+- so far I am trying to cover wayyyy too much.
+- what are the strands of research dialogue for children of the soil?
+	+ graphic novels 
+	+ non-human 
+	+ screendance
+	+ eco-somatics
+To what extend ought I practice what I preach and do it within the context of the journal article? 
+
+Which of Schiesser's [[five main positions on practice research]] is this writing based on?
+
 > Whatever we say, we’re always talking about ourselves.
 —Alison Bechdel (in Kleon's "show your working")
 
@@ -62,7 +80,7 @@ Example from 1935 (from OED):
 - I include this quote here as perhaps something to consider when I discuss ecosystem edges and why we prioritise singular (in Steyerl's term) over dialogue
 - also [@schindler-2020-negotiation] on boundary objects in practice-research (based on work of Star and Griesemer)
 
-> The environmental crisis is so extensive and neither temporally nor spatially understandable to an individual that some scholars (such as Carlson, 2002; Berleant, 1995) call for a new environmental aesthetic, which would enable an appreciation of nature from a new point of view. Such a re-situating of human agency into its natural environment is being discussed in new approaches to materialism as well. New Materialism, as it developed as a theoretical field in the humanities since the late 1990s, joins several fields in their common way of re-thinking subjectivity in emphasizing the role non-human powers and processes play on various levels of life and sense-making. In this text I will explore how new aesthetic practices on the intersection of art and design develop forms of incorporating non-human agencies into the lived and sensual experience or expand the human body towards its animated, vital environment. Using concepts from phenomenology, New Material- ism, and actor–network theory, I will discuss these practices as examples for a new aesthetic, which is not so much an environmental aesthetic but already goes beyond the systemic approach associated with it. [@forster-2020-figurations p.117]
+> The environmental crisis is so extensive and neither temporally nor spatially understandable to an individual that some scholars (such as Carlson, 2002; Berleant, 1995) call for a new environmental aesthetic, which would enable an appreciation of nature from a new point of view. Such a re-situating of human agency into its natural environment is being discussed in new approaches to materialism as well. New Materialism, as it developed as a theoretical field in the humanities since the late 1990s, joins several fields in their common way of re-thinking subjectivity in emphasizing the role non-human powers and processes play on various levels of life and sense-making. In this text I will explore how new aesthetic practices on the intersection of art and design develop forms of incorporating non-human agencies into the lived and sensual experience or expand the human body towards its animated, vital environment. Using concepts from phenomenology, New Materialism, and actor–network theory, I will discuss these practices as examples for a new aesthetic, which is not so much an environmental aesthetic but already goes beyond the systemic approach associated with it. [@forster-2020-figurations p.117]
 
 - perhaps though it's absurd (hyperobjects, and not being able to deal with that scale) -- we don't even connect with like-minded, let alone the distant. 
 
@@ -113,9 +131,6 @@ _JDSP_:
 - Sarco-Thomas [@sarco-thomas-2014-touch p.198] refers to Chrysa Parkinson's art practice as ecosystem questionnaire. <https://nivel.teak.fi/adie/art-practice-as-eco-system-questionnaire/>. Sarco-Thomas also uses the word 'ecology' a lot but doesn't clarify why (or even what she might mean by it). Sense that this is about fashion -- of appealing to nature. Neither does Parkinson but the sense of an ecosystem (as metaphor) is more clearly implicit.
 
 ## PaR bubbles
-
-> We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves.
-
 
 ### looking at the latest JAR 26
 
