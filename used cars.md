@@ -20,6 +20,8 @@ used cars and transdisciplinarity. Iove for it at Uni. Then Wendell's Sympatheti
 
 Note that used Berry in other newsletter [[children of the soil (newsletter)]]
 
+Note also this might be useful on [[disciplinary prejudices]]
+
 Remind subscribers about not tracking them at all. Also to share. 
 include note about GitHub and open source (from ways of being) 
 
