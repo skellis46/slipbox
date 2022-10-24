@@ -9,7 +9,7 @@ type: "literature"
 
 _previous note:_
 
-Study on efficacy of a mindfulness programme on body awareness. This is because body awareness is because: "One of the theorized working mechanisms by which MBIs exert their positive effects is by improving body awareness." [@perez-pena-2022-mindfulnessbased p.1]
+Study on efficacy of a mindfulness programme on body awareness. "One of the theorized working mechanisms by which MBIs exert their positive effects is by improving body awareness." [@perez-pena-2022-mindfulnessbased p.1]
 
 Excellent overview of literature on body awareness, interoception and proprioception. 
 
