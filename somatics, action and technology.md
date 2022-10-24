@@ -6,7 +6,7 @@ _previous note:_  [[ginot - epistemology of somatics]]
 
 Ginot argues that the focus of somatics on the natural and universal body is at odds with contemporary research (in many fields) that reveals that the body "only understands itself in its capacity for action, and even more for interaction with the world, mediated or not by objects or machines."[@ginot_shustermans_2010 p.24] The brain does not distinguish between the body and the instruments or prostheses it uses.  ^cf192f
 
-{is Ginot considering meditaiton theory here (see [[technologies as mediators of human-world relations]]?}
+{is Ginot considering meditation theory here (see [[technologies as mediators of human-world relations]]?}
 
 The idea that the body's epistemological status in the world is built on action ruptures any sense of unity, clarity or _naturalness_ about where the body begins and ends. Ginot suggests therefore that the body is as artificial as it is natural, and that somatics itself "is a technique of fabricating the body."[p.24] Ginot proposes that somatics be thought of as _queer_ practices, and that changes afforded by somatics cease to be conceptualized in relation to any kind of _natural body_. Instead she wants us to remember how complex it is when something changes in the relation of a human to the "physical, symbolic, social, economic, and political environment"[pp.24-25] Ginot proposes somatics as a method not of restoration, but one which reorganises the body as heterogenuous and multiple.  
 
