@@ -31,11 +31,9 @@ Note also this might be useful on [[disciplinary prejudices]]
 
 I'll finish with a bit of housekeeping:
 
-- these brief essays are only for subscribers and are not available anywhere else online. Actually, this is not entirely true. In the spirit of transparent practices all the writing I do is maintained 
+- these brief essays are only for subscribers and are not available anywhere else online. Actually, this is not entirely true. In the spirit of working as transparently as possible, all the writing I do – including every edit! – is maintained on a version control system called Github. You can see what is called the _blame file_ for this essay at [https://github.com/skellis46/slipbox/blame/master/used%20cars.md](https://github.com/skellis46/slipbox/blame/master/used%20cars.md) A blame file is normally used to find out who wrote particular pieces of code, but in this case it enables you to track back through the different versions of this essay as I was writing it
 - although I use Mailchimp to maintain and send the essays I have turned off all tracking technology. I have no idea if you are reading them or even opening the email (but I hope you are)
-- 
-Remind subscribers about not tracking them at all. Also to share. 
-include note about GitHub and open source (from ways of being) 
+- if you think of someone who might like the ideas in this writing, please share it with them.
 
 
 [1] Ekroth, Power & Wallenstein, Swen-Olov (2001), ‘Interdisciplinary Laboratory – A Talk with Jens Hoffman’, <http://www.sitemagazine.net/issues/1_2001>. Accessed 24 October 2022
