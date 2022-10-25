@@ -9,7 +9,7 @@ status-updated: "20221024"
 
 # used cars
 
-In late March of 2022 a colleague and I were talking about the demands of working across, with and beyond other disciplines. My colleague suggested that we need to get a feel for what is enough to understand or know about that discipline before engaging with the experts of those communities. But what is enough? 
+In late March of 2022 a colleague and I were talking about the demands of working across and with other disciplines. My colleague suggested that we need to get a feel for what is enough to understand or know about that discipline before engaging with the experts of those communities. But what is enough? 
 
 In 2001, Site Magazine printed an interview by Power Ekroth and Swen-Olov Wallenstein with Jens Hoffman called _Interdisciplinary Laboratory_.[1]  In it, Wallenstein describes a phenomenon called _used-car syndrome_ that he thinks was coined by the art critic [Hal Foster](https://en.wikipedia.org/wiki/Hal_Foster_(art_critic)). It goes like this:
 
@@ -17,13 +17,14 @@ In 2001, Site Magazine printed an interview by Power Ekroth and Swen-Olov Wallen
 
 At that time I was deeply engaged with working with artists from other disciplines and I remember reading of Foster's used-car syndrome as a warning: do not end up with a shitty old car. 
 
-Now, I see such a car so differently with its dents, rust, wonky parts, and dated colours and materials that lie at the heart of creative possibilities and constraints. The metaphor generates a question of ecology: what has been made in the past that might be re-used together to help human beings see our present differently? 
+Now, I see such a car so differently. It has dents, rust, wonky parts, and dated colours and materials that lie at the heart of creative possibilities and constraints. The metaphor generates a question with an ecological feel: what has been made in the past that might be re-used together to help human beings see our present differently? 
 
-The other thing that is strange, looking back, is that I failed to ask three questions: 1) Is the statement true? 2) How do I know this? 3) If it is true then why are people from different fields _attracted_ to the most conservative ideas from other fields? At the very least, I wanted the used-car syndrome to be true because it propped up my ambitions to create _newness_ – something I remember [Nancy Stark-Smith](https://en.wikipedia.org/wiki/Nancy_Stark_Smith) describing as a kind of cult.
+The other thing that is strange, looking back, is that I failed to ask three questions of the used-car syndrome: 1) Is the statement true? 2) How do I know this? 3) If it is true then _why_ are people from different fields attracted to the most conservative ideas from other fields? At the very least, I wanted the used-car syndrome to be true because it propped up my ambitions to create _newness_ – something I remember [Nancy Stark-Smith](https://en.wikipedia.org/wiki/Nancy_Stark_Smith) describing as a cult.
+
+Nevertheless, working with across other disciplines is hard. In their introduction to _Arts of Living on a Damaged Planet_ [2] the editors Tsing, Swanson, Gan and Bubandt describe the "disciplinary prejudices into which each scholar is trained" and of the need to be generous in how we might view the work, practices and understandings from other disciplines. 
 
 
-
-used cars and transdisciplinarity. Iove for it at Uni. Then Wendell's Sympathetic and Rational Minds
+Then Wendell's Sympathetic and Rational Minds
 
 Note that used Berry in other newsletter [[children of the soil (newsletter)]]
 
@@ -36,4 +37,6 @@ I'll finish with a bit of housekeeping:
 - if you think of someone who might like the ideas in this writing, please share it with them.
 
 
-[1] Ekroth, Power & Wallenstein, Swen-Olov (2001), ‘Interdisciplinary Laboratory – A Talk with Jens Hoffman’, <http://www.sitemagazine.net/issues/1_2001>. Accessed 24 October 2022
+[1] Ekroth, Power & Wallenstein, Swen-Olov (2001), ‘Interdisciplinary Laboratory – A Talk with Jens Hoffman’, <http://www.sitemagazine.net/issues/1_2001>. Accessed 24 October 2022.
+
+[2] Gan, E., Tsing, A., Swanson, H., and Bubandt, N. (2017) ‘Haunted Landscapes of the Anthropocene’. in _Arts of Living on a Damaged Planet_. ed. by Tsing, A., Swanson, H., Gan, E., and Bubandt, N. Minneapolis: University of Minnesota Press, G1–G14.
