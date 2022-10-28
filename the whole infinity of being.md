@@ -6,7 +6,7 @@ type: "evergreen"
 
 # the whole infinity of being
 
-_previous note:_ 
+_previous note:_ [[Hui - Cosmotechnics as Cosmopolitics]]
 
 > Words from Stapledon's _Star Maker_, the bible of my youth, lit up in a backwater of my brain. I hadn't thought about the book in decades. _The whole cosmos was infinitely less than the whole of being ... the whole infinity of being underlay every moment of the cosmos._ [@powers-2021-bewilderment p.268]
 
