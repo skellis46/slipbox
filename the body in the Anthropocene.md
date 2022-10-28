@@ -8,30 +8,32 @@ csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # the body in the Anthropocene (working title)
 
-_previous note:_ 
+_previous note:_ [[how to think humanity as geologic and vice versa]]
 
 > I have been talking to Richard Ralph, editor of Dance Research and who has asked me to take on editing an issue of the journal with a focus on practice research. The idea is to invite key practitioners to contribute some writing that focuses on their practice. Might you have something that could emerge from your current research in Italy (for example)?  We would be looking for something to be submitted in early January. There is no specific length requirement as we want the contributions to find their own form (images are welcomed but not required, as well as links, as appropriate). -- email from SW, 29 June 2022
 
-Noting "focuses on their practice" -- just take a sample, perhaps there will be exceptions that prove the rule. But this is the unspoken practice: that when we write about artistic practice we don't write about how it is part of an ecosystem of practice. We tend to write about it as part of alternative ecosystems (ones that are not at all aware that the practice exists and nor would they care). Is fails to be in dialogue. Not surprising in a nascent form in the academy we'd choose to be in relation to authorities (philosophical, cultural). We lean on them to prop up the status of our work. This is as old (or young) as PaR -- remember conversations from PARIP in 2003.
+Noting "focuses on their practice" -- just take a sample, perhaps there will be exceptions that prove the rule. But this is the unspoken practice: that when we write about artistic practice we don't write about how it is part of an ecosystem ([[difference between ecology and ecosystem]]) of practice. We tend to write about it as part of alternative ecosystems (ones that are not at all aware that the practice exists and nor would they care). It fails to be in dialogue. Not surprising in a nascent form in the academy we'd choose to be in relation to authorities (philosophical, cultural). We lean on them to prop up the status of our work. This is as old (or young) as PaR -- remember conversations from PARIP in 2003. Perhaps though this is a matter of choice: the connections we choose to make. Why then would we choose these other ecologies? What does it say about us? See Trimingham below -- benefit for others.
 Curious also re [[a claim to specificity clashes with a claim to singularity]] and [[Steyerl on specificity and singularity]]. She writes how practices of artistic research "usually partake in both registers". Usually? 
-
-Is it worth -- re Children of the Soil -- to do a very brief mapping of who/how it is in relation to other practices? 
 
 > We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves. [@trimingham-2002-methodology p.54]
 - is Trimingham's statement here different from the ecosystem/bubble I am hinting at? My hunch is that the bubble is a sub-set of her thinking. 
 
+What is my genuine question in this writing -- something to address?
+
 What if this article was in three parts (after opening with Trimingham's statement - and include brief summary of her thinking): 
-1. a bubble-like version of COTS that references other works that it is not in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men.
-2. an example of COTS in dialogue (see below re graphic novels, non-human, etc) -- it would have to be absurdly brief but I could also show more detail in some kind of diagram
+1. a bubble-like version of COTS that references other works that it is not in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecologies. Can I describe without judging? Talk to implications of 
+2. an example of COTS in dialogue (see below re graphic novels, non-human, etc) -- it would have to be absurdly brief but I could also show more detail in some kind of diagram. Earlier question: Is it worth -- re Children of the Soil -- to do a very brief mapping of who/how it is in relation to other practices? Use of ecology here as metaphor: [[Bridle - Ways of Being#^2568db]] - finding connections
 3. body in the centre of the room (see Freeman in this zettel) - has nothing to do with [[children of the soil - short description of film]]
 
 - so far I am trying to cover wayyyy too much.
+
+
 - what are the strands of research dialogue for children of the soil?
 	+ graphic novels 
 	+ non-human 
 	+ screendance
 	+ eco-somatics
-To what extend ought I practice what I preach and do it within the context of the journal article? 
+To what extent ought I practice what I preach and do it within the context of the journal article? 
 
 Which of Schiesser's [[five main positions on practice research]] is this writing based on?
 
@@ -59,6 +61,7 @@ Which of Schiesser's [[five main positions on practice research]] is this writin
 I will start with a theft from the Finnish Nigerian journalist Minna Salami's simple suggestion of the value in having an image to hang an idea from [@lawson-2022-other p.151]. Use of word ecosystem (see below re Rawlence). Consider how fashionable it is? The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem.
 
 - see Rawlence's Treeline for a broad understanding of what it means to be an entity in an ecosystem and to be restored to "that inherited role"[@rawlence-2022-treeline p.215] -- [[Rawlence - The Treeline#^1445bb]] and also Strand on not being able to manage an ecosystem in [[collapse is generative]]
+
 
 ## self and body
 
