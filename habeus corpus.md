@@ -6,7 +6,7 @@ type: "evergreen"
 
 # habeus corpus
 
-_previous note:_ [[the body in the Anthropocene]]
+_previous note:_ [[artistic research and ecosystems]]
 
 The term literally means 'that you have the body'. 
 
