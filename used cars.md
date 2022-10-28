@@ -9,6 +9,8 @@ status-updated: "20221025"
 
 # used cars
 
+_previous note:_  [[I am a collaboration]]
+
 In late March of 2022 a colleague and I were talking about the demands of working across and with other disciplines. My colleague suggested that we need to get a feel for what is enough to understand or know about that discipline before engaging with the experts of those communities. But what is enough? 
 
 In 2001, Site Magazine printed an interview by Power Ekroth and Swen-Olov Wallenstein with Jens Hoffman called _Interdisciplinary Laboratory_.[1]  In it, Wallenstein describes a phenomenon called _used-car syndrome_ that he thinks was coined by the art critic [Hal Foster](https://en.wikipedia.org/wiki/Hal_Foster_(art_critic)). It goes like this:
@@ -37,6 +39,8 @@ I'll finish with some reminders and a bit of housekeeping:
 Thanks, and sending warm wishes from autumn in the north.
 
 Simon
+
+- [[biggs and buchler - communities, values, conventions and actions]]
 
 ## Notes and references
 
