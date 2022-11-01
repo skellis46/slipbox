@@ -74,6 +74,10 @@ Draw link between phenomenologists (Husserl, Heidegger, Merleau-Ponty) and pheno
 - [[Haraway - Symbiogenesis, Sympoiesis, And Art Science Activisms]]
 - [[Le Guin - Deep in Admiration]]
 
+> The environmental crisis is so extensive and neither temporally nor spatially understandable to an individual that some scholars (such as Carlson, 2002; Berleant, 1995) call for a new environmental aesthetic, which would enable an appreciation of nature from a new point of view. Such a re-situating of human agency into its natural environment is being discussed in new approaches to materialism as well. New Materialism, as it developed as a theoretical field in the humanities since the late 1990s, joins several fields in their common way of re-thinking subjectivity in emphasizing the role non-human powers and processes play on various levels of life and sense-making. In this text I will explore how new aesthetic practices on the intersection of art and design develop forms of incorporating non-human agencies into the lived and sensual experience or expand the human body towards its animated, vital environment. Using concepts from phenomenology, New Materialism, and actor–network theory, I will discuss these practices as examples for a new aesthetic, which is not so much an environmental aesthetic but already goes beyond the systemic approach associated with it. [@forster-2020-figurations p.117]
+
+- perhaps though it's absurd (hyperobjects, and not being able to deal with that scale) -- we don't even connect with like-minded, let alone the distant. 
+
 
 ### possible titles
 
