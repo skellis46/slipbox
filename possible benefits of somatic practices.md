@@ -41,7 +41,7 @@ _previous note:_ [[basic questions about somatic practices]]
 - Ginot mentions how the three conditions of somatics -- "moving very slowly and very little, and developing an increasingly fine attention to increasingly subtle movements."[@ginot-2010-shusterman pp.20-21] -- become proxies for somatic practice including when having sex (and implied/suggested by Shusterman)
 - Somatics "contributes to the reorganization of the multiplicity and heterogeneity of that which we call the body" [@ginot-2010-shusterman p.25]
 - "The first value that we usually attribute to these practices is prophylactic: they serve to prevent professional accidents or provide functional rehabilitation following injuries. Although increasingly integrated into dancer training and dance pedagogy, somatics first found its way into dance as a means to limit accidents."[@ginot-2010-shusterman p.12]
-- "improvement of virtuosity in dance."[@ginot-2010-shusterman p.12]
+- "improvement of virtuosity in dance."[@ginot-2010-shusterman p.12] - citing Fortin etc
 - antidote to dominant dance practices (Ginot, p.12)
 - Ginot describes it as a "conceptual apparatus" that "enhances our understanding of pedagogy, dancer's health, and corporeal and gestural aesthetic"(p.13)
 - "the potential to question and critique the dominant social discourse and practices of neo-liberal societies, in which the life of people is increasingly subject to control, surveillance and regulation"[@fortin-2017-looking p.146] -- Fortin mentions 4 others in same paragraph
