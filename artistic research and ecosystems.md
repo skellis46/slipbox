@@ -31,6 +31,9 @@ The distinction is that for one of the 2 versions above I am already a part of a
 	+ eco-somatics
 To what extent ought I practice what I preach and do it within the context of the journal article? 
 
+Noting that it's _easier_ to find theoretical work to be in relation with. It's there. It's desk work. It's more tangible (which is ironic given body in performance work?)
+use of word 'traceability' in Vis [[artistic research and traceability]] -- useful as I describe the map?
+
 Which of Schiesser's [[five main positions on practice research]] is this writing based on?
 
 > Whatever we say, we’re always talking about ourselves.
@@ -48,10 +51,16 @@ Which of Schiesser's [[five main positions on practice research]] is this writin
 - perhaps large (non-human body) images sprinkled throughout - with 'this body' on top?
 
 
+
 I will start with a theft from the Finnish Nigerian journalist Minna Salami's simple suggestion of the value in having an image to hang an idea from [@lawson-2022-other p.151]. Use of word ecosystem (see below re Rawlence). Consider how fashionable it is? The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem.
 
 - see Rawlence's Treeline for a broad understanding of what it means to be an entity in an ecosystem and to be restored to "that inherited role"[@rawlence-2022-treeline p.215] -- [[Rawlence - The Treeline#^1445bb]] and also Strand on not being able to organise an ecosystem in [[collapse is generative]]
 
+> Ecology teaches us that we exist by virtue of our ties to one another and to the more-than-human world, and that those ties are strengthened, not weakened, by the inclusion and equal participation of each and every member of that network. The strength and resilience of computational networks, the inherent power of distribution and interconnection, teaches us the same.[@bridle-2022-ways n.pag.]
+
+Bridle (for Anthropocene )
+
+Also - discussion of solidarity. Side by side. 
 
 ## ecosystems
 - what is an ecosystem? 
