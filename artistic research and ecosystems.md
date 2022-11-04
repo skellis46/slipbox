@@ -14,7 +14,7 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 
 ## Introducing the most basic (and moral) of research intentions
 
-In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and artist-scholars' indifference towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
+In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
 
 some 20 years later -- I think it would be perceived as a conservative approach to the methodological concerns of practice-research. My purpose here is not to get into the pros and cons of Trimingham's proposal, and nor do I wish to dig into how well it was aged (although I think that would be a useful reflection). My intuition is that we have moved further away from calls for clarity and rigour even compared with the wild west days of practice-research in the late 90s and early 2000s. Rather, I want to focus on the epigraph above which comes from just the third paragraph of Trimingham's article, and in which our basic (and moral!) research intention is that the work be for others other than ourselves.
 
@@ -34,45 +34,54 @@ Add here about aim of this writing. Make it plain.
 
 To help understand the implications of Trimingham's assertion for current practice-researchers, I am going to adopt what I suspect is a rather fashionable metaphor. 
 
-## Work table as ecosystem
+## The work table as ecosystem
 
-The Finnish Nigerian journalist Minna Salami's speaks of the value in having an image to hang an idea from; that images are "really good for explaining and bringing people on board" [@lawson-2022-other pp.151-152]. As I write this section it's early November 2022 and I am standing at the work table of an apartment that belongs to some  friends. The table is busier than I would normally work at -- a consequence of a nomadic existence at present. Here's a photograph of the things on the surface of the table; some of them belong to me, others belong to my friends. All of these things have been added to or placed on the table. 
+As I write this section it's early November 2022 and I am standing at the work table of an apartment that belongs to some friends. The table is busier than I would normally work at -- a consequence of a nomadic existence at present. Here's a photograph of the things on the surface of the table; some of them belong to me, others belong to my friends. All of these things have been added to or placed on the table. 
 
 [insert photograph, Simon Ellis, 2 November 2022]
 
-I'm going to describe this work table as an ecosystem. At present, describing anything as an ecosystem holds currency in the arts and humanities. In academic writing in dance and performance,[^1] the word _ecosystem_ gets used loosely and broadly, including as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a place akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying], and as a metaphor [e.g. @parkinson-2010-art].
+I am going to call the surface of this work table an ecosystem -- as an image with which to keep the potential value of this writing clear, but also in the spirit of the somewhat arbitrary nature of biological systems. It's also useful because a table is not unlike an island, and islands are very useful places on which to study interactions between organisms [@wardle-2002-islands]. At present, describing anything as an ecosystem holds currency in the arts and humanities. For instance, in academic writing in dance and performance[^1] the word _ecosystem_ gets used loosely and broadly, including as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a place akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying], and as a metaphor [e.g. @parkinson-2010-art].
 
 [^1]: I did global searches of every issue of four journals: Dance Research (in which the word _ecosystem_ is mentioned in only 1 article); Performance Research (mentioned in 82 articles); Choreographic Practices (7 articles including one of my own editorials); and the Journal of Dance and Somatic Practices (14 articles). 
 
-When an ecosystem is not being used as a metaphor, what is it? An ecosystem is a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other" [@dictionary-2022-ecosystem n.pag.].
-
-For the purposes of this writing I want to draw attention to three words from this definition: _particular_, _found_, and _interacting_.
+An ecosystem is, in fact, a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other" [@dictionary-2022-ecosystem n.pag.]. I would like to draw attention to three words from this definition: _particular_, _found_, and _interacting_.
 
 The common example of an ecosystem is a pond with its ... How one delineates a pond from the rest of its environment is, in effect, a choice. Should the stones around the outside be included? What about the ground on the outside of those stones? You might call it biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a _particular_ environment and that particularity needs to be specified. 
 
-The same goes with what is found and the kinds of interactions we might notice. What is found depends on the eyes and technologies we deploy. What are we hoping to see, what are we willing to see, what kinds of attention are we willing to pay. Mention how perspective changes based on who is looking? What is that law? Observer effect (distinct from uncertainty principle)
+The same goes with what is found and the kinds of interactions we might notice. What is found depends on the eyes and technologies we deploy. What are we hoping to see, what are we willing to see, what kinds of attention we are willing to pay. Mention how perspective changes based on who is looking? = Observer effect (distinct from uncertainty principle). How things are in relationship to each other, how they interact and change, modify, adapt each other. How they move and are moved by other aspects or organisms in the ecosystem.
 
 A way to mark our understanding, or even the limitations of our perspectives.
 
 ## Two surprising things in the table as ecosystem
 
-You probably will not believe this but while I was clearing the table of the stuff that did not belong to it I discovered -- or _found_ -- two surprising things. First was a small piece of text, etched into the table, that said: _it must be for the benefit of others_. Second, and I know it sounds absurd, but I found a video artwork embedded into the surface of the table. Let's say that the artistic work and the piece of graffiti were introduced (by humans) into this ecosystem at an unknown time.
+While I was clearing the table of the stuff that did not belong to it I discovered -- or _found_ -- two surprising things. First was a small piece of graffiti-like text, etched into the table, that said: _it must be for the benefit of others_. Second, I found a video artwork embedded into the surface of the table. 
+
+These discoveries mean that in this table as ecosystem we have: i) a challenge for practice-researchers published on paper in 2002 by Melissa Trimingham, and then introduced by force into the table sometime between then and the end of 2022; and ii) a video artwork presented as practice-research which is called _Children of the Soil_ [@ellis-2022-children], and that was introduced to the table very recently in 2022. Neither the video nor the text made it onto this table by themselves and so we cannot call them native.
+
+This writing now branches into two hypothetical scenarios that explore how this video work (acting as a proxy for all practice-research) interacts with the etched challenge: _it must be for the benefit of others_. Both scenarios describe approaches to **making sense of this table as ecosystem** [this isn't right - not about making sense of table as ecosystem but how I use the table as ecosytem to communicate the work], and in particular attitudes to how we understand the particularities, interactions of the ecosystem, and what might be found -- or introduced -- depending on how we look. 
+
+## Hypothetical scenario 1: inherent
+
+keep in mind interacting, found, particular. 
+
+For this scenario I acknowledged the delicate balance of the ecosystem, and my goal was not to introduce any new or unfamiliar species. Indeed, as my eyes, senses and desires (observer effect) adjusted to the particularities of the work table top, I started finding new materials and interactions peculiar to the ecosystem. The part of the ecosystem most useful was the video artwork _Children of the Soil_. 
+
+For example, within the video I can clearly see the influence of graphic novels, and thinking and practices that relate to the term more-than-human coined by .
+
+These are not abstract entities, constructed by me or others and then introduced for some unstated reason. They are aspects of the work table as ecosystem that are inherent to the video artwork in particular.  
 
 
-What is inherent or native to the work and what might I choose to add to this ecosystem? (contrast native vs introduced -- what's that word?) 
-
-
-
-What if this article were in two parts: 
-1. a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecologies. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
-2. an example of COTS in dialogue (see below re graphic novels, non-human, etc) -- it would have to be absurdly brief but I could also show more detail in some kind of diagram. Earlier question: Is it worth -- re Children of the Soil -- to do a very brief mapping of who/how it is in relation to other practices? Use of ecology here as metaphor: [[Bridle - Ways of Being#^2568db]] - finding connections
-The distinction is that for one of the 2 versions above I am already a part of an ecosystem. The other is an abstraction.
 - what are the strands of research dialogue for children of the soil?
 	+ graphic novels  
 	+ other-than-human  
 	+ screendance  
 	+ eco-somatics  
-To what extent ought I practice what I preach and do it within the context of the journal article?
+	+ temporal experiments in film
+
+## Hypothetical scenario 2: invasive species
+
+a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecologies. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
+
 
 ## analysis - why this matters (contribution)
 
@@ -92,7 +101,9 @@ The distinction between Rawlence's thinking and Strand's is that Rawlence is dis
 
 Bridle (for Anthropocene )
 
-Also - discussion of solidarity. Side by side. 
+Use of ecology here as metaphor: [[Bridle - Ways of Being#^2568db]] - finding connections between all things
+
+Also - Bridle's discussion of solidarity. Side by side. 
 
 - egosystem vs ecosystem (vertical literacy): <https://medium.com/presencing-institute-blog/vertical-literacy-12-principles-for-reinventing-the-21st-century-university-39c2948192ee>
 - making epistemological error of choosing the wrong unit (Bateson, here in Bridle post: <http://booktwo.org/notebook/let-the-river-live/>):
@@ -182,6 +193,23 @@ Curious also re [[a claim to specificity clashes with a claim to singularity]] a
 ---
 
 # edit bin
+
+an example of COTS in dialogue (see below re graphic novels, non-human, etc) -- it would have to be absurdly brief but I could also show more detail in some kind of diagram. Earlier question: Is it worth -- re Children of the Soil -- to do a very brief mapping of who/how it is in relation to other practices? 
+The distinction is that for one of the 2 versions above I am already a part of an ecosystem. The other is an abstraction.
+
+understanding and illustrating Two things I could do. This artwork is COTS. What the work is is not so important -- these scenarios exist for all art that is presented through practice-research. 
+
+Let's say that the artistic work and the piece of graffiti were introduced (by humans) into this ecosystem at an unknown time.
+
+What is inherent or native to the work and what might I choose to add to this ecosystem? (contrast native vs introduced -- what's that word?) 
+
+So now things are clear. We have a basic and moral research intention proposed by Melissa Trimingham -- a part of which is etched into the work table -- and a video artwork,  
+
+but they are also a part of the work table's ecosystem -- like the grain, density and colour of the wood, the glue holding the planks together, and the surface's wear and tear.
+
+So, we have an artistic work and a piece of graffiti that are part of the table's ecosystem. 
+
+The Finnish Nigerian journalist Minna Salami's speaks of the value in having an image to hang an idea from; that images are "really good for explaining and bringing people on board" [@lawson-2022-other pp.151-152]. 
 
 So now things are clear. We have a basic and moral research intention proposed by Melissa Trimingham -- a part of which is etched into the work table -- and a video artwork,  
 
