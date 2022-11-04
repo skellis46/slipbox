@@ -66,7 +66,7 @@ keep in mind interacting, found, particular.
 
 For this scenario I acknowledged the delicate balance of the ecosystem, and my goal was not to introduce any new or unfamiliar species. Indeed, as my eyes, senses and desires (observer effect) adjusted to the particularities of the work table top, I started finding new materials and interactions peculiar to the ecosystem. The part of the ecosystem most useful was the video artwork _Children of the Soil_. 
 
-For example, within the video I can clearly see the influence of graphic novels, and thinking and practices that relate to the term more-than-human coined by .
+For example, within the video I can clearly see the influence of graphic novels, and thinking and practices that relate to the term more-than-human coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle)
 
 These are not abstract entities, constructed by me or others and then introduced for some unstated reason. They are aspects of the work table as ecosystem that are inherent to the video artwork in particular.  
 
