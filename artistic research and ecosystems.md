@@ -6,7 +6,7 @@ csl: /Users/skiptime/Dropbox/pandoc/chicago-author-date-16th-edition.csl
 
 ---
 
-# Ecosystemic practice-research (working title)
+# Ecosystemic practice-research (working title): for the benefit of others
 
 _previous note:_ [[how to think humanity as geologic and vice versa]]
 
@@ -16,7 +16,7 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 
 In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
 
-some 20 years later -- I think it would be perceived as a conservative approach to the methodological concerns of practice-research. My purpose here is not to get into the pros and cons of Trimingham's proposal, and nor do I wish to dig into how well it was aged (although I think that would be a useful reflection). My intuition is that we have moved further away from calls for clarity and rigour even compared with the wild west days of practice-research in the late 90s and early 2000s. Rather, I want to focus on the epigraph above which comes from just the third paragraph of Trimingham's article, and in which our basic (and moral!) research intention is that the work be for others other than ourselves.
+some 20 years later -- I think it would be perceived as a conservative approach (I wonder to what extent it would be perceived) to the methodological concerns of practice-research. My purpose here is not to get into the pros and cons of Trimingham's proposal, and nor do I wish to dig into how well it was aged (although I think that would be a useful reflection). My intuition is that we have moved further away from calls for clarity and rigour even compared with the wild west days of practice-research in the late 90s and early 2000s. Rather, I want to focus on the epigraph above which comes from just the third paragraph of Trimingham's article, and in which our basic (and moral!) research intention is that the work be for others other than ourselves.
 
 > We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves. 
 
@@ -40,7 +40,9 @@ As I write this section it's early November 2022 and I am standing at the work t
 
 [insert photograph, Simon Ellis, 2 November 2022]
 
-I am going to call the surface of this work table an ecosystem -- as an image with which to keep the potential value of this writing clear, but also in the spirit of the somewhat arbitrary nature of biological systems. It's also useful because a table is not unlike an island, and islands are very useful places on which to study interactions between organisms [@wardle-2002-islands]. At present, describing anything as an ecosystem holds currency in the arts and humanities. For instance, in academic writing in dance and performance[^1] the word _ecosystem_ gets used loosely and broadly, including as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a place akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying], and as a metaphor [e.g. @parkinson-2010-art].
+I am going to call the surface of this work table an ecosystem, 
+
+At present, describing anything as an ecosystem holds currency in the arts and humanities. For instance, in academic writing in dance and performance[^1] the word _ecosystem_ gets used loosely and broadly, including as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a place akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying], and as a metaphor [e.g. @parkinson-2010-art].
 
 [^1]: I did global searches of every issue of four journals: Dance Research (in which the word _ecosystem_ is mentioned in only 1 article); Performance Research (mentioned in 82 articles); Choreographic Practices (7 articles including one of my own editorials); and the Journal of Dance and Somatic Practices (14 articles). 
 
@@ -52,23 +54,51 @@ The same goes with what is found and the kinds of interactions we might notice. 
 
 A way to mark our understanding, or even the limitations of our perspectives.
 
+and I do this to keep the potential value of this writing clear, but also in the spirit of the somewhat arbitrary nature of biological systems. It's also useful because a table is not unlike an island, and islands are very useful places on which to study interactions between organisms [@wardle-2002-islands]. 
+
 ## Two surprising things in the table as ecosystem
+
+I am making this up. This is a confabulation. 
 
 While I was clearing the table of the stuff that did not belong to it I discovered -- or _found_ -- two surprising things. First was a small piece of graffiti-like text, etched into the table, that said: _it must be for the benefit of others_. Second, I found a video artwork embedded into the surface of the table. 
 
-These discoveries mean that in this table as ecosystem we have: i) a challenge for practice-researchers published on paper in 2002 by Melissa Trimingham, and then introduced by force into the table sometime between then and the end of 2022; and ii) a video artwork presented as practice-research which is called _Children of the Soil_ [@ellis-2022-children], and that was introduced to the table very recently in 2022. Neither the video nor the text made it onto this table by themselves and so we cannot call them native.
+These discoveries mean that in this simple table-as-ecosystem we have: i) a challenge for practice-researchers published on paper in 2002 by Melissa Trimingham, and then introduced by force into the table sometime between then and the end of 2022; and ii) a video artwork presented as practice-research which is called _Children of the Soil_ [-@ellis-2022-children], and that must have been introduced to the table in the latter part of 2022.  include def of native here. Neither the video nor the text made it onto this table by themselves and so we cannot call them native.
 
-This writing now branches into two hypothetical scenarios that explore how this video work (acting as a proxy for all practice-research) interacts with the etched challenge: _it must be for the benefit of others_. Both scenarios describe approaches to **making sense of this table as ecosystem** [this isn't right - not about making sense of table as ecosystem but how I use the table as ecosytem to communicate the work], and in particular attitudes to how we understand the particularities, interactions of the ecosystem, and what might be found -- or introduced -- depending on how we look. 
+My discovery (construction) of this rather curious ecosystem affords two hypothetical trajectories or scenarios. I will use these scenarios to explore how the video work can act as a proxy for all practice-research, and how the work interacts with the etching: _it must be for the benefit of others_. 
+
+I have deployed the metaphor of the table-as-ecosystem to playfully and clearly communicate the particularities and interactions of the ecosystem, and what might be found in it -- or introduced to it -- depending on how we look and what we want to see. It is certainly possible that the two trajectories might overlap _in the real world_, but for the sake of clarity I attempt to keep them as distinct as possible.  
+
+- perhaps inherent is not the right word -- both scenarios are constructions. If not 'inherent' and 'invasive' then what? I suspect they are still useful -- but it's a different question from what is there? And what if one of the practices was reading 'philosophy', does that make it inherent (akin to reading graphic novels)?
 
 ## Hypothetical scenario 1: inherent
 
 keep in mind interacting, found, particular. 
 
+
+- hanging over this are two historical practices as an artist: screendance, and choreography. They are inescapable. When I make timelapses I work with and through the eyes/frames of screendance and choreography. Caught or wrapped in my identity/history/practice. 
+- how to separate (or keep together) process and product? 
+
+
+mention that vimeo thing about practice-research -- and past practices interacting with current ... the diagram dude. 
+
+What was the practice or practices? (which might be distinct from what is able to be seen/noticed in the output or outcome of those practices). c.f. those things that are evident in the outcome.  
+
+- timelapses
+- falling slowly
+- after effects: formal properties and developing that format/form
+- observations/listening outside -- each day, regularly. Being outside.
+- reading graphic novels (Zerocalcare, Harari)
+- writing and collecting: this body
+- reading on more-than-human
+
+
+These are not abstract entities, constructed by me or others and then introduced for some stated or unstated reason. They are aspects of the work table as ecosystem that are inherent to the video artwork in particular.  
+
 For this scenario I acknowledged the delicate balance of the ecosystem, and my goal was not to introduce any new or unfamiliar species. Indeed, as my eyes, senses and desires (observer effect) adjusted to the particularities of the work table top, I started finding new materials and interactions peculiar to the ecosystem. The part of the ecosystem most useful was the video artwork _Children of the Soil_. 
 
-For example, within the video I can clearly see the influence of graphic novels, and thinking and practices that relate to the term more-than-human coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle)
+For example, within the video I can clearly see the influence of graphic novels, and thinking and practices that relate to the term more-than-human coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle)
 
-These are not abstract entities, constructed by me or others and then introduced for some unstated reason. They are aspects of the work table as ecosystem that are inherent to the video artwork in particular.  
+Mention ad-hoc / ab-ovo? 
 
 
 - what are the strands of research dialogue for children of the soil?
@@ -82,6 +112,28 @@ These are not abstract entities, constructed by me or others and then introduced
 
 a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecologies. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
 
+### looking at the JAR 26 (arbitrary) - could also add V27
+
+- like a battle for newness; constant claims to originality; I can't unsee it now; certainly approximates Steyerl's singularity thinking
+- Ali Mousavi - Acoustemological Investigation: Sound Diary Tehran - 2022
+	- in relation to theory: Ricoeur, Foucault, Baudelaire, etc
+	- no mention of a single artist with a similar or overlapping practice
+- Pavel Prokopic - Affective Atmosphere: A Non-Representational Method of Devising Film Performance and Fiction
+	- "the project meaningfully applies philosophical concerns to filmmaking"
+	- "key concepts of Deleuze and Guattari, and theoretical writings on atmosphere (Böhme, Griffero) and film performance (Benjamin, Del Río)"
+	- no mention of another artwork or current (or dead!) artist
+- Ella Raidel - Of Haunted Spaces
+	- Bergson, Debord, 
+	- discusses influences but no sense of engaging with other researchers working with similar themes, methods, geographies
+- Geetanjali Sachdev - Petals to Light...Pedagogic Possibilities with Floor Art
+	- nope, not another artist mentioned as entirely unique
+- David Szanto & Geneviève Sicotte - Research-Creation about and with Food: Diffraction, Pluralism, and Knowing
+	- bring the two works (by the two authors) in dialogue with each other
+	- nope, nothing else though
+- Katharina Swoboda - Zoological Architectures and Empty Frames
+	- Butler, 
+	- but what is the practice? who is it in relation to? 
+	- little sense of this (but definitely better than the others)
 
 ## analysis - why this matters (contribution)
 
@@ -128,28 +180,7 @@ Also - Bridle's discussion of solidarity. Side by side.
 - more like a foreign body dropping into a pre-existing ecosystem; isolated; argument from authority; these are singular systems (Steyerl).
 
 
-#### looking at the JAR 26 (arbitrary) - could also add V27
 
-- like a battle for newness; constant claims to originality; I can't unsee it now; certainly approximates Steyerl's singularity thinking
-- Ali Mousavi - Acoustemological Investigation: Sound Diary Tehran - 2022
-	- in relation to theory: Ricoeur, Foucault, Baudelaire, etc
-	- no mention of a single artist with a similar or overlapping practice
-- Pavel Prokopic - Affective Atmosphere: A Non-Representational Method of Devising Film Performance and Fiction
-	- "the project meaningfully applies philosophical concerns to filmmaking"
-	- "key concepts of Deleuze and Guattari, and theoretical writings on atmosphere (Böhme, Griffero) and film performance (Benjamin, Del Río)"
-	- no mention of another artwork or current (or dead!) artist
-- Ella Raidel - Of Haunted Spaces
-	- Bergson, Debord, 
-	- discusses influences but no sense of engaging with other researchers working with similar themes, methods, geographies
-- Geetanjali Sachdev - Petals to Light...Pedagogic Possibilities with Floor Art
-	- nope, not another artist mentioned as entirely unique
-- David Szanto & Geneviève Sicotte - Research-Creation about and with Food: Diffraction, Pluralism, and Knowing
-	- bring the two works (by the two authors) in dialogue with each other
-	- nope, nothing else though
-- Katharina Swoboda - Zoological Architectures and Empty Frames
-	- Butler, 
-	- but what is the practice? who is it in relation to? 
-	- little sense of this (but definitely better than the others)
 
 - compare with Schwab in describing a piece of knowledge as an artefact of communication: [[experimentation is social#^da953d]] - so if this is plausible, who then is doing the communicating? (if it isn't artist-researchers)
 - perhaps though Schwab's concern for how artworks are provisional ([[schwab - experimental systems#^279252]]) (ie epistemic things filled with epistemic potential) is fundamental to the expositions in JAR as being starting points or seeds. But where does that leave us? Scattering seeds everywhere (seeds dependent on theory-as-water).
@@ -193,6 +224,8 @@ Curious also re [[a claim to specificity clashes with a claim to singularity]] a
 ---
 
 # edit bin
+
+Both scenarios describe approaches to **making sense of this table as ecosystem** [this isn't right - not about making sense of table as ecosystem but how I use the table as ecosystem to communicate the work], and in particular attitudes to how we understand the particularities, interactions of the ecosystem, and what might be found -- or introduced -- depending on how we look. 
 
 an example of COTS in dialogue (see below re graphic novels, non-human, etc) -- it would have to be absurdly brief but I could also show more detail in some kind of diagram. Earlier question: Is it worth -- re Children of the Soil -- to do a very brief mapping of who/how it is in relation to other practices? 
 The distinction is that for one of the 2 versions above I am already a part of an ecosystem. The other is an abstraction.
