@@ -15,7 +15,7 @@ Their footnote to this text is as follows:
 
 > This is a standard operating principle for practicing historians. For an extended consideration of this point, see the final two chapters of Fredric Jameson, Valences of the Dialectic (London and New York: Verso, 2010), and Evan Calder Williams, Combined and Uneven Apocalypse (Winchester, UK: Zero Books, 2011). [@burges-2016-introduction p.28]
 
-- made me think about [[dance and embodiment (working title)]] and wondering about what kind of hermeneutics I might be proposing to understand the 'present' of somatic practices; that part of my thinking is about examining or even just glimpsing those assumptions
+- made me think about [[dance and embodiment (working title)]] and wondering about what kind of hermeneutics I might be proposing to understand the 'present' of somatic practices; that part of my thinking is about examining or even just glimpsing those assumptions. For this see also [[meta-awareness in dance improvisation]] and the work of [[Gibson - Mindfulness, Interoception, and the Body]]
 - [[footfall]]
 
 ---
