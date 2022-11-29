@@ -20,8 +20,7 @@ Personal communication from Schwab:
 
 OK, here's Schwab referencing himself re expositions:
 
-
->Using the concept of _expositionality_ or _exposing practice as research_ (Schwab 2011, 2012b; Schwab and Borgdorff 2014), JAR subjects both the form and the content of research articulations to a rigorous peer-review process (Schwab 2018a). However, to understand the epistemological implications of expositionality, I have also been investigating how Hans-Jörg Rheinberger’s theory of experimental systems (1997) may be methodologically deployed, how it may help characterise what is happening in artistic research, and how, conversely, such a theory would have to be critiqued from the point of view of artistic research practice (Schwab 2014b) [@schwab_experimental_2019 p.161]
+> Using the concept of _expositionality_ or _exposing practice as research_ (Schwab 2011, 2012b; Schwab and Borgdorff 2014), JAR subjects both the form and the content of research articulations to a rigorous peer-review process (Schwab 2018a). However, to understand the epistemological implications of expositionality, I have also been investigating how Hans-Jörg Rheinberger’s theory of experimental systems (1997) may be methodologically deployed, how it may help characterise what is happening in artistic research, and how, conversely, such a theory would have to be critiqued from the point of view of artistic research practice (Schwab 2014b) [@schwab_experimental_2019 p.161]
 
 - [ ] find and read Schwab's 2014b (see below) to deepen understanding of expositions (and history of use)
 
