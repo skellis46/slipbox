@@ -39,7 +39,7 @@ And why wouldn't we be? We believe in the value and importance of these practice
 
 Any sign of negativity? Or scepticism? Or even just some limits of what is possible? 
 
-- could start with list of efficacy just from V1.1? or perhaps a sample (taken at random from every volume?)
+- could start with list of efficacy just from V1.1? or perhaps a sample (taken at random from every volume?) -- like some kind of spinning wheel that returns a number and I choose that article/issue? 
 - [[possible benefits of somatic practices]]
 - based on going through every article in every issue in JDSP. Not exhaustive in the sense that other claims are made in other journals (e.g. dance and psychotherapy), but it's a start.
 - useful summary at beginning of [[ginot - epistemology of somatics]] -- describes pedagogic, better (more virtuosic) dancing, injury prevention and rehab
