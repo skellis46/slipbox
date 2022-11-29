@@ -26,6 +26,14 @@ some 20 years later -- I think it would be perceived as a conservative approach 
 
 go into some detail with the statement. Why moral? What about the word _benefit_? Like it's some kind of litmus test. Do I go into implications of it not being true? Who would disagree with it? (which is not to say it's complex to find examples that are exceptions)
 
+- possible to add discussion about [[art practices explicitly become epistemic things]] -- and the argument I make there about Borgdorff and JAR
+- possibly also re [[research on, for and in the arts]]
+- [[valorising vagueness]]
+- based on intrinsic position as described here: <https://github.com/skellis46/finger-pointing-moon/commit/07e342124d41ee6b27e0c5fd28b97c50bcf2b3bf>
+- purpose is not to provide a written (extrinsic) account of the process or outcomes. To use it to dig into the various ways I might approach its context. Not quite right -- because some of the [[list of possible contexts for children of the soil]] would likely end as post-hoc (extrinsic) renderings
+- lines are blurry -- slippage between 'output' and 'context' (very common in JAR and perhaps JER?)
+- perhaps my ab ovo (etc) thinking are useful: <20160919 - leeds seminar - after the fiction.pdf>
+
 For the purposes of this writing I will take Trimingham's statement as axiomatic: that re
 
 this statement is the spine for this writing. Whether you agree with it or not, . A way to draw attention our responsibilities as practice-researchers (use of that pronoun indicates my audience), which are really no different from the responsibilities of researchers in other disciplines even if the epistemic and ontologic conditions of the work we do are starkly different. 
@@ -48,7 +56,7 @@ At present, describing anything as an ecosystem holds currency in the arts and h
 
 An ecosystem is, in fact, a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other" [@dictionary-2022-ecosystem n.pag.]. I would like to draw attention to three words from this definition: _particular_, _found_, and _interacting_.
 
-The common example of an ecosystem is a pond with its ... How one delineates a pond from the rest of its environment is, in effect, a choice. Should the stones around the outside be included? What about the ground on the outside of those stones? You might call it biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a _particular_ environment and that particularity needs to be specified. 
+The common example of an ecosystem is a pond with its ... How one delineates a pond from the rest of its environment is, in effect, a choice. Should the stones around the outside be included? What about the ground on the outside of those stones? You might call it biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a _particular_ environment and that particularity needs to be specified. Add Hannah Close's thinking on [[a system has boundaries]] - similar to gerrymandering, but also questioning the word 'system'.
 
 The same goes with what is found and the kinds of interactions we might notice. What is found depends on the eyes and technologies we deploy. What are we hoping to see, what are we willing to see, what kinds of attention we are willing to pay. Mention how perspective changes based on who is looking? = Observer effect (distinct from uncertainty principle). How things are in relationship to each other, how they interact and change, modify, adapt each other. How they move and are moved by other aspects or organisms in the ecosystem.
 
@@ -214,6 +222,8 @@ Curious also re [[a claim to specificity clashes with a claim to singularity]] a
 - Which of Schiesser's [[five main positions on practice research]] is this writing based on?
 - perhaps large (non-human body) images sprinkled throughout - with 'this body' on top?
 
+A way to end:
+- when we study the world we are only making evident limits of our own thinking (embodied in our logbooks and measuring instruments) -- from [[Bridle - Ways of Being#^b5edaa]]
 
 --- 
 
