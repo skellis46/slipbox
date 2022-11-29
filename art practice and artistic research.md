@@ -12,7 +12,7 @@ _questions & thoughts:_
 
 >We can justifiably speak of artistic research (‘research in the arts’) when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research. [@borgdorff-2012-conflict p.147]
 
-- this is critical for #finger-pointing-moon because HB clearly makes a case for what I describe as an _intrinsic_ approach to practice-research (see [[valorising vagueness]] that mentions [note on github](https://github.com/skellis46/finger-pointing-moon/commit/07e342124d41ee6b27e0c5fd28b97c50bcf2b3bf)). It also implies for that project that its design is only part practice-research (the work on authentic movement).
+- this is critical for #finger-pointing-moon because HB clearly makes a case for what I describe as an _intrinsic_ approach to practice-research (see [[valorising vagueness]] that mentions [note on github](https://github.com/skellis46/finger-pointing-moon/commit/07e342124d41ee6b27e0c5fd28b97c50bcf2b3bf)). It also implies for that project (finger pointing moon) that its design is only part practice-research (the work on authentic movement).
 
 --- 
 
