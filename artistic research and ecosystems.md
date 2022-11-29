@@ -12,6 +12,15 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 
 ## Abstract
 
+
+Borgdorff definition from [[art practice and artistic research]]:
+
+Borgdorff sums up his thinking by writing that "art practice is paramount as the subject matter, the method, the context, and the outcome of artistic research."[@borgdorff-2012-conflict p.146]
+
+>We can justifiably speak of artistic research (‘research in the arts’) when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research. [@borgdorff-2012-conflict p.147]
+
+- different from practice-research in nursing for example? 
+
 ## Introducing the most basic (and moral) of research intentions
 
 In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
@@ -25,6 +34,8 @@ some 20 years later -- I think it would be perceived as a conservative approach 
 - is Trimingham's statement different from the ecosystem/bubble I am hinting at? My hunch is that the bubble is a sub-set of her thinking.
 
 go into some detail with the statement. Why moral? What about the word _benefit_? Like it's some kind of litmus test. Do I go into implications of it not being true? Who would disagree with it? (which is not to say it's complex to find examples that are exceptions)
+
+
 
 - possible to add discussion about [[art practices explicitly become epistemic things]] -- and the argument I make there about Borgdorff and JAR
 - possibly also re [[research on, for and in the arts]]
@@ -118,7 +129,7 @@ Mention ad-hoc / ab-ovo?
 
 ## Hypothetical scenario 2: invasive species
 
-a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecologies. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
+a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecosystems. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
 
 ### looking at the JAR 26 (arbitrary) - could also add V27
 
