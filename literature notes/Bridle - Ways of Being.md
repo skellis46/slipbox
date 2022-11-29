@@ -32,10 +32,10 @@ _previous note:_
 
 > The tree which moves some to tears of joy is in the eyes of others only a green thing that stands in the way. Some see nature all ridicule and deformity … and some scarce see nature at all. But to the eyes of the man of imagination, nature is imagination itself. - William Blake
 
-- more-than-human world - term coined by David Abram
+- more-than-human world - term coined by David Abram ^d5b6ba
 - biosphere (animate forces) as companions and teachers
 
-> No matter how much our own species preoccupies us, life is a far wider system. Life is an incredibly complex interdependence of matter and energy among millions of species beyond (and within) our own skin. These Earth aliens are our relatives, our ancestors, and part of us. They cycle our matter and bring us water and food. Without “the other” we do not survive. -- Lynn Margulis
+> No matter how much our own species preoccupies us, life is a far wider system. Life is an incredibly complex interdependence of matter and energy among millions of species beyond (and within) our own skin. These Earth aliens are our relatives, our ancestors, and part of us. They cycle our matter and bring us water and food. Without “the other” we do not survive. -- Lynn Margulis ^d69567
 
 - world as made up of subjects, not objects
 
@@ -117,7 +117,7 @@ _previous note:_
 - For more on Karen Barad’s work, see Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning (Durham, NC: Duke University Press, 2007), or her essay ‘On Touching – The Inhuman That Therefore I Am’, Differences, 23(3), 1 December 2012, pp. 206–23; DOI:10.1215/10407391-1892943
 - the more-than-human world lacks clear breaks, borders or divisions [[a border is not a boundary]]
 - reductive science mirrored by binary nature of technology; but more we attempt to "perform such abstractions" distinctions blur and fall apart
-- when we study the world we are only making evident limits of our own thinking (embodied in our logbooks and measuring instruments)
+- when we study the world we are only making evident limits of our own thinking (embodied in our logbooks and measuring instruments) ^b5edaa
 - Lewis Fry Richardson: more accurately try to measure things, the more complex they become (Richardson effect)
 - Richardson effect later termed 'fractals' by Benoit Mandelbrot: structures which repeat to infinite complexity
 - with closer scrutiny (enabled by technology), instead of a rigid map, a pattern of interference is revealed
@@ -148,7 +148,7 @@ _previous note:_
 - nutation is "a mode of expansion which is not reactive, muscular, and domineering, but gentle, expansive and generative. It is through their own attentiveness to their environment that plants have obtained the world."[@bridle-2022-ways n.pag.]
 - Duchamp's _The Large Glass_ included 'inhuman agency'
 
-> Duchamp sought to incorporate into the work an inhuman agency: an accommodation with time and fate; an insistence on mystery, incompleteness and unknowability.[@bridle-2022-ways n.pag.]
+> Duchamp sought to incorporate into the work an inhuman agency: an accommodation with time and fate; an insistence on mystery, incompleteness and unknowability.[@bridle-2022-ways n.pag.] ^84a1eb
 
 - describing Duchamp and Darwin projecting onto glass to stimulate a particular kind of attention and awareness of invisible modes of life
 - transparency does not equate to understanding; seeing does not mean knowing or dominating
