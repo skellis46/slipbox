@@ -13,15 +13,57 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 ## Abstract
 
 
-Borgdorff definition from [[art practice and artistic research]]:
+
+
+- different from practice-research in nursing for example? 
+- [ ] look at SdH's book on practice-research?
+
+
+This writing is an attempt to make sense of the "mangle of practice" [@pickering-1995-mangle] [^alys] in a deliberate, precise and vulnerable way. I want to underline the danger of cohesion, and that the stories we tell about practice-research tend to value coherence over mess even when the defining characteristic of making art (and indeed doing practice-research) is mess. And that that coherence is almost always argued from authorities[^anna] that lie outside the communities of practice for artists and artist-scholars. That there is pressure to tell stories of clear (and impactful) findings, discoveries, aims and objectives which are at odds with the reality of art-making (whether in the academy or outside of it, whether it is deemed research-ful or not). About the choices we (practice-researchers) make to dress up our research to operate more cleanly (or fluidly) in the machine of the academy. To lubricate this machine. In doing so, we perform a disservice to art-making processes and outcomes, the epistemic possibilities of practice-research, and a disservice to the academy itself (thinking here of broader understandings of ways of knowing). It also impoverishes practice-research. 
+
+Add here about aim of this writing. Make it plain.
+
+[^alys]: Introduced to me by Alys Longley.
+[^anna]: Introduced to me by Anna Pakes.
+
+- noting that cohesion does not necessarily mean precise. Often, cohesion is marked by vagueness (see JAR examples) - [[valorising vagueness]]. That's a strange dance that one. To deploy language of uncertainty while being validated by authority. 
+- something about practice-research and not artistic research. Not the time and place. Mostly about geography.
+- use term artist-scholars, artist-researchers, practice-researchers interchangeably. 
+
+My approach is to reflect deeply and critically on my film project called _Children of the Soil_ [-@ellis-2022-children]. I am going to ascribe the term _practice-research_ to this project (more on that later). I use a work I made because it enables me to access the mangle more completely: the half-formed thoughts, the abstractions, the extrusions, the interruptions, the unknowing, the clarity, the vagueness, the faults, the unfinished, the accidents, the mess. Not because I want to draw attention to this work (the work is what it is is). 
+
+To start with, I need to set out some clear categories under which (or by which) all practice-research projects exist. These categories -- or perhaps conditions -- exist in different contexts and different situations for artist-researchers. I'll make these different conditions clear as I write them.
+
+- possible to add discussion about [[art practices explicitly become epistemic things]] -- and the argument I make there about Borgdorff and JAR
+
+
+
+
+
+## On, for and in
+
+- possibly also re [[research on, for and in the arts]]
+- Borgdorff definition from [[art practice and artistic research]]:
 
 Borgdorff sums up his thinking by writing that "art practice is paramount as the subject matter, the method, the context, and the outcome of artistic research."[@borgdorff-2012-conflict p.146]
 
 >We can justifiably speak of artistic research (‘research in the arts’) when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research. [@borgdorff-2012-conflict p.147]
 
-- different from practice-research in nursing for example? 
+- I am not suggesting that there is nothing to gain from applying arts practices in and to other fields. Indeed, I am deeply curious about such applications -- their limits and possibilities. 
 
-## Introducing the most basic (and moral) of research intentions
+## Intrinsic vs extrinsic
+
+- based on intrinsic position as described here: <https://github.com/skellis46/finger-pointing-moon/commit/07e342124d41ee6b27e0c5fd28b97c50bcf2b3bf>
+- purpose is not to provide a written (extrinsic) account of the process or outcomes. To use it to dig into the various ways I might approach its context. Not quite right -- because some of the [[list of possible contexts for children of the soil]] would likely end as post-hoc (extrinsic) renderings
+- lines are blurry -- slippage between 'output' and 'context' (very common in JAR and perhaps JER?)
+
+## ad-hoc / retrofit
+
+intelligent retro-fitting -- from team meeting on 20221130. So similar to ad-hoc (https://practiceasresearchblog.wordpress.com/2017/07/15/dressing-it-up-as-research-categories-of-practice-as-research/)
+
+- perhaps my ab ovo (etc) thinking are useful: <20160919 - leeds seminar - after the fiction.pdf>
+
+## The most basic (and moral) of research intentions
 
 In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
 
@@ -35,25 +77,13 @@ some 20 years later -- I think it would be perceived as a conservative approach 
 
 go into some detail with the statement. Why moral? What about the word _benefit_? Like it's some kind of litmus test. Do I go into implications of it not being true? Who would disagree with it? (which is not to say it's complex to find examples that are exceptions)
 
-
-
-- possible to add discussion about [[art practices explicitly become epistemic things]] -- and the argument I make there about Borgdorff and JAR
-- possibly also re [[research on, for and in the arts]]
-- [[valorising vagueness]]
-- based on intrinsic position as described here: <https://github.com/skellis46/finger-pointing-moon/commit/07e342124d41ee6b27e0c5fd28b97c50bcf2b3bf>
-- purpose is not to provide a written (extrinsic) account of the process or outcomes. To use it to dig into the various ways I might approach its context. Not quite right -- because some of the [[list of possible contexts for children of the soil]] would likely end as post-hoc (extrinsic) renderings
-- lines are blurry -- slippage between 'output' and 'context' (very common in JAR and perhaps JER?)
-- perhaps my ab ovo (etc) thinking are useful: <20160919 - leeds seminar - after the fiction.pdf>
-
 For the purposes of this writing I will take Trimingham's statement as axiomatic: that re
 
 this statement is the spine for this writing. Whether you agree with it or not, . A way to draw attention our responsibilities as practice-researchers (use of that pronoun indicates my audience), which are really no different from the responsibilities of researchers in other disciplines even if the epistemic and ontologic conditions of the work we do are starkly different. 
 
-Add here about aim of this writing. Make it plain.
+## The danger of ecosystems
 
 To help understand the implications of Trimingham's assertion for current practice-researchers, I am going to adopt what I suspect is a rather fashionable metaphor. 
-
-## The work table as ecosystem
 
 As I write this section it's early November 2022 and I am standing at the work table of an apartment that belongs to some friends. The table is busier than I would normally work at -- a consequence of a nomadic existence at present. Here's a photograph of the things on the surface of the table; some of them belong to me, others belong to my friends. All of these things have been added to or placed on the table. 
 
@@ -68,6 +98,8 @@ At present, describing anything as an ecosystem holds currency in the arts and h
 An ecosystem is, in fact, a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other" [@dictionary-2022-ecosystem n.pag.]. I would like to draw attention to three words from this definition: _particular_, _found_, and _interacting_.
 
 The common example of an ecosystem is a pond with its ... How one delineates a pond from the rest of its environment is, in effect, a choice. Should the stones around the outside be included? What about the ground on the outside of those stones? You might call it biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a _particular_ environment and that particularity needs to be specified. Add Hannah Close's thinking on [[a system has boundaries]] - similar to gerrymandering, but also questioning the word 'system'.
+
+Also Steyerl on bubbles: [[Steyerl on specificity and singularity]]
 
 The same goes with what is found and the kinds of interactions we might notice. What is found depends on the eyes and technologies we deploy. What are we hoping to see, what are we willing to see, what kinds of attention we are willing to pay. Mention how perspective changes based on who is looking? = Observer effect (distinct from uncertainty principle). How things are in relationship to each other, how they interact and change, modify, adapt each other. How they move and are moved by other aspects or organisms in the ecosystem.
 
