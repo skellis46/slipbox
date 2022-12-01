@@ -13,11 +13,7 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 ## Abstract
 
 
-
-
-- different from practice-research in nursing for example? 
-- [ ] look at SdH's book on practice-research?
-
+## Introduction
 
 This writing is an attempt to make sense of the "mangle of practice" [@pickering-1995-mangle] [^alys] in a deliberate, precise and vulnerable way. I want to underline the danger of cohesion, and that the stories we tell about practice-research tend to value coherence over mess even when the defining characteristic of making art (and indeed doing practice-research) is mess. And that that coherence is almost always argued from authorities[^anna] that lie outside the communities of practice for artists and artist-scholars. That there is pressure to tell stories of clear (and impactful) findings, discoveries, aims and objectives which are at odds with the reality of art-making (whether in the academy or outside of it, whether it is deemed research-ful or not). About the choices we (practice-researchers) make to dress up our research to operate more cleanly (or fluidly) in the machine of the academy. To lubricate this machine. In doing so, we perform a disservice to art-making processes and outcomes, the epistemic possibilities of practice-research, and a disservice to the academy itself (thinking here of broader understandings of ways of knowing). It also impoverishes practice-research. 
 
@@ -29,6 +25,8 @@ Add here about aim of this writing. Make it plain.
 - noting that cohesion does not necessarily mean precise. Often, cohesion is marked by vagueness (see JAR examples) - [[valorising vagueness]]. That's a strange dance that one. To deploy language of uncertainty while being validated by authority. 
 - something about practice-research and not artistic research. Not the time and place. Mostly about geography.
 - use term artist-scholars, artist-researchers, practice-researchers interchangeably. 
+- different from practice-research in nursing for example? 
+- [ ] look at SdH's book on practice-research?
 
 My approach is to reflect deeply and critically on my film project called _Children of the Soil_ [-@ellis-2022-children]. I am going to ascribe the term _practice-research_ to this project (more on that later). I use a work I made because it enables me to access the mangle more completely: the half-formed thoughts, the abstractions, the extrusions, the interruptions, the unknowing, the clarity, the vagueness, the faults, the unfinished, the accidents, the mess. Not because I want to draw attention to this work (the work is what it is is). 
 
@@ -51,9 +49,24 @@ Borgdorff sums up his thinking by writing that "art practice is paramount as the
 
 - I am not suggesting that there is nothing to gain from applying arts practices in and to other fields. Indeed, I am deeply curious about such applications -- their limits and possibilities. 
 
-## Intrinsic vs extrinsic
+> Consequently, guiding intuitions and chance inspirations are just as important for the motivation and dynamism of research as methodological prescrip- tions and discursive justifications. [@borgdorff-2012-conflict p.162]
 
-- based on intrinsic position as described here: <https://github.com/skellis46/finger-pointing-moon/commit/07e342124d41ee6b27e0c5fd28b97c50bcf2b3bf>
+## Intrinsic vs extrinsic epistemic positions
+
+There are two broad and normally distinct epistemic positions in practice-research: 1) artistic artefacts require a written reflective or analytical statement that synthesises and reveals the epistemic status or findings of the research [e.g. @nelson-2013-practice; @noauthor-2019-ref2021]; 2) artistic artefacts themselves contain and communicate research understandings, including apprehension, experience (etc) [@borgdorff-2012-conflict], [@scrivener-2002-art]
+
+Both positions have inherent problems.
+
+The extrinsic position -- that knowledge in practice-research is revealed or clarified through written forms -- sets no margins or limits on the epistemic claims that artistic-scholars make on behalf of their practices, and such claims are rarely "made available for sustained and verifiable peer review" [@haseman-2007-tightrope n.pag.].  
+
+The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes -- vagueness and ambiguity -- are viewed as strengths and/or weaknesses. The intrinsic position is particularly vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. Add point here about documentation being the critical proxy in practice-research This is because "proxies are easier to manipulate than the complicated reality they represent" [@oneil-2016-weapons Chapter 3]. Could speak of maps and territories here.
+
+
+riously, both positions are often inadvertantly supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
+
+These intrinsic and extrinsic epistemic positions also share one other serious problem. Both positions explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
+
+
 - purpose is not to provide a written (extrinsic) account of the process or outcomes. To use it to dig into the various ways I might approach its context. Not quite right -- because some of the [[list of possible contexts for children of the soil]] would likely end as post-hoc (extrinsic) renderings
 - lines are blurry -- slippage between 'output' and 'context' (very common in JAR and perhaps JER?)
 
@@ -107,15 +120,7 @@ A way to mark our understanding, or even the limitations of our perspectives.
 
 and I do this to keep the potential value of this writing clear, but also in the spirit of the somewhat arbitrary nature of biological systems. It's also useful because a table is not unlike an island, and islands are very useful places on which to study interactions between organisms [@wardle-2002-islands]. 
 
-## Two surprising things in the table as ecosystem
 
-I am making this up. This is a confabulation. 
-
-While I was clearing the table of the stuff that did not belong to it I discovered -- or _found_ -- two surprising things. First was a small piece of graffiti-like text, etched into the table, that said: _it must be for the benefit of others_. Second, I found a video artwork embedded into the surface of the table. 
-
-These discoveries mean that in this simple table-as-ecosystem we have: i) a challenge for practice-researchers published on paper in 2002 by Melissa Trimingham, and then introduced by force into the table sometime between then and the end of 2022; and ii) a video artwork presented as practice-research which is called _Children of the Soil_ [-@ellis-2022-children], and that must have been introduced to the table in the latter part of 2022.  include def of native here. Neither the video nor the text made it onto this table by themselves and so we cannot call them native.
-
-My discovery (construction) of this rather curious ecosystem affords two hypothetical trajectories or scenarios. I will use these scenarios to explore how the video work can act as a proxy for all practice-research, and how the work interacts with the etching: _it must be for the benefit of others_. 
 
 I have deployed the metaphor of the table-as-ecosystem to playfully and clearly communicate the particularities and interactions of the ecosystem, and what might be found in it -- or introduced to it -- depending on how we look and what we want to see. It is certainly possible that the two trajectories might overlap _in the real world_, but for the sake of clarity I attempt to keep them as distinct as possible.  
 
@@ -147,9 +152,7 @@ These are not abstract entities, constructed by me or others and then introduced
 
 For this scenario I acknowledged the delicate balance of the ecosystem, and my goal was not to introduce any new or unfamiliar species. Indeed, as my eyes, senses and desires (observer effect) adjusted to the particularities of the work table top, I started finding new materials and interactions peculiar to the ecosystem. The part of the ecosystem most useful was the video artwork _Children of the Soil_. 
 
-For example, within the video I can clearly see the influence of graphic novels, and thinking and practices that relate to the term more-than-human coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle)
-
-Mention ad-hoc / ab-ovo? 
+For example, within the video I can clearly see obvious the influence of graphic novels (appropriation?), and thinking and practices that relate to the term more-than-human coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle) -- but even this is a stretch.
 
 
 - what are the strands of research dialogue for children of the soil?
@@ -198,7 +201,7 @@ Ben Rawlence is ... and his book _Treeline_ traces the
 
 This Strand quote is from [[collapse is generative]]
 
-The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem. 
+The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem. Perhaps use of word reciprocity or enlivenment is better? (see <https://dark-mountain.net/the-poetics-of-ecology/>)
 
 > Ecology teaches us that we exist by virtue of our ties to one another and to the more-than-human world, and that those ties are strengthened, not weakened, by the inclusion and equal participation of each and every member of that network. The strength and resilience of computational networks, the inherent power of distribution and interconnection, teaches us the same.[@bridle-2022-ways n.pag.]
 
@@ -211,7 +214,7 @@ Also - Bridle's discussion of solidarity. Side by side.
 - egosystem vs ecosystem (vertical literacy): <https://medium.com/presencing-institute-blog/vertical-literacy-12-principles-for-reinventing-the-21st-century-university-39c2948192ee>
 - making epistemological error of choosing the wrong unit (Bateson, here in Bridle post: <http://booktwo.org/notebook/let-the-river-live/>):
 > When you narrow down your epistemology and act on the premise “What interests me is me, or my organization, or my species,” you chop off consideration of other loops of the loop structure. (from Bateson, cited in Bridle blog post above)
-- the difference though (talking about Bateson's eco-mental) is that the artist-scholar in this circumstance remains untouched by their plea to a particular ecosystem of thought and ideas. Or is it that they get but don't give. They gain warrant, validation, an argument from authority
+- the difference though (talking about Bateson's eco-mental) is that the artist-scholar in this circumstance remains untouched by their plea to a particular ecosystem of thought and ideas. Or is it that they get but don't give. They gain warrant, validation, an argument from authority. Or perhaps it's simply extractive. What I can get from this validation.
 
 
 > Against this background, the negotiations of sense at the interfaces of arts and academia—in Henk Borgdorff’s (2010) terms, “boundary work”—concern also the registers of sense and the questions of whether, how, and why some of them are prioritised over others. [@elo-2018-ineffable p.282]
@@ -229,9 +232,6 @@ Also - Bridle's discussion of solidarity. Side by side.
 - perhaps more guilty given the unsurprising focus of dance practices on the body. I've even started calling them body-based practices as my curiosity has stretched away from codified dance practices (including improvisation). -- extracted most of my notes on this to [[the body in artistic research]] but I wonder if it can be included very briefly. That pull is strong.
 - Noting that it's _easier_ to find theoretical work to be in relation with. It's there. It's desk work. It's more tangible (which is ironic given body in performance work?)
 - more like a foreign body dropping into a pre-existing ecosystem; isolated; argument from authority; these are singular systems (Steyerl).
-
-
-
 
 - compare with Schwab in describing a piece of knowledge as an artefact of communication: [[experimentation is social#^da953d]] - so if this is plausible, who then is doing the communicating? (if it isn't artist-researchers)
 - perhaps though Schwab's concern for how artworks are provisional ([[schwab - experimental systems#^279252]]) (ie epistemic things filled with epistemic potential) is fundamental to the expositions in JAR as being starting points or seeds. But where does that leave us? Scattering seeds everywhere (seeds dependent on theory-as-water).
@@ -277,6 +277,20 @@ A way to end:
 ---
 
 # edit bin
+
+in much practice-research, there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of that research.[^ek1] Artist-scholars who research through movement practices have valorised and reified the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. 
+
+If it is "the search for truth that underpins research" [@ingold-2018-search] then, even under the conditions in which "truth is aspirational", [@ingold-2018-search] practice-research's relaxed attitude towards the truth is a serious problem. Hence, the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up.
+
+## Two surprising things in the table as ecosystem
+
+I am making this up. This is a confabulation. 
+
+While I was clearing the table of the stuff that did not belong to it I discovered -- or _found_ -- two surprising things. First was a small piece of graffiti-like text, etched into the table, that said: _it must be for the benefit of others_. Second, I found a video artwork embedded into the surface of the table. 
+
+These discoveries mean that in this simple table-as-ecosystem we have: i) a challenge for practice-researchers published on paper in 2002 by Melissa Trimingham, and then introduced by force into the table sometime between then and the end of 2022; and ii) a video artwork presented as practice-research which is called _Children of the Soil_ [-@ellis-2022-children], and that must have been introduced to the table in the latter part of 2022.  include def of native here. Neither the video nor the text made it onto this table by themselves and so we cannot call them native.
+
+My discovery (construction) of this rather curious ecosystem affords two hypothetical trajectories or scenarios. I will use these scenarios to explore how the video work can act as a proxy for all practice-research, and how the work interacts with the etching: _it must be for the benefit of others_. 
 
 Both scenarios describe approaches to **making sense of this table as ecosystem** [this isn't right - not about making sense of table as ecosystem but how I use the table as ecosystem to communicate the work], and in particular attitudes to how we understand the particularities, interactions of the ecosystem, and what might be found -- or introduced -- depending on how we look. 
 
