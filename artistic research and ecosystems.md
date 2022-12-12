@@ -53,6 +53,8 @@ Borgdorff sums up his thinking by writing that "art practice is paramount as the
 
 ## Intrinsic vs extrinsic epistemic positions
 
+- maybe these are not necessarily only epistemic positions. That is, what if can 'hope' for intrinsic epistemics, but explicitly extrinsic in how it participates in the world/community of practice?
+
 There are two broad and normally distinct epistemic positions in practice-research: 1) artistic artefacts require a written reflective or analytical statement that synthesises and reveals the epistemic status or findings of the research [e.g. @nelson-2013-practice; @noauthor-2019-ref2021]; 2) artistic artefacts themselves contain and communicate research understandings, including apprehension, experience (etc) [@borgdorff-2012-conflict], [@scrivener-2002-art]
 
 Both positions have inherent problems.
@@ -62,7 +64,7 @@ The extrinsic position -- that knowledge in practice-research is revealed or cla
 The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes -- vagueness and ambiguity -- are viewed as strengths and/or weaknesses. The intrinsic position is particularly vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. Add point here about documentation being the critical proxy in practice-research This is because "proxies are easier to manipulate than the complicated reality they represent" [@oneil-2016-weapons Chapter 3]. Could speak of maps and territories here.
 
 
-riously, both positions are often inadvertantly supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
+riously, oth positions are often inadvertently supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
 
 These intrinsic and extrinsic epistemic positions also share one other serious problem. Both positions explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
 
@@ -73,8 +75,6 @@ These intrinsic and extrinsic epistemic positions also share one other serious p
 ## ad-hoc / retrofit
 
 intelligent retro-fitting -- from team meeting on 20221130. So similar to ad-hoc (https://practiceasresearchblog.wordpress.com/2017/07/15/dressing-it-up-as-research-categories-of-practice-as-research/)
-
-- perhaps my ab ovo (etc) thinking are useful: <20160919 - leeds seminar - after the fiction.pdf>
 
 ## The most basic (and moral) of research intentions
 
