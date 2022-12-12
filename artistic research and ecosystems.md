@@ -10,6 +10,8 @@ csl: /Users/skiptime/Dropbox/pandoc/chicago-author-date-16th-edition.csl
 
 _previous note:_ [[how to think humanity as geologic and vice versa]]
 
+[[practice research as ecosystem plan.canvas]]
+
 ## Abstract
 
 
