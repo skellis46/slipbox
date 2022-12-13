@@ -30,17 +30,13 @@ Add here about aim of this writing. Make it plain.
 - different from practice-research in nursing for example? 
 - [ ] look at SdH's book on practice-research?
 
-My approach is to reflect deeply and critically on my film project called _Children of the Soil_ [-@ellis-2022-children]. I am going to ascribe the term _practice-research_ to this project (more on that later). I use a work I made because it enables me to access the mangle more completely: the half-formed thoughts, the abstractions, the extrusions, the interruptions, the unknowing, the clarity, the vagueness, the faults, the unfinished, the accidents, the mess. Not because I want to draw attention to this work (the work is what it is is). 
+
 
 To start with, I need to set out some clear categories under which (or by which) all practice-research projects exist. These categories -- or perhaps conditions -- exist in different contexts and different situations for artist-researchers. I'll make these different conditions clear as I write them.
 
-- possible to add discussion about [[art practices explicitly become epistemic things]] -- and the argument I make there about Borgdorff and JAR
+## Underlying conditions
 
-
-
-
-
-## On, for and in
+### Research on, for and in the arts
 
 - possibly also re [[research on, for and in the arts]]
 - Borgdorff definition from [[art practice and artistic research]]:
@@ -50,14 +46,28 @@ Borgdorff sums up his thinking by writing that "art practice is paramount as the
 >We can justifiably speak of artistic research (‘research in the arts’) when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research. [@borgdorff-2012-conflict p.147]
 
 - I am not suggesting that there is nothing to gain from applying arts practices in and to other fields. Indeed, I am deeply curious about such applications -- their limits and possibilities. 
+- based on Frayling's writing [@frayling-1993-research]
 
 > Consequently, guiding intuitions and chance inspirations are just as important for the motivation and dynamism of research as methodological prescrip- tions and discursive justifications. [@borgdorff-2012-conflict p.162]
 
-## Intrinsic vs extrinsic epistemic positions
+- this writing is delimited to research IN the arts (and noting that Borgdorff notes that projects are really just one or the other -- check this)
+- make further distinction between research in and that other (un-named?) version in which the artistic practice is trying to do something in effectively another field -- philosophy, psychology, geography, digital humanities ... (related to 'making a work about something')
+- useful (in comments too): https://practiceasresearchblog.wordpress.com/2016/12/21/smelling-as-sweet/
+
+### ab ovo, post hoc and ad hoc
+
+intelligent retro-fitting -- from team meeting on 20221130. So similar to ad-hoc (https://practiceasresearchblog.wordpress.com/2017/07/15/dressing-it-up-as-research-categories-of-practice-as-research/)
+retrofit: 
+> 51.  A small proportion of practice research outputs appeared to retrofit research questions and a research-based process to work that was created with other agendas or purposes in mind. https://www.ref.ac.uk/media/1913/mp-d-overview-report-final-updated-september-2022.pdf
+
+### Intrinsic vs extrinsic epistemic positions
 
 - maybe these are not necessarily only epistemic positions. That is, what if can 'hope' for intrinsic epistemics, but explicitly extrinsic in how it participates in the world/community of practice?
 
 There are two broad and normally distinct epistemic positions in practice-research: 1) artistic artefacts require a written reflective or analytical statement that synthesises and reveals the epistemic status or findings of the research [e.g. @nelson-2013-practice; @noauthor-2019-ref2021]; 2) artistic artefacts themselves contain and communicate research understandings, including apprehension, experience (etc) [@borgdorff-2012-conflict], [@scrivener-2002-art]
+
+- intrinsic very rare. REF is close. JAR nope. The default position tends towards extrinsic. JER tends towards intrinsic -- but document as proxy (with text component)
+- if the work I will discuss was 'intrinsic' then this writing could stop here?? (more or less). The only reason there is more to say is because of tendency towards extrinsic.
 
 Both positions have inherent problems.
 
@@ -65,36 +75,50 @@ The extrinsic position -- that knowledge in practice-research is revealed or cla
 
 The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes -- vagueness and ambiguity -- are viewed as strengths and/or weaknesses. The intrinsic position is particularly vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. Add point here about documentation being the critical proxy in practice-research This is because "proxies are easier to manipulate than the complicated reality they represent" [@oneil-2016-weapons Chapter 3]. Could speak of maps and territories here.
 
-
-riously, oth positions are often inadvertently supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
+... other positions are often inadvertently supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
 
 These intrinsic and extrinsic epistemic positions also share one other serious problem. Both positions explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
 
+## entering the mangle of practice
 
+[@pickering-1995-mangle]
+
+### Children of the soil
+
+My approach is to reflect deeply and critically on my film project called _Children of the Soil_ [-@ellis-2022-children]. I am going to ascribe the term _practice-research_ to this project (more on that later). I use a work I made because it enables me to access the mangle more completely: the half-formed thoughts, the abstractions, the extrusions, the interruptions, the unknowing, the clarity, the vagueness, the faults, the unfinished, the accidents, the mess. Not because I want to draw attention to this work (the work is what it is is). 
+- add link. Not necessary to watch it.
 - purpose is not to provide a written (extrinsic) account of the process or outcomes. To use it to dig into the various ways I might approach its context. Not quite right -- because some of the [[list of possible contexts for children of the soil]] would likely end as post-hoc (extrinsic) renderings
 - lines are blurry -- slippage between 'output' and 'context' (very common in JAR and perhaps JER?)
 
-## ad-hoc / retrofit
+### insight into ad hoc research conditions
 
-intelligent retro-fitting -- from team meeting on 20221130. So similar to ad-hoc (https://practiceasresearchblog.wordpress.com/2017/07/15/dressing-it-up-as-research-categories-of-practice-as-research/)
+- occur at different stages and in varying degrees
+- not possible to go into all of it
+- select clear examples, but also examples where the organisation falls over 
 
-## The most basic (and moral) of research intentions
+### linear structure
 
-In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
+pre pre-production, etc
 
-some 20 years later -- I think it would be perceived as a conservative approach (I wonder to what extent it would be perceived) to the methodological concerns of practice-research. My purpose here is not to get into the pros and cons of Trimingham's proposal, and nor do I wish to dig into how well it was aged (although I think that would be a useful reflection). My intuition is that we have moved further away from calls for clarity and rigour even compared with the wild west days of practice-research in the late 90s and early 2000s. Rather, I want to focus on the epigraph above which comes from just the third paragraph of Trimingham's article, and in which our basic (and moral!) research intention is that the work be for others other than ourselves.
+#### pre pre-production
 
-> We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves. 
+#### pre-production
 
--- Melissa Trimingham [-@trimingham-2002-methodology p.54]
+#### production (making)
 
-- is Trimingham's statement different from the ecosystem/bubble I am hinting at? My hunch is that the bubble is a sub-set of her thinking.
+#### post-production (making)
 
-go into some detail with the statement. Why moral? What about the word _benefit_? Like it's some kind of litmus test. Do I go into implications of it not being true? Who would disagree with it? (which is not to say it's complex to find examples that are exceptions)
+#### Children of the soil
 
-For the purposes of this writing I will take Trimingham's statement as axiomatic: that re
+There's one more line in this linear event. The time occurs after the artistic work is complete. Is it after the practice research associated with this work is complete? retrofit. post-hoc. 
 
-this statement is the spine for this writing. Whether you agree with it or not, . A way to draw attention our responsibilities as practice-researchers (use of that pronoun indicates my audience), which are really no different from the responsibilities of researchers in other disciplines even if the epistemic and ontologic conditions of the work we do are starkly different. 
+## the conditional: post post-production
+
+- the choices we make
+- telling the truth (timing matters - see Corporeal Epistemics) - rigour, honesty, integrity, transparency
+- I could do this.
+- I could do this. Which would be more true?  
+- What are the reasons for applying one over another? 
 
 ## The danger of ecosystems
 
@@ -191,7 +215,27 @@ a bubble-like version of COTS that references other works that it is not in dial
 	- but what is the practice? who is it in relation to? 
 	- little sense of this (but definitely better than the others)
 
-## analysis - why this matters (contribution)
+## The most basic (and moral) of research intentions
+
+In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
+
+some 20 years later -- I think it would be perceived as a conservative approach (I wonder to what extent it would be perceived) to the methodological concerns of practice-research. My purpose here is not to get into the pros and cons of Trimingham's proposal, and nor do I wish to dig into how well it was aged (although I think that would be a useful reflection). My intuition is that we have moved further away from calls for clarity and rigour even compared with the wild west days of practice-research in the late 90s and early 2000s. Rather, I want to focus on the epigraph above which comes from just the third paragraph of Trimingham's article, and in which our basic (and moral!) research intention is that the work be for others other than ourselves.
+
+> We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves. 
+
+-- Melissa Trimingham [-@trimingham-2002-methodology p.54]
+
+- is Trimingham's statement different from the ecosystem/bubble I am hinting at? My hunch is that the bubble is a sub-set of her thinking.
+
+go into some detail with the statement. Why moral? What about the word _benefit_? Like it's some kind of litmus test. Do I go into implications of it not being true? Who would disagree with it? (which is not to say it's complex to find examples that are exceptions)
+
+For the purposes of this writing I will take Trimingham's statement as axiomatic: that re
+
+this statement is the spine for this writing. Whether you agree with it or not, . A way to draw attention our responsibilities as practice-researchers (use of that pronoun indicates my audience), which are really no different from the responsibilities of researchers in other disciplines even if the epistemic and ontologic conditions of the work we do are starkly different. 
+
+## analysis - why this matters (contribution) - 
+
+- note down when I was reading these and _when_ they contributed
 
 Ben Rawlence is ... and his book _Treeline_ traces the 
 
@@ -227,6 +271,7 @@ Also - Bridle's discussion of solidarity. Side by side.
 ### PaR bubbles
 
 - yes, I add a version of this work in this way -- I do this labour as a thought experiment and to implicate myself (can also given examples of when I've done this previously)
+- - possible to add discussion about [[art practices explicitly become epistemic things]] -- and the argument I make there about Borgdorff and JAR
 - offer to 'write about my practice'; this is what we do in practice-research. the various journals dedicated to practice-research are filled with practitioners in their bubble attempting to convince us of the value of their work. No, not convince us (that would be more palatable), rather, expect us to recognise the value of their work. Noting just how much this diverges from Strand's claim that [[I am a collaboration]] (see backlinks in that note for extended thinking on individuation/individualism)
 - see [[Steyerl on specificity and singularity]] of epistemic claims. 
 - other examples: Freeman book (?), JAR (take random issue), CHOR (of which I'm co-editor). 
