@@ -22,14 +22,12 @@
 		{"id":"90dc84e6474fee4f","x":-413,"y":-2151,"width":152,"height":55,"color":"6","type":"text","text":"post hoc"},
 		{"id":"2497395486793c79","x":-507,"y":-2336,"width":323,"height":100,"type":"text","text":"accounts for reality/messines and mangle of practice methods"},
 		{"id":"edd8a21d3b17d844","x":-171,"y":-2427,"width":200,"height":60,"type":"text","text":"examples - Inert"},
-		{"id":"c2c812ebda40afb5","x":-1211,"y":-2149,"width":200,"height":50,"color":"6","type":"text","text":"ab ovo"},
 		{"id":"d1a60b6a5fcb5b4a","x":-1464,"y":-2011,"width":270,"height":127,"type":"text","text":"I make distinction between in and that which hopes to serve another community "},
 		{"id":"028c0a0536234b77","x":-1613,"y":-2588,"width":279,"height":84,"type":"text","text":"most recent (last 20 years?) PhDs"},
 		{"id":"f109929ea7f1ce4f","x":-1351,"y":-2412,"width":200,"height":60,"type":"text","text":"examples"},
 		{"id":"a3af9dcac35da19a","x":-1194,"y":-2582,"width":270,"height":78,"type":"text","text":"Gallier, Naccarato, Breen, etc"},
 		{"id":"aa6018b7c615a187","x":-1881,"y":-2382,"width":315,"height":91,"color":"5","type":"text","text":"research on, for and in the arts"},
 		{"id":"8391c4d63a16812f","x":-1896,"y":-2222,"width":345,"height":146,"type":"text","text":"delimit this to research IN (noting that Borgdorff describes messiness)"},
-		{"id":"c361c329a972249e","x":-507,"y":-2966,"width":400,"height":327,"type":"link","url":"https://practiceasresearchblog.wordpress.com/2017/07/15/dressing-it-up-as-research-categories-of-practice-as-research/"},
 		{"id":"6bccd873f0aaef20","x":-978,"y":-2918,"width":424,"height":220,"type":"link","url":"https://practiceasresearchblog.files.wordpress.com/2017/07/20170715-image1.png?w=1050"},
 		{"id":"fc742998eef66f66","x":-1351,"y":-2699,"width":200,"height":60,"type":"text","text":"Indelible"},
 		{"id":"b699ed5dd15a7286","x":-1834,"y":-2022,"width":222,"height":88,"type":"text","text":"but line between FOR and IN is blurry"},
@@ -140,7 +138,9 @@
 		{"id":"abcee677628c1867","x":1528,"y":-320,"width":200,"height":60,"type":"text","text":"text influences"},
 		{"id":"ff862c20438ff46a","x":1575,"y":-181,"width":200,"height":60,"type":"text","text":"articulated in 'thanks'"},
 		{"id":"c48ade8e98028cfe","x":-2131,"y":-2855,"width":297,"height":95,"color":"3","type":"text","text":"# Underlying conditions"},
-		{"id":"dc1a8a681aaf8e3c","x":-705,"y":-1931,"width":250,"height":60,"type":"text","text":"precarity"}
+		{"id":"dc1a8a681aaf8e3c","x":-705,"y":-1931,"width":250,"height":60,"type":"text","text":"precarity"},
+		{"id":"528f8ab497fcf768","x":-413,"y":-2898,"width":400,"height":400,"type":"link","url":"https://practiceasresearchblog.wordpress.com/2017/07/15/dressing-it-up-as-research-categories-of-practice-as-research/"},
+		{"id":"c2c812ebda40afb5","x":-1182,"y":-2151,"width":200,"height":50,"color":"6","type":"text","text":"ab ovo"}
 	],
 	"edges":[
 		{"id":"b1e4814f3f925d32","fromNode":"fda68296cf539f35","fromSide":"top","toNode":"dab6b9b1173f6b4f","toSide":"bottom"},
@@ -178,7 +178,6 @@
 		{"id":"989ed579b11f9507","fromNode":"f109929ea7f1ce4f","fromSide":"top","toNode":"a3af9dcac35da19a","toSide":"bottom"},
 		{"id":"e72599d3679a9b1f","fromNode":"f109929ea7f1ce4f","fromSide":"right","toNode":"fe9437f3f6b69f2b","toSide":"left"},
 		{"id":"f4c4fc6209b35251","fromNode":"fe9437f3f6b69f2b","fromSide":"right","toNode":"3d2ef8fbf8cadbe2","toSide":"top"},
-		{"id":"14b0f09de61f9289","fromNode":"3d2ef8fbf8cadbe2","fromSide":"top","toNode":"c361c329a972249e","toSide":"bottom","label":"exp-aware | exp-unaware | naive-aware | naive-unaware"},
 		{"id":"c10e98e3572e62af","fromNode":"a424098fba8620cd","fromSide":"top","toNode":"c93308b2411d74ff","toSide":"left"},
 		{"id":"83ac3c777da87f92","fromNode":"aa6018b7c615a187","fromSide":"bottom","toNode":"8391c4d63a16812f","toSide":"top"},
 		{"id":"8d9ad7be28471e39","fromNode":"b699ed5dd15a7286","fromSide":"bottom","toNode":"70425e0d9cb6235a","toSide":"top"},
@@ -304,6 +303,7 @@
 		{"id":"7bd9f515a6e5a220","fromNode":"c48ade8e98028cfe","fromSide":"bottom","toNode":"aa6018b7c615a187","toSide":"top"},
 		{"id":"6403ec67964002e1","fromNode":"c48ade8e98028cfe","fromSide":"bottom","toNode":"dd629437087d015f","toSide":"top"},
 		{"id":"3a9a8b136eae4800","fromNode":"c48ade8e98028cfe","fromSide":"bottom","toNode":"c2c812ebda40afb5","toSide":"top"},
-		{"id":"d5f5b084fb85fdd6","fromNode":"dc1a8a681aaf8e3c","fromSide":"top","toNode":"3d2ef8fbf8cadbe2","toSide":"bottom"}
+		{"id":"d5f5b084fb85fdd6","fromNode":"dc1a8a681aaf8e3c","fromSide":"top","toNode":"3d2ef8fbf8cadbe2","toSide":"bottom"},
+		{"id":"b4d351c9b1c25659","fromNode":"3d2ef8fbf8cadbe2","fromSide":"top","toNode":"528f8ab497fcf768","toSide":"left"}
 	]
 }
