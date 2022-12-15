@@ -12,6 +12,8 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 
 [[practice research as ecosystem plan.canvas]]
 
+![[practice research as ecosystem plan.canvas]]
+
 ## Abstract
 
 
@@ -30,41 +32,36 @@ Add here about aim of this writing. Make it plain.
 - different from practice-research in nursing for example? 
 - [ ] look at SdH's book on practice-research?
 
-
-
 To start with, I need to set out some clear categories under which (or by which) I suspect all practice-research projects exist (invite falsifiability here). These categories -- or perhaps conditions -- exist in different contexts and different situations for artist-researchers. I'll make these different conditions clear as I write them.
 
 ## Delimiting and clarifying via three categories
 
 ### Research on, for and in the arts
 
-Practice research has been called many things: practice-as-research, practice research (with and without a hyphen), practice-led research, practice-based research, artistic research, practice on the arts, creative research. But no matter its name, the _artistic practice_ is fundamental to the methodological approach. In _The Conflict of the Faculties: Perspectives on Artistic Research and Academia_ (2012) Henk Borgdorff makes this clear when he writes that "art practice is paramount as the subject matter, the method, the context, and the outcome of artistic research".[@borgdorff-2012-conflict p.146]
+In practice research _artistic practice_ is fundamental to the methodological approach.[@bulley-2021-report] Henk Borgdorff writes that "art practice is paramount as the subject matter, the method, the context, and the outcome of artistic research".[@borgdorff-2012-conflict p.146] 
 
-In 2006 Borgdorff re-thought Christopher Frayling's very early categorisation of design research _into_, _for_ or _through_ art.[@borgdorff-2006-debate; @frayling-1993-research] Instead, Borgdorff chooses different prepositions: research _on_ the arts, research _for_ the arts, and research _in_ the arts, and repeats this categorisation in _The Conflict of the Faculties_ (2012).
+Borgdorff distinguishes between different kinds of art research as research _on_ the arts, research _for_ the arts, and research _in_ the arts.[@borgdorff-2006-debate][^cate] Research _on_ the arts has art practice as the _object_ of the research. Borgdorff calls this the "interpretative perspective"[@borgdorff-2006-debate p.6] in which the object is "untouched"[@borgdorff-2006-debate p.6] by the researcher. Research _for_ the arts is an _applied_ form of research where art is "not so much the object of investigation, but its objective."[@borgdorff-2006-debate p.6] It is an "instrumental perspective,"[@borgdorff-2006-debate p.6] that produces "the tools and the knowledge of materials"[@borgdorff-2006-debate p.6] that are needed by artists. Research _in_ the arts "does not observe a distance between the researcher and the practice of art":[@borgdorff-2006-debate p.7] 
+[^cate]: Borgdorff's categorisation [first presented in 2006, in @borgdorff-2006-debate] is based on Christopher Frayling's very early categorisation of design research _into_, _for_ or _through_ art.[@frayling-1993-research] Borgdorff then repeats the categorisation in his 2012 book _The Conflict of the Faculties_.[-@borgdorff-2012-conflict]
 
-Borgdorff describes research _on_ the arts as having art practice as the _object_ of the research. He also calls this the "interpretative perspective"[@borgdorff-2006-debate p.6] in which the object is "untouched"[@borgdorff-2006-debate p.6] by the researcher. Research _for_ the arts is an _applied_ form of research where art is "not so much the object of investigation, but its objective."[@borgdorff-2006-debate p.6] It is an "instrumental perspective,"[@borgdorff-2006-debate p.6] that produces "the tools and the knowledge of materials"[@borgdorff-2006-debate p.6] that are needed by artists. Research _in_ the arts "does not observe a distance between the researcher and the practice of art":[@borgdorff-2006-debate p.7] 
-
-> We can justifiably speak of artistic research (‘research in the arts’) when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research.
+> We can justifiably speak of [practice research] (‘research in the arts’) when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research.
 
 -- Henk Borgdorff[-@borgdorff-2012-conflict p.147]
 
-The UK's Practice Research Advisory Group commissioned two reports on practice research. The first is called _What is Practice Research?_ and in it the authors James Bulley and Özden Şahin describe how practice research differs from ‘traditional’ research fields because "the practice itself is foregrounded as the significant method of a research output"[@bulley-2021-report p.4]. Bulley and Şahin seem to be mirroring This seems similar to Borgdorff's Note that this. Also not as far as Nelson. Perhaps it is implicit (or assumed) in their definition. But can we justifiably do practice research that in which the practice is not part of the output? Perhaps I'm reading this wrong -- but it's a mess. 
+Whereas research on the arts is clearly distinct from the other two, it is plausible to imagine a project that contains both research for and in the arts. For instance, research exploring explicitly hybrid movement practices might contribute to conversations around methods of creation, while also unfolding through creative acts. Nevertheless, in this writing my focus will be on research _in_ the arts as it most closely aligns with what is commonly thought to be practice research. I also want to delimit and clarify as precisely as possible the conditions of the exemplar project. 
 
-> In the context of artistic re- search, artworks are the generators of that which we do not yet know. They thereby invite us to think. Artistic research is the articulation of this unfinished thinking.[@borgdorff-2012-conflict p.194]
-
-- this writing is delimited to research IN the arts (and noting that Borgdorff notes that projects are really just one or the other -- check this)
-- make further distinction between research in and that other (un-named?) version in which the artistic practice is trying to do something in effectively another field -- philosophy, psychology, geography, digital humanities ... (related to 'making a work about something')
-- useful (in comments too): https://practiceasresearchblog.wordpress.com/2016/12/21/smelling-as-sweet/
-- how does B's 'unfinished thinking' make sense re intrinsic vs extrinsic? Does that mean text serves to finish the thinking? idea of joke not being ruined by explanation. (a case for writing)
-- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical. But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must acrticulate back to community. Else just a series of singular events. No reciprocity. 
-
-- I am not suggesting that there is nothing to gain from applying arts practices in and to other fields. Indeed, I am deeply curious about such applications -- their limits and possibilities. 
-
-
+What I am not sure is clear from Borgdorff's categorisation of research in the arts is how artists (including practice researchers) often talk about practices that lead to an artistic work _about_ something. For example, I could develop an artistic work through specific body-based practices (say using authentic movement, improvisation and movement meditations) that is also about something seemingly external to those practices; for instance, eco-anxiety and the climate emergency. My uncertainty is about how or even whether such a work might contribute to a disciplinary field (in this case eco-psychology) that is marginally related if at all to the practices in the research. I will return to this point.
 
 ### Intrinsic vs extrinsic epistemic positions
 
+> In the context of artistic research, artworks are the generators of that which we do not yet know. They thereby invite us to think. Artistic research is the articulation of this unfinished thinking.[@borgdorff-2012-conflict p.194]
+
+- how does B's 'unfinished thinking' make sense re intrinsic vs extrinsic? Does that mean text serves to finish the thinking? idea of joke not being ruined by explanation. (a case for writing)
+- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical. But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must acrticulate back to community. Else just a series of singular events. No reciprocity. 
+- B's use of word articulation is very interesting
+
 - maybe these are not necessarily only epistemic positions. That is, what if can 'hope' for intrinsic epistemics, but explicitly extrinsic in how it participates in the world/community of practice?
+
+
 
 There are two broad and normally distinct epistemic positions in practice-research: 1) artistic artefacts require a written reflective or analytical statement that synthesises and reveals the epistemic status or findings of the research [e.g. @nelson-2013-practice; @noauthor-2019-ref2021]; 2) artistic artefacts themselves contain and communicate research understandings, including apprehension, experience (etc) [@borgdorff-2012-conflict], [@scrivener-2002-art]
 
@@ -355,6 +352,17 @@ A way to end:
 ---
 
 # edit bin
+
+- make further distinction between research in and that other (un-named?) version in which the artistic practice is trying to do something in effectively another field -- philosophy, psychology, geography, digital humanities ... (related to 'making a work about something')
+- useful (in comments too): https://practiceasresearchblog.wordpress.com/2016/12/21/smelling-as-sweet/
+- I am not suggesting that there is nothing to gain from applying arts practices in and to other fields. Indeed, I am deeply curious about such applications -- their limits and possibilities. 
+
+
+Further, whereas Borgdorff writes _artistic research_ I will use the term _practice research_ because it is the adopted convention in the UK where I am writing.[@bulley-2021-report] 
+
+has been called many things: practice-as-research, practice research (with and without a hyphen), practice-led research, practice-based research, artistic research, practice on the arts, creative research. But no matter its name, In _The Conflict of the Faculties: Perspectives on Artistic Research and Academia_ (2012) 
+
+The UK's Practice Research Advisory Group commissioned two reports on practice research. The first is called _What is Practice Research?_ and in it the authors James Bulley and Özden Şahin describe how practice research differs from ‘traditional’ research fields because "the practice itself is foregrounded as the significant method of a research output"[@bulley-2021-report p.4]. Bulley and Şahin seem to be mirroring This seems similar to Borgdorff's Note that this. Also not as far as Nelson. Perhaps it is implicit (or assumed) in their definition. But can we justifiably do practice research in which the practice is not part of the output? Perhaps I'm reading this wrong -- but it's a mess.
 
 resaerch on, for, in: Add Scrivener's version? - "Transformational Practice: On The Place Of Material Novelty In Artistic Change", Chapter 15 of Biggs and Karlsson (Routledge Companion to Research in the Arts) -- he's very clear (as ever)
 
