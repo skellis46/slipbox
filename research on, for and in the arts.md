@@ -35,9 +35,7 @@ _thoughts & links:_
 
 ---
 
-_source:_ [magee-2012-accountability.pdf](hook://file/mz8Ki68gv?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=magee-2012-accountability.pdf)
-
-_citekey & zotero link:_ [@borgdorff_debate_2006](zotero://select/items/1_QYPSQMY2)
+_source:_ [@magee-2012-introduction]
 
 _reference:_ Borgdorff, H., 2006. _The Debate on Research in the Arts_. Presented at the Sensuous Knowledge 02, KHiB.
 
