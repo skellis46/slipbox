@@ -2,7 +2,7 @@
 aliases: []
 tags: [in-progress]
 platform: "dance research"
-csl: /Users/skiptime/Dropbox/pandoc/chicago-author-date-16th-edition.csl
+csl: /Users/skiptime/Dropbox/pandoc/vancouver-superscript.csl
 
 ---
 
@@ -32,33 +32,35 @@ Add here about aim of this writing. Make it plain.
 
 
 
-To start with, I need to set out some clear categories under which (or by which) all practice-research projects exist. These categories -- or perhaps conditions -- exist in different contexts and different situations for artist-researchers. I'll make these different conditions clear as I write them.
+To start with, I need to set out some clear categories under which (or by which) I suspect all practice-research projects exist (invite falsifiability here). These categories -- or perhaps conditions -- exist in different contexts and different situations for artist-researchers. I'll make these different conditions clear as I write them.
 
-## Underlying conditions
+## Delimiting and clarifying via three categories
 
 ### Research on, for and in the arts
 
-- possibly also re [[research on, for and in the arts]]
-- Borgdorff definition from [[art practice and artistic research]]:
+Practice research has been called many things: practice-as-research, practice research (with and without a hyphen), practice-led research, practice-based research, artistic research, practice on the arts, creative research. But no matter its name, the _artistic practice_ is fundamental to the methodological approach. In _The Conflict of the Faculties: Perspectives on Artistic Research and Academia_ (2012) Henk Borgdorff makes this clear when he writes that "art practice is paramount as the subject matter, the method, the context, and the outcome of artistic research".[@borgdorff-2012-conflict p.146]
 
-Borgdorff sums up his thinking by writing that "art practice is paramount as the subject matter, the method, the context, and the outcome of artistic research."[@borgdorff-2012-conflict p.146]
+In 2006 Borgdorff re-thought Christopher Frayling's very early categorisation of design research _into_, _for_ or _through_ art.[@borgdorff-2006-debate; @frayling-1993-research] Instead, Borgdorff chooses different prepositions: research _on_ the arts, research _for_ the arts, and research _in_ the arts, and repeats this categorisation in _The Conflict of the Faculties_ (2012).
 
->We can justifiably speak of artistic research (‘research in the arts’) when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research. [@borgdorff-2012-conflict p.147]
+Borgdorff describes research _on_ the arts as having art practice as the _object_ of the research. He also calls this the "interpretative perspective"[@borgdorff-2006-debate p.6] in which the object is "untouched"[@borgdorff-2006-debate p.6] by the researcher. Research _for_ the arts is an _applied_ form of research where art is "not so much the object of investigation, but its objective."[@borgdorff-2006-debate p.6] It is an "instrumental perspective,"[@borgdorff-2006-debate p.6] that produces "the tools and the knowledge of materials"[@borgdorff-2006-debate p.6] that are needed by artists. Research _in_ the arts "does not observe a distance between the researcher and the practice of art":[@borgdorff-2006-debate p.7] 
 
-- I am not suggesting that there is nothing to gain from applying arts practices in and to other fields. Indeed, I am deeply curious about such applications -- their limits and possibilities. 
-- based on Frayling's writing [@frayling-1993-research]
+> We can justifiably speak of artistic research (‘research in the arts’) when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research.
 
-> Consequently, guiding intuitions and chance inspirations are just as important for the motivation and dynamism of research as methodological prescrip- tions and discursive justifications. [@borgdorff-2012-conflict p.162]
+-- Henk Borgdorff[-@borgdorff-2012-conflict p.147]
+
+The UK's Practice Research Advisory Group commissioned two reports on practice research. The first is called _What is Practice Research?_ and in it the authors James Bulley and Özden Şahin describe how practice research differs from ‘traditional’ research fields because "the practice itself is foregrounded as the significant method of a research output"[@bulley-2021-report p.4]. Bulley and Şahin seem to be mirroring This seems similar to Borgdorff's Note that this. Also not as far as Nelson. Perhaps it is implicit (or assumed) in their definition. But can we justifiably do practice research that in which the practice is not part of the output? Perhaps I'm reading this wrong -- but it's a mess. 
+
+> In the context of artistic re- search, artworks are the generators of that which we do not yet know. They thereby invite us to think. Artistic research is the articulation of this unfinished thinking.[@borgdorff-2012-conflict p.194]
 
 - this writing is delimited to research IN the arts (and noting that Borgdorff notes that projects are really just one or the other -- check this)
 - make further distinction between research in and that other (un-named?) version in which the artistic practice is trying to do something in effectively another field -- philosophy, psychology, geography, digital humanities ... (related to 'making a work about something')
 - useful (in comments too): https://practiceasresearchblog.wordpress.com/2016/12/21/smelling-as-sweet/
+- how does B's 'unfinished thinking' make sense re intrinsic vs extrinsic? Does that mean text serves to finish the thinking? idea of joke not being ruined by explanation. (a case for writing)
+- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical. But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must acrticulate back to community. Else just a series of singular events. No reciprocity. 
 
-### ab ovo, post hoc and ad hoc
+- I am not suggesting that there is nothing to gain from applying arts practices in and to other fields. Indeed, I am deeply curious about such applications -- their limits and possibilities. 
 
-intelligent retro-fitting -- from team meeting on 20221130. So similar to ad-hoc (https://practiceasresearchblog.wordpress.com/2017/07/15/dressing-it-up-as-research-categories-of-practice-as-research/)
-retrofit: 
-> 51.  A small proportion of practice research outputs appeared to retrofit research questions and a research-based process to work that was created with other agendas or purposes in mind. https://www.ref.ac.uk/media/1913/mp-d-overview-report-final-updated-september-2022.pdf
+
 
 ### Intrinsic vs extrinsic epistemic positions
 
@@ -77,11 +79,38 @@ The intrinsic position -- that knowledge is intrinsic to artistic-research artef
 
 ... other positions are often inadvertently supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
 
-These intrinsic and extrinsic epistemic positions also share one other serious problem. Both positions explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
+These intrinsic and extrinsic epistemic positions also share one other serious problem. Both positions explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all?
+
+### ab ovo, post hoc and ad hoc
+
+> 51.  A small proportion of practice research outputs appeared to retrofit research questions and a research-based process to work that was created with other agendas or purposes in mind. https://www.ref.ac.uk/media/1913/mp-d-overview-report-final-updated-september-2022.pdf
+
+The second condition is to clarify when, for any particular research and/or artistic activity, a particular output[^output] is first thought of and/or described as practice research. 
+
+[^output]: Discuss problem of this term for me -- it's not an outcome and yet it might be (in practice research terms). It's in the linear input-output thing that it's entirely inappropriate. Better word? 
+
+The first time I described the video work _Children of the Soil_ as practice research was on Friday 9 December 2022, nearly four months after I published the work online on Vimeo. I did this as part of a very early scan and review of current research outputs plausibly submittable to the next Research Excellence Framework here in the UK. This is not to say I hadn't thought of the work as practice research beforehand, but only loosely and lightly (more on this in a moment). You might say that in the back of my mind I was aware that at some stage I would need to articulate its practice research-ness and a University evaluation process precipitated that I cross the line. 
+
+I've long liked the word _ad hoc_. It means makeshift, emergency, improvised, impromptu and expedient. As a transitive verb it is to "practise or create by using ad hoc measures, typically without recourse to method, policy, etc.; to assemble or organize chaotically" [@noauthor-2021-ad]. The definition makes me wonder what it might be like to be rigorously ad hoc, or methodically ad hoc. That part of the mangle of practice is its ad hoc-ness. (see note 34 on p.21 of Pickering - Suchman). Also Pickering on mental hygiene (and Popper etc) on p.198 -- fantastic. 
+
+> Consequently, guiding intuitions and chance inspirations are just as important for the motivation and dynamism of research as methodological prescriptions and discursive justifications. [@borgdorff-2012-conflict p.162]
+
+Ab ovo: literally, “from the egg” or from the beginning
+
+Post hoc (as adjective: "Occurring after the event; done with hindsight; assuming cause and effect from temporal succession." <https://www.oed.com/view/Entry/265039>
+
+experienced-aware: artist is aware that ad hoc process of re-framing the art project as research will happen. It’s a middle ground between ab ovo and ad hoc, but the experienced part means that the artist has experience of ab ovo PaR: they understand its pitfalls, contexts, framings, principles, maybe even the codes. It’s the been-there-done-that version of ad hoc PaR.
+experienced-unaware: project or art work is developed (and completed) without any awareness or sense that it will become research; or that there will be future work to do with its framing or reframing as practice-as-research. However, the person steering the project is aware of background (etc) of practice-as-research. Surprisingly common. Important too, because there’s an argument that perhaps knowing something is research (or that it will be reframed as such) might get in the way of the art-making. Very dependent on individuals.
+naïve-aware: artist knows it will be framed as research ad hoc, but is not aware of PaR from the inside-out. I suspect this is very common indeed and I’ve noticed it in institutions all over the UK. You have an artist in the University who is asked to “do research”. The artist is told, “you’re an artist, you can submit practice as a research output for the Research Excellence Framework”, or “Your artistic work is REFable”. The danger here is that it can lead to confusion: “But I was told I could do practice”. In effect, institutions are wanting artists to understand an entire history (recent as it is), practices, and methods of PaR in order to frame their artistic practices as research. The success or failure of this scenario is often dependent on the type of practice the artist has.
+naïve-unaware: the artist is naïve about practice-as-research and not aware that the project will later be framed as research. Difficult at best, an utter mess at worst.
+
+
+ 
 
 ## entering the mangle of practice
 
 [@pickering-1995-mangle]
+- introduce his thinking (emergent and posthumanist analysis of practice p.198)
 
 ### Children of the soil
 
@@ -111,6 +140,46 @@ pre pre-production, etc
 #### Children of the soil
 
 There's one more line in this linear event. The time occurs after the artistic work is complete. Is it after the practice research associated with this work is complete? retrofit. post-hoc. 
+
+## Hypothetical scenario 1: inherent
+
+keep in mind interacting, found, particular. 
+
+
+- hanging over this are two historical practices as an artist: screendance, and choreography. They are inescapable. When I make timelapses I work with and through the eyes/frames of screendance and choreography. Caught or wrapped in my identity/history/practice. 
+- how to separate (or keep together) process and product? 
+
+
+mention that vimeo thing about practice-research -- and past practices interacting with current ... the diagram dude. 
+
+What was the practice or practices? (which might be distinct from what is able to be seen/noticed in the output or outcome of those practices). c.f. those things that are evident in the outcome.  
+
+- timelapses
+- falling slowly
+- after effects: formal properties and developing that format/form
+- observations/listening outside -- each day, regularly. Being outside.
+- reading graphic novels (Zerocalcare, Harari)
+- writing and collecting: this body
+- reading on more-than-human
+
+
+These are not abstract entities, constructed by me or others and then introduced for some stated or unstated reason. They are aspects of the work table as ecosystem that are inherent to the video artwork in particular.  
+
+For this scenario I acknowledged the delicate balance of the ecosystem, and my goal was not to introduce any new or unfamiliar species. Indeed, as my eyes, senses and desires (observer effect) adjusted to the particularities of the work table top, I started finding new materials and interactions peculiar to the ecosystem. The part of the ecosystem most useful was the video artwork _Children of the Soil_. 
+
+For example, within the video I can clearly see obvious the influence of graphic novels (appropriation?), and thinking and practices that relate to the term more-than-human coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle) -- but even this is a stretch.
+
+
+- what are the strands of research dialogue for children of the soil?
+	+ graphic novels  
+	+ other-than-human  
+	+ screendance  
+	+ eco-somatics  
+	+ temporal experiments in film
+
+## Hypothetical scenario 2: invasive species
+
+a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecosystems. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
 
 ## the conditional: post post-production
 
@@ -152,45 +221,7 @@ I have deployed the metaphor of the table-as-ecosystem to playfully and clearly 
 
 - perhaps inherent is not the right word -- both scenarios are constructions. If not 'inherent' and 'invasive' then what? I suspect they are still useful -- but it's a different question from what is there? And what if one of the practices was reading 'philosophy', does that make it inherent (akin to reading graphic novels)?
 
-## Hypothetical scenario 1: inherent
 
-keep in mind interacting, found, particular. 
-
-
-- hanging over this are two historical practices as an artist: screendance, and choreography. They are inescapable. When I make timelapses I work with and through the eyes/frames of screendance and choreography. Caught or wrapped in my identity/history/practice. 
-- how to separate (or keep together) process and product? 
-
-
-mention that vimeo thing about practice-research -- and past practices interacting with current ... the diagram dude. 
-
-What was the practice or practices? (which might be distinct from what is able to be seen/noticed in the output or outcome of those practices). c.f. those things that are evident in the outcome.  
-
-- timelapses
-- falling slowly
-- after effects: formal properties and developing that format/form
-- observations/listening outside -- each day, regularly. Being outside.
-- reading graphic novels (Zerocalcare, Harari)
-- writing and collecting: this body
-- reading on more-than-human
-
-
-These are not abstract entities, constructed by me or others and then introduced for some stated or unstated reason. They are aspects of the work table as ecosystem that are inherent to the video artwork in particular.  
-
-For this scenario I acknowledged the delicate balance of the ecosystem, and my goal was not to introduce any new or unfamiliar species. Indeed, as my eyes, senses and desires (observer effect) adjusted to the particularities of the work table top, I started finding new materials and interactions peculiar to the ecosystem. The part of the ecosystem most useful was the video artwork _Children of the Soil_. 
-
-For example, within the video I can clearly see obvious the influence of graphic novels (appropriation?), and thinking and practices that relate to the term more-than-human coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle) -- but even this is a stretch.
-
-
-- what are the strands of research dialogue for children of the soil?
-	+ graphic novels  
-	+ other-than-human  
-	+ screendance  
-	+ eco-somatics  
-	+ temporal experiments in film
-
-## Hypothetical scenario 2: invasive species
-
-a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecosystems. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
 
 ### looking at the JAR 26 (arbitrary) - could also add V27
 
@@ -233,7 +264,7 @@ For the purposes of this writing I will take Trimingham's statement as axiomatic
 
 this statement is the spine for this writing. Whether you agree with it or not, . A way to draw attention our responsibilities as practice-researchers (use of that pronoun indicates my audience), which are really no different from the responsibilities of researchers in other disciplines even if the epistemic and ontologic conditions of the work we do are starkly different. 
 
-## analysis - why this matters (contribution) - 
+## analysis - why this matters (contribution) -
 
 - note down when I was reading these and _when_ they contributed
 
@@ -324,6 +355,10 @@ A way to end:
 ---
 
 # edit bin
+
+resaerch on, for, in: Add Scrivener's version? - "Transformational Practice: On The Place Of Material Novelty In Artistic Change", Chapter 15 of Biggs and Karlsson (Routledge Companion to Research in the Arts) -- he's very clear (as ever)
+
+Frayling's prepositions are a little more confusing, particularly  research "for" art -- which he describes as little r research[@frayling-1993-research p.5]
 
 in much practice-research, there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of that research.[^ek1] Artist-scholars who research through movement practices have valorised and reified the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. 
 
