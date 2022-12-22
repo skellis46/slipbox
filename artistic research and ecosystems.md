@@ -19,14 +19,14 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 
 ## Introduction
 
-This writing is an attempt to make sense of the "mangle of practice" [@pickering-1995-mangle] [^alys] in a deliberate, precise and vulnerable way. I want to underline the danger of cohesion, and that the stories we tell about practice-research tend to value coherence over mess even when the defining characteristic of making art (and indeed doing practice-research) is mess. And that that coherence is almost always argued from authorities[^anna] that lie outside the communities of practice for artists and artist-scholars. That there is pressure to tell stories of clear (and impactful) findings, discoveries, aims and objectives which are at odds with the reality of art-making (whether in the academy or outside of it, whether it is deemed research-ful or not). About the choices we (practice-researchers) make to dress up our research to operate more cleanly (or fluidly) in the machine of the academy. To lubricate this machine. In doing so, we perform a disservice to art-making processes and outcomes, the epistemic possibilities of practice-research, and a disservice to the academy itself (thinking here of broader understandings of ways of knowing). It also impoverishes practice-research. 
+This writing is an attempt to make sense of the "mangle of practice" [@pickering-1995-mangle] [^alys] in a deliberate and precise yet vulnerable (honest?) way. I want to underline the danger of cohesion, and that the stories we tell about practice-research tend to value coherence over mess even when the defining (epistemic) characteristic of making art (and indeed doing practice-research) is mess. And that that coherence is almost always argued from authorities[^anna] that lie outside the communities of practice for artists and artist-scholars. That there is pressure to tell stories of clear (and impactful) findings, discoveries, aims and objectives which are at odds with the reality of art-making (whether in the academy or outside of it, whether it is deemed research-ful or not). About the choices we (practice-researchers) make to dress up our research to operate more cleanly (or fluidly) in the machine of the academy. To lubricate this machine. In doing so, we perform a disservice to art-making processes and outcomes, the epistemic possibilities of practice-research, and a disservice to the academy itself (thinking here of broader understandings of ways of knowing). It also impoverishes practice-research. 
 
 Add here about aim of this writing. Make it plain.
 
 [^alys]: Introduced to me by Alys Longley.
 [^anna]: Introduced to me by Anna Pakes.
 
-- noting that cohesion does not necessarily mean precise. Often, cohesion is marked by vagueness (see JAR examples) - [[valorising vagueness]]. That's a strange dance that one. To deploy language of uncertainty while being validated by authority. 
+- noting that cohesion does not necessarily mean precise. Often, cohesion is marked by vagueness (see JAR examples) - [[valorising vagueness]]. That's a strange dance that one. To deploy language of uncertainty while being validated by authority. re Machine of academy above: paradox of this is that we deploy slippery 'maybe' language -- but this bug not feature. The key problem is there is no ecosystem or commons (Weber Enlivenment): [[Weber - Enlivenment#^5704ea]]
  
 
 To start with, I need to set out some clear categories under which (or by which) I suspect all practice-research projects exist (invite falsifiability here). These categories -- or perhaps conditions -- exist in different contexts and different situations for artist-researchers. I'll make these different conditions clear as I write them.
@@ -71,8 +71,9 @@ The intrinsic position -- that knowledge is intrinsic to artistic-research artef
 > In the context of artistic research, artworks are the generators of that which we do not yet know. They thereby invite us to think. Artistic research is the articulation of this unfinished thinking.[@borgdorff-2012-conflict p.194]
 
 - how does B's 'unfinished thinking' make sense re intrinsic vs extrinsic? Does that mean text serves to finish the thinking? idea of joke not being ruined by explanation. (a case for writing)
-- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical (perhaps also the quote on the canvas? -- from p.151). But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must acrticulate back to community. Else just a series of singular events. No reciprocity. 
+- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical (perhaps also the quote on the canvas? -- from p.151). But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must acrticulate back to community. Else just a series of singular events. No reciprocity. [[Weber - Enlivenment#^f00e6f]]
 - B's use of word articulation is very interesting
+- I think art being the 'point' of practice research as too limited. Depends on questions being asked, the nature of the practice. The outputs -- the modes of sharing understanding may not simply be art works. But, it's a useful enough simplification, not least because large percentage of practice research ends up as art works.
 
 ... other positions are often inadvertently supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
 
@@ -80,9 +81,28 @@ The intrinsic position -- that knowledge is intrinsic to artistic-research artef
 
 ### the 'when' of research: ab ovo, post hoc and ad hoc
 
-When do artistic projects become artistic research? I sense that there's a fiction going on with how artists working in the academy develop practice research. And by fiction, I mean "something made, not something false".[@martin-1986-recent p.22]
+The presence of practice research in art departments and research centres in the academy means that artists in the academy are, ipso facto, doing research (that whatever it is that we do, there is spoken and unspoken pressure on us to call it research). That is, the professionalisation of the arts in universities led to the development of practice research. Much of the more difficult aspects of practice research's history (epistemic, ontologic, what else?) could be traced back to that tail-wagging-dog starting point.  
+
+because the key ideological project of practice-as-research has been to get art “on the books as research”[@magee-2012-introduction n.pag.] - Magee covers the above situation beautifully. Also my work in That Thing Produced
+
+Today, though, practice research is clearly established in arts institutions in the academy, at least in the UK, Scandanavia, Australia and New Zealand (Canada?). The problem with that troubled history is that, like all history, it is easy to forget. It is easy to forget that my doing art-making as research in the academy is the result of mostly economic and political forces during the late 1980s and early 1990s. Bologna. Earlier elsewhere -- see Magee. It is not even something to forget for newer artist-scholars who entered arts departments in Universities after, say, 2010 and practice research was, well, just there. It was there or them as MA-level students, even for BA-level students, and it was certainly there for them as PhD students with funded studentships. All that there is to remember for these (mostly) younger artists is that existed a place in which one could pursue artistic practice that is/was research.  
+
+In the early days of practice research, the vulnerability of the schism between art made in the professional world, and art made as research in the academy ... is insecurity or uncertainty revealed itself in questions of how we might distinguish between making art and making art-as-research. 
+
+> How does PaR problematize notions of the professional artist and academic researcher?
+
+> What makes an instance of practice ‘count’ as research? Does PaR involve different methods as a result of its framing as research (as dis- tinct from ‘pure’ practice)?
+
+> Must PaR include some form of disseminable reflection? or is the practice in performance sufficient to stand as research output?[Piccini, in @thomson-2003-practice p.161]
+
+When do artistic projects become practice research? This is (I think) a different question from the old days; that is 'what is the difference between practice that is research and practice that is not'. The first question is operating under specific conditions -- conditions of the academy. Conditions in which claims to 'researchfulness' are made; that there is pressure to make such claims. 
+
+I sense that there's a fiction going on with how artists working in the academy develop practice research. And by fiction, I mean "something made, not something false".[@martin-1986-recent p.22]
 
 I propose a continuum from ab ovo -- literally, “from the egg” or from the beginning[@noauthor-2022-ovo] -- to post hoc, meaning "occurring after the event; done with hindsight".[@noauthor-2022-post] 
+
+is post-hoc different from reflective (or refractive if you want to go there). Old story that one -- e.g. Eisner? Or who was the education person? Schon! (reflective practitioner)
+use the word "pure" for ab ovo? That in reality dealing with huge range of diverse ad hoc processes (artistic methods) with as many distinct practices (which might be able to be broadly catgeorised in an unhelpful way)
 
 In my experience (this is all anecdotal -- would love to get the data) ab ovo practice research projects are rare. Practice research PhDs are likely the most common form, in which a PhD candidate claims the method or approach from the start of their doctoral studies, even if they are not experienced in working with and through it. The process is often (how often?) a matter of coming to understand what a practice research PhD entails, and how it is distinct from simply making a work of art (over a longer time frame than normal). But outside of doctorates and to a lesser extent MA-level projects, I am aware of few if any practice research projects which have been planned and conceived as such from the beginning. Certainly outside of academic funding streams. Is this a dirty secret? 
 
@@ -92,11 +112,11 @@ The Overview Report from REF2021 for Panel D Sub panel 33 (Music, Drama, Dance, 
 
 What I am proposing -- without any evidence -- is that the majority of practice research projects submitted to REF will have performed this retrofitting. I submitted three practice research outputs to REF2021 and two -- Pause. Listen. and We Record Ourselves -- were declared practice research post hoc. Is this different from retrofitting? I am not suggesting that both projects didn't engage in (what I claimed to be) research-ful processes but they were absolutely not encumbered with being labelled practice research ab ovo. 
 
-The word in the REF2021 feedback that is perhaps most telling is the word _appeared_. What did the panelists see and read that led them to think or feel that? Does it means some practice researchers are more capable of disguising post hoc declarations of practice research? 
+The word in the REF2021 feedback that is perhaps most telling is the word _appeared_. What did the panelists see and read that led them to think or feel that? Does it means some practice researchers are more capable of disguising post hoc declarations of practice research? How are such post hoc declarations from early premise (not sure how much it stands now) in practice research which was to make a work of art then write about it (my PhD attempted to subvert that)
 
 I want to try and make sense of that capability, and the other end of my continuum are post hoc practice research projects. These are conceived and developed as _making art_ and then reframed as practice research to serve. This might be called retrofitting but it also might be a necessary reflecting on an (ad hoc) artistic practice/project and attempting to communicate its researchfulness and contribution. Post hoc refers to when this work occurs and I think it means anything other than ab ovo. Might be collection of activities, processes, awarenesses, writings. Might be done in one go. 
 
-This is not a hierarchy. Invites old question of whether some art making is not researchful and that the REF panelists were seeing that work with its retrofitted RQs etc. 
+This is not a hierarchy. Invites old question of whether some art making is not researchful and that the REF panelists were seeing that work with its retrofitted RQs etc. Because, surely some art work is not as research-ful as others? And that some of that researchfulness is better than others (how ever one might understand 'better' -- more original? more significant? more ??) Isn't that the premise of REF processes? 
 
 Therefore, in a rather crude matrix, a practice researcher can be experienced in practice research (or not) and be aware of the art making practice as ending up as practice research (or not).
 
