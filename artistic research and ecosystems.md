@@ -27,7 +27,6 @@ Add here about aim of this writing. Make it plain.
 [^anna]: Introduced to me by Anna Pakes.
 
 - noting that cohesion does not necessarily mean precise. Often, cohesion is marked by vagueness (see JAR examples) - [[valorising vagueness]]. That's a strange dance that one. To deploy language of uncertainty while being validated by authority. re Machine of academy above: paradox of this is that we deploy slippery 'maybe' language -- but this bug not feature. The key problem is there is no ecosystem or commons (Weber Enlivenment): [[Weber - Enlivenment#^5704ea]]
- 
 
 To start with, I need to set out some clear categories under which (or by which) I suspect all practice-research projects exist (invite falsifiability here). These categories -- or perhaps conditions -- exist in different contexts and different situations for artist-researchers. I'll make these different conditions clear as I write them.
 
