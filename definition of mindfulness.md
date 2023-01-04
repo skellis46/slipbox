@@ -15,6 +15,7 @@ In _Mindful Movement_ Eddy simply writes that mindfulness is equivalent to "nonj
 - [[soma is tied to personal consciousness]]
 - [[somatics is the field which studies the soma]]
 - see also [[unconditional positive regard]]
+- [[Harris - Waking Up]]
 
 ---
 
