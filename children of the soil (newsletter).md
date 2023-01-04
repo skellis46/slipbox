@@ -7,7 +7,6 @@ status: "published"
 status-updated: "20220728"
 ---
 
-
 # children of the soil (newsletter)
 
 Last November, while I was in New Zealand my brother Ian said to me, "You have no relationship to the land." By land, he meant both the land of Aotearoa, but also land in the sense of 'that which we work'. I remember feeling quite shocked by his statement, not least because I suspect that he was right.
