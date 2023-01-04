@@ -11,7 +11,7 @@ _previous note:_
 
 ## Introduction
 
-- view all beings in "common household of matter, desire, and imagination" - he call this perspective enlivenment [@weber-2019-enlivenment p.1]
+- view all beings in "common household of matter, desire, and imagination" - he call this perspective enlivenment [@weber-2019-enlivenment p.1], also "enlightenment 2.0" [@weber-2019-enlivenment p.25]
 - self is self-through-other (p.2)
 - anthropocene as assertion of humans asserting mastery (p.2), in which nature is "hopelessly under human control" (p.9) Weber's proposal is to:
 
@@ -29,6 +29,10 @@ _previous note:_
 - relationship processes unfold and are conveyed through meaning, and meaning is experienced (by animals, humans, plants, etc) through emotions.(p.8)
 - to become more individual through connections (p.9)
 - new materialism as dualistic split by "imbuing nonhuman beings and even things with agency" (p.10)
+
+
+> Life can never be just a resource; it is always also a gift received by the other members of the ecosystem whose contributions are necessary for a living subject to survive.[@weber-2019-enlivenment p.45]
+
 
 ---
 
