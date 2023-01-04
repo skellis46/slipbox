@@ -24,6 +24,7 @@ tags: []
 
 > All high-quality connections share some common characteristics. First, they involve what Carl Rogers referred to as “unconditional positive regard.” Each person in the relationship feels seen and cared about and feels safe expressing a full range of experiences and thoughts. According to psychologist Lance Sandelands, high-quality connections create a feeling of “living presence, a state of pure being, in which isolating worries, vanities and desires vanish within a single vital organism.”[@kaufman-2020-transcend n.pag.]
 
+
 ---
 
 _thoughts & links:_
@@ -36,6 +37,7 @@ _thoughts & links:_
 - [[the observer is the observed]]
 - [[zen, map and territory]]
 - [[zen and don't know mind]]
+- 20230101 - some of Sam Harris's writing about consciousness and mindfulness are useful here [[Harris - Waking Up]]
 
 ---
 
