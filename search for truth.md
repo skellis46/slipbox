@@ -26,10 +26,6 @@ _thoughts & links:_
 
 _source:_  rss feed    
 
-_local link:_ [ingold-2018-search.mp3](hook://file/kgv4V8C7D?p=RHJvcGJveC9iaWJsaW9ncmFwaHkgcGRmcw==&n=ingold-2018-search.mp3)
-
-_zotero link & citekey:_ [ingold_search_2018](zotero://select/items/1_FLKQJ8WZ)
-
 _reference:_ Ingold, Tim, 2018. _Search and Search Again: On the Meaning of Research in Art_. Presentation at Centre for Contemporary Art, Glasgow, 14 February 2018. <https://soundcloud.com/cca-glasgow/tim-ingold-search-and-search-again-on-the-meaning-of-research-in-art>. Accessed 17 March 2018.
 
 
