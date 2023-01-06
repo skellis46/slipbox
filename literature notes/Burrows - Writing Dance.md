@@ -66,9 +66,8 @@ A small book containing a series of essays or extracts from previous work.
 
 > Moments of unfocus as well as focus, and the focus seems more like insight but it's hard to tell. [@burrows-2022-writing p.43]
 
-## Writing towards a subject
+## Writing towards a subject 
 ^952415
-
 - description of cumulative and somewhat arbitrary process of making _Rewriting_.
 
 ---
