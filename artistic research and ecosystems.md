@@ -14,45 +14,40 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 
 ![[practice research as ecosystem plan.canvas]]
 
+An opportunity to draw together threads of thinking that I've sat with for some time. Adapts, updates and builds on presentation from Leeds and blog post (link to) -- as early endnote?
+
+
 ## Abstract
 
 This writing is an attempt to make sense of the "mangle of practice" [@pickering-1995-mangle] [^alys] in a deliberate and precise yet vulnerable (honest?) way. I want to underline the danger of cohesion, and that the stories we tell about practice-research tend to value coherence over mess even when the defining (epistemic) characteristic of making art (and indeed doing practice-research) is mess. And that that coherence is almost always argued from authorities[^anna] that lie outside the communities of practice for artists and artist-scholars. That there is pressure to tell stories of clear (and impactful) findings, discoveries, aims and objectives which are at odds with the reality of art-making (whether in the academy or outside of it, whether it is deemed research-ful or not). About the choices we (practice-researchers) make to dress up our research to operate more cleanly (or fluidly) in the machine of the academy. To lubricate this machine. In doing so, we perform a disservice to art-making processes and outcomes, the epistemic possibilities of practice-research, and a disservice to the academy itself (thinking here of broader understandings of ways of knowing). It also impoverishes practice-research. 
 
 ## Introduction: retrofitted practice research
 
-This writing is not specific to dance practice research -- generally about practice research using dance as examples.
+This writing is not specific to dance practice research -- generally about practice research using dance as examples. Informed by my understanding of body-based research processes, using mostly expanded choreography examples.
 
-> fiction: "something made, not something false." -- Wallace Martin [-@martin-1986-recent p.22]
-
-> one species of the genus 'fiction,' the latter word originally having meant something made, not something false.
-
-The quality of academic research in the United Kingdom is publicly evaluated approximately every five years through REF: the Research Excellence Framework.[^ref] The REF has has 34 units of assessment that are divied into four broad disciplinary panels. Following REF 2021 the Overview Report from the panel for Music, Drama, Dance, Performing Arts, Film and Screen Studies (Panel D, unit of assessment 33) stated that:
+The quality of academic research in the United Kingdom is publicly evaluated approximately every five years through REF: the Research Excellence Framework.[^ref] The REF has 34 units of assessment divided into four broad disciplinary panels. Following REF 2021 the Overview Report from the panel for Music, Drama, Dance, Performing Arts, Film and Screen Studies (Panel D, unit of assessment 33) stated that:
 
 > A small proportion of practice research outputs appeared to retrofit research questions and a research-based process to work that was created with other agendas or purposes in mind.[@noauthor-2022-overview p.193] 
 
-It is difficult to decipher this statement. The panel is unequivocal in suggesting that to retrofit research questions or a research-based process is a _negative_ thing. But for what other agendas or purposes might work be made? As a provocation to consider the nature of practice research, I propose that the panel's feedback inadvertently opens an old wound in practice research in which this "small proportion of practice research outputs" was made simply as art but then was framed – post-hoc – as research. 
+The panel is unequivocal in suggesting that to retrofit research questions or a research-based process is a _negative_ thing, yet what does retrofitting mean? 
 
-The attempt to distinguish making art as research from _merely_ making art is not new. In 2003, Peter Thomson[^thomson] presented an edited account of conversations on the SCUDD list-serv[^list] debating practice-research. The text includes a list of fifteen questions developed by Angela Piccini for the 2003 Practice as Research in Performance (PARIP)[^parip] conference in Bristol. The sixth of Piccini's questions directly addresses the tension between art made as art and art made as research: 
+As a provocation to consider the nature of practice research, I propose that the panel's feedback inadvertently opens an old wound in practice research by implicitly distinguishing making art as research from _merely_ making art. This distinction is not new. 
+
+In 2003, Peter Thomson[^thomson] presented an edited account of conversations on the SCUDD list-serv[^list] debating practice-research. The text includes a list of fifteen questions developed by Angela Piccini for the 2003 Practice as Research in Performance (PARIP)[^parip] conference in Bristol. The sixth of Piccini's questions directly addresses the tension between art made as art and art made as research: 
 
 > What makes an instance of practice ‘count’ as research? Does [practice research] involve different methods as a result of its framing as research (as distinct from ‘pure’ practice)?[Piccini, in @thomson-2003-practice p.161]
 
-Ghosting through Piccini's question is the potential that not all art can be positioned as research. Indeed in 1993 Christopher Frayling expressed the concern that if all art is research (in which the art speaks for itself) then we might end up "in a position where the entire history of art is eligible for a postgraduate research degree".[@frayling-1993-research p.5] 
+Hovering over Piccini's question is the potential that not all art can be positioned as research. In 1993 Christopher Frayling expressed the concern that if all art is research then we might end up "in a position where the entire history of art is eligible for a postgraduate research degree".[@frayling-1993-research p.5] 
 
-Presupposing that the REF panel's feedback was referring to art made as art that was retrofitted as practice research, then the panel's feedback implies either a) not all art can be positioned as research; or b) some retrofitting processes were not adequately hidden or disguised for the purposes of the REF. Both possibilities have strong implications. If (a) is accurate then it follows that there are two categories of art vis-à-vis the academy: art that can not be positioned as research, and art that can. If (b) is accurate, then there must be better and worse ways to retrofit art as practice research. Putting aside what retrofitting might even mean (and I will get to this), it is self-evident that there are better and worse ways to retrofit art as practice research, just as there are better and worse ways to hit a tennis ball, bake bread or articulate a scholarly argument -- even if those 'ways' are not obvious, demand time and practice, and are not necessarily or easily falsifiable. The entire premise of the public assessment of research is for a panel of peers to do its best to assess the quality of research; by which I am encouraged to infer that some artistic practices (or at least how they are presented for REF in this case) must be more researchful than others.[^harford] 
+Presupposing that the REF panel's feedback was referring to art made as art that was retrofitted as practice research, then the panel's feedback implies either a) not all art can be positioned as research; or b) some retrofitting processes were not adequately hidden or disguised for the purposes of the REF. Both possibilities have strong implications for understanding practice research. If (a) is accurate then it follows that there are two categories of art vis-à-vis the academy: art that can not be positioned as research, and art that can. If (b) is accurate, then there must be better and worse ways to retrofit art as practice research. Putting aside what retrofitting might even mean (and I speak to this in the next section), it is self-evident that there are better and worse ways to retrofit art as practice research, just as there are better and worse ways to hit a tennis ball, bake bread or articulate a scholarly argument -- even if those 'ways' are not obvious, demand time and practice, and are not necessarily or easily falsifiable.[^harford] 
 
-What if the panel _wanted_ to suggest not all art could or should be retrofitted as practice research, but ended up implying that some REF outputs disguised their _retrofitting_ better than others? What if retrofitting is a necessary part of practice research methods? Such a methodological necessity would imply that one of the roles of REF panel D is to act as arbiters of the quality of retrofitting in practice research.
+What if retrofitting is a necessary part of practice research methods? 
 
-This writing is built on three ideas. 
+This writing is built on two ideas.  
 
-The first is the glaring and quite possibly faulty assumption that by describing "work that was created with other agendas or purposes in mind"[@noauthor-2022-overview p.193] the REF panel was referring to art made as art that was then retrofitted as practice research, and that such retrofitting _should not_ happen.  
+The first is axiomatic (and likely unpopular): all art can be framed as practice research. If this were not the case, we would need to establish specific conditions, types, methods, processes, practices, outcomes, etc that prevent any art from being framed as such. This is implausible to say the least. Note that this axiom is different from saying that all art _is_ practice research. Rather, all art _is able to be_ framed or positioned as practice research.
 
-The second is axiomatic (and likely unpopular): all art can be framed as practice research. If this were not the case, we would need to establish specific conditions, types, methods, processes, practices, outcomes, etc that prevent any art from being framed as such. This is implausible to say the least. Note that this axiom is different from saying that all art is practice research. Rather, all art is able to be framed or positioned as practice research. **Note:** history of the document in practice research is an escape clause (Magee, Borgdorff?, Thomson?)
-
-The third is the proposition that artistic activity in the academy is nearly always framed as practice research _post hoc_, and that this is equivalent to the retrofitting described by the REF panel. In a sense this proposition is concerned with _when_ arts practices are framed as practice research, and the seeds and implications of this timing. I will focus on providing evidence as to why post hoc framing of practice research must be the case, and that to suggest otherwise is to denature the complex inter-relationships between art-making and art rendered as research.   
-
-include/add introduction to structure of document (e.g. use of my practice as example)
-
-An opportunity to draw together threads of thinking that I've sat with for some time. Adapts, updates and builds on presentation from Leeds and blog post (link to). 
+The second is the proposition that artistic activity in the academy is nearly always framed as practice research _post hoc_, and that this is equivalent to the retrofitting described by the REF panel. In a sense this proposition is concerned with _when_ arts practices are framed as practice research, and the seeds and implications of this timing. I will focus on providing evidence as to why post hoc framing of practice research must be the case, and that to suggest otherwise is to denature the complex inter-relationships between art-making and art rendered as research. 
 
 ## The _when_ of practice research: ab ovo and post hoc
 
@@ -125,6 +120,8 @@ It is axiomatic that _artistic practice_ is fundamental to practice research in 
 How are such post hoc declarations different from early premise (not sure how much it stands now) in practice research which was to make a work of art then write about it (my PhD attempted to subvert that)
 
 is post-hoc different from reflective (or refractive if you want to go there). Old story that one -- e.g. Eisner? Or who was the education person? Schon! (reflective practitioner) I think it is distinct from merely reflecting on the work. 
+
+**Note:** history of the document in practice research is an escape clause to distinguish 'art' from 'artistic research'(Magee, Borgdorff?, Thomson?) By enforcing a written component, it neuters
 
 In 2003, Peter Thomson (now Emeritus Professor of Drama at Exeter University) presented an edited account of conversations on the SCUDD list-serv[^list] debating practice as research. The text includes a list of fifteen questions developed by Angela Piccini and PARIP in preparation for PARIP's 2003 conference in Bristol. The final question on Piccini's list is:
 
@@ -392,7 +389,7 @@ A way to end:
 
 # endnotes
 
-[^harford]: In many respects, it is inevitable that a process like REF will change the behaviours of those it involves. "The trouble is that when we start quantifying and measuring everything, we soon begin to change the world to fit the way we measure it."[@harford-2016-messy n.pag.] I don't want to get into this -- it's another article about the nature of quantification and measurement and how they shape practices and processes. I also don't want to get into it because I think the way practice research has 'shaped itself' is more fundamental to the shift from professional contexts to academic contexts (of the professionalization of the academy). Is 'better art' made as a consequence of practice research? if the answer is 'no' then what the fuck are we doing? 
+[^harford]: The entire premise of the public assessment of research is for a panel of peers to do its best to assess the quality of research; by which I am encouraged to infer that some artistic practices (or at least how they are presented for REF in this case) must be more researchful than others. In many respects, it is inevitable that a process like REF will change the behaviours of those it involves. "The trouble is that when we start quantifying and measuring everything, we soon begin to change the world to fit the way we measure it."[@harford-2016-messy n.pag.] I don't want to get into this -- it's another article about the nature of quantification and measurement and how they shape practices and processes. I also don't want to get into it because I think the way practice research has 'shaped itself' is more fundamental to the shift from professional contexts to academic contexts (of the professionalization of the academy). Is 'better art' made as a consequence of practice research? if the answer is 'no' then what the fuck are we doing? 
 
 [^maybe]: Come to think of it -- this might have been one of the ones the REF panel was referring to! foot note re possible exception based on REF feedback (Dad: it's not about you) <https://uoa33.coventry.domains/corporeal-epistemics/> ; and b) and Corporeal Epistemics[@ellis-2020-corporeal] for REF2021 -- an essay presented as an experimental desktop documentary. Even in this it was not clear whether the work should be framed as practice research or merely submitted as a 'non-traditional' format.
 
@@ -425,6 +422,16 @@ A way to end:
 ---
 
 # edit bin
+
+The first is the glaring and quite possibly faulty assumption that by describing "work that was created with other agendas or purposes in mind"[@noauthor-2022-overview p.193] the REF panel was referring to art made as art that was then retrofitted as practice research, and that such retrofitting _should not_ happen. 
+
+Such a methodological necessity would imply that one of the roles of REF panel D is to act as arbiters of the quality of retrofitting in practice research.
+
+> fiction: "something made, not something false." -- Wallace Martin [-@martin-1986-recent p.22]
+
+> one species of the genus 'fiction,' the latter word originally having meant something made, not something false.
+
+What if the panel _wanted_ to suggest not all art could or should be retrofitted as practice research, but ended up implying that some REF outputs disguised their _retrofitting_ better than others? 
 
 That part of the mangle of practice is its ad hoc-ness. (see note 34 on p.21 of Pickering - Suchman). Also Pickering on mental hygiene (and Popper etc) on p.198 -- fantastic. This is a 'thing' for science to admit, but less so in the arts. is the mangle of practice self-evident? the ad hoc-ness of messy process? "self-evident" - Burrows (15 Dec 2022, personal comms)
 
