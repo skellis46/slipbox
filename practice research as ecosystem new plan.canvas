@@ -1,7 +1,5 @@
 {
 	"nodes":[
-		{"id":"3e0b7fd22304259d","x":96,"y":-221,"width":312,"height":64,"color":"1","type":"text","text":"Burrows - introduce"},
-		{"id":"d79a49f350c58462","x":96,"y":-130,"width":312,"height":64,"color":"1","type":"text","text":"COTS as case study"},
 		{"id":"60f8b3c4a7cf4100","x":-295,"y":-164,"width":250,"height":60,"type":"text","text":"entering the mangle of ad hoc practices"},
 		{"id":"b8b6ec8515c94ece","x":106,"y":-546,"width":312,"height":64,"color":"1","type":"text","text":"three ideas"},
 		{"id":"bd70fbf37b863068","x":97,"y":-452,"width":312,"height":64,"color":"1","type":"text","text":"ab ovo <--> post hoc continuum"},
@@ -9,18 +7,20 @@
 		{"id":"2d550b4d7ec9a88d","x":-310,"y":-363,"width":279,"height":60,"type":"text","text":"the *when* of practice research: ab ovo & post hoc"},
 		{"id":"80e507ae38343834","x":-296,"y":-589,"width":250,"height":60,"type":"text","text":"intro: retrofitted practice research"},
 		{"id":"60b87d0017ed711a","x":-371,"y":78,"width":326,"height":60,"color":"2","type":"text","text":"words words words: making an art work and then writing about it"},
-		{"id":"0052af4061dc161a","x":116,"y":14,"width":312,"height":64,"color":"1","type":"text","text":"context: number of words allowed/required (e.g.)"},
-		{"id":"bacf45a9a3e3cc8f","x":106,"y":108,"width":250,"height":60,"color":"1","type":"text","text":"intrinsic-extrinsic epistemic continuum"},
 		{"id":"1e2a0acb9f13d088","x":108,"y":-653,"width":312,"height":64,"color":"1","type":"text","text":"the difference between making art and doing artistic research"},
 		{"id":"b22e0bb7a61b5d1a","x":74,"y":-748,"width":250,"height":60,"color":"1","type":"text","text":"REF feedback \"retrofitting\""},
+		{"id":"3e0b7fd22304259d","x":96,"y":-221,"width":312,"height":64,"color":"1","type":"text","text":"Burrows - introduce"},
+		{"id":"d79a49f350c58462","x":96,"y":-130,"width":312,"height":64,"color":"1","type":"text","text":""},
+		{"id":"0052af4061dc161a","x":116,"y":14,"width":312,"height":64,"color":"1","type":"text","text":"context: number of words allowed/required (e.g.)"},
+		{"id":"bacf45a9a3e3cc8f","x":106,"y":108,"width":250,"height":60,"color":"1","type":"text","text":"intrinsic-extrinsic epistemic continuum"},
 		{"id":"d0a2bf762caebd0f","x":127,"y":448,"width":250,"height":50,"type":"text","text":"research bubbles"},
 		{"id":"6a175a1972886afe","x":127,"y":538,"width":250,"height":60,"type":"text","text":"basic and moral research intentions"},
 		{"id":"f5bd12baeb1e6118","x":130,"y":648,"width":250,"height":60,"type":"text","text":"we have never been individuals"},
-		{"id":"1e7470df70719fea","x":-683,"y":108,"width":250,"height":60,"type":"text","text":"presentation"},
-		{"id":"662abf137674bf64","x":-683,"y":-16,"width":250,"height":60,"type":"text","text":"artistic work"},
+		{"id":"662abf137674bf64","x":-788,"y":-21,"width":355,"height":65,"type":"text","text":"bifurcation: the artistic work and the framing as research"},
 		{"id":"45f646541e5f1398","x":130,"y":257,"width":350,"height":60,"color":"1","type":"text","text":"the chaos of framing: Children of the Soil as a case study"},
 		{"id":"a3d7577e16dbff8f","x":-333,"y":287,"width":250,"height":50,"type":"text","text":"the nature of the post hoc framing"},
-		{"id":"1e4f25298a92a0f7","x":-333,"y":598,"width":250,"height":60,"type":"text","text":"ecosystems"}
+		{"id":"1e4f25298a92a0f7","x":-333,"y":598,"width":250,"height":60,"type":"text","text":"ecosystems"},
+		{"id":"1e7470df70719fea","x":-788,"y":108,"width":250,"height":60,"type":"text","text":"presentation"}
 	],
 	"edges":[
 		{"id":"012ee916924c8364","fromNode":"80e507ae38343834","fromSide":"right","toNode":"b22e0bb7a61b5d1a","toSide":"left"},
