@@ -87,127 +87,47 @@ That moment though -- of _when_ -- is important: that moment when one decides ho
 
 ## bifurcation: the artistic work and its framing as research
 
-In _The Conflict of the Faculties_ (2012) Henk Borgdorff states that "[practice] research addresses itself both to the academic forum and to the forum of the arts",[@borgdorff-2012-conflict p.167] and that it is "directed first of all to the art world."[@borgdorff-2012-conflict p.167] Even if the professionalisation of the arts has increased the overlap between the professional and academic artistic communities, [**citation**] the distinction remains tangible. 
+In _The Conflict of the Faculties_ (2012) Henk Borgdorff states that "[practice] research addresses itself both to the academic forum and to the forum of the arts",[@borgdorff-2012-conflict p.167] and that it is "directed first of all to the art world."[@borgdorff-2012-conflict p.167] 
 
-The responsibility to these two forums or audiences that Borgdorff describes is complex, although how I might present my work to the artistic community is the easy part. Practice researchers might be accused of 'academising' artistic work but for the most part our artist selves understand the expectations, economies, currencies, processes, codes and needs of the artistic world or worlds to which we belong. The artwork will exist somewhere along various continuums: seen or not seen; sold or not sold; reviewed kindly or not reviewed at all; it will be fashionable or not fashionable; liked or not liked; talked about or not talked about; remembered or forgotten. How the work was made -- including even the nature of the fundamental practices -- is mostly if not completely irrelevant, and how the work functions epistemically might be _felt_ as it circulates in the aether, but it is never discussed directly. 
+The responsibility to these two forums or audiences that Borgdorff describes is complex, although how I might present my work to the artistic community is likely the easier or more familiar part. Our artist selves understand the expectations, economies, currencies, processes, codes and needs of the artistic world to which we belong. The artwork will exist somewhere along various continuums: seen or not seen; sold or not sold; reviewed kindly or not reviewed at all; it will be fashionable or not fashionable; liked or not liked; talked about or not talked about; remembered or forgotten. How the work was made -- including even the nature of its underlying practices -- is mostly if not completely irrelevant, and how the work functions epistemically might be _felt_ as it circulates in the aether, but it is never discussed directly. 
 
-The contrast is clear for artistic practice in the academic community. For instance, although it is axiomatic that _artistic practice_ is fundamental to practice research in the arts,[@bulley-2021-report] the artistic practice and the emergent artwork are not the same thing. Here's Borgdorff again: "art practice is paramount as the subject matter, the method, the context, and the outcome of artistic research".[@borgdorff-2012-conflict p.146] 
+The contrast is clear for artistic practice in the academic community. Although it is axiomatic that _artistic practice_ is fundamental to practice research in the arts,[@bulley-2021-report] the artistic practice and the emergent artwork are not the same thing. 
 
-There's a seductive sleight of hand in Borgdorff's statement, and he makes it too easy to infer that an art practice ends up as an artwork which is thereby synonymous with the outcome of practice research. But what does Borgdorff mean by art practice? Previously, he has described it as "both the art object and the creative process"[@borgdorff-2006-debate p.18], yet Jonathan Burrows makes a clear distinction: 
+Henk Borgdorff writes that, "art practice is paramount as the subject matter, the method, the context, and the outcome of artistic research".[@borgdorff-2012-conflict p.146] There's a seductive sleight of hand in Borgdorff's statement, and he makes it too easy to infer that an art practice ends up as an artwork which is thereby synonymous with the outcome of practice research. But what does Borgdorff mean by art practice? Previously, he has described it as "both the art object and the creative process"[@borgdorff-2006-debate p.18], yet Jonathan Burrows makes a clear distinction: 
 
 > I write a note on my phone saying 'practice is a ghost-like activity', by which I think I mean that this doing which is not yet art is inhabited always by the ghost of other work, which points insistently towards what might slip over into art.[@burrows-2022-writing p.25]
 
-In other words, given how fluid, ghost-inhabited, unpredictable and uknowable is artistic practice, the emergent outcome called an artwork is not necessarily indicative of the researchful nature of the artistic practice. It is entirely plausible that a complex, rigourous and insightful artistic practice does not ever slip over into art. Or perhaps in the case of ab ovo practice research PhD projects in which the postgraduate researcher is required to engage with open-ended practice research methods rather than have the much clearer option to make an artwork and then frame it as research? What happens then? 
+In other words, given how fluid, ghost-inhabited, unpredictable and uknowable is artistic practice, the emergent outcome called an artwork is not necessarily indicative of the researchful nature of the artistic practice. It is entirely plausible that a complex, rigourous and insightful artistic practice does not ever slip over into art. Or what happens in the case of ab ovo practice research PhD projects in which the postgraduate researcher seems to be required to engage with open-ended practice research methods rather than have the much clearer option to make an artwork and then frame it as research? 
 
-Perhaps these not so dissimilar situations are why it is easiest for a practice researcher to simply put on their artist hat and go about the complex and contingent process of making an artwork. Once the artwork is done _then_ they can start discussing how it is best framed as research, or often more appropriately, deciding which aspects of the process and/or artwork are researchful. But this will not do. It is too limited to suggest (or imply) -- as Borgdorff does -- that the point of practice research is art making, even if the vast majority of practice research is art making rendered post hoc as practice research. So much of practice research depends on the questions being asked, the questions that change as they emerge, the ad hoc processs that wax and wane, the deliberate activities that stop being deliberate, and the diverse and mostly non-traditional modes of sharing understanding or insight (modes which most certainly may not be easily conceived as artworks).  
+Perhaps these two not so dissimilar situations are why it is easiest for a practice researcher to simply put on their artist hat and go about the complex and contingent process of making an artwork. Once the artwork is done _then_ they can start discussing how it is best framed as research or, often more appropriately, deciding which aspects of the process and/or artwork are researchful. But this will not do. It is too limited to suggest (or imply) -- as Borgdorff does -- that the point of practice research is art making, even if the large majority of practice research is just that: art making rendered post hoc as practice research. So much of practice research depends on the questions being asked, the questions that change as they emerge, the ad hoc processs that wax and wane, the deliberate activities that stop being deliberate, and the diverse and mostly non-traditional modes of sharing understanding or insight which are not necessarily concievable as artworks.
 
 What to do? The answer is neither 'make all practice research correspond to making a work of art and then describe its researchfulness post hoc' (which would prevent the development of experimental practices that do not result in artworks) nor 'force practice researchers into some kind of pure ab ovo processes' (which are often troubled by the experience of radical ad hoc-ness and do not coincide with how most practice research is conducted).
 
-The answer is to develop the capacity and sensitivity to recognise the seemingly distinct processes -- what I have called _ab ovo_ and _post hoc_ practice research -- and how they might rather curiously slip over and into each other and begin to undo their semantic meanings. Such sensitivity demands flexibility and openness on the part of the practice researcher, which afford them the chance to _stay with the practice_. This complexity of being caught in quite distinct epistemic experiences is also a reminder of just how key is the process of framing practice research. 
+The answer is to develop the capacity and sensitivity to recognise the seemingly distinct processes -- what I have called _ab ovo_ and _post hoc_ practice research -- and how they might rather curiously slip over and into each other and even begin to undo the semantic meanings of the terms. Such sensitivity demands tremendous flexibility on the part of the practice researcher; flexibility which also affords the researcher the chance to _stay with the practice_ even while noticing the desire or pressure to narrow the practice's epistemic and ontologic boundaries. The complexity of being caught in quite distinct experiences of process is also a reminder of just how vital is the process of framing practice research. 
 
+But before I turn to an _in process_ example of the nature, messiness and politics of framing practice research, I need to talk about the words that are written as part of practice research. These words are another less obvious part of the split between the academic forum and the forum of the arts. Borgdorff writes simply that "a discursive justification of the research will be necessary with the academic discourse in mind."[@borgdorff-2012-conflict p.167] Such discursive justification is what artist-scholar Paul Magee calls the "bifurcated product":[@magee-2012-introduction p.3] the artwork and the writing about the artwork. 
 
+The written component of practice research started out as "getting art on the books"[@magee-2012-introduction p.2] of the academy by attempting to distinguish 'art' from 'artistic research'. But the practice research field struggled with it. Here's Angela Piccini again (see _Introduction_, p.xx), writing online in the northern autumn of 2002:
 
-but before I turn to the nature and complexity of that framing I need to talk about words. But the buck does not stop there. We write about it.
-- the articulation of the articulation:
+> Must [practice research] include some form of disseminable reflection? or is the practice in performance sufficient to stand as research output? [Piccini in @thomson-2003-practice p.161]
 
-"a discursive justification of the research will be necessary with the academic discourse in mind"[@borgdorff-2012-conflict p.167]
+The disseminable reflection that Piccini refers to is called "complementary writing"[@nelson-2013-practice p.11] by Robin Nelson, and is described as a "research narrative"[@bulley-2021-report p.27] in PRAG's _Pratice Research Report_. But regardless of what it is called, the written component of practice research is now hegemonic in providing something akin to "a single unified answer"[@biggs-2011-communities p.91] in contrast to the "plurality of experiences"[@biggs-2011-communities p.91] and "unfinished thinking"[@borgdorff-2012-conflict p.194] of the "provisional"[@schwab-2019-experimental p.166] practice artifact or outcome. The contrasting language of "unified answer" and "unfinished thinking" reflects the divergent epistemic affordances of art practices and writing about art practices.[^thatthing] Nevertheless, the research narrative is as concrete a component of practice research as one can imagine, even if the terms and conditions of its form-content are wildly variable. For instance, most practice research PhDs in the UK require research narratives to be no less than 40000 words. Yet for the Research Excellence Framework, we are only allowed 300 words. There are ways around this limitation, for example adding traditional published articles about the practice in the portfolio for the output. But I for one have grown to like the ways in which the limitation of the 300 words is enough to point to the research within the practice, while enabling the practice to continue to do its own unfinished epistemic work. 
 
+## The nature of the post hoc framing: a case study
 
-In contrast, for the , the epistemic nature of the artistic work is fundamental. Borgdorff writes that in the context of practice research "artworks are the generators of that which we do not yet know. They thereby invite us to think. [Practice] research is the articulation of this unfinished thinking."[@borgdorff-2012-conflict p.194] What kind of articulation is Borgdorff describing here? (mention how it ties into writing??)
+How does/might post hoc framing happen? 
 
-- how does B's 'unfinished thinking' make sense re intrinsic vs extrinsic? Does that mean text serves to finish the thinking? idea of joke not being ruined by explanation. (a case for writing)
+In this section I use an artwork as a case study to help understand the written framing -- or research narrative -- of practice research. The artwork is a video called _Children of the Soil_,[@ellis-2022-children] and I use one of my own works because it will help reveal the process of framing more openly, including the half-formed thoughts, assumptions, confabulations, academic games and personal desires. I am less interested in drawing attention to the artwork itself -- it is what it is. This section does not assume a particular form for the eventual written framing[^writingforms] or how to decide on the written form. Rather, it makes it clear that a decision is being made as to what to write about and that the written element happens post hoc -- what I claim is the most common (but not necessarily ideal) form of practice research.
 
-- writen about this in that thing produced -- small quote (working with Magee?)
+The first time I described _Children of the Soil_ as practice research was on Friday 9 December 2022, nearly four months after it was published online on Vimeo. I described it as such as part of the University's very early review of current research outputs plausibly submittable to the next yet-to-be-announced Research Excellence Framework in the UK. This is not to say I hadn't thought of the work as practice research previously, but only loosely and lightly. You might say that in the back of my mind I was aware that at some stage I would need to articulate its practice research-ness and a University evaluation process precipitated that I cross that line.[^300] 
 
- 
+The conditions for making the video work were an artistic residency in Italy[^nahr] in which the expectation was that I would create art.[^fashion] 
 
+### Overview of the art making process
 
-- how the artistic work (or practice, process, artifacts, or aspects of it), connects with and serves the research community (through being framed as practice research)
-- for all that unfinished thinking, the question of writing re practice research has well and truly been answered, if  not the quantity of words. 
-
-## words words words: making an artwork and then writing about it
-
-How are such post hoc declarations different from early premise (not sure how much it stands now) in practice research which was to make a work of art then write about it (my PhD attempted to subvert that). Nelson?
-
-
-
-**Note:** history of the document in practice research is an escape clause to distinguish 'art' from 'artistic research'(Magee, Borgdorff?, Thomson?) By enforcing a written component, it neuters
-
-In 2003, Peter Thomson (now Emeritus Professor of Drama at Exeter University) presented an edited account of conversations on the SCUDD list-serv[^list] debating practice as research. The text includes a list of fifteen questions developed by Angela Piccini and PARIP in preparation for PARIP's 2003 conference in Bristol. The final question on Piccini's list is:
-
-> Must PaR include some form of disseminable reflection? or is the practice in performance sufficient to stand as research output? [Piccini in @thomson-2003-practice p.161]
-
-Piccini's question continues to haunt the epistemic underpinnings of practice research. That is, is a "research narrative"[@bulley-2021-report p.27] required to convey understandings and knowledge that emerge from practice research? 
-
-### context - number of words
-
-**Note:** is it possible to imagine that the less written context required, the more a project can tend towards post hoc? 
-
-### Intrinsic-extrinsic epistemic continuum
-
-Piccini's question reflects two divergent epistemic positions in practice research: 1) artistic artefacts require a written reflective or analytical statement that synthesises and reveals the epistemic status or findings of the research [e.g. @nelson-2013-practice; @noauthor-2019-ref2021]; 2) artistic artefacts themselves contain and communicate research understandings, including apprehension, experience (etc) [@borgdorff-2012-conflict], [@scrivener-2002-art]
-
-- intrinsic very rare. REF is close. JAR nope. The default position tends towards extrinsic. JER tends towards intrinsic -- but with video document as proxy (with text component)
-- if the work I will discuss was 'intrinsic' then this writing could stop here?? (more or less). The only reason there is more to say is because extrinsic is more or less default position.
-
-Both positions have inherent problems.
-
-- maybe these are not necessarily only epistemic positions. That is, what if can 'hope' for intrinsic epistemics, but explicitly extrinsic in how it participates in the world/community of practice?-- this is what Borgdorff hints at on p.154 (note 10)
-
-The extrinsic position -- that knowledge in practice-research is revealed or clarified through written forms -- sets no margins or limits on the epistemic claims that artistic-scholars make on behalf of their practices, and such claims are rarely "made available for sustained and verifiable peer review" [@haseman-2007-tightrope n.pag.].
-
-This is where getting outside of the bubble is key. It helps to corral epistemic laxity. It generates connection. 
-
-The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes -- vagueness and ambiguity -- are viewed as strengths and/or weaknesses. The intrinsic position is particularly vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. Add point here about documentation being the critical proxy in practice-research This is because "proxies are easier to manipulate than the complicated reality they represent" [@oneil-2016-weapons Chapter 3]. Could speak of maps and territories here.
-
-- noting that cohesion does not necessarily mean precise. Often, cohesion is marked by vagueness (see JAR examples) - [[valorising vagueness]]. That's a strange dance that one. To deploy language of uncertainty while being validated by authority. re Machine of academy above: paradox of this is that we deploy slippery 'maybe' language -- but this bug not feature. The key problem is there is no ecosystem or commons (Weber Enlivenment): [[Weber - Enlivenment#^5704ea]]
-
-... other positions are often inadvertently supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work. More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
-
-## The nature of the post hoc framing
-
-re: post post-production (think of as 'the conditional')
-- the choices we make
-- telling the truth (timing matters - see Corporeal Epistemics) - rigour, honesty, integrity, transparency
-- I could do this.
-- I could do this. Which would be more true?  
-- What are the reasons for applying one over another? 
-
-Implications of the ad hoc nature: for rigour (can be rigorously ad hoc), the nature of the framing, key thing is that is tendrical. Multiple surfaces, many many possibilities to frame as research. 
-Serving needs of the profession.
-
-The process of framing about understanding which discourses the work most clearly participates in (will return to this). 
-
-These are conceived and developed as _making art_ and then reframed as practice research to serve. This might be called retrofitting but it also might be a necessary reflecting on an (ad hoc) artistic practice/project and attempting to discursively communicate its researchfulness and contribution. Post hoc refers to when this work occurs and I think it means anything other than ab ovo. Might be collection of activities, processes, awarenesses, writings. Might be done in one go. 
-
-- how does this post hoc reframing happen? 
-- concern here is not what types of writing to present (e.g. Borgdorff pp.167-8; but also Nelson, others -- Bulley report gives overview), or indeed _how to decide_. But rather to make it clear that a decision is being made and it is a decision that normally serves interests of the researcher (call to authority, validation)
-
-### the chaos of framing: Children of the Soil as a case study
+The process was quintessentially ad hoc. 
 
 - pre pre-production (lots of testing), pre-production, production (making), post-production (making), post post-production
-
-The conditions for making the video work were an artistic residency in Italy in which the expectation was that I would create art (even though they used the language of research -- very common in the arts world now). My role was clear and I undertook that role seriously. 
-
-
-- add link. Not necessary to watch it.
-
-The first time I described the video work _Children of the Soil_ as practice research was on Friday 9 December 2022, nearly four months after I published the work online on Vimeo. (thought of it as an artwork -- akin to B p.154) I did this as part of a very early scan and review of current research outputs plausibly submittable to the next (years from being announced) Research Excellence Framework here in the UK. This is not to say I hadn't thought of the work as practice research beforehand, but only loosely and lightly (more on this in a moment). You might say that in the back of my mind I was aware that at some stage I would need to articulate its practice research-ness and a University evaluation process precipitated that I cross the line. -- relate to matrix.
-
-- purpose is not to provide a written (extrinsic) account of the process or outcomes. To use it to dig into the various ways I might approach its context. Not quite right -- because some of the [[list of possible contexts for children of the soil]] would likely end as post-hoc (extrinsic) renderings
-- lines are blurry -- slippage between 'output' and 'context' (very common in JAR and perhaps JER?) -- or what the PRAG report terms the 'practice' and the 'narrative'?
-
-My approach is to reflect deeply and critically on my film project called _Children of the Soil_ [-@ellis-2022-children]. I am going to ascribe the term _practice-research_ to this project (more on that later). I use a work I made because it enables me to access the mangle more completely: the half-formed thoughts, the abstractions, the extrusions, the interruptions, the unknowing, the clarity, the vagueness, the faults, the unfinished, the accidents, the mess. Not because I want to draw attention to this work (the work is what it is is). 
-
-#### Hypothetical scenario 1: inherent
-
-keep in mind interacting, found, particular. 
-
-
-- hanging over this are two historical practices as an artist: screendance, and choreography. They are inescapable. When I make timelapses I work with and through the eyes/frames of screendance and choreography. Caught or wrapped in my identity/history/practice. 
-- how to separate (or keep together) process and product? 
-
-mention that vimeo thing about practice-research -- and past practices interacting with current ... the diagram dude from RMIT 
 
 What was the practice or practices? (which might be distinct from what is able to be seen/noticed in the output or outcome of those practices). c.f. those things that are evident in the outcome.  
 
@@ -217,13 +137,7 @@ What was the practice or practices? (which might be distinct from what is able t
 - observations/listening outside -- each day, regularly. Being outside.
 - reading graphic novels (Zerocalcare, Harari)
 - writing and collecting: this body
-- reading on more-than-human
-
-These are not abstract entities, constructed by me or others and then introduced for some stated or unstated reason. They are aspects of the work table as ecosystem that are inherent to the video artwork in particular.  
-
-For this scenario I acknowledged the delicate balance of the ecosystem, and my goal was not to introduce any new or unfamiliar species. Indeed, as my eyes, senses and desires (observer effect) adjusted to the particularities of the work table top, I started finding new materials and interactions peculiar to the ecosystem. The part of the ecosystem most useful was the video artwork _Children of the Soil_. 
-
-For example, within the video I can clearly see obvious the influence of graphic novels (appropriation?), and thinking and practices that relate to the term more-than-human coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle) -- but even this is a stretch.
+- reading on more-than-human (term coined by David Abram and _The Spell of the Sensuous: Perception and Language in a More-Than-Human World_ (New York: Vintage, 1996) -- check this (got this from Bridle) -- but even this is a stretch.
 
 - what are the strands of research dialogue for children of the soil?
 	+ graphic novels  
@@ -232,21 +146,57 @@ For example, within the video I can clearly see obvious the influence of graphic
 	+ eco-somatics  
 	+ temporal experiments in film
 
-#### Hypothetical scenario 2: invasive species
+These are not abstract entities, constructed by me or others and then introduced for some stated or unstated reason. 
+
+### The chaos of framing (and how to decide)
+
+Implications of the ad hoc nature: for rigour (can be rigorously ad hoc), the nature of the framing, key thing is that is tendrical. Multiple surfaces, many many possibilities to frame as research. 
+Serving needs of the profession.
+
+re: post post-production (think of as 'the conditional')
+- the choices we make
+- telling the truth (timing matters - see Corporeal Epistemics) - rigour, honesty, integrity, transparency
+- I could do this.
+- I could do this. Which would be more true?  
+- What are the reasons for applying one over another? 
+
+
+The process of framing about understanding which discourses the work most clearly participates in. to discursively communicate its researchfulness and contribution. 
+
+- decision of framing normally (see JAR examples) serves interests of the researcher (call to authority, validation)
+
+“selected, pruned and spruced up” (Richardson, 1994 p.520) (from thesis)
+
+ 
+
+Or could add here something about clarity emerging from who the community of practice is (this is a decision). 
+
+- my goal in any kind of research narrative in practice research is to sustain the nature of the artwork (to let it do its own work)
+- to point to what is able to be seen/heard in research sense (which might be quite different from what the work is about)
+
+
+
+
+
+- is it possible to imagine that the less written context required, the more a project can tend towards post hoc? 
+
+- hanging over this are two historical practices as an artist: screendance, and choreography. They are inescapable. When I make timelapses I work with and through the eyes/frames of screendance and choreography. Caught or wrapped in my identity/history/practice. 
+- how to separate (or keep together) process and product? 
+
+mention that vimeo thing about practice-research -- and past practices interacting with current ... the diagram dude from RMIT (Richard Blythe -- summary doesn't exist now)
+
+something like this as question underpinning my decision making (include something about not adding adding adding -- validation, calls to authority; also community of practice)
+
+
+For this scenario I acknowledged the delicate balance of the ecosystem, and my goal was not to introduce any new or unfamiliar species. Indeed, as my eyes, senses and desires (observer effect) adjusted to the particularities of artwork I had made (after I had made it), I started finding new materials and interactions peculiar to the ecosystem. 
+
+
+### Research bubbles
+
+**Note:** should this be sub-section of 'how to decide'?
 
 a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecosystems. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
 
-> We can justifiably speak of [practice research] ... when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research.
-
--- Henk Borgdorff[-@borgdorff-2012-conflict p.147]
-
-What I am not sure is clear from Borgdorff's categorisation of research _in_ the arts is how artists (including practice researchers) often talk about practices that lead to an artistic work _about_ something. For example, I could develop an artistic work through specific body-based practices (say using authentic movement, improvisation and movement meditations) that is also about something seemingly external to those practices; for instance, eco-anxiety and the climate emergency. How does such a work contribute to a disciplinary field (in this case eco-psychology) that is marginally related if at all to the practices in the research? This distinction between practice research in the arts, and practice research leading to a work about something nominally (or utterly) outside of the field of the practice will become clearer later when I talk about ...
-
-- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical (perhaps also the quote on the canvas? -- from p.151). But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must articulate back to community. Else just a series of singular events. No reciprocity. [[Weber - Enlivenment#^f00e6f]]
-
-Or could add here something about clarity emerging from who the community of practice is. Note also that Borgdorff's thinking re art serving both art community and academic one. p.167. Opens clear possibility of work 'about' something that still functions in both communities -- but HOW it functions in academic community of practice needs to be articulated? 
-
-### Research bubbles
 
 - yes, I add a version of this work in this way -- I do this labour as a thought experiment and to implicate myself (can also given examples of when I've done this previously)
 - possible to add discussion about [[art practices explicitly become epistemic things]] -- and the argument I make there about Borgdorff and JAR
@@ -261,7 +211,9 @@ Or could add here something about clarity emerging from who the community of pra
 - compare with Schwab in describing a piece of knowledge as an artefact of communication: [[experimentation is social#^da953d]] - so if this is plausible, who then is doing the communicating? (if it isn't artist-researchers)
 - perhaps though Schwab's concern for how artworks are provisional ([[schwab - experimental systems#^279252]]) (ie epistemic things filled with epistemic potential) is fundamental to the expositions in JAR as being starting points or seeds. But where does that leave us? Scattering seeds everywhere (seeds dependent on theory-as-water).
 - "What I’m objecting to is the use of names as talismans." [Chamberlain, in @thomson-2003-practice p.176] - referring to Kant. I think I have same objection.
- 
+
+- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical (perhaps also the quote on the canvas? -- from p.151). But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must articulate back to community. Else just a series of singular events. No reciprocity. [[Weber - Enlivenment#^f00e6f]]
+
 Noting "focuses on their practice" from SW's original invitation -- just take a sample, perhaps there will be exceptions that prove the rule. But this is the unspoken practice: that when we write about artistic practice we don't write about how it is part of an ecosystem ([[difference between ecology and ecosystem]]) of practice. We tend to write about it as part of alternative ecosystems (ones that are not at all aware that the practice exists and nor would they care). It fails to be in dialogue. Not surprising in a nascent form in the academy we'd choose to be in relation to authorities (philosophical, cultural). We lean on them to prop up the status of our work. This is as old (or young) as PaR -- remember conversations from PARIP in 2003. Perhaps though this is a matter of choice: the connections we choose to make. Why then would we choose these other ecosystems? What does it say about us? 
 
 Curious that for all the word's utility in performance writing, in practice-research we exist in bubbles: these are ecosystems of theory, with borders and boundaries constructed by authors to validate an artistic practice.
@@ -270,13 +222,9 @@ Curious also re [[a claim to specificity clashes with a claim to singularity]] a
 
 ### The most basic (and moral) of research intentions
 
-In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
+In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. In just the third paragraph of the article, Trimingham makes a bold and important claim: 
 
-some 20 years later -- I think it would be perceived as a conservative approach (I wonder to what extent it would be perceived) to the methodological concerns of practice-research. My purpose here is not to get into the pros and cons of Trimingham's proposal, and nor do I wish to dig into how well it was aged (although I think that would be a useful reflection). My intuition is that we have moved further away from calls for clarity and rigour even compared with the wild west days of practice-research in the late 90s and early 2000s. Rather, I want to focus on the epigraph above which comes from just the third paragraph of Trimingham's article, and in which our basic (and moral!) research intention is that the work be for others other than ourselves.
-
-> We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves. 
-
--- Melissa Trimingham [-@trimingham-2002-methodology p.54]
+> We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves.[@trimingham-2002-methodology p.54]
 
 - is Trimingham's statement different from the ecosystem/bubble I am hinting at? My hunch is that the bubble is a sub-set of her thinking.
 
@@ -284,9 +232,7 @@ go into some detail with the statement. Why moral? What about the word _benefit_
 
 For the purposes of this writing I will take Trimingham's statement as axiomatic: that re
 
-this statement is the spine for this writing. Whether you agree with it or not, . A way to draw attention our responsibilities as practice-researchers (use of that pronoun indicates my audience), which are really no different from the responsibilities of researchers in other disciplines even if the epistemic and ontologic conditions of the work we do are starkly different. 
-
-
+Whether you agree with it or not, . A way to draw attention our responsibilities as practice-researchers (use of that pronoun indicates my audience), which are really no different from the responsibilities of researchers in other disciplines even if the epistemic and ontologic conditions of the work we do are starkly different. 
 
 
 ## Ecosystems
@@ -400,7 +346,23 @@ A way to end:
 
 --- 
 
+**Note:** all iterations/development on github
+
+--- 
+
 # endnotes
+
+[^writingforms]: See Borgdorff pp.167-8; but also Nelson, others -- Bulley report gives overview)
+
+[^fashion]: The organisers used the word research in the call for proposals. Very fashionable in the arts. Normally means "not making a work" -- ironic in this situation. Currency of the language. 
+
+[^nahr]: Nature, Art, Habitat Residency (theme: soil): <https://nahr.it/2022-Theme>
+
+[^300]: I was required to write a 300 word summary and I wrote the following very quickly (20 minutes):
+
+> Children of the Soil is a short film that explores the slow work of growth, gravity and decay. It was created through several practices: 1) falling slowly to the ground; 2) timelapse photography; 3) post-production explorations of spatialising time (using graphic novel 'panels'); 4) texts exploring the more-than-human world (Abram, 1996). I was relatively new to all of these practices before pre-production, although the body-based work is a natural extension of my ongoing corporeal practice. The four practices coalesce around two artistic contexts that I have worked in for 20-30 years: choreography and screendance. I don't yet know how to write about it as research and for which community of practice. I am currently clarifying these issues in a journal article but am tending to think of it as research in and for the screendance community (albeit in an experimental way) that aims to question the role and presence of the human body without simply rendering it invisible. (Ellis, 13 December 2022) 
+
+[^thatthing]: I have previously discussed these ideas in _That Thing Produced_[@ellis-2018-that] and _Corporeal Epistemics_[@ellis-2020-corporeal].
 
 [^harford]: The entire premise of the public assessment of research is for a panel of peers to do its best to assess the quality of research; by which I am encouraged to infer that some artistic practices (or at least how they are presented for REF in this case) must be more researchful than others. In many respects, it is inevitable that a process like REF will change the behaviours of those it involves. "The trouble is that when we start quantifying and measuring everything, we soon begin to change the world to fit the way we measure it."[@harford-2016-messy n.pag.] I don't want to get into this -- it's another article about the nature of quantification and measurement and how they shape practices and processes. I also don't want to get into it because I think the way practice research has 'shaped itself' is more fundamental to the shift from professional contexts to academic contexts (of the professionalization of the academy). Is 'better art' made as a consequence of practice research? if the answer is 'no' then what the fuck are we doing? 
 
@@ -435,6 +397,70 @@ A way to end:
 ---
 
 # edit bin
+
+- purpose is not to provide a written (extrinsic) account of the process or outcomes. To use it to dig into the various ways I might approach its context. Not quite right -- because some of the [[list of possible contexts for children of the soil]] would likely end as post-hoc (extrinsic) renderings
+- lines are blurry -- slippage between 'output' and 'context' (very common in JAR and perhaps JER?) -- or what the PRAG report terms the 'practice' and the 'narrative'?
+
+These are conceived and developed as _making art_ and then reframed as practice research to serve. This might be called retrofitting but it also might be a necessary reflecting on an (ad hoc) artistic practice/project and attempting to discursively communicate its researchfulness and contribution. Post hoc refers to when this work occurs and I think it means anything other than ab ovo. Might be collection of activities, processes, awarenesses, writings. Might be done in one go. 
+
+Trimingham's response was to propose a broad methodology built on hermeneutics, social science methods, and action research (mention hermeneutic spiral). bold and called for a practice-research methodology that could "account for the disorderly creative process and yet demonstrate rigorous planning" [@trimingham-2002-methodology p.55]. 
+
+some 20 years later -- I think it would be perceived as a conservative approach (I wonder to what extent it would be perceived) to the methodological concerns of practice-research. My purpose here is not to get into the pros and cons of Trimingham's proposal, and nor do I wish to dig into how well it was aged (although I think that would be a useful reflection). My intuition is that we have moved further away from calls for clarity and rigour even compared with the wild west days of practice-research in the late 90s and early 2000s. Rather, I want to focus on the epigraph above which comes from just the third
+
+Note also that Borgdorff's thinking re art serving both art community and academic one. p.167. Opens clear possibility of work 'about' something that still functions in both communities -- but HOW it functions in academic community of practice needs to be articulated? 
+
+(thought of it as an artwork -- akin to B p.154) 
+
+> We can justifiably speak of [practice research] ... when that artistic practice is not only the result of the research, but also its methodological vehicle, when the research unfolds in and through the acts of creating and performing. This is a distinguishing feature of this research type within the whole of academic research.
+
+-- Henk Borgdorff[-@borgdorff-2012-conflict p.147]
+
+What I am not sure is clear from Borgdorff's categorisation of research _in_ the arts is how artists (including practice researchers) often talk about practices that lead to an artistic work _about_ something. For example, I could develop an artistic work through specific body-based practices (say using authentic movement, improvisation and movement meditations) that is also about something seemingly external to those practices; for instance, eco-anxiety and the climate emergency. How does such a work contribute to a disciplinary field (in this case eco-psychology) that is marginally related if at all to the practices in the research? This distinction between practice research in the arts, and practice research leading to a work about something nominally (or utterly) outside of the field of the practice will become clearer later when I talk about ...
+
+> The University of Melbourne’s preference was that I submit the thesis prior to, or at the very latest, six weeks after the completion of the live work. This was problematic for me as, in simple terms, it represented a way of viewing the performance work as being illustrative of theoretical and/or written concepts, and in so doing, foregrounded foundationalist and logocentric epistemological attitudes.[@ellis-2005-indelible p.36]
+
+history of the document in practice research is an escape clause to distinguish 'art' from 'artistic research'(Magee, Borgdorff?, Thomson?) By enforcing a written component, it neuters
+
+How are such post hoc declarations different from early premise (not sure how much it stands now) in practice research which was to make a work of art then write about it (my PhD attempted to subvert that). Nelson?
+
+## words words words: making an artwork and then writing about it
+
+### Intrinsic-extrinsic epistemic continuum
+
+Piccini's question reflects two divergent epistemic positions in practice research: 1) artistic artefacts require a written reflective or analytical statement that synthesises and reveals the epistemic status or findings of the research [e.g. @nelson-2013-practice; @noauthor-2019-ref2021]; 2) artistic artefacts themselves contain and communicate research understandings, including apprehension, experience (etc) [@borgdorff-2012-conflict], [@scrivener-2002-art]
+
+- intrinsic very rare. REF is close. JAR nope. The default position tends towards extrinsic. JER tends towards intrinsic -- but with video document as proxy (with text component)
+
+
+Both positions have inherent problems.
+
+- maybe these are not necessarily only epistemic positions. That is, what if can 'hope' for intrinsic epistemics, but explicitly extrinsic in how it participates in the world/community of practice?-- this is what Borgdorff hints at on p.154 (note 10)
+
+The extrinsic position -- that knowledge in practice-research is revealed or clarified through written forms -- sets no margins or limits on the epistemic claims that artistic-scholars make on behalf of their practices, and such claims are rarely "made available for sustained and verifiable peer review" [@haseman-2007-tightrope n.pag.].
+
+This is where getting outside of the bubble is key. It helps to corral epistemic laxity. It generates connection. 
+
+The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes -- vagueness and ambiguity -- are viewed as strengths and/or weaknesses. The intrinsic position is particularly vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. Add point here about documentation being the critical proxy in practice-research This is because "proxies are easier to manipulate than the complicated reality they represent" [@oneil-2016-weapons Chapter 3]. Could speak of maps and territories here.
+
+- noting that cohesion does not necessarily mean precise. Often, cohesion is marked by vagueness (see JAR examples) - [[valorising vagueness]]. That's a strange dance that one. To deploy language of uncertainty while being validated by authority. re Machine of academy above: paradox of this is that we deploy slippery 'maybe' language -- but this bug not feature. The key problem is there is no ecosystem or commons (Weber Enlivenment): [[Weber - Enlivenment#^5704ea]]
+
+... other positions are often inadvertently supported in journals devoted to practice-research. e.g. the writing refers to the ambiguity and letting the work do the work. More common is simply to describe a research process (see JAR V20 - and lift any number of quotes from reflections on JAR -- perhaps that is about vagueness now.
+
+
+But the buck does not stop there. We write about it.
+
+- how the artistic work (or practice, process, artifacts, or aspects of it), connects with and serves the research community (through being framed as practice research)
+- for all that unfinished thinking, the question of writing re practice research has well and truly been answered, if  not the quantity of words. 
+
+Practice researchers might be accused of 'academising' artistic work but for the most part o
+
+Even if the professionalisation of the arts has increased the overlap between the professional and academic artistic communities, [**citation**] the distinction remains tangible. 
+
+In contrast, for the , the epistemic nature of the artistic work is fundamental. Borgdorff writes that in the context of practice research "artworks are the generators of that which we do not yet know. They thereby invite us to think. [Practice] research is the articulation of this unfinished thinking."[@borgdorff-2012-conflict p.194] What kind of articulation is Borgdorff describing here? (mention how it ties into writing??)
+
+- how does B's 'unfinished thinking' make sense re intrinsic vs extrinsic? Does that mean text serves to finish the thinking? idea of joke not being ruined by explanation. (a case for writing)
+
+- writen about this in that thing produced -- small quote (working with Magee?)
 
 
 Such a situation is far from common, and it is where post hoc framing is best replaced by research questions and articulations that are as in direct dialogue as possible with the nature of the practice itself. That is, 
