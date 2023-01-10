@@ -3,7 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
-- Author: [[Weber, Andreas]]
+- Author: [[Andreas Weber]]
 - Full Title: Enlivenment: Toward a Poetics for the Anthropocene
 - Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/12529369
