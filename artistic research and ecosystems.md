@@ -16,6 +16,7 @@ _previous note:_ [[how to think humanity as geologic and vice versa]]
 
 An opportunity to draw together threads of thinking that I've sat with for some time. Adapts, updates and builds on presentation from Leeds and blog post (link to) -- as early endnote?
 
+**Note:** all iterations/development on github
 
 ## Abstract
 
@@ -230,6 +231,7 @@ a bubble-like version of COTS that references other works that it is not in dial
 **Note:** - refer to JB, RL and SW's notes about COTS -- opens entire other possibilities. 
 
 
+Also Steyerl on bubbles: [[Steyerl on specificity and singularity]] -- reminded of word _sui generis_.
 
 - compare with Schwab in describing a piece of knowledge as an artefact of communication: [[experimentation is social#^da953d]] - so if this is plausible, who then is doing the communicating? (if it isn't artist-researchers)
 - perhaps though Schwab's concern for how artworks are provisional ([[schwab - experimental systems#^279252]]) (ie epistemic things filled with epistemic potential) is fundamental to the expositions in JAR as being starting points or seeds. But where does that leave us? Scattering seeds everywhere (seeds dependent on theory-as-water).
@@ -243,54 +245,9 @@ Curious that for all the word's utility in performance writing, in practice-rese
 
 Curious also re [[a claim to specificity clashes with a claim to singularity]] and [[Steyerl on specificity and singularity]]. Steyerl writes how practices of artistic research "usually partake in both registers". Usually? Note in that blog post on Steyerl I discuss 'at least 3 ways' artists are in relationship with others -- but they are a mess and need clarification (they might have made sense at the time but not now)
 
-## Ecosystems (and the most basic (and moral) of research intentions)
-
-- to return to this -- as preamble to final section on ecosystems??
-
-epigraph.
-
-For the purposes of this writing I will take Trimingham's statement as axiomatic
-
-
-In 2002 the theatre scholar Melissa Trimingham expressed frustration at the lack of a clearly articulated methodology for practice-research, and the indifference of artist-scholars towards the "need to communicate and disseminate research findings" [@trimingham-2002-methodology p.54]. In just the third paragraph of the article, Trimingham makes a bold and important claim:
-
-- repeat of statement here from beginning
-
--  
-> We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves.[@trimingham-2002-methodology p.54]
-
-go into some detail with the statement. Why moral? What about the word _benefit_? Like it's some kind of litmus test. Do I go into implications of it not being true? Who would disagree with it? (which is not to say it's complex to find examples that are exceptions)
-
-
-Whether you agree with it or not, . A way to draw attention our responsibilities as practice-researchers (use of that pronoun "our" indicates my audience), which are really no different from the responsibilities of researchers in other disciplines even if the epistemic and ontologic conditions of the work we do are starkly different. 
-
-To help understand the implications of Trimingham's assertion for current practice-researchers, I am going to adopt what I suspect is a rather fashionable metaphor. 
-
-
-As my eyes, senses and desires (observer effect) adjust to the particularities of artwork I have made (after I had made it), I start finding new materials and interactions peculiar to the ecosystem. 
-
-> Life can never be just a resource; it is always also a gift received by the other members of the ecosystem whose contributions are necessary for a living subject to survive.[@weber-2019-enlivenment p.45] 
-
-At present, describing anything as an ecosystem holds currency in the arts and humanities. For instance, in academic writing in dance and performance[^global] the word _ecosystem_ gets used loosely and broadly, including as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a place akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying], and as a metaphor [e.g. @parkinson-2010-art].
-
-An ecosystem is, in fact, a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other" [@dictionary-2022-ecosystem n.pag.]. I would like to draw attention to three words from this definition: _particular_, _found_, and _interacting_.
-
-The common example of an ecosystem is a pond with its ... How one delineates a pond from the rest of its environment is, in effect, a choice. Should the stones around the outside be included? What about the ground on the outside of those stones? You might call it biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a _particular_ environment and that particularity needs to be specified. Add Hannah Close's thinking on [[a system has boundaries]] - similar to gerrymandering, but also questioning the word 'system'.
-
-Also Steyerl on bubbles: [[Steyerl on specificity and singularity]] -- reminded of word _sui generis_.
-
-The same goes with what is found and the kinds of interactions we might notice. What is found depends on the eyes and technologies we deploy. What are we hoping to see, what are we willing to see, what kinds of attention we are willing to pay. Mention how perspective changes based on who is looking? = Observer effect (distinct from uncertainty principle). How things are in relationship to each other, how they interact and change, modify, adapt each other. How they move and are moved by other aspects or organisms in the ecosystem.
-
-A way to mark our understanding, or even the limitations of our perspectives.
-
-> Since the examiners were blind, not one of them was able to see the whole of the elephant, so they grasped what they could and compared it to something they already knew, not understanding that each thing they touched was a part of a larger unseen whole.[@roberts-2020-notes n.pag.]
-
-We are only ever _grasping what we can_. Understanding why grasp this and not that is at heart of this writing (and in relation to the role of post hoc framing in practice research). ,
-
-
-
-
-
+- making epistemological error of choosing the wrong unit (Bateson, here in Bridle post: <http://booktwo.org/notebook/let-the-river-live/>):
+> When you narrow down your epistemology and act on the premise “What interests me is me, or my organization, or my species,” you chop off consideration of other loops of the loop structure. (from Bateson, cited in Bridle blog post above)
+- the difference though (talking about Bateson's eco-mental) is that the artist-scholar in this circumstance remains untouched by their plea to a particular ecosystem of thought and ideas. Or is it that they get but don't give. They gain warrant, validation, an argument from authority. Or perhaps it's simply extractive. What I can get from this validation.
 
 ### looking at the JAR 26 (arbitrary) - could also add V27
 
@@ -315,75 +272,38 @@ We are only ever _grasping what we can_. Understanding why grasp this and not th
 	- but what is the practice? who is it in relation to? 
 	- little sense of this (but definitely better than the others)
 
+## Ecosystems and the most basic (and moral) of research intentions
 
+In 2002 the theatre scholar Melissa Trimingham was expressing  frustration at the lack of a clearly articulated methodology in practice research when, in just the third paragraph of the article, she wrote: 
 
-## analysis - why this matters (contribution) -
+> We cannot afford to dispense with the most basic (and moral) of research intentions: put simply, it must be for the benefit of others apart from the researchers themselves.[@trimingham-2002-methodology p.54]
 
-- note down when I was reading these and _when_ they contributed
+Trimingham's words are strong. It is our responsibility as practice researchers to work for the benefit of others apart from ourselves. These responsibilities are no different for researchers in other disciplines, even if the epistemic and ontologic conditions of the work we do are starkly different. 
 
-Ben Rawlence is ... and his book _Treeline_ traces the 
+I am going to adopt -- slightly begrudgingly -- what is a rather fashionable metaphor to help think through the implications of Trimingham's assertion for current practice-researchers: the ecosystem. 
 
-> If who you are is one creature embedded in an ecosystem along with many others, then healing means restoring you to that inherited role ... [@rawlence-2022-treeline p.215] 
+In academic writing in dance and performance[^global] the word _ecosystem_ gets used loosely and broadly, including as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a place akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying], and as a metaphor [e.g. @parkinson-2010-art].
 
-[[Rawlence - The Treeline#^1445bb]]
+An ecosystem is a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other" [@dictionary-2022-ecosystem n.pag.]. The familiar example is a pond with its insects, algae, bacteria, etc.[@somma-2021-ecosystem] What is curious is that how one delineates a pond from the rest of its environment is, in effect, a choice: any system has boundaries.[@close-2022-brief] Should the stones around the outside be included? What about the ground on the outside of those stones? You might call such a choice biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a particular environment that needs to be specified.[^system] An ecosystem as boundary becomes a way to mark the limits of our attention, perspective and understanding.
 
-> We can’t manage an ecosystem! What hubris to think human beings can enter into millions of interconnected, complicated, refluxing, pricking, stinging, collaborating relationships, and manage it. [@ducann-2022-my n.pag.] - this could be the epigraph. That we are managing and it doesn't work.
+The same goes with what is found and the kinds of interactions we might notice in any given ecosystem. What is found depends on the eyes and technologies we deploy, what we are hoping to see, what we are willing to see, and what kinds of attention we are willing to pay. In general, we humans grasp what we can and compare it to something we already know.[@roberts-2020-notes] In this sense, an ecosystem as a proxy for a collection of practices and practitioners that comprise an area of practice research is more akin to an egosystem.[@scharmer-2019-vertical]
 
-This Strand quote is from [[collapse is generative]]
+Understanding why we grasp _something_ -- and not something else -- is at heart of this article about why we frame practice research as we do. As my eyes, senses and desires have adjusted to the artwork _Children of the Soil_, I start to find (with the fundamental help of colleagues) new materials and interactions peculiar to a particular ecosystem -- what I would describe in a less metaphorical and less hifalutin way as a _community of practice_. The work of those already working in a community of practice is not simply a resource to extract warrant or validation. When we acknowledge being-in-relation we recognise reciprocity: that collective understanding of the research that is held gently by the community is modified as re-understanding. The organisms in a practice research ecosystem are instances of practice; these organisms are in relationship to each other: their interactions and movements modify and adapt each other. They move and are moved. This is new knowledge. 
 
-The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem. Perhaps use of word reciprocity or enlivenment is better? (see <https://dark-mountain.net/the-poetics-of-ecology/>)
+> Collective behavior begins [...] in the midst of encounter. “When one ant touches another with its antennae, it decides whether the other ant is a nestmate,” she explains. From tiny interactions such as these, colonies develop foraging strategies and reproductive trajectories, not as “individuals,” but as encounters in motion.[@tsing-2017-individuals p.M72]
 
-> Ecology teaches us that we exist by virtue of our ties to one another and to the more-than-human world, and that those ties are strengthened, not weakened, by the inclusion and equal participation of each and every member of that network. The strength and resilience of computational networks, the inherent power of distribution and interconnection, teaches us the same.[@bridle-2022-ways n.pag.]
+In Anna Tsing's words -- as she introduces the writing of Deborah M. Gordon[@gordon-2017-planning] -- lie a blueprint for interacting communities of practice research that generate re-understanding through encounters in motion. 
 
-Bridle (for Anthropocene )
+The alternative is the status quo: individuals creating solitary and solipsistic maps seemingly founded on arguments from authority and divorced from the epistemic and ontologic foundations of artistic practices. After all, whether the practice research is abo ovo or post hoc, "we have never been individuals".[@gilbert-2012-symbiotic p.325] The moral imperative of our work ought then to reflect what German biologist and philosopher Andreas Weber describes as the "desire to connect through touch and body in order to create fertile communities of mutual flourishing".[@weber-2019-enlivenment p.3] 
 
-Use of ecology here as metaphor: [[Bridle - Ways of Being#^2568db]] - finding connections between all things
+Weber uses the term _commons_ to describe "protecting aliveness through participation and reciprocity",[@weber-2019-enlivenment p.5] and I hope Weber does not mind that in this moment I choose to extract his thinking for another purpose: to help those of us in practice research imagine how our work might enliven our small and unimportant ecosystem. 
 
-Also - Bridle's discussion of solidarity. Side by side. 
-
-- egosystem vs ecosystem (vertical literacy): <https://medium.com/presencing-institute-blog/vertical-literacy-12-principles-for-reinventing-the-21st-century-university-39c2948192ee>
-- making epistemological error of choosing the wrong unit (Bateson, here in Bridle post: <http://booktwo.org/notebook/let-the-river-live/>):
-> When you narrow down your epistemology and act on the premise “What interests me is me, or my organization, or my species,” you chop off consideration of other loops of the loop structure. (from Bateson, cited in Bridle blog post above)
-- the difference though (talking about Bateson's eco-mental) is that the artist-scholar in this circumstance remains untouched by their plea to a particular ecosystem of thought and ideas. Or is it that they get but don't give. They gain warrant, validation, an argument from authority. Or perhaps it's simply extractive. What I can get from this validation.
-
-
-> Against this background, the negotiations of sense at the interfaces of arts and academia—in Henk Borgdorff’s (2010) terms, “boundary work”—concern also the registers of sense and the questions of whether, how, and why some of them are prioritised over others. [@elo-2018-ineffable p.282]
-- I include this quote here as perhaps something to consider when I discuss ecosystem edges and why we prioritise singular (in Steyerl's term) over dialogue
-
-- also [@schindler-2020-negotiation] on boundary objects in practice-research (based on work of Star and Griesemer) -- it might be possible for me to argue that artistic-researchers use theory/text as a boundary object (texts constructed by others, and not as part of collaborations) -- it's a stretch though and certainly not at all close to what Star and Griesemer are talking about.
-
-### we have never been individuals
-
-> Whatever we say, we’re always talking about ourselves.
-—Alison Bechdel (in Kleon's "show your working")
-
-- see also [[to define the meaning of we]] and [[the decline of we and us]], [[I am a collaboration]]
-
-> Collective behavior begins not as an internally generated algorithm but rather in the midst of encounter. “When one ant touches another with its antennae, it decides whether the other ant is a nestmate,” she explains. From tiny interactions such as these, colonies develop foraging strategies and reproductive trajectories, not as “individuals,” but as encounters in motion.[@tsing-2017-individuals p.M72] [this text is introducing Chapter 7 by Deborah M. Gordon]
-
-- "we have never been individuals" - [[Gilbert - Holobiont by Birth#^3d3b10]]; also [[I am a collaboration]] (Sophie Strand)
-- any use in Mary Louise Pratt's thinking about "Imperial Eyes" (p.G173 of Arts of Living on a Damaged Planet) (it's actually a book) -- thinking about 'contact zones' but as places where the individually-focused arts practitioner meets the world (this is a total stretch)
-- I really do not want anthropocene in the title. But we (humans) are always "at the centre of the narrative" (p.G173). "Its story is still all about an 'us.'" - Mary Louise Pratt, Coda, G173
-- irony of self-authored article
-- note also Freeman's mention of Montaigne about self-writing in [@freeman-2002-writing]
-
-
-## miscellaneous -- not yet certain
-
-- use of word 'traceability' in Vis [[artistic research and traceability]] -- useful as I describe the map?
-- Which of Schiesser's [[five main positions on practice research]] is this writing based on?
-- perhaps large (non-human body) images sprinkled throughout - with 'this body' on top?
-
-A way to end:
-- when we study the world we are only making evident limits of our own thinking (embodied in our logbooks and measuring instruments) -- from [[Bridle - Ways of Being#^b5edaa]]
-
---- 
-
-**Note:** all iterations/development on github
 
 --- 
 
 # endnotes
+
+[^system]: Noting here Hannah Close's thinking on systems theory and her ambivalence towards the metaphor of the system -- that 'ecosystem' inherits.[@close-2022-brief] -- **bit more detail here**
 
 [^writingforms]: See Borgdorff pp.167-8; but also Nelson, others -- Bulley report gives overview) -- this is about Borgdorff's experimental forms (ie not necessarily staying within academic traditions/conventions)
 
@@ -423,15 +343,77 @@ Could add here responses from three colleagues -- e.g. re humour -- opened up ot
 
 [^global]: I did global searches of every issue of four journals: Dance Research (in which the word _ecosystem_ is mentioned in only 1 article); Performance Research (mentioned in 82 articles); Choreographic Practices (7 articles including one of my own editorials); and the Journal of Dance and Somatic Practices (14 articles). 
 
---- 
-
-# note from Sarah
-
-> I have been talking to Richard Ralph, editor of Dance Research and who has asked me to take on editing an issue of the journal with a focus on practice research. The idea is to invite key practitioners to contribute some writing that focuses on their practice. Might you have something that could emerge from your current research in Italy (for example)?  We would be looking for something to be submitted in early January. There is no specific length requirement as we want the contributions to find their own form (images are welcomed but not required, as well as links, as appropriate). -- email from SW, 29 June 2022
 
 ---
 
 # edit bin
+
+How things are in relationship to each other, how they interact and change, modify, adapt each other. How they move and are moved by other aspects or organisms in the ecosystem.
+
+
+Mention how perspective changes based on who is looking? = Observer effect (distinct from uncertainty principle). 
+
+> Life can never be just a resource; it is always also a gift received by the other members of the ecosystem whose contributions are necessary for a living subject to survive.[@weber-2019-enlivenment p.45] 
+
+- [[Gilbert - Holobiont by Birth#^3d3b10]]; also [[I am a collaboration]] (Sophie Strand)
+
+
+- note also Freeman's mention of Montaigne about self-writing in [@freeman-2002-writing]
+
+- irony of self-authored article
+
+- see also [[to define the meaning of we]] and [[the decline of we and us]], [[I am a collaboration]]
+
+> Whatever we say, we’re always talking about ourselves.
+—Alison Bechdel (in Kleon's "show your working")
+
+## note from Sarah
+
+> I have been talking to Richard Ralph, editor of Dance Research and who has asked me to take on editing an issue of the journal with a focus on practice research. The idea is to invite key practitioners to contribute some writing that focuses on their practice. Might you have something that could emerge from your current research in Italy (for example)?  We would be looking for something to be submitted in early January. There is no specific length requirement as we want the contributions to find their own form (images are welcomed but not required, as well as links, as appropriate). -- email from SW, 29 June 2022
+
+## miscellaneous -- not yet certain
+
+- use of word 'traceability' in Vis [[artistic research and traceability]] -- useful as I describe the map?
+- Which of Schiesser's [[five main positions on practice research]] is this writing based on?
+- perhaps large (non-human body) images sprinkled throughout - with 'this body' on top?
+
+A way to end:
+- when we study the world we are only making evident limits of our own thinking (embodied in our logbooks and measuring instruments) -- from [[Bridle - Ways of Being#^b5edaa]]
+
+- any use in Mary Louise Pratt's thinking about "Imperial Eyes" (p.G173 of Arts of Living on a Damaged Planet)  -- thinking about 'contact zones' but as places where the individually-focused arts practitioner meets the world (this is a total stretch)
+- I really do not want anthropocene in the title. But we (humans) are always "at the centre of the narrative" (p.G173). "Its story is still all about an 'us.'"[@pratt-2017-coda p.G173] 
+
+> Against this background, the negotiations of sense at the interfaces of arts and academia -- in Henk Borgdorff’s (2010) terms, “boundary work” -- concern also the registers of sense and the questions of whether, how, and why some of them are prioritised over others. [@elo-2018-ineffable p.282]
+- I include this quote here as perhaps something to consider when I discuss ecosystem edges and why we prioritise singular (in Steyerl's term) over dialogue
+
+- also [@schindler-2020-negotiation] on boundary objects in practice-research (based on work of Star and Griesemer) -- it might be possible for me to argue that artistic-researchers use theory/text as a boundary object (texts constructed by others, and not as part of collaborations) -- it's a stretch though and certainly not at all close to what Star and Griesemer are talking about.
+
+- note down when I was reading these and _when_ they contributed
+
+Ben Rawlence is ... and his book _Treeline_ traces the 
+
+> If who you are is one creature embedded in an ecosystem along with many others, then healing means restoring you to that inherited role ... [@rawlence-2022-treeline p.215] 
+
+[[Rawlence - The Treeline#^1445bb]]
+
+> We can’t manage an ecosystem! What hubris to think human beings can enter into millions of interconnected, complicated, refluxing, pricking, stinging, collaborating relationships, and manage it. [@ducann-2022-my n.pag.] - this could be the epigraph. That we are managing and it doesn't work.
+
+This Strand quote is from [[collapse is generative]]
+
+The distinction between Rawlence's thinking and Strand's is that Rawlence is discussing being aware of our place in an ecosystem, whereas Strand is talking about the hubris of attempting to control an ecosystem. Perhaps use of word reciprocity or enlivenment is better? (see <https://dark-mountain.net/the-poetics-of-ecology/>)
+
+> Ecology teaches us that we exist by virtue of our ties to one another and to the more-than-human world, and that those ties are strengthened, not weakened, by the inclusion and equal participation of each and every member of that network. The strength and resilience of computational networks, the inherent power of distribution and interconnection, teaches us the same.[@bridle-2022-ways n.pag.]
+
+Bridle (for Anthropocene )
+
+Use of ecology here as metaphor: [[Bridle - Ways of Being#^2568db]] - finding connections between all things
+
+> Since the examiners were blind, not one of them was able to see the whole of the elephant, so they grasped what they could and compared it to something they already knew, not understanding that each thing they touched was a part of a larger unseen whole.[@roberts-2020-notes n.pag.]
+
+For the purposes of this writing I will take Trimingham's statement as axiomatic
+
+
+go into some detail with the statement. Why moral? What about the word _benefit_? Like it's some kind of litmus test. Do I go into implications of it not being true? Who would disagree with it? (which is not to say it's complex to find examples that are exceptions)
 
 - yes, I add a version of this work in this way -- I do this labour as a thought experiment and to implicate myself (can also given examples of when I've done this previously)
 - possible to add discussion about [[art practices explicitly become epistemic things]] -- and the argument I make there about Borgdorff and JAR
