@@ -152,37 +152,25 @@ Other aspects of the project were ripped from other projects or works: the text 
 
 Still wider out: history, influences, training, taste, background in choreography, performance, screendance (and indeed academia). These are big big frames. 
 
-Was the process rigorous? Rigorously ad hoc? 
-
-All this is to say is that it was a mess. Planned to some extent, but when rubber met road entirely ad hoc. No surprises here. 
-
-
-Garbolino cites George Kubler’s The Shape of Time to help describe the ways in which artworks and experiments are progressions through time. Kubler writes that every work of art is:
-
-> A complex having not only traits, each with a different systematic age, but having also clusters of traits, or aspects, each with its own age, like any other organization of matter, such as a mammal, of which the blood and the nerves are of different biological antiquity, and the eye and the skin are of different systematic age.[Kubler, in @garbolino-2013-what p.83]
-
-This sense that different parts of an artwork have different ages (and different relationships with the past) is captivating. Garbolino writes:
-
-> Artistic artefacts encode relationships among physical objects, people, and particular settings. These relational properties as well as physical objects are things of the world, and they contribute to shaping the forms in the sequences of artistic phenomena.[@garbolino-2013-what p.84]
+To call these things methods is a bit rich. It was certainly a process. A process of collecting, organising, storing, observing, recording, feeling, and sensing and making sense. Was the process rigorous? Rigorously ad hoc? All this is to say is that it was a mess. Planned to some extent, but when rubber met road entirely ad hoc. No surprises here. 
 
 ### Principles of framing an artwork as research
 
 I cannot say if the above process is more or less ad hoc than other art making processes, but even if it were less so there would remain many ways in which I could frame the resulting artwork as research. _Chilren of the Soil_ is precisely what it is as a consequence of all of the chaos and rigour described above; the ad hoc conditions under which it was made are visibily and invisibly present in what one can see and hear. As an artwork it has many and varied ontologic and epistemic surfaces, each of which might host or welcome research claims made through post hoc framing.  
 
-On what basis then am I able to do the scholarly work of that framing? Here are four principles for framing artworks as research via the research narrative:
+On what basis then am I able to do the scholarly work of that framing? I propose four principles for framing artworks as research via the research narrative:
 
 **1. Sustain the nature of the artwork**
 
-This principle acknowledges the artwork as a phenomenon designed to be experinced as art, and to not somehow attempt to explain the artwork through framing it as research. It is axiomatic that the artwork and the research are not equivalent.
-
-These claims might be quite different from what the art work is _about_.
+This principle acknowledges the artwork as a phenomenon designed to be experinced as art, and to not somehow attempt to explain the artwork through framing it as research. It is axiomatic that the artwork and the research are not equivalent. The principle also acknowledges that what the artwork is _about_ may not be relevant to its researchful aspects.
 
 **2. Direct attention to research components that are able to be perceived in the artwork**
 
-This principle is empirical. The claims one makes about the researchful aspects of an artwork must be able to be perceived in the artwork (or the materials presented that represent the artwork). We cannot make claims based on things that requires other people to imagine or guess they are present, or expect others (our peers) to simply agree with us). Else we are just making things up (and that's what the artwork is for)
+This principle is empirical. The claims one makes about the researchful aspects of an artwork must be able to be perceived in the artwork (or the materials presented that represent the artwork). We cannot make claims based on things that require other people to imagine or guess they are present, or expect others (our peers) to simply agree with us, else there are no limits to the claims we will make. This principle is not to diminish the vitality and importance of the unfinished thinking and open-ended poetic possibilities of the artwork or indeed the possibility and value of using experimental written forms to frame the research.
 
 **3. Make careful epistemic claims that are available for "sustained and verifiable peer review"[@haseman-2007-tightrope p.7]**
 
+This principle is related to principle 2. The claims embedded in the textual framing are claims to understanding or knowledge. They are epistemic claims, and as such become available ... 
 
 **4. Serve dialogues in the community of practice** 
 
@@ -216,61 +204,25 @@ These are not abstract entities, constructed by me or others and then introduced
 
 something like this as question underpinning my decision making (include something about not adding adding adding -- validation, calls to authority; also community of practice)
 
+**Note:** - refer to JB, RL and SW's notes about COTS -- opens entire other possibilities.
+
 - Noting that it's _easier_ to find theoretical work to be in relation with. It's there. It's desk work. It's more tangible (which is ironic given body in performance work?)
 - more like a foreign body dropping into a pre-existing ecosystem; isolated; argument from authority; these are singular systems (Steyerl).
 
-- if don't do this then decision of framing normally (see JAR examples) serves interests of the researcher (call to authority, validation) -- and end up in research bubbles or siloes.
-- 
 
-## Research bubbles
+## Research bubbles: what I write about when I write about my research
 
-**Note:** should this be sub-section of 'how to decide'? If so then require another sub-section??
+In the original invitation to submit this writing to Dance Research, C-DaRE's director (i.e. my boss) -- Sarah Whatley -- wrote that the idea is to invite people "to contribute some writing that focuses on their practice".[@whatley-2022-invitation] 
 
-a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecosystems. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
+This invitation is a trap even if it was not intended as such. It is a trap because the tautological expectation when we write about artistic practices is that that we will focus on our practices. We rarely if ever write about how our work is part of a community of artistic practice. We are more likely to write about it as part of non-adjacent communities that seem to validate the quality of our work. Perhaps it is not surprising that in such a nascent methodological form in the academy we would choose to frame our artistic practices in relation to cultural and philosophical authorities. We lean on them to prop up the status of our work.  
 
-**Note:** - refer to JB, RL and SW's notes about COTS -- opens entire other possibilities. 
+Here is some evidence. In Volume 26 of JAR[^jar] -- the Journal for Artistic Research -- there are six expositions of practice. None mention any other practitioner or artwork except for Szanto and Sicotte who only refer to each other's artistic practices.[@davidszanto-2022-researchcreation] The list of people their expositions mention is predictable: Ricoeur, Foucault, Baudelaire, Delueze and Guattari, Benjamin, Bergson, Debord, Butler, etc. 
 
+I did not cherry pick Volume 26 of JAR.[^phd] The phenomenon is endemic to journals that focus on practice: Choreographic Practices (a journal I co-edit), Journal for Embodied Research and the Journal of Dance and Somatic Practices are more or less the same. Any exceptions will likely prove the rule. 
 
-Also Steyerl on bubbles: [[Steyerl on specificity and singularity]] -- reminded of word _sui generis_.
+We now have a near endless supply of _sui generis_ practices, each in a cocooned battle for newness and the status of original research -- the names of well-known theoreticians used as "talismans".[Chamberlain, in @thomson-2003-practice p.176] What does this decision to write only in relation to authority figures outside our communities of practice say about the interests and responsibilities of practice researchers? And what does it do to the integrity of the field as a whole? 
 
-- compare with Schwab in describing a piece of knowledge as an artefact of communication: [[experimentation is social#^da953d]] - so if this is plausible, who then is doing the communicating? (if it isn't artist-researchers)
-- perhaps though Schwab's concern for how artworks are provisional ([[schwab - experimental systems#^279252]]) (ie epistemic things filled with epistemic potential) is fundamental to the expositions in JAR as being starting points or seeds. But where does that leave us? Scattering seeds everywhere (seeds dependent on theory-as-water).
-- "What I’m objecting to is the use of names as talismans." [Chamberlain, in @thomson-2003-practice p.176] - referring to Kant. I think I have same objection.
-
-- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical (perhaps also the quote on the canvas? -- from p.151). But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must articulate back to community. Else just a series of singular events. No reciprocity. [[Weber - Enlivenment#^f00e6f]]
-
-Noting "focuses on their practice" from SW's original invitation -- just take a sample, perhaps there will be exceptions that prove the rule. But this is the unspoken practice: that when we write about artistic practice we don't write about how it is part of an ecosystem ([[difference between ecology and ecosystem]]) of practice. We tend to write about it as part of alternative ecosystems (ones that are not at all aware that the practice exists and nor would they care). It fails to be in dialogue. Not surprising in a nascent form in the academy we'd choose to be in relation to authorities (philosophical, cultural). We lean on them to prop up the status of our work. This is as old (or young) as PaR -- remember conversations from PARIP in 2003. Perhaps though this is a matter of choice: the connections we choose to make. Why then would we choose these other ecosystems? What does it say about us? 
-
-Curious that for all the word's utility in performance writing, in practice-research we exist in bubbles: these are ecosystems of theory, with borders and boundaries constructed by authors to validate an artistic practice.
-
-Curious also re [[a claim to specificity clashes with a claim to singularity]] and [[Steyerl on specificity and singularity]]. Steyerl writes how practices of artistic research "usually partake in both registers". Usually? Note in that blog post on Steyerl I discuss 'at least 3 ways' artists are in relationship with others -- but they are a mess and need clarification (they might have made sense at the time but not now)
-
-- making epistemological error of choosing the wrong unit (Bateson, here in Bridle post: <http://booktwo.org/notebook/let-the-river-live/>):
-> When you narrow down your epistemology and act on the premise “What interests me is me, or my organization, or my species,” you chop off consideration of other loops of the loop structure. (from Bateson, cited in Bridle blog post above)
-- the difference though (talking about Bateson's eco-mental) is that the artist-scholar in this circumstance remains untouched by their plea to a particular ecosystem of thought and ideas. Or is it that they get but don't give. They gain warrant, validation, an argument from authority. Or perhaps it's simply extractive. What I can get from this validation.
-
-### looking at the JAR 26 (arbitrary) - could also add V27
-
-- like a battle for newness; constant claims to originality; I can't unsee it now; certainly approximates Steyerl's singularity thinking
-- Ali Mousavi - Acoustemological Investigation: Sound Diary Tehran - 2022
-	- in relation to theory: Ricoeur, Foucault, Baudelaire, etc
-	- no mention of a single artist with a similar or overlapping practice
-- Pavel Prokopic - Affective Atmosphere: A Non-Representational Method of Devising Film Performance and Fiction
-	- "the project meaningfully applies philosophical concerns to filmmaking"
-	- "key concepts of Deleuze and Guattari, and theoretical writings on atmosphere (Böhme, Griffero) and film performance (Benjamin, Del Río)"
-	- no mention of another artwork or current (or dead!) artist
-- Ella Raidel - Of Haunted Spaces
-	- Bergson, Debord, 
-	- discusses influences but no sense of engaging with other researchers working with similar themes, methods, geographies
-- Geetanjali Sachdev - Petals to Light...Pedagogic Possibilities with Floor Art
-	- nope, not another artist mentioned as entirely unique
-- David Szanto & Geneviève Sicotte - Research-Creation about and with Food: Diffraction, Pluralism, and Knowing
-	- bring the two works (by the two authors) in dialogue with each other
-	- nope, nothing else though
-- Katharina Swoboda - Zoological Architectures and Empty Frames
-	- Butler, 
-	- but what is the practice? who is it in relation to? 
-	- little sense of this (but definitely better than the others)
+When we argue from authority to establish the bona fides of our practice research we choose to frame our work by drawing extractive lines from those authorities to our artworks. Such framing only serves the needs and desires of the practice researcher, and the uni-directional lines render our artistic work untouched and inert. Our practice research exists in isolated bubbles, with no exchange, no history and no development of understanding through time. 
 
 ## Ecosystems and the most basic (and moral) of research intentions
 
@@ -284,7 +236,7 @@ I am going to adopt -- slightly begrudgingly -- what is a rather fashionable met
 
 In academic writing in dance and performance[^global] the word _ecosystem_ gets used loosely and broadly, including as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a place akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying], and as a metaphor [e.g. @parkinson-2010-art].
 
-An ecosystem is a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other" [@dictionary-2022-ecosystem n.pag.]. The familiar example is a pond with its insects, algae, bacteria, etc.[@somma-2021-ecosystem] What is curious is that how one delineates a pond from the rest of its environment is, in effect, a choice: any system has boundaries.[@close-2022-brief] Should the stones around the outside be included? What about the ground on the outside of those stones? You might call such a choice biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a particular environment that needs to be specified.[^system] An ecosystem as boundary becomes a way to mark the limits of our attention, perspective and understanding.
+An ecosystem is a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other".[@dictionary-2022-ecosystem n.pag.] The familiar example is a pond with its insects, algae, bacteria, etc.[@somma-2021-ecosystem] What is curious is that how one delineates a pond from the rest of its environment is, in effect, a choice: any system has boundaries.[@close-2022-brief] Should the stones around the outside be included? What about the ground on the outside of those stones? You might call such a choice biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a particular environment that needs to be specified.[^system] An ecosystem as boundary becomes a way to mark the limits of our attention, perspective and understanding.
 
 The same goes with what is found and the kinds of interactions we might notice in any given ecosystem. What is found depends on the eyes and technologies we deploy, what we are hoping to see, what we are willing to see, and what kinds of attention we are willing to pay. In general, we humans grasp what we can and compare it to something we already know.[@roberts-2020-notes] In this sense, an ecosystem as a proxy for a collection of practices and practitioners that comprise an area of practice research is more akin to an egosystem.[@scharmer-2019-vertical]
 
@@ -302,6 +254,10 @@ Weber uses the term _commons_ to describe "protecting aliveness through particip
 --- 
 
 # endnotes
+
+[^phd]: My desire here is not to be overly critical of any one publication or individual, and nor do I stand innocent of similar preoccupations (my PhD was basically an homage to Bergson).
+
+[^jar]: https://www.jar-online.net/en/issues/26
 
 [^system]: Noting here Hannah Close's thinking on systems theory and her ambivalence towards the metaphor of the system -- that 'ecosystem' inherits.[@close-2022-brief] -- **bit more detail here**
 
@@ -348,8 +304,64 @@ Could add here responses from three colleagues -- e.g. re humour -- opened up ot
 
 # edit bin
 
-How things are in relationship to each other, how they interact and change, modify, adapt each other. How they move and are moved by other aspects or organisms in the ecosystem.
+Garbolino cites George Kubler’s The Shape of Time to help describe the ways in which artworks and experiments are progressions through time. Kubler writes that every work of art is:
 
+> A complex having not only traits, each with a different systematic age, but having also clusters of traits, or aspects, each with its own age, like any other organization of matter, such as a mammal, of which the blood and the nerves are of different biological antiquity, and the eye and the skin are of different systematic age.[Kubler, in @garbolino-2013-what p.83]
+
+This sense that different parts of an artwork have different ages (and different relationships with the past) is captivating. Garbolino writes:
+
+> Artistic artefacts encode relationships among physical objects, people, and particular settings. These relational properties as well as physical objects are things of the world, and they contribute to shaping the forms in the sequences of artistic phenomena.[@garbolino-2013-what p.84]
+
+- research bubbles or siloes
+
+- making epistemological error of choosing the wrong unit (Bateson, here in Bridle post: <http://booktwo.org/notebook/let-the-river-live/>):
+> When you narrow down your epistemology and act on the premise “What interests me is me, or my organization, or my species,” you chop off consideration of other loops of the loop structure. (from Bateson, cited in Bridle blog post above)
+- the difference though (talking about Bateson's eco-mental) is that the artist-scholar in this circumstance remains untouched by their plea to a particular ecosystem of thought and ideas. Or is it that they get but don't give. They gain warrant, validation, an argument from authority. Or perhaps it's simply extractive. What I can get from this validation.
+
+- but what of a work 'about' something? Borgdorff touches on this -- (when I searched for 'articulation' in the book) -- about conceptual/theoretical (perhaps also the quote on the canvas? -- from p.151). But this is where the principle of reaching out and then back becomes important: Can go out to theory but Must articulate back to community. Else just a series of singular events. No reciprocity. [[Weber - Enlivenment#^f00e6f]]
+
+Curious also re [[a claim to specificity clashes with a claim to singularity]] and [[Steyerl on specificity and singularity]]. Steyerl writes how practices of artistic research "usually partake in both registers". Usually? Note in that blog post on Steyerl I discuss 'at least 3 ways' artists are in relationship with others -- but they are a mess and need clarification (they might have made sense at the time but not now)
+
+a bubble-like version of COTS that references other works that it is not in dialogue with or can never be in dialogue with. Use an example of the bubble and just how common it is. All dead men. Tone is "I could do this." Renders the work inert. Like burying it, or putting it in a coffin with these men. These are different ecosystems. Can I describe without judging? Talk to implications of. Like entering a crowded bar in which no one pays you any attention whatsoever. Can't order a drink. Nothing. No matter how much you tell people "I am here." More akin to gerrymandering
+
+- compare with Schwab in describing a piece of knowledge as an artefact of communication: [[experimentation is social#^da953d]] - so if this is plausible, who then is doing the communicating? (if it isn't artist-researchers)
+- perhaps though Schwab's concern for how artworks are provisional ([[schwab - experimental systems#^279252]]) (ie epistemic things filled with epistemic potential) is fundamental to the expositions in JAR as being starting points or seeds. But where does that leave us? Scattering seeds everywhere (seeds dependent on theory-as-water).
+
+Noting "focuses on their practice" from SW's original invitation -- just take a sample, perhaps there will be exceptions that prove the rule. But this is the unspoken practice: that when we write about artistic practice we don't write about how it is part of an ecosystem ([[difference between ecology and ecosystem]]) of practice. We tend to write about it as part of alternative ecosystems (ones that ). It fails to be in dialogue. Not surprising in a nascent form in the academy we'd choose to be in relation to authorities (philosophical, cultural). We lean on them to prop up the status of our work. This is as old (or young) as PaR -- remember conversations from PARIP in 2003. Perhaps though this is a matter of choice: the connections we choose to make. Why then would we choose these other ecosystems? What does it say about us? This issue is as old (or young) as practice research. I remember sitting at PARIP in Bristol in 2003 watching very experienced artists load theory onto 
+
+
+Also Steyerl on bubbles: [[Steyerl on specificity and singularity]] -- reminded of word .
+
+
+
+### looking at the JAR 26 (arbitrary)
+
+- like a battle for newness; constant claims to originality; I can't unsee it now; certainly approximates Steyerl's singularity thinking
+- Ali Mousavi - Acoustemological Investigation: Sound Diary Tehran - 2022
+	- in relation to theory: Ricoeur, Foucault, Baudelaire, etc
+	- no mention of a single artist with a similar or overlapping practice
+- Pavel Prokopic - Affective Atmosphere: A Non-Representational Method of Devising Film Performance and Fiction
+	- "the project meaningfully applies philosophical concerns to filmmaking"
+	- "key concepts of Deleuze and Guattari, and theoretical writings on atmosphere (Böhme, Griffero) and film performance (Benjamin, Del Río)"
+	- no mention of another artwork or current (or dead!) artist
+- Ella Raidel - Of Haunted Spaces
+	- Bergson, Debord, 
+	- discusses influences but no sense of engaging with other researchers working with similar themes, methods, geographies
+- Geetanjali Sachdev - Petals to Light...Pedagogic Possibilities with Floor Art
+	- nope, not another artist mentioned as entirely unique
+- David Szanto & Geneviève Sicotte - Research-Creation about and with Food: Diffraction, Pluralism, and Knowing
+	- bring the two works (by the two authors) in dialogue with each other
+	- nope, nothing else though
+- Katharina Swoboda - Zoological Architectures and Empty Frames
+	- Butler, 
+	- but what is the practice? who is it in relation to? 
+	- little sense of this (but definitely better than the others)
+
+This is not for a second to suggest that Michel Foucault's work is not useful to practice researchers. 
+
+Curious that for all the word's utility in performance writing, in practice-research we exist in bubbles: these are ecosystems of theory, with borders and boundaries constructed by authors to validate an artistic practice.
+
+How things are in relationship to each other, how they interact and change, modify, adapt each other. How they move and are moved by other aspects or organisms in the ecosystem.
 
 Mention how perspective changes based on who is looking? = Observer effect (distinct from uncertainty principle). 
 
