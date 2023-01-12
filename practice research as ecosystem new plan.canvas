@@ -3,14 +3,13 @@
 		{"id":"662abf137674bf64","x":-348,"y":106,"width":355,"height":87,"type":"text","text":"bifurcation: the artistic work and the framing as research"},
 		{"id":"2d550b4d7ec9a88d","x":-317,"y":-268,"width":291,"height":115,"type":"text","text":"the *when* of practice research: ab ovo & post hoc"},
 		{"id":"80e507ae38343834","x":-323,"y":-424,"width":302,"height":75,"type":"text","text":"Introduction: retrofitted practice research"},
-		{"id":"f5bd12baeb1e6118","x":64,"y":1309,"width":251,"height":87,"type":"text","text":"we have never been individuals"},
 		{"id":"a3d7577e16dbff8f","x":-334,"y":287,"width":329,"height":96,"type":"text","text":"The nature of the post hoc framing: a case study"},
 		{"id":"45f646541e5f1398","x":128,"y":464,"width":372,"height":78,"color":"1","type":"text","text":"Overview of the art making process"},
 		{"id":"0debcd08537a560a","x":130,"y":635,"width":370,"height":73,"color":"1","type":"text","text":"Principles of framing an artwork as research"},
 		{"id":"efde62a640b95b8d","x":130,"y":803,"width":370,"height":73,"color":"1","type":"text","text":"Deploying principles for the case-study (how to decide)"},
-		{"id":"d0a2bf762caebd0f","x":-305,"y":1011,"width":250,"height":50,"type":"text","text":"research bubbles"},
 		{"id":"6a175a1972886afe","x":-383,"y":1166,"width":407,"height":98,"type":"text","text":"Ecosystems (and the most basic (and moral) of research intentions)"},
-		{"id":"60f8b3c4a7cf4100","x":-307,"y":-62,"width":271,"height":79,"type":"text","text":"the mangle of ad hoc practices"}
+		{"id":"60f8b3c4a7cf4100","x":-307,"y":-62,"width":271,"height":79,"type":"text","text":"the mangle of ad hoc practices"},
+		{"id":"d0a2bf762caebd0f","x":-372,"y":1000,"width":385,"height":89,"type":"text","text":"research bubbles: what I write about when I write about my research"}
 	],
 	"edges":[
 		{"id":"558ed412654ff6bd","fromNode":"80e507ae38343834","fromSide":"bottom","toNode":"2d550b4d7ec9a88d","toSide":"top"},
