@@ -18,3 +18,22 @@
 - But what if the dilemma is a false one? ([View Highlight](https://read.readwise.io/read/01gpjf6bmjrms6hfzz9cxkbas8))
 ## New highlights added January 12, 2023 at 8:41 AM
 > Far more significant than Fedorov’s specific conclusions, though, is his method: an approach to technological advancement self-consciously anchored in an ancient tradition. His model is a dramatic counterexample to the notion that science *as such* must push traditional faith to the margins — the notion that Charles Taylor describes as the “subtraction story” of modernization. Rather, his work dissolves that harsh dualism: the active and contemplative Adams stand reconciled. The real question is how to repurpose that methodological insight. ([View Highlight](https://read.readwise.io/read/01gpjj5mr7233n3yv503svpjd3))
+## New highlights added January 13, 2023 at 10:34 AM
+
+> To begin with, the Internet and its derivative products need not be ignored, if that were possible, but rather should be brought into a social framework built in accordance with higher principles. To that end, Internet infrastructure — server and cloud hosting systems, payment transfer networks, and so forth — should be classified as public utilities, no more authorized to discriminate between users than are water or electric companies. ([View Highlight](https://read.readwise.io/read/01gpn0gk45cmzcmeh706ny0sjk))
+
+
+> Rather, the accent here lies on the *public* in “public utility.” There is an implication of permanence: a public utility is a kind of technology intended to perdure, one that multiple generations will have a stake in stewarding responsibly. ([View Highlight](https://read.readwise.io/read/01gpn0grpq2qj1qpp9sfevbpsd))
+
+
+> Where possible, policymakers should promote massive reinvestment in research and development in materials science, oriented to the goal of building things that last. ([View Highlight](https://read.readwise.io/read/01gpn0jfn1568n57hamxpj7rex))
+
+
+> Similarly, the discipline of computer science should reorient itself toward preservation over transformation and displacement. Enough things have been broken in the rush to move fast that it is now time for a different course. One pressing task is the development of data preservation technologies that resist disc rot and physical damage. As library scientist Marc Kosciejew observes in his call for “[Digital Vellum](https://tefkos.comminfo.rutgers.edu/Courses/e553/Articles/Articles%20Fall15/Kosciejew%20Digital%20%20rot%20-%20preservation%20Inf%20Mgmt%20J%202015.pdf)” to help ensure the long-term preservation of data, “books that are created on high-quality and acid-free paper can last for centuries,” whereas today’s electronic files easily just disappear. ([View Highlight](https://read.readwise.io/read/01gpn0m0cc8y735dd49k0m0w1w))
+
+
+> While this problem is not new — as Fedorov put it, “progress makes fathers and ancestors into the accused and the sons and descendants into judges” — ([View Highlight](https://read.readwise.io/read/01gpn0myb9scgrnerfjfq54g9f))
+
+
+> Conservatives have, in a sense, won the argument about Big Tech. The poisonous effects of Internet-centric culture and a screen-mediated world are now well known across partisan lines, and sooner or later a reckoning will come. What form it will take is unclear, but the writing is on the wall. ([View Highlight](https://read.readwise.io/read/01gpn0qyvqswj4xqb78kngshk5))
+
