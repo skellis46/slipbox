@@ -126,23 +126,21 @@ The disseminable reflection that Piccini refers to is called "complementary writ
 
 ## The nature of the post hoc framing: a case study
 
-How does/might post hoc framing happen? -- delete this eventually (make it unnecessary)
-
 In this section I use an artwork as a case study to help understand the written framing -- or research narrative -- of practice research. The artwork is a video called _Children of the Soil_,[@ellis-2022-children] and I use one of my own works because it helps reveal the process of framing more openly, including my half-formed thoughts, assumptions, confabulations, academic game-playing and personal desires. I am less interested in drawing attention to the artwork itself -- it is what it is. This section does not assume a particular form for the eventual written framing[^writingforms] or how to decide on the written form. Rather, it makes it clear that a decision is being made as to what to write about and that the written element _happens_ post hoc -- what I claim above is the most common (but not necessarily ideal) form of practice research.
 
 The first time I described _Children of the Soil_ as practice research was on Friday 9 December 2022, nearly four months after it was published online on Vimeo. I described it as such as part of the University's very early review of current research outputs plausibly submittable to the next yet-to-be-announced Research Excellence Framework in the UK. This is not to say I hadn't thought of the work as practice research previously, but only loosely and lightly. You might say that in the back of my mind I was aware that at some stage I would need to articulate its practice research-ness and a University evaluation process precipitated that I cross that line.[^300] 
 
-The conditions for making the video work were an artistic residency in Italy[^nahr] in which the expectation was that I would create art.[^fashion] Although there was tremendous freedom and license to roam in the residency, it was clear from the outset that the work of the artists at the residency was to produce an artifact (mention something to be 'left behind'?)
+The conditions for making the video work were an artistic residency in Italy[^nahr] in which the expectation was that I would create art.[^fashion] Although there was tremendous freedom and license to roam in the residency, it was clear from the outset that the work of the artists at the residency was to produce an artifact (mention something to be 'left behind' at NAHR?)
 
 ### Overview of the art making process
 
-The process was quintessentially ad hoc. I was interested in working with a number of photographic and post-production practices that were not familiar to me. My lack of familiarity required that I do a lot of testing of equipment and processes before the residency began. preparation was quite deliberate. 
+The process was quintessentially ad hoc. I was interested in working with a number of photographic and post-production practices that were not familiar to me. My lack of familiarity required that I do a lot of testing of equipment and processes before the residency began. That preparation was quite deliberate. 
 
-I could divide the progress of the art making into clear components as follows: pre pre-production (lots of testing), pre-production, production (making), post-production (making), post post-production. I say "could" but the danger in doing so is that I make the process appear much more organised and clear/orderly than it was. What happened "in practice" was that I was still testing processes, methods, materials and technology on site in Italy. As I was testing, I was collecting, and then also directly in production and post-production. The editing (in Premiere, LRTimelapse, Lightroom Classic, and After Effects) would inform other modes of collecting, other types of physical practice. This is entirely common or usual in no-budget art making (compared with low or high budget film processes which far more demand planning, storyboarding -- but still dealing with degrees of ad hoc-ness) and reflects above section re ad hoc experiences. 
+I could divide the progress of the art making into clear components as follows: pre pre-production (lots of testing), pre-production, production (making), post-production (making), post post-production. I say "could" but the danger in doing so is that I make the process appear much more organised and clear/orderly than it was. What happened "in practice" was that I was still testing processes, methods, materials and technology on site in Italy. As I was testing, I was collecting, and then also directly in production and post-production. The editing (in Premiere, LRTimelapse, Lightroom Classic, and After Effects) would inform other modes of collecting, and other types of physical practice. This is entirely common or usual in no-budget art making (compared with low or high budget film processes which require storyboarding, location scouting, timetabling, etc, even though they will be variably ad hoc) and reflects the above section re ad hoc art making. 
 
-What was the practice or practices? (which might be distinct from what is able to be seen/noticed in the output or outcome of those practices). c.f. those things that are evident in the outcome.  
+What were the specific practices I was working with? Rather paradoxically, it is important to note that these practices might not be evident in the output or outcome of those practices. 
 
-The practices were varied. These were the ones specifically set up during the course of the residency that I imagined or knew would inform the art making: 1) physical or body-based practices akin to stop motion animation in which the camera would capture a frame, say, every 20 seconds, I would move a very small amount -- falling to the ground **Note: make this stand alone from the stop motion?** -- between each capture; 2) reading and reflecting on more-than-human philosophy (term coined by David Abram[@abram-1996-spell]); particularly _Arts of Living on a Damaged Planet_,[@tsing-2017-arts] and philosophy of time, e.g. _Time: a vocabulary of the present_;[@burges-2016-time] 3) timelapse photography; 4) simple animation techniques in After Effects - e.g. animating still images, methods of tansitioning between frames (formal properties of the film); 5) daily walking in and around the mountains of the Taleggio Valley; 6) conversations with participating artists, sharing of practices; 7) video and photography while walking; 8) sound recording (later sound design while working entirely in post-production after completion of the residency); 9) - writing and collecting: this body; script writing (later in process) -- working through possible text options, trialling, prototyping; 10) video post-production
+The practices were varied. These were the ones specifically set up during the course of the residency that I imagined or knew would inform the art making: 1) physical or body-based practices akin to stop motion animation in which the camera would capture a frame, say, every 20 seconds, I would move a very small amount between each capture; 2) falling very slowly to the ground as a simple mirror of Rosemary Lee's _Meltdown_ (2011);[@lee-2011-meltdown] 3) reading and reflecting on more-than-human philosophy (term coined by David Abram[@abram-1996-spell]); particularly _Arts of Living on a Damaged Planet_,[@tsing-2017-arts] and philosophy of time, e.g. _Time: a vocabulary of the present_;[@burges-2016-time] 4) timelapse photography including post-production using LRTimelapse; 5) simple animation techniques in After Effects, e.g. animating still images, methods of tansitioning between frames (formal properties of the film); 6) daily walking in and around the mountains of the Taleggio Valley; 7) conversations with participating artists, sharing of practices; 8) video and photography while walking; 9) sound recording (which I would later compose while working entirely in post-production after completion of the residency); 10) writing and collecting: this body; script writing (later in process) -- working through possible text options, trialling, prototyping; 11) video post-production
 
 (prototyping in general -- particularly re formal structure) 
 
@@ -152,63 +150,39 @@ Other aspects of the project were ripped from other projects or works: the text 
 
 Still wider out: history, influences, training, taste, background in choreography, performance, screendance (and indeed academia). These are big big frames. 
 
-To call these things methods is a bit rich. It was certainly a process. A process of collecting, organising, storing, observing, recording, feeling, and sensing and making sense. Was the process rigorous? Rigorously ad hoc? All this is to say is that it was a mess. Planned to some extent, but when rubber met road entirely ad hoc. No surprises here. 
+To call these things methods is a bit rich. It was certainly a process. A process of collecting, organising, storing, observing, recording, feeling, and sensing and making sense. Was the process rigorous? Rigorously ad hoc? All this is to say is that it was a mess. Planned to some extent, but when rubber met road entirely ad hoc. 
 
 ### Principles of framing an artwork as research
 
-I cannot say if the above process is more or less ad hoc than other art making processes, but even if it were less so there would remain many ways in which I could frame the resulting artwork as research. _Chilren of the Soil_ is precisely what it is as a consequence of all of the chaos and rigour described above; the ad hoc conditions under which it was made are visibily and invisibly present in what one can see and hear. As an artwork it has many and varied ontologic and epistemic surfaces, each of which might host or welcome research claims made through post hoc framing.  
+I cannot say if the above process is more or less ad hoc than other art making processes, but even if it were less so there would remain many ways in which I could frame the resulting artwork as research. _Chilren of the Soil_ is precisely what it is as a consequence of all of the chaos and rigour described above; the ad hoc conditions under which it was made are visibily and invisibly present in what is perceptable. As an artwork it has many and varied ontologic and epistemic surfaces, each of which might host or welcome research claims made through post hoc framing.  
 
-On what basis then am I able to do the scholarly work of that framing? I propose four principles for framing artworks as research via the research narrative:
+On what basis then am I able to do the scholarly work of that framing? I propose three principles for framing artworks as research via the research narrative:
 
 **1. Sustain the nature of the artwork**
 
-This principle acknowledges the artwork as a phenomenon designed to be experinced as art, and to not somehow attempt to explain the artwork through framing it as research. It is axiomatic that the artwork and the research are not equivalent. The principle also acknowledges that what the artwork is _about_ may not be relevant to its researchful aspects.
+The artwork is a phenomenon designed to be experinced as art, and the narrative is not designed to somehow explain the artwork through framing it as research. It is axiomatic that the artwork and the research are not equivalent. The principle also acknowledges that what the artwork is _about_ may not be relevant to its researchfulness.
 
 **2. Direct attention to research components that are able to be perceived in the artwork**
 
-This principle is empirical. The claims one makes about the researchful aspects of an artwork must be able to be perceived in the artwork (or the materials presented that represent the artwork). We cannot make claims based on things that require other people to imagine or guess they are present, or expect others (our peers) to simply agree with us, else there are no limits to the claims we will make. This principle is not to diminish the vitality and importance of the unfinished thinking and open-ended poetic possibilities of the artwork or indeed the possibility and value of using experimental written forms to frame the research.
+The claims one makes about the researchful aspects of an artwork must be able to be perceived in the artwork (or the materials presented that represent the artwork), and be available for "sustained and verifiable peer review".[@haseman-2007-tightrope p.7] We cannot make claims based on things that require other people to imagine or guess they are present, or expect others (our peers) to simply agree with us, else there are no limits to the claims we will make. This principle is not to diminish the vitality and importance of the unfinished thinking and open-ended poetic possibilities of the artwork or indeed the possibility and value of using experimental written forms to frame the research.
 
-**3. Make careful epistemic claims that are available for "sustained and verifiable peer review"[@haseman-2007-tightrope p.7]**
+**3. Serve dialogues in the community of practice** 
 
-This principle is related to principle 2. The claims embedded in the textual framing are claims to understanding or knowledge. They are epistemic claims, and as such become available ... 
-
-**4. Serve dialogues in the community of practice** 
-
-- Serving needs of the profession.
-- The process of framing about understanding which discourses the work most clearly participates in. to discursively communicate its researchfulness and contribution. 
-- - Or could add here something about clarity emerging from who the community of practice is (this is a decision). 
+The practice research exists in a community of practice (or field) that is identified carefully. The research's role is to be directly engaged in dialogues that are important, nascent or debatable in that community. The framing helps communicate the practice research's contribution; that is, how it serves the needs and interests of the community of practice. The research might serve different communities differently. It is possible -- but very unusual in my experience -- that the practice research might be in true dialogue with theoretical and/or philosophical discourses. By "true dialogue" I mean to distinguish practice research that merely cites or uses philosophical discourses principally as a strategy of validation. I discuss this further in _Research bubbles_ on p.xx.
 
 ### Deploying principles for the case-study (how to decide)
 
-What do these principles mean for _Children of the Soil_ as an artifact of research and as a case-study for this writing? I want to test or deploy them against these principles. 
+What do these principles mean for _Children of the Soil_ as an artifact of research and as a case-study for this writing? 
 
-re: post post-production (think of as 'the conditional')
-- the choices we make
-- telling the truth (timing matters - see Corporeal Epistemics) - rigour, honesty, integrity, transparency
-- I could do this.
-- I could do this. Which would be more true?  
-- What are the reasons for applying one over another? 
+Following principle 2, what strands of research exist in _Children of the Soil_ that are able to be perceived? There are at least five potential areas: 1) use of graphic novel tropes in unconventional theme; 2) representations of the other-than-human[@abram-1996-spell] in art practices, and the difficult role of the body in such representations; 3) experimental forms of screendance; 4) the field of ecology-minded somatics or eco-somatics;[See for example @fortin-2017-looking; @nuding-2021-approaching]; 5) explorations of temporality (and perhaps form) in experimental film.
 
-- what are the strands of research dialogue for children of the soil? Each can be seen in the film, perhaps least the screendance
-	+ graphic novels  
-	+ other-than-human  
-	+ screendance  
-	+ eco-somatics  
-	+ temporal experiments in film
+There are already problems here. For instance, the film is only nominally screendance (3) and yet its value to that community of practice might be in participating in ongoing conversations about the role of the body on screen. I could also concatenate representations of the other-than-human in art practices (2) with both experimental screendance (3) and/or eco-somatics (4). Of the five, screendance (3) is the community of practice I most strongly identify with (and am perhaps best known), yet I might be guilty of drawing very tenuous lines between the research practices visible in _Children of the Soil_ and that field. Another option would be to try and speak to each of these areas in a framing document. This would depend on how much space I have to write, but there might also then be danger in breaking principle 1 and end up neutering the unfinished thinking of the artwork itself. 
 
-These are not abstract entities, constructed by me or others and then introduced for some stated or unstated reason. 
+There are other options not listed. For instance, my colleague Rosemary Lee responded strongly to the use of humour in a work _about_ death and the body.[@lee-2023-ref] Could I examine other practices working with subtle (or obvious) forms of humour?[^review] This is not a field I am at all familiar with (likewise practices to go with using tropes of graphic novels (1)) so would require a large investment and time to get at least partly up to speed on that body of artistic work (let alone the scholarly work surrounding it). 
 
-“selected, pruned and spruced up” (Richardson, 1994 p.520) (from thesis)
+Principle 3 starts to become useful here if I think of the community of practice to which this artwork might be most useful when it is framed post hoc as research. In this respect I am foregrounding the idea of research _serving_ a community -- a point to which I will return below. But I sense a very curious moment as I write here now (12:04, 13 January 2023). I am recognising that my longest artistic practice -- that of being a choreographer -- is hanging over this hypothetical framing process. My 30+ years as a choreographer cannot not infect the work I make. I could therefore frame the researchful aspects of the artwork very broadly as _expanded choreographic thinking across disciplines_ and that certainly would open the artwork up to a broad and lively community or communities of practice. Although that too might run the risk of breaking principle 1.
 
-- hanging over this are two historical practices as an artist: screendance, and choreography. They are inescapable. When I make timelapses I work with and through the eyes/frames of screendance and choreography. Caught or wrapped in my identity/history/practice. 
-
-something like this as question underpinning my decision making (include something about not adding adding adding -- validation, calls to authority; also community of practice)
-
-**Note:** - refer to JB, RL and SW's notes about COTS -- opens entire other possibilities.
-
-- Noting that it's _easier_ to find theoretical work to be in relation with. It's there. It's desk work. It's more tangible (which is ironic given body in performance work?)
-- more like a foreign body dropping into a pre-existing ecosystem; isolated; argument from authority; these are singular systems (Steyerl).
-
+There's a tricky decision to be made here. But it is important that whatever the decision will involve my doing the difficult work of seeking other artistic work with which _Children of the Soil_ can be in researchful dialogue with. It would certainly be easier to find written scholarly work to start a monologue with. That work is just _there_ waiting for me in Research Rabbit or Google Scholar, or even an explicitly AI system like Elicit. The risk here though is that I end up breaking all three principles by creating a scholarly bubble for the artwork.
 
 ## Research bubbles: what I write about when I write about my research
 
@@ -218,11 +192,11 @@ This invitation is a trap even if it was not intended as such. It is a trap beca
 
 Here is some evidence. In Volume 26 of JAR[^jar] -- the Journal for Artistic Research -- there are six expositions of practice. None mention any other practitioner or artwork except for Szanto and Sicotte who only refer to each other's artistic practices.[@davidszanto-2022-researchcreation] The list of people their expositions mention is predictable: Ricoeur, Foucault, Baudelaire, Delueze and Guattari, Benjamin, Bergson, Debord, Butler, etc. 
 
-I did not cherry pick Volume 26 of JAR.[^phd] The phenomenon is endemic to journals that focus on practice: Choreographic Practices (a journal I co-edit), Journal for Embodied Research and the Journal of Dance and Somatic Practices are more or less the same. Any exceptions will likely prove the rule. 
+I did not cherry pick Volume 26 of JAR.[^phd] The phenomenon is endemic to journals that focus on or include practice: Choreographic Practices (a journal I co-edit), Journal for Embodied Research and the Journal of Dance and Somatic Practices are more or less the same. Any exceptions will likely prove the rule. 
 
-We now have a near endless supply of _sui generis_ practices, each in a cocooned battle for newness and the status of original research -- the names of well-known theoreticians used as "talismans".[Chamberlain, in @thomson-2003-practice p.176] What does this decision to write only in relation to authority figures outside our communities of practice say about the interests and responsibilities of practice researchers? And what does it do to the integrity of the field as a whole? 
+We now have a near endless supply of _sui generis_ practices, each in an isolate enemy-less battle for newness and the status of original research with the names of well-known theoreticians used as "talismans".[Chamberlain, in @thomson-2003-practice p.176] What does this decision to write almost exclusively in relation to authority figures outside our communities of practice say about the interests, confidence and  responsibilities of practice researchers? And what does it do to the integrity of the field as a whole? 
 
-When we argue from authority to establish the bona fides of our practice research we choose to frame our work by drawing extractive lines from those authorities to our artworks. Such framing only serves the needs and desires of the practice researcher, and the uni-directional lines render our artistic work untouched and inert. Our practice research exists in isolated bubbles, with no exchange, no history and no development of understanding through time. 
+When we argue from authority to establish the bona fides of our practice research we choose to frame our work by drawing extractive lines from those authorities to our artworks. Such framing only serves the needs and desires of the practice researcher, and the one-way lines render our artistic work untouched and inert. Our practice research exists in isolated bubbles, with no exchange, no history and no development of understanding through time. 
 
 ## Ecosystems and the most basic (and moral) of research intentions
 
@@ -236,24 +210,24 @@ I am going to adopt -- slightly begrudgingly -- what is a rather fashionable met
 
 In academic writing in dance and performance[^global] the word _ecosystem_ gets used loosely and broadly, including as an unspecified place human beings live in or inhabit [e.g. @moradian-2021-human; @vicente-2022-turning], as a place akin to nature or the natural [e.g. @sebianeserrano-2020-mestizo], as a entity that needs saving [e.g. @laidlaw-2021-ecological], as a thing to be aware of [e.g. @weig-2021-novel], as a way to understand the body [e.g. @nuding-2021-approaching], as places to encounter [e.g. @mchugh-2021-embodying], and as a metaphor [e.g. @parkinson-2010-art].
 
-An ecosystem is a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other".[@dictionary-2022-ecosystem n.pag.] The familiar example is a pond with its insects, algae, bacteria, etc.[@somma-2021-ecosystem] What is curious is that how one delineates a pond from the rest of its environment is, in effect, a choice: any system has boundaries.[@close-2022-brief] Should the stones around the outside be included? What about the ground on the outside of those stones? You might call such a choice biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a particular environment that needs to be specified.[^system] An ecosystem as boundary becomes a way to mark the limits of our attention, perspective and understanding.
+An ecosystem is a "biological system composed of all the organisms found in a particular physical environment, interacting with it and with each other".[@dictionary-2022-ecosystem n.pag.] The familiar example is a pond with its insects, algae, bacteria, etc.[@somma-2021-ecosystem] What is curious is that how one delineates a pond from the rest of its environment is, in effect, a choice: any system has boundaries.[@close-2022-brief] Should the stones around the outside be included? What about the ground on the outside of those stones? I could describe such a choice as biological gerrymandering. When we use the word ecosystem -- in its literal or metaphorical sense -- we are describing a particular environment that needs to be specified.[^system] An ecosystem as boundary becomes a way to mark the limits of our attention, perspective and understanding.
 
-The same goes with what is found and the kinds of interactions we might notice in any given ecosystem. What is found depends on the eyes and technologies we deploy, what we are hoping to see, what we are willing to see, and what kinds of attention we are willing to pay. In general, we humans grasp what we can and compare it to something we already know.[@roberts-2020-notes] In this sense, an ecosystem as a proxy for a collection of practices and practitioners that comprise an area of practice research is more akin to an egosystem.[@scharmer-2019-vertical]
+In any given ecosystem, what we then find (and the interactions we notice) depends on the eyes and technologies we deploy, what we are hoping to see, what we are willing to see, and what kinds of attention we are willing to pay. In general, we humans grasp what we can and compare it to something we already know.[@roberts-2020-notes] In this sense, an ecosystem as a metaphor for a collection of practices and practitioners that comprise an area of practice research is more akin to an egosystem.[@scharmer-2019-vertical]
 
-Understanding why we grasp _something_ -- and not something else -- is at heart of this article about why we frame practice research as we do. As my eyes, senses and desires have adjusted to the artwork _Children of the Soil_, I start to find (with the fundamental help of colleagues) new materials and interactions peculiar to a particular ecosystem -- what I would describe in a less metaphorical and less hifalutin way as a _community of practice_. The work of those already working in a community of practice is not simply a resource to extract warrant or validation. When we acknowledge being-in-relation we recognise reciprocity: that collective understanding of the research that is held gently by the community is modified as re-understanding. The organisms in a practice research ecosystem are instances of practice; these organisms are in relationship to each other: their interactions and movements modify and adapt each other. They move and are moved. This is new knowledge. 
+Understanding why we grasp _something_ -- and not something else -- is at heart of this article about why we frame practice research as we do. As my eyes, senses and desires have adjusted to the artwork _Children of the Soil_, I start to find (with the fundamental help of colleagues) new materials and interactions peculiar to a particular ecosystem -- what I would describe in a less metaphorical and less hifalutin way as a _community of practice_. The work of those already working in a community of practice is not simply a resource to extract warrant or validation. When we acknowledge being-in-relation we recognise reciprocity. In other words, the collective understanding of the research that is held gently by the community is modified by reciprocity as re-understanding. The organisms in a practice research ecosystem are instances of practice; these organisms are in relationship to each other: their interactions and movements modify and adapt each other. They move and are moved. This is new knowledge. 
 
 > Collective behavior begins [...] in the midst of encounter. “When one ant touches another with its antennae, it decides whether the other ant is a nestmate,” she explains. From tiny interactions such as these, colonies develop foraging strategies and reproductive trajectories, not as “individuals,” but as encounters in motion.[@tsing-2017-individuals p.M72]
 
 In Anna Tsing's words -- as she introduces the writing of Deborah M. Gordon[@gordon-2017-planning] -- lie a blueprint for interacting communities of practice research that generate re-understanding through encounters in motion. 
 
-The alternative is the status quo: individuals creating solitary and solipsistic maps seemingly founded on arguments from authority and divorced from the epistemic and ontologic foundations of artistic practices. After all, whether the practice research is abo ovo or post hoc, "we have never been individuals".[@gilbert-2012-symbiotic p.325] The moral imperative of our work ought then to reflect what German biologist and philosopher Andreas Weber describes as the "desire to connect through touch and body in order to create fertile communities of mutual flourishing".[@weber-2019-enlivenment p.3] 
-
-Weber uses the term _commons_ to describe "protecting aliveness through participation and reciprocity",[@weber-2019-enlivenment p.5] and I hope Weber does not mind that in this moment I choose to extract his thinking for another purpose: to help those of us in practice research imagine how our work might enliven our small and unimportant ecosystem. 
+The alternative is the status quo: individuals creating solitary and solipsistic maps seemingly founded on arguments from authority and divorced from the epistemic and ontologic foundations of artistic practices. After all, whether the practice research is abo ovo or post hoc, "we have never been individuals".[@gilbert-2012-symbiotic p.325] The moral imperative of our work ought then to reflect what German biologist and philosopher Andreas Weber describes as the "desire to connect through touch and body in order to create fertile communities of mutual flourishing".[@weber-2019-enlivenment p.3] Weber uses the term _commons_ to describe "protecting aliveness through participation and reciprocity",[@weber-2019-enlivenment p.5] and I hope Weber does not mind that in this moment I choose to extract his thinking for another purpose: to help those of us in practice research imagine how our work might enliven our our ecosystems of artistic practice. 
 
 
 --- 
 
 # endnotes
+
+[^review]: I'd really like to include the documentation from the internal review as a way to continually open up this process. Not sure you (Sarah) will agree here. 
 
 [^phd]: My desire here is not to be overly critical of any one publication or individual, and nor do I stand innocent of similar preoccupations (my PhD was basically an homage to Bergson).
 
@@ -303,6 +277,22 @@ Could add here responses from three colleagues -- e.g. re humour -- opened up ot
 ---
 
 # edit bin
+
+- Noting that it's _easier_ to find theoretical work to be in relation with. It's there. It's desk work. It's more tangible (which is ironic given body in performance work?)
+- more like a foreign body dropping into a pre-existing ecosystem; isolated; argument from authority; these are singular systems (Steyerl).
+
+re: post post-production (think of as 'the conditional')
+- the choices we make
+- telling the truth (timing matters - see Corporeal Epistemics) - rigour, honesty, integrity, transparency
+- I could do this.
+- I could do this. Which would be more true?  
+- What are the reasons for applying one over another? 
+
+- hanging over this are two historical practices as an artist: screendance, and choreography. They are inescapable. When I make timelapses I work with and through the eyes/frames of screendance and choreography. Caught or wrapped in my identity/history/practice. 
+
+something like this as question underpinning my decision making (include something about not adding adding adding -- validation, calls to authority; also community of practice)
+
+“selected, pruned and spruced up” (Richardson, 1994 p.520) (from thesis)
 
 Garbolino cites George Kubler’s The Shape of Time to help describe the ways in which artworks and experiments are progressions through time. Kubler writes that every work of art is:
 
