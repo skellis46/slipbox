@@ -9,7 +9,7 @@ status-updated: "20221226"
 
 _previous note:_  [[cognitive burden of sitting still]]
 
-It was Frederick Nietzsche who said something like “Never trust a thought that occurs to you indoors.” The first time I remember hearing this was when it was repeated to me by the New Zealand choreographer [Douglas Wright](http://www.douglaswright.net/douglaswright.html). It was 2001 and we (his dance company) were walking in Cornwall Park in Auckland during the very initial development of the choreography that would become _Inland_ (2002). 
+	It was Frederick Nietzsche who said something like “Never trust a thought that occurs to you indoors.” The first time I remember hearing this was when it was repeated to me by the New Zealand choreographer [Douglas Wright](http://www.douglaswright.net/douglaswright.html). It was 2001 and we (his dance company) were walking in Cornwall Park in Auckland during the very initial development of the choreography that would become _Inland_ (2002). 
 
 I remember being interviewed during the _Inland_ process and I compared being asked to join Douglas's company as akin to being selected for the All Blacks (but without the _haka_). If you were a kiwi dancer, then to work for Douglas was the pinnacle. And we did work _for_ him; we did not work _with_ him. I had wanted to work for Douglas since I saw his work [_Gloria_](https://www.youtube.com/watch?v=I2zn5-2Ftno) in 1990. But the distance between my dream of working in Douglas's company and the reality was vast. The pressure that Douglas placed on us was enormous, and his singular vision left little space for the emotional valence of the situation. It was not a pleasant experience and I simply did not cope. You might say my dancing was overwhelmed by fear and self-consiousness. 
 
