@@ -19,7 +19,7 @@ _thoughts & links_:
 
 - curious how Eddy says listening deeply to the _body_ and not the soma.
 - [[human experience and language]]
-- [[interoception]]
+- [[interoception science overview]]
 - [[search for truth]]
 - see [Batson's summary](zotero://select/items/1_39B8594Q) of Varela on p.77 of her book: "First-person experience should be the starting point for understanding cognition" 
 

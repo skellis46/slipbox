@@ -33,7 +33,7 @@ Start with that story of being given credit at VCA for a totally different subje
 
 > Your belief in that does not make it so.[@yudkowsky-2012-skill n.pag.]
 
-On the pages of the Journal of Dance and Somatic Practices and elsewhere in dance scholarship, artists, scholars, teachers and practitioners are not shy in claiming the benefits of somatic practices. In fact, such claims are endemic to JDSP; from 
+On the pages of the Journal of Dance and Somatic Practices and elsewhere in dance scholarship, artists, scholars, teachers and practitioners are not shy in claiming the benefits of somatic practices. In fact, such claims are endemic to JDSP. 
 
 And why wouldn't we be? We believe in the value and importance of these practices -- either collectively or separately. 
 
@@ -71,7 +71,7 @@ In 2010, the dance scholar and Feldenkrais practitioner, Isabelle Ginot wrote a 
 
 Somatics needs "to affirm its value in accordance with society's belief in the objective truth of science."[@ginot-2010-shusterman p.14] I could argue that that is what I am doing here ... seeking a way of validating somatics through the value of science's capacity to reveal the mechanisms of somatic practices??? But Ginot's examples seem more like 'approval' or 'validation' from eminent people: "Science thus functions like a validating gaze cast over somatics from afar. Nevertheless, scientists willingly endorse the legitimacy of endogenous somatic methods because they are assumed to go where science does not tread."[@ginot-2010-shusterman p.14] -- related to "a tenacious doxa that physical sensations must irrevocably elude language."[@ginot-2010-shusterman p.13] [[physical sensations and language]]
 
-This is simply no longer the case. But the schism still exists on the pages of JDSP?
+This is simply no longer the case. But the schism still exists on the pages of JDSP? Makes me wonder how well aspects of Ginot's writing has aged. Yet when she says (quoted below) about science's function being to "foster belief" (p.15) -- amazing. Need to look in detail on what science she is describing. 
 
 > Science has opened up to rigorous studies of mindful-movement practices and body-awareness-enhancing approaches. This is the time.[@mehling-2020-if p.257]
 
@@ -83,7 +83,7 @@ Regardless of whether or not Ginot's critique is accurate (and I suspect there i
 
 ## science and somatics in dance scholarship
 
-By 'dance scholarship' I refer to journals or texts recognised by database _International Bibliography of Theatre & Dance with Full Text_ 
+By 'dance scholarship' I refer to journals or texts recognised by the database _International Bibliography of Theatre & Dance with Full Text_ 
 
 There are exceptions. In 2010, Kimberley Hutt explored the ways in which a combination of science and somatics might be beneficial in dance training, and specifically with regard to improved alignment and injury prevention. It is not clear what Hutt means by 'somatics' other than sensory or self awareness.
 
@@ -115,14 +115,14 @@ Batson plays a key role in bridging science and somatic worlds. In [[Batson et a
 
 > Where the dance sciences seek objective truths, somatics may not seek truth, as measurable facts, but as how one constructs the body itself from a subjective viewpoint.[@green-2007-american n.pag]
 
-- Given Green's statement here why then do we make so many unfalsifiable claims about the efficacy of somatics? It also fails to account for more recent (??) acknowledgement of how [[interoception]] helps create sense of self through bodily awareness 
+- Given Green's statement here why then do we make so many unfalsifiable claims about the efficacy of somatics? It also fails to account for more recent (??) acknowledgement of how [[interoception science overview]] helps create sense of self through bodily awareness 
 - Am I suggesting here that interoception is a powerful bridge? (wary of how fashionable research into interoception is)
 - re efficacy see above quote from Green and how we have "defined bodily practice"
 
 
 >  Dance science tends towards a different lens – looking at the mechanics of movement, physiology and psychology as a means of optimizing our dance training and performative goals. [@batson-2012-integrating p.187]
 
-- this statement is just incorrect. Science is seeking understanding. (also, note how often somatics is discussed in the field in relation to optimisation or efficiency). It's not the work of science to optimise -- that's driven by cultural demands (faster, stronger, higher). If culture wanted something else science would do its best. 
+- this statement is just incorrect. Science is seeking understanding (and is as influenced by trends and vagaries of funding as is dance scholarship). (also, note how often somatics is discussed in the field in relation to optimisation or efficiency). It's not the work of science to optimise -- that's driven by cultural demands (faster, stronger, higher). If culture wanted something else science would do its best. 
 
 Introduce Ginot's appraisal of somatic practices' dependence on science -- such a strange relationship.
 
@@ -177,7 +177,7 @@ Interoception mostly consists of unconscious processes in homeostatic regulation
 
 
 - include implied (ie not named) relationships between somatics and interoceptive ability -- not sure this is accurate. See Eddy's book. 
-- [[interoception]]
+- [[interoception science overview]]
 
 ### interoception in JDSP
 

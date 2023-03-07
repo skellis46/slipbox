@@ -6,7 +6,7 @@ type: "evergreen"
 
 # same interoceptive responses categorised differently
 
-_previous note:_ [[interoception]]
+_previous note:_ [[interoception science overview]]
 
 ---
 
