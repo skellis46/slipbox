@@ -70,7 +70,7 @@ _previous note:_
 - humans adapting behaviour to suit animals (rather than animals getting used to us)
 - to ignore a baboon is not a neutral act (and same with our relationship to the world)
 - appreciation of outer behaviours change sensitivity to inner lives (and sense of identity) -- am reminded here of [[authentic movement]]
-- states of mind in animals that are untestable and inaccessible: how to pay respect to these phenomena in [[interoception]] and crossdisciplinary work? 
+- states of mind in animals that are untestable and inaccessible: how to pay respect to these phenomena in [[interoception science overview]] and crossdisciplinary work? 
 
 > Goodall also writes about the chimpanzee’s rain dances, performed at the onset of heavy downpours. During these displays, the chimpanzees will grasp saplings and low branches and sway them rhythmically back and forth, then move forward slowly while loudly slapping the ground with their hands, stamping their feet and hurling rocks. While loath to draw firm conclusions from such displays, Goodall associates them with ‘feelings akin to wonder and awe’ and notes that afterwards the performer will sit quietly for some time watching the water, much like Smuts’s baboons around the pools.[@bridle-2022-ways n.p.]
 

@@ -9,7 +9,7 @@ status-updated: "20220402"
 
 # correlating our insides
 
-_previous note:_ [[interoception]]
+_previous note:_ [[interoception science overview]]
 
 I've been reading a lot of science lately; mostly neuroscience to do something you may well have heard of called _interoception_. Before I get into interoception, reading these research papers reminded me of how much specialised knowledge is needed to understand statistical analysis and the presentation of quantitative data.
 

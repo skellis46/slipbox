@@ -6,7 +6,7 @@ type: "evergreen"
 
 # interoceptive accuracy correlations
 
-_previous note:_ [[interoception]]
+_previous note:_ [[interoception science overview]]
 
 These are from Christensen et al.'s article.[@christensen-2018-can]
 

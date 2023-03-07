@@ -8,7 +8,7 @@ authors: "Julia F. Christensen, Sebastian B. Gaigg, Beatriz Calvo-Merino"
 
 #  Christensen - I can feel my heartbeat: Dancers have increased interoceptive accuracy
 
-_previous note:_ [[interoception]]
+_previous note:_ [[interoception science overview]]
 
 - interoceptive accuracy correlates positively with "measures of self-awareness and with attributes including emotional sensitivity, empathy, prosocial behavior, and efficient decision making"[@christensen-2018-can p.1]
 - they use heartbeat perception task as tool to measure interoceptive accuracy (IAcc). 

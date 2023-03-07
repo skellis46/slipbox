@@ -11,6 +11,8 @@ _previous note:_ [[device paradigm and focal things]]
 
 Christian blogger John O'Brien writes about Albert Borgmann's device paradigm and focal things. O'Brien places device paradigm in opposition to focal things "that can help us resist becoming pell-mell denizens of device paradigm".[@obrien_focal_2012 n.p.]
 
+
+
 >Device paradigm vs. focal things and practices is therefore a useful analytic for balancing technology in our lives.[@obrien_focal_2012 n.p.]
 
 O'Brien writes how focal things are practices that "make life meaningful" and that when developed in scale, become the basis of community and community celebration.

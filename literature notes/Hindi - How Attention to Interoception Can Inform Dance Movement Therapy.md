@@ -8,7 +8,7 @@ author: "Fatina Hindi"
 
 #  Hindi - How Attention to Interoception Can Inform Dance/Movement Therapy
 
-_previous note:_ [[interoception]]
+_previous note:_ [[interoception science overview]]
 
 Fatina Hindi is a dance movement therapist and this article summarises much of the neuroscience around interoception and how it is useful for DMT practitioners.
 

@@ -25,7 +25,7 @@ Mehling writes that if we hypothesize that "that changes in bodily awareness are
 > In mindfulness-based classes for mothers preparing for childbirth, improvements in interoceptive awareness—again, assessed by the MAIA—mediated the beneficial effects on postpartum depression. And yoga for women improved women’s self-objectification mediated by an improved relationship to their bodies (Daubenmier, 2005).[@mehling-2020-if p.257] 
 
 - [[proprioception]]
-- [[interoception]]
+- [[interoception science overview]]
 - [[Mehling - Multidimensional Assessment of Interoceptive Awareness]] re MAIA
 
 ---
