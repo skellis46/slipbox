@@ -75,7 +75,7 @@ This is simply no longer the case. But the schism still exists on the pages of J
 
 > Science has opened up to rigorous studies of mindful-movement practices and body-awareness-enhancing approaches. This is the time.[@mehling-2020-if p.257]
 
-> ... science in somatic discourse represents a form of homogeneous, nonhistoricized, almost eternal truth. In sum, the scientific discourse used in somatic practices is not necessarily a guarantee of the scientific value of the work engaged in, and even less so of the potentially scientific attitude of its author. The function of science is neither to introduce doubt, nor to situate somatics within current scientific debates. Somatics does not depend on traditional scientific procedure that would require the description of experiments, the determination of the limits of validity of an argument, or the possible presentation of contradictory hypotheses. The function of science within somatics is to foster belief.[@ginot-2010-shusterman p.15]
+> ... science in somatic discourse represents a form of homogeneous, nonhistoricized, almost eternal truth. In sum, the scientific discourse used in somatic practices is not necessarily a guarantee of the scientific value of the work engaged in, and even less so of the potentially scientific attitude of its author. The function of science is neither to introduce doubt, nor to situate somatics within current scientific debates. Somatics does not depend on traditional scientific procedure that would require the description of experiments, the determination of the limits of validity of an argument, or the possible presentation of contradictory hypotheses. The function of science within somatics is to foster belief.[@ginot-2010-shusterman p.15] ^fd4fbc
 
 > Somatics induces us to believe in the "scientific," universal, and "provable" nature of experience, in order to provide a stable collective context for what is fundamentally an unstable, highly individualized experience.[@ginot-2010-shusterman p.15]
 
@@ -126,7 +126,7 @@ Batson plays a key role in bridging science and somatic worlds. In [[Batson et a
 
 Introduce Ginot's appraisal of somatic practices' dependence on science -- such a strange relationship.
 
->  In sum, the scientific discourse used in somatic practices is not necessarily a guarantee of the scientific value of the work engaged in, and even less so of the potentially scientific attitude of its author. The function of science is neither to introduce doubt, nor to situate somatics within current scientific debates. Somatics does not depend on traditional scientific procedure that would require the description of experiments, the determination of the limits of validity of an argument, or the possible presentation of contradictory hypotheses. The function of science within somatics is to foster belief.[@ginot-2010-shusterman p.15]
+
 
 - note heavy (is that correct?) presence of Feldenkrais and Alexander in science literature. See [[ginot - epistemology of somatics#^ad8209]] -- Ginot claims because of empirical results. This is important -- sense of something observable (interoception is increasingly becoming part of that empirical world which complicates this thinking/argument)
 
