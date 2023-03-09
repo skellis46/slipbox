@@ -31,7 +31,7 @@ He calls on Heidegger's 1949 lecture:
 
 >My effort to go beyond Heidegger’s discourse on technology is largely based on two motivations: 1) a desire to respond to the ontological turn in anthropology, which aims to tackle the problem of modernity by proposing an ontological pluralism; and 2) a desire to update the insufficient discourse on technology that is largely associated with Heidegger’s critique of technology.[@hui-2017-cosmotechnics n.pag]
 
->Mou’s demarcation between Chinese and Western philosophy situates his conviction that Chinese philosophy recognizes and cultivates the intellectual intuition that Kant associated with knowing the noumenon, even as Kant dismissed the possibility that human beings could possess such an intuition.[@hui-2017-cosmotechnics n.pag]
+>Mou’s demarcation between Chinese and Western philosophy situates his conviction that Chinese philosophy recognizes and cultivates the intellectual intuition that Kant associated with knowing the noumenon, even as Kant dismissed the possibility that human beings could possess such an intuition.[@hui-2017-cosmotechnics n.pag] ^e2cbd2
 
 
 >First, what does Hui mean by the peculiar word “cosmotechnics”? “It is the unification of the cosmos and the moral through technical activities, whether craft-making or art- making.” That is, a cosmotechnics is the point at which a way of life is realized through making.[@jacobs-2021-tech p.33]
