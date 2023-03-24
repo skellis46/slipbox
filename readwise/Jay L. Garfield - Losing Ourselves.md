@@ -499,3 +499,7 @@
 >  > 
 >  > —SANDY HUNTINGTON ([View Highlight](https://read.readwise.io/read/01gttxqhtsegr2mb8myb6yrhc9))
 
+## New highlights added March 23, 2023 at 8:34 AM
+
+> And this is one more problem with the attitude that we are selves. When we ascribe that kind of independence, separation from the world in which we act, and immediate intimacy to ourselves, it is a very short step to moral egoism. ([View Highlight](https://read.readwise.io/read/01gsxh43ycyh5vj5tamsg6gtsa))
+
