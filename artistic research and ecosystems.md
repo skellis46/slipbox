@@ -19,6 +19,7 @@ This writing is about the relationships between artistic processes, artistic wor
 
 These ideas are not specific to dance practice research, but rather are about practice research more broadly. As part of the writing I use as an example an artwork of mine that emerged through body-based practices -- _Children of the Soil_ -- to explore the messiness of how we might reliably produce practice research while respecting the unfinished thinking of the artwork itself.[^git] 
 
+'my major observation is that the article tends to begin rather parochially by focusing straight away on the REF. For an international readership for whom this issue is of growing importance, it would be good to make a statement to that effect, talking about the growth in practice as research in doctoral programmes and other government-led research assessment programmes at home and in various countries world wide. It would only take a paragraph or at most two. Otherwise i thought the article was well argued and of undoubted significance in advancing discussion and understanding'.
 
 ---
 
