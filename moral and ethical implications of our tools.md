@@ -64,4 +64,4 @@ _thoughts & links:_
 
 _original source/found:_ 
 
-_reference:_ 
+_reference:_ <https://theconvivialsociety.substack.com/p/the-questions-concerning-technology>
