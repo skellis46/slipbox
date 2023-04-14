@@ -48,3 +48,44 @@
 
 > On a grander scale, the human species took tens of thousands of years to spread across most of the globe, the Agricultural Revolution thousands of years, the Industrial Revolution only hundreds of years, and an Information Revolution could be said to have spread globally over the course of decades—though, of course, these transitions are not necessarily of equal profundity. (The Dance Dance Revolution video game spread from Japan to Europe and North America in just one year!) (Location 2008)
 
+## New highlights added March 30, 2023 at 4:28 PM
+
+> (Note that the concept of a singleton is an abstract one: a singleton could be democracy, a tyranny, a single dominant AI, a strong set of global norms that include effective provisions for their own enforcement, or even an alien overlord—its defining characteristic being simply that it is some form of agency that can solve all major global coordination problems. It may, but need not, resemble any familiar form of human governance.22) (Location 2047)
+
+
+> If we represent all the happiness experienced during one entire such life with a single teardrop of joy, then the happiness of these souls could fill and refill the Earth’s oceans every second, and keep doing so for a hundred billion billion millennia. It is really important that we make sure these truly are tears of joy. (Location 2490)
+
+
+> We have now suggested that a superintelligence with a decisive strategic advantage would have immense powers, enough that it could form a stable singleton—a singleton that could determine the disposition of humanity’s cosmic endowment. (Location 2525)
+
+
+> Bertrand Russell, who spent many years working on the foundations of mathematics, once remarked that “everything is vague to a degree you do not realize till you have tried to make it precise.”24 (Location 3320)
+
+
+> There are many ways of deviating from the truth, and the oracles may not all agree on which of these deviations is most attractive—whereas the truth itself is a Schelling point (a salient place for agreement in the absence of communication). So if the oracles achieve consensus, it might be a sign that they gave the true answer.5 (Location 3483)
+
+
+> interim (Location 4483)
+
+
+> Indirect normativity is a way to answer the challenge presented by the fact that we may not know what we truly want, what is in our interest, or what is morally right or ideal. Instead of making a guess based on our own current understanding (which is probably deeply flawed), we would delegate some of the cognitive work required for value selection to the superintelligence. Since the superintelligence is better at cognitive work than we are, it may see past the errors and confusions that cloud our thinking. One could generalize this idea and emboss it as a heuristic principle:   The principle of epistemic deference A future superintelligence occupies an epistemically superior vantage point: its beliefs are (probably, on most topics) more likely than ours to be true. We should therefore defer to the superintelligence’s opinion whenever feasible.8 (Location 4941)
+
+
+> But saying that the AI should be “nice” adds almost nothing: the real work is done by the “Do What I Mean” instruction. If we knew how to code “Do What I Mean” in a general and powerful way, we might as well use that as a standalone goal. How might one implement such a “Do What I Mean” dynamic? That is, how might we create an AI motivated to charitably interpret our wishes and unspoken intentions and to act accordingly? (Location 5187)
+
+
+> Cognitive enhancement might seem obviously risk-reducing: the smarter the people working on the control problem, the more likely they are to find a solution. (Location 5463)
+
+
++++++ 
+- Note: Ha ha ha
+
+
+> A related type of argument is that we ought—rather callously—to welcome small and medium-scale catastrophes on grounds that they make us aware of our vulnerabilities and spur us into taking precautions that reduce the probability of an existential catastrophe. The idea is that a small or medium-scale catastrophe acts like an inoculation, challenging civilization with a relatively survivable form of a threat and stimulating an immune response that readies the world to deal with the existential variety of the threat.15 (Location 5619)
+
+
+> I fear the blog commenter “washbash” may speak for many when he or she writes: I instinctively think go faster. Not because I think this is better for the world. Why should I care about the world when I am dead and gone? I want it to go fast, damn it! This increases the chance I have of experiencing a more technologically advanced future.29 (Location 5765)
+
+
+> This is not a prescription of fanaticism. The intelligence explosion might still be many decades off in the future. Moreover, the challenge we face is, in part, to hold on to our humanity: to maintain our groundedness, common sense, and good-humored decency even in the teeth of this most unnatural and inhuman problem. We need to bring all our human resourcefulness to bear on its solution. (Location 6089)
+
