@@ -62,7 +62,7 @@ _previous note:_ [[footfall]]
 
 > We did not choose our economic system from a list of all available options. We are all to a greater or lesser extent the victims of historical forces that have built structures of power over centuries based on a very blunt assessment of value. For a tree, only the timber fetches a price at market, not the soil that grew the tree or the insects that pollinated it, the sun that fed it or the rain that watered it. But the community of forest that is home to so many species has no price. Capitalism not only alienates and commodifies nature into products and transforms humans into consumers, it also alienates and commodifies us. Our very gaze has become a product. Our attention is directed away from the biosphere that sustains us, and this alienation makes us to varying degrees blind, deaf and dumb. Looked at in the long history of our coevolution with the forest, the human break with nature is an eye-blink; the story of human life on earth is longer and wider than the history of capitalism and, most important, the ending is not written yet.[@rawlence-2022-treeline p.283]
 
-- contrast this paragraph (or imagine it) re Sacasas's work on attentionq
+- contrast this paragraph (or imagine it) re Sacasas's work on attention
 
 > “What if a mother ladybird came back to her nest only to find the tree had been cut down and her babies were gone!” Parenting in an era of rapid climate change does not allow for the luxury of misanthropy or false hope. We must, to paraphrase the University of California anthropologist Donna Harraway, “stay with the trouble.”[@rawlence-2022-treeline p.284]
 
