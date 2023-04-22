@@ -19,6 +19,8 @@ A proposal to attend the Somatic Practices Conference, July 2023
 
 --- 
 
+Somatics: how do I disagree? How do we disagree if anything goes? Ginot does this ... who are the others? 
+
 > 	There is a real situation, that can't be denied, but it is too big for any individual to know in full, and so we must create our understanding by way of an act of the imagination. So we all have an ideology, and this is a good thing. 
 
 -- Kim Stanley Robinson [-@robinson-2020-ministry n.pag]
@@ -68,3 +70,9 @@ See [[somatic practices, interoception and evidence#opportunities]] for useful t
 - what does it mean to be good at somatics? How do we recognise someone who is 'good' at somatics? It's a funny/silly/old question/joke about somatics, but so much of what we can't and can say about somatics rests on the capacity to understand and communicate what it is we are observing/noticing (in ourselves and in others) when doing somatics well. See in [[Zoran Josipovic - Influence of Meditation on Anti-Correlated Networks in the Brain#^448a09]] and also note the Varela reference in that blockquote.
 
 Thinking through Ginot's statement that the purpose of science in somatics is to "foster belief" [[somatic practices, interoception and evidence#^fd4fbc]]. Linking here with Ingold's [[search for truth]] and the unison of imagination and experience, and of taking ourselves into the world. But how are we failing to do that in somatic practices? Contrast also with [[map and territory]] and my sense is that in the claims we are making we are attempting to construct the territory -- or to colonise the territory from a very small island. Note a very early idea I had in [[zen, map and territory]] in which I describe [[authentic movement]] as a dance with territory or even noumenal experience ([[noumenon and phenomenon]]) -- really really not sure about this last bit. Noting also here the differences between Eastern and Western philosophy and practices re 'knowing' the noumenon: [[Hui - Cosmotechnics as Cosmopolitics#^e2cbd2]] The Kantian thing seems to be about the un-naming (which is to know the unknowable 'thing in itself'). Non-dual awareness ticks into here -- that when there is no self, the unknowing ceases to be something that one can not do. 
+
+
+> also refer to the validation methods of phenomenology and Buddhist practices saying it ‘[...] is derived from its ability to transform progressively our lived experience and self-understanding’ (Varela et al. 1991: xix), a validation that also applies to somatic practices, given that it can only be measured from the observation of changes perceived by the individuals directly involved in the experience. [@silvagrebler-2020-reflection p.18]
+
+- is this the issue -- "can only be measured"? But does that mean we get to say anything we want about it? 
+- 
