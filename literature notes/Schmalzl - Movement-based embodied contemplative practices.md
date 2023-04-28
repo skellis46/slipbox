@@ -17,7 +17,7 @@ Schmalzl, Mardi, Crane-Godreau and Payne discuss embodied cognition in relation 
 
 Schmalzl identifies Varela as one of first to introduce the term _embodied mind_ (p.1), and _enactive approach_:
 
-> According to the “enactive approach” to cognition (Thompson and Varela, 2001; Thompson, 2005; Di Paolo and Thompson, 2014), living beings are autonomous agents that actively generate and maintain their physical and psychological identities, and that enact their cognitive domains through their activities. As such, the enactive approach postulates that human beings exists intrinsically as embodied beings, and that mental functions such as perception, cognition and motivation, cannot be fully understood without reference to the physical body as well as the environment in which they are experienced (Varela et al., 1991; Thompson, 2007).[@schmalzl-2014-movementbased p.1]
+> According to the “enactive approach” to cognition (Thompson and Varela, 2001; Thompson, 2005; Di Paolo and Thompson, 2014), living beings are autonomous agents that actively generate and maintain their physical and psychological identities, and that enact their cognitive domains through their activities. As such, the enactive approach postulates that human beings exist intrinsically as embodied beings, and that mental functions such as perception, cognition and motivation, cannot be fully understood without reference to the physical body as well as the environment in which they are experienced (Varela et al., 1991; Thompson, 2007).[@schmalzl-2014-movementbased p.1]
 
 - this enactive approach seems more or less the same as embodied cognition, but 'enaction' implies that it's only a part of [[4e cognition]]
 - [[senses united by action]] (Tversky)
