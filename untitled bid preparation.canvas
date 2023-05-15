@@ -27,7 +27,7 @@
 		{"type":"text","text":"[[John Harris - In an Isolated World, Humans Need to Dance Together More Than Ever – But We’re Running Out of Places to Do It]]","id":"60cca624761b038e","x":829,"y":-686,"width":411,"height":106},
 		{"type":"text","text":"a type of awareness (Josipovic, 2020 p.2)","id":"2fe7714e34187304","x":897,"y":-775,"width":250,"height":60},
 		{"type":"text","text":"minimal phenomenal experience","id":"5158fe96e361037b","x":650,"y":-969,"width":250,"height":60},
-		{"type":"text","text":"full absorption states = consciousness-as-such (Metzinger) [[﻿Zoran﻿ ﻿Josipovic﻿ - Nondual Awareness and Minimal Phenomenal Experience]]","id":"e990c0f2208045d5","x":987,"y":-1040,"width":320,"height":157},
+		{"type":"text","text":"full absorption states = consciousness-as-such (Metzinger) [[nondual awareness and minimal phenomenal experience]]","id":"e990c0f2208045d5","x":987,"y":-1040,"width":320,"height":157},
 		{"type":"text","text":"non-dual awareness","id":"e7be750cd8e7a4d7","x":345,"y":-805,"width":250,"height":60},
 		{"type":"text","text":"consciousness-as-such (Metzinger)","id":"bd9e5f37aa775f40","x":322,"y":-883,"width":250,"height":60},
 		{"type":"text","text":"1. what are the cues and/or anchors in these experiences?\n2. how are they different/similar?\n3. so what? \n4. who cares? \n5. might AM have something to contribute to NDA understanding? (something particular)","id":"d13ce3c8a9a78b6c","x":-612,"y":-527,"width":468,"height":316},
@@ -44,7 +44,7 @@
 		{"type":"text","text":"consciousness studies","id":"3efed5c124cd71e1","x":788,"y":-1129,"width":250,"height":60},
 		{"type":"text","text":"flow","id":"a399f1a722f4fac9","x":1120,"y":-1145,"width":83,"height":50},
 		{"type":"text","text":"see [[Schmalzl - Movement-based embodied contemplative practices]]","id":"fed47df8eb597c5a","x":624,"y":-1796,"width":376,"height":76},
-		{"id":"bbf128f9269f5651","x":595,"y":-1180,"width":147,"height":51,"type":"text","text":"psychedelics"}
+		{"type":"text","text":"psychedelics","id":"bbf128f9269f5651","x":595,"y":-1180,"width":147,"height":51}
 	],
 	"edges":[
 		{"id":"4a32da75f18a59e9","fromNode":"ae7bf2a17086bcb5","fromSide":"right","toNode":"4d027ff26b627ea3","toSide":"left"},
