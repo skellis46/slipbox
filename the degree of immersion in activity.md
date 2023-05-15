@@ -13,7 +13,7 @@ _previous note:_ [[the Dao of butchering cows]]
 
 ([View Highlight](https://read.readwise.io/read/01gspvv59xzepk9w8612egsw32))
 
-- [[Zoran﻿ ﻿Josipovic﻿ - Nondual Awareness and Minimal Phenomenal Experience]]
+- [[nondual awareness and minimal phenomenal experience]]
 - [[brain versus body is the new dualism]]
 
 
