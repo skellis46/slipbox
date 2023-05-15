@@ -229,6 +229,8 @@
 
 > Moreover, like Ding, even when their attention is fully controlled and no longer automated, that attention is completely absorbed in their task, not in their own agency.[6](https://readwise.io/reader/document_raw_content/32011253#chapter6-6) ([View Highlight](https://read.readwise.io/read/01gspvrgtmk9nz0ydsfq910r3s))
 
+^80d9b8
+
 
 > We hence see that it is not the presence of explicit thought that distinguishes ego-involved experience from ego-less experience. Instead, this distinction reflects the degree of immersion in activity and so the degree to which explicit awareness of oneself as standing outside that activity is diminished. It is a distinction that is more phenomenological than psychological, having to do with how we experience our own engagement with the world. When we are completely immersed in activity—whether the physical activity of carving an ox or the cognitive activity of thinking about how best to carve that ox—our sense of self, and with it, the experience of the duality of subject and object in experience, vanish. There is only the experience of a flow of activity. ([View Highlight](https://read.readwise.io/read/01gspvv59xzepk9w8612egsw32))
 
