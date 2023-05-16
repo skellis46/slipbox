@@ -5,38 +5,14 @@ type: "presentation"
 platform: "conference"
 status: "in-progress"
 tags: 
-status-updated: "2022-05-12"
+status-updated: "2022-05-16"
 ---
-
-# 20230526 - china - the many practices of practice research
-
-1. Title: The many practices of practice research 
-
-2. Abstract
-
-In this presentation I seek to address the differences between art made outside of the academy, and art made as part of PhD research within the academy. In doing so I will make a case for the cultural and epistemic value of practice research, as well as its limitations. I will draw on the scholarship of Alva Noë, Michael Biggs and Daniela Büchler, as well as my own current research into dance epistemology. My approach will be to use a 'steel man' (as opposed to a 'straw man') argument to discuss the positions against practice research so that we might understand the complex nature of practices within practice research, and to present an expanded perspective on the nature of postgraduate research in higher education. 
-
-3. Image (portrait): 
-
-https://www.dropbox.com/s/tbsmhczwfqqp9j8/IMG_4496%20original.JPG?dl=0
-
-Image credit (please include): Hamish MacPherson and Paul Paschal 
-
-4. Biography (110 words)
-
-Simon Ellis works with practices of choreography, filmmaking and dance. He was born in the Wairarapa in Aotearoa New Zealand, but now lives in the UK and works at the Centre for Dance Research, Coventry University. He grew up in a family where conversations about human dignity, consumerism and even technology were common. These conversations have shaped his values as an artist, and underpin much of what his practice is about, and how it is conducted. Simon was awarded the first ever practice research PhD at the University of Melbourne (2005) and his expertise is on non dual awareness in dance improvisation and the epistemic possibilities of practice research. www.skellis.net
-
-## questions / notes for Qing
-- the translation should not be shared before I present it. That would not feel right
-- how will the translation work on the day? 
-- who is doing the translation?
-
 
 # The many practices of practice research
 
 ## Introduction: a life-changing moment
 
-It is late 1999 and I am standing in a night club in Melbourne watching a contemporary dance performance. A former university teacher of mine comes over and says, "Simon, the University of Melbourne now allows PhD students to submit artistic work as part of PhDs". That moment changed my life and it is why I am here with you now.
+It is late 1999 and I am standing in a night club in Melbourne watching a contemporary dance performance. A former university teacher of mine comes over and says, "Simon, the University of Melbourne now allows PhD students to create artistic work as part of PhDs". That moment changed my life and it is why I am here with you now.
 
 Good evening everyone and thank you for this tremendous honour to talk with you today. I bring you greetings, respect and kindness here from the Centre for Dance Research at the University of Coventry in England. 
 
@@ -44,25 +20,25 @@ My expertise is in dance and choreography, but also in the various research meth
 
 There are good things and bad things about practice research. Like any research method it is has limitations and possibilities, positive aspects and negative aspects. It is also -- again like all research methods -- partial; partial in the claims that can be made based on its use; partial in how it helps us understand different phenomena. 
 
-This evening I want to argue for the value of practice research, but I want to argue in good faith. By that I mean I want to address very directly what practice research affords or makes possible, and where it fails. To make these good faith arguments I am going to adopt an expansive view on the nature of research in higher education to help communicate some of the epistemic possibilities of practice research. 
+This evening I want to argue for the value of practice research, but I want to argue in good faith. By that I mean I want to directly address what practice research affords or makes possible, and where it fails. 
 
-I am also aware that my talk is the third of three presentations you have attended about practice research. Therefore, some of these ideas might be becoming more familiar to you. Perhaps with these three different perspectives -- from my colleagues Vida Midgelow on the 12th of May and Rosemary Kate Martin on the 19th May, and me here today -- your understanding of practice research will be developing and clarifying. Or perhaps you will see another side of practice research, as if holding a crystal -- an object with many surfaces that looks different depending on which surface you observe. 
+I am also aware that my talk is the third of three presentations you have attended about practice research. Some of these ideas might be becoming more familiar to you. Perhaps with these three different perspectives -- from my colleagues Vida Midgelow on the 12th of May and Rosemary Kate Martin on the 19th May, and me here today -- your understanding of practice research will be developing and clarifying. Or perhaps you will see another side of practice research, as if holding a crystal -- an object with many surfaces that looks different depending on which surface you observe. 
 
 I am going to talk for about 40 minutes. I am sure that is more than enough time to get into the heart of these ideas, but also it will leave time for questions and conversations at the end.
 
 ## Constructing the methods of an unknown research process
 
-I will begin at my beginning in practice research. It was before I had even heard of what was then called practice-led research or practice-based research. 
+I begin at _my_ beginning in practice research. It was before I had even heard of what was then called practice-led research or practice-based research. 
 
 In 1999 the University of Melbourne in Australia changed its submission policy for PhDs so that creative work could contribute up to 50% of an entire PhD submission. I was 31 years old at the time. 
 
-Up until then artists working in the academy -- or academics interested in the nature of arts practices -- tended to append their work onto other disciplines: psychology, sociology, education. PhDs in these circumstances made arts practice the _object_ of the research, and applied discipline-specific methods to analyse and understand those phenomena. I'll return to this idea of the object of research -- a question of ontology -- later in this presentation. 
+Up until then artists working in the academy -- or academics interested in the nature of arts practices -- tended to append their work onto other disciplines: psychology, sociology, education. PhDs in these circumstances made arts practice the _object_ of the research, and applied discipline-specific methods to analyse and understand those phenomena. I'll return to this idea of the object of research later in this presentation. 
 
-And so there I was in late 1999, working as a freelance dancer and choreographer with a Master's degree in physics (specifically biomechanics and Newtonian mechanics), and the University of Melbourne appeared to be gifting me an opportunity: I could develop PhD research that included my artistic practice and that practice could comprise up to 50% of the PhD including how it was presented -- its outputs.
+And so there I was in late 1999, working as a freelance dancer and choreographer with a Master's degree in physics (specifically biomechanics and Newtonian mechanics), and the University of Melbourne appeared to be gifting me an opportunity: I could develop PhD research that included my artistic practice, and practice outputs could be up to 50% of the PhD.
 
-In March 2000 I started my practice research PhD; I was the first such student at the University of Melbourne. Being first in any institutional process is both a blessing and a curse. There were, more or less, no rules to follow and help guide me and ... well ... there were no rules to follow! I was free to do something but no one really knew what, perhaps other than making an art work. My supervisors and the academic team did not really know how the artistic research process was meant to happen except that we understood that I needed to find a path. The University's PhD regulations had existed for a long time and were built on a particular world of epistemic assumptions that had language like: research protocols, subjects (i.e. participants), data collection, and data analysis.
+In March 2000 I started my practice research PhD; I was the first such student at the University of Melbourne. Being first in any institutional process is both a blessing and a curse. There were, more or less, no rules to follow and help guide me and ... well ... there were no rules to follow. I was free to do something but no one knew what, perhaps other than making an art work. My supervisors and the academic team did not know how the artistic research process was meant to happen except that we understood that I needed to find a path. The University's PhD regulations had existed for a long time and were built on a particular world of epistemic assumptions that had language like: research design and protocols, subjects (i.e. participants), data collection, and data analysis.
 
-That was my PhD world for those few years -- coming to grips with an unknown research process as I was constructing the methods around me. It was discombobulating yet it laid the foundations for me to think deeply about what it means to come to know through artistic practice, how we come to know and perhaps even what we might come to know. I remember a Professor of mine in the very early 1990s in New Zealand -- his name was Professor L.R.T. Williams -- used to ask us that most elegant of epistemic questions: "_How_ do we know _that_ we know _what_ we know?"
+That was my PhD world for those few years -- coming to grips with an unknown research process as I was constructing the methods around me. It was discombobulating yet it laid the foundations for me to think deeply about what it means to come to know through artistic practice, how we come to know and perhaps even _what_ we might come to know. I remember a professor of mine in the early 1990s in New Zealand -- his name was Professor L.R.T. Williams -- he used to ask us that most elegant of epistemic questions: "_How_ do we know _that_ we know _what_ we know?"
 
 ## Invisible metaphors
 
@@ -72,13 +48,11 @@ Borgdorff's idea reveals an important epistemic assumption that usually we take 
 
 > a field of objects to be endlessly manipulated, optimized, and exploited. The world appears to us chiefly as raw material for our own projects. It is there primarily to be used and transformed to serve our purposes [@sacasas-2022-two n.pag.].
 
-This is an epistemic stance to the world of objects. It is no coincidence that in the English language we speak of research _findings_. But 'findings' is a metaphor designed to concretise research processes and outcomes: that there is something out there to be found. Indeed, 'findings' is a very Western idea built during the period of time now known as the European enlightenment. Think too of the metaphorical implications of that word: enlightenment. To enlighten. We shine lights on objects 'out there' -- we illuminate them so that human-kind might become enlightened. These are big metaphors; God-like even: lightness and darkness ... not so far from good and evil. These metaphors shape the methods we use and the technologies we develop to deploy those methods. Our methods and their metaphors have become the air we breathe in universities. The technologies are the knives we wield to dissect the objects of our curiosity, our attention. Yet what is most powerful about metaphors is that we forget where they came from and what messages they convey about how we see the world and what it means to know and understand. They become invisible. 
+This is an epistemic stance to the world of objects. It is no coincidence that in the English language we speak of research _findings_. But 'findings' is a metaphor designed to concretise research processes and outcomes: that there is something out there to be found. Indeed, 'findings' is a strongly Western idea reinforced during the period of time now known as the European enlightenment. Think too of the metaphorical implications of that word: enlightenment. To enlighten. We shine lights on objects 'out there' -- we illuminate them so that human-kind might become enlightened. These are big metaphors; God-like even: lightness and darkness ... not so far from good and evil. These metaphors shape the methods we use and the technologies we develop to deploy those methods. Our methods and their metaphors have become the air we breathe in universities. The technologies are the knives we wield to dissect the objects of our curiosity, our attention. Yet what is most powerful about metaphors is that we forget where they came from and what messages they convey about how we see the world and what it means to know and understand. They become invisible. 
 
 ## The butcher's dance
 
-I am going to recount a story that you will know very well. It is the story of the very good butcher Pao Ding as told in the Zhuangzi (莊子) in the 4th century BC. Please forgive my terrible Mandarin accent and also my hubris for bringing a story that has emerged from Chinese culture back to you in China. I hope I am not committing a cultural faux pas. But I want to remind you of this story because I think contained in it is the essence of why practice research matters in higher education and advanced research, and this essense has to do with phenomenology, qualia and how ineffable experiences might be shared. 
-
-The story is translated from Chinese into English by Burton Watson, and then back to you into Mandarin by xx. This story is now well traveled in a linguistic sense. 
+I am going to recount a story that you will know well. It is the story of the very good butcher Pao Ding as told in the Zhuangzi (莊子) in the 4th century BC. Please forgive my terrible Mandarin accent and also my hubris for bringing a story that has emerged from Chinese culture back to you in China. I want to remind you of this story because I think contained in it is the essence of why practice research matters in higher education and advanced research, and this essence has to do with phenomenology and how ineffable experiences might be shared. 
 
 Here it is.
 
@@ -94,13 +68,9 @@ Here it is.
 
 > “Excellent!” said Lord Wenhui. “I have heard the words of Butcher Ding and learned how to care for life!” [@able-2020-dexterous n.pag.]
 
-There are, as you know better than I, many ways to interpret this story: as aesthetic mode of being in the world; as method of cultivation that realizes the unity of subject and object; as a transformation of the self from a ‘human mechanism’ to a ‘natural mechanism’; and, of course, as caring for life (yangsheng 養生) [@turner-2023-yangsheng].
+There are, as you know better than I, many ways to interpret this story: as aesthetic mode of being in the world; as a method of cultivation that realizes the unity of subject and object; as a transformation of the self from a ‘human mechanism’ to a ‘natural mechanism’; and as caring for life (yangsheng 養生) [@turner-2023-yangsheng].
 
-There is also the distinction between the Dao and Qi in the story. There is the knife as Qi: the technical object wielded to carve the ox-as-object. And there is the Dao (or 'the way' as it is translated into English) as expressed or performed by the Butcher [@hui-2017-cosmotechnics n.pag.]. 
-
-> While devices tend toward technological availability, what things provide tend *not* to be instantaneous, ubiquitous, safe, or easy. The difference between a thing and a device is a function of the sort of engagement that is required of user. The difference is such that *user* might not even be the best word to describe the person who interacts with a thing. In [another context](https://substack.com/redirect/0508aa54-12e6-40bd-97b4-8b2de815c9cc?j=eyJ1IjoiYXZ6eDQifQ.G0OEO2hYU5EfmDn6Y1N-lMJfqyCMC6azYH_trtWPtnc) , I’ve suggested that *practitioner* might be a better way of putting it, but that does not always yield elegant phrasing. ([View Highlight](https://read.readwise.io/read/01h09qmyg6z0cpzea2pw4jyb51))
-
-- from Sacasas why an easier life is not necessarily happier.
+There is also the distinction between the Dao and Qi in the story. There is the knife as Qi: the technical object wielded to carve the ox-as-object. And there is the Dao (or 'the way' as it is translated into English) as expressed or practiced by the butcher [@hui-2017-cosmotechnics n.pag.]. 
 
 Perhaps in Western psychology Master Zhuang's story most closely aligns with Csíkszentmihályi's concept of flow [@csikszentmihalyi-2009-flow]. The human experience of flow is common. If you have played sport to a high level you will have had experiences of flow. If you have designed software you will have had experiences of flow. Almost any human endeavour which requires skill and attention affords the possibility of experiencing flow states. The philosopher Jay Garfield describes flow states like this: 
 
@@ -110,96 +80,103 @@ As an aside, there is a strong connection here with Heidegger's term Gelassenhei
 
 But what of our understanding of the very good butcher Pao Ding? 
 
-We could do scientific research into his work. We might focus on the physics of his actions, the physical structure of the ox, the forces that hold the ox together and the forces required to overcome the ox's anatomy. We might learn about torque, pressure, potential energy and kinetic energy specific to that system. These might all be useful things to understand. They might help us prevent butchers from overwork, or how to improve the quality of knives or the environments that butchers work in. All useful things. 
+We could do scientific research into his work and methods. We might focus on the physics of his actions, the physical structure of the ox, the forces that hold the ox together and the forces required to overcome the ox's anatomy. We might learn about torque, pressure, potential energy and kinetic energy specific to that system. These might all be useful things to understand. They might help us prevent butchers from overwork, or how to improve the quality of knives or the environments that butchers work in. All useful things. 
 
 The philosopher Keith Frankish warns that physics does not tell us anything about what something is like in itself. What is more, he writes that it never could "since its conceptual resources -- mathematical concepts, together with the concepts of causation and spatiotemporal position -- are suitable only for describing structures and processes, not intrinsic qualities" [@frankish-2016-why n.pag].
 
 In other words, physics would tell us nothing about the experience of the butcher as he came to understand the Dao through practice.
 
-Perhaps a psychological study would be more useful? In this case the butcher's psychology -- his emotions, motivations, perceptions or even the state of flow -- would become the object of the scientific investigation. But such a psychological account would tell us little about the phenomenal experience of the butcher as he came to understand the Dao through practice. 
+Perhaps a psychological study would be more useful? In this case the butcher's psychology -- his emotions, motivations, perceptions or even the state of flow -- would become the object of the scientific investigation. But such a psychological account would also tell us little about the phenomenal experience of the butcher as he came to understand the Dao through practice. 
 
-What then of the butcher's experience as experienced by the butcher? The first-person experience. The "I". The subjective. What if the butcher were a researcher as well, with his _emergent experience through practice_ the object of that research? Are there things to be understood differently about human endeavour and human experience from the work he does (or makes)? Here is the heart of practice research, a heart that shares much (but not everything) with phenomenology. Practice research enables artist-researchers to develop understanding through practice and then to seek ways to share and communicate that understanding. 
+What then of the butcher's experience as experienced by the butcher? The first-person experience. The "I". The subjective. What if the butcher were a researcher as well, with the object of his research being his _emergent experience through practice_? Are there things to be understood differently about human endeavour and human experience from the work he does (or makes)? Here is the heart of practice research, a heart that shares much (but not everything) with phenomenology. Practice research enables artist-researchers to develop understanding through practice and then to seek ways to share that understanding. 
 
 ## The bifurcated product
 
-I hope that is clear. I hope it is clear because while I think the fundamental principles of practice research are more or less equivalent to other research fields, there is one difference. It is a difference that has been with us since the early years of practice research in the UK. It is about the writing that accompanies artistic practice research.  
+I think the fundamentals of practice research are more or less the same as other research fields, except for one obvious difference. It is a difference that has been with us since the early years of practice research in the UK. It is about the writing that accompanies artistic practice research.  
 
-Here is Angela Piccini writing online in the northern autumn of 2002:
+Here is Angela Piccini writing online in 2002:
 
 > Must [practice research] include some form of disseminable reflection? or is the practice in performance sufficient to stand as research output? [Piccini in @thomson-2003-practice p.161]
 
-The disseminable reflection that Piccini refers to is called "complementary writing" [-@nelson-2013-practice p.11] by UK scholar and practice research expert Robin Nelson, and is described as a "research narrative" [@bulley-2021-report p.27] in the Practice Research Action Group's _Practice Research Report_ here in England. Although the written component of practice research started out as a means to to distinguish 'art' from 'artistic research' [@magee-2012-introduction], such writing is now hegemonic in providing something akin to what Michael Biggs and Daniela Büchler call "a single unified answer" [-@biggs-2011-communities p.91] to a research problem or inquiry. 
+The disseminable reflection that Piccini refers to is called "complementary writing" [-@nelson-2013-practice p.11] by UK scholar Robin Nelson, and is described as a "research narrative" [@bulley-2021-report p.27] in the Practice Research Action Group's _Practice Research Report_ here in England. Although the written component of practice research started out as a means to distinguish 'art' from 'artistic research' [@magee-2012-introduction], such writing is now hegemonic in providing something akin to what Michael Biggs and Daniela Büchler call "a single unified answer" [-@biggs-2011-communities p.91] to a research problem or inquiry. 
 
-In other words, the "provisional" [@schwab-2019-experimental p.166] practice artifact or outcome of practice research embodies a "plurality of experiences" [@biggs-2011-communities p.91] and "unfinished thinking" [@borgdorff-2012-conflict p.194], while the written narrative hints at a singular answer. The contrasting language of "unified answer" and "unfinished thinking" reflects the divergent epistemic affordances of art practices and writing-about art practices [@ellis-2018-that]. Nevertheless, the written research narrative is as consistent and concrete a component of practice research as one can imagine, even if its form-content is wildly variable. 
+In other words, the "provisional" [@schwab-2019-experimental p.166] practice artifact or outcome of practice research embodies a "plurality of experiences" [@biggs-2011-communities p.91] and "unfinished thinking" [@borgdorff-2012-conflict p.194], while the written narrative hints at a singular answer. The contrasting language of "unified answer" and "unfinished thinking" reflects the divergent epistemic affordances of art practices and writing-about art practices [@ellis-2018-that]. Nevertheless, the written research narrative is as consistent and concrete a component of practice research as one can imagine. 
 
-The debate in practice research around the nature of the written research narrative that accompanies the art underpins what the Australian artist-scholar Paul Magee calls the "bifurcated product" [@magee-2012-introduction p.3]. The bifurcated product is, in simple terms, the artwork and the writing about the artwork and this bifurcation maps on to the idea that practice research actually has two audiences. 
+The debate in practice research around the nature of the written research narrative that accompanies the art underpins what the Australian artist-scholar Paul Magee calls the "bifurcated product" [@magee-2012-introduction p.3]. The bifurcated product is the artwork and the writing about the artwork, and this bifurcation maps on to the idea that practice research has two different audiences. 
 
 In _The Conflict of the Faculties_ (2012) the Dutch scholar Henk Borgdorff states that "[practice] research addresses itself both to the academic forum and to the forum of the arts" [@borgdorff-2012-conflict p.167], and that it is "directed first of all to the art world" [@borgdorff-2012-conflict p.167]. What does he mean by this? Borgdorff implies that practice research projects commonly consist of two outputs: the artwork or practice artifact, and the research narrative that frames or contextualises the artwork. Borgdorff writes plainly: "a discursive justification of the research will be necessary with the academic discourse in mind" [@borgdorff-2012-conflict p.167].
 
-The responsibility to these two forums or audiences that Borgdorff describes is complex, although how an artist presents their work to the artistic community has a longer history and is likely more familiar. An artist understands the expectations, economies, currencies, processes, codes and needs of the artistic world to which they belong. The artwork will exist somewhere along various continuums: seen or not seen; sold or not sold; reviewed kindly or not reviewed at all; it will be fashionable or not fashionable; liked or not liked; talked about or not talked about; remembered or forgotten. How the work was made -- including even the nature of its underlying practices -- is usually irrelevant, and what we might know or understand differently as a result of the art work are rarely discussed directly. 
+The possibility that when we do practice research we must keep two distinct audiences in mind makes the method unique among research methods. It would be akin to a medical researcher presenting their experiments (or practice) to one community, and their research narrative (or writing) to an entirely different community. Strange indeed.
 
 ## Practice research is not the same phenomenology (but they are good friends)
 
-- add here about weakness is also a possibility. qualia -- phenomenal experience. the realm of phenomenology. but with a difference. add stuff from Bohr etc from [[interpretation remains present]]
+When I talked about the very good butcher Pao Ding, I asked how best to understand the phenomenal experience of Ding as he came to understand and embody the Dao through practice. Phenomenology is the study of experience and consciousness. The word stems from the Greek which means _that which appears_. Ding's phenomenal experience (or rather "experience of phenomena") is also embodied and embedded. That is, through the practice, he has come to deeply embody the actions, and his physical understandings are embedded in the world beyond the limits of his person. This is a complex system of practice including at the very least the ox, the knife and Pao Ding's body. Perhaps there is even something particular to what it feels like _to be_ Ding as a butcher-practitioner? This is the realm of qualia: the subjective, qualitative properties of experiences.
+
+Yet practice research is not the same as phenomenology, and the difference is important. One key difference is that in practice research we seek to share the practice -- or elements of the practice -- in some way, rather than simply describe and interpret the practice through writing the way a phenomenologist would. If Pao Ding were an artist-scholar then part of his work would somehow be to give insight into his practice through the practice itself. Perhaps this would be a performance of his working with an ox. Perhaps it would be a series of photographs that help the viewer to understand what the practice is and what it says about human experience and understanding. The experience of witnessing Ding's practice (through whatever means) would afford particular understandings in the witness. We might not know what those understanding will be until we try. 
 
 ## Principles and limitations of practice research
 
-Up to now in this presentation I have introduced five key ideas. The first is about epistemology, and how the question of _how we know that we know what we know_ is critical to understanding all research methods. The second is the invisible metaphors of research, and how our understanding of the world is shaped by the language we use. These metaphors help us test our own assumptions about how we see the world, and how the world fits to (or confirms) the eyes we use. The third is the well-known story of the very good butcher Pao Ding and the ways in which we might study his craft and practice, including the possibility that Ding's embodied subjective phenomenal experience is a vital part of our understanding. The fourth is the split between art making and writing in practice research and how this split mirrors the idea that practice research has two audiences: the art world and the academic world. Finally, the fifth is how practice research builds on phenomenological practices but then diverges because of how it is shared with the world (both with the public and the research community). 
+Up to now in this presentation I have introduced five key ideas. The first is about epistemology, and how the question of _how we know that we know what we know_ is critical to understanding all research methods. The second is the invisible metaphors of research, and how our understanding of the world is shaped by the language we use. These metaphors help us test our own assumptions about how we see the world, and how the world fits to (or confirms) the eyes we use. The third is the well-known story of the very good butcher Pao Ding and how we might study his craft and practice, including the possibility that Ding's embodied subjective phenomenal experience is a vital part of our understanding. The fourth is the split between art making and writing in practice research and how this split mirrors the idea that practice research has two audiences: the art world and the academic world. Finally, the fifth is how practice research builds on phenomenological practices but then diverges because of how it is shared with the world (both with the public and the research community). 
 
-Now, I turn my attention to a more overarching view of practice research by describing what I think of as eight key principles. These principles also touch on some of the limitations of practice research. I will then finish this presentation by directly addressing the questions that were given to me some months ago as a guide to shape this presentation. 
+Now, I turn my attention to a more overarching view of practice research by describing what I think of as eight key principles. These principles also touch on some of the limitations of practice research. 
 
 ### 1. The principle of mess
 
-We normally associate research processes with words like methodical and rigorous, and most certainly not with the term _ad hoc_. However, in _The Mangle of Practice_ (1995) the sociologist and historian of science Andrew Pickering describes the practice and culture of science as an unpredictable "dance of agency" [@pickering-1995-mangle p.21]. Pickering's goal was to make a case that scientific practice represents a "dialectic of resistance and accommodation" [@pickering-1995-mangle pp.22-23] and that it is overwhelmingly ad hoc.
+We normally associate research processes with words like methodical and rigorous, and most certainly we do not associate research processes with the term _ad hoc_. In _The Mangle of Practice_ (1995) the sociologist and historian of science Andrew Pickering describes the practice and culture of science as an unpredictable "dance of agency" [@pickering-1995-mangle p.21]. Pickering's goal was to make a case that scientific practice represents a "dialectic of resistance and accommodation" [@pickering-1995-mangle pp.22-23] and that it is overwhelmingly ad hoc.
 
-Something ad hoc is makeshift; an emergency; it is improvised, impromptu and expedient. As a transitive verb it is to "practise or create by using ad hoc measures, typically without recourse to method, policy, etc.; to assemble or organize chaotically".[@noauthor-2021-ad]
+Something ad hoc is makeshift; an emergency; it is improvised, impromptu and expedient, It is to "practise or create by using ad hoc measures, typically without recourse to method, policy, etc.; to assemble or organize chaotically".[@noauthor-2021-ad]
 
-To work in an ad hoc manner in artistic practice -- as it is in science -- is a feature not a bug. This is the principle of mess. The principle of mess does not discount the importance of methods and rigour. Rather, it draws mess (or practicing in an ad hoc manner) into a dialectic with rigour. 
+To work in an ad hoc way in artistic practice -- as it is in science -- is a feature not a bug. This is the principle of mess. The principle of mess does not discount the importance of methods and rigour. Rather, it draws mess (or practicing in an ad hoc way) into a dialectic with rigour. 
 
 ### 2. The principle of many practices
 
-children of the soil? -- the many practices
+When artists (and artist-scholars) talk about having _a_ practice, the indefinite article "a" is misleading. No practice is singular. I can say that my practices is dance but underneath that broad or unspecific term are many types of training, desires, movement curiosities, etc. Practices are built on long histories and traditions and often are re-built in real time. And practice research brings these many practices into focus because it asks us how our understanding and experience is changed because of them. The principle of many practices acknowledges that underlying any singular practice are many practices, and it is partly why principle 1, the principle of mess and its feature of ad hoc-ness, exists.  
 
 ### 3. The principle of strange tools
 
-Alva Noë, 
+The American philosopher Alva Noë wrote a book in 2015 called _Strange Tools: Art and Human Nature_ and it he makes a compelling case for how the function of art is to "expose the concealed ways we are organized by the things we do" [@noe-2015-strange Chapter 2 n.pag]. Its role is to drag the tools of human endeavour out of their normal context, and to make them strange. By making them strange it helps make these tools more and differently visible; we stop taking them for granted (even if briefly). Noë writes: "We make strange tools to investigate ourselves" [@noe-2015-strange Chapter 4 n.pag.]. Art helps us see differently.
 
-> And yet they all do basically the same job: they expose the concealed ways we are organized by the things we do [@noe-2015-strange Chapter 2 n.pag].
-
-> Art is interested in removing tools (in my extended sense) from their settings and thus in making them strange and, in making them strange, bringing out the ways and textures of the embedding that had been taken for granted. A work of art is a strange tool, an alien implement. We make strange tools to investigate ourselves [@noe-2015-strange Chapter 4 n.pag.].
+Now, Noë is not talking about practice research here so I need to be careful He's just talking about regular old art that has existed out of universities for as long as we have been homo sapiens. But I propose that practice research makes this wish for strangeness an explicit function of the methods: to make visible that which is invisible. And the next principle -- the principle of two (interweaving) formats is critical to this function.  
 
 ### 4. The principle of two (interweaving) formats
 
-tension between artistic outputs (unfinished thinking: open) and discourses re that 'unfinished-ness' (seemingly more tangible?)
+I've discussed this earlier without calling it a principle. In practice research there is the unfinished and open thinking of the artistic outputs and the seemingly more tangible and finished discursive (written) elements. At their best, these two formats interweave to expand understanding in the research community. Yet they are often in tension and there is real danger that the written narrative closes or locks down the epistemic potential of the artistic outputs. This principle is a reminder to the artist-scholar to respect and work with (or against) the ways in which understanding is able to be communicated.
 
 ### 4. The principle of truth and limited claims
 
--- like epistemic humility (Ingold: "There is danger in conflating truth and objectivity. It is the search for truth that underpins research. Search and search again. Research is continually conducted in the dark.") [@ingold-2018-search n.pag.] What if any claims (or new insights) can be made and on what basis? 
+Even given the principle of mess and the epistemic openness of how art functions, the truth matters. Anthropologist Tim Ingold writes that:
 
-> An academic claim--a claim you make in an argument--is considered debatable or up for inquiry.
+> There is danger in conflating truth and objectivity. It is the search for truth that underpins research. Search and search again. Research is continually conducted in the dark [@ingold-2018-search n.pag.]. 
 
-Nordquist, readwise 
-
--- but where and when are the debates happening? this is a serious problem in practice research. One I have writen about in (forthcoming)
+Yet in my experience the danger of epistemic openness without rigorous and humble searching and re-searching means that artist-scholars are liable to fall into the trap of saying anything they want about their artistic practices. In practice research what if any claims or new insights can be made and on what basis? What are the limits of such claims? An academic claim -- a claim made in an argument -- "is considered debatable or up for inquiry" [@nordquist-2020-what n.pag.]. But I do not see such debates happening in practice research. There is an epistemic vicious circle in which there are no limits to the claims made on behalf of practice research, which means there are no grounds to debate such claims, which means there are no limits to the claims, etc. Perhaps this principle demands epistemic humility on the part of artist-scholars. That in reaching for the truth we sidestep the hubris of claim-based certainty? 
 
 ### 5. The principle of futurity
 
-(or emergence?): many possible futures (<https://practiceasresearchblog.wordpress.com/2021/04/16/many-possible-futures/>) [@ellis-2021-many] and Wilson and van Ruiten: "“orientation to the future” in which “the as yet un-thought may become thought; and that new modes and styles of sense, perception, expression and subject construction might yet emerge and re-shape our worlds."[@wilson-2013-share p.265]
+The principle of futurity recognises that one of practice research's strengths rests on the newness made possible by the many possible futures of artistic practice [@ellis-2021-many]. The principle of futurity is close to what is called speculative or blue-sky research. Wilson and van Ruiten write of "orientation to the future" in which "the as yet un-thought may become thought; and that new modes and styles of sense, perception, expression and subject construction might yet emerge and re-shape our worlds" [@wilson-2013-share p.265]. This principle is in direct and productive tension with the principle of truth and limited claims. 
 
 ### 6. The principle of availability
-responsibility to making our work available to others (trumps artistic principles!); same as Haseman's number 5
+
+Many artist-scholars develop research that is difficult to share or that resists documentation. The principles of futurity, strange tools and mess assist the artistic-scholar in finding themselves in such strong places. Yet the principle of responsibility states that making our work available to others trumps artistic principles. Once again, there is productive tension here. 
 
 ### 7. The principle of the possibility of failure
 
-(rarity of this / epistemic humility) (akin to Popper's falsifiability??) see [[interpretation remains present]] -- very useful for earlier in talk about physics as well
+The principle of the possibility of failure is a close friend to the principle of truth and limited claims. It acknowledges the seeming rarity of failure in practice research, as if practice research always seems to achieve what the artist-researchers said it would. This is absurd. The Chilean biologist, philosopher and neuroscientist wrote that: 
+
+> no methodological approach to experience is neutral, it inevitably introduces an interpretative framework into its gathering of phenomenal data [@varela-1999-firstperson p.14].
+
+Varela's statement is vital. By embracing the non-neutrality of any research method we are able to recognise and articulate the limits of its value and success. Put simply, failure must be possible.
 
 ### 8. The principle of wonder
 
-- [[L. M. Sacasas - Baking Bread, Finding Meaning#^b66a90]]
+This principle is new for me so I am not sure about it. It is taken directly from the poet Mary Ruefle, who says that 
+
+> I would rather wonder than know. [...] I think wondering is a way of inhabiting and lingering. There seems to be more dwelling. To dwell, inhabit, and linger. [...] We tend to, as human beings, our impulse is, once we know, once we have the answer, we move on. [Ruefle, in @naimon-2015-mary n.pag.] 
+
+The principle of wonder resists knowing. It asks to immerse ourselves in uncertainty and not-knowing, and to hold off from producing. It is where human beings make new things possible, and my suspicion is that practice research is uniquely suited to wondering as opposed to knowing.
 
 ## The questions that shaped this presentation
 
-When I was first approached to talk with you this evening, I was given three questions to help shape my thinking. I'm going to finish by directly addressing these questions. 
+When I was first approached to talk with you this evening, I was given three questions to help shape my thinking. I'm going to finish my presentation by directly addressing these questions. 
 
 ### Why should artists require or need a PhD?
 
@@ -227,30 +204,8 @@ This is a complex question because I have a hunch that some kinds of artistic pr
 
 Thank you everyone for your presence and attention. It has been a tremendous honour for me to be here with you online today. I now look forward to receiving your thoughts and questions, and I hope that we can have a lively, interesting and useful conversation.
 
+Ruefle quotes originally in [[L. M. Sacasas - Baking Bread, Finding Meaning#^b66a90]]
 
 
-# Edit bin
 
-In 1739 the Scottish philosopher David Hume wrote this delightful and lucid text that speaks directly to  
-
-> For my part, when I enter most intimately into what I call _myself,_ I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never catch _myself_ at any time without perception, and never can observe anything but the perception.[David Hume in @garfield-2022-losing Chapter 2 Why You Have No Self, n.pag.]
-
-> Physics doesn't say what an electron, or any other basic particle, is like in itself, _intrinsically_. And, arguably, it never could, since its conceptual resources -- mathematical concepts, together with the concepts of causation and spatiotemporal position -- are suitable only for describing structures and processes, not intrinsic qualities [@frankish-2016-why n.pag].
-
-The world out there is the object of our curiosity. It is where our findings are grasped and found. These are powerful metaphors, but 
-
-direct experience -- concept of hand; qualia 
-phenomenal experience ... pre-abstraction. 
-
--- it is the opposite of the epistemic humility that I believe is fundamental to developing a strong research culture in any institution. But I do this because contained in the story is the cultural faux pas.
-
-the "interpretative perspective" and states that in this kind of research the object is 
-
-in  suspect that these limitations and possibilities depend more on how the methods are used rather than 
-
-It is also partial in I tend to think 
-
-- 40 minutes (just tell them how long it will take)
-- good faith: there are good things and bad things about practice research. It is, like any research, partial. It has limitations. steel man. 
-- steel man argument
 
