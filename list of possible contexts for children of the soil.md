@@ -6,7 +6,7 @@ type: "evergreen"
 
 # list of possible contexts for children of the soil
 
-_previous note:_ [[artistic research and ecosystems]]
+_previous note:_ [[ecosystemic practice-research (for the benefit of others)]]
 
 
 

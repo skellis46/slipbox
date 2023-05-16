@@ -6,7 +6,7 @@ type: "evergreen"
 
 # habeus corpus
 
-_previous note:_ [[artistic research and ecosystems]]
+_previous note:_ [[ecosystemic practice-research (for the benefit of others)]]
 
 The term literally means 'that you have the body'. 
 

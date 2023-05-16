@@ -7,7 +7,7 @@ type: "literature"
 
 # Tim Fox - A Self-awareness of Water
 
-_previous note:_ [[artistic research and ecosystems]]
+_previous note:_ [[ecosystemic practice-research (for the benefit of others)]]
 
 - quoting Jonathan Rose re ecological self:
 
@@ -19,7 +19,7 @@ _previous note:_ [[artistic research and ecosystems]]
 - holons from _The Practice of the Wild_ (Snyder), see also <https://en.wikipedia.org/wiki/Holon_%28philosophy%29>
 - story as holonic emergent: "We humans, as an organism can only understand our place within the Holarchy (or anywhere) through [the story's] lens." (p.203) "Story itself is thus another definitive aspect of our identities." (p.203)
 - flight as drawn-out and controlled fall (p.203)
-- active engagement of healthy and happy memories of wild places become meaningful aspects of our identities. "... the more the land you live in lives in you, the more you are the land." [[du Cann - My body, the ancestor]]; [[compost for the future]]; [[artistic research and ecosystems]]
+- active engagement of healthy and happy memories of wild places become meaningful aspects of our identities. "... the more the land you live in lives in you, the more you are the land." [[du Cann - My body, the ancestor]]; [[compost for the future]]; [[ecosystemic practice-research (for the benefit of others)]]
 - "What makes the continuum of bodies identifiable as a single organism is the consistency of the memories that pass through all the iterations." (p.205) (more on memory here)
 - stories must be given into care of our "other selves" - the next generation (p.205)
 

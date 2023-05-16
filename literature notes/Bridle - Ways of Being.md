@@ -88,7 +88,7 @@ _previous note:_
 - decentring humans is vital in more-than-human world
 - acknowledge other worlds and the worlds of others is key to "disentangling ourselves from our greatest social and technological deception, and re-entangling ourselves with a more meaningful and compassionate cosmology."
 - understanding value of interpretation, situated knowledge and trained judgement
-- friction caused by attempting to force the world to conform to our portrayal of it - in [[artistic research and ecosystems]] perhaps this is useful in the sense of how artistic research attempts to force theory to conform to the work we make?? (long draw!)
+- friction caused by attempting to force the world to conform to our portrayal of it - in [[ecosystemic practice-research (for the benefit of others)]] perhaps this is useful in the sense of how artistic research attempts to force theory to conform to the work we make?? (long draw!)
 - fallacy of one world for all (instead there are multiplicity of worlds held in common)
 - we share a world
 - twin hazards in thinking of more-than-human world: anthropocentrism and anthropomorphism
@@ -142,7 +142,7 @@ _previous note:_
 - when attention is governed by machines it is attuned to the nanosecond and the breadth of a beam of light; make it difficult to think of others operating at different scales of time and geography
 - phenology concerned with appearance of things in temporal sense
 - phenological mismatch - e.g. our dependence on antagonistic, machinic imaginings of time
-- ecology seeks to find connections between all things -- [[artistic research and ecosystems]] ^2568db
+- ecology seeks to find connections between all things -- [[ecosystemic practice-research (for the benefit of others)]] ^2568db
 - mention of The Overstory science fiction story about aliens landing on Earth who have completely different temporal way of being: they see us as frozen statues
 - _circumnutation_ is to bend or move around in an irregular circle or ellipse
 - nutation is "a mode of expansion which is not reactive, muscular, and domineering, but gentle, expansive and generative. It is through their own attentiveness to their environment that plants have obtained the world."[@bridle-2022-ways n.pag.]

@@ -6,9 +6,9 @@ type: "evergreen"
 
 # the body in artistic research
 
-_previous note:_ [[artistic research and ecosystems]]
+_previous note:_ [[ecosystemic practice-research (for the benefit of others)]]
 
-This note is materials gathered as part of initial thinking for a Dance Research article that was originally called _the body in the anthropocene_ but that is now called [[artistic research and ecosystems]]. That article changed tack away from the what I saw/see as the changing role of the body in practice-research based on human hubris. To find ways to decentralise the body. Below are un-edited notes that were no longer useful for that writing but that might becomes useful for another article about the body in practice-research. 
+This note is materials gathered as part of initial thinking for a Dance Research article that was originally called _the body in the anthropocene_ but that is now called [[ecosystemic practice-research (for the benefit of others)]]. That article changed tack away from the what I saw/see as the changing role of the body in practice-research based on human hubris. To find ways to decentralise the body. Below are un-edited notes that were no longer useful for that writing but that might becomes useful for another article about the body in practice-research. 
 
 > By putting one’s own body and experience forward within a live (arts) space, the artist becomes both object and subject within the frame of the work, and, as a consequence, this situation allows the artist to interrogate and articulate that relationship.[@freeman-2002-writing p.98]
 

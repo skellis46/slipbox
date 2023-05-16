@@ -6,7 +6,7 @@ type: "evergreen"
 
 # breaking off the human from its sustaining conditions
 
-_previous note:_ [[artistic research and ecosystems]]
+_previous note:_ [[ecosystemic practice-research (for the benefit of others)]]
 
 > [W]e have to rethink the human in light of precarity, showing that there is no human without those networks of life within which human life is but one sort of life. Otherwise, we end up breaking off the human from all of its sustaining conditions (and in that way become complicit with the process of precaritization itself).
 

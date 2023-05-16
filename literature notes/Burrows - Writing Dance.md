@@ -60,7 +60,7 @@ A small book containing a series of essays or extracts from previous work.
 ## The dust that accumulates
 
 - introduction re offer to describe insight gained from practice
-- this section excellent for [[artistic research and ecosystems]]
+- this section excellent for [[ecosystemic practice-research (for the benefit of others)]]
 
 > Then might arrive into the room a whole heap of people, placed and times that perhaps start to look more like the accumulated mess it's really been. [@burrows-2022-writing p.42]  
 

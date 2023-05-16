@@ -15,7 +15,7 @@ This note is about an online essay by Hannah Close about systems theory.
 
 > The nature of a system is that is has boundaries, and according to systems theory, these boundaries can be applied to the natural and ‘unnatural’ world (a contested notion). For example, a coral reef is a system, a city is a system, and if we get granular we can also say that a bathtub is a system.
 
-- [[artistic research and ecosystems]]
+- [[ecosystemic practice-research (for the benefit of others)]]
 ---
 
 _original source/found:_ I think through Paul Kingsnorth's substack - but am not sure

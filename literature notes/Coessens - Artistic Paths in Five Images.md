@@ -20,7 +20,7 @@ _previous note:_
 	- 4. p.57 mirrors
 	- 5. p.59 insight - outside
 
-- Coessens writing about the experience of one's body in a mirrored room got me thinking about [[artistic research and ecosystems]]
+- Coessens writing about the experience of one's body in a mirrored room got me thinking about [[ecosystemic practice-research (for the benefit of others)]]
 
 ---
 
