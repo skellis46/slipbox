@@ -8,25 +8,29 @@ tags:
 status-updated: "2022-05-17"
 ---
 
-# The many practices of practice research
 
-## Introduction: a life-changing moment
+
+# _[slide]_ The many practices of practice research
+
+## _[slide]_ Introduction: a life-changing moment
 
 It is late 1999 and I am standing in a night club in Melbourne watching a contemporary dance performance. A former university teacher of mine comes over and says, "Simon, the University of Melbourne now allows PhD students to create artistic work as part of PhDs". That moment changed my life and it is why I am here with you now.
 
-Good evening everyone and thank you for this tremendous honour to talk with you today. I bring you greetings, respect and kindness here from the Centre for Dance Research at the University of Coventry in England. 
+_[slide: blank]_
 
-My expertise is in dance and choreography, but also in the various research methods collectively known as practice research. Practice research goes by other names: artistic research, practice-led research, practice as research, practice-based research. But they are more or less the same thing, and for the purposes of this conversation their differences and different histories are not important. 
+Good evening everyone and thank you for this tremendous honour to talk with you today. I bring you greetings, respect and kindness here from the _[slide]_ Centre for Dance Research at the University of Coventry in England. 
+
+My expertise is in dance and choreography, but also in the various research methods collectively known as practice research. _[slide: blank]_ Practice research goes by other names: artistic research, practice-led research, practice as research, practice-based research. But they are more or less the same thing, and for the purposes of this conversation their differences and different histories are not important. 
 
 There are good things and bad things about practice research. Like any research method it is has limitations and possibilities, positive aspects and negative aspects. It is also -- again like all research methods -- partial; partial in the claims that can be made based on its use; partial in how it helps us understand different phenomena. 
 
 This evening I want to argue for the value of practice research, but I want to argue in good faith. By that I mean I want to directly address what practice research affords or makes possible, and where it fails. 
 
-I am also aware that my talk is the third of three presentations you have attended about practice research. Some of these ideas might be becoming more familiar to you. Perhaps with these three different perspectives -- from my colleagues Vida Midgelow on the 12th of May and Rosemary Kate Martin on the 19th May, and me here today -- your understanding of practice research will be developing and clarifying. Or perhaps you will see another side of practice research, as if holding a crystal -- an object with many surfaces that looks different depending on which surface you observe. 
+I am also aware that my talk is the third of three presentations you have attended about practice research. Some of these ideas might be becoming more familiar to you. Perhaps with these three different perspectives -- from my colleagues Vida Midgelow on the 12th of May and Rosemary Kate Martin on the 19th May, and me here today -- your understanding of practice research will be developing and clarifying. Or perhaps you will see another side of practice research, as if holding a _[slide]_ crystal -- an object with many surfaces that looks different depending on which surface you observe. 
 
 I am going to talk for about 40 minutes. I am sure that is more than enough time to get into the heart of these ideas, but also it will leave time for questions and conversations at the end.
 
-## Constructing the methods of an unknown research process
+## _[slide]_ Constructing the methods of an unknown research process
 
 I begin at _my_ beginning in practice research. It was before I had even heard of what was then called practice-led research or practice-based research. 
 
@@ -38,11 +42,11 @@ And so there I was in late 1999, working as a freelance dancer and choreographer
 
 In March 2000 I started my practice research PhD; I was the first such student at the University of Melbourne. Being first in any institutional process is both a blessing and a curse. There were, more or less, no rules to follow and help guide me and ... well ... there were no rules to follow. I was free to do something but no one knew what, perhaps other than making an art work. My supervisors and the academic team did not know how the artistic research process was meant to happen except that we understood that I needed to find a path. The University's PhD regulations had existed for a long time and were built on a particular world of epistemic assumptions that had language like: research design and protocols, subjects (i.e. participants), data collection, and data analysis.
 
-That was my PhD life for those few years -- coming to grips with an unknown research process as I was constructing the methods around me. It was discombobulating yet it laid the foundations for me to think deeply about what it means to come to know through artistic practice, how we come to know and perhaps even _what_ we might come to know. I remember a professor of mine in the early 1990s in New Zealand -- his name was Professor L.R.T. Williams -- he used to ask us that most elegant of epistemic questions: "_How_ do we know _that_ we know _what_ we know?"
+That was my PhD life for those few years -- coming to grips with an unknown research process as I was constructing the methods around me. It was discombobulating yet it laid the foundations for me to think deeply about what it means to come to know through artistic practice, how we come to know and perhaps even _what_ we might come to know. I remember a professor of mine in the early 1990s in New Zealand -- his name was Professor L.R.T. Williams -- he used to ask us that most elegant of epistemic questions: _[slide]_ "_How_ do we know _that_ we know _what_ we know?"
 
-## Invisible metaphors
+## _[slide]_ Invisible metaphors
 
-I mentioned briefly just a moment ago how before the advent of practice research people interested in researching the arts worked quietly in education, psychology and sociology departments ... and sometimes even in science laboratories. The Dutch scholar Henk Borgdorff calls such research **research _on_ the arts**, which is when the art practice is the _object_ of the research, and that object is "untouched" by the researcher [@borgdorff-2006-debate p.6].
+I mentioned briefly just a moment ago how before the advent of practice research people interested in researching the arts worked quietly in education, psychology and sociology departments ... and sometimes even in science laboratories. The Dutch scholar Henk Borgdorff calls such research _[slide]_ **research _on_ the arts**, which is when the art practice is the _object_ of the research, and that object is "untouched" by the researcher [@borgdorff-2006-debate p.6].
 
 Borgdorff's idea reveals an important epistemic assumption that usually we take for granted when we do research in the university: that there is an object out there, able to be seen and able to be grasped and manipulated by we human subjects. The technologist L.M. Sacasas describes the "modern mode of relating to the world" as if it were:
 
