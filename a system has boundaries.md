@@ -6,7 +6,7 @@ type: "evergreen"
 
 # a system has boundaries
 
-_previous note:_ [[a border is not a boundary]]d
+_previous note:_ [[a border is not a boundary]]
 
 This note is about an online essay by Hannah Close about systems theory.
 
