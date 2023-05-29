@@ -12,6 +12,7 @@ _previous note:_ [[meta-awareness in dance improvisation]]
 
 
 - Note: Thinking about silence improvising and doing [[authentic movement]] and also the power of music.
+- very different from Anil Seth and consciousness being a kind of "controlled hallucination" or even more so with the work of Don Hoffman in which "the world we appear to be navigating is merely a virtual space-time interface, which has evolved to hide the true nature of reality from us" (quote from blurb from "Making Sense of consciousness",. 15 Dec 2022, Making Sense podcast) -- starts to get close to [[panpsychism]]. See also [Hoffman's ted talk](https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is)
 
 ---
 
