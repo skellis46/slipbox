@@ -51,7 +51,7 @@ Biopolitics – chronic and inescapable form is tech. Zuboff. We turned to tech 
 
 > It is about thinking and practicing first as citizens, then as artists, then as dance artists. It is about nuancing our role in these different roles, the intention and aim of our actions – because capitalism thrives on abstraction – having confidence, being able to articulate the importance of what we do, and realising that antagonism and dissensus are necessary ingredients for democracy. (Paramana 91)
 
-- Theory is the greatest of abstractions. How does capitalism thrive on abstraction? Why aren’t we confident? Why can’t we articular the importance of what we do? What kinds of nuances?
+- Theory is the greatest of abstractions. How does capitalism thrive on abstraction? Why aren’t we confident? Why can’t we articulate the importance of what we do? What kinds of nuances?
 
 
 
