@@ -25,11 +25,13 @@ platform: "JDSP"
 
 Started with doubt, scepticism. But in this writing I bring tremendous respect. Respect for those on the edges -- and perhaps all of somatics exists on those edges. 
 
-This is some writing about interoception. But need to get there -- describe thinking behind the line I draw from the claims we make to understanding possible mechanisms for change through somatic practices. Interoception is fashionable, but could act as a striking bridge between different epistemic worlds, different belief systems, and our relationship to the truth. 
+This is some writing about interoception. But need to get there -- describe thinking behind the line I draw from the claims we make to understanding possible mechanisms for change through somatic practices. Interoception is fashionable, but could act as a striking bridge (or anchor, perhaps along with proprioception) between different epistemic worlds, different belief systems, and our relationship to the truth. 
 
 Start with that story of being given credit at VCA for a totally different subject. My mistake as well as theirs. 
 
 ## The claims we make
+
+- [[types of claims]] -- by Nordquist. 
 
 > Your belief in that does not make it so.[@yudkowsky-2012-skill n.pag.]
 
@@ -42,8 +44,7 @@ Any sign of negativity? Or scepticism? Or even just some limits of what is possi
 - could start with list of efficacy just from V1.1? or perhaps a sample (taken at random from every volume?) -- like some kind of spinning wheel that returns a number and I choose that article/issue? 
 - [[possible benefits of somatic practices]]
 - based on going through every article in every issue in JDSP. Not exhaustive in the sense that other claims are made in other journals (e.g. dance and psychotherapy), but it's a start.
-- useful summary at beginning of [[ginot - epistemology of somatics]] -- describes pedagogic, better (more virtuosic) dancing, injury prevention and rehab
--  leavened by occasional humility or caution: "sometimes overzealous and too narrowly optimistic stances towards somatics" (written as a counter to this)[@fortin-2017-looking p.146]
+
 - "And institutionally, we have defined body practice through a need for efficiency, efficacy, and maximum performance."[@green-2007-american n.pag]"
 - describe how rarely (if at all) are mechanisms for change described or discussed. If they are, no sense of evidence. Just because you say it, doesn't make it true.
 
@@ -56,6 +57,7 @@ Any sign of negativity? Or scepticism? Or even just some limits of what is possi
 Add that Ginot describes another rhetorical device which somatics practitioners deploy. This device -- and what it reveals -- has been central to my developing this writing. This is about how somatics uses science.
 
 - JDSP operating at wide-angle (or high?) level. Unsubstantiated claims (and unfalsifiable) 
+- But even using the word (made famous by Karl Popper) likely introduces an epistemic issue for us. That those are not the epistemic grounds on which we here in somatics stand.
 
 
 ## Ginot, science and the validation of somatic practices
@@ -77,7 +79,10 @@ This is simply no longer the case. But the schism still exists on the pages of J
 
 > ... science in somatic discourse represents a form of homogeneous, nonhistoricized, almost eternal truth. In sum, the scientific discourse used in somatic practices is not necessarily a guarantee of the scientific value of the work engaged in, and even less so of the potentially scientific attitude of its author. The function of science is neither to introduce doubt, nor to situate somatics within current scientific debates. Somatics does not depend on traditional scientific procedure that would require the description of experiments, the determination of the limits of validity of an argument, or the possible presentation of contradictory hypotheses. The function of science within somatics is to foster belief.[@ginot-2010-shusterman p.15] ^fd4fbc
 
+It's as if Ginot is swiping both at somatics and science. Quite amazing.
+
 > Somatics induces us to believe in the "scientific," universal, and "provable" nature of experience, in order to provide a stable collective context for what is fundamentally an unstable, highly individualized experience.[@ginot-2010-shusterman p.15]
+- noting here that just how many claims (and how varied they are) is I would propose evidence of how individualized it is (also lack of debate)
 
 Regardless of whether or not Ginot's critique is accurate (and I suspect there is value for us as a field in imagining that it is), somatic practices -- on the pages of this journal and elsewhere -- is not shy about making some bad-ass claims about its efficacy. They are everywhere, and we are believers ... (following on from Ginot)
 
@@ -99,7 +104,7 @@ this article by Batson et al. is broad overview of ways in which dance science a
 - [[somatics under the umbrella of the dance sciences]] - Green 2007 (wants science and somatics to be kept separate?)
 - 
 - compare Batson et al with [[Schmalzl - Movement-based embodied contemplative practices]] -- "translation" between two world views
-- get strong sense of isolation of dance scholarship. As if waiting to be able to say "we were right all along"
+- get strong sense of isolation of dance scholarship. As if waiting to be able to say "we were right all along". Perhaps though I am too naive as to how the politics of knowledge production work. 
 
 Noting writing by Schwartz [@schwartz-2014-this] who says that the function of somatics "is one of art and philosophy, not one of science. While informed by scientific knowledge and tendencies, the central questions are concerned with action and experience." [@schwartz-2014-this p.316]. And later quotes Subbotsky who says "Both art and magic imply a fusion between mind and nature. They aim at a different goal from that of science; whereas the ultimate goal of science is product, the ultimate goal of art and magic is meaning (2010: x)" [@schwartz-2014-this p.317]. But I would suggest that science's goal is understanding and knowledge. What the hell is product in this instance? 
 
@@ -157,7 +162,7 @@ It is a safe assumption that given the [[definition of body awareness]] such pro
 
 interoception (location in brain) -- but multifaceted. Not just interoception located there (can't remember the article though -- perhaps Tsakiris book opening is useful? Or maybe I'm thinking of Leder, [@leder-2019-insights]?)
 
-	First defined by Sherrington in 1906 as ability to detect signals coming from the viscera (check this). The definition was expanded by Craig (2002) to be "the sense of the physiological condition of the body beyond the viscera"[@valenzuela-moguillansky-2017-exteroceptive p.2] Craig's definition linked interoception to afferent pathways that carry information from sensory receptors in the body's tissues to the central nervous system to help regulate homeostatic function. See also [@preester-2019-preface] for overview
+First defined by Sherrington in 1906 as ability to detect signals coming from the viscera (check this). The definition was expanded by Craig (2002) to be "the sense of the physiological condition of the body beyond the viscera"[@valenzuela-moguillansky-2017-exteroceptive p.2] Craig's definition linked interoception to afferent pathways that carry information from sensory receptors in the body's tissues to the central nervous system to help regulate homeostatic function. See also [@preester-2019-preface] for overview
 
 Craig says interoception is distinct from the exteroceptive system -- "cutaneous mechanoreception and proprioception"[@craig-2003-interoception p.500] -- that supports bodily movement. Contrast this with Eddy from p.6??
 
