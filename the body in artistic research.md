@@ -8,7 +8,7 @@ type: "evergreen"
 
 _previous note:_ [[ecosystemic practice-research (for the benefit of others)]]
 
-This note is materials gathered as part of initial thinking for a Dance Research article that was originally called _the body in the anthropocene_ but that is now called [[ecosystemic practice-research (for the benefit of others)]]. That article changed tack away from the what I saw/see as the changing role of the body in practice-research based on human hubris. To find ways to decentralise the body. Below are un-edited notes that were no longer useful for that writing but that might becomes useful for another article about the body in practice-research. 
+This note is materials gathered as part of initial thinking for a Dance Research article that was originally called _the body in the anthropocene_ but that is now called [[ecosystemic practice-research (for the benefit of others)]]. That article changed tack away from what I saw/see as the changing role of the body in practice-research based on human hubris. To find ways to decentralise the body. Below are un-edited notes that were no longer useful for that writing but that might becomes useful for another article about the body in practice-research. 
 
 > By putting one’s own body and experience forward within a live (arts) space, the artist becomes both object and subject within the frame of the work, and, as a consequence, this situation allows the artist to interrogate and articulate that relationship.[@freeman-2002-writing p.98]
 
@@ -17,7 +17,7 @@ This note is materials gathered as part of initial thinking for a Dance Research
 > I guess I’m trying to subjectify the universe, because look where objectifying it has gotten us. To subjectify is not necessarily to co-opt, colonize, exploit. Rather, it may involve a great reach outward of the mind and imagination.
 > What tools have we got to help us make that reach? - Le Guin, p.M16 [[Le Guin - Deep in Admiration]]
 
-- Le Guin's thinking here marks a very useful tension between the "I" and subjectifying that which is usually objectified. To introduce subjectification as an antidote to objectification. 
+- Le Guin's thinking here marks a very useful tension between the "I" and subjectifying that which is usually objectified. To introduce subjectification as an antidote to objectification.  ^b4be45
 
 > By grounding the self in the body, experimental psychology has taken the body as the starting point for a science of the self. One fundamental dimension of the bodily self is the sense of body ownership that refers to the special perceptual status of one’s own body, the feeling that “my body” belongs to me.[@tsakiris-2017-multisensory p.597]
 
