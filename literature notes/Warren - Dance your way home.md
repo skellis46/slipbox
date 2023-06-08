@@ -19,5 +19,7 @@ Original facebook post: https://www.facebook.com/375955904675/posts/overwhelmed-
 
 > When you're a great street dancer [in] the act of improvising to the music, you're outside of your body and you're inside your body. You're both places simultaneously. -- Tony Basil, in Warren p.18
 
+- Martha Bayless, Folklore and Public Culture (Oregon) wrote a paper on The Fuller Brooch -- "engraving depicts dancing": <https://www.jstor.org/stable/26332316>
+
 ---
 _reference:_ 
