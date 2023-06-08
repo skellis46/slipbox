@@ -24,72 +24,47 @@ Here are five claims made on behalf of somatics drawn from the pages of JDSP.
 
 > It is a widely held view that ‘somatics has arrived precisely to resolve the many fragmentations between different forms and disciplines, between theory and practice, education and environment, aesthetics and healing, art, creation and performance, experience and reflection’ [Fernandes 2015: 10, in @donadel-2020-online p.156]
 
-These claims appear arbitrary. Indeed they are really. I pulled them from five different articles; the very first five articles I selected at random from the 271 articles that have been published in JDSP since 2009 (up to volume 14.2). 
+These claims are arbitrary really. I pulled them from five different articles; the very first five articles I selected at random from the 271 articles that have been published in JDSP since 2009 (up to volume 14.2 in 2022). 
+
+## making claims
+
+What does it mean to _claim_ something? 
+
+The dictionary definitions are telling. As a countable noun a "claim is something which someone says which they cannot prove and which may be false" [@noauthor-nodate-claim]. In the US in particular, a claim is loosely used as a synonym for contend, maintain or assert [@noauthor-2022-claim]. To claim something is also to "assert and demand recognition" or possession of something. And lastly, by definition, when we say someone claims something, we imply doubt [@noauthor-nodate-claim]. 
+
+Claims are not arguments.
+
+> Claims backed by reasons that are supported by evidence are called arguments. [@nordquist-2020-what n.pag.]
+
+A claim without evidence is simply an opinion or _assertion_. 
+
+And so I use the word _claim_ because while reading JDSP over the years I started to see a pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices. That is we -- and by we I mean those of us who contribute to the journal -- seem fine to say pretty much whatever we like about the effects and benefits of somatic practices. There is a tendency for us to assert that somatics have unlimited value, scope, and power to produce change. It is barely believable from an insider's perspective, and one can only imagine how it might seem from the outside.  
+
+In doing this work I do not seek to shame our field or tear it down. If anything, I see myself as a believer in the transformative powers of somatic practices: I have experienced their benefits, and continue to practice a version of authentic movement as a fundamental approach to understanding movement, sensation and consciousness. Rather, I want to understand the epistemic values of somatic practices as represented by the materials published in JDSP and what these values say about our community of practice and scholarship.
 
 ## an unfinished catalogue of claims
 
 Late last year I started something that I have not yet finished. I started cataloguing every claim made on behalf of somatic practices in the Journal of Dance and Somatic Practices. 
 
-But what does it mean to make a claim? 
+I haven't yet finished this cataloguing effort because I ran out of time. To date (2022 14.2), 271 articles have been published in JDSP. This number excludes editorials, reports, book reviews and volume 14.1S (translations of Martha Eddy's 2009 history), but includes interviews and editorials for special issues which were fuller than regular editorials. To this date I have only read and worked through 85 of these 271, which is just shy of a third of them. I worked from both the beginning and the end of the journal so the articles most poorly represented by my analysis come from the years 2012 to 2018. 
 
-There are two useful things here. First, as a countable noun, a "claim is something which someone says which they cannot prove and which may be false" (https://www.collinsdictionary.com/dictionary/english/make-a-claim). Second, when I say someone claims something, I imply doubt (https://www.collinsdictionary.com/dictionary/english/make-a-claim).
+All of my observations today have emerged from those book-ending articles from the JDSP database. 
 
-- a claim without evidence is just an opinion: Hitchens's razor: "is an epistemological razor that serves as a general rule for rejecting certain knowledge claims. It states "what can be asserted without evidence can also be dismissed without evidence."" - named after Christopher Hitchens
-- "In philosophy, a razor is a principle or rule of thumb that allows one to eliminate ("shave off") unlikely explanations for a phenomenon, or avoid unnecessary actions." - from wikipedia
+### two methodological concerns
 
-- what is it to make a claim? on what grounds? How is it different from an opinion? 
+#### cherry picking
 
-- [[types of claims]]
-
-> Claims of fact assert that something is true or not true.  
-> Claims of value assert that something is good or bad, or more or less desirable.  
-> Claims of policy assert that one course of action is superior to another.[@nordquist-2020-what n.pag]
-
-I have used the word _claim_ because while reading JDSP over the years (I would guess that as of now it is the journal I have read most in my scholarly life, perhaps along with IJSD and CHOR -- but then I've co-edited those journals) I think I started to see a pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices. You might argue (fairly) that I even developed a bias to notice such claims and drawing articles at random is a simple attempt to reduce that kind of confirmation bias. 
-
-
-In doing so, I wanted to understand the epistemic values of JDSP and what these values say about our community of practice and scholarship.
-
-- ain't nothing wrong with claims -- it's more the type/kind that I think is worth discussing (or is it my perception of the quantity?)
-
-I haven't yet finished this cataloguing effort because I ran out of time. To date (2022 14.2), 271 articles have been published in JDSP. This number excludes editorials, reports, book reviews and 14.1S (translations of Martha Eddy's 2009 history), but includes interviews and editorials for special issues which were fuller than regular editorials. I worked through 85 of these or 31%. 
-
-- title "somatics unlimited" was based on a hunch. method is fragile because of this hunch. confirmation bias. to guard against it (if that's even possible)
-
-That pattern appears to be that we -- and by we I mean those of us who contribute to the journal -- seem fine to say pretty much whatever we like about the effects of somatic practices. That somatics has unlimited value, scope, and power to produce change, irrespective of the context. It is an extraordinary list even if perhaps it's also a little unfair on my part to pluck them out of context and put them next to each other like this:
-
-[[possible benefits of somatic practices]]
-
-My hunch was that the evidence for claims would be secondary. That the predominance would be arguing from authority. Early on in the journal. But in later volumes not at all. By far we are making primary claims. Almost total lack of mechanisms for these claims. That is, if we say somatics does this, then how does it do this? Perhaps the lack of 'mechanisms' is not surprising. These are (by and large) not the methods we adopt in our work. [[ginot - epistemology of somatics]] warned us with her concerns. 
-- surprising number of simply descriptive accounts of practice. No claims. Refreshing. That the journal is/was a place to share current practices. Not in touch with other practices though (see Ellis forthcoming)
-- very few give mechanisms for what somatics do. VERY few. And when they do they are vague OR it's not possible to ascertain if the mechanisms even have anything to do with the somatic practice around which the claim is based.  
-
-- by primary source I mean a claim that is uncited. Sometimes the citation is assumed (as if it's a matter of (uncontestable) fact)
-
-When I started my hunch was that the claims made on behalf of somatics would veer towards being claims (or appeals) to authority. 
-
-- by primary I mean a claim that is not attributed OR has come from the research being presented (vast % is simply an opinion in fact's clothing)
-- dig deeper into the kinds of claims I was looking for -- need clarity here -- see Hetty's comments
-
-### a note about cherry picking
-
-My assumption is that we are all guilty of cherry-picking. We seek examples that confirm our beliefs or ideas and ignore examples that contradict or are contrary to these beliefs. I don't think we do this deliberately or consciously, but we do do it. Cherry picking is also known as the fallacy of incomplete evidence, and in science it is an epistemological characteristic of denialism. 
+My assumption is that researchers are all (more or less) guilty of cherry-picking. We seek examples that confirm our beliefs or ideas and ignore examples that contradict or are contrary to these beliefs. I don't think we do this deliberately or consciously, but we do do it. Cherry picking is also known as the fallacy of incomplete evidence, and in science it is an epistemological characteristic of denialism. 
 
 To this end, all examples I have included in this presentation were not cherry picked. Rather, I randomly selected 20 articles from the 272 and then worked my way down that selection. Result of not completing my analysis in time (and later -- after a conversation with my colleague Anna Pakes -- realising that a more rigorous corpus would be ideal for this kind of linguistic analysis). For example, the list of quote-claims I presented at the beginning were drawn -- one each -- from the first five randomly selected articles. Where an article did not include an example ... This process is to avoid claims that I have cherry picked examples, but also as an indication of how common the following observations are. 
 
-Fortin (other examples and what they might tell us -- cf with the one above). So, although the Fortin article was selected at random I chose the following claim in my initial set of five to you today:
-
-> these [somatic] practices can refine bodily perceptions, which can contribute to improvement of technique, aid the development of expressive capacities and prevention of injuries. [@fortin-2009-experience p.50]
-
-When I could have presented the following:
-
-> Feldenkrais Method of somatic education allowed [them] to develop an internal authority which made them less vulnerable to the health impacts of the dominant dance discourse. [@fortin-2009-experience p.60]
-
-I have some issues with Fortin's methods, but at least this statement is grounded in evidence gained through an action-research process (working with undergraduate dance students). 
-
 What I did not cherry pick were examples that contradicted my observations. I sought them out. Exception proving rule? Or the possibility of another way? 
 
-### motivated reasoning
+You might argue (fairly) that I even developed a bias to notice such claims and drawing articles at random is a simple attempt to reduce that kind of confirmation bias. 
+
+although I have drawn examples at random from the entire pool of JDSP articles.
+
+#### motivated reasoning
 
 You might (rightly) question my values here or attempt to understand what might be in it for me. What are the motivations for my reasoning? I can say I am worried. I worry for what this pattern might mean for our field -- a field that I am indebted to, that is fundamental to my practice (as artist-scholar) and that deeply nourishes how I participate in the world. 
 
@@ -97,82 +72,86 @@ You might (rightly) question my values here or attempt to understand what might 
 
 - benefit/effect -- out of context some sound very absurd. Some sound quite absurd in context. not wanting to shame. playfulness. 
 
+- noting that all these steps backwards take time and effort -- to discuss cherry picking, to talk about my motivations, to be transparent about the methods even for this simple analysis this morning. This effort is, I think (or perhaps hope), rigorous -- a word that seems to have gone out of favour, at least in the disciplines in which I am most closely aligned. 
+
 - dissent: protect the dissenters. expressing dissent because a research field is only as strong as what it allows to be questioned. 
 - indebted to Ginot -- but also to a lesser extent Nuding. colleagues at C-DaRE (shitting on my own doorstep) - in particular Hetty Blades and Teoma Naccarato for their support and/or enthusiasm for this work. Anna Pakes. Erin Brannigan
 
 ## some observations from this work
 
-- why has this (of just saying stuff about benefits/effects of somatics) pattern occurred? What does it say about our field? And about us? Circularity
-
-- noting that in most cases the practice (or practices) implicitly are also the mechanism -- noting here wholistic work
+### ubiquity (define your terms)
 
 - ubiquity of term 'somatics' (not a surprise given I was looking at JDSP) -- but certainly the lack of precision is telling. That it is a catch-all, or suitcase word. But what is it a catchall of? [[define your terms]]
 
-
-
-
-
-
-- can say what most number of claims was in single article
-- percentage of 1º vs 2º
-- mechanism -- why does it matter? If it works, who cares how? Because if we have no understanding of mechanisms than we don't know which part of a practice is responsible for the changes we seem to be seeing (or indeed if it's the gestalt of the practice). See [[measuring outcome but not process in somatic practices]]
-- list the various practices/names/language in column b
-- noting how practice and mechanism are almost exclusively the same thing - circularity
-
-- could go through this one to group some claims together:
-> The efficiency and benefits of applying somatic methods or practices to dance training have also been explored (Green 1999; Batson 2007; Eddy 2009).[@sen-podstawska-2022-moving p.52] 
-
-- some claims will be very familiar.
-- - useful summary at beginning of [[ginot - epistemology of somatics]] -- describes pedagogic, better (more virtuosic) dancing, injury prevention and rehab
--  leavened by occasional humility or caution: "sometimes overzealous and too narrowly optimistic stances towards somatics" (written as a counter to this)[@fortin-2017-looking p.146]
--  some claims less familiar. 
-
-### patchwork
-- what I am most struck by is cells of information. One new idea after another. There are exceptions of course -- Nuding, Laidlaw -- but they prove the rule. We are -- through the journal -- building a patchwork quilt in which the various pieces are stitched together by the initials JDSP that is only really able to keep warm those who lie under it. But even in such a quilt there is a sense of relationship between the patches. Push this metaphor? Stitched together. 
-- I wonder if we could all agree that this phenomena in JDSP is a thing. We don't have to agree on whether it is a good or bad thing. But that it exists. 
 - noting: just how many different kinds of practices are presented in JDSP: some newly named, some very familiar. mostly very poorly described as to what they are in practice (in ways that would be recognisable for those not familar) -- abstract terms, non-specific
 
+- list the various practices/names/language in column b
+
+### mechanisms are as rare as hens teeth
+
+- very few give mechanisms for what somatics do. VERY few. And when they do they are vague OR it's not possible to ascertain if the mechanisms even have anything to do with the somatic practice around which the claim is based. very dangerous -- drawing a paper thin line from a practice to an effect. But which aspects of the practice causes that effect? And by what means? 
+
+Millman article here [@millman-2023-online] -- bloody fascinating
+
+- noting that in most cases the practice (or practices) implicitly are also the mechanism -- noting here holistic work
+
+- mechanism -- why does it matter? If it works, who cares how? Because if we have no understanding of mechanisms than we don't know which part of a practice is responsible for the changes we seem to be seeing (or indeed if it's the gestalt of the practice). See [[measuring outcome but not process in somatic practices]]
+
+- noting how practice and mechanism are almost exclusively the same thing - circularity
+
+from Wright example above: I say "simply by chance" because it was rare -- I estimate less than a quarter of the articles I reviewed -- for articles to include the mechanisms by which the somatic practices functioned.
+
+How does it do this? Without this question our claims remain flimsy. They remain simply claims. And without evidence of the effect of these mechanisms then what are we doing? Hitchens' razor? 
+
+### patchwork
+
+- what I am most struck by is cells of information. One new idea after another. There are exceptions of course -- Nuding, Laidlaw -- but perhaps they prove the rule. We are -- through the journal -- building a patchwork quilt in which the various pieces are stitched together by the acronym JDSP that is only really able to keep warm those who lie under it. But even in such a quilt there is a sense of relationship between the patches. Push this metaphor? Stitched together. 
+- I wonder if we could all agree that this phenomena in JDSP is a thing. We don't have to agree on whether it is a good or bad thing. But that it exists. 
+- perhaps this is what the journal needs to be because somatics is still a fledgling collection of practices? But is it? When might we be ready enough to shed the precarious / new label? I worry that we hide behind it. It is a way of rationalising this phenomenon I am describing. It is the means by which we get to say what we want, as if someday (in the distant future) these claims will be given the evidence they deserve. 
+
 ### descriptions
+
+The most common articles that made no claims were those that were simple descriptions of practice. For example -- just name the articles. But other descriptions of practice go into claim mode ... - ones that are descriptive of process make fewer claims. Vital role -- in knowing. But rarely if ever (as I've written about elsewhere) talk about similar practices. Isolated bubbles.
 - also how many are just sharing practice -- not a comment. These might make no claims at all (just describe it) all the way to overselling the hell out of it
 - note to make a distinction between claims and descriptions that make or do not make claims
 - Hetty: other fields similar to somatics? what about music (re making claims)
-
-Hetty:
-> I think I was asking about whether you were recording claims about people's specific experiences (eg. My engagement with a somatic practice achieves…for me) or general claims (somatic practices/BMC/SRT etc achieves….).
+> I think I was asking about whether you were recording claims about people's specific experiences (eg. My engagement with a somatic practice achieves…for me) or general claims (somatic practices/BMC/SRT etc achieves….). (Hetty Blades)
 - my sense here is that the language makes the distinction tricky. There is slippage from the subjective to the general without acknowledging the shift. Give example.
-
-- ones that are descriptive of process make fewer claims. Vital role -- in knowing. But rarely if ever (as I've written about elsewhere) talk about similar practices. Isolated bubbles.
-
 - on what grounds do each of us get to say the things we say (Hetty's note about specific vs general is useful here). Examples of descriptions of practice are perhaps most intriguing. Make no claims but rather are sharing what work is happening.
-- noting how differently I feel when no claims are made. That I am left to invest so differently (but also feel a little lost -- like watching art). How art (for the most part) doesn't make claims. 
-
+- noting how differently I feel when no claims are made. Mostly I felt relief. That I am left to invest so differently (but also feel a little lost -- like watching art). How art (for the most part) doesn't make claims. 
+- surprising number of simply descriptive accounts of practice. No claims. Refreshing. That the journal is/was a place to share current practices. Not in touch with other practices though (see Ellis forthcoming)
 
 ### the case of _can_
 
+do comparison of how Grau uses the word can -- which is different from 'somatics can'. Quite specific. 
+
+e.g.:
+
+> focusing on the micro-political body through somatic education can help women exercise agency within the matrix of social inequalities they live in. (citing herself) [@fortin-2018-fibromyalgia p.271]
 
 ### arguing from authority
 
-In 2010, the dance scholar and Feldenkrais practitioner, Isabelle Ginot wrote a critique of Richard Shusterman's book _Body Consciousness: A Philosophy of Mindfulness and Somaesthetics_ (2008), and the way in which it attempts to apply somatic practices (specifically Feldenkrais and Alexander Techniques) as philosophical discourse. The article is called _From Shusterman’s Somaesthetics to a Radical Epistemology of Somatics_ [@ginot-2010-shusterman] and in it Ginot asks some difficult questions of somatic practices. _adjust this paragraph to focus on epistemological critique of Ginot's._ withering critique in the role of science to validate the "highly individualized"[@ginot-2010-shusterman p.15] experiences of somatic practices. 
+When I started my hunch was that the claims made on behalf of somatics would veer towards being claims (or appeals) to authority. 
 
-It is the most sustained and well argued critique of somatic practices scholarship I have happened across (although also enjoyed Elisa Nuding in Volume 13 of JDSP)
+in that it made no reference to research or scholarship by other people.
+- by primary source I mean a claim that is uncited. Sometimes the citation is assumed (as if it's a matter of (uncontestable) fact)
+- by primary I mean a claim that is not attributed OR has come from the research being presented (vast % is simply an opinion in fact's clothing)
+
+My hunch was that the evidence for claims would be secondary. That the predominance would be arguing from authority. Early on in the journal. But in later volumes not at all. By far we are making primary claims. Almost total lack of mechanisms for these claims. That is, if we say somatics does this, then how does it do this? Perhaps the lack of 'mechanisms' is not surprising. These are (by and large) not the methods we adopt in our work. [[ginot - epistemology of somatics]] warned us with her concerns. 
+
+
 
 Don't want to simply replicate Ginot's thinking and argument.
 
 - surprising just how little 2º there was -- my hunch was about Anna Pakes' idea
 - the circular logic of arguing from authority, or what Ginot describes as endogenous somatics discourses [@ginot-2010-shusterman]; i
 
-The fallacy of appeal to authority (https://plato.stanford.edu/entries/argument/#Fall)
-Also _Argumentation as an epistemic practice_ -- relates to Nordquist above (but compare with confirmation bias, and the backfire effect! -- motivated reasoning):
-
-> In particular, arguments that threaten our core beliefs and our sense of belonging to a group (e.g., political beliefs) typically trigger all kinds of motivated reasoning (Taber & Lodge 2006; Kahan 2017) whereby one outright rejects those arguments without properly engaging with their content. Relatedly, when choosing among a vast supply of options, people tend to gravitate towards content and sources that confirm their existing opinions, thus giving rise to so-called “echo chambers” and “epistemic bubbles” (Nguyen 2020). Furthermore, some arguments can be deceptively convincing in that they look valid but are not (Tindale 2007; see entry on [fallacies](https://plato.stanford.edu/entries/fallacies/)). Because most of us are arguably not very good at spotting fallacious arguments, especially if they are arguments that lend support to the beliefs we already hold, engaging in argumentation may in fact _decrease_ the accuracy of our beliefs by persuading us of false conclusions with incorrect arguments (Fantl 2018). <https://plato.stanford.edu/entries/argument/#Fall>
-
-- backfire effect vs confirmation bias: how do you respond to this? 
 
 ## implications and questions
 
 ### under the shadow of Isabelle Ginot
 
-Thinking through Ginot's statement that the purpose of science in somatics is to "foster belief" [[somatic practices, interoception and evidence#^fd4fbc]]. Linking here with Ingold's [[search for truth]] and the unison of imagination and experience, and of taking ourselves into the world. But how are we failing to do that in somatic practices? Contrast also with [[map and territory]] and my sense is that in the claims we are making we are attempting to construct the territory -- or to colonise the territory from a very small island. Note a very early idea I had in [[zen, map and territory]] in which I describe [[authentic movement]] as a dance with territory or even noumenal experience ([[noumenon and phenomenon]]) -- really really not sure about this last bit. Noting also here the differences between Eastern and Western philosophy and practices re 'knowing' the noumenon: [[Hui - Cosmotechnics as Cosmopolitics#^e2cbd2]] The Kantian thing seems to be about the un-naming (which is to know the unknowable 'thing in itself'). Non-dual awareness ticks into here -- that when there is no self, the unknowing ceases to be something that one's self can not do. 
+Thinking through Ginot's statement that the purpose of science in somatics is to "foster belief" [[somatic practices, interoception and evidence#^fd4fbc]]. Linking here with Ingold's [[search for truth]] and the unison of imagination and experience, and of taking ourselves into the world. But how are we failing to do that in somatic practices? Contrast also with [[map and territory]] and my sense is that in the claims we are making we are attempting to construct the territory -- or to colonise the territory from a very small island (could give examples from those 'science' papers in JDSP (Batson et al is one?) which seem to be saying "you need to listen to us") Note a very early idea I had in [[zen, map and territory]] in which I describe [[authentic movement]] as a dance with territory or even noumenal experience ([[noumenon and phenomenon]]) -- really really not sure about this last bit. Noting also here the differences between Eastern and Western philosophy and practices re 'knowing' the noumenon: [[Hui - Cosmotechnics as Cosmopolitics#^e2cbd2]] The Kantian thing seems to be about the un-naming (which is to know the unknowable 'thing in itself'). Non-dual awareness ticks into here -- that when there is no self, the unknowing ceases to be something that one's self can not do. 
 
 
 ### individual claims, collective wisdom and debate
@@ -241,7 +220,28 @@ Language is superficial. We have a superficiality problem.
 
 
 
+
+
+## final key concerns
+
+The fallacy of appeal to authority (https://plato.stanford.edu/entries/argument/#Fall)
+Also _Argumentation as an epistemic practice_ -- relates to Nordquist above (but compare with confirmation bias, and the backfire effect! -- motivated reasoning):
+
+> In particular, arguments that threaten our core beliefs and our sense of belonging to a group (e.g., political beliefs) typically trigger all kinds of motivated reasoning (Taber & Lodge 2006; Kahan 2017) whereby one outright rejects those arguments without properly engaging with their content. Relatedly, when choosing among a vast supply of options, people tend to gravitate towards content and sources that confirm their existing opinions, thus giving rise to so-called “echo chambers” and “epistemic bubbles” (Nguyen 2020). Furthermore, some arguments can be deceptively convincing in that they look valid but are not (Tindale 2007; see entry on [fallacies](https://plato.stanford.edu/entries/fallacies/)). Because most of us are arguably not very good at spotting fallacious arguments, especially if they are arguments that lend support to the beliefs we already hold, engaging in argumentation may in fact _decrease_ the accuracy of our beliefs by persuading us of false conclusions with incorrect arguments (Fantl 2018). <https://plato.stanford.edu/entries/argument/#Fall>
+
+- backfire effect vs confirmation bias: how do you respond to this?
+
+somatics as anecdotal -- and Ginot's 2010 paper (Erin used the term anecdotal to describe part of Ginot's critique)
+
+I am not the first to do this. Isabelle Ginot's remarkable piece of scholarship in Dance Research in 2010
+
+
+> An intuition is simply the powerful sense that something is true without our having an awareness or an understanding of the reasons behind this feeling - Annaka Harris (useful word to keep in mind)
+
 See [[somatic practices, interoception and evidence#opportunities]] for useful things to add at end of this presentation.
+
+## not yet located
+
 
 
 ## Science and the body.
@@ -276,10 +276,6 @@ First person perspective. Barrier? Boundary.
 - [ ] could go a global search for Varela in JDSP???? and Batson
 
 
-
-
-
-
 ## original abstract
 
 A proposal to attend the Somatic Practices Conference, July 2023
@@ -301,12 +297,69 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 - [x] 122
 - [x] 222
 - [x] 217 (originally was 218 but this was a review)
-- [ ] 246
-- [ ] 37
-- [ ] 5, 93, 188, 256, 196, 214, 211, 155, 81, 142, 164, 41
+- [x] 246
+- [ ] 37 (downloaded)
+- [ ] 5 (downloaded)
+- [ ] 93 (downloaded)
+- [ ] 188 (downloaded)
+- [ ] 256, 196, 214, 211, 155, 81, 142, 164, 41
 
 
 ## edit bin
+
+In 2010, the dance scholar and Feldenkrais practitioner, Isabelle Ginot wrote a critique of Richard Shusterman's book _Body Consciousness: A Philosophy of Mindfulness and Somaesthetics_ (2008), and the way in which it attempts to apply somatic practices (specifically Feldenkrais and Alexander Techniques) as philosophical discourse. The article is called _From Shusterman’s Somaesthetics to a Radical Epistemology of Somatics_ [@ginot-2010-shusterman] and in it Ginot asks some difficult questions of somatic practices. _adjust this paragraph to focus on epistemological critique of Ginot's._ withering critique in the role of science to validate the "highly individualized"[@ginot-2010-shusterman p.15] experiences of somatic practices. 
+
+It is the most sustained and well argued critique of somatic practices scholarship I have happened across (although also enjoyed Elise Nuding in Volume 13 of JDSP)
+
+- dig deeper into the kinds of claims I was looking for -- need clarity here -- see Hetty's comments
+
+With each article I noted the type of somatic practice, the claim itself, the mechanism for the claim, and whether the claim was primary or secondary. By "mechanism" I mean some indication of how the somatic practice did what the author said it did. 
+
+Here's an example. It's the next one off my list of randomly selected articles, and is from Vicky Wright's remarkable 2021 (V13:1/2) reflection on _Using mask to explore earlier evolutionary states of sensory awareness, and their role in our inter-relationship with the natural world_.
+
+In this the somatic practice would be _Phylogenetic mask work_ which I appreciate is not your run of the mill somatic practice. Wright claimed that this mask work:
+
+> can help us to overcome a human/nature alienation and instead create connection.[@wright-2021-using p.203]
+
+This claim was primary in that it made no reference to research or scholarship by other people. There is some sense of mechanism for this effect described by Wright as the "animal’ or ‘natural’ modes of sensing available to us within our bodies" [@wright-2021-using p.203] and which later in the article she develops as principles. 
+
+(I would guess that as of now it is the journal I have read most in my scholarly life, perhaps along with IJSD and CHOR -- but then I've co-edited those journals) I think 
+
+There is a philosophical razor -- and a razor is a rule of thumb designed to shave off unlikely explanations of phenomena; a time-saving device. Actually, it's an epistemological razor designed as a rule for rejecting certain knowledge claims. This razor is called Hitchens' razor, created by and named after renowned journalist and aetheist Christopher Hitchens. Hitchens' epistemological razor is this: 
+
+> what can be asserted without evidence can also be dismissed without evidence. [@hitchens-2007-god p.258]
+
+Hitchens was using the razor in the context of refuting religious belief, but more broadly, what it does is place the burden of proof on the person making the claim. For example, if I claim that somatic practices improves coordination, then it is my responsibility to provide the evidence to make that argument. This is clear: 
+
+
+- why has this (of just saying stuff about benefits/effects of somatics) pattern occurred? What does it say about our field? And about us? Circularity
+
+- - useful summary at beginning of [[ginot - epistemology of somatics]] -- describes pedagogic, better (more virtuosic) dancing, injury prevention and rehab
+-  leavened by occasional humility or caution: "sometimes overzealous and too narrowly optimistic stances towards somatics" (written as a counter to this)[@fortin-2017-looking p.146]
+
+- could go through this one to group some claims together:
+> The efficiency and benefits of applying somatic methods or practices to dance training have also been explored (Green 1999; Batson 2007; Eddy 2009).[@sen-podstawska-2022-moving p.52] 
+
+- can say what most number of claims was in single article
+- percentage of 1º vs 2º
+
+Fortin (other examples and what they might tell us -- cf with the one above). So, although the Fortin article was selected at random I chose the following claim in my initial set of five to you today:
+
+> these [somatic] practices can refine bodily perceptions, which can contribute to improvement of technique, aid the development of expressive capacities and prevention of injuries. [@fortin-2009-experience p.50]
+
+When I could have presented the following:
+
+> Feldenkrais Method of somatic education allowed [them] to develop an internal authority which made them less vulnerable to the health impacts of the dominant dance discourse. [@fortin-2009-experience p.60]
+
+I have some issues with Fortin's methods, but at least this statement is grounded in evidence gained through an action-research process (working with undergraduate dance students). 
+
+- title "somatics unlimited" was based on a hunch. method is fragile because of this hunch. confirmation bias. to guard against it (if that's even possible)
+
+- ain't nothing wrong with claims -- it's more the type/kind that I think is worth discussing (or is it my perception of the quantity?)
+
+It is an extraordinary list even if perhaps it's also a little unfair on my part to pluck them out of context and put them next to each other like this:
+
+[[possible benefits of somatic practices]]
 
 I think by using the word _claim_ I've shown my hand more than a little. The word implies that I have adopted suspicious eyes. I did not, for instance, attempt to catalogue the arguments or _facts_ in JDSP, and it's important to remember that there are arguments in its pages, as there are facts. For example, of the five I have just shown you, the one by Sylie Fortin is more than a claim. Here it is again: 
 
