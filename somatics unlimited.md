@@ -77,15 +77,24 @@ You might (rightly) question my values here or attempt to understand what might 
 - dissent: protect the dissenters. expressing dissent because a research field is only as strong as what it allows to be questioned. 
 - indebted to Ginot -- but also to a lesser extent Nuding. colleagues at C-DaRE (shitting on my own doorstep) - in particular Hetty Blades and Teoma Naccarato for their support and/or enthusiasm for this work. Anna Pakes. Erin Brannigan
 
-## some observations from this work
+## six obvious observations
 
 ### ubiquity (define your terms)
 
 - ubiquity of term 'somatics' (not a surprise given I was looking at JDSP) -- but certainly the lack of precision is telling. That it is a catch-all, or suitcase word. But what is it a catchall of? [[define your terms]]
 
-- noting: just how many different kinds of practices are presented in JDSP: some newly named, some very familiar. mostly very poorly described as to what they are in practice (in ways that would be recognisable for those not familar) -- abstract terms, non-specific
+- noting: just how many different kinds of practices are presented in JDSP: some newly named, some very familiar. mostly very poorly described as to what they are in practice (in ways that would be recognisable for those not familiar) -- abstract terms, non-specific
 
 - list the various practices/names/language in column b
+
+- [[extraction follows abstraction]] -- that there is tremendous responsibility in owning and clarifying our abstractions. See also [[define your terms]] and suitcase words. Vagueness and abstraction go hand in hand. But exploitation soon follows. Who and what might we be exploiting? (even if exploitation is about the exploitation of an epistemic space?)
+- embodiment as we tend to use it (even though it is used in wildly different ways) seems to be predicated on the body as special kind of object, but an object nevertheless. See [[the lived body and embodiment#^844cda]]. On this point see also [[the body in artistic research#^b4be45]] and Le Guin on just how badly objectification has gone for human-kind and our plant.
+- see also [[explaining away (Whitehead)]] re abstractions: "denied the status of proper existence":
+
+> In a similar way, the operations of AI depend on datafication: the presentation of the world as data separated out from the continuity of experience. Unfortunately, one corollary of abstraction is the effect that philosopher of science Alfred North Whitehead criticized as ‘explaining away’: by treating abstractions as something concrete, everything that does not fit into the schema is denied the status of proper existence (Whitehead, 1997). The error comes from treating abstractions as more real than phenomena. This kind of reified abstraction is a key mechanism of instrumental rationalities like AI – the trick that allows it to see only that which can be made useful and ignore the rest.[@mcquillan-2022-resisting p.49]
+
+That small quote is from Whitehead's _Science and the Modern World_. 
+
 
 ### mechanisms are as rare as hens teeth
 
@@ -108,6 +117,7 @@ How does it do this? Without this question our claims remain flimsy. They remain
 - what I am most struck by is cells of information. One new idea after another. There are exceptions of course -- Nuding, Laidlaw -- but perhaps they prove the rule. We are -- through the journal -- building a patchwork quilt in which the various pieces are stitched together by the acronym JDSP that is only really able to keep warm those who lie under it. But even in such a quilt there is a sense of relationship between the patches. Push this metaphor? Stitched together. 
 - I wonder if we could all agree that this phenomena in JDSP is a thing. We don't have to agree on whether it is a good or bad thing. But that it exists. 
 - perhaps this is what the journal needs to be because somatics is still a fledgling collection of practices? But is it? When might we be ready enough to shed the precarious / new label? I worry that we hide behind it. It is a way of rationalising this phenomenon I am describing. It is the means by which we get to say what we want, as if someday (in the distant future) these claims will be given the evidence they deserve. 
+- return to this when I discuss debate
 
 ### descriptions
 
@@ -115,19 +125,15 @@ The most common articles that made no claims were those that were simple descrip
 - also how many are just sharing practice -- not a comment. These might make no claims at all (just describe it) all the way to overselling the hell out of it
 - note to make a distinction between claims and descriptions that make or do not make claims
 - Hetty: other fields similar to somatics? what about music (re making claims)
-> I think I was asking about whether you were recording claims about people's specific experiences (eg. My engagement with a somatic practice achieves…for me) or general claims (somatic practices/BMC/SRT etc achieves….). (Hetty Blades)
-- my sense here is that the language makes the distinction tricky. There is slippage from the subjective to the general without acknowledging the shift. Give example.
-- on what grounds do each of us get to say the things we say (Hetty's note about specific vs general is useful here). Examples of descriptions of practice are perhaps most intriguing. Make no claims but rather are sharing what work is happening.
+
 - noting how differently I feel when no claims are made. Mostly I felt relief. That I am left to invest so differently (but also feel a little lost -- like watching art). How art (for the most part) doesn't make claims. 
 - surprising number of simply descriptive accounts of practice. No claims. Refreshing. That the journal is/was a place to share current practices. Not in touch with other practices though (see Ellis forthcoming)
 
-### the case of _can_
+### the subjective to the general
 
-do comparison of how Grau uses the word can -- which is different from 'somatics can'. Quite specific. 
-
-e.g.:
-
-> focusing on the micro-political body through somatic education can help women exercise agency within the matrix of social inequalities they live in. (citing herself) [@fortin-2018-fibromyalgia p.271]
+> I think I was asking about whether you were recording claims about people's specific experiences (eg. My engagement with a somatic practice achieves…for me) or general claims (somatic practices/BMC/SRT etc achieves….). (Hetty Blades)
+- my sense here is that the language makes the distinction tricky. There is slippage from the subjective to the general without acknowledging the shift. Give example.
+- on what grounds do each of us get to say the things we say (Hetty's note about specific vs general is useful here). Examples of descriptions of practice are perhaps most intriguing. Make no claims but rather are sharing what work is happening.
 
 ### arguing from authority
 
@@ -139,34 +145,39 @@ in that it made no reference to research or scholarship by other people.
 
 My hunch was that the evidence for claims would be secondary. That the predominance would be arguing from authority. Early on in the journal. But in later volumes not at all. By far we are making primary claims. Almost total lack of mechanisms for these claims. That is, if we say somatics does this, then how does it do this? Perhaps the lack of 'mechanisms' is not surprising. These are (by and large) not the methods we adopt in our work. [[ginot - epistemology of somatics]] warned us with her concerns. 
 
-
-
 Don't want to simply replicate Ginot's thinking and argument.
 
 - surprising just how little 2º there was -- my hunch was about Anna Pakes' idea
 - the circular logic of arguing from authority, or what Ginot describes as endogenous somatics discourses [@ginot-2010-shusterman]; i
 
+## five provocations
 
-## implications and questions
+### the case of _can_
 
-### under the shadow of Isabelle Ginot
+do comparison of how Grau uses the word can -- which is different from 'somatics can'. Quite specific. 
 
-Thinking through Ginot's statement that the purpose of science in somatics is to "foster belief" [[somatic practices, interoception and evidence#^fd4fbc]]. Linking here with Ingold's [[search for truth]] and the unison of imagination and experience, and of taking ourselves into the world. But how are we failing to do that in somatic practices? Contrast also with [[map and territory]] and my sense is that in the claims we are making we are attempting to construct the territory -- or to colonise the territory from a very small island (could give examples from those 'science' papers in JDSP (Batson et al is one?) which seem to be saying "you need to listen to us") Note a very early idea I had in [[zen, map and territory]] in which I describe [[authentic movement]] as a dance with territory or even noumenal experience ([[noumenon and phenomenon]]) -- really really not sure about this last bit. Noting also here the differences between Eastern and Western philosophy and practices re 'knowing' the noumenon: [[Hui - Cosmotechnics as Cosmopolitics#^e2cbd2]] The Kantian thing seems to be about the un-naming (which is to know the unknowable 'thing in itself'). Non-dual awareness ticks into here -- that when there is no self, the unknowing ceases to be something that one's self can not do. 
+e.g.:
+
+> focusing on the micro-political body through somatic education can help women exercise agency within the matrix of social inequalities they live in. [Fortin, in @fortin-2018-fibromyalgia p.271]
 
 
-### individual claims, collective wisdom and debate
+### claims of fact and claims of value
 
-In JDSP it is as if we are mixing up claims of fact with claims of value. (see Nordquist 2020 above at the start of the article)
 
-- Ellerton article for The Conversation is useful. https://read.readwise.io/new/read/01gyhnwb6edbv3zxwh6j4wx4p4 -- very very good as overview of some suggestions I might make. 
+> Generally, there are three primary types of claims in an argument, also called persuasive claims:
+>  Claims of fact assert that something is true or not true.
+>  Claims of value assert that something is good or bad, or more or less desirable.
+>  Claims of policy assert that one course of action is superior to another.[@nordquist-2020-what n.pag]
+
+This is important. That without evidence we are just attempting to persuade or convince people. On what grounds might this convincing be happening? To become an argument any persuasive claim must be supported by evidence. 
+
+In JDSP it is as if we are mixing up claims of fact with claims of value.
+
+### debate
 
 > That we test each others’ thinking and collaboratively arrive at standards of epistemic credibility lifts the art of justification beyond the limitations of individual minds, and grounds it in the collective wisdom of reflective and effective communities of inquiry.[@ellerton-2017-how]
 
-> The sincerity of one’s belief, the volume or frequency with which it is stated, or assurances to “believe me” should not be rationally persuasive by themselves.[@ellerton-2017-how]
-
 - stretch beyond individual (or atomised) claims ... what might our collective wisdom be (as a scholarly and artistic community) and on what grounds can we imagining rejecting a claim, or (at the very least) expressing doubt about it? 
-
-
 
 Somatics: how do I disagree? How do we disagree if anything goes? use my viscious cycle of epistemology. Ginot does this ... who are the others?
 
@@ -176,7 +187,7 @@ Somatics: how do I disagree? How do we disagree if anything goes? use my visciou
 
 - why has this (of just saying stuff about benefits/effects of somatics) pattern occurred? What does it say about our field? And about us? Circularity
 
-### ideology
+### ideology and beliefs
 
 overdetermination: “occurs when a single-observed effect is determined by multiple causes, any one of which alone would be sufficient to account for ("determine") the effect” — looking at definition of overdetermination -- it's like somatics is the opposite. A single thing responsible for every effect - but not clear what that single thing is. Certainly appears closer to underdeterminism: Evidence we have is not sufficient to know what to believe. Relates here more to biases -- that is, we already know what to believe, we are just making things fit into those belief systems. This is ideology.
 
@@ -186,78 +197,57 @@ overdetermination: “occurs when a single-observed effect is determined by mult
 - Somatics as ideology. Making sense. See also earlier parts in book (Ministry for the future?) about ideology.
 - beliefs
 
-They become truisms. A word like that? 
-
-- [[extraction follows abstraction]] -- that there is tremendous responsibility in owning and clarifying our abstractions. See also [[define your terms]] and suitcase words. Vagueness and abstraction go hand in hand. But exploitation soon follows. Who and what might we be exploiting? (even if exploitation is about the exploitation of an epistemic space?)
-- embodiment as we tend to use it (even though it is used in wildly different ways) seems to be predicated on the body as special kind of object, but an object nevertheless. See [[the lived body and embodiment#^844cda]]. On this point see also [[the body in artistic research#^b4be45]] and Le Guin on just how badly objectification has gone for human-kind and our plant.
-- see also [[explaining away (Whitehead)]] re abstractions: "denied the status of proper existence"
-
-- seems like these are closer to the level of myths or beliefs. Even hopes, wishes or desires. 
-
-### method, repetition and refutation
-
-> also refer to the validation methods of phenomenology and Buddhist practices saying it ‘[...] is derived from its ability to transform progressively our lived experience and self-understanding’ (Varela et al. 1991: xix), a validation that also applies to somatic practices, given that it can only be measured from the observation of changes perceived by the individuals directly involved in the experience. [@silvagrebler-2020-reflection p.18]
-
-- is this the issue -- "can only be measured"? But does that mean we get to say anything we want about it? 
-
-- there's a bigger question about how we find things out. A question of method. how is it that we come to make this claim? methods are discipline specific. JDSP is full of many many kinds of methods: scientific interventions, ethnography, practice research, phenomenology, various qualitative practices (some with content analysis, some more akin to case studies) dance analysis, reflections, descriptions, various combinations of these. Many unstated. That is, it's not so clear how the writer got to say the things they are saying. Opinion. 
-- where is place for the 'rational' in this conversation? 
-- how might each of us justify the things we say? 
-
-- most of these claims are not falsifiable -- but calling on that word (and the legacy of Popper) is likely troubling in this context. What do we have to do to the practices to make them accountable to methods that value falsifiability? (Popper's falsifiability principle or razor: For a theory to be considered scientific, it must be falsifiable. (wikipedia) -- but )
-- these beliefs are sincere. We repeat them often. But sincerity and repetition are not the grounds by which we build an expansive understanding on the limits of somatic practices. 
-- is there value in suspending belief? (and our convictions). What might scepticism be worth to our field? Is there risk there? 
-
-How is this defensible? This position in somatics? 
-Language is superficial. We have a superficiality problem. 
-
->To the extent that critical thinking is about analysing and evaluating methods of inquiry and assessing the credibility of resulting claims, it is an epistemic endeavour.[@ellerton-2017-how n.pag]
-
-### perception of change / change of perception
-
-- what does it mean to be good at somatics? How do we recognise someone who is 'good' at somatics? It's a funny/silly/old question/joke about somatics, but so much of what we can't and can say about somatics rests on the capacity to understand and communicate what it is we are observing/noticing (in ourselves and in others) when doing somatics well. See in [[Zoran Josipovic - Influence of Meditation on Anti-Correlated Networks in the Brain#^448a09]] and also note the Varela reference in that blockquote.
-- [[measuring outcome but not process in somatic practices]] -- see note re perception of change / change of perception
-
-
-
-
-
-## final key concerns
+> The sincerity of one’s belief, the volume or frequency with which it is stated, or assurances to “believe me” should not be rationally persuasive by themselves.[@ellerton-2017-how]
 
 The fallacy of appeal to authority (https://plato.stanford.edu/entries/argument/#Fall)
 Also _Argumentation as an epistemic practice_ -- relates to Nordquist above (but compare with confirmation bias, and the backfire effect! -- motivated reasoning):
 
 > In particular, arguments that threaten our core beliefs and our sense of belonging to a group (e.g., political beliefs) typically trigger all kinds of motivated reasoning (Taber & Lodge 2006; Kahan 2017) whereby one outright rejects those arguments without properly engaging with their content. Relatedly, when choosing among a vast supply of options, people tend to gravitate towards content and sources that confirm their existing opinions, thus giving rise to so-called “echo chambers” and “epistemic bubbles” (Nguyen 2020). Furthermore, some arguments can be deceptively convincing in that they look valid but are not (Tindale 2007; see entry on [fallacies](https://plato.stanford.edu/entries/fallacies/)). Because most of us are arguably not very good at spotting fallacious arguments, especially if they are arguments that lend support to the beliefs we already hold, engaging in argumentation may in fact _decrease_ the accuracy of our beliefs by persuading us of false conclusions with incorrect arguments (Fantl 2018). <https://plato.stanford.edu/entries/argument/#Fall>
 
+They become truisms. A word like that? 
+
+- seems like these are closer to the level of myths or beliefs. Even hopes, wishes or desires. 
+
+Thinking through Ginot's statement that the purpose of science in somatics is to "foster belief" [[somatic practices, interoception and evidence#^fd4fbc]]. 
+
+### methods and superficiality
+
+- there's a bigger question about how we find things out. A question of method. how is it that we come to make this claim? methods are discipline specific. JDSP is full of many many kinds of methods: scientific interventions, ethnography, practice research, phenomenology, various qualitative practices (some with content analysis, some more akin to case studies) dance analysis, reflections, descriptions, various combinations of these. Many unstated. That is, it's not so clear how the writer got to say the things they are saying. Opinion. 
+- where is place for the 'rational' in this conversation? 
+- how might each of us justify the things we say? 
+
+- most of these claims are not falsifiable -- but calling on that word (and the legacy of Karl Popper) is likely troubling in this context, or at the very least unfashionable. What do we have to do to the practices to make them accountable to methods that value falsifiability? (Popper's falsifiability principle or razor: For a theory to be considered scientific, it must be falsifiable. (wikipedia) -- but )
+- these beliefs are sincere. We repeat them often. But sincerity and repetition are not the grounds by which we build an expansive understanding on the limits of somatic practices. 
+- is there value in suspending belief? (and our convictions). What might scepticism be worth to our field? Is there risk there? 
+
+How is this defensible? This position in somatics? 
+Language is superficial. We have a superficiality problem. 
+
+
+## final thought: decidedly epistemic concerns
+
 - backfire effect vs confirmation bias: how do you respond to this?
+- how certain do I feel about these being systemic problems in somatics? Clearly my evidence is partial -- and not nearly as rigorous as I would have liked it to be. But it's also not nothing. You might say the exit polls are not looking good for us, but there's still a glimmer of hope. 
+- [[pascal's wager]] very useful here:
 
-somatics as anecdotal -- and Ginot's 2010 paper (Erin used the term anecdotal to describe part of Ginot's critique)
+A philosophical argument related to probability theory in which the cost of being wrong far exceeds the cost of being right. If I am wrong then no harm done -- we enter debate etc. But if I am right the potential cost to our discipline is high. More 'rationale' to assume I am right (to bet on that), if being rational has anything to do with doing research in somatic practices. Use Pascal and god. 
 
-I am not the first to do this. Isabelle Ginot's remarkable piece of scholarship in Dance Research in 2010
+- are these concerns systemic in our field differently from how they are in other fields? That is, is somatic practices peculiar in how 
 
+>To the extent that critical thinking is about analysing and evaluating methods of inquiry and assessing the credibility of resulting claims, it is an epistemic endeavour.[@ellerton-2017-how n.pag]
 
-> An intuition is simply the powerful sense that something is true without our having an awareness or an understanding of the reasons behind this feeling - Annaka Harris (useful word to keep in mind)
+> One of the clearest ways to understand critical thinking is as applied epistemology. Issues such as the nature of logical [inference](https://www.thoughtco.com/inference-logic-term-1691165), why we should accept one line of reasoning over another, and how we understand the nature of evidence and its contribution to decision making, are all decidedly epistemic concerns.[@ellerton-2017-how n.pag.]
 
-See [[somatic practices, interoception and evidence#opportunities]] for useful things to add at end of this presentation.
+- "decidedly epistemic concerns" is a very useful term. These are the stakes and the more we enter an age of fake news, of filter bubbles (which large language models are only going to exacerbate) the more we become responsible for turning claims into arguments and building a stronger community of debate.
+
+> In cases when the artist thinks they know, their interpretation may not be accurate or the whole story. We live in a mysterious world full of uncertainties. And we regularly make assumptions to explain them. Coming to terms with the complexity of our human experience allows us to exit our natural state of confusion. To survive. Generally our explanations are guesses. These vague hypotheticals become fixed in our minds as fact. We are interpretation machines, and this process of labeling and detaching is efficient but not accurate. We are the unreliable narrators of our own experience. [@rubin-2023-creative Location 1813]
+
 
 ## not yet located
 
+See [[somatic practices, interoception and evidence#opportunities]] for useful things to add at end of this presentation.
 
-
-## Science and the body.
-Third person perspective. 
-First person perspective. Barrier? Boundary. 
-
-> being a kind of passenger in the body. Appropriating the body from some position of subjectivity - Sam Harris talking to Jay Garfield 23 May 2022 15:33
-
-- Olivia Barry mentions interoception: 
-> Rooted in movement and sensory perception, somatics explore the body to accrue interoceptive understanding and homeostatic awareness of the process of embodiment.[@barry-2022-tracing p.253]
-- this sentence makes zero sense. what is the 'process of embodiment'?
-
-- Barr and Anderson talk explicitly about link between science and somatics (in unproblematic way) and then how somatics extended beyond its association with science (p.11)
-- Barr and Anderson: "However, when returning to Hanna’s definition of somatics in conjunction with such ideas, questions about unspoken implications and consequences surface (Green 2015; Alexander and Kampe 2017)"[@barr-2022-illuminating p.12] -- worth looking at these and how unspoken they are?
-- "Somatics is neither a monolith nor a panacea"[@barr-2022-illuminating p.12] 
-- very useful re dance / science -- including citations
+- Ellerton article for The Conversation is useful. https://read.readwise.io/new/read/01gyhnwb6edbv3zxwh6j4wx4p4 -- very very good as overview of some suggestions I might make. 
 
 
 ## to do
@@ -306,6 +296,44 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 
 
 ## edit bin
+
+- somatics as anecdotal -- and Ginot's 2010 paper (Erin used the term anecdotal to describe part of Ginot's critique)
+- intuitions -- and their value (see Annaka Harris in the edit bin)
+
+
+### perception of change / change of perception
+
+- what does it mean to be good at somatics? How do we recognise someone who is 'good' at somatics? It's a funny/silly/old question/joke about somatics, but so much of what we can't and can say about somatics rests on the capacity to understand and communicate what it is we are observing/noticing (in ourselves and in others) when doing somatics well. See in [[Zoran Josipovic - Influence of Meditation on Anti-Correlated Networks in the Brain#^448a09]] and also note the Varela reference in that blockquote.
+- [[measuring outcome but not process in somatic practices]] -- see note re perception of change / change of perception
+
+I am not the first to do this. Isabelle Ginot's remarkable piece of scholarship in Dance Research in 2010
+
+> An intuition is simply the powerful sense that something is true without our having an awareness or an understanding of the reasons behind this feeling - Annaka Harris (useful word to keep in mind)
+
+### Science and the body.
+
+Third person perspective. 
+First person perspective. Barrier? Boundary. 
+
+> being a kind of passenger in the body. Appropriating the body from some position of subjectivity - Sam Harris talking to Jay Garfield 23 May 2022 15:33
+
+- Olivia Barry mentions interoception: 
+> Rooted in movement and sensory perception, somatics explore the body to accrue interoceptive understanding and homeostatic awareness of the process of embodiment.[@barry-2022-tracing p.253]
+- this sentence makes zero sense. what is the 'process of embodiment'?
+
+- Barr and Anderson talk explicitly about link between science and somatics (in unproblematic way) and then how somatics extended beyond its association with science (p.11)
+- Barr and Anderson: "However, when returning to Hanna’s definition of somatics in conjunction with such ideas, questions about unspoken implications and consequences surface (Green 2015; Alexander and Kampe 2017)"[@barr-2022-illuminating p.12] -- worth looking at these and how unspoken they are?
+- "Somatics is neither a monolith nor a panacea"[@barr-2022-illuminating p.12] 
+- very useful re dance / science -- including citations
+
+Linking here with Ingold's [[search for truth]] and the unison of imagination and experience, and of taking ourselves into the world. But how are we failing to do that in somatic practices? Contrast also with [[map and territory]] and my sense is that in the claims we are making we are attempting to construct the territory -- or to colonise the territory from a very small island (could give examples from those 'science' papers in JDSP (Batson et al is one?) which seem to be saying "you need to listen to us") 
+
+> also refer to the validation methods of phenomenology and Buddhist practices saying it ‘[...] is derived from its ability to transform progressively our lived experience and self-understanding’ (Varela et al. 1991: xix), a validation that also applies to somatic practices, given that it can only be measured from the observation of changes perceived by the individuals directly involved in the experience. [@silvagrebler-2020-reflection p.18]
+
+- is this the issue -- "can only be measured"? But does that mean we get to say anything we want about it? 
+
+Note a very early idea I had in [[zen, map and territory]] in which I describe [[authentic movement]] as a dance with territory or even noumenal experience ([[noumenon and phenomenon]]) -- really really not sure about this last bit. Noting also here the differences between Eastern and Western philosophy and practices re 'knowing' the noumenon: [[Hui - Cosmotechnics as Cosmopolitics#^e2cbd2]] The Kantian thing seems to be about the un-naming (which is to know the unknowable 'thing in itself'). Non-dual awareness ticks into here -- that when there is no self, the unknowing ceases to be something that one's self can not do. 
+
 
 In 2010, the dance scholar and Feldenkrais practitioner, Isabelle Ginot wrote a critique of Richard Shusterman's book _Body Consciousness: A Philosophy of Mindfulness and Somaesthetics_ (2008), and the way in which it attempts to apply somatic practices (specifically Feldenkrais and Alexander Techniques) as philosophical discourse. The article is called _From Shusterman’s Somaesthetics to a Radical Epistemology of Somatics_ [@ginot-2010-shusterman] and in it Ginot asks some difficult questions of somatic practices. _adjust this paragraph to focus on epistemological critique of Ginot's._ withering critique in the role of science to validate the "highly individualized"[@ginot-2010-shusterman p.15] experiences of somatic practices. 
 
