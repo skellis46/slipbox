@@ -66,7 +66,7 @@ You might (rightly) question my values here or attempt to understand what might 
 
 - noting that all these steps backwards take time and effort -- to discuss cherry picking, to talk about my motivations, to attempt to be transparent about the methods even for this simple analysis this morning. This effort is a low research bar, but it is also I think (or perhaps hope), rigorous -- a word that seems to have gone out of favour, at least in the disciplines in which I am most closely aligned. 
 
-## Five obvious observations
+## Six observations
 
 ### Ubiquity (define your terms)
 
@@ -104,45 +104,47 @@ The eighteenth-century French philosopher Voltaire wrote simply:
 
 > Define your terms ... or we shall never understand one another.[@mitchell-2019-artificial loc 286]
 
-There is tremendous responsibility in owning and clarifying our abstractions. Vagueness and abstraction go hand in hand, and "extraction follows closely on the heels of abstraction" [@mcquillan-2022-resisting n.pag.] And with extraction comes exploitation. Now you could just say, "It's just a bloody plié Simon" and I would understand. But even in such a benign example who and what might we be exploiting, even if the exploitation is an epistemic space? 
+There is tremendous responsibility in owning and clarifying our abstractions. Vagueness and abstraction go hand in hand, and "extraction follows closely on the heels of abstraction" [@mcquillan-2022-resisting n.pag.] And with extraction comes exploitation. Now you could just say, "It's just a bloody plié Simon" and I would understand. But even in such a benign example who and what might we be exploiting through our abstractions, even if the exploitation is an epistemic space? 
 
-Alfred North Whitehead warned that a corollary of abstraction is an effect he called _explaining away_ [Whitehead, in @mcquillan-2022-resisting p.49]. When we treat abstractions as something concrete "everything that does not fit into the schema is denied the status of proper existence" [@mcquillan-2022-resisting p.49] -- it is explained away. Abstractions make invisible anything that does not fit our model of the world. And even in a delightful celebration of the lowly plié the stakes get very high very quickly.
+Alfred North Whitehead warned that a corollary of abstraction is an effect he called _explaining away_ [Whitehead, in @mcquillan-2022-resisting p.49]. When we treat abstractions as something concrete "everything that does not fit into the schema is denied the status of proper existence" [@mcquillan-2022-resisting p.49] -- it is explained away. Abstractions make invisible anything that does not fit our model of the world. And even in a delightful celebration of the lowly or perhaps fundamental plié the epistemic stakes get very high very quickly.
 
 ### Mechanisms are as rare as hens teeth
 
-- very few give mechanisms for what somatics do. VERY few. And when they do they are vague OR it's not possible to ascertain if the mechanisms even have anything to do with the somatic practice around which the claim is based. very dangerous -- drawing a paper thin line from a practice to an effect. But which aspects of the practice causes that effect? And by what means? 
+One of the things I catalogued for the articles I looked at was whether they contained any description of the mechanism for the claims made on behalf of the somatic practice. By "mechanism" I mean some indication of _how_ the somatic practice did what the author said it did. Very few articles in JDSP give mechanisms for how their particular somatics do what they claim to do: about one in five. In most cases, the practice (or practices) are implicitly also the mechanism. In other words, somatic practice x can lead to effect y through the process somatic practice x. 
 
-Millman article here [@millman-2023-online] -- bloody fascinating
+When articles do contain mechanisms they are often vague OR it's not possible to ascertain if the mechanisms even have anything to do with the somatic practice around which the claim is based. 
 
-- noting that in most cases the practice (or practices) implicitly are also the mechanism -- noting here holistic work
+Here's an example. It's the next one off my list of randomly selected articles, and is from Vicky Wright's remarkable 2021 (V13:1/2) reflection on _Using mask to explore earlier evolutionary states of sensory awareness, and their role in our inter-relationship with the natural world_ [-@wright-2021-using].
 
-- mechanism -- why does it matter? If it works, who cares how? Because if we have no understanding of mechanisms than we don't know which part of a practice is responsible for the changes we seem to be seeing (or indeed if it's the gestalt of the practice). See [[measuring outcome but not process in somatic practices]]
+In this I labelled the somatic practice _Phylogenetic mask work_ which I appreciate is not your run-of-the-mill somatic practice. Wright claimed that this mask work:
 
-- noting how practice and mechanism are almost exclusively the same thing - circularity
+> can help us to overcome a human/nature alienation and instead create connection.[@wright-2021-using p.203]
 
-from Wright example above: I say "simply by chance" because it was rare -- I estimate less than a quarter of the articles I reviewed -- for articles to include the mechanisms by which the somatic practices functioned.
+There is some sense of mechanism for this effect described by Wright as the "'animal' or 'natural' modes of sensing available to us within our bodies" [@wright-2021-using p.203] and which later in the article she develops as principles. In other words, it is the animal and nature modes of sensing that are _how_ the mask work helps us to overcome human/nature alienation. 
 
-How does it do this? Without this question our claims remain flimsy. They remain simply claims. And without evidence of the effect of these mechanisms then what are we doing? Hitchens' razor? 
+I have lots of questions here, not least how it is that we would know if this mechanism (if indeed it is a mechanism for change) was doing its work, or (more usefully) how would we know if it were not the mechanism for this effect? 
 
-### Patchwork
+Why does this matter? I mean, if practice x leads to effect y does it matter how, especially if the effect is due to the holistic nature of the practice: something ineffable, unable to be measured, or completely mysterious? I think it matters because if we have no understanding of the mechanisms of change then we don't know which part of a practice is responsible for the changes we seem to be seeing and describing. It's a monumental question really. _How_ does this practice do this? Without this question our claims remain flimsy. They remain simply claims.  
 
-I observe that the articles in the journal are mostly individual cells of information that present their own idea oblivious to other practices and debates in the field. It is as if we are -- through the journal -- building a patchwork quilt in which the various (and very different) pieces are waiting to be stitched together, or perhaps are roughly hung together by the acronym JDSP. There are exceptions particularly in the earlier issues, and then later in articles for example by Nuding [-@nuding-2021-approaching] and Laidlaw [-@laidlaw-2021-ecological]. 
+And if I were being horribly provocative I'd drop a philosophical razor into the room. A philosophical razor is a rule of thumb designed to shave off unlikely explanations of phenomena; a time-saving device. Actually, this one is an epistemological razor designed as a rule for rejecting certain knowledge claims. This razor is called Hitchens' razor, created by and named after renowned journalist and atheist Christopher Hitchens. Hitchens' epistemological razor is this: 
+
+> what can be asserted without evidence can also be dismissed without evidence. [@hitchens-2007-god p.258]
+
+Hitchens was using the razor in the context of refuting religious belief, but more broadly, what it does is place the burden of proof on the person making the claim. For example, if I claim that somatic practices improves coordination, then it is my responsibility to attempt to provide the evidence to make that argument. 
+
+### Patchwork quilt
+
+I observed that the articles in the journal are mostly individual cells of information that present their own idea oblivious to other practices and debates in the field. It is as if we are -- through the journal -- building a patchwork quilt in which the various (and very different) pieces are waiting to be stitched together, or perhaps are roughly hung together by the acronym JDSP. There are exceptions particularly in the earlier issues, and then later in articles for example by Nuding [-@nuding-2021-approaching] and Laidlaw [-@laidlaw-2021-ecological]. 
 
 I wonder if we could all agree that this patchwork phenomena in JDSP is a thing. We don't have to agree on whether it is a good or bad thing. But that it exists. Perhaps it is a thing because somatics as an artistic-scholarly field is still fledgling? But is it? When might we be ready enough to shed the precarious/new label? I worry that we hide behind it to rationalise this patchwork phenomenon I have observed and am describing. That thinking of ourselves as fledgling is the means by which we get to say what we want, as if someday (in the distant future) these claims will be given the evidence they deserve. 
 
-### Descriptions
+### Descriptions of practice
 
-The most common articles that made no claims were those that were simple descriptions of practice. For example -- just name the articles. But other descriptions of practice go into claim mode ... - ones that are descriptive of process make fewer claims. Vital role -- in knowing. But rarely if ever (as I've written about elsewhere) talk about similar practices. Isolated bubbles.
-- also how many are just sharing practice -- not a comment. These might make no claims at all (just describe it) all the way to overselling the hell out of it
-- note to make a distinction between claims and descriptions that make or do not make claims
-- Hetty: other fields similar to somatics? what about music (re making claims)
-
-- noting how differently I feel when no claims are made. Mostly I felt relief. That I am left to invest so differently (but also feel a little lost -- like watching art). How art (for the most part) doesn't make claims. 
-- surprising number of simply descriptive accounts of practice. No claims. Refreshing. That the journal is/was a place to share current practices. Not in touch with other practices though (see Ellis forthcoming)
-
-
+The articles that most commonly do NOT make claims are those that are simple descriptions or presentations of practice. For example Whitehead [-@whitehead-2021-stitching], Crisp and Roberts [-@crisp-2021-reflections], Tokunow et al [-@tokunow-2021-stages], Wolfman [-@wolfman-2021-video], and Weber Da Silva et al [-@weberdasilva-2020-am]. It is curious to read these writings and the sense of space they gave me after the feeling of being inundated with claims. It seems that one part of the Journal's role is as a place where current practices are shared. I'll note though -- and this is a particular bug bear of mine [see @ellis-forthcoming-ecosystemic] that rarely are these descriptions of practice drawn into dialogue with other similar or overlapping practices. They are more or less isolated bubbles of practice which likewise contribute to the patchwork I have just discussed. 
 
 ### Arguing from authority
+
+With each article I noted the type of somatic practice, the claim itself, the mechanism for the claim, and whether the claim was primary or secondary. 
 
 When I started my hunch was that the claims made on behalf of somatics would veer towards being claims (or appeals) to authority. 
 
@@ -157,15 +159,19 @@ Don't want to simply replicate Ginot's thinking and argument.
 - surprising just how little 2º there was -- my hunch was about Anna Pakes' idea
 - the circular logic of arguing from authority, or what Ginot describes as endogenous somatics discourses [@ginot-2010-shusterman]; i
 
-## five provocations
-
-### the case of _can_
+### Doing the can can
 
 do comparison of how Grau uses the word can -- which is different from 'somatics can'. Quite specific. 
 
 e.g.:
 
 > focusing on the micro-political body through somatic education can help women exercise agency within the matrix of social inequalities they live in. [Fortin, in @fortin-2018-fibromyalgia p.271]
+
+## five provocations
+
+### the case of _can_
+
+
 
 
 ### claims of fact and claims of value
@@ -233,6 +239,8 @@ Language is superficial. We have a superficiality problem.
 
 ## final thought: decidedly epistemic concerns
 
+- Hetty: other fields similar to somatics? what about music (re making claims)
+
 - backfire effect vs confirmation bias: how do you respond to this?
 - how certain do I feel about these being systemic problems in somatics? Clearly my evidence is partial -- and not nearly as rigorous as I would have liked it to be. But it's also not nothing. You might say the exit polls are not looking good for us, but there's still a glimmer of hope. 
 - [[pascal's wager]] very useful here:
@@ -248,6 +256,8 @@ A philosophical argument related to probability theory in which the cost of bein
 - "decidedly epistemic concerns" is a very useful term. These are the stakes and the more we enter an age of fake news, of filter bubbles (which large language models are only going to exacerbate) the more we become responsible for turning claims into arguments and building a stronger community of debate.
 
 > In cases when the artist thinks they know, their interpretation may not be accurate or the whole story. We live in a mysterious world full of uncertainties. And we regularly make assumptions to explain them. Coming to terms with the complexity of our human experience allows us to exit our natural state of confusion. To survive. Generally our explanations are guesses. These vague hypotheticals become fixed in our minds as fact. We are interpretation machines, and this process of labeling and detaching is efficient but not accurate. We are the unreliable narrators of our own experience. [@rubin-2023-creative Location 1813]
+
+Millman article here [@millman-2023-online] -- bloody fascinating
 
 - dissent: protect the dissenters. expressing dissent because a research field is only as strong as what it allows to be questioned. 
 - indebted to Ginot -- but also to a lesser extent Nuding. colleagues at C-DaRE (shitting on my own doorstep) - in particular Hetty Blades and Teoma Naccarato for their support and/or enthusiasm for this work. Anna Pakes. Erin Brannigan
@@ -312,10 +322,18 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 - [[define your terms]]
 - [[extraction follows abstraction]]
 - [[explaining away (Whitehead)]]
+- [[measuring outcome but not process in somatic practices]]
 
 
 ## edit bin
 
+from Wright example above: I say "simply by chance" because it was rare -- I estimate less than a quarter of the articles I reviewed -- for articles to include the mechanisms by which the somatic practices functioned.
+
+But other descriptions of practice go into claim mode ... - ones that are descriptive of process make fewer claims. Vital role -- in knowing. But rarely if ever (as I've written about elsewhere) talk about similar practices. Isolated bubbles.
+- also how many are just sharing practice -- not a comment. These might make no claims at all (just describe it) all the way to overselling the hell out of it
+
+- noting how differently I feel when no claims are made. Mostly I felt relief. That I am left to invest so differently (but also feel a little lost -- like watching art). How art (for the most part) doesn't make claims. 
+- surprising number of simply descriptive accounts of practice. No claims. Refreshing. 
 
 ### The subjective to the general
 
@@ -381,15 +399,7 @@ It is the most sustained and well argued critique of somatic practices scholarsh
 
 - dig deeper into the kinds of claims I was looking for -- need clarity here -- see Hetty's comments
 
-With each article I noted the type of somatic practice, the claim itself, the mechanism for the claim, and whether the claim was primary or secondary. By "mechanism" I mean some indication of how the somatic practice did what the author said it did. 
 
-Here's an example. It's the next one off my list of randomly selected articles, and is from Vicky Wright's remarkable 2021 (V13:1/2) reflection on _Using mask to explore earlier evolutionary states of sensory awareness, and their role in our inter-relationship with the natural world_.
-
-In this the somatic practice would be _Phylogenetic mask work_ which I appreciate is not your run of the mill somatic practice. Wright claimed that this mask work:
-
-> can help us to overcome a human/nature alienation and instead create connection.[@wright-2021-using p.203]
-
-This claim was primary in that it made no reference to research or scholarship by other people. There is some sense of mechanism for this effect described by Wright as the "'animal' or 'natural' modes of sensing available to us within our bodies" [@wright-2021-using p.203] and which later in the article she develops as principles. 
 
 (I would guess that as of now it is the journal I have read most in my scholarly life, perhaps along with IJSD and CHOR -- but then I've co-edited those journals) I think 
 
