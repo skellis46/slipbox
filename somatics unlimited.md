@@ -104,7 +104,7 @@ The eighteenth-century French philosopher Voltaire wrote simply:
 
 > Define your terms ... or we shall never understand one another.[@mitchell-2019-artificial loc 286]
 
-There is tremendous responsibility in owning and clarifying our abstractions. Vagueness and abstraction go hand in hand, and "extraction follows closely on the heels of abstraction" [@mcquillan-2022-resisting n.pag.] And with extraction comes exploitation. Now you could just say, "It's just a bloody plié Simon" and I would understand. But even in such a benign example who and what might we be exploiting through our abstractions, even if the exploitation is an epistemic space? 
+There is tremendous responsibility in owning and clarifying our abstractions. Vagueness and abstraction go hand in hand, and "extraction follows closely on the heels of abstraction" [@mcquillan-2022-resisting n.pag.] And with extraction comes exploitation. Now you could just say, "It's just a bloody plié Simon" and I would understand. But even in such a benign example who and what might we be exploiting through our abstractions, even if the exploitation is of an epistemic space? 
 
 Alfred North Whitehead warned that a corollary of abstraction is an effect he called _explaining away_ [Whitehead, in @mcquillan-2022-resisting p.49]. When we treat abstractions as something concrete "everything that does not fit into the schema is denied the status of proper existence" [@mcquillan-2022-resisting p.49] -- it is explained away. Abstractions make invisible anything that does not fit our model of the world. And even in a delightful celebration of the lowly or perhaps fundamental plié the epistemic stakes get very high very quickly.
 
@@ -124,58 +124,57 @@ There is some sense of mechanism for this effect described by Wright as the "'an
 
 I have lots of questions here, not least how it is that we would know if this mechanism (if indeed it is a mechanism for change) was doing its work, or (more usefully) how would we know if it were not the mechanism for this effect? 
 
-Why does this matter? I mean, if practice x leads to effect y does it matter how, especially if the effect is due to the holistic nature of the practice: something ineffable, unable to be measured, or completely mysterious? I think it matters because if we have no understanding of the mechanisms of change then we don't know which part of a practice is responsible for the changes we seem to be seeing and describing. It's a monumental question really. _How_ does this practice do this? Without this question our claims remain flimsy. They remain simply claims.  
+Why does this matter? I mean, if practice x leads to effect y does it matter how, especially if the effect is due to the holistic nature of the practice: something ineffable, unable to be measured, or completely mysterious or unfathomable? I think it matters because if we have no understanding of the mechanisms of change then we don't know which part of a practice is responsible for the changes we seem to be seeing and describing. It's a monumental question really. _How_ does this practice do this? Without this question our claims remain flimsy. They remain simply claims. Perhaps though the lack of 'mechanisms' is not surprising. These are (by and large) not the methods we adopt in our work. 
 
-And if I were being horribly provocative I'd drop a philosophical razor into the room. A philosophical razor is a rule of thumb designed to shave off unlikely explanations of phenomena; a time-saving device. Actually, this one is an epistemological razor designed as a rule for rejecting certain knowledge claims. This razor is called Hitchens' razor, created by and named after renowned journalist and atheist Christopher Hitchens. Hitchens' epistemological razor is this: 
+But if I were being horribly provocative I'd drop a philosophical razor into the room. A philosophical razor is a rule of thumb designed to shave off unlikely explanations of phenomena; a time-saving device. Actually, this one is an epistemological razor designed as a rule for rejecting certain knowledge claims. This razor is called Hitchens' razor, created by and named after renowned journalist and atheist Christopher Hitchens. Hitchens' epistemological razor is this: 
 
 > what can be asserted without evidence can also be dismissed without evidence. [@hitchens-2007-god p.258]
 
-Hitchens was using the razor in the context of refuting religious belief, but more broadly, what it does is place the burden of proof on the person making the claim. For example, if I claim that somatic practices improves coordination, then it is my responsibility to attempt to provide the evidence to make that argument. 
+Hitchens was using the razor in the context of refuting religious belief, but more broadly, what it does is place the burden of proof on the person making the claim. For example, if I claim that somatic practices improves physical coordination, then it is my responsibility to attempt to provide the evidence to make that argument. 
 
 ### Patchwork quilt
 
-I observed that the articles in the journal are mostly individual cells of information that present their own idea oblivious to other practices and debates in the field. It is as if we are -- through the journal -- building a patchwork quilt in which the various (and very different) pieces are waiting to be stitched together, or perhaps are roughly hung together by the acronym JDSP. There are exceptions particularly in the earlier issues, and then later in articles for example by Nuding [-@nuding-2021-approaching] and Laidlaw [-@laidlaw-2021-ecological]. 
+I observed that the articles in the journal are mostly individual cells of information that present their own idea oblivious to other practices and debates in the field. It is as if we are -- through the journal -- building a patchwork quilt in which the various (and very different) pieces are waiting to be stitched together, or perhaps are roughly hung together by the acronym JDSP. There are exceptions particularly in the earlier issues, and then later in articles for example by Nuding [-@nuding-2021-approaching] and Laidlaw [-@laidlaw-2021-ecological]. But I suspect these are exceptions that prove the rule.
 
-I wonder if we could all agree that this patchwork phenomena in JDSP is a thing. We don't have to agree on whether it is a good or bad thing. But that it exists. Perhaps it is a thing because somatics as an artistic-scholarly field is still fledgling? But is it? When might we be ready enough to shed the precarious/new label? I worry that we hide behind it to rationalise this patchwork phenomenon I have observed and am describing. That thinking of ourselves as fledgling is the means by which we get to say what we want, as if someday (in the distant future) these claims will be given the evidence they deserve. 
+I wonder if we could all agree that this patchwork phenomena in JDSP is a thing. We don't have to agree on whether it is a good or bad thing. But that it exists. Perhaps it is a thing because somatics as an artistic-scholarly field is still fledgling? But is it still fledgling? When might we be ready enough to shed the _new_ label? I worry that we hide behind it to rationalise this patchwork phenomenon I have observed and am describing. That thinking of ourselves as fledgling is the means by which we get to say what we want, as if someday (in the distant future) these claims will be given the evidence they deserve or that we know to be right. Remember the brouhaha in our field about mirror neurons?  
 
 ### Descriptions of practice
 
-The articles that most commonly do NOT make claims are those that are simple descriptions or presentations of practice. For example Whitehead [-@whitehead-2021-stitching], Crisp and Roberts [-@crisp-2021-reflections], Tokunow et al [-@tokunow-2021-stages], Wolfman [-@wolfman-2021-video], and Weber Da Silva et al [-@weberdasilva-2020-am]. It is curious to read these writings and the sense of space they gave me after the feeling of being inundated with claims. It seems that one part of the Journal's role is as a place where current practices are shared. I'll note though -- and this is a particular bug bear of mine [see @ellis-forthcoming-ecosystemic] that rarely are these descriptions of practice drawn into dialogue with other similar or overlapping practices. They are more or less isolated bubbles of practice which likewise contribute to the patchwork I have just discussed. 
+The articles that most commonly do NOT make claims are those that are simple descriptions or presentations of practice. For example Whitehead [-@whitehead-2021-stitching], Crisp and Roberts [-@crisp-2021-reflections], Tokunow et al [-@tokunow-2021-stages], Wolfman [-@wolfman-2021-video], and Weber Da Silva et al [-@weberdasilva-2020-am]. It is curious to read these writings and the sense of space they gave me after the feeling of being inundated with claims that seemed impossible to substantiate. 
+
+It seems that one vital part of the Journal's role is as a place where current practices are shared. I'll note though -- and this is a particular bug bear of mine [see @ellis-forthcoming-ecosystemic] that rarely are these descriptions of practice drawn into dialogue with other similar or overlapping practices. They are more or less isolated bubbles of practice which likewise contribute to the patchwork I have just discussed. 
 
 ### Arguing from authority
 
-With each article I noted the type of somatic practice, the claim itself, the mechanism for the claim, and whether the claim was primary or secondary. 
+When I began this work my hunch was that the claims made on behalf of somatics would veer towards being claims (or appeals) to authority. The fallacy of appeal to authority (https://plato.stanford.edu/entries/argument/#Fall) is when "a claim is supported by reference to an authority instead of offering reasons to support it" [@novaes-2021-argument n.pag.] These are akin to what Isabelle Ginot -- in her landmark critique of somatic practices in 2010 (a critique I am indebted to here) -- described as endogenous somatics discourses [@ginot-2010-shusterman]. 
 
-When I started my hunch was that the claims made on behalf of somatics would veer towards being claims (or appeals) to authority. 
+But I was surprised. Of the articles I reviewed, about two-thirds made what I called primary claims. That is, a claim that makes no reference to research or scholarship by other people (it is uncited or assumed) and/or is based on the practices described in the article.
 
-in that it made no reference to research or scholarship by other people.
-- by primary source I mean a claim that is uncited. Sometimes the citation is assumed (as if it's a matter of (uncontestable) fact)
-- by primary I mean a claim that is not attributed OR has come from the research being presented (vast % is simply an opinion in fact's clothing)
+Yet perhaps I shouldn't be surprised. These primary claims align with the patchwork I have just described. They are primary claims that are placed into the aether of somatics practices discourses, and rarely, if ever, interrupt, change or unsettle the practices (and their epistemic underpinnings) we talk to in the journal. 
 
-My hunch was that the evidence for claims would be secondary. That the predominance would be arguing from authority. Early on in the journal. But in later volumes not at all. By far we are making primary claims. Almost total lack of mechanisms for these claims. That is, if we say somatics does this, then how does it do this? Perhaps the lack of 'mechanisms' is not surprising. These are (by and large) not the methods we adopt in our work. [[ginot - epistemology of somatics]] warned us with her concerns. 
+### Doing the can-can
 
-Don't want to simply replicate Ginot's thinking and argument.
+I want to talk about the word can. I'll use two examples from my random set. Here's Andree Grau writing in JDSP in 2011: 
 
-- surprising just how little 2º there was -- my hunch was about Anna Pakes' idea
-- the circular logic of arguing from authority, or what Ginot describes as endogenous somatics discourses [@ginot-2010-shusterman]; i
+> This prerogative of the visual can be seen in everyday life, when ‘seeing’ is equated to ‘understanding’ [@grau-2011-dancing p.9]
 
-### Doing the can can
+And here's Sylvie Fortin writing in 2018 and citing herself from 2015:: 
 
-do comparison of how Grau uses the word can -- which is different from 'somatics can'. Quite specific. 
+> focusing on the micro-political body through somatic education can help women exercise agency within the matrix of social inequalities they live in. [Fortin 2015, in @fortin-2018-fibromyalgia p.271]
 
-e.g.:
+Just to be clear: Both of these articles are remarkable and I have enormous respect for both authors, and I sure have missed Andree in these last years. 
 
-> focusing on the micro-political body through somatic education can help women exercise agency within the matrix of social inequalities they live in. [Fortin, in @fortin-2018-fibromyalgia p.271]
+In both quotes, the word _can_ is equivalent to the term "to be able to". But the stakes of Fortin's _can_ are high. Her _can_ is implicated in a claim about somatic practices: somatic practice x CAN lead to effect y. Once you start seeing this in JDSP you see it everywhere although I don't want to slip into 
+
+Baader-Meinhof phenomenon
+
+use examples from opening 5. 
+
 
 ## five provocations
 
-### the case of _can_
-
-
-
 
 ### claims of fact and claims of value
-
 
 > Generally, there are three primary types of claims in an argument, also called persuasive claims:
 >  Claims of fact assert that something is true or not true.
@@ -212,7 +211,7 @@ overdetermination: “occurs when a single-observed effect is determined by mult
 
 > The sincerity of one’s belief, the volume or frequency with which it is stated, or assurances to “believe me” should not be rationally persuasive by themselves.[@ellerton-2017-how]
 
-The fallacy of appeal to authority (https://plato.stanford.edu/entries/argument/#Fall)
+
 Also _Argumentation as an epistemic practice_ -- relates to Nordquist above (but compare with confirmation bias, and the backfire effect! -- motivated reasoning):
 
 > In particular, arguments that threaten our core beliefs and our sense of belonging to a group (e.g., political beliefs) typically trigger all kinds of motivated reasoning (Taber & Lodge 2006; Kahan 2017) whereby one outright rejects those arguments without properly engaging with their content. Relatedly, when choosing among a vast supply of options, people tend to gravitate towards content and sources that confirm their existing opinions, thus giving rise to so-called “echo chambers” and “epistemic bubbles” (Nguyen 2020). Furthermore, some arguments can be deceptively convincing in that they look valid but are not (Tindale 2007; see entry on [fallacies](https://plato.stanford.edu/entries/fallacies/)). Because most of us are arguably not very good at spotting fallacious arguments, especially if they are arguments that lend support to the beliefs we already hold, engaging in argumentation may in fact _decrease_ the accuracy of our beliefs by persuading us of false conclusions with incorrect arguments (Fantl 2018). <https://plato.stanford.edu/entries/argument/#Fall>
@@ -239,15 +238,13 @@ Language is superficial. We have a superficiality problem.
 
 ## final thought: decidedly epistemic concerns
 
-- Hetty: other fields similar to somatics? what about music (re making claims)
-
 - backfire effect vs confirmation bias: how do you respond to this?
 - how certain do I feel about these being systemic problems in somatics? Clearly my evidence is partial -- and not nearly as rigorous as I would have liked it to be. But it's also not nothing. You might say the exit polls are not looking good for us, but there's still a glimmer of hope. 
 - [[pascal's wager]] very useful here:
 
 A philosophical argument related to probability theory in which the cost of being wrong far exceeds the cost of being right. If I am wrong then no harm done -- we enter debate etc. But if I am right the potential cost to our discipline is high. More 'rationale' to assume I am right (to bet on that), if being rational has anything to do with doing research in somatic practices. Use Pascal and god. 
 
-- are these concerns systemic in our field differently from how they are in other fields? That is, is somatic practices peculiar in how 
+- are these concerns systemic in our field differently from how they are in other fields? (hetty) That is, is somatic practices peculiar in how 
 
 >To the extent that critical thinking is about analysing and evaluating methods of inquiry and assessing the credibility of resulting claims, it is an epistemic endeavour.[@ellerton-2017-how n.pag]
 
@@ -260,7 +257,7 @@ A philosophical argument related to probability theory in which the cost of bein
 Millman article here [@millman-2023-online] -- bloody fascinating
 
 - dissent: protect the dissenters. expressing dissent because a research field is only as strong as what it allows to be questioned. 
-- indebted to Ginot -- but also to a lesser extent Nuding. colleagues at C-DaRE (shitting on my own doorstep) - in particular Hetty Blades and Teoma Naccarato for their support and/or enthusiasm for this work. Anna Pakes. Erin Brannigan
+- indebted to Ginot. colleagues at C-DaRE (shitting on my own doorstep) - in particular Hetty Blades and Teoma Naccarato for their support and/or enthusiasm for this work. Anna Pakes. Erin Brannigan
 
 # Admin
 
@@ -323,9 +320,20 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 - [[extraction follows abstraction]]
 - [[explaining away (Whitehead)]]
 - [[measuring outcome but not process in somatic practices]]
+- [[ginot - epistemology of somatics]]
 
 
 ## edit bin
+
+- surprising just how little 2º there was -- my hunch was about Anna Pakes' idea
+
+Early on in the journal. But in later volumes not at all. By far we are making primary claims. Almost total lack of mechanisms for these claims. That is, if we say somatics does this, then how does it do this? 
+
+in that it made no reference to research or scholarship by other people.
+- by primary source I mean a claim that is uncited. Sometimes the citation is assumed (as if it's a matter of (uncontestable) fact)
+- by primary I mean a claim that is not attributed OR has come from the research being presented (vast % is simply an opinion in fact's clothing)
+
+- Hetty: other fields similar to somatics? what about music (re making claims)
 
 from Wright example above: I say "simply by chance" because it was rare -- I estimate less than a quarter of the articles I reviewed -- for articles to include the mechanisms by which the somatic practices functioned.
 
