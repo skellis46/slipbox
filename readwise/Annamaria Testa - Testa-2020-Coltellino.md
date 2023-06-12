@@ -17,3 +17,7 @@
 
 > Siate brevi. Il segreto è tenere la bocca più chiusa, tenere la mente più aperta, ed essere sempre pronti a sorprendersi. (Location 2699)
 
+## New highlights added June 11, 2023 at 12:01 PM
+
+> scaricabarile è popolarissimo. Diventa tanto più agevole (Location 3229)
+
