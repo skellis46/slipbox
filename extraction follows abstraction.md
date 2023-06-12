@@ -10,6 +10,8 @@ _previous note:_ [[printing press]]
 
 > AI is already a seamless part of a wider system where extraction follows closely on the heels of abstraction. [@mcquillan-2022-resisting location 1712]
 
+- [[explaining away (Whitehead)]]
+
 ---
 
 _original source/found:_ 
