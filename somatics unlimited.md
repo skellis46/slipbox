@@ -4,15 +4,15 @@ tags: []
 type: "evergreen"
 ---
 
-# somatics unlimited
+# Somatics Unlimited
 
 _previous note:_ [[somatic practices, interoception and evidence]]
 
 ![[somatics unlimited map.canvas]]
 
-## the things that we say
+## The things that we say
 
-Here are five claims made on behalf of somatics drawn from the pages of JDSP. 
+Here are five claims made on behalf of somatics and drawn from the pages of JDSP. 
 
 > Embodied perspectives can enrich traditional theories and approaches [Meier et al 2012, in @petsilas-2019-embodied p.182]
 
@@ -24,79 +24,91 @@ Here are five claims made on behalf of somatics drawn from the pages of JDSP.
 
 > It is a widely held view that ‘somatics has arrived precisely to resolve the many fragmentations between different forms and disciplines, between theory and practice, education and environment, aesthetics and healing, art, creation and performance, experience and reflection’ [Fernandes 2015: 10, in @donadel-2020-online p.156]
 
-These claims are arbitrary really. I pulled them from five different articles; the very first five articles I selected at random from the 271 articles that have been published in JDSP since 2009 (up to volume 14.2 in 2022). 
-
-## making claims
+## Making claims
 
 What does it mean to _claim_ something? 
 
-The dictionary definitions are telling. As a countable noun a "claim is something which someone says which they cannot prove and which may be false" [@noauthor-nodate-claim]. In the US in particular, a claim is loosely used as a synonym for contend, maintain or assert [@noauthor-2022-claim]. To claim something is also to "assert and demand recognition" or possession of something. And lastly, by definition, when we say someone claims something, we imply doubt [@noauthor-nodate-claim]. 
+Here are some definitions. As a countable noun a "claim is something which someone says which they cannot prove and which may be false" [@noauthor-nodate-claim]. In the US in particular, a claim is loosely used as a synonym for contend, maintain or assert [@noauthor-2022-claim]. To claim something is also to "assert and demand recognition" or possession of something. And lastly, by definition, when we say someone claims something, we imply doubt [@noauthor-nodate-claim]. 
 
-Claims are not arguments.
+What a claim is not is an argument.
 
 > Claims backed by reasons that are supported by evidence are called arguments. [@nordquist-2020-what n.pag.]
 
 A claim without evidence is simply an opinion or _assertion_. 
 
-And so I use the word _claim_ because while reading JDSP over the years I started to see a pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices. That is we -- and by we I mean those of us who contribute to the journal -- seem fine to say pretty much whatever we like about the effects and benefits of somatic practices. There is a tendency for us to assert that somatics have unlimited value, scope, and power to produce change. It is barely believable from an insider's perspective, and one can only imagine how it might seem from the outside.  
+And so I have used the word _claim_ because while reading JDSP over the years I started to see a tendency or pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices: that somatics have unlimited value, scope, and power to produce change. We -- and by we I mean those of us who contribute to the journal -- we seem fine to say pretty much whatever we like about the effects and benefits of somatic practices. It is barely believable from an insider's perspective, and one can only imagine how it might seem from the outside.  
 
 In doing this work I do not seek to shame our field or tear it down. If anything, I see myself as a believer in the transformative powers of somatic practices: I have experienced their benefits, and continue to practice a version of authentic movement as a fundamental approach to understanding movement, sensation and consciousness. Rather, I want to understand the epistemic values of somatic practices as represented by the materials published in JDSP and what these values say about our community of practice and scholarship.
 
-## an unfinished catalogue of claims
+## An unfinished catalogue of claims
 
-Late last year I started something that I have not yet finished. I started cataloguing every claim made on behalf of somatic practices in the Journal of Dance and Somatic Practices. 
+And so, late last year, I started something that I have not yet finished. I started cataloguing every claim made on behalf of somatic practices in the Journal of Dance and Somatic Practices. 
 
-I haven't yet finished this cataloguing effort because I ran out of time. To date (2022 14.2), 271 articles have been published in JDSP. This number excludes editorials, reports, book reviews and volume 14.1S (translations of Martha Eddy's 2009 history), but includes interviews and editorials for special issues which were fuller than regular editorials. To this date I have only read and worked through 85 of these 271, which is just shy of a third of them. I worked from both the beginning and the end of the journal so the articles most poorly represented by my analysis come from the years 2012 to 2018. 
+I haven't yet finished this cataloguing effort because I ran out of time. In fact, I didn't get close. To date (2022 V14.2), 271 articles have been published in JDSP. This number excludes editorials, reports, book reviews and volume 14.1S (translations of Martha Eddy's 2009 history), but includes interviews and editorials for special issues which were fuller than regular editorials. To this date I have only read and worked through 85 of these 271, which is just shy of a third of them. "Piss poor effort". I worked from both the beginning and the end of the journal so the articles most poorly represented by my analysis come from the middle years 2012 to 2018. 
 
 All of my observations today have emerged from those book-ending articles from the JDSP database. 
 
-### two methodological concerns
+## Two methodological concerns
 
-#### cherry picking
+### Cherry picking
 
 My assumption is that researchers are all (more or less) guilty of cherry-picking. We seek examples that confirm our beliefs or ideas and ignore examples that contradict or are contrary to these beliefs. I don't think we do this deliberately or consciously, but we do do it. Cherry picking is also known as the fallacy of incomplete evidence, and in science it is an epistemological characteristic of denialism. 
 
-To this end, all examples I have included in this presentation were not cherry picked. Rather, I randomly selected 20 articles from the 272 and then worked my way down that selection. Result of not completing my analysis in time (and later -- after a conversation with my colleague Anna Pakes -- realising that a more rigorous corpus would be ideal for this kind of linguistic analysis). For example, the list of quote-claims I presented at the beginning were drawn -- one each -- from the first five randomly selected articles. Where an article did not include an example ... This process is to avoid claims that I have cherry picked examples, but also as an indication of how common the following observations are. 
+To this end, I have tried to mitigate against cherry picking. For instance, I randomly selected 20 articles from the 272 and then worked my way down that selection to include as examples this morning. For example, the list of quote-claims I presented at the beginning were drawn -- one each -- from the first five randomly selected articles. This randomised process is to avoid claims that I have cherry picked examples, but it also indicates just how common the following observations are in the JDSP corpus. You might argue (fairly) that I even developed a bias to notice such claims and drawing articles at random is a simple attempt to reduce that kind of confirmation bias. 
 
-What I did not cherry pick were examples that contradicted my observations. I sought them out. Exception proving rule? Or the possibility of another way? 
+The other thing is that I had to introduce this randomisation as a result of not completing my analysis in time. And later, after a conversation with the dance philosopher Anna Pakes, it became clear to me that a more rigorous linguistic analysis of the JDSP corpus would be ideal for this kind of analysis. But that's a different presentation. 
 
-You might argue (fairly) that I even developed a bias to notice such claims and drawing articles at random is a simple attempt to reduce that kind of confirmation bias. 
+### Motivated reasoning
 
-although I have drawn examples at random from the entire pool of JDSP articles.
-
-#### motivated reasoning
+Thinking about motivated reasoning (introduce it briefly -- example of female cigarette smokers?) --- but what other approaches might there be: cynical, caring, curiosity (approaches to how I understand my experience of reviewing these articles)
 
 You might (rightly) question my values here or attempt to understand what might be in it for me. What are the motivations for my reasoning? I can say I am worried. I worry for what this pattern might mean for our field -- a field that I am indebted to, that is fundamental to my practice (as artist-scholar) and that deeply nourishes how I participate in the world. 
 
-- thinking about motivated reasoning (introduce it briefly -- example of female cigarette smokers?) --- but what other approaches might there be: cynical, caring, curiosity (approaches to how I understand my experience of reviewing these articles)
+- noting that all these steps backwards take time and effort -- to discuss cherry picking, to talk about my motivations, to attempt to be transparent about the methods even for this simple analysis this morning. This effort is a low research bar, but it is also I think (or perhaps hope), rigorous -- a word that seems to have gone out of favour, at least in the disciplines in which I am most closely aligned. 
 
-- benefit/effect -- out of context some sound very absurd. Some sound quite absurd in context. not wanting to shame. playfulness. 
+## Five obvious observations
 
-- noting that all these steps backwards take time and effort -- to discuss cherry picking, to talk about my motivations, to be transparent about the methods even for this simple analysis this morning. This effort is, I think (or perhaps hope), rigorous -- a word that seems to have gone out of favour, at least in the disciplines in which I am most closely aligned. 
+### Ubiquity (define your terms)
 
-- dissent: protect the dissenters. expressing dissent because a research field is only as strong as what it allows to be questioned. 
-- indebted to Ginot -- but also to a lesser extent Nuding. colleagues at C-DaRE (shitting on my own doorstep) - in particular Hetty Blades and Teoma Naccarato for their support and/or enthusiasm for this work. Anna Pakes. Erin Brannigan
+There is remarkable range of practices presented either directly or indirectly (by virtue of being in JDSP) as somatic: 
 
-## six obvious observations
+- movement
+- body-mind awareness
+- RSVP cycles
+- somatics ethnography
+- play and dance improvisation
+- eukinetics and choreutics
+- somatic nature of costume
+- felt sense of touch in Argentine tango duet
+- kinesthetic watching
+- dancing with roots, dirts, trees
+- vocal sounding
+- hybrid somatic practices
+- eco-somatic practices: dancing-singing
+- public eco-somatic programmes
+- mindful movement
+- acroyoga
+- spinning practice
 
-### ubiquity (define your terms)
+Some of these practices are newly coined, some more familiar. Most are poorly described as to what they are in practice in ways that would be recognisable for those not already in the know. The descriptions often contain highly abstract terms. 
 
-- ubiquity of term 'somatics' (not a surprise given I was looking at JDSP) -- but certainly the lack of precision is telling. That it is a catch-all, or suitcase word. But what is it a catchall of? [[define your terms]]
+Here's an example. It's a strange example but it was the next cab off my randomised rank, and it concerns the _somatic practice_ of the plié. 
 
-- noting: just how many different kinds of practices are presented in JDSP: some newly named, some very familiar. mostly very poorly described as to what they are in practice (in ways that would be recognisable for those not familiar) -- abstract terms, non-specific
+> A plié is a bend of the knees. Pliés can be done in many different positions: first, second, third, fourth: open and crossed fifth, and parallel. In all cases, the left and right knees bend equally, although certain position of the feet, like fourth open, cause a slightly uneven distribution of weight – making the achievement of even-ness in the knee-bend very challenging.[@deleon-2009-potent p.90]
 
-- list the various practices/names/language in column b
+Let's take a look. What is a position? What is crossed fifth? What is parallel? Regarding the distribution of weight, does this mean if I bend my knees while lying down (or with my legs in the air while on my back) that this is not a plié or knee-bend? Who then is this writing for other than people who already know (and perhaps believe) in this work? 
 
-- [[extraction follows abstraction]] -- that there is tremendous responsibility in owning and clarifying our abstractions. See also [[define your terms]] and suitcase words. Vagueness and abstraction go hand in hand. But exploitation soon follows. Who and what might we be exploiting? (even if exploitation is about the exploitation of an epistemic space?)
-- embodiment as we tend to use it (even though it is used in wildly different ways) seems to be predicated on the body as special kind of object, but an object nevertheless. See [[the lived body and embodiment#^844cda]]. On this point see also [[the body in artistic research#^b4be45]] and Le Guin on just how badly objectification has gone for human-kind and our plant.
-- see also [[explaining away (Whitehead)]] re abstractions: "denied the status of proper existence":
+So here I observe and acknowledge the ubiquity of the term somatics -- which is not surprising given I am talking about JDSP -- and the challenge to precisely describe what these practices are. The lack of precision (and the weight of abstractions) is telling even with those practices that have a TM next to their name. 
 
-> In a similar way, the operations of AI depend on datafication: the presentation of the world as data separated out from the continuity of experience. Unfortunately, one corollary of abstraction is the effect that philosopher of science Alfred North Whitehead criticized as ‘explaining away’: by treating abstractions as something concrete, everything that does not fit into the schema is denied the status of proper existence (Whitehead, 1997). The error comes from treating abstractions as more real than phenomena. This kind of reified abstraction is a key mechanism of instrumental rationalities like AI – the trick that allows it to see only that which can be made useful and ignore the rest.[@mcquillan-2022-resisting p.49]
+The eighteenth-century French philosopher Voltaire wrote simply:
 
-That small quote is from Whitehead's _Science and the Modern World_. 
+> Define your terms ... or we shall never understand one another.[@mitchell-2019-artificial loc 286]
 
+There is tremendous responsibility in owning and clarifying our abstractions. Vagueness and abstraction go hand in hand, and "extraction follows closely on the heels of abstraction" [@mcquillan-2022-resisting n.pag.] And with extraction comes exploitation. Now you could just say, "It's just a bloody plié Simon" and I would understand. But even in such a benign example who and what might we be exploiting, even if the exploitation is an epistemic space? 
 
-### mechanisms are as rare as hens teeth
+Alfred North Whitehead warned that a corollary of abstraction is an effect he called _explaining away_ [Whitehead, in @mcquillan-2022-resisting p.49]. When we treat abstractions as something concrete "everything that does not fit into the schema is denied the status of proper existence" [@mcquillan-2022-resisting p.49] -- it is explained away. Abstractions make invisible anything that does not fit our model of the world. And even in a delightful celebration of the lowly plié the stakes get very high very quickly.
+
+### Mechanisms are as rare as hens teeth
 
 - very few give mechanisms for what somatics do. VERY few. And when they do they are vague OR it's not possible to ascertain if the mechanisms even have anything to do with the somatic practice around which the claim is based. very dangerous -- drawing a paper thin line from a practice to an effect. But which aspects of the practice causes that effect? And by what means? 
 
@@ -112,14 +124,13 @@ from Wright example above: I say "simply by chance" because it was rare -- I est
 
 How does it do this? Without this question our claims remain flimsy. They remain simply claims. And without evidence of the effect of these mechanisms then what are we doing? Hitchens' razor? 
 
-### patchwork
+### Patchwork
 
-- what I am most struck by is cells of information. One new idea after another. There are exceptions of course -- Nuding, Laidlaw -- but perhaps they prove the rule. We are -- through the journal -- building a patchwork quilt in which the various pieces are stitched together by the acronym JDSP that is only really able to keep warm those who lie under it. But even in such a quilt there is a sense of relationship between the patches. Push this metaphor? Stitched together. 
-- I wonder if we could all agree that this phenomena in JDSP is a thing. We don't have to agree on whether it is a good or bad thing. But that it exists. 
-- perhaps this is what the journal needs to be because somatics is still a fledgling collection of practices? But is it? When might we be ready enough to shed the precarious / new label? I worry that we hide behind it. It is a way of rationalising this phenomenon I am describing. It is the means by which we get to say what we want, as if someday (in the distant future) these claims will be given the evidence they deserve. 
-- return to this when I discuss debate
+I observe that the articles in the journal are mostly individual cells of information that present their own idea oblivious to other practices and debates in the field. It is as if we are -- through the journal -- building a patchwork quilt in which the various (and very different) pieces are waiting to be stitched together, or perhaps are roughly hung together by the acronym JDSP. There are exceptions particularly in the earlier issues, and then later in articles for example by Nuding [-@nuding-2021-approaching] and Laidlaw [-@laidlaw-2021-ecological]. 
 
-### descriptions
+I wonder if we could all agree that this patchwork phenomena in JDSP is a thing. We don't have to agree on whether it is a good or bad thing. But that it exists. Perhaps it is a thing because somatics as an artistic-scholarly field is still fledgling? But is it? When might we be ready enough to shed the precarious/new label? I worry that we hide behind it to rationalise this patchwork phenomenon I have observed and am describing. That thinking of ourselves as fledgling is the means by which we get to say what we want, as if someday (in the distant future) these claims will be given the evidence they deserve. 
+
+### Descriptions
 
 The most common articles that made no claims were those that were simple descriptions of practice. For example -- just name the articles. But other descriptions of practice go into claim mode ... - ones that are descriptive of process make fewer claims. Vital role -- in knowing. But rarely if ever (as I've written about elsewhere) talk about similar practices. Isolated bubbles.
 - also how many are just sharing practice -- not a comment. These might make no claims at all (just describe it) all the way to overselling the hell out of it
@@ -129,13 +140,9 @@ The most common articles that made no claims were those that were simple descrip
 - noting how differently I feel when no claims are made. Mostly I felt relief. That I am left to invest so differently (but also feel a little lost -- like watching art). How art (for the most part) doesn't make claims. 
 - surprising number of simply descriptive accounts of practice. No claims. Refreshing. That the journal is/was a place to share current practices. Not in touch with other practices though (see Ellis forthcoming)
 
-### the subjective to the general
 
-> I think I was asking about whether you were recording claims about people's specific experiences (eg. My engagement with a somatic practice achieves…for me) or general claims (somatic practices/BMC/SRT etc achieves….). (Hetty Blades)
-- my sense here is that the language makes the distinction tricky. There is slippage from the subjective to the general without acknowledging the shift. Give example.
-- on what grounds do each of us get to say the things we say (Hetty's note about specific vs general is useful here). Examples of descriptions of practice are perhaps most intriguing. Make no claims but rather are sharing what work is happening.
 
-### arguing from authority
+### Arguing from authority
 
 When I started my hunch was that the claims made on behalf of somatics would veer towards being claims (or appeals) to authority. 
 
@@ -242,8 +249,14 @@ A philosophical argument related to probability theory in which the cost of bein
 
 > In cases when the artist thinks they know, their interpretation may not be accurate or the whole story. We live in a mysterious world full of uncertainties. And we regularly make assumptions to explain them. Coming to terms with the complexity of our human experience allows us to exit our natural state of confusion. To survive. Generally our explanations are guesses. These vague hypotheticals become fixed in our minds as fact. We are interpretation machines, and this process of labeling and detaching is efficient but not accurate. We are the unreliable narrators of our own experience. [@rubin-2023-creative Location 1813]
 
+- dissent: protect the dissenters. expressing dissent because a research field is only as strong as what it allows to be questioned. 
+- indebted to Ginot -- but also to a lesser extent Nuding. colleagues at C-DaRE (shitting on my own doorstep) - in particular Hetty Blades and Teoma Naccarato for their support and/or enthusiasm for this work. Anna Pakes. Erin Brannigan
+
+# Admin
 
 ## not yet located
+
+- embodiment as we tend to use it (even though it is used in wildly different ways) seems to be predicated on the body as special kind of object, but an object nevertheless. See [[the lived body and embodiment#^844cda]]. On this point see also [[the body in artistic research#^b4be45]] and Le Guin on just how badly objectification has gone for human-kind and our plant.
 
 See [[somatic practices, interoception and evidence#opportunities]] for useful things to add at end of this presentation.
 
@@ -289,13 +302,40 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 - [x] 217 (originally was 218 but this was a review)
 - [x] 246
 - [ ] 37 (downloaded)
-- [ ] 5 (downloaded)
+- [x] 5 (downloaded)
 - [ ] 93 (downloaded)
 - [ ] 188 (downloaded)
 - [ ] 256, 196, 214, 211, 155, 81, 142, 164, 41
 
+## Links in Obsidian
+
+- [[define your terms]]
+- [[extraction follows abstraction]]
+- [[explaining away (Whitehead)]]
+
 
 ## edit bin
+
+
+### The subjective to the general
+
+> I think I was asking about whether you were recording claims about people's specific experiences (eg. My engagement with a somatic practice achieves…for me) or general claims (somatic practices/BMC/SRT etc achieves….). (Hetty Blades)
+- my sense here is that the language makes the distinction tricky. There is slippage from the subjective to the general without acknowledging the shift. Give example.
+- on what grounds do each of us get to say the things we say (Hetty's note about specific vs general is useful here). Examples of descriptions of practice are perhaps most intriguing. Make no claims but rather are sharing what work is happening.
+
+
+- see also  re abstractions: "denied the status of proper existence":
+
+> In a similar way, the operations of AI depend on datafication: the presentation of the world as data separated out from the continuity of experience. Unfortunately, one corollary of abstraction is the effect that philosopher of science Alfred North Whitehead criticized as ‘explaining away’: by treating abstractions as something concrete, everything that does not fit into the schema is denied the status of proper existence (Whitehead, 1997). The error comes from treating abstractions as more real than phenomena. This kind of reified abstraction is a key mechanism of instrumental rationalities like AI – the trick that allows it to see only that which can be made useful and ignore the rest.[@mcquillan-2022-resisting p.49]
+
+
+- benefit/effect -- out of context some sound very absurd. Some sound quite absurd in context. not wanting to shame. playfulness. 
+
+What I did not cherry pick were examples that contradicted my observations. I sought them out. Exception proving rule? Or the possibility of another way? 
+
+although I have drawn examples at random from the entire pool of JDSP articles.
+
+This list is arbitrary really. I pulled the claims from five different articles; the very first five articles I selected at random from the 271 articles that have been published in JDSP since 2009 (up to volume 14.2 in 2022). 
 
 - somatics as anecdotal -- and Ginot's 2010 paper (Erin used the term anecdotal to describe part of Ginot's critique)
 - intuitions -- and their value (see Annaka Harris in the edit bin)
@@ -349,7 +389,7 @@ In this the somatic practice would be _Phylogenetic mask work_ which I appreciat
 
 > can help us to overcome a human/nature alienation and instead create connection.[@wright-2021-using p.203]
 
-This claim was primary in that it made no reference to research or scholarship by other people. There is some sense of mechanism for this effect described by Wright as the "animal’ or ‘natural’ modes of sensing available to us within our bodies" [@wright-2021-using p.203] and which later in the article she develops as principles. 
+This claim was primary in that it made no reference to research or scholarship by other people. There is some sense of mechanism for this effect described by Wright as the "'animal' or 'natural' modes of sensing available to us within our bodies" [@wright-2021-using p.203] and which later in the article she develops as principles. 
 
 (I would guess that as of now it is the journal I have read most in my scholarly life, perhaps along with IJSD and CHOR -- but then I've co-edited those journals) I think 
 
