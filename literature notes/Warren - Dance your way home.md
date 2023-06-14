@@ -53,8 +53,46 @@ Original facebook post: https://www.facebook.com/375955904675/posts/overwhelmed-
 
 > I have a fragment of a memory from my own school discos: of dancing on the margins, by the canteen shutters, where I might have done some high kicks. A boy – let's call him Gerard – who was tall, and who later got suspended for setting the soles of his shoes on fire, pointed and laughed at me. I stopping doing high kicks, immediately and for ever. Dancing can release and repair, but it can also contain a person within the invisible walls of shame. I was ashamed at having danced wrong, for having confused my love of gymnastics with how to behave at a school disco. It's a reminder that almost anyone can be shamed into stillness and that a snide comment can put someone off for life. p.138
 
+> Dance as part of the curriculum has been in significant decline in UK schools since 2010, according to One Dance UK. The act of moving to music releases endorphins into the bloodstream, which can be useful for children and young adults experiencing worries or challenges. It also improves thinking skills and creative problem-solving, which should be of interest to those who plan the education of our young. A few wonderful schools have embedded dance into the curriculum. I'd say it should be prioritised everywhere else, too. p.145d
+
+about Johnno Burgess:
+
+> 'By the time I did get up, I wouldn't leave the dancefloor, to the point where everyone (p.150) else was bored and wanted to go home and I was still dancing on my own. It's that connection – "Oh my god, all the music I love, I can move around to it!" Something dawned on me, and after that you couldn't stop me.' We have to find our dancing feet somewhere, and it's easier to find them away from the mocking gaze of peers who are acutely attuned to any external manifestation of internal weakness. pp.1149-150
+
+> Youth-oriented dancefloors offered the opportunity to learn that the music sounds better when it's danced to, and when it's communal. Listening is active, and there are elements of music that you can access only by moving to it. Moving together creates connection with the people around you. For better or worse, many people of my generation had the opportunity to learn this together, in schools, in high-street nightclubs and in holiday-camps. p.150
+
+About Anna Duberg's work (in Sweden):
+
+> The research didn't just sit on a library shelf. It became Dans för Hälsa (Dance for Health), which now takes place in 150 cities across Sweden and which has expanded into Hungary and Finland. Her classes fostered a non-judgemental atmosphere and what she calls 'supportive togetherness', something I recognise from the acid-house dancefloors I attended as a teenage girl, carrying my own troubles. She also experienced the benefits of dance for young women, finding that is provided 'integrity', in the sense of stability. 'Dance made it easier for me to know who I was,' she said. 'And to find a value in who I was. It became like a wall, in a positive way. I know I have value because I have found it in my body.' p.165
+
+On Mark Moore taking Philip Glass to an acid-house club:
+
+> 'I arranged to take Philip,' he confirmed, 'so he could experience the music in a suitable environment. We warned Philip that we were going to be taking ecstasy, and I must say we weren't quite sure how we was going to react. "The thing about young people," he said wisely, "is that you think you're the only people who have taken drugs." In the club he didn't dance but listened intently to the music, nodding his head gently in time to the beats. After a while he looked up at me with a big smile and said, "I get it. And I also get why you think my music is connected to your music." ...' p.168
+
+> There is also a story about drugs. Some might say that the popularity of dancing to house music in the late eighties was entirely to do with illegal drugs, predominantly ecstasy. Those people have clearly never experienced what happens to your body when you've been moving together in time with other people for hours and hours. The way your body overtakes your brain; when the music talks directly to your chest. p.173
+
+Regarding the moral panic re acid house:
+
+> I remember reading a report in which a policeman was asked for his perspective on having witnessed thousands of young people racing all night to amplified electronic music. His answer focused on the movement: that the youth were not even dancing with each other any more, they were dancing alone, atomised. He expressed shock at this, but we weren't separate and everyone was included, even those without a partner to dance with. We were together, like tiny dancing dots that – zoomed out – revealed a much bigger picture. p.175
+
+> Professor Theresa Buckland, at the University of Roehampton, described dancing done for pleasure rather than performance, aka social dance, as 'the Cindarella' of academic dance studies. Her phrase suggests to me that everyday dancers and ordinary dancefloors are beautiful and yet have been sidelined, made invisible. p.191
+
+> Culture mattes when everything else falls away. You can't eat culture and it doesn't pay the rent, but it does provide pride and history, which are useful starting points for recovery. p.192
+
+> I am set firmly against anything which veers into 'it was better in the olden days' territory and, generally, I'm with Gil Scott-Heron, who enunciated the 'no' at the start of 'nostalgia'. I believe in the archive as encouragement and permission, but I don't believe in parading generational gains in front of those who lack the physical space we had. However, we're all allowed to break our own rules every now and again, and this is one area where it's probably not possible to avoid it. Clubs in the olden days were properly loud, with speakers either purpose-built in the style of New York's finest underground clubs or borrowed from reggae sound systems. This meant feeling the music as much as hearing it, with all the benefits that sound brings to the body (less so the ears). p.195
+
+> Our bodies are more than just a carriage. We can't separate ourselves from them, like I attempted to do. The idea of a mind-body split is weird, when you think about it. Where is your mind, if not in your body? People talk about mindfulness, but I want an embodied life, in which the self sits in the soft inside of an elbow or in our muscles, not just in our brains. We can access the brain through the body, and our bodies contain ideas and experience. It's not all about the mind, wherever that is. I didn't know this when I was young, but I do now. p.214
 
 
+Gerald:
+> 'I think people need to be educated more about dance and movement and its relationship to music,' he adds. 'I can feel that it's going to be something that people want more of. There's the enjoyment of nodding your head, but you can get past that stage. It's just shyness, really.' p.226
+
+> [Brian Belle-Fortune] quotes MC Det, who differentiated for a multicultural dancefloor with the words, '_If you can't dance, just nod your head._' Dancing was for everybody, or if you separate out the word, for every body. p.235
+
+Talking about young men on drum 'n' bass floors:
+> They were taking part in the dance -- even if they did so by standing at the back, puffa jacket on whatever the temperature, nodding their heads and occasionally raising a hand up towards the ceiling. That is dancing, of a very minimal, stoned and masculine kind -- but it's still dancing. Relinquishing control isn't easy, although the payoff, as all everyday dancers know, is communion -- and I'm not talking about the wafter the priest dispensed at 9.15 a.m. Mass. p.237
+
+> East Baltimore poet Kondwani Fidel expressed these realities in the documentary _Dark City Beneath the Beat_, when he said, 'Our dance steps are just our tears in portable form.' It was music producer Rod Lee, though, who provided the ultimate summation of the city's relationship to movement in his sparse yet weighty 2006 track, which appeared on _The Wire's_ soundtrack. It's called 'Dance My Pain Away'. p.251
 
 ---
 _reference:_ 
