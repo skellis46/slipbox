@@ -94,5 +94,26 @@ Talking about young men on drum 'n' bass floors:
 
 > East Baltimore poet Kondwani Fidel expressed these realities in the documentary _Dark City Beneath the Beat_, when he said, 'Our dance steps are just our tears in portable form.' It was music producer Rod Lee, though, who provided the ultimate summation of the city's relationship to movement in his sparse yet weighty 2006 track, which appeared on _The Wire's_ soundtrack. It's called 'Dance My Pain Away'. p.251
 
+> The truth is that the street isn't an extension of the dancefloor, it's the other way round. The dancefloor is an extension of the street corner, of the marketplace, of the crossroads. It's all of those communal places, condensed and amplified. p.252
+
+> The loss of dance spots, whether they're formal or informal, makes me think of environmentalist Rob Nixon's phrase 'slow violence', and it seems that this wrecking ball doesn't just stop at the dancehall doorway. It affects all kinds of dancefloors, including shopping centres. pp.252-253.
+
+> 'There are so many ways I started to find [out] who I was thorugh dance,' [Shan Wallace] continues. 'I didn't even think about any of that shit before you asked, but it's the real truth. I spent so much time dancing, being shy about dancing, finding myself through dance ... I think people don't value it. Body movement and dance is survival.' p.254
+
+Archie Burnett talking about lofting (emerged from the Loft in NY in 1970 in David Mancuso's home):
+> 'Because wherever you came from you were influenced by everybody else.' The end result was a room in which people moved together. 'Similar to contemporary dance, smoothly done, where you'd use bits and pieces of authentic or acrobatic moves, mixed with intertwining bodies.' Ballerinas adapted their conservatoire-honed techniques to dance music, he says, alongside local kids, whose hard-rock, proto-hip-hop styles would be softened by the open-minded environment and the ban on cameras. pp.256-257
+
+> Where, though, do you go for some musical healing when you've grown out of the dancefloors around you? Some people give up; others find a place where they're welcomed regardless of age. Bob Hill went for the latter. He's in his mid-fifties and is part of a cultural family that met at jazz-funk rollerdiscos and on soul-weekender dancefloors. His dance instruction goes back further, of course -- he remembers his mum stopping him at a family house party and telling him to dance to the bassline, not the drums. Now he's a regular at Patrick Forge and Gilles Peterson's reprises Dingwalls sessions in London where there's a shared understanding of spatial awareness and dancefloor etiquette. 'It's like when you watch starlings or a school of fish,' he says. 'We're all together, but we don't interfere with each other. We move as one.' pp.259-260
+
+> There were hardly any phones on the dancefloor (in this period just before ubiquitous camera phones), and photography was not welcome unless you were Georgina Cook, who went on to publish _Drumz of the South: The Dubstep Years, 2004-2007._ p.292 
+(also mentions photographer Dave Swindells photographing acid-house dancers at Heaven)
+
+> Actor and choreographer Adesola Osakalumi was talking about New York house clubs during choreographer Camille Brown's 'Social Dance for Social Change' lecture series when he said, 'The circle is a communal showcase, a stage,' but his words rang true in this Chicago room, too. 'It's a testing ground: iron sharpens iron,' he continued. 'It encourages you to go and do the work. It's to sharpen you up.' p.334
+
+Professional dancer Amarnah Osajivbe-Amuludun at Steam Down:
+> She's well placed to articulate the experience of moving to music with other people. 'It's a space for me to experience my body with others,' she tells me, 'and to connect to something that's more than just form and shape, which is what I normally think of when I'm performing as a professional dance.' Communal dancing spaces off her the opportunity to 'drop down out of my brain, into my heart, into my stomach. To let the vibrations affect me and let me affect the vibrations.' p.341
+
+> You might think it's not that deep, it's just dancing. You can think what you like, but I believe that moving to music is an effective way to see ourselves and each other, and to resynchronise and rebuild, regardless of what has been demolished -- hopes and dreams, an economy, the future. To dance you must let go of self-consciousness, embarrassment, pride and prejudice, and embrace what you actually have. The more we improvise movement, together, the better chance we have of thickening our relationships, building the necessary connections we need for a future that looks increasingly low-resource and local. Motion is tidal, flowing around obstacles like water round wood, wearing them down with repetition. It reshapes the environment and it reshapes us. We're all dancers, I think, regardless of where we come from or where we're going. We're dancers because we're human, and we're more human -- or perhaps more humane -- if we dance together, especially when we make it up on the spot. p.346
+
 ---
 _reference:_ 
