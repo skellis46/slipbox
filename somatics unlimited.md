@@ -10,7 +10,7 @@ _previous note:_ [[somatic practices, interoception and evidence]]
 
 ![[somatics unlimited map.canvas]]
 
-## The things that we say
+## The things we say
 
 Here are four claims made on behalf of somatics and drawn from the pages of the Journal of Dance and Somatic Practices. 
 
@@ -34,7 +34,7 @@ What a claim is not is an argument.
 
 A claim without evidence is simply an opinion or _assertion_. 
 
-And so I have used the word _claim_ because while reading JDSP over the years I started to see a tendency or pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices: that somatics have unlimited value, scope, and power to produce change. We -- and by we I mean those of us who contribute to the journal -- we seem fine to say pretty much whatever we like about the effects and benefits of somatic practices.  
+And so I have used the word _claim_ because while reading JDSP over the years I started to see a tendency or pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices: as if somatics has unlimited value, scope, and power to produce change. We -- and by we I mean those of us who contribute to the journal -- we seem fine to say pretty much whatever we like about the effects and benefits of somatic practices.  
 
 In doing this work I do not seek to shame our field or tear it down. If anything, I see myself as a believer in the transformative powers of somatic practices: I have experienced their benefits, and continue to practice a version of authentic movement as an anchor to my understanding of movement, sensation and consciousness. Rather, I want to understand the epistemic values and costs of somatic practices as represented by the materials published in JDSP and imagine the  implications of these values and costs for our community of practice and scholarship. 
 
@@ -50,13 +50,13 @@ All of my observations today have emerged from working with the JDSP archive.
 
 All researchers -- well, human beings -- are cherry pickers. We seek and notice examples that confirm our beliefs or ideas and don't notice or ignore examples that contradict these beliefs. Such confirmation biases are not conscious. For example, goal-oriented motivated reasoning is driven by personal emotions. That is, the heuristic for judging new information is, more or less: how does this information make me feel? Cherry picking -- a form of confirmation bias -- is also known as the fallacy of incomplete evidence, and in science it is an epistemological characteristic of denialism. 
 
-To this end, in this work I tried to mitigate against cherry picking. I did this by randomly selecting 20 articles from the full 271 and then worked my way down that list of 20 articles to include as examples in this presentation. For example, the list of quote-claims I presented at the beginning were drawn -- one each -- from the first four randomly selected articles. This randomised process also indicates just how common the following observations are in the JDSP corpus. 
+To this end, in this work I tried to mitigate against cherry picking. I did this by randomly selecting 20 articles from the full 271 and then worked my way down that list of 20 articles to include as examples in this presentation. For example, the list of quote-claims I presented at the beginning were drawn -- one each -- from the first four randomly selected articles. This randomised process reveals just how common the following observations are in the JDSP corpus. 
 
-I also introduced the randomisation as a result of not completing my analysis in time. And later, after a conversation with the dance philosopher Anna Pakes, it became clear that a more rigorous linguistic analysis of the JDSP corpus would be ideal to understand the nature of the language we use in JDSP. But that's a different presentation. 
+I also introduced the randomisation as a result of not completing my analysis in time. And later, after a conversation with the dance philosopher Anna Pakes, it became clear that a more rigorous linguistic analysis of the JDSP corpus would be ideal to understand the nature of the language we use in JDSP. But that's another presentation for another time. 
 
 ## Six observations
 
-### Ubiquity and abstraction
+### 1. Ubiquity and abstraction
 
 There is remarkable range of practices presented either directly or indirectly (by virtue of being in JDSP) as somatic. Here are just a few:
 
@@ -92,9 +92,9 @@ I observe and acknowledge the ubiquity of the term _somatics_ -- which is not su
 
 There is tremendous responsibility in clarifying our abstractions as "extraction follows closely on the heels of abstraction" [@mcquillan-2022-resisting n.pag.] And with extraction comes exploitation. Now you could say, "It's just a bloody plié Simon" and I would understand. But even in such a benign example who and what might we be exploiting through our abstractions, even if the exploitation is of an epistemic space? 
 
-### Mechanisms are as rare as hens teeth
+### 2. Mechanisms are as rare as hens teeth
 
-One of the things I catalogued for the articles I looked at was whether they contained any description of the mechanism for the beneficial claims made on behalf of the somatic practice. By "mechanism" I mean some indication of _how_ the somatic practice did what the author said it did. Very few articles in JDSP give mechanisms for how their particular somatics do what they claim to do: about one in five of those I reviewed. In most cases, the practice (or practices) are implicitly also the mechanism. In other words, somatic practice x can lead to effect y through the process somatic practice x. 
+One of the things I catalogued for the articles I looked at was whether they contained any description of the mechanism for the beneficial claims made on behalf of the somatic practice. By "mechanism" I mean some indication of _how_ the somatic practice did what the author said it did. Very few articles in JDSP give mechanisms for how their particular somatics do what they claim to do: about one in five of those I reviewed. In most cases, the practice (or practices) are implicitly also the mechanism. In other words, somatic practice x can lead to effect y through the somatic practice process x. 
 
 When articles do contain mechanisms they are mostly vague OR it's not possible to ascertain if the mechanisms even have anything to do with the somatic practice around which the claim is based. 
 
@@ -108,7 +108,9 @@ There is some sense of mechanism for this effect described by Wright as the "'an
 
 I have lots of questions here, not least how it is that we would know if this mechanism (if indeed it is a mechanism for change) was doing its work, or (more usefully) how would we know if it were not the mechanism for this effect? 
 
-Why does this matter? I mean, if practice x leads to effect y does it matter how, especially if the effect is due to the holistic nature of the practice: something ineffable, unable to be measured, or completely mysterious or unfathomable? I think it matters because if we have no understanding of the mechanisms of change then we cannot say which part of a practice is responsible for the changes we seem to be seeing and describing. It's a monumental question really. _How_ does this practice do this? Without this question our claims remain flimsy. They remain simply claims. Perhaps though the lack of 'mechanisms' is not surprising. These are (by and large) not the kinds of methods we adopt in our work. 
+Why does this matter? If practice x leads to effect y does it matter how, especially if the effect is due to the holistic nature of the practice: something ineffable, unable to be measured, or completely mysterious or unfathomable? 
+
+I think it matters because if we have no understanding of the mechanisms of change then we cannot say which part of a practice is responsible for the changes we seem to be seeing and describing. It's a monumental question really. _How_ does this practice do this? Without this question our claims remain flimsy. They remain simply claims. Perhaps though the lack of 'mechanisms' is not surprising. These are (by and large) not the kinds of methods we adopt in our work. 
 
 But if I were being horribly provocative I'd drop a philosophical razor into the room. A philosophical razor is a rule of thumb designed to shave off unlikely explanations of phenomena; a time-saving device. Actually, this one is an epistemological razor for rejecting certain knowledge claims. This razor is called Hitchens' razor, created by and named after renowned journalist and atheist Christopher Hitchens. Hitchens' epistemological razor is this: 
 
@@ -116,53 +118,55 @@ But if I were being horribly provocative I'd drop a philosophical razor into the
 
 Hitchens was using the razor in the context of refuting religious belief, but what it does more broadly is place the burden of proof on the person making the claim. For example, if I claim that somatic practices improves physical coordination, then it is my responsibility to attempt to provide the evidence to make that argument. 
 
-As an aside, I read no claims that indicated some negative effect or outcome as a consequence of a somatic practice. This is bizarre. I can remember one incident during an ATM class when a first time student had a truly terrible experience based on the assumptions the teacher was making about sight and sightedness. Where are those anecdotes? 
+As an aside, I read no claims that indicated some negative effect or outcome as a consequence of a somatic practice. This is bizarre. I can remember one incident during an ATM class when a first time student had a truly terrible experience based on the assumptions the teacher was making about sight and sightedness. Where are those anecdotes in our journal? 
 
-### Patchwork quilt
+### 3. Patchwork quilt
 
 The articles in the journal are mostly individual cells of information that present their own idea oblivious to other practices and debates in the field (including the journal itself). It is as if we are -- through the journal -- creating the start of a patchwork quilt in which the various (and very different) pieces are waiting to be stitched together, or perhaps are roughly held together by the acronym JDSP. There are exceptions: particularly in the earlier issues, and then later in articles for example by Nuding [-@nuding-2021-approaching] and Laidlaw [-@laidlaw-2021-ecological]. 
 
-Could we agree that this patchwork phenomena in JDSP is a thing? We don't have to agree on whether it is a good or bad thing. But that it exists. Perhaps it is a thing because somatics as an artistic-scholarly field is still fledgling? But is it still fledgling? When might we be ready enough to shed the _new_ label? I worry that we hide behind it to rationalise this patchwork phenomenon I have observed and am describing. Thinking of ourselves as fledgling is the means by which we get to say what we want without slowly building foundations of intra-disciplinary dialogue and debate, as if someday (in the distant future) these claims will be given the evidence they deserve or that we know to be right. Remember the brouhaha in our field about mirror neurons?  
+Could we agree that this patchwork phenomena in JDSP is a thing? We don't have to agree on whether it is a good or bad thing. But that it exists. Perhaps it is a thing because somatics as an artistic-scholarly field is still fledgling? But is it still fledgling? When might we be ready enough to shed the _new_ label? I worry that we hide behind the _new_ label to rationalise this patchwork phenomenon I have observed and am describing. Thinking of ourselves as fledgling is the means by which we get to say what we want without slowly building foundations of intra-disciplinary dialogue and debate, as if someday (in the distant future) these claims will be given the evidence they deserve or that we know to be right. Remember the brouhaha in our field about mirror neurons?  
 
-### Descriptions of practice
+### 4. Descriptions of practice
 
 The articles that most commonly do NOT make claims are those that are simple descriptions or presentations of practice. For example Whitehead [-@whitehead-2021-stitching], Crisp and Roberts [-@crisp-2021-reflections], Tokunow et al [-@tokunow-2021-stages], Wolfman [-@wolfman-2021-video], and Weber Da Silva et al [-@weberdasilva-2020-am]. I sought out these examples (rather than relying on drawing them out randomly) as they contradicted my hunch about claim-making in JDSP. 
 
 It seems that one vital part of the Journal's role is as a place where current practices are shared. I'll note though -- and this is a particular bugbear of mine [see @ellis-forthcoming-ecosystemic] -- that rarely are these descriptions of practice drawn into dialogue with other similar or overlapping practices. They are more or less isolated bubbles of practice which likewise contribute to the patchwork effect I have just discussed. 
 
-### Arguing from authority
+### 5. Arguing from authority
 
-When I began this work I had the feeling that the claims made on behalf of somatics would veer towards being claims (or appeals) to authority. The fallacy of _appeal to authority_ is when "a claim is supported by reference to an authority instead of offering reasons to support it" [@novaes-2021-argument n.pag.] These are akin to what Isabelle Ginot -- in her landmark critique of somatic practices in 2010 (a critique I am indebted to here) -- described as endogenous somatics discourses [@ginot-2010-shusterman]. 
+When I began this work I assumed that the claims made on behalf of somatics would veer towards being claims (or appeals) to authority. The fallacy of _appeal to authority_ is when "a claim is supported by reference to an authority instead of offering reasons to support it" [@novaes-2021-argument n.pag.] These are akin to what Isabelle Ginot -- in her landmark critique of somatic practices in 2010 (a critique I am indebted to here) -- described as endogenous somatics discourses [@ginot-2010-shusterman]. 
 
 But I was surprised. Of the articles I reviewed, about two-thirds made what I called primary claims. That is, a claim that makes no reference to research or scholarship by other people (it is uncited or assumed) and/or is based on the practices described in the article.
 
 Yet perhaps I shouldn't be surprised. These primary claims align with the patchwork I have just described. They are primary claims that are placed into the aether of somatics practices discourses, and rarely, if ever, support, interrupt, change or unsettle the practices (and their epistemic underpinnings) already presented in the journal. 
 
-If we look at citation patterns for articles in JDSP it starts to make this patchwork picture of primary claims very stark indeed. Now, I have zero interest in the quantitative crudeness of citation indices: "Just because something is easy to measure doesn't mean it's accurate. Or that it matters" g[@godin-2023-song n.pag.].
+If we look at citation patterns for articles in JDSP it starts to make this patchwork picture of primary claims very stark indeed. Now, I have zero interest in the quantitative crudeness of citation indices: "Just because something is easy to measure doesn't mean it's accurate. Or that it matters" [@godin-2023-song n.pag.].
 
-One of the most infamous articles of all time published in Lancet in 1998 by the ex-physician Andrew Wakefield et al (an article that has now been retracted) is ground zero for the anti-vaccination movement. That article has been cited 4299 times. Make that 4300 times. In other words, the number of citations is not necessarily strongly correlated to the quality of the research, although it is a rough estimate of the influence of an article (whether positive or negative).
+One of the most infamous articles of all time published in Lancet in 1998 by the ex-physician Andrew Wakefield et al (an article that has now been retracted) is ground zero for the anti-vaccination movement. That article has been cited 4299 times. Make that 4300 times. In other words, the number of citations is not necessarily strongly correlated to the quality or reliability of the research, although it is a rough estimate of the influence of an article (whether positive or negative).
 
 Here then are the number of times the next five articles from my random selection have been cited. Once again, this is not to shame or somehow condemn these works. I found all of them to be compelling, fascinating and beautifully written.
 
 - Angharad Harrop [-@harrop-2014-can] _I can feel his heart beating through the sole of my foot: Reflections on improvisation from a dancer finding her feet_: cited 3 times   
 - Claire Loussouarn [-@loussouarn-2021-this] _This urban wild field in Hackney Marshes_: cited 0 times    
-- Carol Marie Webster [-@webster-2019-chat] _Chat to Mi Back: Meditation on body archive_: 0 times  
+- Carol Marie Webster [-@webster-2019-chat] _Chat to Mi Back: Meditation on body archive_: cited 0 times  
 - Leonardo José Sebiane Serrano [-@sebianeserrano-2020-mestizoa] _Mestizo Corporalities: Tropical/vibrant Latin American bodies_: cited 2 times  
 - Carol Brown [-@brown-2017-entangled] _Entangled histories, part 1: Releasing the Archive_: cited 4 times (including one self-citation).
 
-These numbers might say something about the relative size of our field (and the numbers could be expressed as a percentage of total articles in any given discipline or journal), but they also indicate that we are not engaging in debates within the field. If there were such debates these numbers would be higher, and I think the field would be richer for it.
+These numbers might say something about the relative size of our field (and the numbers ought be expressed as a percentage of total articles and then compared with other journals in any given discipline), but the numbers also indicate that we are not engaging in debates within the field. If there were such debates these numbers would be higher, and I think the field would be richer for it.
 
 The field would be richer for it because when we make an academic claim (a claim you make in an argument) it is "considered debatable or up for inquiry" [@nordquist-2020-what n.pag]. And through debate we make dissent possible, and a research field is only as strong as what it allows to be questioned. When asked how to minimise the impact of cognitive biases in human debate, the psychologist Daniel Kahneman said, "protect the dissenters" [@parrish-2020-daniel] by making dissent painless.
 
+Here's Australian philosopher Peter Ellerton: 
+
 > That we test each others’ thinking and collaboratively arrive at standards of epistemic credibility lifts the art of justification beyond the limitations of individual minds, and grounds it in the collective wisdom of reflective and effective communities of inquiry.[@ellerton-2017-how n.pag.]
 
-I'm curious about this phrase _epistemic credibility_. Without the kind of process that Peter Ellerton describes here then I worry that we end up in some kind of vicious circle of epistemology in which there are no limits to the claims made on behalf of somatic practices, which means there are no grounds to debate such claims, which means there are no limits to the claims, etc.
+I'm curious about this phrase _epistemic credibility_. Without the kind of process that Ellerton describes here then I worry that we end up in some kind of vicious circle of epistemological impoverishment in which there are no limits to the claims made on behalf of somatic practices, which means there are no grounds to debate such claims, which means there are no limits to the claims, etc.
 
 [add image]
 
-### Doing the can-can
+### 6. Doing the can-can
 
-I want to talk about the word _can_. I'll use the next two articles from my random set. Here's Andrée Grau writing in JDSP in 2011: 
+This last observation is about the word _can_. I'll use the next two articles from my random set. Here's Andrée Grau writing in JDSP in 2011: 
 
 > This prerogative of the visual can be seen in everyday life, when ‘seeing’ is equated to ‘understanding’ [@grau-2011-dancing p.9]
 
@@ -176,62 +180,59 @@ In both quotes, the word _can_ is equivalent to the term "to be able to". But th
 
 Let's take another look at the claims I presented at the beginning. Remember, these were from the first four articles drawn at random from all 227 articles in JDSP: 
 
-> Embodied perspectives CAN enrich traditional theories and approaches [Meier et al 2012, in @petsilas-2019-embodied p.182]
+> Embodied perspectives can enrich traditional theories and approaches [Meier et al 2012, in @petsilas-2019-embodied p.182]
 
-> these [somatic] practices CAN refine bodily perceptions, which CAN contribute to improvement of technique, aid the development of expressive capacities and prevention of injuries. [@fortin-2009-experience p.50]
+> these [somatic] practices can refine bodily perceptions, which can contribute to improvement of technique, aid the development of expressive capacities and prevention of injuries. [@fortin-2009-experience p.50]
 
-> [Eye contact in Authentic movement] CAN communicate so many feelings as well as compassion or empathy; it enables a direct meeting from the depths of the souls, without words. [@halstrup-2015-bones p.290]
+> [Eye contact in Authentic movement] can communicate so many feelings as well as compassion or empathy; it enables a direct meeting from the depths of the souls, without words. [@halstrup-2015-bones p.290]
 
-> By adopting a somatic approach to conducting research, writing, creating art, or engaging in another profession, we become more alive to what touches us and how our work and presence CAN touch others. [@saumaa-2020-somaticist p.237]
+> By adopting a somatic approach to conducting research, writing, creating art, or engaging in another profession, we become more alive to what touches us and how our work and presence can touch others. [@saumaa-2020-somaticist p.237]
 
-Why does this _can_ matter? It matters because how does anyone refute such a _can_? Yes, somatic practice X CAN produce effect y, but it's so loose. Under what conditions? When does it NOT produce such an effect? The _can_ serves as a way to diminish the possibility of argument or refutation. On the contrary, perhaps it is a form of epistemic humility; of not wanting to make strong assertions. But I worry that these _cans_ also function as, to be crude, academic arse-covering. 
+Why does this _can_ matter? It matters because how does anyone refute such a _can_? Yes, somatic practice X can produce effect y, but it's so loose. Under what conditions? When does it NOT produce such an effect? The _can_ inadvertently serves as a way to diminish the possibility of argument or refutation. Or perhaps it is a form of epistemic humility; of not wanting to make strong assertions. But I worry that these _cans_ also function as, to be crude, academic arse-covering. 
 
-Just to note that this last _can_ by Saumaa is more akin to the way Grau uses the word, and is less like a hedged claim. And what is striking about the Saumaa example is that without the slipperiness of the word _can_ as part of the direct claim it becomes a bolder assertion highlighted by the phrase "we become". Perhaps such boldness opens and creates more space for debate. 
+Just to note that this last _can_ by Saumaa is more akin to the way Grau uses the word, and is less like a hedged claim. And what is striking about the Saumaa example is that, without the slipperiness of the word _can_ as part of the direct claim, it becomes a bolder assertion highlighted by the phrase "we become". Perhaps such boldness opens and creates more space for debate. 
 
-## Final thoughts
+## Final thoughts: five brief limitations
 
-Notwithstanding the tone and language I have used today, how certain do I feel about these various observations indicate systemic problems in somatics? Clearly my evidence is partial, and not nearly as rigorous as I would have liked it to be. I also think I set about looking for these kinds of issues. I am more contrary than I'd like to imagine myself to be, and I did not start out with neutral eyes. But even given those caveats, this work I have presented (with analysis of nearly one-third of all articles presented in JDSP) is also not nothing. You might say the exit polls are not looking good for us, but there's still a glimmer of hope. 
+### Feeling uncertain and the cost of being right or wrong
 
-I think a version Pascal's wager based on probability theory is useful here. Pascal proposed that "humans bet with their lives that God either exists or does not",[@noauthor-2020-pascal n.pag.] and that the rationale thing would be to bet that God exists. If you are right you get all the trappings of the good life after death, but if you are wrong you lose little if anything. 
+How certain do I feel that these various observations indicate systemic problems in somatics? Clearly my evidence is partial, and not nearly as rigorous as I would have liked it to be. I also think I set about looking for these kinds of issues. I am more contrary than I'd like to imagine myself to be, and I did not start out with neutral eyes. But even given those caveats, this work I have presented (with analysis of nearly one-third of all articles presented in JDSP) is also not nothing. The epistemic exit polls don't look good for us. 
 
-In our case (and this is a slight twist) the cost of my being right far exceeds the cost of my being wrong. If I am wrong but we still enter the debates, continue to challenge the claims we make etc, then I think somatics scholarship is strengthened. But if I am right and we do nothing then the potential cost to our discipline is high. It is therefore more 'rationale' to assume I am right (to bet on that), if being rational has anything to do with how each of us leads our lives. 
+I think a version of Pascal's wager based on probability theory is useful here. Pascal proposed that "humans bet with their lives that God either exists or does not" [@noauthor-2020-pascal n.pag.], and that the rationale thing would be to bet that God exists. If you are right you get all the trappings of the good life after death, but if you are wrong you lose little if anything. 
 
-The big proviso of this is that our language, our systems of understanding are not ready for the work we do in somatics. That somatics is beyond our world view. But if that is the case ... what do we do? What do we write? Who are we responsible to? 
+In our case (and this is a slight twist) the cost of my being right far exceeds the cost of my being wrong. If I am wrong but we still enter the debates, continue to challenge the claims we make etc, then I think somatics scholarship and epistemology is strengthened. But if I am right and we do nothing then the potential cost to our discipline is high. It is therefore more 'rationale' to assume I am right (to bet on that), if being rational has anything to do with how we ought to lead our scholarly lives. 
 
-That I've used a v specific set of tools in this thinking. That these tools are limited and partial. 
+### A specific lens
 
+I have used a very specific empirical and rational lens here. It is a lens that is limited and -- like any lens -- it affords particular ways of seeing the world.  
 
-I acknowledge and thank my colleagues at C-DaRE (for being open to me shitting on my own doorstep), and in particular Hetty Blades and Teoma Naccarato for their support and/or enthusiasm for this work. Thanks also to Anna Pakes and Erin Brannigan for the conversations that often tested my thinking in this work. And, as ever, to the people I have cited here without their permission. Citation is a remarkably simply system yet what power to notice and to connect, and to be moved and humbled by the work of others.  
+### Systems of language and understanding
 
+Perhaps it is that the way language is conventionally used in scholarly research is not yet ready for the work we do in somatics. That somatics lie beyond or outside conventional language or systems of understanding. That somatics is beyond that particular world view. But if this is the case ... what do we do? What do we write? What are we responsible for and who are we responsible to? 
 
-And it is likely human nature (and I suspect academics are particularly prone to this) that if we agree there is a concern or problem here, then none of us will think we are responsible for that  problem because we don't imagine we are making these kinds of claims.
+### Estimating peculiarity
 
-> Knowingness, as the philosopher and psychoanalyst Jonathan Lear [defines](https://www.hup.harvard.edu/catalog.php?isbn=9780674455344) it in *Open Minded* (1998), is a posture of always ‘already knowing’, of purporting to know the answers even before the question arises. -- in Jonathan Malesic
+A key limitation of this work is not looking at other disciplines or fields, even adjacent ones like dance studies, perhaps a journal like Choreographic Practices (that I co-edit). How do authors in Choreographic Practices report their experiences? Is there something peculiar or unique about somatics practices as presented and represented on the pages of JDSP? My analysis does not address this question of peculiarity at all. Thanks to my colleague Hetty Blades for asking this question of me. 
 
-A key limitation of this work is not looking at other disciplines or fields, even adjacent ones like dance studies. How are they reporting their experiences? Is there something peculiar or unique about somatics practices as presented and represented on the pages of JDSP? I could hazard a guess but I won't. Thanks to my colleague Hetty Blades for asking this question of me. 
+### Belief systems
+
+Underpinning any epistemic system is what we believe. 
+
+> arguments that threaten our core beliefs and our sense of belonging to a group (e.g., political beliefs) typically trigger all kinds of motivated reasoning (Taber & Lodge 2006; Kahan 2017) whereby one outright rejects those arguments without properly engaging with their content.
+
+What would it take to change your position on the value of somatics? Then present that article JB sent me?
 
 Millman article here [@millman-2023-online] -- bloody fascinating
 
-> In this version of reality, the idea that better information literacy or critical reasoning skills — of us, or the friends that listen to us — could lead to belief change is futile. The facts are merely window-dressing on deeper beliefs that must be addressed directly. <https://hapgood.us/2023/06/10/reasonableness-an-introduction/>
-- Somatics unlimited: this is a criticism of my position really. Because we are dealing with belief and beliefs are terrifically difficult to change. (all those cognitive biases exist to keep our visions of the world stable). Backfire effect. What would it take to change your position on the value of somatics? Then present that article JB sent me?
-
 > arguments that threaten our core beliefs and our sense of belonging to a group (e.g., political beliefs) typically trigger all kinds of motivated reasoning (Taber & Lodge 2006; Kahan 2017) whereby one outright rejects those arguments without properly engaging with their content. Relatedly, when choosing among a vast supply of options, people tend to gravitate towards content and sources that confirm their existing opinions, thus giving rise to so-called “echo chambers” and “epistemic bubbles” (Nguyen 2020).<https://plato.stanford.edu/entries/argument/#Fall>
 
-> The sincerity of one’s belief, the volume or frequency with which it is stated, or assurances to “believe me” should not be rationally persuasive by themselves.[@ellerton-2017-how]
+--- 
 
+It is important that I finish by thanking and acknowledging my colleagues at C-DaRE, and in particular Hetty Blades and Teoma Naccarato for their support and enthusiasm (my word) for this work. Thanks also to Anna Pakes and Erin Brannigan for the long and short conversations that often tested my thinking in this work. And, as ever, to the people I have cited here without their permission, particularly in the context of a critique. Citation is a remarkably simply system yet what power to notice and to connect, and to be moved and humbled by the work of others.
+
+Thank you.  
 
 # Admin
-
-## not yet located
-
-- include motivated reasoning: affective responses. 
-
-- embodiment as we tend to use it (even though it is used in wildly different ways) seems to be predicated on the body as special kind of object, but an object nevertheless. See [[the lived body and embodiment#^844cda]]. On this point see also [[the body in artistic research#^b4be45]] and Le Guin on just how badly objectification has gone for human-kind and our plant.
-
-See [[somatic practices, interoception and evidence#opportunities]] for useful things to add at end of this presentation.
-
-- Ellerton article for The Conversation is useful. https://read.readwise.io/new/read/01gyhnwb6edbv3zxwh6j4wx4p4 -- very very good as overview of some suggestions I might make. 
-
 
 ## to do
 
@@ -294,6 +295,19 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 
 ## edit bin
 
+- Ellerton article for The Conversation re epistemology and truth is useful. https://read.readwise.io/new/read/01gyhnwb6edbv3zxwh6j4wx4p4 -- very very good as overview of some suggestions I might make. 
+
+> The sincerity of one’s belief, the volume or frequency with which it is stated, or assurances to “believe me” should not be rationally persuasive by themselves.[@ellerton-2017-how]
+
+And it is likely human nature (and I suspect academics are particularly prone to this) that if we agree there is a concern or problem here, then none of us will think we are responsible for that  problem because we don't imagine we are making these kinds of claims.
+
+> Knowingness, as the philosopher and psychoanalyst Jonathan Lear [defines](https://www.hup.harvard.edu/catalog.php?isbn=9780674455344) it in *Open Minded* (1998), is a posture of always ‘already knowing’, of purporting to know the answers even before the question arises. -- in Jonathan Malesic
+
+Somatics unlimited: this is a criticism of my position really. Because we are dealing with belief and beliefs are terrifically difficult to change. (all those cognitive biases exist to keep our visions of the world stable). Backfire effect. What would it take to change your position on the value of somatics? Then present that article JB sent me?
+
+Propositional claims aren't bad perse. My question is more about the effects of having a journal in which the dominant method is to do something then believe something about it then claim it as a benefit. 
+
+> In this version of reality, the idea that better information literacy or critical reasoning skills — of us, or the friends that listen to us — could lead to belief change is futile. The facts are merely window-dressing on deeper beliefs that must be addressed directly. <https://hapgood.us/2023/06/10/reasonableness-an-introduction/>
 
 > In cases when the artist thinks they know, their interpretation may not be accurate or the whole story. We live in a mysterious world full of uncertainties. And we regularly make assumptions to explain them. Coming to terms with the complexity of our human experience allows us to exit our natural state of confusion. To survive. Generally our explanations are guesses. These vague hypotheticals become fixed in our minds as fact. We are interpretation machines, and this process of labeling and detaching is efficient but not accurate. We are the unreliable narrators of our own experience. [@rubin-2023-creative Location 1813]
 
