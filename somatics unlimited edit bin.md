@@ -47,7 +47,8 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 - [x] 214 Leonardo José Sebiane Serrano 
 - [ ] 211, Ciane Fernandes
 - [x] 155 Carol Brown 
-- [ ] 81, 142, 164, 41
+- [x] 81 Yvon Bonenfant 
+- [ ] 142, 164, 41
 
 ## Links in Obsidian
 
@@ -60,6 +61,18 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 
 
 ## edit bin
+
+A philosophical razor is a rule of thumb designed to shave off unlikely explanations of phenomena; a time-saving device. Hitchens' epistemological razor is designed to reject certain knowledge claims. It was created by and named after renowned journalist and atheist Christopher Hitchens: 
+
+> What can be asserted without evidence can also be dismissed without evidence. [@hitchens-2007-god p.258]
+
+Hitchens was using the razor in the context of refuting religious belief, but what it does more broadly is put the burden of proof on the person making the claim. For example, if I claim that somatic practices improve physical coordination, then it is my responsibility to try and provide the evidence to build that argument.
+
+I think it matters because if we have no understanding of the mechanisms of change then we cannot say which part of a practice is responsible for the changes we seem to be seeing and describing. It's a monumental question.
+
+If practice x leads to effect y does it matter how, especially if the effect is due to the holistic nature of the practice: something ineffable, immeasurable or unfathomable? 
+
+I sought out these examples (rather than relying on drawing them out randomly) as they contradicted my hunch about claim-making in JDSP.
 
 Just to be clear: Both of these articles are remarkable and I have enormous respect for the authors ... and I sure have missed Andrée in these last difficult years. 
 
