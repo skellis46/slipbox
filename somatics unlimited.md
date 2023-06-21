@@ -40,7 +40,7 @@ In doing this work I do not seek to shame our field or tear it down. If anything
 
 ## An unfinished catalogue of claims
 
-Late last year, I started something that I have not yet finished. I started cataloguing every claim made on behalf of somatic practices in JDSP. 
+Late last year, I started something that I have not yet finished. I started cataloguing every claim made on behalf of somatic practices in the journal. 
 
 I haven't yet finished this cataloguing effort because I ran out of time. In fact, I didn't get close. Up to Volume 14.2 in 2022, 271 articles have been published in JDSP. This number excludes editorials, reports, book reviews and volume 14.1S, but includes interviews and editorials for special issues. To this date I have only worked through 85 of these 271, which is just shy of a third. 
 
@@ -58,45 +58,33 @@ In this presentation I have tried to mitigate against cherry picking. I did this
 
 Most of the dizzying number of practices presented in JDSP are described in ways that would be difficult to recognise for those not already in the know. Their descriptions contain abstractions that are easily taken for granted. 
 
-Here's an example. It's a strange example but it was the next cab off my randomised rank, and it concerns the humble plié. 
+Here's an example from my randomised list, and it's about building an artist book as a form of tactile writing:  
 
-> A plié is a bend of the knees. Pliés can be done in many different positions: first, second, third, fourth: open and crossed fifth, and parallel. In all cases, the left and right knees bend equally, although certain position of the feet, like fourth open, cause a slightly uneven distribution of weight – making the achievement of even-ness in the knee-bend very challenging.[@deleon-2009-potent p.90]
+> [the artist book] was an attempt to embody – through ‘written’ archiving – the intersensorial metatext of a performance that was pregnant with tactile intention [@bonenfant-2013-writing p.122].
 
-Note the abstractions. What is a position? What is crossed fifth? What is parallel? Regarding distribution of weight, does this mean if I bend my knees while lying down (or with my legs in the air while on my back) that this is not a plié or knee-bend? Who then is this writing for other than people who already know (and perhaps believe) in this work? 
+Note the abstractions. What is intersensorial metatext? And how might it be embodied? What is a tactile intention and how does it get pregnant? 
 
-The lack of precision and the weight of abstractions is telling. Perhaps the lack of precision is even a feature and not a bug.
+Perhaps though the poetics of abstract language are a feature and not a bug? Yet, there is tremendous responsibility in clarifying our abstractions because "extraction follows closely on the heels of abstraction" [@mcquillan-2022-resisting n.pag.] And with extraction comes exploitation. Who and what might we be exploiting through our abstractions, even if the exploitation is of an epistemic space? 
 
-> We are the unreliable narrators of our own experience. [@rubin-2023-creative Location 1813]
+### 2. Mechanisms are as rare as hens' teeth
 
-There is tremendous responsibility in clarifying our abstractions because "extraction follows closely on the heels of abstraction" [@mcquillan-2022-resisting n.pag.] And with extraction comes exploitation. Now you could say, "It's just a bloody plié Simon" and I would understand. But even in such a benign example who and what might we be exploiting through our abstractions, even if the exploitation is of an epistemic space? 
+I catalogued whether articles contained any description of the mechanism for the beneficial claims made on behalf of each somatic practice. Few articles in JDSP do this: about one in five of those I reviewed. In most cases, the practice (or practices) are implicitly also the mechanism: somatic practice x can lead to effect y through the somatic practice process x. 
 
-### 2. Mechanisms are as rare as hens teeth
+When articles do contain mechanisms it's mostly not possible to know if the mechanisms have anything to do with the somatic practice linked to the claim. 
 
-I catalogued whether articles contained any description of the mechanism for the beneficial claims made on behalf of each somatic practice. By "mechanism" I mean some hint of _how_ the somatic practice did what the author said it did. Few articles in JDSP do this: about one in five of those I reviewed. In most cases, the practice (or practices) are implicitly also the mechanism. In other words, somatic practice x can lead to effect y through the somatic practice process x. 
+Here's an example. It's the next one off my list of randomly selected articles, and is from Vicky Wright's remarkable 2021 reflection on mask work and evolutionary states of sensory awareness [-@wright-2021-using].
 
-When articles do contain mechanisms they are mostly vague or it's not possible to find out if the mechanisms even have anything to do with the somatic practice linked to the claim. 
+I labelled the somatic practice as _Phylogenetic mask work_ which I appreciate is not your run-of-the-mill somatic practice. Wright claimed that this mask work:
 
-Here's an example. It's the next one off my list of randomly selected articles, and is from Vicky Wright's remarkable 2021 reflection on _Using mask to explore earlier evolutionary states of sensory awareness, and their role in our inter-relationship with the natural world_ [-@wright-2021-using].
+> can help us to overcome a human/nature alienation and instead create connection [@wright-2021-using p.203].
 
-In this I labelled the somatic practice as _Phylogenetic mask work_ which I appreciate is not your run-of-the-mill somatic practice. Wright claimed that this mask work:
+Wright indicates that it is the animal and nature modes of sensing that are _how_ the mask work helps us to overcome human/nature alienation. 
 
-> can help us to overcome a human/nature alienation and instead create connection.[@wright-2021-using p.203]
+I have lots of questions here, not least how it is that we would know if this mechanism (if indeed it is a mechanism for change) was doing its work, or (more usefully) how would we know if it were not? 
 
-There is some sense of mechanism for this effect described by Wright as the "'animal' or 'natural' modes of sensing available to us within our bodies" [@wright-2021-using p.203]. In other words, it is the animal and nature modes of sensing that are _how_ the mask work helps us to overcome human/nature alienation. 
+Why does this matter? The question '_How_ does this practice do this?' is monumental. Without this question our claims are flimsy. They remain simply claims. Perhaps though the lack of 'mechanisms' is not surprising. These are (by and large) not the kinds of methods we adopt in our work.  
 
-I have lots of questions here, not least how it is that we would know if this mechanism (if indeed it is a mechanism for change) was doing its work, or (more usefully) how would we know if it were not the mechanism for this effect? 
-
-Why does this matter? If practice x leads to effect y does it matter how, especially if the effect is due to the holistic nature of the practice: something ineffable, immeasurable or unfathomable? 
-
-I think it matters because if we have no understanding of the mechanisms of change then we cannot say which part of a practice is responsible for the changes we seem to be seeing and describing. It's a monumental question. _How_ does this practice do this? Without this question our claims are flimsy. They remain simply claims. Perhaps though the lack of 'mechanisms' is not surprising. These are (by and large) not the kinds of methods we adopt in our work. 
-
-A philosophical razor is a rule of thumb designed to shave off unlikely explanations of phenomena; a time-saving device. Hitchens' epistemological razor is designed to reject certain knowledge claims. It was created by and named after renowned journalist and atheist Christopher Hitchens: 
-
-> What can be asserted without evidence can also be dismissed without evidence. [@hitchens-2007-god p.258]
-
-Hitchens was using the razor in the context of refuting religious belief, but what it does more broadly is put the burden of proof on the person making the claim. For example, if I claim that somatic practices improve physical coordination, then it is my responsibility to try and provide the evidence to build that argument. 
-
-As an aside, I read no claims that indicated some negative effect or outcome because of a somatic practice. This is bizarre. I can remember one incident during an Awareness Through Movement class when a first time student had a destructive experience based on the assumptions the teacher was making about sight and sightedness. Where are those anecdotes in our journal? 
+As an aside, I read no claims that indicated some negative effect or outcome because of a somatic practice. I can remember one incident during an Awareness Through Movement class when a first time student had a destructive experience based on the assumptions the teacher was making about sight and sightedness. Where are those anecdotes in our journal? 
 
 ### 3. Patchwork quilt
 
@@ -106,9 +94,9 @@ Perhaps this patchwork phenomenon is a thing because somatics as an artistic-sch
 
 ### 4. Descriptions of practice
 
-The articles that most commonly do NOT make claims are those that are simple descriptions or presentations of practice. For example Whitehead [-@whitehead-2021-stitching], Crisp and Roberts [-@crisp-2021-reflections], Tokunow et al [-@tokunow-2021-stages], Wolfman [-@wolfman-2021-video], and Weber Da Silva et al [-@weberdasilva-2020-am]. I sought out these examples (rather than relying on drawing them out randomly) as they contradicted my hunch about claim-making in JDSP. 
+The articles that most commonly do NOT make claims are those that are simple descriptions or presentations of practice. For example Whitehead [-@whitehead-2021-stitching], Crisp and Roberts [-@crisp-2021-reflections], Tokunow et al [-@tokunow-2021-stages], Wolfman [-@wolfman-2021-video], and Weber Da Silva et al [-@weberdasilva-2020-am].  
 
-It seems that one vital part of the Journal's role is as a place to share current practices. I'll note though -- and this is a particular bugbear of mine [see @ellis-forthcoming-ecosystemic] -- that rarely are these descriptions of practice drawn into dialogue with other similar or overlapping practices. They are more or less isolated bubbles of practice which likewise contribute to the patchwork effect I have just discussed. 
+It would seem that one vital part of the Journal's role is as a place to share current practices. I'll note though -- and this is a particular bugbear of mine [see @ellis-forthcoming-ecosystemic] -- that rarely are these descriptions of practice drawn into dialogue with other similar or overlapping practices. They are more or less isolated bubbles of practice which likewise contribute to the patchwork effect I have just discussed. 
 
 ### 5. Arguing from authority
 
@@ -130,7 +118,7 @@ Here then are the number of times the next five articles from my random selectio
 
 These numbers might say something about the relative size of our field (and the numbers ought to be expressed as a percentage of total articles and then compared with other journals in any given discipline), but the raw numbers also indicate that we are not engaging in debates within the field. If there were such debates these numbers would be higher, and I think the field would be richer for it.
 
-The field would be richer for it because when we make an academic claim (a claim you make in an argument) it is "considered debatable or up for inquiry" [@nordquist-2020-what n.pag]. Through debate we make dissent possible, and a research field is only as strong as what it allows to be questioned. When asked how to minimise the impact of cognitive biases in human debate, the psychologist Daniel Kahneman said, "protect the dissenters" [@parrish-2020-daniel] by making dissent painless.
+The field would be richer because when we make an academic claim (a claim you make in an argument) it is "considered debatable or up for inquiry" [@nordquist-2020-what n.pag]. Through debate we make dissent possible, and a research field is only as strong as what it allows to be questioned. When asked how to minimise the impact of cognitive biases in human debate, the psychologist Daniel Kahneman said, "protect the dissenters" [@parrish-2020-daniel] by making dissent painless.
 
 Here's Australian philosopher Peter Ellerton: 
 
@@ -149,8 +137,6 @@ This last observation is about the word _can_. I'll use the next two articles fr
 And here's Sylvie Fortin and Élise Hardy writing in 2018 and citing Fortin from 2015: 
 
 > focusing on the micro-political body through somatic education can help women exercise agency within the matrix of social inequalities they live in. [Fortin 2015, in @fortin-2018-fibromyalgia p.271]
-
-Just to be clear: Both of these articles are remarkable and I have enormous respect for the authors ... and I sure have missed Andrée in these last difficult years. 
 
 In both quotes, the word _can_ is the same as the term "to be able to". But the stakes of Fortin and Hardy's _can_ are high. Their _can_ is implicated in a claim about a benefit of somatic practices: somatic practice x CAN lead to effect y. Once you start seeing the word _can_ used in this way in JDSP you see it everywhere. Perhaps this is a case of the Baader-Meinhof phenomenon (also called the frequency illusion) -- that thing that happens when you learn a word or idea and then start seeing it everywhere -- but my suspicion is that we in JDSP deploy the word _can_ as a _hedge_ very often indeed. 
 
@@ -193,7 +179,7 @@ A key limitation of this work is not looking at other disciplines or fields; eve
 
 --- 
 
-And speaking of thanks, it is important that I finish by thanking and acknowledging my colleagues at C-DaRE, and in particular Teoma Naccarato and Hetty (again) and for their support and enthusiasm (my word) for this work. Thanks also to Anna Pakes and Erin Brannigan for the long and short conversations that often tested my thinking. And, as ever, to the people I have cited here without their permission, particularly in the context of a critique. Citation is a remarkably simply system yet what power to notice and to connect, and to be moved and humbled by the work of others.
+And speaking of thanks, it is important that I finish by thanking and acknowledging my colleagues at C-DaRE, and in particular Teoma Naccarato and Hetty (again) and for their support and enthusiasm (my word) for this work. Thanks also to Anna Pakes and Erin Brannigan for the long and short conversations that often tested my thinking. And, as ever, to the people I have cited here without their permission, particularly in the context of a critique. Citation is a remarkably simple system yet what power to notice and to connect, and to be moved and humbled by the work of others.
 
 Thank you.  
 
