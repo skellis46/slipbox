@@ -62,6 +62,9 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 
 ## edit bin
 
+Perhaps this patchwork phenomenon is a thing because somatics as an artistic-scholarly field is still fledgling? But is it still fledgling? When might we be ready enough to shed the _new_ label? I worry that we hide behind the _new_ label to rationalise this patchwork phenomenon I have observed and am describing. Thinking of ourselves as fledgling is perhaps how we get to say what we want without slowly building foundations of intra-disciplinary dialogue and debate. 
+
+
 A philosophical razor is a rule of thumb designed to shave off unlikely explanations of phenomena; a time-saving device. Hitchens' epistemological razor is designed to reject certain knowledge claims. It was created by and named after renowned journalist and atheist Christopher Hitchens: 
 
 > What can be asserted without evidence can also be dismissed without evidence. [@hitchens-2007-god p.258]
