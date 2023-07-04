@@ -62,6 +62,19 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 
 ## edit bin
 
+"Epistemology doesn’t just ask questions about what we should do to find things out; that is the task of all disciplines to some extent. For example, science, history and anthropology all have their own methods for finding things out.
+
+Epistemology has the job of making those methods themselves the objects of study. It aims to understand how methods of inquiry can be seen as rational endeavours." (Peter Ellerton, How Do You Know That What You Know Is True? That’s Epistemology)
+
+"To review — yes, we come to beliefs before evidence, but we wish not only to express our beliefs but to be thought as reasonable. In some cases, we adopt beliefs considered reasonable by those around us. Sometimes we adopt those beliefs just to seem reasonable. When we adopt beliefs thought by some to be unreasonable, **we supply reasons**, often in the form of evidence. But far from being an afterthought, the evidence we supply is a necessary price we pay for the maintenance of our beliefs. If the reasonableness of a belief becomes too expensive or difficult to maintain, we lose the belief." (mikecaulfield, Reasonableness: An Introduction)
+
+> The human understanding draws everything else to be in harmony with, and to support, those things which once please it, either because they are [generally] received and believed, or because they delight it. And, though it must be admitted that the force and the number of instances that occur to the contrary is greater, it [the understanding] either does not heed them or it disdains them; or, if it does take notice of them, it distances itself from them and dismisses them – and that not without great and pernicious prejudice – so that the authority of those previous beliefs remains inviolate.
+
+- Francis Bacon, Novum Organum² (ncbi.nlm.nih.gov)
+- https://almossawi.substack.com/p/confirmation-bias-were-like-a-family?utm_source=substack&utm_medium=email
+
+>"**6.** In the *Pensées* , Pascal observed that “there are two equally dangerous extremes: to exclude reason, to admit nothing but reason.” With regard to language, we might say that there are two analogous extremes: to exclude the possibility that language can adequately express something truthful about the world, to admit only the truths language can convey. I would assent to the claim that there are truths beyond language. There are inexpressible realities and ineffable experiences. But language is itself a miracle and a gift of extraordinary range, power, and beauty. It is one thing to reach the limits of language by testing its resources and searching its depths, and another thing altogether to mistake our own apathy and incuriosity for the inherent limits of speech." (The Convivial Society, Too Many Words, and Not Enough)
+
 Human beings are cherry pickers. We seek and notice examples that confirm our beliefs or ideas and don't notice or ignore examples that contradict these beliefs. Such confirmation biases are not conscious. For example, goal-oriented motivated reasoning is driven by personal emotions. That is, the heuristic for judging new information is, more or less: how does this information make me feel? 
 
 In this presentation I have tried to mitigate against cherry picking. I did this by randomly selecting 20 articles from the full 272 and then worked my way down that list of 20 articles to include as examples in this presentation. 
