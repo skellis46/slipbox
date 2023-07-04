@@ -38,11 +38,9 @@ Here are four claims made on behalf of somatics and drawn from the pages of the 
 
 ## Making claims
 
-- see also later in Nordquist about how a claim is different from opinion
-
 What does it mean to _claim_ something? 
 
-A "claim is something which someone says which they cannot prove and which may be false" [@noauthor-nodate-claim]. To claim something is also to "assert and demand recognition" or possession of something. And when we say someone claims something, we suggest doubt [@noauthor-nodate-claim]. 
+A "claim is something which someone says which they cannot prove and which may be false" [@noauthor-nodate-claim]. To claim something is also to "assert and demand recognition" or possession of something. And when we say someone claims something, we suggest doubt [@noauthor-nodate-claim]. "A claim is more than an opinion but it is less than a universally agreed upon truth" [@nordquist-2020-what n.pag.]
 
 What a claim is not is an argument.
 
@@ -50,11 +48,9 @@ What a claim is not is an argument.
 
 > Claims backed by reasons that are supported by evidence are called arguments. [@nordquist-2020-what n.pag.]
 
-A claim without evidence is simply an opinion or _assertion_. 
-
 [down - blank]
 
-I have used the word _claim_ because while reading JDSP over the years I thought I was seeing a tendency or pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices: as if somatics has unlimited value, scope, and power to produce postiive change.   
+I have used the word _claim_ because while reading JDSP over the years I thought I was seeing a tendency or pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices: as if somatics has unlimited value, scope, and power to produce positive change.   
 
 In doing this work I do not seek to shame our field or tear it down. If anything, I see myself as a believer in the transformative powers of somatic practices: I have experienced their benefits, and continue to practice a version of authentic movement as an anchor to my understanding of movement, sensation and consciousness. Rather, I want to understand the epistemic values and costs of somatic practices as represented by the materials published in JDSP. And I hope I do this in a way that is constructive, generative and provocative. 
 
@@ -66,33 +62,31 @@ Late last year, I started something that I have not yet finished. I started cata
 
 I haven't yet finished this cataloguing effort because I ran out of time. In fact, I didn't get close. Up to Volume 14.2 in 2022, 272 articles have been published in JDSP. This number excludes editorials, reports, book reviews and volume 14.1S, but includes interviews and editorials for special issues. To this date I have only worked through 85 of these 272, which is just shy of a third. [down] [down]
 
-My observations today have emerged from working with the JDSP archive.
+## A note on methods
 
-[down]
+I have six observations to share today. These observations emerged from this analysis of the 85 articles. However, the articles I use to exemplify these observations were all drawn at random from the entire list of 272 JDSP articles. For example, I drew the quote-claims I presented at the beginning from four articles randomly selected from the entire JDSP corpus. At no stage did I randomly select an article and then return it to the pile because it didn't suit my needs or desires. This reveals my confidence about how common these observations are in the JDSP corpus. 
 
-## A note on cherry picking
+To the best of my ability, all authors have been removed from the examples I present today. I am not interested in somehow shaming the work of people who have work published in JDSP. I read extraordinary scholarship and practice that moved and challenged me, but that does not mean the work is somehow flawless. 
 
-Human beings are cherry pickers. We seek and notice examples that confirm our beliefs or ideas and don't notice or ignore examples that contradict these beliefs. Such confirmation biases are not conscious. For example, goal-oriented motivated reasoning is driven by personal emotions. That is, the heuristic for judging new information is, more or less: how does this information make me feel? 
+Finally, the quotes you'll see are plucked from the context in which they were written. This is unfair on my part and is a significant weakness of my analysis here this morning. That is, it's relatively easy to find aspects of any research article that reveal some kind of flaw or problem. Despite this weakness, I believe it is worth sharing these observations to provoke debate and conversation. 
 
-In this presentation I have tried to mitigate against cherry picking. I did this by randomly selecting 20 articles from the full 272 and then worked my way down that list of 20 articles to include as examples in this presentation. For example, I drew the quote-claims I presented at the beginning from the first four randomly selected articles. This randomised process also reveals just how common the following observations are in the JDSP corpus. 
+Here goes.
 
-[down]
-
-add how these quotes are plucked from context and in that sense it is unfair -- or something like this. 
+[right]
 
 ## Six observations
 
-[down]
+[right]
 
 ### 1. Abstractions
 
 [right - auto] Most of the extraordinary number of practices presented in JDSP are described in ways that would be difficult to recognise for those not already in the know. Their descriptions contain abstractions that are easily taken for granted. 
 
-Here's an example pulled from article 81 of 272, and it's about building an artist book as a form of tactile writing: [right] 
+Here's an example pulled from randomly selected article 81 of 272, and it's about building an artist book as a form of tactile writing: [right] 
 
 > [the artist book] was an attempt to embody – through ‘written’ archiving – the intersensorial metatext of a performance that was pregnant with tactile intention [@bonenfant-2013-writing p.122].
 
-Note the abstractions. What is intersensorial metatext? And how might it be embodied? What is a tactile intention and how does it get pregnant? 
+Note the abstractions. What is an intersensorial metatext? And how might it be embodied? What is a tactile intention and how does it get pregnant? 
 
 [right - blank]
 
@@ -138,41 +132,17 @@ The articles that most commonly do NOT make claims are those that are simple des
 
 [down]
 
-### 5. Arguing from authority
+### 5. Citations and arguing from authority
 
 When I began this work I assumed that the claims made for somatics would veer towards being claims (or appeals) to authority. The fallacy of _appeal to authority_ is when "a claim is supported by reference to an authority instead of offering reasons to support it" [@novaes-2021-argument n.pag.] These are akin to what Isabelle Ginot -- in her landmark critique of somatic practices in 2010 -- described as endogenous somatics discourses [@ginot-2010-shusterman]. 
 
-But I was surprised. Of the 85 articles I analysed, about two-thirds made what I called primary claims. That is, a claim that makes no reference to research or scholarship by other people (it is uncited or assumed) and/or is based on the practices described in the article.
+But I was surprised. Of the 85 articles I analysed, about two-thirds made what I called primary claims. That is, a claim that makes no reference to research or scholarship by other people (the claim is assumed or does not cite previous scholarship) and/or is based on the practices described in the article.
 
 Yet perhaps in hindsight this is not so surprising. These primary claims align with the patchwork I have just described. They are primary claims that are placed into the aether of somatics practices discourses, and rarely, if ever, support, interrupt, change or unsettle the practices (and their epistemic underpinnings) already presented in the journal. 
 
-If we look at citation patterns for all articles in JDSP it starts to make the patchwork picture of primary claims very stark indeed. I have zero interest in the quantitative crudeness of citation indices: "Just because something is easy to measure doesn't mean it's accurate. Or that it matters" [@godin-2023-song n.pag.]. The number of citations is not necessarily correlated to the quality or reliability of research; however it is a rough estimate of the influence of an article (whether positive or negative).
+The citation patterns in JDSP might also tell us a bit more about the nature of these primary claims. I have zero interest in the quantitative crudeness of citation indices: "Just because something is easy to measure doesn't mean it's accurate. Or that it matters" [@godin-2023-song n.pag.]. The number of citations is not necessarily correlated to the quality or reliability of research; however it is a rough estimate of the influence of an article (whether positive or negative).
 
-Here then are the number of times five randomly drawn articles from all 272 JDSP articles have been cited.
-
-[right]
-
-- Angharad Harrop [-@harrop-2014-can] _I can feel his heart beating through the sole of my foot: Reflections on improvisation from a dancer finding her feet_: cited 3 times   
-
-[right]
-
-- Claire Loussouarn [-@loussouarn-2021-this] _This urban wild field in Hackney Marshes_: cited 0 times    
-
-[right]
-
-- Carol Marie Webster [-@webster-2019-chat] _Chat to Mi Back: Meditation on body archive_: cited 0 times  
-
-[right]
-
-- Leonardo José Sebiane Serrano [-@sebianeserrano-2020-mestizoa] _Mestizo Corporalities: Tropical/vibrant Latin American bodies_: cited 2 times  
-
-[right]
-
-- Carol Brown [-@brown-2017-entangled] _Entangled histories, part 1: Releasing the Archive_: cited 4 times (including one self-citation).
-
-[right - blank]
-
-There most cited articles in JDSP (according to Intellect) start high but then drop off. These numbers are
+There 10 most cited articles in JDSP (according to Intellect) start high but then drop off. These numbers of citations are as follows and they are all from articles published between 2009 and 2015:
 
 [right]
 
@@ -187,10 +157,15 @@ There most cited articles in JDSP (according to Intellect) start high but then d
 - 21 [@smith-2014-pedagogy]
 - 15 [@little-2014-restructuring]
 
-The Scopus database has an incomplete dataset of JDSP that misses the first five years of the journal. But from 2014-2022 Scopus contains 197 JDSP articles, and of these, 13 have 2 citations, 45 have 1 citation, and 105 have 0 citations.
+The Scopus database has an incomplete dataset of JDSP that misses the first five years of the journal (I don't know why). But from 2014-2022 Scopus contains 197 JDSP articles, and of these, 13 have been cited twice, 45 have been cited once, and 105 have been cited 0 times. That means more than half of the articles published in JDSP between 2014-2022 have never been cited in other research. 
 
+It seems though that these citation data are not peculiar to somatic practices scholarship, and are shared across dance and performance scholarship in general. Scopus publishes what it calls a CiteScore, which is the number of citations a journal has divided by the number of articles. [right] JDSP's CiteScore between 2019 and 2022 is [right] currently 0.3 (that's 19 citations from 76 documents). Choreographic Practices (a journal I co-edit) [right] has a CiteScore for the same period of 0.4. [right] Performance Research 0.3 and [right] Dance Research 0.2. There also seems to be a downward trend in citations from 10 years ago for all these journals. 
 
-These numbers might say something about the relative size of our field, but the raw numbers also indicate that we are not engaging in debates within the field. If there were such debates these numbers would be higher, and I think the field would be richer for it.
+In the visual and performing arts the highest CiteScore is for Psychology of Aesthetics, Creativity and the Arts at 8.3 (or 1305 citations from 157 articles). Across all disciplines, Scopus's highest rated journal is Ca-A Cancer Journal for Clinicians at 642.9 (69429 citations from 108 documents). 
+
+To my mind these numbers in dance and performance indicate that we are not engaging in debates within the field. If there were such debates these numbers would be higher, and I think the field would be richer for it.
+
+[right - blank]
 
 The field would be richer because when we make an academic claim (a claim you make in an argument) it is "considered debatable or up for inquiry" [@nordquist-2020-what n.pag]. Through debate we make dissent possible, and a research field is only as strong as what it allows to be questioned. When asked how to minimise the impact of cognitive biases in human debate, the psychologist Daniel Kahneman said, "protect the dissenters" [@parrish-2020-daniel] by making dissent painless.
 
