@@ -62,6 +62,10 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 
 ## edit bin
 
+Human beings are cherry pickers. We seek and notice examples that confirm our beliefs or ideas and don't notice or ignore examples that contradict these beliefs. Such confirmation biases are not conscious. For example, goal-oriented motivated reasoning is driven by personal emotions. That is, the heuristic for judging new information is, more or less: how does this information make me feel? 
+
+In this presentation I have tried to mitigate against cherry picking. I did this by randomly selecting 20 articles from the full 272 and then worked my way down that list of 20 articles to include as examples in this presentation. 
+
 Perhaps this patchwork phenomenon is a thing because somatics as an artistic-scholarly field is still fledgling? But is it still fledgling? When might we be ready enough to shed the _new_ label? I worry that we hide behind the _new_ label to rationalise this patchwork phenomenon I have observed and am describing. Thinking of ourselves as fledgling is perhaps how we get to say what we want without slowly building foundations of intra-disciplinary dialogue and debate. 
 
 
