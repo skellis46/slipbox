@@ -62,6 +62,20 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 
 ## edit bin
 
+Perhaps this is a case of the Baader-Meinhof phenomenon – that thing that happens when you learn a word and then start seeing it everywhere – but my suspicion is that in JDSP the word _can_ is deployed as a hedge very often indeed.
+
+(the claim is assumed or does not cite previous scholarship)
+
+This number excludes editorials, reports, book reviews and volume 14.1S, but includes interviews and editorials for special issues. 
+
+> That we test each others’ thinking and collaboratively arrive at standards of epistemic credibility lifts the art of justification beyond the limitations of individual minds, and grounds it in the collective wisdom of reflective and effective communities of inquiry. [@ellerton-2017-how n.pag.]
+
+I'm curious about this phrase _epistemic credibility_. Without the kind of process that Ellerton describes then 
+
+When asked how to minimise the impact of cognitive biases in human debate, the psychologist Daniel Kahneman said, "protect the dissenters" [@parrish-2020-daniel] by making dissent painless.
+
+I have zero interest in the quantitative crudeness of citation indices: "Just because something is easy to measure doesn't mean it's accurate. Or that it matters" [@godin-2023-song n.pag.]. The number of citations is not necessarily correlated to the quality or reliability of research; however it is a rough estimate of the influence of an article (whether positive or negative).
+
 "Epistemology doesn’t just ask questions about what we should do to find things out; that is the task of all disciplines to some extent. For example, science, history and anthropology all have their own methods for finding things out.
 
 Epistemology has the job of making those methods themselves the objects of study. It aims to understand how methods of inquiry can be seen as rational endeavours." (Peter Ellerton, How Do You Know That What You Know Is True? That’s Epistemology)
