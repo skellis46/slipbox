@@ -62,6 +62,8 @@ On the pages of the Journal of Dance and Somatic Practices – and elsewhere in 
 
 ## edit bin
 
+That through our language we ride the line between what is demonstrably true and what is palpably untrue. 
+
 Perhaps this is a case of the Baader-Meinhof phenomenon – that thing that happens when you learn a word and then start seeing it everywhere – but my suspicion is that in JDSP the word _can_ is deployed as a hedge very often indeed.
 
 (the claim is assumed or does not cite previous scholarship)
