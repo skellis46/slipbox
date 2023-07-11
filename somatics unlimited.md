@@ -68,7 +68,7 @@ I have six observations to share today. These observations emerged from this ana
 
 To the best of my ability, all authors have been removed from the examples I present today. I am not interested in somehow shaming the work of people whose work has been published in JDSP. I read extraordinary scholarship and practice that moved and challenged me, but that does not mean the work is somehow flawless. 
 
-Finally, the quotes you'll see are plucked from the context in which they were written. This is unfair on my part and is a significant weakness in this presentation of my analysis. That is, it's relatively easy to find aspects of any research article that reveal some kind of flaw or problem. 
+Finally, the quotes you'll see are plucked from the context in which they were written. This is unfair on my part and is a significant weakness in this presentation of my analysis. That is, it's relatively easy to cherry-pick aspects of any research article that reveal some kind of flaw or problem (just as it is easy to find aspects that confirm our thinking). 
 
 Here goes.
 
@@ -92,9 +92,9 @@ Note the abstractions. What is an intersensorial metatext? And how might it be e
 
 [breath]
 
-Perhaps though the poetics of abstract language are a feature and not a bug? 
+Perhaps though the poetics of abstract language are a feature and not a bug? That part of our work is to attempt to pay testimony to the ineffable. 
 
-My sense is that we must continue to develop the poetics of the field and understand how both poetic and scholarly abstractions might strengthen or embolden academic understandings. Yet I also worry that with abstractions come dangers. Who and what might we be exploiting through deploying abstractions, even if the exploitation is of an epistemic space? 
+My sense is that we must continue to develop the poetics of the field and understand how both poetic and scholarly abstractions might strengthen or embolden our understandings. Yet I also worry that with abstractions come dangers. Who and what might we be exploiting through deploying abstractions, even if the exploitation is of an epistemic space? 
 
 [right]
 
@@ -167,7 +167,9 @@ These citation data are not peculiar to somatic practices scholarship, and are s
 
 In the visual and performing arts the highest CiteScore is for [right] Psychology of Aesthetics, Creativity and the Arts at 8.3 (or 1305 citations from 157 articles). Across all disciplines, Scopus's highest rated journal is [right] Ca-A Cancer Journal for Clinicians at 642.9 (69429 citations from 108 documents). 
 
-To my mind these numbers in dance and performance indicate that we are not engaging in debates within the field. If there were such debates these numbers would be higher, and I think the field would be richer for it.
+To my mind these numbers in dance and performance indicate that we are not engaging in debates within the field. If there were such debates these numbers would be higher, and I think the field would be richer for it.[^1]
+
+[^1]: See also Sam Dresser for just how rarely arts and humanities scholarship is cited (16%) vs science: <https://aeon.co/essays/science-is-not-the-only-form-of-knowledge-but-it-is-the-best>
 
 [right - blank]
 
@@ -207,7 +209,7 @@ Let's take another look at the claims I presented at the beginning. Remember, th
 
 > By adopting a somatic approach to conducting research, writing, creating art, or engaging in another profession, we become more alive to what touches us and how our work and presence can touch others. [@saumaa-2020-somaticist p.237]
 
-Why does this _can_ matter? Yes, somatic practice X can produce effect Y, but under what conditions? And when does it NOT produce such an effect? The _can_ inadvertently serves as a way to made argument or refutation nigh impossible. Perhaps though our use of the word comes from a sense of epistemic humility; of not wanting to make strong assertions. 
+Why does this _can_ matter? Yes, somatic practice X can produce effect Y, but under what conditions? And when does it NOT produce such an effect? The _can_ inadvertently serves as a way to make argument or refutation nigh impossible. Perhaps though our use of the word comes from a sense of epistemic humility; of not wanting to make strong assertions. 
 
 Just to note that this last _can_ in article 222 is different. It is less like a hedged claim. And what is striking about it is that, without the slipperiness of the word _can_ as part of the direct claim, it becomes a bolder assertion [right] highlighted by the phrase "we become". Perhaps such boldness opens and creates more space for debate. 
 
@@ -227,7 +229,7 @@ I think a version of Pascal's wager is useful here [@noauthor-2020-pascal n.pag.
 
 ### 2. A specific lens
 
-I have used a specific empirical and rational lens here. It is a lens that is limited and -- like any lens -- it affords particular ways of seeing the world.  
+I have used a specific empirical and rational lens here. It is a lens that is limited and -- like any lens -- it affords particular ways of seeing the world. I do not wish to succumb to the tyranny of the rational.
 
 [down]
 
