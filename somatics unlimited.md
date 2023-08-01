@@ -10,6 +10,10 @@ type: "evergreen"
 
 [down]
 
+## Abstract
+
+On the pages of the Journal of Dance and Somatic Practices – and elsewhere in dance scholarship – artists, scholars, teachers and practitioners are not shy in making claims about the benefits of somatic practices. Such claims are endemic and appear unlimited in scope: becoming pain free [@eddy-2009-brief p.6], greater physical expression [@batson-2007-revisiting], physical harmony [@mullan-2014-somatics p.259], challenging the "dominant discourses" re sexual abuse [@beaudry-2015-somatic], "the potential to question and critique the dominant social discourse and practices of neo-liberal societies" [@fortin-2017-looking p.146], and "a pedagogical foundation for the vitalising and integration of the learners’ sexually potent self into training and performance processes" [@kampe-2015-eros p.200]. In this presentation I discuss the nature of the claims made on behalf of somatic practices through the flagship Journal of Dance and Somatic Practices, and what these claims might say about our responsibilities within and beyond dance research. 
+
 _previous note:_ [[somatic practices, interoception and evidence]]
 
 ![[somatics unlimited map.canvas]]
