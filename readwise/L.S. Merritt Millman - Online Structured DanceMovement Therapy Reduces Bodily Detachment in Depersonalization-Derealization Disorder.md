@@ -173,3 +173,249 @@
 +++++ 
 - Note: p.4 look up this paper.
 
+## New highlights added August 4, 2023 at 8:41 AM
+
+> Bonferroni-corrected post hoc tests on the significant main effect of
+>  time revealed significant differences in MAIA-II scores in the total
+>  sample from Week 1-Week 2 (p = .04, d = 0.33) and Week 1-Week 3 (p
+>  < .001, d = 0.54), but not from Week 2-Week 3 (p = .34, d = 0.21).
+>  Exploratory post hoc tests looking at the two groups separately revealed
+>  significant effects of time in the control group from Week 1-Week 3 (p =
+>  .003, d = 0.43), but not from Week 1-Week 2 (p = .28, d = 0.25) or Week
+>  2-Week 3 (p = 1.00, d = 0.17). In the DDD group, no significant effects of
+>  time were seen (Week 1-Week 2: p = 1.00, d = 0.11; Week 1-Week 3: p =
+>  .88, d = 0.12; Week 2 –Week 3: p = 1.00, d = 0.02). These results suggest
+>  that both tasks improve overall interoceptive awareness over time in the
+>  control group. ([View Highlight](https://read.readwise.io/read/01h6tjnwfgmwfyyhjvx6cdddyn))
+
+
++++++ 
+- Note: p.6 Might this suggest that for people with DDD that it takes longer for possible effects of dance/somatics practices to kick in? That there is more resistance (in whatever sense of the word) to the training? Or that these trainings simply do not work with DDD people?
+
+
+> Additionally, we observed a significant group × task type × time
+>  interaction, F(1.88, 105.52) = 3.46, p = .038, ηp
+>  2 = 0.06. This appears to
+>  be driven by differential effects of the two tasks on mindfulness in the
+>  two groups. Bonferroni-corrected post hoc tests reveal that across Week
+>  1-Week 3, FFMQ scores in the DDD group increased significantly after
+>  performing the DE task, F(1.51, 45.4) = 8.76, p = .002, ηp
+>  2 = 0.23, but
+>  not the BA task, F(1.66, 48.1) = 1.93, p = .16, ηp
+>  2 = 0.06. Interestingly,
+>  we observed the opposite effect in healthy controls: across Week 1-Week
+>  3, FFMQ scores increased after performing the BA task, F(2, 54) = 6.66,
+>  p = .003, ηp
+>  2 = 0.20, but not the DE task, F(1.61, 45.0) = 1.66, p = .21, ηp
+>  2
+>  = 0.06. In sum, the DE task increased mindfulness in the DDD group
+>  whereas the BA task increased mindfulness in the control group. ([View Highlight](https://read.readwise.io/read/01h6tjvdj4dmvg08yqx5qjz754))
+
+
++++++ 
+- Note: p.6 This is fascinating.
+
+
+> With regards to the MAIA-II subscales,
+>  exploratory correlations revealed a significant negative association be­
+>  tween the CDS and the MAIA-Body Listening subscale, with no other
+>  significant correlations present (MAIA-AR; MAIA-EA; MAIA-N; MAIA-
+>  ND; MAIA-NW; MAIA-SR; MAIA-T). ([View Highlight](https://read.readwise.io/read/01h6tk5dwh45nn9b2w9w7c5ty2))
+
+
++++++ 
+- Note: p.7
+
+
+> Exploring the relationship between overall interoceptive awareness
+>  and mindfulness, significant positive associations were found in both the
+>  DDD group, rrm(60) = 0.38, p = .002 [95% CI = 0.14, 0.58], and control
+>  group, rrm(56) = 0.62, p < .001 [95% CI = 0.42, 0.76]. These results
+>  suggest that mindfulness and interoceptive awareness are linked in both
+>  participant groups. ([View Highlight](https://read.readwise.io/read/01h6tk64kphmwtnq47vd983dd9))
+
+
++++++ 
+- Note: p.7
+
+
+> A significant negative association between the CDS and MAIA-II was
+>  found in the DDD group alone (Fig. 2; Table 4), suggesting that lower DD
+>  symptoms are linked to elevated interoceptive awareness. ([View Highlight](https://read.readwise.io/read/01h6tk379rj8z553cxz74bb4ym))
+
+
++++++ 
+- Note: p.7
+
+
+> These results suggest that both tasks
+>  reduce the severity of daily state DD in the DDD group. Interestingly, as
+>  can be seen in Fig. 3, the BA task appeared to induce some state disso­
+>  ciative symptoms in controls post-task performance. ([View Highlight](https://read.readwise.io/read/01h6tkgtxvefsdg1qwdcf8f0s0))
+
+
++++++ 
+- Note: p.9
+
+
+> The reduction in overall DD symptoms as well as anomalous body ex­
+>  periences appear to be associated with increased interoceptive aware­
+>  ness. The CDS and FFMQ were also negatively related in the DDD group
+>  alone, as were the CDS-ABE and FFMQ. Elevated mindfulness appears to
+>  be linked with decreased overall DD symptom severity as well as
+>  anomalous body experiences. ([View Highlight](https://read.readwise.io/read/01h6tk7xm3gzjtdmv3gp2ngzhe))
+
+
++++++ 
+- Note: p.9
+
+
+> Part of the daily diary sheet asked participants to indicate how easy it
+>  was to perform the task and how they felt performing the task. In the
+>  DDD group, the BA task was rated as more difficult to perform than the
+>  DE task (t(59.77) = 2.33, p = .02, g = 0.59; BA: M = 2.91, SD = 1.11; DE:
+>  M = 2.23, SD = 1.18), but there was no significant difference in ratings
+>  of how participants felt after performing the tasks (t(59.92) = 0.61, p =
+>  .55, g = 0.16; BA: M = 4.13, SD = 0.98; DE: M = 4.29, SD = 1.01). The
+>  same was seen in the control group, with the BA task rated as more
+>  difficult (t(53.84) = 2.93, p = .005, g = 0.78; BA: M = 2.51, SD = 1.03;
+>  DE: M = 1.78, SD = 0.84) and no significant difference in ratings of how
+>  participants felt after performing the tasks (t(53.48) = 0.91, p = .34, g =
+>  0.25; BA: M = 4.68, SD = 1.28; DE: M = 4.97, SD = 1.03). ([View Highlight](https://read.readwise.io/read/01h6tkmsd7y3cvnt3c4q0gsx9n))
+
+
++++++ 
+- Note: p.9
+
+
+> The relationship between the level of compliance (the number of
+>  days the task was performed across each of the two weeks), and mean
+>  CDS scores in the DDD group alone, was non-significant for the DE task, r
+>  (29) = -0.00, p = .99 [95% CI = −0.36, 0.35], but trended towards
+>  significance with the BA task, r(29) = -0.33, p = .07 [95% CI = −0.61,
+>  0.03]. The reduction in DD symptoms did not depend on how diligently
+>  people with DDD performed dance exercise, but better compliance with
+>  performing body awareness tended to more strongly improve mean CDS
+>  symptom scores. Importantly, differences seen between the two tasks
+>  imply that the reduction in CDS scores was not merely a result of time
+>  passing between measurement points (Fig. 3). ([View Highlight](https://read.readwise.io/read/01h6tknqw6mckmbnn5ra0r4rfj))
+
+
++++++ 
+- Note: p.9
+
+
+> Exploring the relationship between overall interoceptive awareness
+>  and mindfulness when performing both tasks, significant positive asso­
+>  ciations were found in both the DDD group, rrm(61) = 0.31, p = .013
+>  [95% CI = 0.07, 0.52], and control group, rrm(57) = 0.42, p < .001 [95%
+>  CI = 0.18, 0.62], again suggesting that mindfulness and interoceptive
+>  awareness are linked. ([View Highlight](https://read.readwise.io/read/01h6tke340fgsm15q4kcm2js48))
+
+
++++++ 
+- Note: p.9
+
+
+> On the whole, more partic­
+>  ipants with DDD reported experiencing benefits from the DE task, yet
+>  benefits of the BA task should not be discounted. Overall, individual
+>  differences in these open comments were striking and show the impor­
+>  tance of tailoring tasks to the specific needs and symptoms experienced
+>  by each person with this condition. ([View Highlight](https://read.readwise.io/read/01h6tkqgekwxty71x7nr9s6svy))
+
+
++++++ 
+- Note: p.10
+
+
+> Overall, our
+>  results point towards the efficacy of dance/movement in reducing DD
+>  symptoms in this disorder whilst improving a sense of body awareness. ([View Highlight](https://read.readwise.io/read/01h6tkrepveehpm6vttvm50n45))
+
+
++++++ 
+- Note: p.10
+
+
+> Both tasks reduce symptoms in individuals with DDD yet impacted
+>  mindfulness differently in both participant groups. In those with DDD,
+>  the DE task appears to enhance mindfulness and awareness of bodily
+>  sensations without explicitly asking participants to do so. Performing a
+>  simple sequence of movements does not require participants to explicitly
+>  focus on their inner bodily sensations but instead requires participants to
+>  shift attention away from these sensations in order to accurately
+>  reproduce and remember the sequence of instructed dance movements.
+>  Our study is not the first to report that shifting attention in this way can
+>  support wellbeing. A similar effect was found in a study on the benefits
+>  of drawing for emotional regulation [65], where drawing-to-distract
+>  (drawing something unrelated to one’s feelings after watching a sad
+>  movie) proved to be the more effective intervention to counter the
+>  negative emotions elicited by the movie. In our study, dance exercise
+>  may fulfil a similar function, where people with DDD shift their atten­
+>  tion away from the experience of DDD whilst at the same time increasing
+>  bodily sensations. In contrast, body awareness may be more challenging
+>  for those with DDD as it instructs participants to explicitly focus on their
+>  bodily experiences, but may also promote an individual’s ability to
+>  verbalize and articulate bodily experiences/sensations. In other words,
+>  both tasks appear to address specific cognitive components of mindful­
+>  ness in DDD. These results align with current theory on the causes of
+>  dissociative experiences [16] which proposes that atypical somatosen­
+>  sory attenuation may play a role in dissociation. On this view, explicit
+>  instructions to focus on the body (as seen with the BA task) may be less
+>  effective and/or more difficult for those experiencing dissociation
+>  because they are already hyper-focused on, or “overthinking,” these
+>  bodily sensations [61]. In contrast, a more implicit task (DE) may be
+>  easier to complete and potentially more beneficial as it encourages
+>  movement and exertion without an explicit instruction to focus on the
+>  body. ([View Highlight](https://read.readwise.io/read/01h6tm4g1qzm04t206pn2mbd8g))
+
+
++++++ 
+- Note: p.10. This discussion is fantastic.
+
+
+> (“interoceptive silencing”; [63]) ([View Highlight](https://read.readwise.io/read/01h6tm5pm4bszc6zn5myn3nta1))
+
+
++++++ 
+- Note: p.10
+
+
+> Additionally, the daily
+>  diary shows that state symptoms for those with DDD also improve after
+>  performing the sessions, especially after the DE task. Interestingly, in the
+>  control group, the BA task appeared to induce some dissociative symp­
+>  toms, conceivably inviting bodily experiences from a 3rd rather than 1st
+>  person perspective in some participants [58]. ([View Highlight](https://read.readwise.io/read/01h6tkvq6jyeygfm5jryhf51qq))
+
+
++++++ 
+- Note: p.10
+
+
+> Further explorations of the subscales
+>  of the MAIA-II and their relationships to DD symptoms suggest that the
+>  two tasks influence distinct aspects of interoceptive awareness: dance
+>  exercise appears to encourage a sense of trust and comfort within the
+>  body, whereas body awareness promotes a specific type of paying
+>  attention to the body. DMT thus allows for the tailoring of tasks to
+>  specifically address components of interoceptive awareness, that are
+>  also dissociable in the MAIA-II. In controls, overall interoceptive
+>  awareness did improve after both dance/movement tasks. Given the
+>  finding that people with DDD may continuously attempt to experience
+>  their bodies, engaging with their potential lack of bodily experiences, it
+>  is perhaps not surprising that we see larger effects in the realm of
+>  interoception in controls who may not consciously attempt to engage
+>  with their body in the same way on a day-to-day basis [16]. Improved
+>  interoceptive awareness in the control group, in particular after dance
+>  exercise, aligns with a putative feedback loop of physical activity and
+>  interoceptive processing [34]. These results indicate that, overall, these
+>  dance tasks are effective tools to enhance both mindfulness and inter­
+>  oceptive awareness in the general population and further implies that
+>  these two processes are linked. ([View Highlight](https://read.readwise.io/read/01h6tmfep56k7v5zf5pt2kdgzn))
+
+
++++++ 
+- Note: p.11
+
