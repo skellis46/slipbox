@@ -14,6 +14,7 @@ _previous note:_ [[interoception science overview]]
 - [[the word embodied is a modifier]]
 - [[soma is embodiment of a process]]
 - [[interoception glossary]]
+- [[harmful content project preparation]]
 
 ---
 
@@ -22,4 +23,4 @@ _original source/found:_ [@millman-2023-online]
 _reference:_ Millman, L.S.M., Terhune, D.B., Hunter, E.C.M., and Orgs, G. (2021) ‘Towards a Neurocognitive Approach to Dance Movement Therapy for Mental Health: A Systematic Review’. _Clinical Psychology & Psychotherapy_ 28 (1), 24–38
 
 
-
+	
