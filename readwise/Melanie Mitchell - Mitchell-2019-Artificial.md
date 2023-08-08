@@ -131,6 +131,8 @@
 
 > The localization task provided training images with such boxes drawn (by Mechanical Turk workers) around the target object(s) in each image; on the test images, the task for competing programs was to predict five object categories each with the coordinates of a corresponding box. (Location 1515)
 
+^586fbb
+
 
 +++++ 
 - Note: Mechanical Turk artwoek. Fascinating

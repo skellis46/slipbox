@@ -18,6 +18,8 @@
 
 > From a purely materialist, mechanistic perspective, all subjective — noetic — experience arises from physical matter, and consciousness is simply a byproduct of brain and body processes. The noetic sciences focus on bringing a scientific lens to the study of subjective experience, and to ways that consciousness may influence the physical world. ([View Highlight](https://read.readwise.io/read/01gtrg1qz19kv9gcv3wdpdwe1f))
 
+^ab29fa
+
 
 > Consciousness has been defined in many ways. On one level, consciousness is simply awareness — how people perceive, interpret, and direct their [attention](https://www.psychologytoday.com/us/basics/attention) and intention toward their environment. Collective consciousness is how a group (an institution, a society, a species) perceives, attends to, and makes meaning of the world. In some formulations, consciousness goes beyond awareness and includes everything we perceive and experience, even at the [subconscious](https://www.psychologytoday.com/us/basics/unconscious) level. In its largest, most universal sense, consciousness has been referred to as a "milieu of potential," the shared ground of being from which all experiences and phenomena arise and eventually return. ([View Highlight](https://read.readwise.io/read/01gtrg2994dwqgdqkg8qh2h3tj))
 

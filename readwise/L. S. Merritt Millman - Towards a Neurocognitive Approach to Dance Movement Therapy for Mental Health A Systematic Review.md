@@ -85,3 +85,23 @@
 
 > Interoception refers to a sense of awareness of one's own body and its internal states (Tsakiris & De Preester, [2018](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0111)) yet surprisingly is not typically referenced in the context of DMT. This body-to-brain axis of signals originating from the internal body and visceral organs ties in heavily with ideas of and approaches to embodiment (Hindi, [2012](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0049)). There is mounting evidence for the role of heart-focused interoception in decision making, emotional experience and clinical disorders (Schulz, [2016](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0100)), and there is a consistent thread through neuroimaging research examining interoception and corresponding brain regions. ([View Highlight](https://read.readwise.io/read/01h6zqrj6t537b3ja377w8ccz9))
 
+## New highlights added August 4, 2023 at 12:09 PM
+
+> Based on its positioning, the insula is able to process both top-down predictions and bottom-up prediction errors in relation to each other, comparing the two ([View Highlight](https://read.readwise.io/read/01h6zrdergb1mtnwfe5pvsjs7e))
+
+
+> Further, and one particular example, research by Sierra and David ([2011](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0104)), Stein and Simeon ([2009](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0109)), Seth ([2013](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0101)), and Medford ([2012](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0079)) has consistently found evidence for a crucial prefrontal–limbic interaction in DDD, a condition including feelings of unreality and disturbances to one's sense of self (Hunter, Salkovskis, & David, [2014](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0052)). In this case, hyperactivity of the prefrontal cortex is paired with suppression of the limbic structures, including the anterior insula, which is associated with decreased awareness of the internal signals of the body. ([View Highlight](https://read.readwise.io/read/01h6zrhnt51c19k5qay5eg4kma))
+
+
+> Herbert and Pollatos ([2012](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0046)) propose interoception as the fundamental feature of human embodiment and suggest that interoceptive states are building blocks that contribute to this fundament of the ‘self,’ where the self is grounded in the body. ([View Highlight](https://read.readwise.io/read/01h6zrhxjfrwnsrsx1p4tyn8fb))
+
+
+> central to the experience of emotion and affective states is, first, an internal awareness of the state of the body (Damasio & Carvalho, [2013](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0021)). Damasio and Carvalho ([2013](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0021)) suggest that changes to the body will result in both automatic physiological responses and feelings, also described as ‘mental experiences of body states’ (p. 143). Any deviations from homeostasis are detected by the interoceptive system within the body, with descriptions of feelings then being in reference to one's internal state. ([View Highlight](https://read.readwise.io/read/01h6zsfetm9swnn51ft4xr0cj6))
+    - Tags: [[harmful_content]] 
+
+
+> The incorporation of implicit neural, physiological and behavioural measures such as mobile electroencephalography (EEG), interoceptive awareness and accuracy (Schandry, [1981](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0099)), proprioceptive accuracy (Jola et al., [2011](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0055)) and time perception (Wearden, [1991](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0124); Orgs, Bestmann, Schuur, & Haggard, [2011](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0083); Orgs, Kirsch, & Haggard, [2013](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0084)) could provide more control to current DMT research and allow for a better understanding of how DMT may work to target specific symptom reduction. ([View Highlight](https://read.readwise.io/read/01h6zt2a1bfz238q785sc4s65p))
+
+
+> According to Koch, Riege, Tisborn, and Biondo ([2019](https://onlinelibrary.wiley.com/doi/10.1002/cpp.2490#cpp2490-bib-0069), p. 29), ‘one important issue in most intervention studies is the question about unspecific and specific effects of the intervention’. ([View Highlight](https://read.readwise.io/read/01h6zt7n444yh192aaxgpnhes3))
+
