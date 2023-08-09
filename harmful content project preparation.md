@@ -9,20 +9,7 @@ type: "evergreen"
 _previous note:_ 
 
 - aim: to adapt a practice research method (or 'artistic approach') for use in applied setting -- speculative
-
 - for finding subjects, how do we assess their prior understanding, experience and feelings about harmful content online? 
-- is there a clear working definition of harmful content? ("legal but harmful"). [OSB defines them](https://www.gov.uk/guidance/understanding-and-reporting-online-harms-on-your-online-platform) as:
-
-> user generated content or behaviour that is illegal or could cause significant physical or psychological harm to a person.
-> Online harms can be illegal, or they can be harmful but legal. Examples of online harms include (but are not restricted to):
-> - child sexual exploitation and abuse
-> - terrorist use of the internet
-> - hate crime and hate speech
-> - harassment, cyberbullying and online abuse
-
-- Of these online harms we seem to be dealing more with child sexual exploitation and possibly hate crime and hate speech. Perhaps what we are doing is more general than this. That is, it's about the nature of looking at images more broadly. Certainly, the focus of the OSB is protecting children. Work by [[Balfour - Postdigital Intimacies for Online Safety]] is useful here. 
-
-
 - could the task be performed daily without supervision? then compliance is more of an issue
 - or is it more that we are targeting labelling language? To expand that language? But do to that we need to know what language is currently used. 
 
@@ -37,9 +24,7 @@ _previous note:_
 - we are basically attempting to introduce a massive amount of friction into the system
 - is there a way to build an online version of Transparencies -- something that automates transparency layer of images, and then makes them available on a lightboard/desktop online? 
 
-- make clear link between interoception, body-based practices (mindful body practices): e.g. Gibson (2019)! Also Mehling et al 2011 (readwise) (uses term 'body awareness practices)
-
-
+- make clear link between interoception, body-based practices (mindful body practices): e.g. Gibson (2019) Also Mehling et al 2011 (readwise) (uses term 'body awareness practices), also Sze et al 2010 [@sze-2010-coherence]
 - note in Todd and Aspell the maladaptive vs adaptive body awareness: "Maladaptive BA is avoidant, evaluative and linked to anxiety and other negative emotional states, whereas adaptive BA is accepting, non-judgmental and related to wellbeing."
 - change in perception, perception of change 
 - can we get access to how harmful content is currently labelled? this seems critical -- that is, what is the status quo (linguistically but also re conditions created, etc)?
@@ -49,6 +34,20 @@ _previous note:_
 
 - perhaps the way TP work is more in the realm of tapping into noesis or noetic understanding as described in [[Ekua Hagan - What Are Noetic Sciences]] 
 - [[noesis and noetic understanding]] -- foregrounding the subjective
+
+## online safety bill 
+
+- see [[Department for Science, Innovation and Technology - Online Safety Bill]] for a few highlights
+- is there a clear working definition of harmful content? ("legal but harmful"). [OSB defines them](https://www.gov.uk/guidance/understanding-and-reporting-online-harms-on-your-online-platform) as:
+
+> user generated content or behaviour that is illegal or could cause significant physical or psychological harm to a person.
+> Online harms can be illegal, or they can be harmful but legal. Examples of online harms include (but are not restricted to):
+> - child sexual exploitation and abuse
+> - terrorist use of the internet
+> - hate crime and hate speech
+> - harassment, cyberbullying and online abuse
+
+- Of these online harms we seem to be dealing more with child sexual exploitation and possibly hate crime and hate speech. Perhaps what we are doing is more general than this. That is, it's about the nature of looking at images more broadly. Certainly, the focus of the OSB is protecting children. Work by [[Balfour - Postdigital Intimacies for Online Safety]] is useful here. 
 
 - ofcom comment:
 > We know that many services already take measures aimed at protecting their users. Most services have terms of service that prohibit sharing of harmful or illegal content, and moderate content in response to user complaints. Some services use sophisticated automated content detection tools. [@ofcom-2022-online p.3]
@@ -67,8 +66,7 @@ Noting that Ofcom's online safety regime includes:
 - [ ] two sets of key stakeholders: annotators and end users? perhaps also people in tech companies who are adjusting algorithms based on labelling? Not sure this is correct -- really our key stakeholders are harmful content annotators -- need to discuss this (see note above from p.13 of Ofcom report)
 - [ ] how do we make it so it's sufficiently AHRC-like? 
 - [ ] what's the link to the law -- is it more than relation to the [Online Safety Bill](https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill)? 
-- [ ] interoception is part of this speculation because of its plausible connection with embodiment (Herbert and Pollatos, 2012 - I first saw it in Millman, 2021). But, what kind of task is transparencies? does it dig into the embodied? If not, then might interoception be a useful measure or concept for understanding looking at image or visual material. Or is it that we are asking people to pay attention when looking (to not get lost in thought). Like TP is a way to look at images: to complicate, to stimulate the imagination, to ask questions of what is being seen, etc??? 
-
+- [ ] interoception is part of this speculation because of its plausible connection with embodiment (Herbert and Pollatos, 2012 - I first saw it in Millman, 2021) and emotion [see for instance @sze-2010-coherence]. ([[body awareness and emotion]] [[emotion, affect and internal bodily awareness]]) But, what kind of task is transparencies? does it dig into the embodied? If not, then might interoception be a useful measure or concept for understanding looking at image or visual material. Or is it that we are asking people to pay attention when looking (to not get lost in thought). Like TP is a way to look at images: to complicate, to stimulate the imagination, to ask questions of what is being seen, etc??? 
 
 ## actions
 
@@ -77,7 +75,8 @@ Noting that Ofcom's online safety regime includes:
 - [x] add that annotating article (that I shared with Charlotte -- in readwise too?)
 - [ ] look into Body Awareness subscale of the Body Perception Questionnaire (from Todd and Aspell, 2022)
 - [ ] see RISE (reconnecting to internal sensations and experiences) from Todd and Aspell
-- [ ] is there any difference between mindfulness and bodyfulness exercises and effects? -- as Millman this? (and introduce myself)
+- [x] is there any difference between mindfulness and bodyfulness exercises and effects? see Sze et al on this [@sze-2010-coherence] although their research sets dance 'against' mindfulness (and so depends on what kind of dancing). 
+- [ ] -- ask Millman about this questions re body awareness and types of dancing? (and introduce myself) - and how many dance practices seem to merge with mindfulness techniques??? 
 
 
 ## regarding transparencies practice (TP)
@@ -91,6 +90,7 @@ Noting that Ofcom's online safety regime includes:
 - do you think you got 'better' at the practice over time? (you certainly got more experienced). If so, what is it that you were getting better at?   
 - to what extent does the Transparencies process put people 'in touch with' their bodies (if at all)? Do you think of it as an explicitly (or perhaps implicitly) embodied activity?
 - to what extent is TP a 'feeling' work vs a 'thinking' work? 
+- do we imagine the participants describing what they are seeing AND their emotions? (that is, their response to what they are seeing). Noting that "the language we use to describe our emotions is associated with the underlying physiology" [@sze-2010-coherence p.804]
 
 - seems like TP could be a mix of body awareness, mindfulness and emotional awareness ... (but of these body awareness would be least)?? 
 - the question 'how does it feel?' (when looking at HC) could also be _where_ does it feel? 
@@ -156,13 +156,13 @@ Noting that Ofcom's online safety regime includes:
 - If Sue was coming on 4/9 she could talk us through (or show us?) transparencies
 - update on Online Safety Bill -- what it is, what we need to know [CW]
 
-## useful references
+## references to read
 
-- [ ] L.S.M. Millman, D.B. Terhune, E.C.M. Hunter, G. Orgs, Towards a neurocognitive approach to dance movement therapy for mental health: a systematic review, Clin. Psychol. Psychother. 28 (2020) 24–38, https://doi.org/10.1002/cpp.2490.
 - [ ] S.N. Garfinkel, A.K. Seth, A.B. Barrett, K. Suzuki, H.D. Critchley, Knowing your own heart: distinguishing interoceptive accuracy from interoceptive awareness, Biol. Psychol. 104 (2015) 65–74, https://doi.org/10.1016/j.biopsycho.2014.11.004.
 - [ ] look into interoceptive silencing: F. Saini, S. Ponzo, F. Silvestrin, A. Fotopoulou, A.S. David, Depersonalization disorder as a systematic down regulation of interoceptive signals, Sci. Rep. 12 (1) (2022), 22123, https://doi.org/10.1038/s41598-022-22277-y. (this is from p.10 of the article)
-- [ ] D. Fischer, M. Messner, O. Pollatos, Improvement of interoceptive processes after an 8-week body scan intervention, Front. Hum. Neurosci. 11 (2017) 452.
 - [ ] J. Gibson, Mindfulness, interoception, and the body: a contemporary perspective, Front. Psychol. 10 (2019), https://doi.org/10.3389/fpsyg.2019.02012.
+- [x] D. Fischer, M. Messner, O. Pollatos, Improvement of interoceptive processes after an 8-week body scan intervention, Front. Hum. Neurosci. 11 (2017) 452.
+- [x] L.S.M. Millman, D.B. Terhune, E.C.M. Hunter, G. Orgs, Towards a neurocognitive approach to dance movement therapy for mental health: a systematic review, Clin. Psychol. Psychother. 28 (2020) 24–38, https://doi.org/10.1002/cpp.2490.
 - [x] Millman, L.S.M., Hunter, E.C.M., Terhune, D.B., and Orgs, G. (2023) 'Online Structured Dance/Movement Therapy Reduces Bodily Detachment in Depersonalization-Derealization Disorder'. _Complementary Therapies in Clinical Practice_ 51, 101749 (have pdf)
 - [x] Davies, S. (2020) Transparencies [online] available from <https://vimeo.com/473021952> [choreographic practice]
 - [x] Mehling, W.E.; Wrubel, J.; Daubenmier, J.J.; Price, C.J.; Kerr, C.E.; Silow, T.; Gopisetty, V.; Stewart, A.L. Body awareness: A phenomenological inquiry into the common ground of mind-body therapies. Philos. Ethics Humanit. Med. 2011, 6, 6. 
@@ -171,7 +171,7 @@ Noting that Ofcom's online safety regime includes:
 
 - Siobhan Davies (C-DaRE, Coventry University; siobhan.davies@coventry.ac.uk; https://pureportal.coventry.ac.uk/en/persons/siobhan-davies)
 - Charlotte Waelde (C-DaRE, Coventry University;  charlotte.waelde; https://pureportal.coventry.ac.uk/en/persons/charlotte-waelde)
-- Sally Dibb (Research Centre for Business in Society, Coventry University; sally.dibb@coventry.ac.uk)
+- Sally Dibb (Research Centre for Business in Society, Coventry University; sally.dibb@coventry.ac.uk; https://pureportal.coventry.ac.uk/en/persons/sally-dibb)
 - Simon Ellis (Centre for Dance Research, Coventry University; simon.ellis@coventry.ac.uk; https://pureportal.coventry.ac.uk/en/persons/simon-ellis)
 - Mohamed Mohammed (Centre for Science, Culture and Law, University of Exeter; mm1066@exeter.ac.uk; https://sculecentre.ex.ac.uk/people/mohamed-mohammed/)
 - Jane Aspell (Cognitive Neuroscience, Anglia Ruskin University, Cambridge jane.aspell@aru.ac.uk, https://www.aru.ac.uk/people/jane-aspell) 
