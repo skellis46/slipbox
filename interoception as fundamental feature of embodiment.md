@@ -16,6 +16,8 @@ _previous note:_ [[interoception science overview]]
 - [[interoception glossary]]
 - [[harmful content project preparation]]
 
+- I have the Herbert and Pollatos paper [@herbert-2012-body].
+
 ---
 
 _original source/found:_ [@millman-2023-online]
