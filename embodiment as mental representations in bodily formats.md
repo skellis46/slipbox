@@ -18,7 +18,7 @@ Here's the full quote from Goldman and Vignemont:
 
 > We offer several interpretations of embodiment, the most interesting being the thesis that mental representations in bodily formats (B-formats) have an important role in cognition. Potential B-formats include motoric, somato- sensory, affective and interoceptive formats [@goldman-2009-social p.154]
 
-Note that this is from the abstract, and the article contains four different interpretations of embodiment. Note also the implicit (or perhaps explicit) elevation of cognition. Not yet clear to me how cognition in this case is distinct from either 'thinking' or 'consciousness'.
+Note that this is from the abstract, and the article contains four different interpretations of embodiment. Note also the implicit (or perhaps explicit) elevation of cognition. Not yet clear to me how cognition in this case is distinct from either 'thinking' or 'consciousness'. And also not clear what a "mental representation in bodily" format is.
 
 ---
 
