@@ -24,6 +24,23 @@ _previous note:_
 - we are basically attempting to introduce a massive amount of friction into the system
 - is there a way to build an online version of Transparencies -- something that automates transparency layer of images, and then makes them available on a lightboard/desktop online? 
 
+> As the amount of UGC that platform users upload continues to accelerate, it has become impossible to identify and remove harmful content using traditional human-led moderation approaches at the speed and scale necessary. [@cambridgeconsultants-2019-useb p.4]
+
+- writing by Casey Newton "Bodies in Seats" for The Verge is shocking and leaves me feeling deeply uncertain about this project we are proposing [@newton-2019-bodies]
+- in training AI data "the vast majority of labeling is still done by hand" [@mohanty-2021-hand n.pag]
+- are we coming at this general situation (harmful content) from perspective of well-being? I feel confused (!) (20230810) Or is it about improving the process? 
+- feel like I am coming at it from a kind of null hypothesis perspective, but rather than 'there is no difference' it's "this has no point" -- the goal being to indeed find out that there is no point. 
+- perhaps another idea is that we look to create new search terms/hashtags built on the experiences of the participants. This is from reading Gerrard and Thornham (2020). That we are adding something to the thinking around harmful content from user perspective. As if the transparencies are less like a "more like this" algorithm thing and more like an "unlike this" button. Or different from this. Not so far from Google's "I'm feeling lucky" button -- which seems to have morphed into a whole lot of things. But then this draws the research away from harmful content. More into increased nuance: the capacity to see 'harmful content' differently??? Gerrard and Thornton discuss how algorithms have "over-simplified" [@gerrard-2020-content n.pag.] issues like gender. But the TP builds novel connections and analogies (right?) rather than being reductive. It is expansive. 
+- can we have multiple forms of the transparencies: sometimes silent, sometimes unguided, sometimes short, etc. Thinking here of an app (!!) -- a new kind of image app. 
+- one thing we are definitely doing is attempting to instrumentalise a system or process that is anything but "overwhelmingly white, overwhelmingly male, overwhelmingly educated, overwhelmingly liberal or libertarian, and overwhelmingly technological in skill and worldview" [Gillespie 2018 p.12, in @gerrard-2020-content n.pag.] -- well, some of these anyway. 
+
+> Sumpter (2018) argues that one of the mathematical formulas applied to social media data is ‘principle component analysis’ (PCA).8 PCA works by isolating the strongest correlations in the data and it does this by thematically collating a range of variables into ‘cleaner’ categories, partly to have fewer categories and therefore stronger correlations (Sumpter, 2018: 29–31). [@gerrard-2020-content n.pag]
+
+- this Sumpter idea is important. Kind of the opposite of what I'm thinking about for transparencies processes. See above re the 'less like this' button idea. 
+- so there are two things: a) the concept of transparencies (basically old tech for a new way of looking at images??); b) expanded subjective/emotional experiences as a consequence. this is a bit form and content. 
+- noting history of datafication [@crawford-2016-what p.413] and how it codifies "complaints as a legible regime of feeling" -- curious and perhaps useful re perhaps the kinds of feelings/experiences that can't be codified?? 
+
+
 - make clear link between interoception, body-based practices (mindful body practices): e.g. Gibson (2019) Also Mehling et al 2011 (readwise) (uses term 'body awareness practices), also Sze et al 2010 [@sze-2010-coherence]
 - note in Todd and Aspell the maladaptive vs adaptive body awareness: "Maladaptive BA is avoidant, evaluative and linked to anxiety and other negative emotional states, whereas adaptive BA is accepting, non-judgmental and related to wellbeing."
 - change in perception, perception of change 
@@ -140,6 +157,9 @@ Noting that Ofcom's online safety regime includes:
 - need no-intervention control group??
 - how we calculate sample sizes for between group analysis? 
 - specific vs unspecific effects of the intervention (Koch et al 2019, cited in Millman 2021 n.pag.)
+- in Gerrard and Thornham [@gerrard-2020-content] they use a potentially useful method to find images: 
+
+> We originally collected these images to conduct a cross-platform visual analysis, an approach influenced by Ging and Garvey’s (2017) finding that images relating to mental health on Instagram are highly aestheticised. Using a clean browser and a new account, we wanted to see what the platforms showed us – a form of platformed show and tell – using their search engines to discover new content, precisely as social media users would.[@gerrard-2020-content n.pag]
 
 - simplest design would be 2 groups (transparency vs non-transparency), 2  body awareness level (skilled / unskilled)?? Mirror design of Millman, with flushing out period inbetween the two parts?
 - or might it be 'unharmful' and harmful content -- kinds of differences?? 
@@ -161,6 +181,7 @@ Noting that Ofcom's online safety regime includes:
 - [ ] S.N. Garfinkel, A.K. Seth, A.B. Barrett, K. Suzuki, H.D. Critchley, Knowing your own heart: distinguishing interoceptive accuracy from interoceptive awareness, Biol. Psychol. 104 (2015) 65–74, https://doi.org/10.1016/j.biopsycho.2014.11.004.
 - [ ] look into interoceptive silencing: F. Saini, S. Ponzo, F. Silvestrin, A. Fotopoulou, A.S. David, Depersonalization disorder as a systematic down regulation of interoceptive signals, Sci. Rep. 12 (1) (2022), 22123, https://doi.org/10.1038/s41598-022-22277-y. (this is from p.10 of the article)
 - [ ] J. Gibson, Mindfulness, interoception, and the body: a contemporary perspective, Front. Psychol. 10 (2019), https://doi.org/10.3389/fpsyg.2019.02012.
+- [ ] 
 - [x] D. Fischer, M. Messner, O. Pollatos, Improvement of interoceptive processes after an 8-week body scan intervention, Front. Hum. Neurosci. 11 (2017) 452.
 - [x] L.S.M. Millman, D.B. Terhune, E.C.M. Hunter, G. Orgs, Towards a neurocognitive approach to dance movement therapy for mental health: a systematic review, Clin. Psychol. Psychother. 28 (2020) 24–38, https://doi.org/10.1002/cpp.2490.
 - [x] Millman, L.S.M., Hunter, E.C.M., Terhune, D.B., and Orgs, G. (2023) 'Online Structured Dance/Movement Therapy Reduces Bodily Detachment in Depersonalization-Derealization Disorder'. _Complementary Therapies in Clinical Practice_ 51, 101749 (have pdf)
