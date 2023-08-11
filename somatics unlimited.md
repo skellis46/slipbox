@@ -52,6 +52,8 @@ What a claim is not is an argument.
 
 > Claims backed by reasons that are supported by evidence are called arguments. [@nordquist-2020-what n.pag.]
 
+"To review — yes, we come to beliefs before evidence, but we wish not only to express our beliefs but to be thought as reasonable. In some cases, we adopt beliefs considered reasonable by those around us. Sometimes we adopt those beliefs just to seem reasonable. When we adopt beliefs thought by some to be unreasonable, **we supply reasons**, often in the form of evidence. But far from being an afterthought, the evidence we supply is a necessary price we pay for the maintenance of our beliefs. If the reasonableness of a belief becomes too expensive or difficult to maintain, we lose the belief." (mikecaulfield, Reasonableness: An Introduction)
+
 [down - blank]
 
 I have used the word _claim_ because while reading JDSP over the years I thought I was seeing a tendency or pattern -- a pattern of unsubstantiated assertions about the value and currency of somatic practices: as if somatics has unlimited value, scope, and power to produce positive change.   
