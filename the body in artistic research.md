@@ -21,6 +21,8 @@ This note is materials gathered as part of initial thinking for a Dance Research
 
 > By grounding the self in the body, experimental psychology has taken the body as the starting point for a science of the self. One fundamental dimension of the bodily self is the sense of body ownership that refers to the special perceptual status of one’s own body, the feeling that “my body” belongs to me.[@tsakiris-2017-multisensory p.597]
 
+^a634a0
+
 This body ... [lines from the film?]
 
 what I think I'm getting at is that the 'self' in the body in practice-research is akin to the body in the ecosystem; and perhaps even that by endlessly (and rather haphazardly) using the word embodied we are trying to pull the self into that body but perhaps it sews the division further? Perhaps [[the lived body and embodiment]] is useful here: Husserl, but also other parts of that chapter.  
