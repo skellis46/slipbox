@@ -41,6 +41,14 @@ _previous note:_
 - noting history of datafication [@crawford-2016-what p.413] and how it codifies "complaints as a legible regime of feeling" -- curious and perhaps useful re perhaps the kinds of feelings/experiences that can't be codified?? 
 
 
+"Although there has been considerable progress on automatic detection of toxic speech, we still have a long way to go until models can capture the actual, nuanced, meaning behind our language—beyond the simple memorization of particular words or phrases. Of course, investing in better and more representative datasets would yield incremental improvements, but we must go a step further and begin to interpret data in context, a crucial part of understanding online behavior. A seemingly benign text post on social media accompanied by racist symbolism in an image or video would be easily missed if we only looked at the text. We know that lack of context can often be the cause of our own human misjudgments. If AI is to stand a chance of replacing manual effort on a large scale, it is imperative that we give our models the full picture." (Laura Hanu, How AI Is Learning to Identify Toxic Online Content)
+
+"[Sumpter (2018)](https://journals.sagepub.com/doi/10.1177/1461444820912540#bibr71-1461444820912540) argues that one of the mathematical formulas applied to social media data is ‘principle component analysis’ (PCA).[8](https://journals.sagepub.com/doi/10.1177/1461444820912540#fn8-1461444820912540) PCA works by isolating the strongest correlations in the data and it does this by thematically collating a range of variables into ‘cleaner’ categories, partly to have fewer categories and therefore stronger correlations ([Sumpter, 2018](https://journals.sagepub.com/doi/10.1177/1461444820912540#bibr71-1461444820912540): 29–31)." (Ysabel Gerrard and Helen Thornham, Content Moderation: Social Media’s Sexist Assemblages)
+
+"The unrelenting demand for ever greater quantities of training data has sent existing mechanisms of data capture into overdrive. Rather than accounting for the underlying assumptions about the elements of the world being datafied, the fixity of those elements over time and the robustness of their relationships, or the inevitable slippage between labels and their objects, the solution touted for fixing any problematic outcomes from the algorithms is to collect even more data." (McQuillan, Dan, McQuillan-2022-Resisting)
+
+
+
 - make clear link between interoception, body-based practices (mindful body practices): e.g. Gibson (2019) Also Mehling et al 2011 (readwise) (uses term 'body awareness practices), also Sze et al 2010 [@sze-2010-coherence]
 - note in Todd and Aspell the maladaptive vs adaptive body awareness: "Maladaptive BA is avoidant, evaluative and linked to anxiety and other negative emotional states, whereas adaptive BA is accepting, non-judgmental and related to wellbeing."
 - change in perception, perception of change 
