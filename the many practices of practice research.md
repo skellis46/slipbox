@@ -54,7 +54,7 @@ I remember a professor of mine in the early 1990s in New Zealand. He used to ask
 
 I mentioned briefly just a moment ago how before the advent of practice research people interested in researching the arts worked quietly in education, psychology and sociology departments ... and sometimes even in science laboratories. 
 
-The Dutch scholar Henk Borgdorff calls such research _[slide]_ **research _on_ the arts**, which is when the art practice is the _object_ of the research, and that object is "untouched" by the researcher [@borgdorff-2006-debate p.6].
+The Dutch scholar Henk Borgdorff calls such research _[slide]_ **research _on_ the arts**, which is when the art practice is the _object_ of the research, and that object is "untouched" by the researcher [@borgdorff-2006-debate p.6]. ^e0141f
 
 Borgdorff's idea reveals an important epistemic assumption that usually we take for granted when we do research in the university: that there is an object out there, able to be seen and able to be grasped and manipulated by we human subjects. 
 
