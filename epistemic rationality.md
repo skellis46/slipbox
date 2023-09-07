@@ -20,7 +20,7 @@ _questions & thoughts:_
 
 - thinking about relationship between Yudkowsky's description of truth in relation to belief, and what Schein describes in [[culture, assumptions and beliefs]]
 - his use of the word _art_ here is fascinating, and I wonder in what way he understands himself to be using the word, and what is it "further" from? (as in "whole further")
-- thinking how this might be useful for #finger-pointing-moon -- what would a _rational_ approach built on epistemic rationality and Popper's idea of falsifiability mean in practice? What would such a framing do in the studio? Some kind of line between 'anthing goes and anything can be said about it' (as it currently is in #practice-research) and hypothesis testing. If there were a continuum, practice-research would be closer to the 'anything goes' end, but how close? 
+- thinking how this might be useful for #finger-pointing-moon -- what would a _rational_ approach built on epistemic rationality and Popper's idea of falsifiability mean in practice? What would such a framing do in the studio? Some kind of line between 'anything goes and anything can be said about it' (as it currently is in #practice-research) and hypothesis testing. If there were a continuum, practice-research would be closer to the 'anything goes' end, but how close? 
 - In #finger-pointing-moon it becomes about language. I can _propose_ or _suggest_ something, but how do I _refute_ something? How certain can I be? 
 
 --- 
