@@ -33,10 +33,7 @@
 		{"type":"text","text":"levels of arousal","id":"4468e05ce01f4d53","x":-70,"y":-895,"width":195,"height":50},
 		{"type":"text","text":"hunch: that there is something peculiar to AM/improvisation with respect to attention/anchors/consciousness -- perhaps cf mindful movement/meditation? On what grounds do I base this hunch? ","id":"48c47acdd346c491","x":-154,"y":-1680,"width":589,"height":100},
 		{"type":"text","text":"a richly varied imaginative/remembering experience??","id":"899e7ac008e3477d","x":617,"y":-1669,"width":250,"height":89},
-		{"type":"text","text":"consciousness studies","id":"3efed5c124cd71e1","x":788,"y":-1129,"width":250,"height":60},
-		{"type":"text","text":"flow","id":"a399f1a722f4fac9","x":1120,"y":-1145,"width":83,"height":50},
 		{"type":"text","text":"see [[Schmalzl - Movement-based embodied contemplative practices]]","id":"fed47df8eb597c5a","x":624,"y":-1796,"width":376,"height":76},
-		{"type":"text","text":"psychedelics","id":"bbf128f9269f5651","x":595,"y":-1180,"width":180,"height":50},
 		{"type":"text","text":"gossiping","id":"8e9d161743ea38c0","x":495,"y":-77,"width":250,"height":60},
 		{"type":"text","text":"playing games","id":"37ae47995f7ddc5c","x":505,"y":88,"width":250,"height":60},
 		{"type":"text","text":"arguing","id":"9af7092c63a77008","x":510,"y":2,"width":250,"height":60},
@@ -46,9 +43,14 @@
 		{"type":"text","text":"ego-less experience [[the degree of immersion in activity]]","id":"38b51132299e1a6d","x":312,"y":-708,"width":297,"height":75},
 		{"type":"text","text":"a type of awareness (Josipovic, 2020 p.2)","id":"2fe7714e34187304","x":900,"y":-805,"width":250,"height":60},
 		{"type":"text","text":"how would it be different from meditation? (or mindful movement?)","id":"78da8e63cb114056","x":388,"y":-1560,"width":262,"height":100},
-		{"id":"87d62e4c1c761c4f","x":-30,"y":-2000,"width":383,"height":172,"type":"text","text":"Noting how this seems different from 'losing one's self' social dancing -- in which it's more akin to being lost in thought (but physically so) -- like lost in motion / lost in physicality / lost in rhythm"},
-		{"id":"df409c22e90f8f77","x":495,"y":-1970,"width":250,"height":60,"type":"text","text":"like trance? "},
-		{"id":"323eb985159662f7","x":862,"y":-2060,"width":250,"height":232,"type":"text","text":"key things:\n- absence of judgement\n- permission (by others, and to one's self)\n- safe\n- watched by an other???"}
+		{"id":"87d62e4c1c761c4f","type":"text","text":"Noting how this seems different from 'losing one's self' social dancing -- in which it's more akin to being lost in thought (but physically so) -- like lost in motion / lost in physicality / lost in rhythm","x":-30,"y":-2000,"width":383,"height":172},
+		{"id":"df409c22e90f8f77","type":"text","text":"like trance? ","x":495,"y":-1970,"width":250,"height":60},
+		{"type":"text","text":"consciousness studies","id":"3efed5c124cd71e1","x":812,"y":-1175,"width":250,"height":60},
+		{"type":"text","text":"psychedelics","id":"bbf128f9269f5651","x":595,"y":-1200,"width":180,"height":50},
+		{"type":"text","text":"flow","id":"a399f1a722f4fac9","x":1157,"y":-1195,"width":83,"height":50},
+		{"id":"10ad8457f70fa0de","x":652,"y":-1092,"width":250,"height":60,"type":"text","text":"See stimming project: https://stimming.me/"},
+		{"id":"323eb985159662f7","type":"text","text":"key things:\n- absence of judgement\n- permission (by others, and to one's self)\n- safe\n- watched by an other???","x":867,"y":-2232,"width":332,"height":372},
+		{"id":"e7863fa63a8734d4","x":-760,"y":-1350,"width":323,"height":120,"type":"text","text":"what are things peculiar or particular to authentic movement. See part of [[consciousness and the self]]"}
 	],
 	"edges":[
 		{"id":"4a32da75f18a59e9","fromNode":"ae7bf2a17086bcb5","fromSide":"right","toNode":"4d027ff26b627ea3","toSide":"left"},
@@ -82,6 +84,8 @@
 		{"id":"825ebd6ab2619ad3","fromNode":"fa11aa03eea4949b","fromSide":"top","toNode":"53312e058a573fa3","toSide":"bottom"},
 		{"id":"983b05b30cc865e8","fromNode":"53312e058a573fa3","fromSide":"top","toNode":"ae7bf2a17086bcb5","toSide":"bottom"},
 		{"id":"3800109345c918f1","fromNode":"48c47acdd346c491","fromSide":"top","toNode":"87d62e4c1c761c4f","toSide":"bottom"},
-		{"id":"ef6f41893b1024ee","fromNode":"87d62e4c1c761c4f","fromSide":"right","toNode":"df409c22e90f8f77","toSide":"left"}
+		{"id":"ef6f41893b1024ee","fromNode":"87d62e4c1c761c4f","fromSide":"right","toNode":"df409c22e90f8f77","toSide":"left"},
+		{"id":"9f6196965ab47bc8","fromNode":"23893bd1bb428ce4","fromSide":"right","toNode":"10ad8457f70fa0de","toSide":"left"},
+		{"id":"116b55ed516ae3e5","fromNode":"ad5fac2a292cf3e1","fromSide":"left","toNode":"e7863fa63a8734d4","toSide":"right"}
 	]
 }
