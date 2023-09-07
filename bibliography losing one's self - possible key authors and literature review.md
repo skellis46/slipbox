@@ -8,9 +8,9 @@ type: evergreen
 
 _previous note:_ [[losing one's self]]
 
-## annotated bibliography
+## annotated bibliographies
 
-### consciousness and dance improvisation
+### keywords: consciousness and dance improvisation
 
 - very common that people do not describe what kind of dancing. Seems to be assumed. 
 - general looseness re use of terms (see [[define your terms]])
@@ -43,7 +43,41 @@ solely by objective distance and quantification.Dance is not a scientific field 
 - little vague but gets into improvisation, enaction and embodied cognition
 - but, when gets into the science of movement it is illuminating
 
-## bibliography and researchers
+### keywords: non-dual awareness and dance improvisation 
+
+- (_and_ nondual -- very different results)
+- nondual is perhaps more common because of tendency for so much dance lit to try and get past mind-body split and any other dualism
+
+#### Fraleigh, S. (2017) ‘Back to the Dance Itself: In Three Acts’. _Journal of Dance & Somatic Practices_ 9 (2), 235–253
+
+- notes 'goldmine' re non-dual discourses re lived body research and thinking. 
+- "Consciousness is shaped, or we could say ‘intended’, in countless ways" [@fraleigh-2017-back p.235] -- by what? by whom? See that slip? 
+- gives list of 'characters' (Feldenkrais etc) at beginning -- love this
+
+> The body, whether still or dancing, is our common bridge to consciousness and states of change. [@fraleigh-2017-back p.237]
+
+- real focus on phenomenology and all the old players in it (Merleau-Ponty, Husserl)
+- mentions Damasio on self developing on several levels of consiousness
+
+> Embodied movement does not contain consciousness; it is consciousness in action. Movement is not merely something we do; more, it extends towards expressive activities of relating and remembering – as such, _movement makes meaning_.[@fraleigh-2017-back p.243]
+
+- I'm not sure I understand this at all. What is movement that is embodied? Paid attention to? 
+- simple and clear explanation of Varela's work
+
+> When I dance, I lose myself – yield and seize space; I feel more alive. [@fraleigh-2017-back p.249]
+
+There it is! 
+
+> The study of dance as experience not only illuminates consciousness, _as a practice of paying attention, it lights a path towards expanding awareness of self relative to the world and others_. [@fraleigh-2017-back p.249]
+- it seems so arbitrary. How does the study of dance do this? And what kinds of dancing? And does she mean the practice of dancing? Does she mean hip-hop? 
+- this is a very useful piece of writing but it absolutely does not engage with any recent research, or any surprising research. 
+- writes that we can direct consciousness intentionally (p.250) and in that statement I assume she means the choice to be aware of something (to pay attention, p.251) but this is not consciousness. The question of intention and agency seems very important to her
+- does feel like it hasn't been edited at all -- so so hard to follow
+
+#### 
+
+
+### bibliography and researchers
 
 - Karla Johanne Shacklock; e.g. [An Investigation into the Nature and Development of Dance Consciousness in Choreography and Performance](https://etheses.whiterose.ac.uk/384/) (2006 PhD thesis), calls her model the _Dance Consciousness Model_. Not still working as an academic.
 - Louise Douse, [Moving experience: an investigation of embodied knowledge and technology for reading flow in improvisation](https://uobrep.openrepository.com/handle/10547/346585) (2013 PhD thesis) -- cited the Shacklock PhD
@@ -51,6 +85,7 @@ solely by objective distance and quantification.Dance is not a scientific field 
 - Jorge Crecis PhD Thesis (no mention of Montero and no mention of her in PhDs above as well (Shacklock and Douse))
 
 
+## various things - people techniques
 ### quantitative somatics (some useful people)
 
 - Craig 2003
@@ -65,7 +100,7 @@ solely by objective distance and quantification.Dance is not a scientific field 
 
 - IAP interoceptive awareness in performance, Batdorf Technique: https://www.batdorf.org/technique/
 
-## possible collaborators
+### possible collaborators
 
 - Guido Orgs: [https://www.gold.ac.uk/psychology/staff/orgs-guido/](https://www.gold.ac.uk/psychology/staff/orgs-guido/)
 - Josef Mattes (Vienna)
@@ -78,7 +113,7 @@ solely by objective distance and quantification.Dance is not a scientific field 
 - Jane Aspell - recommended by Magdalena Zawisza (known by Sally Dibb)
 - 
 
-## made contact with these people (re interoception)
+### made contact with these people (re interoception)
 
 - [x] Mariana Babo Rebelo, [mariana.baborebelo@epfl.ch](mailto:mariana.baborebelo@epfl.ch), [https://people.epfl.ch/mariana.baborebelo](https://people.epfl.ch/mariana.baborebelo)
 - [x] Julia F. Christensen (I can feel my heartbeat): 
