@@ -18,7 +18,6 @@ This trade press article by Cambridge neuroscientist Camilla Nord summarises res
 
 > An important implication of this subjectivity is that the different bodily experiences associated with certain mental health disorders might not come directly from what’s happening in the stomach, heart or other internal organ, but rather from how the brain interprets and processes the signals arising from those organs. Indeed, interoception is experienced differently by people with various mental health diagnoses, which has led scientists to theorise recently that there might be a basic difference in how the brains of people with mental health conditions process bodily sensations.
 
-
 > It’s increasingly apparent that interoception is essential for more than just survival. It’s the very filter through which we feel mentally and physically well, or unwell. 
 
 - [[somatic practices, interoception and evidence]]
