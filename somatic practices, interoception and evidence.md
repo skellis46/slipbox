@@ -1,11 +1,13 @@
 ---
-aliases: [somatics-article]
-tags: [somatics, in-progress]
-platform: "JDSP"
+aliases: []
+tags: [somatics]
+platform: ""
 ---
 
 # somatic practices, interoception and evidence
 - 'interoception, somatics and science: this is the time'
+
+- [[losing one's self]]
 
 ## various notes, thoughts and plans to start
 
@@ -277,5 +279,5 @@ Jane Refshauge: http://www.janerefshauge.com
 
 # internal links to add once removed from body of text
 
-- very early material for a different JDSP article: [[dance and embodiment (working title)]]
+- very early material for a different JDSP article: [[dance and embodiment]]
 - - [[Hutt - Corrective alignment and injury prevention]]

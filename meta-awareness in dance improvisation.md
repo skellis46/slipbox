@@ -1,7 +1,6 @@
 ---
 aliases: []
-tags: [somatics, in-progress]
-platform: "JDSP"
+tags: []
 ---
 
 # meta-awareness in dance improvisation
