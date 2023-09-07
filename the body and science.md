@@ -6,12 +6,32 @@ type: evergreen
 
 # the body and science
 
-_previous note:_ 
+_previous note:_ [[interpretation remains present]]
+
+C-DaRE invites Series 2: The Body and Science
+
+When scientists and dance artists and scholars talk about the human body, what kind of body are they describing or attempting to understand? There are disciplinary divergences yet the hard dualistic line between body and mind is dissolving and science's supposed view from nowhere as a "modest witness" [@haraway-2018-modest_witness] is widely debated particularly within the sciences. The historian of science Andrew Pickering has described the practice of science as an unpredictable "dance of agency" [@pickering-1995-mangle p.21], in which scientific practice represents a "dialectic of resistance and accommodation" [@pickering-1995-mangle pp.22-23] that is overwhelmingly ad hoc. The scientist Randolph Nesse argues that although the metaphor of the body as machine is seductive, it is more accurate to describe the body as "a soma shaped by selection" [@nesse-2016-body n.pag.]. 
+
+Series 2 of C-DaRE invites explores _The Body and Science_, and in it we ask what kind of body is the human body now? We explore and debate notions of self and embodiment; the "spectre of embodied cognition" [@goldman-2009-social p.154]; pain; somatic practices rendered as measurable; medicalised time [@wasson-2021-waiting] and the Bayesian body and brain. We seek divergent understandings of what kind of body science is observing and/or creating and we ask what role other research fields and ways of knowing in the arts might have to play in this creation, and how the irrepressible movements, actions and practices of the human body are open to re-interpretation and re-imagination.  
+
+Above two paragraphs is text for [C-DaRE invites ... the body and science](https://cdareinvites.coventry.ac.uk/the-body-and-science/)
 
 
-**This is is the introduction to C-DaRE invites series 2.**
 
-Series 2: The body and science
+Science Is Not the Only Form of Knowledge but It Is the Best - Dresser
+; observability, and experiential and quantitative abstractions 
+
+
+"bones and muscles were just fancy systems of levers, ropes and pulleys"[@nesse-2016-body n.pag.]
+
+
+> Embodiment theorists want to elevate the importance of the body in explaining cognitive activities. What is meant by ‘body’ here? It ought to mean: the whole physical body minus the brain. Letting the brain qualify as part of the body would trivialize the claim that the body is crucial to mental life, simply because the brain is the seat of most, if not all, mental events. [@goldman-2009-social p.154] 
+
+: methods, histories, epistemic belief systems, and empiricism itself. Y
+
+In dance scholarship we often remind ourselves and others of the aphorism that not everything that counts can be counted, and perhaps we imagine that we ought to have some claim over the nature of of embodiment. 
+
+- the hard problem of consciousness: "Somehow, it seems, brain processes acquire a subjective aspect, which is invisible to science" [@garfield-2022-losing n.pag.]
 
 "Overall, AI perpetuates the ‘view from nowhere’. The view from nowhere is the claim to a neutral and disinterested view of the world. Science itself is the ultimate expression of this viewpoint: the scientific observer is a ‘modest witness’ (Haraway, 1997) who allows nothing subjective to interfere with the construction and observation of the experiment and the recording of the results." (McQuillan, Dan, McQuillan-2022-Resisting)
 
@@ -30,10 +50,9 @@ Series 2: The body and science
 - [[interoception science overview]]
 - that which is observable and that which is not -- differing stances on empiricism
 - what does science do to the body? how is the body changed by science? what metaphors are most useful which are distracting? what are the limits of scientific understanding of the body? (and why?)
+- 
 
-What kind of body is it that we are now discussing? What is agreed? Where does it diverge? How safe is it? How much pain is it in? How is dance's concept of the body threatened or enhanced by scientific thinking? 
 
-> Somehow, it seems, brain processes acquire a subjective aspect, which is invisible to science [@garfield-2022-losing n.pag.]
 
 - [[the body is not a machine]]
 - [[first-person experience]]
@@ -56,9 +75,9 @@ What kind of body is it that we are now discussing? What is agreed? Where does i
 - worth noting that any serious scientist is also adopting an anti-cartesian perspective (not implied by Wait here)
 - 
 
-In _The Mangle of Practice_ (1995) the sociologist and historian of science Andrew Pickering describes the practice of science as an unpredictable "dance of agency" (Pickering 1995: 21). Pickering's goal was to make a case that scientific practice represents a "dialectic of resistance and accommodation" (Pickering 1995: 22-23) and that it is overwhelmingly ad hoc.
 
-- [[Sam Dresser - Science Is Not the Only Form of Knowledge but It Is the Best]]
+
+- [[Sam Dresser - Science Is Not the Only Form of Knowledge but It Is the Best]] -- the hegemonic and epistemic power of scientific understanding
 
 - [[Noë - Strange Tools, Art and Human Nature]]:
 
@@ -68,11 +87,6 @@ In _The Mangle of Practice_ (1995) the sociologist and historian of science An
 - [[Seth, Anil - Seth-2021-Being]] -- consciousness science
 - 
 
----
-
-_original source/found:_ 
-
-_reference:_ 
 
 
 
