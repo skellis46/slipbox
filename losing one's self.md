@@ -12,6 +12,10 @@ _previous note:_ [[index - losing one's self]]
 
 - [[losing one's self bid preparation.canvas|losing one's self bid preparation]]
 
+Some possible key structural aspects: 
+- consciousness and dance improvisation 
+- dance and phenomenology 
+
 This note is the beginning of an attempt to draw together several trains of thought including:
 
 - [[nondual awareness and minimal phenomenal experience]]
