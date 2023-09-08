@@ -1,10 +1,11 @@
 ---
 aliases: []
-tags: [newsletter, published]
-type: "newsletter"
-platform: "skellis mailing list"
-status: "published"
-status-updated: "20230823"
+tags:
+  - newsletter
+  - published
+type: newsletter
+platform: skellis mailing list
+Date published: 1968-08-23
 ---
 
 # contrived

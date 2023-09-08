@@ -3,6 +3,7 @@ aliases: []
 tags:
   - in-progress
   - somatics
+  - losing-self
 type: article, bid
 ---
 
@@ -13,8 +14,17 @@ _previous note:_ [[index - losing one's self]]
 - [[losing one's self bid preparation.canvas|losing one's self bid preparation]]
 
 Some possible key structural aspects: 
-- consciousness and dance improvisation 
-- dance and phenomenology 
+- dance improvisation 
+- consciousness and dance improvisation - terminology: awareness, attention, consciousness
+- dance and phenomenology (and contrast with [[neurophenomenology]]? -- (see [@lutz-2003-neurophenomenology] and also [@cosmelli-2007-mountains] in Readwise and on PDF). 
+- flow of experience, e.g. <https://read.readwise.io/new/read/01gzdn0v5p8fd6x6veazs5er05> [@cosmelli-2007-mountains]-- analysis of [[binocular rivalry]] to understand flow of subjective experience. This paper is brilliant -- distinctive cf the dance improvisation lit.
+- DMN and TPN [[switch in attentional focus]]
+- flow (see [[focal things and engagement]])
+- the self (see [[consciousness and the self]]; [[embodiment and illusion of self]])
+
+Exclude:
+- [[embodiment and emotions]]?
+- 
 
 This note is the beginning of an attempt to draw together several trains of thought including:
 
@@ -37,7 +47,7 @@ This note is the beginning of an attempt to draw together several trains of thou
 - social dancing? interoception and NDA. See [https://www.theguardian.com/stage/2023/mar/21/want-to-dance-more-just-follow-our-lead](https://www.theguardian.com/stage/2023/mar/21/want-to-dance-more-just-follow-our-lead); [https://www.theguardian.com/commentisfree/2023/mar/19/isolated-humans-dance-together-demise-clubbing](https://www.theguardian.com/stage/2023/mar/21/want-to-dance-more-just-follow-our-lead); [https://www.theguardian.com/commentisfree/2022/dec/22/im-an-older-man-and-i-love-to-dance-whats-wrong-with-that](https://www.theguardian.com/commentisfree/2022/dec/22/im-an-older-man-and-i-love-to-dance-whats-wrong-with-that); and [https://www.theguardian.com/music/2023/mar/28/dance-music-stars-dancefloors](https://www.theguardian.com/commentisfree/2022/dec/22/im-an-older-man-and-i-love-to-dance-whats-wrong-with-that)
 
 
-## notes from bid writing spring (April 2023)
+## notes from bid writing sprint (April 2023)
 
 - losing one's self:
 	+ flow (sport), peak experience, consiousness-as-such (Metzinger), ego-less experiences, non-dual awareness, and minimal phenomenal experiences (episodes of greatly reduced or even absent phenomenal content) akin to full absorption states. 
@@ -58,33 +68,18 @@ This note is the beginning of an attempt to draw together several trains of thou
   
 
 - John Teasdale mindfulness
-
 - Phil Barnard
-
 - Elsa Urmston -- CI -- flow
-
 - Frank Pollack -- prof in cog neuroscience .. 
-
 - authority. CogNo Clara?? Plymouth. flow in dancers. Teoma mentioned this
-
 - Tony Steffert - [www.qeeg.co.uk](http://www.qeeg.co.uk)
 
-- 
 
-  
-
-Compare with daydreaming -- this is talking about NDA in improv. Like aware day dreaming.
-
-  
-
-  
+- Compare with daydreaming -- this is talking about NDA in improv. Like aware day dreaming.
 
 - extremely human activities: gossip, argue, playing games, travelling for pleasure and dance
-
 - further evidence of fundamental nature. 
-
 - kinds of dancing: mostly social 
-
 - photographing that which cannot be photographed -- like an artistic component? low-resolution
 
 ## output strategies and possibilities

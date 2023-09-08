@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: []
+tags: [losing-self]
 type: evergreen
 ---
 
@@ -12,6 +12,7 @@ _previous note:_ [[losing one's self]]
 
 ### keywords: consciousness and dance improvisation
 
+- <https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=dance+improvisation+and+consciousness&btnG=&oq=dance+improvisation+and+consciousnes>
 - very common that people do not describe what kind of dancing. Seems to be assumed. 
 - general looseness re use of terms (see [[define your terms]])
 - any mentions of predictive brain in this work? 
@@ -77,6 +78,10 @@ There it is!
 #### 
 
 
+### keywords: bayesian dance improvisation
+
+- <https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=bayesian+dance+improvisation&btnG=>
+- <https://www.hindawi.com/journals/ahci/2009/362651/>
 ### bibliography and researchers
 
 - Karla Johanne Shacklock; e.g. [An Investigation into the Nature and Development of Dance Consciousness in Choreography and Performance](https://etheses.whiterose.ac.uk/384/) (2006 PhD thesis), calls her model the _Dance Consciousness Model_. Not still working as an academic.
@@ -111,7 +116,7 @@ There it is!
 - Camilla Nord - neuroscientist; see [[mid-insula region and interoception]] and [[the overlap between bodily and emotional feelings]]
 - Corinne Jola in Scotland (emailed her, but never heard back) (sent 22 February 2023)
 - Jane Aspell - recommended by Magdalena Zawisza (known by Sally Dibb)
-- 
+- Sabine Koch (dance movement therapist), see article with Fuchs on _Embodied Affectivity_ [@fuchs-2014-embodied]
 
 ### made contact with these people (re interoception)
 
