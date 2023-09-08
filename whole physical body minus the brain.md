@@ -13,6 +13,7 @@ _previous note:_
 - [[Alvin Goldman and Frederique de Vignemont - Is social cognition embodied]]
 - [[embodiment and illusion of self]]
 - [[embodiment as mental representations in bodily formats]]
+- this article by Goldman and Vignement challenges various ways of thinking about [[embodiment]] and [[situated and embodied cognition]]
 
 ---
 

@@ -53,3 +53,7 @@
 +++++ 
 - Note: p.154
 
+## New highlights added September 8, 2023 at 11:13 AM
+
+> We shall formulate four deﬁnitions or conceptions ofembo- diment (Figure 1). Because many pre-existing formu- lations of embodiment are rather opaque, we hope that our proposals will bring increased clarity to this matter. For any conception of embodiment, of course, it could be claimed that ‘all’ of cognition is embodied, or that ‘90%’ of cognition is embodied, etc. Nobody is in a position to address this quantiﬁcational issue with any precision and we shall leave this question open here, merely assum- ing that EC theses want embodiment to have, at least, an ‘important’ role. ([View Highlight](https://read.readwise.io/read/01h9t1qzwmnfmcanv1k9bd88sy))
+
