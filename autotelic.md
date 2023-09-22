@@ -6,7 +6,7 @@ type: evergreen
 
 # autotelic
 
-_previous note:_ [[the degree of immersion in activity]]
+_previous note:_ [[distinguishing ego-involved and ego-less experiences]]
 
 Someone or something that has a purpose in itself (and not apart from itself). Seems very similar to ideas about [[uselessness and intrinsic value]]. 
 

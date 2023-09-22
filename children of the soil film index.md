@@ -8,6 +8,10 @@ type: "evergreen"
 
 _previous note:_ [[index -- artistic practice]]
 
+> Laura Mulvey writes how the aesthetics of temporality does not just refer to movement and stillness, but of the single image as opposed to the filmstrip, the instant rather than the continuum (Mulvey 2007: 13). -- quote from Carol Breen's PhD (useful for COTS ref summary?)
+- Mulvey, L. (2007) ‘Death 24x a second: Stillness and the Moving Image’ London: 
+
+       Reaktion Books Ltd.
 
 - [[children of the soil (newsletter)]]
 - [[footfall]]

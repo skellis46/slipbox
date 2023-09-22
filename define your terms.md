@@ -12,6 +12,11 @@ _previous note:_ [[somatics unlimited]]
 
 - made me think of those suitcase words like consciousness, attention, awareness, intention
 
+The eighteenth-century French philosopher Voltaire wrote simply:
+
+> Define your terms ... or we shall never understand one another.[@mitchell-2019-artificial loc 286]
+
+
 ---
 
 _original source/found:_ can't remember

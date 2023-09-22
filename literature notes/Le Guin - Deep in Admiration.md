@@ -16,6 +16,7 @@ _previous note:_ [[Rawlence - The Treeline]]
 > In _Romantic Things_, Mary Jacobus writes, “The regulated speech of poetry may be as close as we can get to such things—to the stilled voice of the inanimate object or insentient standing of trees.”1
 > Poetry is the human language that can try to say what a tree or a rock or a river is, that is, to speak humanly for it, in both senses of the word “for.” A poem can do so by relating the quality of an individual human relationship to a thing, a rock or river or tree, or simply by describing the thing as truthfully as possible.[@leguin-2017-deep p.M16]
 
+The science-fiction writer Ursula K. Le Guin noted just how badly objectification has gone for human-kind. How then to subjectify embodiment by rendering it as [[nonduality]]? Our language is one way. See also [[the body in artistic research]]
 
 ---
 

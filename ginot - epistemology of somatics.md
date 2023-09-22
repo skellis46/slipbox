@@ -29,6 +29,15 @@ _questions & thoughts:_
 
 - worth looking at the work of Godard who "shifted the question of scientific truth toward that of imaginary production"[@ginot-2010-shusterman p.22]and I can then relate to Ingold's [[search for truth]]
 
+
+In 2010, the dance scholar and Feldenkrais practitioner, Isabelle Ginot wrote a critique of Richard Shusterman's book _Body Consciousness: A Philosophy of Mindfulness and Somaesthetics_ (2008), and the way in which it attempts to apply somatic practices (specifically Feldenkrais and Alexander Techniques) as philosophical discourse. The article is called _From Shusterman’s Somaesthetics to a Radical Epistemology of Somatics_ [@ginot-2010-shusterman] and in it Ginot asks some difficult questions of somatic practices. _adjust this paragraph to focus on epistemological critique of Ginot's._ withering critique in the role of science to validate the "highly individualized"[@ginot-2010-shusterman p.15] experiences of somatic practices. 
+
+It is the most sustained and well argued critique of somatic practices scholarship I have happened across (although also enjoyed Elise Nuding in Volume 13 of JDSP)
+
+- useful summary at beginning of [[ginot - epistemology of somatics]] -- describes pedagogic, better (more virtuosic) dancing, injury prevention and rehab
+
+
+
 _source:_ Emma Meehan via Microsoft Teams thread, 12 June 2020
 
 _reference:_ Ginot, I., 2010. 'From Shusterman’s Somaesthetics to a Radical Epistemology of Somatics'. _Dance Research Journal 42_, 12–29. <https://doi.org/10.2307/23266984>

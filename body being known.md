@@ -27,7 +27,7 @@ Body being known. Known by what? (and that there is nothing to find at that poin
 
 Note how Leder in [[the lived body and embodiment]] hints at this (through writing of Husserl, Merleau-Ponty, and Straus) but it's so difficult to write about as slips into subject-object constructions: "organised around my corporeal position". Also seems to make the body a special kind of object -- which I am not convinced it is (or that we gain anything by making it so)
 
-- [[nondual]]
+- [[nonduality]]
 
 ---
 

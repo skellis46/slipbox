@@ -6,7 +6,7 @@ type: evergreen
 
 # consciousness and the self
 
-_previous note:_ 
+_previous note:_ [[what the self feels like]]
 
 Conversation between Sam Harris and Anil Seth called _consciousness and the self_
 
@@ -16,7 +16,7 @@ Conversation between Sam Harris and Anil Seth called _consciousness and the self
 
 > We overestimate our ability to "capture" our phenomenal states 
 
-- talking about what happens with practice (say meditation): different experiences occur and also able to notice the same experiences differently. Two distinct. 1:26:10 -- [[measuring outcome but not process in somatic practices]] and also [[somatics unlimited edit bin#perception of change / change of perception]]
+- talking about what happens with practice (say meditation): different experiences occur and also able to notice the same experiences differently. Two distinct. 1:26:10 -- [[measuring outcome but not process in somatic practices]] and also [[somatics unlimited edit bin#perception of change / change of perception]] (which now has it's own zettel at [[perception of change versus change in perception]])
 
 - got me thinking about [[authentic movement]] and the very particular circumstances of the practice: 
 	+ eyes closed

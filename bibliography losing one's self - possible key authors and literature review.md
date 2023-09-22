@@ -8,6 +8,16 @@ type: evergreen
 
 _previous note:_ [[losing one's self]]
 
+## to read for losing one's self
+
+- [ ] Barr and Anderson; [@barr-2022-illuminating]
+- [ ] read Laidlaw [@laidlaw-2021-ecological]
+- [ ] read Fraleigh [@fraleigh-2000-consciousness]; [@fraleigh-2015-enacting] and book _Moving Consciously_
+- [ ] Gilmour for work on AM (as background) [@gilmour-2021-nature]
+- [ ] Langer  (2000) 'The construct of mindfulness', Journal of Social Issues, 56:1, pp. 1--9  (cited in [@leigh-2019-exploring]) [@langer-2000-construct]
+- [ ] Grebler in 12.1 gives great overview of Varela [@silvagrebler-2020-reflection]
+- [ ] could go a global search for Varela in JDSP???? and Batson
+
 ## annotated bibliographies
 
 ### keywords: consciousness and dance improvisation
@@ -117,6 +127,16 @@ There it is!
 - Corinne Jola in Scotland (emailed her, but never heard back) (sent 22 February 2023)
 - Jane Aspell - recommended by Magdalena Zawisza (known by Sally Dibb)
 - Sabine Koch (dance movement therapist), see article with Fuchs on _Embodied Affectivity_ [@fuchs-2014-embodied]
+
+_From bid writing sprint:_
+
+- John Teasdale mindfulness
+- Phil Barnard
+- Elsa Urmston -- CI -- flow
+- Frank Pollack -- prof in cog neuroscience .. 
+- Klara Łucznik - [@lucznik-2021-measuring]
+- Tony Steffert - [www.qeeg.co.uk](http://www.qeeg.co.uk)
+
 
 ### made contact with these people (re interoception)
 

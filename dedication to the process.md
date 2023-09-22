@@ -14,6 +14,8 @@ Here's another from Nick Cave's The Red Hand Files to go with [[to forgive the u
 
 > The more dedication you show to the process, the better the work, and the greater your gift to the world. Apply yourself fully to the task, let go of the outcome, and your true voice will appear. You’ll see. It can be no other way.
 
+From <https://www.theredhandfiles.com/voices-of-all-your-influences/>
+
 He also describes how one's imagination is "an accidental dance between collected memory and influence."
 
 ---
