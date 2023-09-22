@@ -19,27 +19,13 @@ These are notes copied directly from the readwise highlights
 >  states are examples of consciousness-as-such (Metzinger, 2019). ([View Highlight](https://read.readwise.io/read/01gv36p76hva0pd4b2xv05evnm))
 
 
-> Consciousness-as-such has been present as a central concern in most Asian contemplative
->  traditions and philosophies, where a great variety of terms have been created to point to it,
->  such as pure consciousness, pure awareness, NDA, rigpa, timeless or choiceless awareness,
->  being-awareness-bliss, the Self, the fourth, Atman-Brahman, Buddha-nature, clear light, Shiva-
->  Shakti, etc. (Rabjam, 2007; Radhakrishnan and Moore, 2014). ([View Highlight](https://read.readwise.io/read/01gv36wd135kfjvqp9k9kzgdjm))
+> Consciousness-as-such has been present as a central concern in most Asian contemplative traditions and philosophies, where a great variety of terms have been created to point to it, such as pure consciousness, pure awareness, NDA, rigpa, timeless or choiceless awareness, being-awareness-bliss, the Self, the fourth, Atman-Brahman, Buddha-nature, clear light, Shiva-Shakti, etc. (Rabjam, 2007; Radhakrishnan and Moore, 2014). ([View Highlight](https://read.readwise.io/read/01gv36wd135kfjvqp9k9kzgdjm))
 
 
 > soteriological concerns ([View Highlight](https://read.readwise.io/read/01gv36wprhpbxstfx82g0je1p9))
 
 
-> Two main ways of seeing consciousness-as-such have emerged
->  in these traditions. According to one, it is a state of full
->  absorption with maximally reduced phenomenal content (Sansk.
->  Samadhi), akin to a deep dreamless sleep, but not entirely
->  unconscious, and without any knowable properties (Nikhilananda,
->  1990). According to the other, it is an awareness which is in
->  itself empty of other phenomenal content and conceptual
->  processes including those that reify it, yet it inherently knows
->  itself to be aware (Rabjam, 2001). In the contemporary scientific
->  and philosophical discourse, these two views are often conflated,
->  sometimes under one term of MPE (Metzinger, 2019). ([View Highlight](https://read.readwise.io/read/01gv370pxq515gggc9sk5btvn2))
+> Two main ways of seeing consciousness-as-such have emerged in these traditions. According to one, it is a state of full absorption with maximally reduced phenomenal content (Sansk. Samadhi), akin to a deep dreamless sleep, but not entirely unconscious, and without any knowable properties (Nikhilananda, 1990). According to the other, it is an awareness which is in itself empty of other phenomenal content and conceptual processes including those that reify it, yet it inherently knows itself to be aware (Rabjam, 2001). In the contemporary scientific and philosophical discourse, these two views are often conflated, sometimes under one term of MPE (Metzinger, 2019). ([View Highlight](https://read.readwise.io/read/01gv370pxq515gggc9sk5btvn2))
 
 
 > In line with

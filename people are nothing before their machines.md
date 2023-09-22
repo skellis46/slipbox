@@ -10,6 +10,8 @@ _previous note:_ [[device paradigm and focal things]]
 
 > If people are as grass before God, they are as nothing before their machines.[Wendell Berry, in @wickenden-2022-wendell n.pag]
 
+- possibly for [[perfect memory]] as well. Love the turn of phrase.
+
 ---
 
 _original source/found:_ Cal Newport podcast

@@ -17,6 +17,6 @@ It's not at all clear here what Hutt means by "actual process and activity" of t
 ---
 
 - seems to contradict even a small example in [[Ahmadi - Comparison of the effects of the Feldenkrais method]]
-- note idea here about changes in awareness vs changes in the sophistication of the process. That is, in this work (like in meditation) do we get more sensitive to sensation, or are the sensations changing themselves? This idea is discussed similarly here in which the perception of change is different from change in perception 2:40:40 - Harris / Seth <https://www.samharris.org/podcasts/making-sense-episodes/113-consciousness-and-the-self>
+- note idea here about changes in awareness vs changes in the sophistication of the process. That is, in this work (like in meditation) do we get more sensitive to sensation, or are the sensations changing themselves? This idea is discussed similarly here in which the perception of change is different from change in perception 2:40:40 - Harris / Seth <https://www.samharris.org/podcasts/making-sense-episodes/113-consciousness-and-the-self> -- [[perception of change versus change in perception]]
 
 

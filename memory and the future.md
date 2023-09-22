@@ -8,12 +8,14 @@ Margaret Heffernan is a businesswoman, author and Professor of Practice at the U
 
 In Chapter 2 _Does History Repeat Itself?_ Heffernan describes how one of the many functions of memory is to "simulate the future."[@heffernan_uncharted_2020 Chapter 2, n.p.] Indeed, we need a sense of the past in order to sense the future, and that a key part of the brain's function is in planning for the future. 
 
-At the top of the Chapter, Heffernan quote Toni Morrison:
+At the top of the Chapter, Heffernan quotes Toni Morrison:
 
 >To remember this world is to create it.[@heffernan_uncharted_2020 Chapter 2, n.p.]
 
 _questions & thoughts:_
 
+
+- [[perfect memory]]
 
 --- 
 
@@ -29,4 +31,4 @@ _local link:_ n/a
 
 _citekey & zotero link:_ [heffernan_uncharted_2020](zotero://select/items/1_XUWSM5QT)
 
-_reference:_ Heffernan, M., 2020. Uncharted: how to map the future. Simon &#38; Schuster, London ; New York.
+_reference:_ Heffernan, M., 2020. Uncharted: how to map the future. Simon & Schuster, London ; New York.
