@@ -16,6 +16,9 @@ Series 2 of C-DaRE invites explores _The Body and Science_, and in it we ask wha
 
 Above two paragraphs is text for [C-DaRE invites ... the body and science](https://cdareinvites.coventry.ac.uk/the-body-and-science/)
 
+In 1994 I started full-time dance training at the Victorian College of the Arts in Melbourne. I was 25 years old. At the same time I was completing a Masters Degree in Kinesiology (mostly Newtonian mechanics) at the University of Otago School of Physical Education in Otago, Aotearoa New Zealand. At the VCA I was given credit for BA-level classes that were called Kinesiology. Yay. I didn't have to go to those classes. It didn't occur to anyone (including me) that there was practically zero cross-over between the Kinesiology I had been studying for 6 years and the Kinesiology that was being taught at the VCA. I tell this story not to establish any scientific credentials on my part. Far from it. Rather, I tell it as an example of the cultural schism between science and art. Ah, but that was nearly 30 years ago I hear you say ... 
+
+-- see [@barr-2022-illuminating] for well written article in JDSP about science-somatics
 
 
 Science Is Not the Only Form of Knowledge but It Is the Best - Dresser
@@ -64,7 +67,8 @@ In dance scholarship we often remind ourselves and others of the aphorism that n
 - thinking of Latour and matters of fact and matters of concern; see [[Stephen Muecke - The Generous Philosopher]]
 - avoiding treating abstract model as if it were reality ([[Jon Haidt and Ravi Iyer from After Babel - Why Haidt and Schmidt’s Proposed Social Media Reforms Are Insufficient]]) -- see also romantic science in [[Alan Jacobs - A Humanism of the Abyss]]
 - Guy Claxton and play (like Pickering): [[Guy Claxton, Bill Lucas, Tanya Byron, Octavius Black - Educating Ruby]]
-- perception of change vs change in perception [[measuring outcome but not process in somatic practices]]
+- [[perception of change versus change in perception]] 
+- [[measuring outcome but not process in somatic practices]]
 - [[interpretation remains present]] -- very useful
 - Borgdorff on something being untouched [[the many practices of practice research#^e0141f]]
 - experimental psychology [[the body in artistic research#^a634a0]]

@@ -16,6 +16,7 @@ Because I haven't read Stiegler or Mumford in any detail I include this summary 
 - Mumford text is _Technics and Civilization_
 - industrialization of memory is a powerful concept
 - what is relationship between Stiegler and Mumford?
+- [[perfect memory]]
 
 ---
 

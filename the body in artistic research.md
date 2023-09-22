@@ -17,11 +17,10 @@ This note is materials gathered as part of initial thinking for a Dance Research
 > I guess I’m trying to subjectify the universe, because look where objectifying it has gotten us. To subjectify is not necessarily to co-opt, colonize, exploit. Rather, it may involve a great reach outward of the mind and imagination.
 > What tools have we got to help us make that reach? - Le Guin, p.M16 [[Le Guin - Deep in Admiration]]
 
-- Le Guin's thinking here marks a very useful tension between the "I" and subjectifying that which is usually objectified. To introduce subjectification as an antidote to objectification.  ^b4be45
+- Le Guin's thinking here marks a very useful tension between the "I" and subjectifying that which is usually objectified. To introduce subjectification as an antidote to objectification. ^ecffbf
+- How might the "I" as subject be removed?
 
-> By grounding the self in the body, experimental psychology has taken the body as the starting point for a science of the self. One fundamental dimension of the bodily self is the sense of body ownership that refers to the special perceptual status of one’s own body, the feeling that “my body” belongs to me.[@tsakiris-2017-multisensory p.597]
-
-^a634a0
+> By grounding the self in the body, experimental psychology has taken the body as the starting point for a science of the self. One fundamental dimension of the bodily self is the sense of body ownership that refers to the special perceptual status of one’s own body, the feeling that “my body” belongs to me.[@tsakiris-2017-multisensory p.597] ^a634a0
 
 This body ... [lines from the film?]
 

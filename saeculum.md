@@ -20,6 +20,7 @@ _previous note:_ [[we access time through objects or artifacts]]
 
 - [[footfall#^35a573]]
 - [[temporal asymmetries (between the past, present, and future)]]
+- [[perfect memory]]
 
 ---
 

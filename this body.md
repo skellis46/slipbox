@@ -26,7 +26,9 @@ There's a moment in Ken Robinson's famous Ted talk.
 >In 1997 Sherry Turkle, the MIT Professor of Social Studies specialising in human-technology interaction, wrote a book called Life on the screen: identity in the age of the Internet. Here’s what she said about computer networked gaming technologies at the time:
 >We come to see ourselves differently as we catch sight of our images in the mirror of the machine. A decade ago, when I first called the computer a second self, these identity-transforming relationships were almost always one-on-one, a person alone with a machine. This is no longer the case.– Turkle 1997, 9 [@ellis-2018-faces n.pag.]
 
-(thinking about Turkle in relation to the whackiness of mirrors). Also seeing those kids perform for windows at Southbank. History of the mirror.
+^bd1e4e
+
+(thinking about Turkle in relation to the whackiness of mirrors). Also seeing those kids perform for windows at Southbank. History of the mirror. -- add both these to [[mirror with phone]]
 
 The first time I had a body. 
 
