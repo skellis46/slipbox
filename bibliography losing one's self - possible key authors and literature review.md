@@ -29,8 +29,7 @@ _previous note:_ [[losing one's self]]
 
 #### Fraleigh, S. (2000) ‘Consciousness Matters’. _Dance Research Journal_ 32 (1), 54–62. Excellent overview of phenomenology of movement and breaking historical dualism. Discussed 1st and 3rd person perspectives. 
 
-> I am concerned for the future of our field that dance research not be dictated
-solely by objective distance and quantification.Dance is not a scientific field even if it does employ various sciences to many good purposes. We should not lose the mystery and magic of dance, the anima mundi of our body in its continuity with nature, culture, and community [@fraleigh-2000-consciousness p.55]
+> I am concerned for the future of our field that dance research not be dictated solely by objective distance and quantification. Dance is not a scientific field even if it does employ various sciences to many good purposes. We should not lose the mystery and magic of dance, the anima mundi of our body in its continuity with nature, culture, and community [@fraleigh-2000-consciousness p.55]
 
 - vague, grand statements
 - calls on Damasio's core and extended consciousness -- just sort of deploys it
@@ -85,7 +84,6 @@ There it is!
 - writes that we can direct consciousness intentionally (p.250) and in that statement I assume she means the choice to be aware of something (to pay attention, p.251) but this is not consciousness. The question of intention and agency seems very important to her
 - does feel like it hasn't been edited at all -- so so hard to follow
 
-#### 
 
 
 ### keywords: bayesian dance improvisation

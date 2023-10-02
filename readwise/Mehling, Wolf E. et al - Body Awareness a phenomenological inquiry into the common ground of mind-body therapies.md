@@ -78,7 +78,7 @@
 
 
 > Practitioners were asked the following questions: ([View Highlight](https://read.readwise.io/read/01h6ttn55kjrb3ba71jevjdczx))
-    - Tags: [[favorite]] 
+
 
 
 +++++ 

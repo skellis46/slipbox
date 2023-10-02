@@ -10,7 +10,7 @@
 
 ## Highlights
 
-> That’s progress now, the steady accumulation of various tools to avoid other human beings, leaving people free to consume #content that is by design totally, existentially disposable, throw-away culture that asks nothing of us and which we don’t remember because neither creator nor audience wants to invest enough for remembering to make sense. ([View Highlight](https://read.readwise.io/read/01gxagp1eebj5fn5kj3p49k6nv))
+> That’s progress now, the steady accumulation of various tools to avoid other human beings, leaving people free to consume content that is by design totally, existentially disposable, throw-away culture that asks nothing of us and which we don’t remember because neither creator nor audience wants to invest enough for remembering to make sense. ([View Highlight](https://read.readwise.io/read/01gxagp1eebj5fn5kj3p49k6nv))
 
 
 > Basic dynamic in life: there is nothing meaningful enough to make you happy that could not make you sad if you lost it. This is the paradox of feeling, and it’s inherent and existential. If things inspire real positive emotion in you then they are necessarily things in which you are sufficiently invested that you would feel negative emotions when they’re gone. ([View Highlight](https://read.readwise.io/read/01gxagpy4b1bscg44ay2cb5x85))
