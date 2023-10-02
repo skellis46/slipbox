@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"b04f76158e3b84ca","type":"text","text":"'dance' activity: Transparencies","x":-40,"y":-420,"width":320,"height":60},
+		{"id":"e97511deaefc8d02","type":"text","text":"what kind of activity/task is Transparencies?  ","x":440,"y":-420,"width":250,"height":60},
+		{"id":"567825f5025b0578","type":"text","text":"dance?","x":820,"y":-624,"width":250,"height":60},
+		{"id":"f99c13fb79669cf9","type":"text","text":"somatics?","x":820,"y":-546,"width":250,"height":60},
+		{"id":"b70cee85091b9082","type":"text","text":"performance?","x":820,"y":-468,"width":250,"height":60},
+		{"id":"2e3013d7f2f3231d","type":"text","text":"creativity / imagination?","x":820,"y":-390,"width":250,"height":60},
+		{"id":"c81bfb2aeee15e1d","type":"text","text":"mindfulness?","x":820,"y":-312,"width":250,"height":60},
+		{"id":"caf60d64ae46e6b2","type":"text","text":"visual processing?","x":820,"y":-234,"width":250,"height":60},
+		{"id":"29c965f2fdc6787c","type":"text","text":"complex, multi-faceted interaction","x":440,"y":-252,"width":256,"height":72},
+		{"id":"30ee7eb100d51412","type":"text","text":"body awareness VS embodied intelligence?","x":-340,"y":-654,"width":400,"height":60},
+		{"id":"9f01da74b23e46ab","type":"text","text":"Mehling: If It All Comes Down to Bodily Awareness, How Do We Know? ","x":202,"y":-765,"width":366,"height":65,"color":"6"},
+		{"id":"91ffba585b7ca45c","x":-340,"y":-564,"width":250,"height":60,"type":"text","text":"what is the problem?"}
+	],
+	"edges":[
+		{"id":"a3773951d7da2245","fromNode":"b04f76158e3b84ca","fromSide":"right","toNode":"e97511deaefc8d02","toSide":"left"},
+		{"id":"456e0ad058649b79","fromNode":"e97511deaefc8d02","fromSide":"right","toNode":"567825f5025b0578","toSide":"left"},
+		{"id":"154609c600cc74a3","fromNode":"e97511deaefc8d02","fromSide":"right","toNode":"f99c13fb79669cf9","toSide":"left"},
+		{"id":"5bd4c60c2b8aaf67","fromNode":"e97511deaefc8d02","fromSide":"right","toNode":"b70cee85091b9082","toSide":"left"},
+		{"id":"bfbb9ad3ddfde42e","fromNode":"e97511deaefc8d02","fromSide":"right","toNode":"2e3013d7f2f3231d","toSide":"left"},
+		{"id":"8da48c9fb86a866f","fromNode":"e97511deaefc8d02","fromSide":"right","toNode":"c81bfb2aeee15e1d","toSide":"left"},
+		{"id":"13f6ed240389489d","fromNode":"e97511deaefc8d02","fromSide":"right","toNode":"caf60d64ae46e6b2","toSide":"left"},
+		{"id":"10fd112d6dafe7ea","fromNode":"e97511deaefc8d02","fromSide":"bottom","toNode":"29c965f2fdc6787c","toSide":"top"},
+		{"id":"97410494c28be42e","fromNode":"30ee7eb100d51412","fromSide":"right","toNode":"9f01da74b23e46ab","toSide":"left"}
+	]
+}
