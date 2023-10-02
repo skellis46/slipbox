@@ -464,3 +464,151 @@
 
 > Here, I want to turn the lens inwards, to consider how the experience of being me depends, in a substantial way, on how I perceive others perceiving me. (Location 2685)
 
+## New highlights added October 2, 2023 at 11:16 AM
+
+> One intriguing implication of this construal of the social self is that self-awareness – the higher reaches of selfhood comprising both narrative and social aspects – might necessarily require a social context. If you exist in a world without any other minds – more specifically, without any other relevant minds – there would be no need for your brain to predict the mental states of others, and therefore no need for it to infer that its own experiences and actions belong to any self at all. John Donne’s seventeenth-century meditation that ‘no man is an island’ could be literally true. (Location 2710)
+
+
+> William James – the nineteenth-century pioneer of psychology – said it well: ‘Contrary to the perception of an object, which can be perceived from different perspectives or even cease to be perceived, we experience “the feeling of the same old body always there”.’ (Location 2726)
+
+
+> We are becoming different people all the time. Our perceptions of self are continually changing – you are a slightly different person now than when you started reading this chapter – but this does not mean that we perceive these changes. This subjective blindness to the changing self has consequences. For one thing, it fosters the false intuition that the self is an immutable entity, rather than a bundle of perceptions. But this is not the reason that evolution designed our experiences of selfhood this way. I believe that the subjective stability of the self goes beyond even the change blindness warranted by our slowly changing bodies and brains. We live with an exaggerated, extreme 170form of self-change-blindness, and to understand why, we need to understand the reason we perceive ourselves in the first place. We do not perceive ourselves in order to know ourselves, we perceive ourselves in order to control ourselves. (Location 2734)
+
+
+> We do not see things as they are, we see them as we are.           anaïs nin (Location 2814)
+
+
+> Self-perception is not about discovering what’s out there in the world, or in here, in the body. It’s about physiological control and regulation – it’s about staying alive. (Location 2815)
+
+
+> Then, in the seventeenth century, René Descartes did away with the many gradations of the Scala by cleaving the universe into just two modes of existence: res cogitans (mind stuff) and res extensa (matter stuff). (Location 2826)
+
+
+> The historian Wallace Shugg summarised his views on the matter like this: The bodies of both man and beast … are merely machines that breathe, digest, perceive and move by means of the arrangement of parts. But only in man does reason direct bodily movements to meet all contingencies; only man gives evidence of his reason 173by using true speech. Without minds to direct their bodily movements or receive sensation, animals must be regarded as unthinking, unfeeling machines that move like clockwork. (Location 2836)
+
+
+> Non-human animals are best thought of as bêtes-machines – in English, ‘beast machines’. (Location 2843)
+
+
+> The French philosopher Julien Offray de La Mettrie, writing in the middle of the eighteenth century, certainly saw things this way. He extended Descartes’ beast machine argument to human beings, arguing that humans were machines too – l’homme machine (man machine) – and in doing so denying any special immaterial status for the soul while also questioning the existence of God. (Location 2848)
+
+
+> La Mettrie was not one to finesse his arguments for the benefit of religious authority, and so his life rapidly became a lot more complicated than Descartes’. In 1748 he was forced to flee his adopted home in the Netherlands to work for the Prussian King Frederick in Berlin, where three years later he died after consuming an excess of pâté. (Location 2850)
+
+
+> This brings us to the heart of my ‘beast machine’ theory of consciousness and self. Our conscious experiences of the world around us, and of ourselves within it, happen with, through, and because of our living bodies. Our animal constitution is not merely compatible with our conscious perceptions of self and world. My proposal is that we cannot understand the nature and origin of these conscious experiences, except in light of our nature as living creatures. (Location 2857)
+
+
+> Underneath the layered expressions of selfhood involving memories of the past and plans for the future, before the explicit sense of personal identity, beneath the ‘I’ and even prior to the emergence of a first-person perspective and experiences of body ownership, there are deeper layers of selfhood still to be found. These bedrock layers are intimately tied to the interior of the body, rather than to the body as an object in the world, and they range from emotions and moods – what psychologists call ‘affective’ experiences – to a basal, formless, and ever-present sense of simply ‘being’ an embodied, living organism. (Location 2861)
+
+
++++++ 
+- Note: Wow. Wow.
+
+
+> The key property of interoceptive signals is that they reflect, in one way or another, how well physiological regulation of the body is going. In other words, how good a job the brain is doing of keeping its body alive. (Location 2878)
+
+
+> Appraisal theories solve the problem of emotional range because each specific emotion now no longer needs a dedicated bodily state. Two closely related emotions – for example, listlessness and ennui – might be based on the same bodily state. The distinct emotions would emerge from different cognitive interpretations of this shared bodily condition. (Location 2895)
+
+
+> Just like visual predictions, interoceptive predictions operate at many scales of time and space, supporting fluid, context-sensitive, multi-level best guesses about the causes of interoceptive signals. In this way, interoceptive inference solves the problem of emotional range without needing any bright-line distinction between the non-cognitive and the cognitive. Interoceptive inference is therefore more parsimonious than appraisal theory, because it involves just one process (Bayesian best guessing) rather than two (non-cognitive perception and cognitive evaluation), and because of this it also maps more comfortably onto the underlying brain anatomy. (Location 2931)
+
+
+> The German neuroscientist Frederike Petzschner has recently shown that such responses, called ‘heartbeat evoked potentials’, are modulated by paying attention, as predicted by interoceptive inference. (Location 2939)
+
+
+> This ‘cardio-visual synchrony’ method was also used by Jane Aspell and her colleagues in a ‘full body illusion’ setup, in which people viewed a virtual silhouette of their body. They too found that people reported stronger identification with the silhouette when it flashed in time with the heartbeat. While these studies are suggestive of interoceptive inference, more research is needed here too, in part because these experiments didn’t take account of individual differences in hypnotic suggestibility – a factor we’ve since learned is very important in body ownership experiments. They also depend on how aware a person is of their own heartbeat, a trait which has proven frustratingly difficult to measure. (Location 2944)
+
+
+> Whether it’s fear, anxiety, joy, or regret – every emotional experience is rooted in top-down perceptual best guessing about the state of the body (and about the causes of this state). (Location 2951)
+
+
+> According to William Powers’ ‘perceptual control theory’, we don’t perceive things in order to then behave in a particular way. Instead, as in the example of catching a cricket ball, we behave so that we end up perceiving things in a particular way. (Location 3037)
+
+
+> Whether I’m sitting by my mother’s hospital bed, or fixing to escape from a bear, the form and quality of my emotional experiences are the way they are – desolate, hopeful, panicky, calm – because of the conditional predictions my brain is making about how different actions might impact my current and future physiological condition. (Location 3048)
+
+
+> At the very deepest layers of the self, beneath even emotions and moods, there lies a cognitively subterranean, inchoate, difficult-to-describe experience of simply being a living organism. Here, experiences of selfhood emerge in the unstructured feeling of just ‘being’. This is where we reach the core of the beast machine theory: the proposal that conscious experiences of the world around us, and of ourselves within it, happen with, through, and because of our living bodies. (Location 3051)
+
+
+> Just as with the outside world, the brain has no direct access to physiological states of the body, and so these states have to be inferred through Bayesian best guessing. As with all predictive perception, this best guessing is achieved through a brain-based process of prediction error minimisation. In the context of interoception, this is called interoceptive inference. Just as with vision and with hearing – just as with all perceptual modalities – interoceptive perception is a kind of controlled hallucination. (Location 3064)
+
+
+> There is a useful term in physiology to describe this process: allostasis. Allostasis means the process of achieving stability through change, as compared to the more familiar term homeostasis, which simply means a tendency towards a state of equilibrium. We can think of interoceptive inference as being about the allostatic regulation of the physiological condition of the body. (Location 3078)
+
+
+> Despite being firmly rooted in physiological regulation, emotions and moods are still mostly experienced at least in part as relating to things and situations beyond the self, outside the body. When I feel fear, I am usually afraid of some thing. But the very 190deepest levels of experienced selfhood – the inchoate feeling of ‘just being’ – seem to lack these external referents altogether. This, for me, is the true ground-state of conscious selfhood: a formless, shapeless, control-oriented perceptual prediction about the present and future physiological condition of the body itself. This is where being you begins, and it is here that we find the most profound connections between life and mind, between our beast machine nature and our conscious self. (Location 3083)
+
+
+> Putting these ideas together, we perceive ourselves as stable over time in part because of a self-fulfilling prior expectation that our physiological condition is restricted to a particular range, and in part because of a self-fulfilling prior expectation that this condition does not change. In other words, effective physiological regulation may depend on systematically misperceiving the body’s internal state as being more stable than it really is, and as changing less than it really does. (Location 3108)
+
+
+> Across 192every aspect of being a self, we perceive ourselves as stable over time because we perceive ourselves in order to control ourselves, not in order to know ourselves. (Location 3113)
+
+
+> The most extreme examples of self-unreality happen in a rare delusion first described in 1880 by the French neurologist Jules Cotard. The embodied self is so far gone in the Cotard delusion that sufferers believe they do not exist, or that they are already dead. Of course, the experience that the self is unreal does not mean that any essence-of-self has upped and left. It just means that the control-oriented perceptions associated with the deepest layers of bodily regulation have gone significantly awry. (Location 3125)
+
+
+> The beast machine theory accelerates the dissolution of this apparent mystery. By extending the controlled hallucination view to the very deepest layers of selfhood, by revealing the experience of the-self-as-really-existing as one more aspect of perceptual inference, the intuitions on which the hard problem implicitly rest are eroded even further. (Location 3136)
+
+
+> In particular, the hard-problem-friendly intuition that the conscious self is somehow apart from the rest of nature – a really-existing immaterial inner observer looking out onto a material external world – turns out to be just one more confusion between how things seem and how they are. (Location 3138)
+
+
+> The beast machine view of selfhood, with its intimate 194ties to the body, to the persistent rhythms of the living, returns us to a place liberated from conceits of a computational mind, before Cartesian divisions of mind and matter, reason and non-reason. What we might call the ‘soul’ in this view is the perceptual expression of a deep continuity between mind and life. It is the experience we have when we encounter the deepest levels of embodied selfhood – these inchoate feelings of ‘just being’ – as really existing. (Location 3143)
+
+
+> We are not cognitive computers, we are feeling machines. (Location 3149)
+
+
++++++ 
+- Note: Embodied intelligence
+
+
+> insular cortex: See Barrett & Simmons (2015) and Craig (2009) for more on the role of the insular cortex in interoception. (Location 3161)
+
+
+> The core ideas were extended from 2015 onwards into the ‘beast machine’ theory of consciousness and self: Seth (2015a); Seth (2019a); Seth & Friston (2016); Seth & Tsakiris (2018). (Location 3173)
+
+
+> must be a model: See Seth (2015a) and Seth & Tsakiris (2018) for more on the distinction between being a model and having a model. (Location 3190)
+
+
+> beast machine theory: See Seth (2013), Seth (2014b), Seth (2015a), Seth (2019), Seth & Friston (2016), and Seth & Tsakiris (2018) for more technical 304versions of the beast machine theory and its components. The theory has many ancestors and influences, to which I cannot do full justice here. These include Thomas Metzinger’s philosophical examination of the self (Metzinger, 2003a), and the landmark accounts of predictive processing from Andy Clark and Jakob Hohwy (Clark, 2016; Hohwy, 2013). The theory owes a particular debt to other proposals of deep – but different – links between life, body, mind, and consciousness. Here, I have been strongly influenced by Antonio Damasio (e.g., 1994, 2010), Gerald Edelman (e. g., 1989), Karl Friston (e.g., 2010), Joe LeDoux (e.g., 2019), and Evan Thompson (e.g., 2014; see also Varela et al., 1993). For related ideas, see Panksepp (2005); Park & Tallon-Baudry (2014); Solms (2021); Metzinger’s concept of ‘existence bias’ (Metzinger, 2021), and the work of Lisa Feldman Barrett (e.g., 2017). (Location 3207)
+
+
+> Sitting in between exteroception and interoception is proprioception, which refers to the perception of body position and movement (see chapter 5). It’s important not to confuse interoception with introspection, which refers to the internal examination of one’s own mental states. (Location 3237)
+
+
+> What it means for something to exist is that there must be a difference – a boundary – between that thing and everything else. If there were no boundaries there would be no things – there would be nothing. (Location 3288)
+
+
+> Living systems are different. Unlike the examples above, living systems actively maintain their boundaries over time – through moving, or sometimes even just through growing. They actively contribute to preserving themselves as distinct from their environment, and this is a key feature of what makes them living. The starting point for the FEP is that living systems, simply by virtue of existing, must actively resist the dispersion of their internal states. (Location 3296)
+
+
+> All such systems tend towards disorder, towards a dispersion of their constituent states over time. The second law tells us that instances of organised matter, like living systems, are intrinsically improbable and unstable, and that – in the long run – we’re all doomed. (Location 3306)
+
+
+> According to the FEP, for a living system to resist the pull of the second law it must occupy states which it expects to be in. Being a Good Bayesian, I’m using ‘expect’ in a statistical sense, not in a psychological sense. It is a very simple, almost trivial idea. (Location 3309)
+
+
+> According to the FEP, this applies across the board. Ultimately, all organisms – not just bacteria – stay alive by minimising their sensory entropy over time, thereby helping to ensure that they remain in the statistically expected states compatible with survival. (Location 3327)
+
+
+> A system cannot ‘know’ whether its own sensations are surprising, simply on the basis of the sensations themselves. (Here’s an analogy: is the number 6 surprising? It’s impossible to say, without knowing the context.) This is why sensory entropy is very different from things like levels of light, or concentrations of nearby nutrients, which can be directly detected by an organism through its senses, and used to guide behaviour. (Location 3332)
+
+
+> These deep connections between the FEP and predictive processing make appealing sense. Intuitively, by minimising prediction error through active inference, living systems will naturally come to be in states they expect – or predict – themselves to be in. Seen this way, the ideas of predictive perception and controlled (or controlling) hallucination follow seamlessly from Friston’s ambitious attempt to explain the whole of biology. (Location 3348)
+
+
+> Paraphrasing Friston, the view from the FEP is of organisms gathering and modelling sensory information so as to maximise the sensory evidence for their own existence. Or, as I like to say, ‘I predict myself therefore I am.’ (Location 3353)
+
+
+> The role of the FEP can be understood as motivating and facilitating the interpretation of other, more specific theories; theories which are amenable to refutation by experiment. (Location 3368)
+
+
++++++ 
+- Note: Embodied intelligence - stratrgy for Jane's involvement
+
