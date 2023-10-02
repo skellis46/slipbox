@@ -1,11 +1,11 @@
 ---
 csl: /Users/skiptime/Dropbox/pandoc/harvard-coventry-university.csl
 aliases: [china]
-type: "presentation"
-platform: "conference"
-status: "in-progress"
+type: presentation
+platform: conference
+status: published
 tags: 
-status-updated: "2022-05-24"
+date published: 2022-05-24
 ---
 
 _[slide: blank]_

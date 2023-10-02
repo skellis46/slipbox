@@ -1,9 +1,9 @@
 
 ---
 aliases: []
-tags: [practice-research]
-type: "post"
-tags: [blog-post, published, par-blog]
+tags: [practice-research, blog-post, par-blog]
+type: post
+status: published
 
 ---
 

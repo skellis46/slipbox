@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [newsletter, published]
-type: "newsletter"
-platform: "skellis mailing list"
-status: "published"
-status-updated: "20230117"
+tags: 
+type: newsletter
+platform: skellis mailing list
+status: published
+publication date: 2023-01-17
 ---
 
 # climbing mountains

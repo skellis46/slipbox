@@ -6,7 +6,7 @@ tags: [skin-air-ground]
 
 [[skin air ground]]
 
-I was walking through the commons and the trees, being with them. At "my" birthday tree, I imagined throwing the camera in and through the branches -- through things and around things. #ideatotrydone [[20210316 - settings and trees]] 
+	I was walking through the commons and the trees, being with them. At "my" birthday tree, I imagined throwing the camera in and through the branches -- through things and around things. #ideatotrydone [[20210316 - settings and trees]] 
 
 Spent time today working through the different settings in [[20210309 - playing and catching]]
 

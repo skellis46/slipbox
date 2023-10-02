@@ -1,7 +1,8 @@
 ---
 aliases: []
-tags: [perfect-memory, in-progress, artistic-practice]
+tags: [perfect-memory]
 type: evergreen
+status: in-progress
 ---
 
 # people are made of stories

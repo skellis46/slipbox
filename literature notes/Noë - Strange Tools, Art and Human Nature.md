@@ -52,7 +52,7 @@ We don’t make pictures to lay down memories; we make pictures, in this epoch o
 It’s worrying. If every moment is a Kodak moment, then, really, no moment is. I suspect that the compulsion to take pictures of ourselves—not unlike the compulsion to look at ourselves in the shop windows as we walk by—reflects not merely a passing fad or impulse, but a kind of culmination of the way pictures have made us, as it were, in their own image.
 
 - Shaun work
-- for #katrina work in autumn 2023?  
+- for katrina work in autumn 2023?  
 
 ## 7. Philosophical Objects
 

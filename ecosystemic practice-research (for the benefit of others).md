@@ -1,7 +1,8 @@
 ---
 aliases: []
-tags: [published]
-platform: "dance research"
+tags:
+platform: dance research
+status: published
 csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 ---

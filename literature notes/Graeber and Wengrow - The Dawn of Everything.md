@@ -1,16 +1,16 @@
 ---
 aliases: []
 tags: []
-author: "David Graeber"
-author: "David Wengrow"
-year: "2021"
-title: "The Dawn of Everything"
-type: "literature"
-status: "in-progress, gardening"
-updated: "2021-12-22"
+author: David Graeber
+author: David Wengrow
+year: 2021
+title: The Dawn of Everything
+type: literature
+status: 
+updated: 2021-12-22
 ---
 
-#  Graeber and Wengrow - The Dawn of Everything
+# Graeber and Wengrow - The Dawn of Everything
 
 ## 1 Farewell to Humanity’s Childhood
 
@@ -120,7 +120,7 @@ updated: "2021-12-22"
 
 > If private property has an ‘origin’, it is as old as the idea of the sacred, which is likely as old as humanity itself. The pertinent question to ask is not so much when this happened, as how it eventually came to order so many other aspects of human affairs.
 
-##  5 Many Seasons Ago
+## 5 Many Seasons Ago
 > Why Canadian foragers kept slaves and their Californian neighbours didn’t; or, the problem with ‘modes of production’ 
 
 > One reason this rejection is significant is that it offers a clue as to how one might answer the much broader question we posed – but then left dangling – at the beginning of Chapter Four: what is it that causes human beings to spend so much effort trying to demonstrate that they are different from their neighbours? Recall how, after the end of the last Ice Age, the archaeological record is increasingly characterized by ‘culture areas’: that is, localized populations with their own characteristic styles of clothing, cooking and architecture; and no doubt also their own stories about the origin of the universe, rules for the marriage of cousins, and so forth. Ever since Mesolithic times, the broad tendency has been for human beings to further subdivide, coming up with endless new ways to distinguish themselves from their neighbours.[@graeber-2021-dawn Chapter 5 n.pag.]
@@ -309,7 +309,7 @@ Thinking of sonder - and the way the entire book is a failure of it at historica
 
 > As the evidence accumulates, year on year, for large settlements and impressive structures in previously unsuspected locations, we’d be wise to resist projecting some image of the modern nation state on to their bare surfaces, and consider what other kinds of social possibilities they might attest to.
 
-##  11 Full Circle
+## 11 Full Circle
 "On the historical foundations of the indigenous critique."
 
 

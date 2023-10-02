@@ -1,8 +1,8 @@
 ---
 aliases: []
-type: "newsletter"
-tags: [newsletter, published]
-platform: "skellis mailing list"
+type: newsletter
+tags: 
+platform: skellis mailing list
 ---
 
 # interpretive dance

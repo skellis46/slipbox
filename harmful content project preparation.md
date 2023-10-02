@@ -1,7 +1,8 @@
 ---
 aliases: []
-tags: [harmful_content, in-progress]
-type: "evergreen"
+tags: [harmful_content]
+type: evergreen
+status: in-progress
 ---
 
 # harmful content project preparation
@@ -60,7 +61,7 @@ _previous note:_
 - perhaps the way TP work is more in the realm of tapping into noesis or noetic understanding as described in [[Ekua Hagan - What Are Noetic Sciences]] 
 - [[noesis and noetic understanding]] -- foregrounding the subjective
 
-## online safety bill 
+## online safety bill
 
 - see [[Department for Science, Innovation and Technology - Online Safety Bill]] for a few highlights
 - is there a clear working definition of harmful content? ("legal but harmful"). [OSB defines them](https://www.gov.uk/guidance/understanding-and-reporting-online-harms-on-your-online-platform) as:

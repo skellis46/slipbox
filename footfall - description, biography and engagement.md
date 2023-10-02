@@ -1,6 +1,6 @@
 ---
 aliases: [nature]
-tags: [artistic-practice, footfall]
+tags: [footfall]
 type: 
 ---
 

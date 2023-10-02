@@ -27,11 +27,11 @@ A man with a falling camera
 Trying to hold on.
 
 
-Nic Sanderland exosphere: <https://flexerandsandiland.com/archives/nic-sandiland/films/exosphere/> #influences
+Nic Sanderland exosphere: <https://flexerandsandiland.com/archives/nic-sandiland/films/exosphere/> 
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/25502765" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
 
-only one in the room: test 1 by Ajani Brannum: #influences 
+only one in the room: test 1 by Ajani Brannum:
 
 <iframe src="https://player.vimeo.com/video/103854489" width="640" height="853" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

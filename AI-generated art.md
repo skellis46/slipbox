@@ -1,7 +1,7 @@
 ---
 aliases: []
-tags: [cdareinvites-blog, blog-post, published]
-status: "published"
+tags: [cdareinvites-blog, blog-post]
+status: published
 ---
 
 # AI-generated art

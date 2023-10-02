@@ -1,12 +1,14 @@
 ---
 aliases: []
-tags: [nahr]
+tags: []
 type: "evergreen"
 ---
 
 # footfall script ideas
 
 _previous note:_ [[footfall keywords]]
+
+- [[children of the soil film index]]
 
 - "Your body is an ecosystem of ancestors" [[ancestry is not a lineage#^e2246b]]
 - horizon - see [[nahr workshop notes]]

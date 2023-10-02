@@ -17,7 +17,7 @@ _previous note:_ [[the Dao of butchering cows]]
 - [[brain versus body is the new dualism]]
 - [[nondual awareness]]
 - importance of phenomenology
-- close relationship to flow and immersion
+- close relationship to flow and immersion [@seth-2021-being]
 
 
 ---

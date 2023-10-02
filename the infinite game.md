@@ -1,7 +1,7 @@
 ---
 aliases: []
-tags: [lithium-dancing, ske-blog, blog-post, published]
-status: "published"
+tags: [lithium-dancing, ske-blog, blog-post]
+status: published
 ---
 
 # the infinite game

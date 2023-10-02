@@ -1,7 +1,7 @@
 ---
 aliases: []
-tag: [published, par-blog, blog-post]
-published: "20230804"
+tag: [par-blog, blog-post]
+date published: 2023-08-04
 ---
 
 

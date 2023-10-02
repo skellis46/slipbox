@@ -9,7 +9,7 @@ type: "literature"
 
 _previous note:_ [[basic questions about somatic practices]]
 
-This is a review article by Kimberley Hutt that explores the ways in which a combination of science and somatics might be beneficial in dance training, and specifically with regard to improved alignment and injury prevention. It is not clear what Hutt means by 'somatics' other than sensory or self awareness.
+This is a review article by Kimberley Hutt that explores the ways in which a combination of science and somatics might be beneficial in dance training, and specifically with regard to improved alignment and injury prevention. It is not clear what Hutt means by 'somatics' other than sensory or self awareness (or perhaps [[definition of body awareness|body awareness]]?).
 
 The writing describes how there is little or no evidence (other than anecdotal) that somatic practices decrease the risk of injury (or indeed improve injury recovery), even though Hutt describes many examples of how _sensory awareness_ is seen as fundamental.
 

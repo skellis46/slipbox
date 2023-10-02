@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [cognitive_bias]
+tags: []
 ---
 
 # apophenia and seeking patterns

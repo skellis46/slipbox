@@ -1,6 +1,7 @@
 ---
 aliases: []
-tags: [published, ske-blog, blog-post]
+tags: [ske-blog, blog-post]
+status: published
 csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 

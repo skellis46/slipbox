@@ -1,10 +1,10 @@
 ---
 aliases: []
-tags: [newsletter, published]
-type: "newsletter"
-platform: "skellis mailing list"
-status: "published"
-status-updated: "20221226"
+tags: 
+type: newsletter
+platform: skellis mailing list
+status: published
+date published: 2022-12-26
 ---
 
 _previous note:_  [[cognitive burden of sitting still]]

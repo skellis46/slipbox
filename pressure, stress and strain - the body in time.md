@@ -1,11 +1,11 @@
 ---
 csl: /Users/skiptime/Dropbox/pandoc/harvard-coventry-university.csl
 aliases: []
-type: "presentation"
-platform: "conference"
-status: "complete"
-tags: [published]
-status-updated: "2022-01-21"
+type: presentation
+platform: conference
+status: published
+tags: 
+date published: 2022-01-21
 ---
 
 _previous note:_ [[Krznaric - The Good Ancestor]]

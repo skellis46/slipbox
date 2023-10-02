@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [newsletter, published]
-platform: "skellis mailing list"
-status: "published"
+tags: 
+platform: skellis mailing list
+status: published
 ---
 
 I publish these essays to my mailing list on the first Friday of each month. If you like this one, please share.

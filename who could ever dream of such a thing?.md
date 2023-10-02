@@ -1,9 +1,9 @@
 ---
 aliases: []
-tags: [newsletter, published]
-type: "newsletter"
-platform: "skellis mailing list"
-status: "published"
+tags: 
+type: newsletter
+platform: skellis mailing list
+status: published
 ---
 
 # Who could ever dream of such a thing?

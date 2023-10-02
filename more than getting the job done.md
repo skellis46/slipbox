@@ -1,6 +1,6 @@
 ---
 aliases: []
-type: "newsletter"
+type: newsletter
 platform: "skellis.net"
 ---
 

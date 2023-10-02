@@ -11,7 +11,7 @@
 
 ## accumulation of understanding in practice-research
 
-### the collision of cultures 
+### the collision of cultures
 
 - split between creating experiences vs creating research (but is the split as bad as Biggs and Buchler make out?] -- see [[biggs and buchler - eight criteria for practice-based research]] and [[biggs and buchler - communities, values, conventions and actions]]
 - in [[a case for writing in practice-research]] the split is useful: there are two aspects/jobs - the work of the experience, the work of the researcher. 
@@ -29,5 +29,3 @@
 
 - unless we take this responsibility (of cumulative research which recognises clearly a community of practice, which is so so different from leaning on theoreticians) we are engaged in the abyss of singular productions of experience. This is fine. But if we attempt to convince ourselves (and heaven forbid others) that this is research then we are engaged in a lie of Journal of Artistic Research proportions.  
 
-
-#journeyplugin

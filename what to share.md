@@ -1,7 +1,8 @@
 ---
 aliases: []
-tag: [published, par-blog, blog-post]
-published: "20220915"
+tag: [par-blog, blog-post]
+status: published
+date published: 2022-09-15
 ---
 
 # what to share

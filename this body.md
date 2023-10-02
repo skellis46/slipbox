@@ -5,11 +5,13 @@ type: "book"
 
 ---
 
-# this body 
+# this body
 
 _previous note:_ [[gaming chairs]]
 
 [[index -- artistic practice]]
+
+Note that the full (and ongoing list) of "this body" is in Drafts (reference)
 
 Chairs getting bigger in order for us to do less. (noticing software developers and gamers sitting in these massive chairs.)
 History of chairs. 
@@ -80,7 +82,7 @@ The resting body
 ## The performing body
 public speaking. Fear. Physiology. Apple Watch alarm for some heart problem.
 
-## The impermanent body 
+## The impermanent body
 
 >Getting beyond dualistic thinking is not an easy task.  We might reflect, for example, on the oppositional symmetries of our very bodies (left/right, two eyes, two ears, two arms, two legs) and in the simplicity of prominent moral frames (good/bad, right/wrong, heaven/hell). Yet it is neither the only nor the best frame to deepen and enhance understanding of our world, our history, and possible solutions to the problems we face. 
 

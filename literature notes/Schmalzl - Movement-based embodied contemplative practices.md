@@ -1,13 +1,10 @@
 ---
 aliases: []
-tags: [embodiment, literature]
-author: "Laura Schmalzl, Mardi A. Crane-Godreau, and Peter Payne"
-year: "2014"
-title: "Movement-based embodied contemplative practices: definitions and paradigms"
-type: "literature"
+tags: [embodiment]
+type: literature
 ---
 
-#  Schmalzl - Movement-based embodied contemplative practices
+# Schmalzl - Movement-based embodied contemplative practices
 
 _previous note:_ [[the enactive approach]]
 

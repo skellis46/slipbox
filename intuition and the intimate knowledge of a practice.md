@@ -13,7 +13,7 @@ _questions & thoughts:_
 
 - curious this phrase "sedimented experience" in that Jonathan Burrows was talking about it the other day (during Research Cafe at C-DaRE on Thursday 18 June 2020), and comparing it with the idea of practice as a form of compost (he preferred sedimentation)
 - I'm interested in Ahrens' writing/thinking here because it speaks directly to the nature of practice as a 'method' to generate new understandings. But what it doesn't do is deal with the specifics of creative research. That is, he is implying -- particularly by calling on Rheinberger -- that all research processes are built on practices
-- #question -- what is most particularly or unique about creative practice as an approach to new understandings?
+- what is most particularly or unique about creative practice as an approach to new understandings?
 
 --- 
 

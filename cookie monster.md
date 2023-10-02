@@ -1,6 +1,7 @@
 ---
 aliases: []
-tags: [blog-post, ske-blog, published]
+tags: [blog-post, ske-blog]
+status: published
 ---
 
 # cookie monster

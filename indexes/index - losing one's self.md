@@ -1,7 +1,8 @@
 ---
 aliases: []
-tags: [index, in-progress]
+tags: [index]
 platform: 
+status: in-progress
 ---
 
 

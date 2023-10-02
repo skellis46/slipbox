@@ -1,7 +1,7 @@
 ---
 aliases: []
-tags: [ske-blog, blog-post, published]
-status: "published"
+tags: [ske-blog, blog-post]
+status: published
 ---
 
 # when we party we dance

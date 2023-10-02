@@ -1,12 +1,12 @@
 ---
 aliases: []
 tags: []
-author: "Andri Snaer Magnason"
-year: "2021"
-title: "On Time and Water"
-type: "literature"
-status: "in-progress, gardening"
-updated: "2021-12-22"
+author: Andri Snaer Magnason
+year: 2021
+title: On Time and Water
+type: literature
+status: 
+updated: 2021-12-22
 ---
 
 # Magnason - On Time and Water

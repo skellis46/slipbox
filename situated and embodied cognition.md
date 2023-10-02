@@ -1,8 +1,8 @@
 ---
 aliases: []
 tags: []
-type: "evergreen"
-status: "in-progress, evergreen"
+type: evergreen
+status: 
 ---
 
 # situated and embodied cognition

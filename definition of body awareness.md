@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [body awareness]
 tags: []
 type: "evergreen"
 ---
@@ -13,6 +13,13 @@ _previous note:_ [[definition of mindfulness]]
 Mehling writes how, neurologically, body awareness is the part of [[proprioception]] and [[interoception science overview]] that we can be aware of. Contrast this with interoceptive information that is not conscious.
 
 - see list of names for _somatics_ in science literature in [[a list of somatic practices]]
+
+Also this other definition of body awareness (also by Mehling et al):
+
+> Body awareness involves an attentional focus on and awareness of internal body sensations. Body awareness, as we define it here, is the subjective, phenomenological aspect of proprioception and interoception that enters conscious awareness, and is modifiable by mental processes including attention, interpretation, appraisal, beliefs, memories, conditioning, attitudes and affect. [Mehling in @todd-2022-mindfulness] ^797422
+
+- here's the [Mehling paper](https://pubmed.ncbi.nlm.nih.gov/21473781/) and here's the readwise link where above quote was cited: [View Highlight](https://read.readwise.io/read/01h6tr4wtjf62pj8atvjp8hwh2)
+
 
 ---
 

@@ -1,11 +1,12 @@
 ---
 aliases: []
 tags: []
-type: "evergreen"
-status: "in-progress, evergreen"
+type: evergreen
+status: 
 ---
 
 # the circulation of oxygen
+
 _previous note:_ [[pressure, stress and strain - the body in time]]
 
 ---

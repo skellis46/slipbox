@@ -1,8 +1,8 @@
 ---
 aliases: []
 tags: []
-type: "evergreen"
-status: "in-progress, evergreen"
+type: evergreen
+status:
 ---
 
 # replacement hypothesis of embodied cognition

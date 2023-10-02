@@ -1,7 +1,7 @@
 ---
 aliases: []
 type: "newsletter skellis mailing list"
-tags: [newsletter, published]
+tags: 
 ---
 
 # choreography as a hammer

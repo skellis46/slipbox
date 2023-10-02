@@ -1,6 +1,7 @@
 ---
 aliases: []
-tags: [blog-post, published, practice-research, par-blog]
+tags: [blog-post, practice-research, par-blog]
+status: published
 ---
 
 # moving and being moved

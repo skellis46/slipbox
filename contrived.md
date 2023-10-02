@@ -1,11 +1,10 @@
 ---
 aliases: []
 tags:
-  - newsletter
-  - published
 type: newsletter
+status: published
 platform: skellis mailing list
-Date published: 1968-08-23
+date published: 2023-08-23
 ---
 
 # contrived

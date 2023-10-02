@@ -1,5 +1,5 @@
 ---
-tags: [no-previous-note]
+tags: []
 ---
 
 # pipilotti rist video artist

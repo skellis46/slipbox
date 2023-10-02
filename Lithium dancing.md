@@ -1,7 +1,9 @@
 ---
 aliases: []
-tags: [published]
-platform: "ijsd"
+tags: []
+platform: ijsd
+status: published
+date published:
 csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---
 

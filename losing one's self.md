@@ -1,10 +1,10 @@
 ---
 aliases: []
 tags:
-  - in-progress
   - somatics
   - losing-self
 type: article, bid
+status: in-progress
 ---
 
 # losing one's self
@@ -33,7 +33,7 @@ _previous note:_ [[index - losing one's self]]
 See also [[flow and nonduality]]
 
 
-## Some possible key structural aspects: 
+## Some possible key structural aspects:
 
 - dance improvisation 
 - consciousness and dance improvisation - terminology: awareness, attention, consciousness

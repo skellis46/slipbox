@@ -1,7 +1,7 @@
 ---
 aliases: []
-type: "newsletter"
-platform: "skellis mailing list"
+type: newsletter
+platform: skellis mailing list
 csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 tags: []
 ---

@@ -1,14 +1,14 @@
 ---
 aliases: []
-tags: [newsletter, published]
-type: "newsletter"
-platform: "skellis mailing list"
-status: "published"
+tags: 
+type: newsletter
+platform: skellis mailing list
+status: published
 status-updated: "20211207"
 
 ---
 
-# Making sense of dance research 
+# Making sense of dance research
 
 In the last weeks I've had the opportunity to see a few people who I haven't seen in a long time -- perhaps 20 to 25 years. At some point in our conversation they'd ask me what I do, and when I told them that I worked at the [Centre for Dance Research at Coventry University](http://c-dare.co.uk) the look on their faces approached curious befuddlement ... or perhaps befuddled curiosity. 
 

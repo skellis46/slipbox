@@ -1,8 +1,8 @@
 ---
 aliases: []
 tags: [embodiment, somatics]
-type: "evergreen"
-status: "in-progress, evergreen"
+type: evergreen
+status: 
 ---
 
 # basic questions about somatic practices

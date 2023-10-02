@@ -14,7 +14,7 @@ _questions & thoughts:_
 
 - Edgar Schein's work, e.g. <https://www.valuebasedmanagement.net/methods_schein_three_levels_culture.html>
 - How might we come to understand our assumptions and beliefs about the body (about our own bodies)? 
-- #question What body-based assumptions and beliefs are unspoken or taken for granted? 
+- What body-based assumptions and beliefs are unspoken or taken for granted? 
 - compare with Kahneman's idea that we can't change people's minds (metaphor of spring) in same podcast as [[evidence and protecting the dissenters]] ^4f0c9f
 - Part of ongoing interest in [[cognitive biases]]
 - see also [[doxa and habitus]] and the the role of ritual in creating doxa.

@@ -8,6 +8,7 @@ platform: ""
 - 'interoception, somatics and science: this is the time'
 
 - [[losing one's self]]
+- many of these ideas also presented in July 2023 at Somatics Conference in [[somatics unlimited]]
 
 ## various notes, thoughts and plans to start
 
@@ -92,7 +93,7 @@ Regardless of whether or not Ginot's critique is accurate (and I suspect there i
 
 By 'dance scholarship' I refer to journals or texts recognised by the database _International Bibliography of Theatre & Dance with Full Text_ 
 
-There are exceptions. In 2010, Kimberley Hutt explored the ways in which a combination of science and somatics might be beneficial in dance training, and specifically with regard to improved alignment and injury prevention. It is not clear what Hutt means by 'somatics' other than sensory or self awareness.
+There are exceptions. In 2010, Kimberley Hutt explored the ways in which a combination of science and somatics might be beneficial in dance training, and specifically with regard to improved alignment and injury prevention. It is not clear what Hutt means by 'somatics' other than sensory or self awareness. See [[Hutt - Corrective alignment and injury prevention]]
 
 strange article by [[Batson et al - Integrating somatics and science]] about 'integration' (when what they are really asking for is for "somatic principles and experiences" (p.185) to get a seat at the table.
 - but what kind of seat is this that isn't already present? Compare with Mehling saying "this is the time"

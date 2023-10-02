@@ -1,11 +1,11 @@
 ---
 
-aliases: []
-tags: [newsletter, published]
-type: "newsletter"
-platform: "skellis mailing list"
-status: "in-progress"
-status-updated: "20230919"
+aliases:
+tags: 
+type: newsletter
+platform: skellis mailing list
+status: published
+date published: 2023-09-19
 
 ---
 # an object of special regard

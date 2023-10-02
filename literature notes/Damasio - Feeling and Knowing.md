@@ -1,12 +1,9 @@
 ---
-aliases: []
-tags: []
-author: "Antonio Damasio"
-year: "2021"
-title: "Feeling and Knowing: Making Minds Conscious"
-type: "literature"
-status: "in-progress, gardening"
-updated: "2022-01-28"
+aliases: 
+tags:
+type: literature
+status: 
+updated: 2022-01-28
 ---
 
 # Damasio - Feeling and Knowing

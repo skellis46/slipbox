@@ -1,8 +1,8 @@
 ---
 aliases: []
-tags: [newsletter, published]
-type: "newsletter"
-platform: "skellis mailing list"
+tags: 
+type: newsletter
+platform: skellis mailing list
 ---
 
 # speeding to go slow

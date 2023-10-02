@@ -1,6 +1,7 @@
 ---
 aliases: []
-tags: [published, blog-post, par-blog]
+tags: [blog-post, par-blog]
+status: published
 ---
 
 

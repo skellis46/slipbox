@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: [artistic-practice, published]
+tags: [artistic-practice]
 type: "evergreen"
 ---
 

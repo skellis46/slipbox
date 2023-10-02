@@ -2,7 +2,7 @@
 aliases: []
 type: "presentation"
 platform: "Sentient Performativities"
-status: "published"
+status: published
 status-updated: "2022-01-04"
 csl: /Users/skiptime/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 ---

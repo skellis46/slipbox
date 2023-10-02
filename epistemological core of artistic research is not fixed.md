@@ -1,7 +1,9 @@
 ---
 aliases: []
-tag: [published, par-blog, blog-post]
-published: "20220803"
+tag: [par-blog, blog-post]
+status: published
+date published: 2022-08-03
+
 ---
 
 # epistemological core of artistic research is not fixed

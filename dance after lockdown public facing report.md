@@ -1,7 +1,8 @@
 ---
 aliases: [lockdown]
-tags: [published]
-type: "report"
+tags: []
+type: report
+status: published
 ---
 
 

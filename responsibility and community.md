@@ -1,6 +1,7 @@
 ---
 aliases: []
-tags: [blog-post, practice-research, par-blog, published]
+tags: [blog-post, practice-research, par-blog]
+status: published
 ---
 
 # responsibility and community
