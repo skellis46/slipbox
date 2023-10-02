@@ -15,6 +15,12 @@ This is a paragraph by Jocelyn Sze et al that summarises research on body awaren
 - have downloaded Niedenthal
 - The Damasio is _Descarte's Error_ from 2000.
 - [[the overlap between bodily and emotional feelings]]
+- see also  (Craig, 2009; Critchley, Wiens, Rotshtein, Ohman, & Dolan, 2004; Damasio, 2003) -- all cited in [[Jocelyn A. Sze, Anett Gyurak, Joyce W. Yuan, and Robert W. Levenson - Coherence Between Emotional Experience and Physiology Does Body Awareness Training Have an Impact]] -- covering link between body awareness and emotion. 
+
+- see also:
+
+> Although many contemporary emotion theories espouse both of these concepts, little is known about how response coherence and awareness of bodily sensations interact in the experience of emotion. The present study poses a question bridging these two domains, asking whether individuals who have specialized training in body awareness will have greater coherence between subjective and physiological aspects of emotion. We reason that if sensations emanating from bodily responses are primary constituents of subjective emotional experience, then subjective emotional experience should more closely track and be coherent with physiological responding for those who are more aware of their bodily responses. [@sze-2010-coherence p.803]
+- useful for [[embodied intelligence project]] and the sense that emotional/affective experience of Transparencies is important.
 
 ---
 
