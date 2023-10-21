@@ -26,6 +26,7 @@ This is next stage development of what was/is the [[harmful content project prep
 - I suspect we are talking about body awareness (am not so sure about this -- see point/item just below re embodied/body intelligence); and more specifically the impact/effect/utility of body awareness on this other kind of activity. Does it have to do with [non-conceptual mental content](https://plato.stanford.edu/entries/content-nonconceptual/)? -- that Transparencies affords a pathway into non-conceptual experiences
 - is body awareness different from embodied intelligence (or body intelligence)? -- the latter speak to trust, understanding, openness, memory and the imagination — centralising the body in emergent creative (surprising) interpretation.[[five stages of development of body awareness]] 
 - non-judgemental component important? see [[Mehling, Wolf E. et al - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]] In Mehling the experts talk about preferring self-awareness, or embodied self-awareness. Focus is not ON the body but [[focus on what it means to be embodied]]
+- see paper by Weiser on phototherapy: [[Judy Weiser - PhotoTherapy Techniques in Counselling and Therapy -- Using Ordinary Snapshots and Photo-Interaction]] -- some overlaps (in the highlights) with Transparencies.
 
 ## possible structure for proposal 
 
