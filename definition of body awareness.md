@@ -20,6 +20,10 @@ Also this other definition of body awareness (also by Mehling et al):
 
 - here's the [Mehling paper](https://pubmed.ncbi.nlm.nih.gov/21473781/) and here's the readwise link where above quote was cited: [View Highlight](https://read.readwise.io/read/01h6tr4wtjf62pj8atvjp8hwh2)
 
+See also Tsakiris et al (2011):
+
+> Body-awareness relies on the representation of both interoceptive and exteroceptive percepts coming from one’s body. [@tsakiris-2011-just p.2470]
+- included this because I think in somatic practices we tend to forget the exteroceptive aspects (in part because of working with eyes closed so often??)
 
 ---
 
