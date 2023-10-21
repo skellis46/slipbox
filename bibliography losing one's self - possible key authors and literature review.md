@@ -116,7 +116,9 @@ There it is!
 ### possible collaborators
 
 - Guido Orgs: [https://www.gold.ac.uk/psychology/staff/orgs-guido/](https://www.gold.ac.uk/psychology/staff/orgs-guido/)
+- Merritt Millman
 - Josef Mattes (Vienna)
+- Zoran Josipovic
 - Alessandro Monti
 - Wolf Mehling
 - Kimberley Hutt
@@ -124,15 +126,15 @@ There it is!
 - Camilla Nord - neuroscientist; see [[mid-insula region and interoception]] and [[the overlap between bodily and emotional feelings]]
 - Corinne Jola in Scotland (emailed her, but never heard back) (sent 22 February 2023)
 - Jane Aspell - recommended by Magdalena Zawisza (known by Sally Dibb)
-- Sabine Koch (dance movement therapist), see article with Fuchs on _Embodied Affectivity_ [@fuchs-2014-embodied]
+- Sabine Koch (dance movement therapist), see article with Fuchs on _Embodied Affectivity_ [@fuchs-2014-embodied] - <https://www.srh-hochschule-heidelberg.de/en/university/university-team/sabine-koch/>
 
 _From bid writing sprint:_
 
 - John Teasdale mindfulness
 - Phil Barnard
-- Elsa Urmston -- CI -- flow
+- Elsa Urmston -- CI -- flow - NO
 - Frank Pollack -- prof in cog neuroscience .. 
-- Klara Łucznik - [@lucznik-2021-measuring]
+- Klara Łucznik - [@lucznik-2021-measuring] https://philpapers.org/rec/UCZBMA
 - Tony Steffert - [www.qeeg.co.uk](http://www.qeeg.co.uk)
 
 
