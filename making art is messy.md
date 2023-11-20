@@ -1,7 +1,10 @@
 ---
 aliases: 
-tags: 
+tags:
+  - blog-post
 type: evergreen
+date published: 2023-11-20
+status: published
 ---
 
 # making art is messy
