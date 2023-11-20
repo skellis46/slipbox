@@ -32,6 +32,8 @@ _previous note:_ [[index - losing one's self]]
 
 See also [[flow and nonduality]]
 
+- see [[Julianna M. Lynch & Allison S. Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] for literature note
+
 
 ## Some possible key structural aspects:
 
@@ -60,7 +62,7 @@ This note is the beginning of an attempt to draw together several trains of thou
 
 - Fraleigh also mentions non dual awareness and Dogen Zen [@fraleigh-2021-body p.114]. 
 - see also [[Jay L. Garfield - Losing Ourselves]] re immersed phenomenology
-- and perhaps also [[Seth, Anil - Seth-2021-Being]] for more on value of phenomenology
+- and perhaps also [[Seth - Being You]] for more on value of phenomenology
 
 
 - [[meta-awareness in dance improvisation]]

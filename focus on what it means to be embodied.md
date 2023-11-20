@@ -13,7 +13,7 @@ _previous note:_ [[embodied intelligence project]]
 - Mehling et al. are referring to the focus groups of very experienced "mind-body" practitioners (yoga, tai-chi, Feldenkrais, Alexander Method, Body Awareness Therapy, etc) 
 - 
 
-- from Readwise [[Mehling, Wolf E. et al - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]]
+- from Readwise [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]]
 
 ---
 

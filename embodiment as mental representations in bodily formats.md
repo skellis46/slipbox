@@ -8,7 +8,7 @@ type: "evergreen"
 
 _previous note:_ [[embodiment and illusion of self]]
 
-In [[L. S. Merritt Millman - Towards a Neurocognitive Approach to Dance Movement Therapy for Mental Health A Systematic Review]] Millman describes how Dance Movement Therapists often refer to embodiment but that the term is "underspecified" [@millman-2021-neurocognitive n.pag.]  
+In [[Millman - Towards a Neurocognitive Approach to Dance Movement Therapy for Mental Health A Systematic Review]] Millman describes how Dance Movement Therapists often refer to embodiment but that the term is "underspecified" [@millman-2021-neurocognitive n.pag.]  
 
 She writes: 
 

@@ -14,6 +14,7 @@ This research by Lynch and Troy explores the role of nonduality re [[flow]] and 
 
 There is overlap between flow and nonduality but they are not the same experience. 
 - [[losing one's self]]
+- see [[Julianna M. Lynch & Allison S. Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] for literature notes
 
 ---
 

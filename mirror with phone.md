@@ -18,7 +18,7 @@ There's something about that kind of light (very Viola) in which the body disapp
 
 - [[index -- artistic practice]]
 
-- Anil Seth's childhood memory of looking in bathroom mirror [[Seth, Anil - Seth-2021-Being]]
+- Anil Seth's childhood memory of looking in bathroom mirror [[Seth - Being You]]
 - possible link with [[subject-body and object-body]] and 'to whom I feel exposed'
 - obvious thing of mirror neurons -- see a bit in [[Hildebrandt, Malin K. - “We Dance and Find Each Other”1 Effects of DanceMovement Therapy on Negative Symptoms in Autism Spectrum Disorder]] and in [[Tversky - Mind in Motion]]
 - comparing [[nondual awareness]] as being compared to mirror: see for instance [[﻿Zoran﻿ ﻿Josipovic﻿ - Nondual Awareness and Minimal Phenomenal Experience]]

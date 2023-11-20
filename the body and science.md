@@ -88,7 +88,7 @@ In dance scholarship we often remind ourselves and others of the aphorism that n
 > What does it tell us about ourselves?—can and should be answered in the key of neuroscience. We think that everything about us that matters is fixed by our brains and that by turning our focus inward we can discover our true nature. And so it seems right, when we face the task of making sense of art, to look to neuroscience. 
 > I take a different approach. Not because there’s anything wrong with trying to understand art in relation to our biology; indeed, this is an exciting and important aspiration. But rather because neuroscience has yet to frame an adequate conception of our biology.[@noe-2015-strange Chapter 8 n.pag.]
 
-- [[Seth, Anil - Seth-2021-Being]] -- consciousness science
+- [[Seth - Being You]] -- consciousness science
 - 
 
 

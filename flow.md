@@ -13,7 +13,7 @@ _previous note:_
 > The nine dimensions of the flow state include challenge-skill balance, clear goals, unambiguous feedback, concentration, transformation of time, action-awareness merging, paradox of control, loss of self-consciousness, and autotelic experience (Csikszentmihalyi, 2014; Jackson & Marsh, 1996). [@lynch-2021-role p.1640]
 
 - action-awareness merging refers to effortlessness
-- 
+- see [[Julianna M. Lynch & Allison S. Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] for literature note
 
 - Csikszentmihalyi
 - [[speeding to go slow]]

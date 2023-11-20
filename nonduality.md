@@ -18,8 +18,9 @@ Noting the Nondual Awareness Scale (NADA) by Hanley et al., 2018 [as cited by @l
 
 Also this big claim:
 
-> The term nonduality encompasses a unified experience in which the boundaries between self and environment dissolve. This ex- perience of nonduality seems to underlie the experience of flow. [@lynch-2021-role p.1649]
+> The term nonduality encompasses a unified experience in which the boundaries between self and environment dissolve. This experience of nonduality seems to underlie the experience of flow. [@lynch-2021-role p.1649]
 
+- see [[Julianna M. Lynch & Allison S. Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] for literature note
 
 ---
 
