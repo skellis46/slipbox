@@ -11,9 +11,14 @@ _previous note:_ [[harmful content project preparation]]
 
 - [[embodied intelligence canvas.canvas|embodied intelligence canvas]]
 
-This is next stage development of what was/is the [[harmful content project preparation]]. Team (Siobhan Davies, Jane Aspell, Charlotte Waelde, Sally Dibb and Simon Ellis) met on 25 September 2023: [[embodied intelligence meeting notes]]
+This zettel is notes that reflect next stage development of what was/is the [[harmful content project preparation]]. Team (Siobhan Davies, Jane Aspell, Charlotte Waelde, Sally Dibb and Simon Ellis) met on 25 September 2023: [[embodied intelligence meeting notes]]. In this zettel I have moved things around, organised, transferred to [[embodied intelligence project ahrc bid]] etc. The note is very active/alive (as of 21 November 2023)
 
-- what is the problem here? What if it is something akin to: "How might we understand what is happening in this practice?" CW's concern with this is that we are not using the art project Transparencies but rather the methodology/process that has resulted in it (that is, the practice). This practice is relational, interactive, interpretive and complex in which Davies works with the images until "a moment comes when a fresh physical awareness occurs within" her. The images' ability to create "something" which is less in front of her eyes and more in her body. Sue describes this as 'felt understanding' that is not helped by explaining in words. (see [[the inexpressible nature of experience]]) [She writes](https://livecoventryac-my.sharepoint.com/:b:/g/personal/ac1906_coventry_ac_uk/EQMADxtq1V5Iu4bVj9zxDDkBYIiGQPL529Lo26kVMTmirA?e=KtPy37): 
+## transparencies
+
+- what kind of activity/task is Transparencies? - explain in detail (see above, but also include pragmatic/countable details as Jane suggest on the shared doc)
+- see also <https://uoa33.coventry.domains/transparencies/>
+
+ This practice is relational, interactive, interpretive and complex in which Davies works with the images until "a moment comes when a fresh physical awareness occurs within" her. The images' ability to create "something" which is less in front of her eyes and more in her body. Sue describes this as 'felt understanding' that is not helped by explaining in words. (see [[the inexpressible nature of experience]]) [She writes](https://livecoventryac-my.sharepoint.com/:b:/g/personal/ac1906_coventry_ac_uk/EQMADxtq1V5Iu4bVj9zxDDkBYIiGQPL529Lo26kVMTmirA?e=KtPy37): 
 
 > The combinations have created a feeling within me which I could not have predicted, I have been made alert to something? There is no language for it and I don’t ask what is going on but a recognition of something felt wells up in me and I want to keep that felt experience however briefly or maybe I am touching on an experience I have had before but in a different form.
 
@@ -21,31 +26,20 @@ This is next stage development of what was/is the [[harmful content project prep
 
 > My first and maybe naive thought is that the useful part of this practice is it’s unfixed nature, a fluidity of exchanges until something more telling emerges and is felt.
 
+- noting point below re Mehling's work and how focus is not on the body, it's curious that in T the images are mostly 'of the body' (or bodies -- not necessarily human) ... that these images pre-contextualise (or pre-load!) the body-ness of the experience (but do they?)
+
+## body awareness / intelligence etc
+
 - noting distinction to [[focus on what it means to be embodied]] rather than on the body per se.
-- what kind of activity/task is Transparencies? - explain in detail (see above, but also include pragmatic/countable details as Jane suggest on the shared doc)
 - I suspect we are talking about body awareness (am not so sure about this -- see point/item just below re embodied/body intelligence); and more specifically the impact/effect/utility of body awareness on this other kind of activity. Does it have to do with [non-conceptual mental content](https://plato.stanford.edu/entries/content-nonconceptual/)? -- that Transparencies affords a pathway into non-conceptual experiences
 - is body awareness different from embodied intelligence (or body intelligence)? -- the latter speak to trust, understanding, openness, memory and the imagination — centralising the body in emergent creative (surprising) interpretation.[[five stages of development of body awareness]] 
-- non-judgemental component important? see [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]]. In Mehling the experts talk about preferring self-awareness, or embodied self-awareness. Focus is not ON the body but [[focus on what it means to be embodied]]
-- see paper by Weiser on phototherapy: [[Weiser - PhotoTherapy Techniques in Counselling and Therapy]] -- some overlaps (in the highlights) with Transparencies.
+- non-judgemental component important? see [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]]. In Mehling the experts talk about preferring self-awareness, or embodied self-awareness. Focus is not ON the body but [[focus on what it means to be embodied]] 
 - useful definition of embodiment in [[embodiment]] by Hudak et al. 
-
-Email from CW on 26 September 2023: 
-> Two points: the first is that I don't see this enquiry as asking dance to prove itself. For me it is rather what we can learn from dance. Which is why I asked Jane whether she could design a scientific enquiry around the methodology we want to use - rather than vice versa. That is clearly challenging for her. But it would place dance first in the enquiry. The second is the use of transparencies - I do appreciate your reservations, but for the reasons Simon sets out, I think it would be great to use.
-
-
-
-## general notes working through obsidian and reading (not organised)
-
-- Transparencies is levelling -- doesn't require pre-knowledge or confidence re movement. But how different from meditation then? (or, say, Feldenkrais). Can we argue that it is essentially a body-less corporeal activity?? (on the surface it is no such thing)
-- but there's no such thing as 'success' when it comes to Transparencies
-- in Anil Seth's discussion of the Free Energy Principles he writes that: "The role of the FEP can be understood as motivating and facilitating the interpretation of other, more specific theories; theories which are amenable to refutation by experiment" [@seth-2021-being Loc 3368] (see [[Seth - Being You]]). I thought this could be reconfigured:
-
-The broad role of Transparencies can be understood as motivating and facilitating the interpretation of other, more specific theories ... etc. (which perhaps is where Jane's role is?)
-
-- so much dance training seems to be about undoing the literal -- is this correct? (coping with abstraction??)
-- acknowledge [[the inexpressible nature of experience]]
+- [[body awareness and emotion]]: this link is important for possible future work: Instagram, harmful content, etc?? But also as possible justification for use of Transparencies?? 
+- Mehling's work on body awareness (phenomenology) is important: [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]] and also [[Mehling - If It All Comes Down to Bodily Awareness]]
+- are we talking about something different from body awareness? see [[definition of body awareness]] and [[five stages of development of body awareness]]. And is there overlap with mindfulness practices, see for instance [[Perez-Pena et al - Mindfulness-Based Interventions and Body Awareness]]. The second [[definition of body awareness#^797422]] is described by Todd and Aspell as being a "multidimensional definition of body awareness" -- but if I think about Transparencies it's actually the step after that ... it's saying something about the influence or effect of this body awareness on what is a creativity task? Big question: what kind of activity/task is Transparencies?  
 - note that [[self-report measures of visceral awareness]] don't correlate with objective measures (my hunch here is the problem is with the objective measures)
-- body awareness scales
+- list of body awareness scales
 	+ MAIA-II interoceptive awareness test
 	+ Body Vigilance Scale (see [[L.S. Merritt Millman - Online Structured DanceMovement Therapy Reduces Bodily Detachment in Depersonalization-Derealization Disorder]])
 	+ Cambridge Depersonalization Scale
@@ -55,24 +49,21 @@ The broad role of Transparencies can be understood as motivating and facilitatin
 	+ Body Consciousness Questionnaire (Miller et al., 1981)
 	+ Body Awareness Questionnaire (BAQ, Shields et al., 1989) 
 	+ The Autonomic Perception Questionnaire—Revised (Mandler et al., 1958; Shields, 1984)
-- describe the state of unknowing and openness (and of not being judged)
-- need to consider trait or dispositional aspects of paying attention to present: dispositional mindfulness (see [[interoception glossary]])
-- two parts:
-	+ tune the participant to this state of not knowing/non-judgement/not looking for something
-	+ transparencies
-- could there be a period of training (involving experience sampling) 
-- it would be worth finding out how much tuning people to not be concerned with understanding/getting it right/etc might make any difference (in both trained and untrained groups)
-- what might we _judge_ as being better, or how might we judge difference? the kind of language used? their enjoyment of it? 
-- worth connecting with just how prevalent images are in culture -- Sally Dibb touched on this during [[embodied intelligence meeting notes]] (on Instagram for instance)
-- [[body awareness and emotion]]: this link is important for possible future work: Instagram, harmful content, etc?? But also as possible justification for use of Transparencies?? 
-- Mehling's work on body awareness (phenomenology) is important: [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]] and also [[Mehling - If It All Comes Down to Bodily Awareness]]
-- are we talking about something different from body awareness? see [[definition of body awareness]] and [[five stages of development of body awareness]]. And is there overlap with mindfulness practices, see for instance [[Perez-Pena et al - Mindfulness-Based Interventions and Body Awareness]]. The second [[definition of body awareness#^797422]] is described by Todd and Aspell as being a "multidimensional definition of body awareness" -- but if I think about Transparencies it's actually the step after that ... it's saying something about the influence or effect of this body awareness on what is a creativity task? Big question: what kind of activity/task is Transparencies?  
-- see [[a list of somatic practices]] and in particular what science calls some of the practices
-- could we engage with properties/experiences like openness, imagination, 
-- how do we deal with problem of hypnotizability and interoception (or do we?)? See Žan Zelič, Laura Sebastiani, and Enrica Laura Santarcangelo in Readwise and [here online](https://www.tandfonline.com/doi/epub/10.1080/00207144.2023.2226188?needAccess=true)
+- need to consider trait or dispositional aspects of paying attention to present: dispositional mindfulness (see [[interoception glossary]]) -- that this is likely the case re body awareness as well? 
 - noting in Todd and Aspell maladaptive and adaptive body awareness -- are their tests for this difference? That part of somatic dance training fosters adaptive body awareness??
 - use of term _mindfulness_ in [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]] as "a quality of non-elaborative awareness to current experience and a quality of relating to one’s experience with an orientation of curiosity, experiential openness, and acceptance" (citing Bishop) -- see how this is so close to the state in Transparencies. Link between body awareness, mindfulness, experiential openness and, what, creativity? Or plasticity? 
 - attentional measures like "endogenous orienting and internally induced shifts in attention" [@sze-2010-coherence p.805] (see in [[Jocelyn A. Sze, Anett Gyurak, Joyce W. Yuan, and Robert W. Levenson - Coherence Between Emotional Experience and Physiology Does Body Awareness Training Have an Impact]]). These skills are discussed by (Jha, Krompinger, & Baime, 2007) and the skills are "thought to be critically involved in body awareness" (Craig, 2009; Vaitl, 1996) - in [@sze-2010-coherence p.806]
+- noting just how common the word 'awareness' is in somatics discourse. See [[somatic practices, interoception and evidence]]
+
+
+## miscellaneous 
+
+- in Anil Seth's discussion of the Free Energy Principles he writes that: "The role of the FEP can be understood as motivating and facilitating the interpretation of other, more specific theories; theories which are amenable to refutation by experiment" [@seth-2021-being Loc 3368] (see [[Seth - Being You]]). ^cd2a8f
+
+Email from CW on 26 September 2023: 
+> Two points: the first is that I don't see this enquiry as asking dance to prove itself. For me it is rather what we can learn from dance. Which is why I asked Jane whether she could design a scientific enquiry around the methodology we want to use - rather than vice versa. That is clearly challenging for her. But it would place dance first in the enquiry. The second is the use of transparencies - I do appreciate your reservations, but for the reasons Simon sets out, I think it would be great to use.
+
+
 - Somatics needs "to affirm its value in accordance with society's belief in the objective truth of science."[@ginot-2010-shusterman p.14]
 - "Science thus functions like a validating gaze cast over somatics from afar. Nevertheless, scientists willingly endorse the legitimacy of endogenous somatic methods because they are assumed to go where science does not tread."[@ginot-2010-shusterman p.14] -- related to "a tenacious doxa that physical sensations must irrevocably elude language."[@ginot-2010-shusterman p.13] [[physical sensations and language]]
 
@@ -80,4 +71,5 @@ The broad role of Transparencies can be understood as motivating and facilitatin
 
 > The overall aim is to continue to promote awareness of models of embodiment for the ‘human-being-as-dancer’ by encouraging the next generation of dance science scholars to encompass theories of lived experience alongside objective and quantitative methodologies.[@batson-2012-integrating p.184]
 
-- noting just how common the word 'awareness' is in somatics discourse. See [[somatic practices, interoception and evidence]]
+- see [[a list of somatic practices]] and in particular what science calls some of the practices
+- how do we deal with problem of hypnotizability and interoception (or do we?)? See Žan Zelič, Laura Sebastiani, and Enrica Laura Santarcangelo in Readwise and [here online](https://www.tandfonline.com/doi/epub/10.1080/00207144.2023.2226188?needAccess=true)
