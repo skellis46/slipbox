@@ -9,20 +9,22 @@
 		{"id":"2e3013d7f2f3231d","type":"text","text":"creativity / imagination?","x":1100,"y":-516,"width":250,"height":60},
 		{"id":"c81bfb2aeee15e1d","type":"text","text":"mindfulness?","x":1100,"y":-438,"width":250,"height":60},
 		{"id":"caf60d64ae46e6b2","type":"text","text":"visual processing?","x":1100,"y":-360,"width":250,"height":60},
-		{"id":"5d0e17fc51bc8b73","x":415,"y":-563,"width":250,"height":60,"type":"text","text":"history / process / experiences / data"},
+		{"id":"5d0e17fc51bc8b73","type":"text","text":"history / process / experiences / data","x":415,"y":-563,"width":250,"height":60},
 		{"id":"b04f76158e3b84ca","type":"text","text":"Transparencies","x":-20,"y":-438,"width":320,"height":60},
 		{"id":"e97511deaefc8d02","type":"text","text":"what kind of activity/task is Transparencies?  ","x":415,"y":-300,"width":250,"height":60},
-		{"id":"4ea903203a94904e","x":415,"y":-438,"width":250,"height":60,"type":"text","text":"description"},
-		{"id":"cf23fd974838f669","x":662,"y":-80,"width":250,"height":60,"type":"text","text":"participatory"},
+		{"id":"4ea903203a94904e","type":"text","text":"description","x":415,"y":-438,"width":250,"height":60},
+		{"id":"cf23fd974838f669","type":"text","text":"participatory","x":662,"y":-80,"width":250,"height":60},
 		{"id":"29c965f2fdc6787c","type":"text","text":"complex, multi-faceted interaction","x":662,"y":-3,"width":256,"height":72},
-		{"id":"dda55ee0a5347e4d","x":665,"y":81,"width":250,"height":60,"type":"text","text":"not goal-directed"},
-		{"id":"a0dbe22819562203","x":668,"y":170,"width":250,"height":60,"type":"text","text":"open-ended"},
-		{"id":"a22a4b0087ee12f5","x":668,"y":250,"width":250,"height":60,"type":"text","text":"abstract"},
-		{"id":"53c915796c0c7c31","x":668,"y":330,"width":250,"height":60,"type":"text","text":"process oriented"},
-		{"id":"35421f417cc0f855","x":1100,"y":-270,"width":250,"height":60,"type":"text","text":"See Leder model in Brincker 2015 (p.127)"},
-		{"id":"58ea135f383705c4","x":1400,"y":-273,"width":707,"height":342,"type":"file","file":"assets/leder-model-aesthetic.jpg"},
-		{"id":"bb586e8ee5982c3f","x":1050,"y":290,"width":250,"height":60,"type":"text","text":"any relationship to flow? "},
-		{"id":"4d7c92135f8f4548","x":668,"y":420,"width":250,"height":60,"type":"text","text":"meaning making?"}
+		{"id":"dda55ee0a5347e4d","type":"text","text":"not goal-directed","x":665,"y":81,"width":250,"height":60},
+		{"id":"a0dbe22819562203","type":"text","text":"open-ended","x":668,"y":170,"width":250,"height":60},
+		{"id":"a22a4b0087ee12f5","type":"text","text":"abstract","x":668,"y":250,"width":250,"height":60},
+		{"id":"53c915796c0c7c31","type":"text","text":"process oriented","x":668,"y":330,"width":250,"height":60},
+		{"id":"35421f417cc0f855","type":"text","text":"See Leder model in Brincker 2015 (p.127)","x":1100,"y":-270,"width":250,"height":60},
+		{"id":"4d7c92135f8f4548","type":"text","text":"meaning making?","x":668,"y":420,"width":250,"height":60},
+		{"id":"58ea135f383705c4","type":"file","file":"assets/leder-model-aesthetic.jpg","x":1480,"y":-261,"width":707,"height":342},
+		{"id":"bb586e8ee5982c3f","type":"text","text":"any relationship to flow? ","x":1160,"y":360,"width":250,"height":60},
+		{"id":"456bb4ce3045845e","x":-90,"y":-259,"width":400,"height":400,"type":"link","url":"https://uoa33.coventry.domains/transparencies/"},
+		{"id":"52a7b583ed089cb4","x":1096,"y":-91,"width":284,"height":124,"type":"text","text":"[[Brincker - The Aesthetic Stance – On the Conditions and Consequences of Becoming a Beholder]]"}
 	],
 	"edges":[
 		{"id":"a3773951d7da2245","fromNode":"b04f76158e3b84ca","fromSide":"right","toNode":"e97511deaefc8d02","toSide":"left"},
@@ -44,6 +46,9 @@
 		{"id":"d52758d82ce20d98","fromNode":"b04f76158e3b84ca","fromSide":"right","toNode":"4ea903203a94904e","toSide":"left"},
 		{"id":"9abdb461d18b116d","fromNode":"35421f417cc0f855","fromSide":"right","toNode":"58ea135f383705c4","toSide":"left"},
 		{"id":"75f327c449914845","fromNode":"53c915796c0c7c31","fromSide":"right","toNode":"bb586e8ee5982c3f","toSide":"left"},
-		{"id":"f5bea290b97f7314","fromNode":"e97511deaefc8d02","fromSide":"bottom","toNode":"4d7c92135f8f4548","toSide":"left"}
+		{"id":"f5bea290b97f7314","fromNode":"e97511deaefc8d02","fromSide":"bottom","toNode":"4d7c92135f8f4548","toSide":"left"},
+		{"id":"f40037dafc881127","fromNode":"b04f76158e3b84ca","fromSide":"bottom","toNode":"456bb4ce3045845e","toSide":"top"},
+		{"id":"4a93fca69602867f","fromNode":"35421f417cc0f855","fromSide":"bottom","toNode":"52a7b583ed089cb4","toSide":"top"},
+		{"id":"9a8c166bf2f5f65e","fromNode":"52a7b583ed089cb4","fromSide":"right","toNode":"58ea135f383705c4","toSide":"left"}
 	]
 }
