@@ -15,38 +15,32 @@ _previous note:_ [[embodied intelligence project]]
 
 ### context  
 
-Somatically trained dance artists frequently talk about embodied intelligence and how such intelligences influence their cultural experiences. Yet two things remain unclear: 1) what is meant by embodied intelligence; and 2) how it plays a role in visually-based aesthetic experiences. In _Embodied Intelligence_ we propose to use the choreographic art work _Transparencies_ [@davies-2018-transparencies] as a vehicle and activity to deepen understanding of the complex interactions between images, body awareness and affective responses (including non-conceptual content) while witnessing and engaging with a somatically informed art project. 
+Somatically trained dance artists frequently talk about embodied intelligence and how such intelligence helps them to create a unique lens through which the world is experienced. Yet it remains unclear what is meant by embodied intelligence and the extent to which it influences how one sees and engages with phenomena. In _Embodied Intelligence_ we propose to use the somatically informed art project _Transparencies_ [@davies-2018-transparencies] as a vehicle to deepen cross-disciplinary understanding of the complex interactions between body awareness, affective responses and visual images.
 
-Somatics is the field that studies the the body as it is perceived from the inside [@hanna_what_1995 p.341] and describes various processes and practices which involve "listening deeply to the body."[@eddy_brief_2009 p.6]. Such practices are now fundamental to Western professional contemporary dance training.  
+Somatics is the field that studies the body as it is perceived from the inside [@hanna_what_1995 p.341] and it describes various processes and practices which involve "listening deeply to the body"[@eddy_brief_2009 p.6]. Such practices are now fundamental to Western professional contemporary dance training, and at their core is the idea that being embodied, or embodiment in general, is axiomatically beneficial. link to body awareness here?
 
+Historically, qualitative and post-qualitative somatics research (including that which is published in the flagship Journal of Dance and Somatic Practices) has focused on describing different practices, the presumed efficacy of such practices (particularly re health and well-being), and their utility [see @ellis-2023-somatics]. The claims made by dance-informed researchers on behalf of somatics
+practices are varied: "embodied self-care" [@kampe-2015-eros p.200]; improved "functioning of the mind-body" [@mattes-2016-attentional p.260]; developing spatial awareness [@batson-2007-revisiting]; improved movement efficiency [@batson-2007-revisiting]; become pain free [@eddy-2009-brief]; physical harmony [@mullan-2014-somatics]; etc. 
 
-
-- describe what somatic practices are (body as experienced from the inside): something about body awareness and embodiment
-- claims about somatic practices
-- historically qualitative and post-qualitative somatics research (including that which is published in JDSP) has focused on describing different practices, the presumed efficacy of such practices (particularly re health and well-being), and their utility [see @ellis-2023-somatics].
+Cognitive and neuroscience is increasingly testing some of these claims, and their focus has been on body awareness as a proxy for what dance artists call embodied intelligence.  
 - science increasingly playing a role in testing some of these claims
-- science and somatic practices have a somewhat troubled relationship [e.g. @ginot-2010-shusterman; @batson-2012-integrating; @hutt-2010-corrective; @williamson-2009-formative; @green-2007-american; @mehling-2020-if; @schwartz-2014-this; @wait-2023-improvised]
-- scientific research into somatic practices such as body awareness, "movement-based embodied contemplative practices" [@schmalzl-2014-movementbased p.1]  and other "mindful movement practices" [@mattes-2016-attentional p.258] has attempted to verify the potential benefits of such body-based practices, and potential mechanisms for change. 
+
+fix next sentence == need to mention different naming conventions.
+Scientific research into somatic practices such as body awareness [@mehling-2009-body], "movement-based embodied contemplative practices" [@schmalzl-2014-movementbased p.1], body awareness-enhancing therapies [@mehling-2012-multidimensional] and other "mindful movement practices" [@mattes-2016-attentional p.258] has attempted to verify the potential benefits of such body-based somatic practices, as well as potential mechanisms for change.
+
 - there is reliable scientific evidence that somatic practices (and other mindful movement practices) improve body awareness; also real-world activities (re interoception) like London Trading Floor [@kandasamy-2016-interoceptive]
 
-- acknowledge [[the inexpressible nature of experience]]
-- and revels in "the open-endedness of what can constitute an aesthetic experience" [@brincker-2015-aesthetic p.119]. 
-
+- science and somatic practices have a somewhat troubled relationship [e.g. @ginot-2010-shusterman; @batson-2012-integrating; @hutt-2010-corrective; @williamson-2009-formative; @green-2007-american; @mehling-2020-if; @schwartz-2014-this; @wait-2023-improvised]
 
 - body awareness contributes to our subjective emotional experience [[body awareness and emotion]] -- is Transparencies affording such 'emotional experiences'? (I think it is but then I've been trained in this 'searching' when watching art)
 - or use embodied intelligence as catch all? Sally: "I'm still wrestling with whether we need to be able to understand or 'label' it in some way.  I suppose this would become more important if the project moved onto to consider how this understanding might be used/translated into some kind of output, e.g., that might inform moderation."
 
 ### the challenge the project addresses 
 
-- is it somatic? If so, how? what kinds of instructions does Sue give to the participant? (or will give)
-- Complex perceptual activity (primarily visual), physical action (manipulation/rearrangement of images), imagination, non-conceptual -- emotional, corporeal? To act as an accessible bridge. Somatic activity? Or intellectual? 
-- Transparencies is levelling -- doesn't require pre-knowledge or confidence re movement. But how different from meditation then? (or, say, Feldenkrais). Can we argue that it is essentially a body-less corporeal activity?? (on the surface it is no such thing)
-- but there's no such thing as 'success' when it comes to Transparencies
 
--  are we suggesting that Transparencies is somehow special? Or rather that it is accessible to us and makes things accessible to others? 
 - what is the problem here? What if it is something akin to: "How might we understand what is happening in this practice?"
 - what can we learn from (contemporary) dance in addition to how it functions as an art form? 
-
+- lines between understandings generated through open-ended processes and practices like Transparencies, _and_ different methodological and epistemic approaches. Focus here on arts, but wanting to build dialogues across disciplinary boundaries.
 
 - what if it's starting to unknot the complexity of the dancer responding in T? (name these things: awareness, openness, flexible mentality, non-judgemental, interoceptive ability, body awareness ... etc???)
 - challenge is to understand how T works as a _practice of performance_ and thereby to trouble, qualify, complicate and challenge   
@@ -60,6 +54,8 @@ Somatics is the field that studies the the body as it is perceived from the insi
 
 - The question of transferability – could dancers’ understandings as expressed or observed in a project like Transparencies generalise to other circumstances and activities? (Sally: This seems to cut to the 'purpose' of the research, which seems to be to find out more about the whether dancers embodied intelligence/body awareness/body listening… in some way enhances what they understand in relation to these images ….  And by comparison, how this differs from 'novices'.)
 
+- acknowledge [[the inexpressible nature of experience]]
+- and revels in "the open-endedness of what can constitute an aesthetic experience" [@brincker-2015-aesthetic p.119]. 
 
 - and yet on the surface Transparencies seems to have qualities and processes in common with established methods in other disciplines.
 - hunch is that those people trained in somatic practices are able to access different kinds of experiences differently. 
@@ -100,6 +96,14 @@ _Transparencies_ is not overtly dance. Rather, it is choreographic because it as
 
 The work is also not goal-directed. Davies is not looking for particular things or for audience members to have specific experiences. Davies writes that she is "not looking to find meaning in this process – a meaning can bring solidity and I am looking for movement. I stop looking at the images and instead look through them to others and recognise other ways of doing, connecting, seeing, and appreciating." In this regard, _Transparencies_ has in common other structurally fluid interactive process-based artworks like ... [mention other practices]
 
+
+- is it somatic? If so, how? what kinds of instructions does Sue give to the participant? (or will give)
+- Complex perceptual activity (primarily visual), physical action (manipulation/rearrangement of images), imagination, non-conceptual -- emotional, corporeal? To act as an accessible bridge. Somatic activity? Or intellectual? 
+- Transparencies is levelling -- doesn't require pre-knowledge or confidence re movement. But how different from meditation then? (or, say, Feldenkrais). Can we argue that it is essentially a body-less corporeal activity?? (on the surface it is no such thing)
+- but there's no such thing as 'success' when it comes to Transparencies
+
+-  are we suggesting that Transparencies is somehow special? Or rather that it is accessible to us and makes things accessible to others? 
+
 - note Sally's idea re an initial method/period of 'finding out': "I suggest that we build into the project a kind of methods design phase, where we try out a few ways of using the Transparencies methods to help us ensure its suitability for the people with whom we want to engage."
 	+ 1. qualitative analysis of embodied intelligence of experienced (somatics) practitioners versus novices (ie people not trained in somatic practices) engaged in the Transparencies activity ?; use thematic analysis to inform phase 2?
 	+ 2. quantitative phase: take one or two aspects of the task (emerging from phase 1) and measure these. These measurements would act as ‘somatic markers’ or proxies of the dancers’ embodied intelligence. Perhaps this phase might involve learning/training for inexperienced participants
@@ -129,4 +133,9 @@ The work is also not goal-directed. Davies is not looking for particular things 
 
 _Transparencies'_ structure is fluid. It can be *performed* for one person as a focussed dialogue, or for a larger group of people with differing degrees of engagement. It is a bespoke experience for people. 
 
+affective responses (including non-conceptual content) 
 
+
+
+
+ plays a role in visually-based aesthetic experiences
