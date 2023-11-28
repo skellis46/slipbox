@@ -39,7 +39,7 @@ This zettel is notes that reflect next stage development of what was/is the [[ha
 - Mehling's work on body awareness (phenomenology) is important: [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies]] and also [[Mehling - If It All Comes Down to Bodily Awareness]]
 - are we talking about something different from body awareness? see [[definition of body awareness]] and [[five stages of development of body awareness]]. And is there overlap with mindfulness practices, see for instance [[Perez-Pena et al - Mindfulness-Based Interventions and Body Awareness]]. The second [[definition of body awareness#^797422]] is described by Todd and Aspell as being a "multidimensional definition of body awareness" -- but if I think about Transparencies it's actually the step after that ... it's saying something about the influence or effect of this body awareness on what is a creativity task? Big question: what kind of activity/task is Transparencies?  
 - note that [[self-report measures of visceral awareness]] don't correlate with objective measures (my hunch here is the problem is with the objective measures)
-- list of body awareness scales
+- list of body awareness scales ^5f1187
 	+ MAIA-II interoceptive awareness test
 	+ Body Vigilance Scale (see [[L.S. Merritt Millman - Online Structured DanceMovement Therapy Reduces Bodily Detachment in Depersonalization-Derealization Disorder]])
 	+ Cambridge Depersonalization Scale
