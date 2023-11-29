@@ -26,7 +26,7 @@ Mehling writes that if we hypothesize that "that changes in bodily awareness are
 
 - [[proprioception]]
 - [[interoception science overview]]
-- [[Mehling - Multidimensional Assessment of Interoceptive Awareness]] re MAIA
+- [[Mehling - Multidimensional Assessment of Interoceptive Awareness]] re MAIA and [[Multidimensional Assessment of Interoceptive Awareness – Version 2 (MAIA-2)]]
 
 ---
 
