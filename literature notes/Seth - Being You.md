@@ -269,7 +269,7 @@ _previous note:_ [[losing one's self]]
 > It may even be that action comes first. Instead of picturing the brain as reaching perceptual best guesses in order to then guide behaviour, we can think of brains as fundamentally in the business of generating actions, and continually calibrating these 112actions using sensory signals, so as to best achieve the organism’s goals. This view casts the brain as an intrinsically dynamic, active system, continually probing its environment and examining the consequences. (Location 1821)
 
 
-> Any kind of bodily action will change sensory data in some way, whether it’s moving your eyes, walking into a different room, or tightening your stomach muscles. Even high-level ‘actions’, like 113applying for a new job or deciding to get married, will cascade down into sets of bodily actions which alter sensory inputs. (Location 1834)
+
 
 
 > In the long run, actions are fundamental to learning – which here means improving the brain’s generative models by revealing more 114about the causes of sensory signals, and about the causal structure of the world in general. (Location 1849)
