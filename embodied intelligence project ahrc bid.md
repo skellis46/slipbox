@@ -15,9 +15,9 @@ _previous note:_ [[embodied intelligence project]]
 
 ### context  
 
-Somatically trained dance artists frequently talk about embodied or somatic intelligence and how such intelligence helps them to create a unique lens through which the world is experienced [e.g. @scialom-2020-thinking; @rimmer-piekarczyk-2018-selfsomatic]. Yet it remains unclear what is meant by embodied intelligence and the extent to which it influences how one sees and engages with phenomena. In _Embodied Intelligence_ we propose to use the somatically informed art project _Transparencies_ [@davies-2018-transparencies] as a vehicle to deepen cross-disciplinary understanding of the complex interactions between body awareness, affective responses and visual images.
+Somatically trained dance artists frequently talk about embodied or somatic intelligence and how such intelligence helps them to create a unique lens through which the world is experienced [e.g. @scialom-2020-thinking; @rimmer-piekarczyk-2018-selfsomatic]. Yet it remains unclear what is meant by embodied intelligence and the extent to which it influences how one sees and engages with phenomena. In _Embodied Intelligence_ we propose to use the somatically informed art project _Transparencies_ [@davies-2018-transparencies] as a vehicle to deepen cross-disciplinary understanding of the complex interactions between body awareness, affective responses and visual images. 'specifically our research question is ...
 
-Eddy mentions Howard Gardner's use of term kinesthetic intelligence: Gardner, H. (1993), Creating Minds: An Anatomy of Creativity Seen through the Lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi, NY: Basic Books/Perseus Book Group.
+Eddy mentions Howard Gardner's use of term kinesthetic intelligence: Gardner, H. (1993), Creating Minds: An Anatomy of Creativity Seen through the Lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi. Also Polanyi's work is relevant here: [[we can know more than we can tell]]
 
 Somatics is the field that studies the body as it is perceived from the inside [@hanna_what_1995 p.341] and it describes various processes and practices which involve "listening deeply to the body"[@eddy_brief_2009 p.6]. Such practices are now fundamental to Western professional contemporary dance training (**citation**), and at their core is the belief that being more embodied is beneficial. 
 
@@ -33,6 +33,8 @@ The key element and mechanism of action by which somatic practices -- or what sc
 > Science has opened up to rigorous studies of mindful-movement practices and body-awareness-enhancing approaches. [@mehling-2020-if p.257]
 
 Objective measures of body awareness are limited in that they tend to "test the equivalent of your visual acuity when looking at modern art in a museum, rather than how you process what you see and feel" [@mehling-2020-if p.256]
+
+- see [[the somatic marker hypothesis of Damasio]] and Craig's neural basis for body awareness
 
 Cognitive science and neuroscience are increasingly testing some of these claims, and there is reliable scientific evidence that somatic practices (and other mindful movement practices) improve body awareness 
 
@@ -106,7 +108,7 @@ how you're going to do it and what it builds on
 
 _Transparencies_ (2018) is an art project by choreographer Siobhan Davies. In it Davies works with 1 to 20 participants, and together they stand at a large table and place, arrange, rearrange and overlay more than 100 images printed on acetate paper. The images are mostly single figures caught in a moment of movement, and are drawn from visual art, dance, sports and science. The primary physical motion is the act of moving the photographs, an interaction that is punctuated by periods of quiet reflection and moments of unprompted dialogue. The work is also not goal-directed. Davies is not looking for particular things or for audience members to have specific experiences. In this regard, _Transparencies_ has properties in common with other structurally fluid interactive process-based artworks like _Extended Hermeneutics_ (Lacey, 2019), _Gramsci Monument_ (Hirschhorn, 2013), _A Little Piece of Care_ (Fayard, 2018), and _These Associations_ (Sehgal, 2012). _Transparencies_ is not overtly dance. Rather, it is choreographic because it asks its participants (including Davies herself) to spatially organise and re-organise the images and to notice how these changes _feel_. It draws attention to the body in two ways: 1) the content of the images themselves; 2) reflection on 'where' sensation is directly felt and experienced in the body. 
 
-
+- useful set of ideas in [[interpretative phenomenological analysis]] (taken from wikipedia page): e.g. purposive sampling, homogenuous sampling
 
 
 - is it somatic? If so, how? what kinds of instructions does Sue give to the participant? (or will give)
