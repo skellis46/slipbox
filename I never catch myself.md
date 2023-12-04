@@ -6,7 +6,7 @@ type: "evergreen"
 
 # I never catch myself
 
-_previous note:_ [[Jay L. Garfield - Losing Ourselves]]
+_previous note:_ [[Garfield - Losing Ourselves]]
 
 
 > For my part, when I enter most intimately into what I call _myself,_ I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never catch _myself_ at any time without perception, and never can observe anything but the perception.[David Hume in @garfield-2022-losing Chapter 2 Why You Have No Self, n.pag.]

@@ -19,7 +19,7 @@ from Thomas Nagel, “What Is It Like to Be a Bat?,” The Philosophical Review 
 
 Noting Harris's mention of umwelt ... elsewhere in my notes:
 	+ [[Bridle - Ways of Being]]
-	+ [[Tim Ingold - Making]]
+	+ [[Ingold - Making]]
 
 Harris mentions cognitive neuroscientist Anil Seth's idea that experiences of self are a form of 'controlled hallucination':
 

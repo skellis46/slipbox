@@ -37,7 +37,7 @@ _thoughts & links:_
 - the [[device paradigm and focal things]] seems to link to Hui's description of Dao. That we must not let the Qi stand in for _the path_: "one cannot seek the perfection of technics through the perfection of a tool or a skill, since perfection can only be accomplished by Dao." See [[technics, techne, and technology#^2ef6ed]] for clarity re the term technics
 - contrast with Pirsig's [[knifing into parts]] -- the knife as a tool of analysis and how Quality is a way of holding onto ambiguity.
 - different version of the Ping story is in [[Kabat-Zinn - Wherever You Go, There You Are]]
-- also see [[Jay L. Garfield - Losing Ourselves#^80d9b8]]
+- also see [[Garfield - Losing Ourselves#^80d9b8]]
 - and I recount the story in [[the many practices of practice research]]
 
 

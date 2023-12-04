@@ -28,7 +28,7 @@ There's something about that kind of light (very Viola) in which the body disapp
 - making more of death than death makes of us (back/front mirroring) in [[Annie-B Parson - The Choreography of Everyday Life]]
 - the mirror gazer (from Hollander) in [[Noë - Strange Tools, Art and Human Nature]]
 - Coessens use of mirrors as one of five metaphorical images to explore artistic research [[Coessens - Artistic Paths in Five Images]]
-- seeing what is behind us through rear-view mirror in [[Jay L. Garfield - Losing Ourselves]]
+- seeing what is behind us through rear-view mirror in [[Garfield - Losing Ourselves]]
 - use of mirrors in dance [[Marieke K. van Vugt - Ballet as a Movement-Based Contemplative Practice Implications for Neuroscientific Studies]]
 - Rick Rubin and making art is creating a mirror in [[Rick Rubin - Rubin-2023-Creative]]
 - employer and personified labour looking in the mirror in [[Jenny Odell - Odell-2023-Saving]]

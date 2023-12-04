@@ -7,7 +7,7 @@ type: "literature"
 
 # Suchman - comparing domains of improvisation 
 
-_previous note:_ [[Tim Ingold - Making]]
+_previous note:_ [[Ingold - Making]]
 
 These quotes are from a presentation that Suchman gave in 2020 at Columbia University
 

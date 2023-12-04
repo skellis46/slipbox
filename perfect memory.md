@@ -39,7 +39,7 @@ The video essay could start by covering popular culture: Total Recall, Eternal S
 - how memory makes individual notes a song: [[Claudia Hammond - Time Warped]]
 - distinction between memory and consciousness in [[Annaka Harris - Harris-2019-Conscious]]
 - memory as pattern re-creation (as opposed to retrieval) in [[Andy Clark - Being There Putting Brain, Body, and World Together Again]]
-- memory as part of how selves are constructed in [[Jay L. Garfield - Losing Ourselves]]
+- memory as part of how selves are constructed in [[Garfield - Losing Ourselves]]
 - we will be remembered nowhere in the future -- distinction from one's own memory to the cultural memory of that person. He'll be just as gone as anyone else. See [[Dzieza - Inside the AI Factory - the humans that make tech seem human]] -- the context there is commerical content moderation (!)
 - 
 

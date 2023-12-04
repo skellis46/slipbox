@@ -74,7 +74,7 @@ This note is the beginning of an attempt to draw together several trains of thou
 > Phenomenology, first established by Edmund Husserl, studies consciousness and its embodied processes (Husserl [1900] 1970). Its teachings hold that features of experience appear and transform in consciousness. [@fraleigh-2021-body p.114]
 
 - Fraleigh also mentions non dual awareness and Dogen Zen [@fraleigh-2021-body p.114]. 
-- see also [[Jay L. Garfield - Losing Ourselves]] re immersed phenomenology
+- see also [[Garfield - Losing Ourselves]] re immersed phenomenology
 - and perhaps also [[Seth - Being You]] for more on value of phenomenology
 
 
