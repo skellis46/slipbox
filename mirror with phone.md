@@ -31,7 +31,7 @@ There's something about that kind of light (very Viola) in which the body disapp
 - seeing what is behind us through rear-view mirror in [[Garfield - Losing Ourselves]]
 - use of mirrors in dance [[Marieke K. van Vugt - Ballet as a Movement-Based Contemplative Practice Implications for Neuroscientific Studies]]
 - Rick Rubin and making art is creating a mirror in [[Rick Rubin - Rubin-2023-Creative]]
-- employer and personified labour looking in the mirror in [[Jenny Odell - Odell-2023-Saving]]
+- employer and personified labour looking in the mirror in [[Odell - Saving Time]]
 - human non-human encounters as mirroring (privileging vision) [[Lucy Suchman - Subject Objects]]
 - Weber on enlivenment vs enlightenment in [[Hannah Close - The Poetics of Ecology]]
 - what we don't see when we look in the mirror e.g. [[Magnason - On Time and Water]]
