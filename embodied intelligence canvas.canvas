@@ -23,8 +23,16 @@
 		{"id":"4d7c92135f8f4548","type":"text","text":"meaning making?","x":668,"y":420,"width":250,"height":60},
 		{"id":"58ea135f383705c4","type":"file","file":"assets/leder-model-aesthetic.jpg","x":1480,"y":-261,"width":707,"height":342},
 		{"id":"bb586e8ee5982c3f","type":"text","text":"any relationship to flow? ","x":1160,"y":360,"width":250,"height":60},
-		{"id":"456bb4ce3045845e","type":"link","url":"https://uoa33.coventry.domains/transparencies/","x":-90,"y":-259,"width":400,"height":400},
-		{"id":"52a7b583ed089cb4","type":"text","text":"[[Brincker - The Aesthetic Stance – On the Conditions and Consequences of Becoming a Beholder]]","x":1096,"y":-91,"width":284,"height":124}
+		{"id":"52a7b583ed089cb4","type":"text","text":"[[Brincker - The Aesthetic Stance – On the Conditions and Consequences of Becoming a Beholder]]","x":1096,"y":-91,"width":284,"height":124},
+		{"id":"456bb4ce3045845e","type":"link","url":"https://uoa33.coventry.domains/transparencies/","x":-90,"y":-223,"width":390,"height":292},
+		{"id":"acb4faea03172cd7","x":-300,"y":250,"width":250,"height":60,"color":"2","type":"text","text":"possible methods"},
+		{"id":"d61de16558e617b5","x":71,"y":347,"width":250,"height":50,"type":"text","text":"[[ecological momentary assessment]]"},
+		{"id":"1b93f31c275126b2","x":77,"y":132,"width":250,"height":60,"type":"text","text":"practice-based (in old sense of term)"},
+		{"id":"9d37f6f4506e80cc","x":61,"y":230,"width":270,"height":78,"type":"text","text":"[[interpretative phenomenological analysis]]"},
+		{"id":"1051d14171d19fac","x":83,"y":450,"width":250,"height":60,"type":"text","text":"methods design phase"},
+		{"id":"ca48697a5869e2a2","x":91,"y":563,"width":250,"height":60,"type":"text","text":"qualitative"},
+		{"id":"9d7056ded2fc37eb","x":115,"y":654,"width":250,"height":60,"type":"text","text":"quantitative"},
+		{"id":"647f55d053bdf442","x":443,"y":563,"width":250,"height":60,"type":"text","text":"self report questionnaires"}
 	],
 	"edges":[
 		{"id":"a3773951d7da2245","fromNode":"b04f76158e3b84ca","fromSide":"right","toNode":"e97511deaefc8d02","toSide":"left"},
@@ -49,6 +57,13 @@
 		{"id":"f5bea290b97f7314","fromNode":"e97511deaefc8d02","fromSide":"bottom","toNode":"4d7c92135f8f4548","toSide":"left"},
 		{"id":"f40037dafc881127","fromNode":"b04f76158e3b84ca","fromSide":"bottom","toNode":"456bb4ce3045845e","toSide":"top"},
 		{"id":"4a93fca69602867f","fromNode":"35421f417cc0f855","fromSide":"bottom","toNode":"52a7b583ed089cb4","toSide":"top"},
-		{"id":"9a8c166bf2f5f65e","fromNode":"52a7b583ed089cb4","fromSide":"right","toNode":"58ea135f383705c4","toSide":"left"}
+		{"id":"9a8c166bf2f5f65e","fromNode":"52a7b583ed089cb4","fromSide":"right","toNode":"58ea135f383705c4","toSide":"left"},
+		{"id":"0a550f4bbd5c8780","fromNode":"acb4faea03172cd7","fromSide":"right","toNode":"1b93f31c275126b2","toSide":"left"},
+		{"id":"84d911d43afa79d7","fromNode":"acb4faea03172cd7","fromSide":"right","toNode":"9d37f6f4506e80cc","toSide":"left"},
+		{"id":"e9a1e10cf721690a","fromNode":"acb4faea03172cd7","fromSide":"right","toNode":"d61de16558e617b5","toSide":"left"},
+		{"id":"db5d5697f13f669e","fromNode":"acb4faea03172cd7","fromSide":"right","toNode":"1051d14171d19fac","toSide":"left"},
+		{"id":"dd4de499f6adf893","fromNode":"acb4faea03172cd7","fromSide":"right","toNode":"ca48697a5869e2a2","toSide":"left"},
+		{"id":"4e09b40a2850b147","fromNode":"acb4faea03172cd7","fromSide":"right","toNode":"9d7056ded2fc37eb","toSide":"left"},
+		{"id":"73df9a4ce59fce2a","fromNode":"ca48697a5869e2a2","fromSide":"right","toNode":"647f55d053bdf442","toSide":"left"}
 	]
 }

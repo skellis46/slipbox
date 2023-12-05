@@ -40,21 +40,23 @@ See also [[flow and nonduality]]
 ## methods
 
 - [[ecological momentary assessment]]
-- self-report questionnaires
+- self-report questionnaires (see below)
 
 ## self-report questionnaires
 
 - see also list of body awareness scales in [[embodied intelligence project#^5f1187]]
 - these tests are in the Losing One's Self finder folder:
-		+ Body Awareness Questionnaire [@shields-1989-body]
+		+ Body Awareness Questionnaire [@shields-1989-body] -- apparently this is very dated
 		+ Five Facet Mindfulness Q [@baer-2008-construct]
 		+ [[Multidimensional Assessment of Interoceptive Awareness – Version 2 (MAIA-2)]] [@mehling-2018-multidimensional]
 - also Body Vigilance Scale in [[L.S. Merritt Millman - Online Structured DanceMovement Therapy Reduces Bodily Detachment in Depersonalization-Derealization Disorder]]
+	+ Body Perception Questionnaire? [@kolacz-2023-body]
 
 ## Some possible key structural aspects:
 
-- dance improvisation 
+- dance improvisation (perhaps something useful in [@martin-2019-feeling]?)
 - consciousness and dance improvisation - terminology: awareness, attention, consciousness
+- authentic movement - see [@bacon-2015-authentic] for overview
 - dance and phenomenology (and contrast with [[neurophenomenology]]? -- (see [@lutz-2003-neurophenomenology] and also [@cosmelli-2007-mountains] in Readwise and on PDF). 
 - flow of experience, e.g. <https://read.readwise.io/new/read/01gzdn0v5p8fd6x6veazs5er05> [@cosmelli-2007-mountains]-- analysis of [[binocular rivalry]] to understand flow of subjective experience. This paper is brilliant -- distinctive cf the dance improvisation lit.
 - DMN and TPN [[switch in attentional focus]]

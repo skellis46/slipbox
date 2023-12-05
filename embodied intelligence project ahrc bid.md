@@ -110,6 +110,7 @@ _Transparencies_ (2018) is an art project by choreographer Siobhan Davies. In it
 
 - useful set of ideas in [[interpretative phenomenological analysis]] (taken from wikipedia page): e.g. purposive sampling, homogenuous sampling
 - or possibly [[ecological momentary assessment]]
+- or Body Perception Questionnaire (check out references in this reference): [@kolacz-2023-body]
 
 
 - is it somatic? If so, how? what kinds of instructions does Sue give to the participant? (or will give)
