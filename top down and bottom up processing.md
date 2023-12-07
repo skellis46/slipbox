@@ -23,6 +23,8 @@ For further basic information see:
 - <https://www.verywellmind.com/bottom-up-processing-and-perception-4584296>
 - <https://pubmed.ncbi.nlm.nih.gov/24362813/>
 
+Also here in [[Seth - Being You#^4acfff]]
+
 ---
 
 

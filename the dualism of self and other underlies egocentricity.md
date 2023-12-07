@@ -18,7 +18,7 @@ _previous note:_ [[affect vs emotion]]
 - [[breaking off the human from its sustaining conditions]]
 - [[nature, art and habitat proposal]] re anthropogenic climate change
 
-- this is A link between non duality and climate emergency in that the more we fear death the more we construct a self and then the self disengages us from being in relationship with the biosphere. We become separate. See [[Odell - Saving Time]] and a person who is isolated from effects of climate change. 
+- this is a link between non duality and climate emergency in that the more we fear death the more we construct a self and then the self disengages us from being in relationship with the biosphere. We become separate. See [[Odell - Saving Time]] and a person who is isolated from effects of climate change. 
 
 ---
 
