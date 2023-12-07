@@ -28,7 +28,7 @@ The key element and mechanism of action by which somatic practices -- or what sc
 
 > Body awareness, as we define it here, is the subjective, phenomenological aspect of proprioception and interoception that enters conscious awareness, and is modifiable by mental pro- cesses including attention, interpretation, appraisal, beliefs, memories, conditioning, attitudes and affect. [@mehling-2011-body p.1]
 
-
+- note also mention of embodied self-awareness in [@lamothe-2015-why.pdf] -- see p.212 and Alan Fogel's use of the term 
 
 > Science has opened up to rigorous studies of mindful-movement practices and body-awareness-enhancing approaches. [@mehling-2020-if p.257]
 
