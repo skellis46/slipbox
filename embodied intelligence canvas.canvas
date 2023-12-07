@@ -25,14 +25,14 @@
 		{"id":"bb586e8ee5982c3f","type":"text","text":"any relationship to flow? ","x":1160,"y":360,"width":250,"height":60},
 		{"id":"52a7b583ed089cb4","type":"text","text":"[[Brincker - The Aesthetic Stance – On the Conditions and Consequences of Becoming a Beholder]]","x":1096,"y":-91,"width":284,"height":124},
 		{"id":"456bb4ce3045845e","type":"link","url":"https://uoa33.coventry.domains/transparencies/","x":-90,"y":-223,"width":390,"height":292},
-		{"id":"acb4faea03172cd7","x":-300,"y":250,"width":250,"height":60,"color":"2","type":"text","text":"possible methods"},
-		{"id":"d61de16558e617b5","x":71,"y":347,"width":250,"height":50,"type":"text","text":"[[ecological momentary assessment]]"},
-		{"id":"1b93f31c275126b2","x":77,"y":132,"width":250,"height":60,"type":"text","text":"practice-based (in old sense of term)"},
-		{"id":"9d37f6f4506e80cc","x":61,"y":230,"width":270,"height":78,"type":"text","text":"[[interpretative phenomenological analysis]]"},
-		{"id":"1051d14171d19fac","x":83,"y":450,"width":250,"height":60,"type":"text","text":"methods design phase"},
-		{"id":"ca48697a5869e2a2","x":91,"y":563,"width":250,"height":60,"type":"text","text":"qualitative"},
-		{"id":"9d7056ded2fc37eb","x":115,"y":654,"width":250,"height":60,"type":"text","text":"quantitative"},
-		{"id":"647f55d053bdf442","x":443,"y":563,"width":250,"height":60,"type":"text","text":"self report questionnaires"}
+		{"id":"acb4faea03172cd7","type":"text","text":"possible methods","x":-300,"y":250,"width":250,"height":60,"color":"2"},
+		{"id":"d61de16558e617b5","type":"text","text":"[[ecological momentary assessment]]","x":71,"y":347,"width":250,"height":50},
+		{"id":"1b93f31c275126b2","type":"text","text":"practice-based (in old sense of term)","x":77,"y":132,"width":250,"height":60},
+		{"id":"9d37f6f4506e80cc","type":"text","text":"[[interpretative phenomenological analysis]]","x":61,"y":230,"width":270,"height":78},
+		{"id":"1051d14171d19fac","type":"text","text":"methods design phase","x":83,"y":450,"width":250,"height":60},
+		{"id":"ca48697a5869e2a2","type":"text","text":"qualitative","x":91,"y":563,"width":250,"height":60},
+		{"id":"9d7056ded2fc37eb","type":"text","text":"quantitative","x":115,"y":654,"width":250,"height":60},
+		{"id":"647f55d053bdf442","type":"text","text":"self report questionnaires","x":443,"y":563,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"a3773951d7da2245","fromNode":"b04f76158e3b84ca","fromSide":"right","toNode":"e97511deaefc8d02","toSide":"left"},

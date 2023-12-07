@@ -45,7 +45,7 @@ This zettel is notes that reflect next stage development of what was/is the [[ha
 	+ Cambridge Depersonalization Scale
 	+ mindful attention awareness scale (MAAS) (Brown and Ryan, 2003, in [https://www.sciencedirect.com/topics/psychology/dispositional-mindfulness](https://www.sciencedirect.com/topics/psychology/dispositional-mindfulness)) - in this study they used it for dispositional mindfulness
 	+ five facet mindfulness questionnaire (FFMQ) (Baer, Smith, Hopkins, Krietemeyer, & Toney, 2006, in [https://www.sciencedirect.com/topics/psychology/dispositional-mindfulness](https://www.sciencedirect.com/topics/psychology/dispositional-mindfulness))
-	+ Body Perception Questionnaire - noted in [[Todd, Jennifer and Jane Aspell - Mindfulness, Interoception, and the Body]]
+	+ Body Perception Questionnaire - noted in [[Todd and Aspell - Mindfulness, Interoception, and the Body]]
 	+ Body Consciousness Questionnaire (Miller et al., 1981)
 	+ Body Awareness Questionnaire (BAQ, Shields et al., 1989) 
 	+ The Autonomic Perception Questionnaire—Revised (Mandler et al., 1958; Shields, 1984)

@@ -6,7 +6,7 @@ type: evergreen
 
 # allostasis and body budgeting
 
-_previous note:_ [[Lisa Feldman Barrett - Feldman-Barrett-2020-Seven]]
+_previous note:_ [[Feldman Barrett - Seven and a Half Lessons about the Brain]]
 
 Allostasis refers to the work the body does to budget for its specific needs in anticipation of those needs. 
 
@@ -26,7 +26,7 @@ From Feldman Barrett (which is where the idea really stuck with me -- even thoug
 
 _original source/found:_ 
 
-_reference:_ 
+_reference:_ Feldman Barrett, L. (2021) _Seven and a Half Lessons About the Brain_. Pan Macmillan
 
 
 

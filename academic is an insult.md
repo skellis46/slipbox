@@ -5,7 +5,6 @@ tags: []
 
 # academic is an insult
 
-
 Dieter Lesage is a Belgian philosopher and critic. In 'Who’s Afraid of Artistic Research? On Measuring Artistic Research Output' he outlines the Bologna Process, and in particular the way that process infected the nature of arts practices in the Academy. He described the Bologna process as the "beginning of a fierce battle for the definition of research"[@lesage_whos_2009 p.4]
 
 His hypothesis is that "that the concept of artistic research and the formation of a discourse on artistic research is feared both by groups within the academy and the arts world on the one hand, and by groups within the university and the scientific world on the other hand."[@lesage_whos_2009 p.5]
