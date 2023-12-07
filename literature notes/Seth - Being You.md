@@ -19,29 +19,22 @@ _previous note:_ [[losing one's self]]
 
 > Whether you’re a scientist or not, consciousness is a mystery that matters. For each of us, our conscious experience is all there is. Without it there is nothing at all: no world, no self, no interior and no exterior. (Location 100)
 
-> Without consciousness, it may hardly matter whether you live for another five years or 4another five hundred. In all that time there would be nothing it would be like to be you. (Location 108)
+> Without consciousness, it may hardly matter whether you live for another five years or another five hundred. In all that time there would be nothing it would be like to be you. (Location 108)
 
 > At each stage in this process you exist, but the notion that there is a single unique conscious self (a soul?) that persists over time may be grossly mistaken. Indeed, one of the most compelling aspects of the mystery of consciousness is the nature of self. Is consciousness possible without self-consciousness, and if so would it still matter so much? (Location 116)
 
-> For me, these questions evoke the uncanny sympathy I felt when watching Dave Bowman destroy 5HAL’s personality in the film 2001: A Space Odyssey, by the simple act of removing its memory banks, one by one. (Location 123)
+> For me, these questions evoke the uncanny sympathy I felt when watching Dave Bowman destroy HAL’s personality in the film 2001: A Space Odyssey, by the simple act of removing its memory banks, one by one. (Location 123)
 
 > hope to show you is that by accounting for properties of consciousness, in terms of mechanisms in brains and bodies, the deep metaphysical whys and hows of consciousness become, little by little, less mysterious. (Location 141)
 
 > I use the word ‘wetware’ to underline that brains are not computers made of meat. They are chemical machines as much as they are electrical networks. Every brain that has ever existed has been part of a living body, embedded in and interacting with its environment – an environment which in many cases contains other embodied brains. Explaining the properties of consciousness in terms of biophysical mechanisms requires understanding brains – and conscious minds – as embodied and embedded systems. (Location 143)
 
-> In my view, consciousness has more to do with being alive than with being intelligent. We are conscious selves precisely because we are beast machines. I will make the case that experiences of being you, or of being me, emerge from the way the brain predicts and controls the internal state of the body. The essence of selfhood is neither a rational mind nor an immaterial soul. It is a deeply embodied biological process, a process that underpins the simple feeling of being alive that is the basis for all 7our experiences of self, indeed for any conscious experience at all. Being you is literally about your body. (Location 150)
 
-> By the end of the book, you’ll understand that our conscious experiences of the world and the self are forms of brain-based prediction – ‘controlled hallucinations’ – that arise with, through, and because of our living bodies. (Location 160)
 
 > Our conscious experiences are part of nature just as our bodies are, just as our world is. And when life ends, consciousness will end too. (Location 173)
 
 > The novelist Julian Barnes, in his meditation on mortality, puts it perfectly. When the end of consciousness comes there is nothing – really nothing – to be frightened of. (Location 175)
 
-> This way of putting things is most closely associated with the philosopher Thomas Nagel, who in 1974 published a now legendary article called ‘What is it like to be a bat?’ in which he argued that while we humans could never experience the experiences of a bat, there nonetheless would be something it is like for the bat, to be a bat.* I’ve always favoured Nagel’s approach because it emphasises phenomenology: the subjective properties of conscious experience, such as why a visual experience has the form, structure, and qualities that it does, as compared to the subjective properties of an emotional experience, or of an olfactory experience. These properties are sometimes also called qualia in philosophy: 12the redness of red, the pang of jealousy, the sharp pain or dull throb of a toothache. (Location 191)
-
-> Wherever there is experience, there is phenomenology; and wherever there is phenomenology, there is consciousness. (Location 199)
-
-> The definition of consciousness as ‘any kind of subjective experience whatsoever’ is admittedly simple and may even sound trivial, but this is a good thing. When a complex phenomenon is incompletely understood, prematurely precise definitions can be constraining and even misleading. (Location 228)
 
 > (A ‘mechanism’ – to be clear – can be defined as a system of causally interacting parts that produce effects.) (Location 252)
 
@@ -49,7 +42,6 @@ _previous note:_ [[losing one's self]]
 
 
 > ‘[E]ven when we 16have explained the performance of all the functions in the vicinity of experience – perceptual discrimination, categorization, internal access, verbal report – there may still remain a further unanswered question: Why is the performance of these functions accompanied by experience?’ (Location 254)
-
 - Chalmers quote
 
 > My preferred philosophical position, and the default assumption of many neuroscientists, is physicalism. This is the idea that the universe is made of physical stuff, and that conscious states are either identical to, or somehow emerge from, particular arrangements of this physical stuff. Some philosophers use the term materialism instead of physicalism, but for our purposes they can be treated synonymously. (Location 261)
@@ -76,7 +68,7 @@ _previous note:_ [[losing one's self]]
 > Applying the same strategy to consciousness, in this book I will focus on level, content, and self as the core properties of what being you is all about. (Location 465)
 
 
-> Conscious level concerns ‘how conscious we are’ – on a scale from complete absence of any conscious experience at all, as in coma or brain death, all the way to vivid states of awareness that accompany normal waking life. Conscious content is about what we are conscious of – the sights, sounds, smells, emotions, moods, thoughts, and beliefs that make up our inner universe. Conscious contents are all varieties of perception – brain-based interpretations of sensory signals that collectively make up our conscious experiences. (Perception, as we will see, can be both conscious and unconscious.) Then there’s conscious self – the specific experience of being you, 31and the guiding theme of this book. The experience of ‘being a self’ is a subset of conscious contents, encompassing experiences of having a particular body, a first-person perspective, a set of unique memories, as well as experiences of moods, emotions, and ‘free will’. Selfhood is probably the aspect of consciousness that we cling to most tightly, so tightly that it can be tempting to confuse self-consciousness (the experience of being a self) with consciousness itself (the presence of any kind of subjective experience, of any phenomenology, whatsoever). (Location 467)
+> Conscious level concerns ‘how conscious we are’ – on a scale from complete absence of any conscious experience at all, as in coma or brain death, all the way to vivid states of awareness that accompany normal waking life. Conscious content is about what we are conscious of – the sights, sounds, smells, emotions, moods, thoughts, and beliefs that make up our inner universe. Conscious contents are all varieties of perception – brain-based interpretations of sensory signals that collectively make up our conscious experiences. (Perception, as we will see, can be both conscious and unconscious.) Then there’s conscious self – the specific experience of being you, 31and the guiding theme of this book. The experience of ‘being a self’ is a subset of conscious contents, encompassing experiences of having a particular body, a first-person perspective, a set of unique memories, as well as experiences of moods, emotions, and ‘free will’. Selfhood is probably the aspect of consciousness that we cling to most tightly, so tightly that it can be tempting to confuse self-consciousness (the experience of being a self) with consciousness itself (the presence of any kind of subjective experience, of any phenomenology, whatsoever). (Location 467) ^8313d4
 
 
 > There are as many different ways of being conscious as there are different conscious organisms. (Location 483)
@@ -114,16 +106,10 @@ _previous note:_ [[losing one's self]]
 > An important consequence of taking multidimensional levels of consciousness seriously is that sharp distinctions between conscious level and conscious content disappear. It becomes meaningless to completely separate how conscious you are from what you are conscious of. A ‘one size fits all’ measure of consciousness – of 48the sort we might expect if we take the temperature analogy too literally – may never be enough. (Location 797)
 
 
-> In the psychedelic state, vivid perceptual hallucinations are frequently accompanied by unusual experiences of selfhood often described as ‘ego dissolution’, where the boundaries between self and world, and other people, appear to shift or dissolve. These departures from ‘normal’ conscious experience are so pervasive that the psychedelic state might represent not only a change 49in conscious contents, but also a change in overall conscious level. (Location 811)
-
-
 > Tononi and Edelman asked what was characteristic about conscious experiences in general. They made a simple but profound observation: that conscious experiences – all conscious experiences – are both informative and integrated. From this starting point, they made claims about the neural basis of every conscious experience, not just of specific experiences of seeing red, or feeling jealous, or suffering a toothache. (Location 865)
 
 
 > Conscious experiences are 53informative because every conscious experience is different from every other conscious experience that you have ever had, ever will have, or ever could have. (Location 871)
-
-
-> At any one time we have precisely one conscious experience out of vastly many possible conscious experiences. Every conscious experience therefore delivers a massive reduction of uncertainty, since this experience is being had, and not that experience, or that experience, and so on. And reduction of uncertainty is – mathematically – what is meant by information. (Location 876)
 
 
 > On this view, the ‘what-it-is-like-ness’ of any specific conscious experience is defined not so much by what it is, but by all the unrealised but possible things that it is not. An experience of pure redness is the way that it is, not because of any intrinsic property of ‘redness’, but because red is not blue, green, or any other colour, or any smell, or a thought or a feeling of regret or indeed any other form of mental content whatsoever. Redness is redness because of all the things it isn’t, and the same goes for all other conscious experiences. (Location 882)
@@ -165,15 +151,12 @@ _previous note:_ [[losing one's self]]
 > When trying to form perceptions, all the brain has to go on is a constant barrage of electrical signals which are only indirectly related to things out there in the world, whatever 76they may be. (Location 1283)
 
 
-> A coffee cup out there in the world leads to a perception of a coffee cup generated within the brain. As to who or what is doing the perceiving – well, that’s the ‘self’, isn’t it, the ‘I behind the eyes’ one might say, the recipient of wave upon 77wave of sensory data, which uses its perceptual readouts to guide behaviour, to decide what to do next. There’s a cup of coffee over there. I perceive it and I pick it up. I sense, I think, and then I act. (Location 1297)
-
-- [[losing one's self]]: the language of I is a massive limitation. Avoid it?
 
 
 > But Wittgenstein was driving at something deeper. His real message for Anscombe was that even with a greater understanding of how things actually are, at some level things still appear the same way they always did. The sun rises in the east and sets in the west, same as always. (Location 1338)
 
 
-> Perceptions do not come from the bottom up or the outside in, they come primarily from the top down, or the inside out. What we experience is built from the brain’s predictions, or ‘best guesses’, about the causes of sensory signals. (Location 1346)
+> Perceptions do not come from the bottom up or the outside in, they come primarily from the top down, or the inside out. What we experience is built from the brain’s predictions, or ‘best guesses’, about the causes of sensory signals. (Location 1346) ^4acfff
 
 
 > This is by no means a wholly new idea. The first glimmers of a top-down theory of perception emerge in ancient Greece, with Plato’s Allegory of the Cave. Prisoners, chained and facing a blank wall all their lives, see only the play of shadows cast by objects passing by a fire behind them, and they give the shadows names, because for them the shadows are what is real. The allegory is that our own conscious perceptions are just like these shadows, indirect reflections of hidden causes that we can never directly encounter. (Location 1349)
