@@ -61,7 +61,7 @@ _thoughts & links:_
 - #practice-research 
 
 
->owing to the academic interest in accumulation, their activities have as an objective a singular shared interpretation of content.[@biggs_communities_2011 p.92]
+> owing to the academic interest in accumulation, their activities have as an objective a singular shared interpretation of content.[@biggs_communities_2011 p.92]
 
 - this is intriguing and I'm not sure I agree. I like to imagine that accumulation can still be important even if an interpretation of content is polysemous. That is, accumulation is not dependent on singularity. 
 
