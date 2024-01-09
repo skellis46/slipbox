@@ -52,6 +52,9 @@ See also [[flow and nonduality]]
 - also Body Vigilance Scale in [[L.S. Merritt Millman - Online Structured DanceMovement Therapy Reduces Bodily Detachment in Depersonalization-Derealization Disorder]]
 	+ Body Perception Questionnaire? [@kolacz-2023-body]
 
+> (a) Questionnaires are instruments distant from the process. The least accurate instruments are, for example, questionnaires pertaining to bodily perception (example: Autonomic Perception Questionnaire, APQ, Mandler et al., 1958; overview on other questionnaires, see Weitkunat, 1987). These questionnaires give an indication of the judgements of subjects about their interoceptive capabilities; a correlation with physiologically measurable parameters usually is not found. [@vaitl-1996-interoception] 
+
+
 ## Some possible key structural aspects:
 
 - dance improvisation (perhaps something useful in [@martin-2019-feeling]?)
