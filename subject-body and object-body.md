@@ -17,6 +17,8 @@ Curious how the term "to whom I feel exposed" hints at judgement and the appeara
 
 - love their use of the term "efface" 
 - authors draw analogy with body schema (akin to body-subject) and body image (body-object)
+- [[confusing self-consciousness with consciousness]]
+- [[losing one's self]]
 
 ---
 
