@@ -10,7 +10,7 @@ date published: 2023-09-19
 ---
 # an object of special regard
 
-_previous note:_ [[whole physical body minus the qbrain]]
+_previous note:_ [[whole physical body minus the brain]]
 
 Dear
 
