@@ -13,7 +13,7 @@ _previous note:_ [[a stable sense of self is rooted in the lungs, heart and gut]
 See also [onlinelibrary.wiley.com/doi/10.1111/j.1600-0447.1995.tb09764.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0447.1995.tb09764.x)
 
 - [[index -- artistic practice]] -- just including as possible idea (really grabs my attention!)
-- [[losing one's self]]
+- [[losing oneself]]
 - [[interoception glossary]]
 ---
 

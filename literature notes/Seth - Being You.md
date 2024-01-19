@@ -6,7 +6,7 @@ type: literature
 
 # Anil Seth - Being You: A New Science of Consciousness
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 > The Brain—is wider than the Sky— For—put them side by side— The one the other will contain With ease—and You—beside—
 -- Emily Dickinson (Location 32)
@@ -257,7 +257,7 @@ _previous note:_ [[losing one's self]]
 
 > We probably don’t think much about proprioception because, in some sense, it’s always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of 115paying attention – a kind of ‘disattention’ to the body, which allows it to move. (Location 1860)
 
-- above re [[losing one's self]]
+- above re [[losing oneself]]
 
 > Thinking about action in this way underlines how action and perception are two sides of the same coin. Rather than perception being the input and action being the output with respect to some central ‘mind’, action and perception are both forms of brain-based prediction. Both depend on a common process of Bayesian best guessing, on a carefully choreographed dance between perceptual predictions and sensory prediction errors, just with differences in who leads and who follows. (Location 1867)
 
@@ -353,7 +353,7 @@ _previous note:_ [[losing one's self]]
 
 > The OBE-like experiences that sometimes accompany epileptic seizures can also be traced to disruptions in these processes. These experiences are usually divided into autoscopic hallucinations – in which you see your surroundings from a different perspective – and heautoscopic hallucinations (also known as doppelgänger hallucinations) – in which you see yourself from a different perspective. (Location 2572)
 
-- above re [[losing one's self]], [[mirror with phone]] and [[perfect memory]]
+- above re [[losing oneself]], [[mirror with phone]] and [[perfect memory]]
 
 > The aim of BeAnotherLab is to adapt body-swapping technology into novel ‘empathy generation’ devices. By experiencing what it’s like to perceive the world from within the virtual body of another, their idea is that empathy for the other’s situation will naturally follow. (Location 2591)
 
@@ -378,7 +378,7 @@ _previous note:_ [[losing one's self]]
 
 > These higher reaches of selfhood are fully dissociable from the embodied self. Many non-human animals, as well as human infants, may experience embodied selfhood without having – or missing – any accompanying sense of personal identity. (Location 2639)
 
-- Note: Conflation of [[embodiment]] with selfhood! ([[losing one's self]])
+- Note: Conflation of [[embodiment]] with selfhood! ([[losing oneself]])
 
 
 > The kind of memory Clive has lost is his episodic, autobiographical memory – memory of events located in time and space (episodic), including, most importantly, those events involving himself (autobiographical). His diaries make for harrowing reading. They are filled with repeated descriptions of a ‘first’ awakening, one after the other, with previous assertions – some written just moments ago – crossed out and sometimes angrily obliterated. 8:31am       Now I am really, completely, awake 9:06am       Now I am perfectly, overwhelmingly awake 9:34am       Now I am superlatively, actually awake (Location 2651)
@@ -430,7 +430,7 @@ _previous note:_ [[losing one's self]]
 
 > Underneath the layered expressions of selfhood involving memories of the past and plans for the future, before the explicit sense of personal identity, beneath the ‘I’ and even prior to the emergence of a first-person perspective and experiences of body ownership, there are deeper layers of selfhood still to be found. These bedrock layers are intimately tied to the interior of the body, rather than to the body as an object in the world, and they range from emotions and moods – what psychologists call ‘affective’ experiences – to a basal, formless, and ever-present sense of simply ‘being’ an embodied, living organism. (Location 2861)
 
-- above re [[authentic movement]] and [[losing one's self]]
+- above re [[authentic movement]] and [[losing oneself]]
 
 
 > The key property of interoceptive signals is that they reflect, in one way or another, how well physiological regulation of the body is going. In other words, how good a job the brain is doing of keeping its body alive. (Location 2878)

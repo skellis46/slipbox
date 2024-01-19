@@ -28,7 +28,7 @@ Note above the way in which we tend to conflate embodiment with selfhood. This i
 
 - [[perfect memory]]: thinking here about autobiographical memory and certainty, contrasted with the plasticity of embodiment. 
 - [[mirror with phone]]: some replication of rubber hand illusion (involves mirrors). Who am I in this? 
-- [[losing one's self]]: Seth gets right into this regarding the body; see for instance [[out of body experiences]]
+- [[losing oneself]]: Seth gets right into this regarding the body; see for instance [[out of body experiences]]
 
 
 

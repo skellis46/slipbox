@@ -8,7 +8,7 @@ type: evergreen
 
 _previous note:_ [[embodied intelligence project]]
 
-- [[losing one's self]]
+- [[losing oneself]]
 
 > The Multidimensional Assessment of Interoceptive Awareness – Version 2 (MAIA-2) is an 8-subscale state-trait self-report questionnaire to measure multiple dimensions of interoception (awareness of bodily sensations). The MAIA-2 is suitable for adults (18+) and has 37 items.[@mehling-2018-multidimensional n.pag.]
 

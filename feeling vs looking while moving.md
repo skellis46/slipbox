@@ -14,7 +14,7 @@ The audio is above with full transcription below but drawing attention here to t
 
 >  Instead of watching the movement or observing the movement, it was simply to feel the movement, to feel the sensations of the movement. And in the feeling language, that's from the inside.
 
-This is absurdly obvious for any somatically-trained mover but I enjoyed hearing how strong the realisation was for Goldstein. But it also relates strongly to nonduality and how (as a matter of direct experience) corporeal sensations are fundamental in consciousness. Keeping this in mind for [[losing one's self]].
+This is absurdly obvious for any somatically-trained mover but I enjoyed hearing how strong the realisation was for Goldstein. But it also relates strongly to nonduality and how (as a matter of direct experience) corporeal sensations are fundamental in consciousness. Keeping this in mind for [[losing oneself]].
 
 
 ## transcription

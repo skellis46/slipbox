@@ -6,7 +6,7 @@ type: evergreen
 
 # we become strangers to ourselves
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 > Being alienated from myself, as painful as that may be, provides me with that exquisite distance within which perverse pleasure begins, as well as the possibility of my imagining and thinking (Kristeva, Strangers to Ourselves, pp.13-14)
 

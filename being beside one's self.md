@@ -6,7 +6,7 @@ type: evergreen
 
 # being beside one's self
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 Link to web page with overview of etymology of being beside oneself: [Beside yourself? Where’s that?](https://www.grammarphobia.com/blog/2015/03/beside-onerself.html)
 

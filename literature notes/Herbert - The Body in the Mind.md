@@ -8,7 +8,7 @@ readwise: https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x#
 
 # Herbert and Pollatos - The Body in the Mind: On the Relationship Between Interoception and Embodiment
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 
 > activation of interoceptive representations and meta-representations of bodily signals supporting interoceptive awareness are profoundly associated with emotional experience and cognitive functions. [@herbert-2012-body n.pag.]

@@ -7,7 +7,7 @@ platform: ""
 # somatic practices, interoception and evidence
 - 'interoception, somatics and science: this is the time'
 
-- [[losing one's self]]
+- [[losing oneself]]
 - many of these ideas also presented in July 2023 at Somatics Conference in [[somatics unlimited]]
 
 ## various notes, thoughts and plans to start

@@ -19,7 +19,7 @@ I remember being born (film from Adrienne)
 I remember dancing. Or "remembering dancing. Remembering being born." (without subject). Inspired by [[Annie-B Parson - The Choreography of Everyday Life]] - and her list of tears
 Falling in love. 
 Start as video essay and dissolve into film about losing everything????
-Relate to sense of self? Of no self? [[losing one's self]]
+Relate to sense of self? Of no self? [[losing oneself]]
 
 
 The video essay could start by covering popular culture: Total Recall, Eternal Sunshine, Momento, that other film about drug use (!!), etc. Better that it start directly in the narrative. And diverge out into 'video essay'. 

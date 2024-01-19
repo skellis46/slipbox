@@ -6,7 +6,7 @@ type: evergreen
 
 # totally unselfconscious in the presence of other people
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 > Totally unselfconscious in the presence of other people ... it's a pristine experience of voyeurism. Sam Harris. 19:20min The Mirror of Consciousness, from the Waking Up app:
 

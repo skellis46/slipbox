@@ -13,7 +13,7 @@ _previous note:_ [[Millman - Towards a Neurocognitive Approach to Dance Movement
 
 -- [@millman-2021-neurocognitive p.25]
 
-- [[losing one's self]]
+- [[losing oneself]]
 
 ---
 

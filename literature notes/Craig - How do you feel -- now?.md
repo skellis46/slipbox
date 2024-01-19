@@ -10,7 +10,7 @@ readwise: https://readwise.io/reader/document_raw_content/77190903
 
 # Craig - How do you feel — now? The anterior insula and human awareness
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 - [[embodied intelligence project]]
 - [[harmful content project preparation]]

@@ -13,7 +13,7 @@ _previous note:_ [[nonduality]]
 - I have copy of Bishop et al 2004
 - really like this definition by Bishop et al. The one by Kabat-Zinn is the most commonly used (to the extent that it would be weird not to include it if discussing mindfulness)
 - ought to look into that concept of nonelaborative awareness
-- [[losing one's self]]
+- [[losing oneself]]
 
 ---
 

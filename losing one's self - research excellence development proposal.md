@@ -6,7 +6,7 @@ type: evergreen
 
 # losing one's self - research excellence development proposal
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 ## Description of activities to be undertaken
 

@@ -6,7 +6,7 @@ type: evergreen
 
 # ecological momentary assessment
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 > Another technique is to collect contextual data about lived experience such as through ecological momentary assessment, which does not rely on retrospective accounts and is thus less vulnerable to recall bias (Vartanian et al. [2014](https://link.springer.com/article/10.1007/s12671-018-0995-z#ref-CR65)). [@krageloh-2019-phenomenological p.23]
 

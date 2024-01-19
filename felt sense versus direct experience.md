@@ -18,7 +18,7 @@ From Lola Maury's PhD:
 
 But weird re blurry -- there's nothing blurry for me about the direct experiences (temp, movement, tingling, tension)
 
-- [[losing one's self]] -- direct experience??
+- [[losing oneself]] -- direct experience??
 
 ---
 

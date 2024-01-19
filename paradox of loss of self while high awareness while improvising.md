@@ -6,7 +6,7 @@ type: evergreen
 
 # paradox of loss of self while high awareness while improvising
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 This is the key paradox really. Sense of loss of self as in [[nondual awareness]] but with high [[task positive network]] and sense of awareness. This is happening to me. Not sure below quote is the best (there are others from [[Garfield - Losing Ourselves]]) -- for instance [[distinguishing ego-involved and ego-less experiences]] -- but it's a start.
 

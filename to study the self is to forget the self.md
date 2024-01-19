@@ -10,7 +10,7 @@ _previous note:_ [[what the self feels like]]
 
 > To study the Buddha way is to study the self. To study the self is to forget the self. To forget the self is to be actualized by myriad things. When actualized by myriad things, your body and mind as well as the bodies and minds of others drop away. No trace of realization remains, and this no-trace continues endlessly” (Dōgen & Tanahashi, 1985, p. 70). --
 
-- [[losing one's self]]
+- [[losing oneself]]
 
 ---
 

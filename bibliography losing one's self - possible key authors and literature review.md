@@ -6,7 +6,7 @@ type: evergreen
 
 # bibliography - losing one's self - possible key authors and literature review
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 ## to read for losing one's self
 

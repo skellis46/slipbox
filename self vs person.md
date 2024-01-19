@@ -15,7 +15,7 @@ _previous note:_ [[body being known]]
 - [[an object of special regard]]
 - [[is all research embodied?]]
 - [[pressure, stress and strain - the body in time]]
-- [[losing one's self]]
+- [[losing oneself]]
 
 ---
 

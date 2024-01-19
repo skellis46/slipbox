@@ -10,7 +10,7 @@ type: evergreen
 
 _previous note:_ 
 
-idea of using a mirror with phone -- some kind of combination. (from the film in [Eliasson's resource section](https://olafureliasson.net/inrealliferesources/) -- a film by Natasha Mendonca called [Movements are facts](https://www.soe.tv/videos/movements-are-facts-excerpt)) — from Eliasson exhibition all those years ago (13 August 2019). Links to some of images I took at the exhibition are at [[olafur eliasson images]]. Could plausibly link to [[losing one's self]]. For example, this morning (19 September 2023) I happened to see myself in my phone as the bedside light was slowly warming up. This is the photo:
+idea of using a mirror with phone -- some kind of combination. (from the film in [Eliasson's resource section](https://olafureliasson.net/inrealliferesources/) -- a film by Natasha Mendonca called [Movements are facts](https://www.soe.tv/videos/movements-are-facts-excerpt)) — from Eliasson exhibition all those years ago (13 August 2019). Links to some of images I took at the exhibition are at [[olafur eliasson images]]. Could plausibly link to [[losing oneself]]. For example, this morning (19 September 2023) I happened to see myself in my phone as the bedside light was slowly warming up. This is the photo:
 
 ![[morning-selfie.jpg|300]]
 
@@ -29,7 +29,7 @@ There's something about that kind of light (very Viola) in which the body disapp
 - the mirror gazer (from Hollander) in [[Noë - Strange Tools, Art and Human Nature]]
 - Coessens use of mirrors as one of five metaphorical images to explore artistic research [[Coessens - Artistic Paths in Five Images]]
 - seeing what is behind us through rear-view mirror in [[Garfield - Losing Ourselves]]
-- use of mirrors in dance [[Marieke K. van Vugt - Ballet as a Movement-Based Contemplative Practice Implications for Neuroscientific Studies]]
+- use of mirrors in dance [[van Vugt - Ballet as a Movement-Based Contemplative Practice Implications for Neuroscientific Studies]]
 - Rick Rubin and making art is creating a mirror in [[Rick Rubin - Rubin-2023-Creative]]
 - employer and personified labour looking in the mirror in [[Odell - Saving Time]]
 - human non-human encounters as mirroring (privileging vision) [[Lucy Suchman - Subject Objects]]

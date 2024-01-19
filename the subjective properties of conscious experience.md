@@ -16,7 +16,7 @@ _previous note:_ [[qualia - the knowledge argument and mary's room]]
 
 I like this simple idea of phenomenology as "the subjective properties of conscious experience".
 
-- [[losing one's self]]
+- [[losing oneself]]
 - [[embodied intelligence project]]
 
 ---

@@ -14,7 +14,7 @@ _previous note:_ [[soma is tied to personal consciousness]]
 
 This captures the paradox of consciousness so perfectly. That 'self' is attached to thinking but without the awareness that we are thinking. When we simply notice (and enter the flow of consciousness) there is no self.
 
-- this is also describing (as I understand it) the [[DMN]] and it's a potentially useful idea for [[losing one's self]]
+- this is also describing (as I understand it) the [[DMN]] and it's a potentially useful idea for [[losing oneself]]
 
 ---
 

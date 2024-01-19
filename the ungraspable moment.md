@@ -6,7 +6,7 @@ type: evergreen
 
 # the ungraspable moment
 
-_previous note:_ [[losing one's self]]
+_previous note:_ [[losing oneself]]
 
 These brief notes are from James Low's contribution to Waking Up app. It's the session called _The Ungraspable Moment_:
 
