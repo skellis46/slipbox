@@ -1,13 +1,13 @@
 ---
 aliases: 
 tags:
-  - embodied_intelligence
+  - somatics-body-awareness-transparencies
 type: evergreen
 ---
 
-# embodied intelligence project ahrc bid
+# somatics-body-awareness-transparencies project ahrc bid
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 ## Summary 500
 
@@ -41,9 +41,6 @@ Objective measures of body awareness are limited in that they tend to "test the 
 
 Experienced mind-body therapists view body awareness as inseparable from embodied self-awareness [@mehling-2011-body]. Similarly we propose that the term embodied intelligence is indistinguishable from body awareness, and this research focuses on body awareness during the complex visual-affective process in _Transparencies_ (2018).
 
-
-
-
 > Body awareness, as we define it here, is the subjective, phenomenological aspect of proprioception and interoception that enters conscious awareness, and is modifiable by mental processes including attention, interpretation, appraisal, beliefs, memories, conditioning, attitudes and affect. [@mehling-2011-body p.1]
 
 - note also mention of embodied self-awareness in [@lamothe-2015-why.pdf] -- see p.212 and Alan Fogel's use of the term 
@@ -54,7 +51,7 @@ Experienced mind-body therapists view body awareness as inseparable from embodie
 
 - see [[the somatic marker hypothesis of Damasio]] and Craig's neural basis for body awareness
 
-Cognitive science and neuroscience are increasingly testing some of these claims, and there is reliable scientific evidence that somatic practices (and other mindful movement practices) improve body awareness 
+Cognitive science and neuroscience are increasingly testing some of these claims, and there is reliable scientific evidence that somatic practices (and other mindful movement practices) improve body awareness (citation?)
 
 also real-world activities (re interoception) like London Trading Floor [@kandasamy-2016-interoceptive]
 
@@ -101,7 +98,7 @@ also real-world activities (re interoception) like London Trading Floor [@kandas
 - partnership building 
 - relationship of T to already existing photo-oriented methods
 - Might a more quantitative and qualitative understanding of the things ‘we do’ in dance help generate broader understanding (and perhaps even value) for the importance of embodied understandings (whatever such an understanding is)?
-- The broad role of Transparencies can be understood as motivating and facilitating the interpretation of other, more specific theories ... etc. (which perhaps is where Jane's role is?) (this from [[embodied intelligence project#^cd2a8f]])
+- The broad role of Transparencies can be understood as motivating and facilitating the interpretation of other, more specific theories ... etc. (which perhaps is where Jane's role is?) (this from [[somatics-body-awareness-transparencies project#^cd2a8f]])
 
 ### potential applications and benefits
 

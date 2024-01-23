@@ -22,7 +22,7 @@ I actually think the notes on the [wikipedia page](https://en.wikipedia.org/wiki
 - double hermeneutic: "the analyst attempts to make sense of the participant's attempts to make sense of their own experiences"
 - bottom-up -- generating codes from the data (from data analysis)
 
-- very useful collection of possibilities for [[embodied intelligence project]]
+- very useful collection of possibilities for [[somatics-body-awareness-transparencies project]]
 
 ---
 

@@ -4,7 +4,7 @@ tags:
 type: evergreen
 ---
 
-# embodied intelligence - annotated bibliography
+# somatics-body-awareness-transparencies - annotated bibliography
 
 _previous note:_ 
 

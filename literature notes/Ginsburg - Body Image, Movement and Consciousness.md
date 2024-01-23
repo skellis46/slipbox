@@ -14,7 +14,7 @@ _previous note:_ [[ginot - epistemology of somatics]]
 
 > On the other hand I can develop my awareness in such a way that my experience of my acting is rich with knowing my self-orientation, my relation to space and gravity, my sense of timing, and I will stand elegantly and efficiently using a minimum of muscular effort. [@ginsburg-1999-body p.80]
 
-- this quote useful for [[embodied intelligence project]] as a position or stance (self-orientation etc), but what is afforded by this framing or position?
+- this quote useful for [[somatics-body-awareness-transparencies project]] as a position or stance (self-orientation etc), but what is afforded by this framing or position?
 
 > It is odd that we have made the activity of sentience into a noun. We say consciousness and not consciousing, implying that consciousness is a thing. Yet for other related activities we say we are sleeping or that we are dreaming. [@ginsburg-1999-body p.79]
 

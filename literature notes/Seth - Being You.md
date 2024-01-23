@@ -489,7 +489,7 @@ _previous note:_ [[losing oneself]]
 
 > We are not cognitive computers, we are feeling machines. (Location 3149)
 
-- above re [[embodied intelligence project]]
+- above re [[somatics-body-awareness-transparencies project]]
 
 
 > insular cortex: See Barrett & Simmons (2015) and Craig (2009) for more on the role of the insular cortex in interoception. (Location 3161)
@@ -533,7 +533,7 @@ _previous note:_ [[losing oneself]]
 
 > The role of the FEP can be understood as motivating and facilitating the interpretation of other, more specific theories; theories which are amenable to refutation by experiment. (Location 3368)
 
-- Note above re [[embodied intelligence project]] and strategy for Jane's involvement
+- Note above re [[somatics-body-awareness-transparencies project]] and strategy for Jane's involvement
 
 ---
 _reference:_ Seth, A. (2021) _Being You: A New Science of Consciousness_. London: Faber & Faber

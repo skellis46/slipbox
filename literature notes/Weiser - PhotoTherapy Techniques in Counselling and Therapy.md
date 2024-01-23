@@ -7,7 +7,7 @@ readwise: https://readwise.io/reader/document_raw_content/96521806
 
 # # Weiser - PhotoTherapy Techniques in Counselling and Therapy -- Using Ordinary Snapshots and Photo-Interaction
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 > All photos that people take and keep, whether for artistic purposes or simply their own ordinary snapshots and family photos, are much like "mirrors with memory"i, serving as markers of what (and who) has mattered most, and later talismans holding back the blurring that advancing years impose. [@weiser-2004-phototherapy p.23]
 

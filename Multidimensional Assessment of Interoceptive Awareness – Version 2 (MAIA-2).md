@@ -6,7 +6,7 @@ type: evergreen
 
 # Multidimensional Assessment of Interoceptive Awareness – Version 2 (MAIA-2)
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 - [[losing oneself]]
 

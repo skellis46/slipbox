@@ -12,7 +12,7 @@ readwise: https://readwise.io/reader/document_raw_content/77190903
 
 _previous note:_ [[losing oneself]]
 
-- [[embodied intelligence project]]
+- [[somatics-body-awareness-transparencies project]]
 - [[harmful content project preparation]]
 
 > Critchley et al. reported functional MRI (fMRI) and morphometric data indicating a specific role for the right AIC in heartbeat awareness3, an interoceptive measure that correlates with individual subjective emotional awareness4.[@budcraig-2009-how p.59]

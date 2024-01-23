@@ -7,7 +7,7 @@ readwise: https://readwise.io/reader/document_raw_content/96494143
 
 # Vaitl - Interoception
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 > Interoception is a general concept which includes two different forms of perception: proprioception and visceroception. [@vaitl-1996-interoception p.1]
 

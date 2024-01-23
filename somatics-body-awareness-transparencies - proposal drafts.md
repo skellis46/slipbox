@@ -1,13 +1,13 @@
 ---
 aliases: 
 tags:
-  - embodied_intelligence
+  - somatics-body-awareness-transparencies
 type: evergreen
 ---
 
 # embodied intelligence - proposal drafts
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 ## chatGPT-assisted proposal from CW on 28 September 2023
 

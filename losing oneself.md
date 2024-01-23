@@ -45,7 +45,7 @@ See also [[flow and nonduality]]
 
 ## self-report questionnaires
 
-- see also list of body awareness scales in [[embodied intelligence project#^5f1187]]
+- see also list of body awareness scales in [[somatics-body-awareness-transparencies project#^5f1187]]
 - these tests are in the Losing One's Self finder folder:
 		+ Body Awareness Questionnaire [@shields-1989-body] -- apparently this is very dated
 		+ Five Facet Mindfulness Q [@baer-2008-construct]

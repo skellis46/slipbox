@@ -6,7 +6,7 @@ type: evergreen
 
 # notes on transparencies
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 Sue mentioned to Charlotte (in October 2023) something about the Mnemosyne Atlas:
 

@@ -6,7 +6,7 @@ type:
 
 # embodied intelligence meeting notes
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 _Meeting Monday 25 September 2023  
 Siobhan Davies, Sally Dibb, Jane Aspell, Charlotte Waelde, Simon Ellis_

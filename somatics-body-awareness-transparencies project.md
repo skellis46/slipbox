@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: embodied_intelligence
+tags: somatics-body-awareness-transparencies
 type: evergreen
 status: in-progress
 ---
@@ -9,9 +9,9 @@ status: in-progress
 
 _previous note:_ [[harmful content project preparation]]
 
-- [[embodied intelligence canvas.canvas|embodied intelligence canvas]]
+- [[somatics-body-awareness-transparencies canvas.canvas|embodied intelligence canvas]]
 
-This zettel is notes that reflect next stage development of what was/is the [[harmful content project preparation]]. Team (Siobhan Davies, Jane Aspell, Charlotte Waelde, Sally Dibb and Simon Ellis) met on 25 September 2023: [[embodied intelligence meeting notes]]. In this zettel I have moved things around, organised, transferred to [[embodied intelligence project ahrc bid]] etc. The note is very active/alive (as of 21 November 2023)
+This zettel is notes that reflect next stage development of what was/is the [[harmful content project preparation]]. Team (Siobhan Davies, Jane Aspell, Charlotte Waelde, Sally Dibb and Simon Ellis) met on 25 September 2023: [[embodied intelligence meeting notes]]. In this zettel I have moved things around, organised, transferred to [[somatics-body-awareness-transparencies project ahrc bid]] etc. The note is very active/alive (as of 21 November 2023)
 
 ## transparencies
 

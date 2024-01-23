@@ -20,7 +20,7 @@ This is a paragraph by Jocelyn Sze et al that summarises research on body awaren
 - see also:
 
 > Although many contemporary emotion theories espouse both of these concepts, little is known about how response coherence and awareness of bodily sensations interact in the experience of emotion. The present study poses a question bridging these two domains, asking whether individuals who have specialized training in body awareness will have greater coherence between subjective and physiological aspects of emotion. We reason that if sensations emanating from bodily responses are primary constituents of subjective emotional experience, then subjective emotional experience should more closely track and be coherent with physiological responding for those who are more aware of their bodily responses. [@sze-2010-coherence p.803]
-- useful for [[embodied intelligence project]] and the sense that emotional/affective experience of Transparencies is important.
+- useful for [[somatics-body-awareness-transparencies project]] and the sense that emotional/affective experience of Transparencies is important.
 
 ---
 

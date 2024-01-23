@@ -6,7 +6,7 @@ type: evergreen
 
 # self-report measures of visceral awareness
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 > Based on the literature, self-report measures of visceral awareness seem most closely related to general concerns with bodily functioning and unrelated to objective criteria of body awareness (e.g., heartbeat detection tasks; for a review, see Mehling et al., 2009). [@sze-2010-coherence p.811]
 

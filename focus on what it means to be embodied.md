@@ -6,7 +6,7 @@ type: evergreen
 
 # focus on what it means to be embodied
 
-_previous note:_ [[embodied intelligence project]]
+_previous note:_ [[somatics-body-awareness-transparencies project]]
 
 > The theoretical stance of the practitioners demonstrates a striking parallel to positions presented by phenomenological philosophers who, in the tradition of French phenomenologist Merleau-Ponty [52], attempt to transcend viewing persons in dualistic terms and focus not on “the body” as such but on what it means to be ‘embodied’ [53,54]. “Embodiment is the human experience of simultaneously having and being a body; the term conceptualizes the body as a dynamic, organic site of meaningful experience rather than as a physical object distinct from the self or mind” [55]. [@mehling-2011-body p.10]
 
