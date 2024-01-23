@@ -22,6 +22,7 @@ In a novel attempt to fuse the worlds of art, somatics, and science, this resear
 To address these pressing queries, our research will harness a diverse array of mixed methodologies. By directly comparing two distinct groups—one steeped in the practice of somatics and the other with little to no exposure—we aim to uncover nuances in embodied awareness. Age and demographic factors will be accounted for to ensure comparability between the groups. Through qualitative self-reporting scales, such as the MAIA-II interoceptive awareness test [@mehling-2018-multidimensional], the five-facet mindfulness questionnaire (FFMQ) [@baer-2008-construct], and the Body Awareness Questionnaire (BAQ) [@shields-1989-body], along with subsequent interviews and thematic analysis, we aspire to illuminate the oft-hidden facets of body intelligence and its relevance in our increasingly disembodied society.
 
 - [[Multidimensional Assessment of Interoceptive Awareness – Version 2 (MAIA-2)]]
+- also Five Facet Mindfulness Questionnaire (FFMQ), see for instance in [[L.S. Merritt Millman - Online Structured DanceMovement Therapy Reduces Bodily Detachment in Depersonalization-Derealization Disorder]]
 
 - Prompts for above as follows: 
 	+ Write a research proposal around the following research questions.  
