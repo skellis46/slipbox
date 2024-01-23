@@ -15,36 +15,48 @@ _previous note:_ [[embodied intelligence project]]
 
 ### context  
 
-Somatically trained dance artists frequently talk about embodied or somatic intelligence and how such intelligence helps them to create a unique lens through which the world is experienced [e.g. @scialom-2020-thinking; @rimmer-piekarczyk-2018-selfsomatic]. Yet it remains unclear what is meant by embodied intelligence and the extent to which it influences how one sees and engages with phenomena. In _Embodied Intelligence_ we propose to use the somatically informed art project _Transparencies_ [@davies-2018-transparencies] as a vehicle to deepen cross-disciplinary understanding of the complex interactions between body awareness, affective responses and visual images. 'specifically our research question is ...
+- In science-informed popular press it's a thing: Roberts "The Power of Not Thinking", Murphy-Paul "The Extended Mind", Gallagher "How the Body Shapes the Mind"; Varela "The Embodied Mind: Cognitive Science and Human Experience"
+- the body plays a crucial role in shaping and directing thought processes. Embodied intelligence used in difference research contexts: cognitive science, robotics and AI, and philosophy.
+- "the underlying principle is that intelligence emerges not just from the brain, but from the dynamic interaction between the brain, body, and environment" (chatGPT)
+- builds on Varela, and enaction. 
+
+Curiously, somatically trained dance artists discuss and valorise somatic or body intelligence [e.g. @scialom-2020-thinking; @rimmer-piekarczyk-2018-selfsomatic].  
+
+and how such intelligence helps shape a lens through which the world is experienced . Yet it remains unclear what is meant by embodied intelligence and the extent to which it influences how one sees and engages with phenomena. In _Embodied Intelligence_ we propose to use the somatically informed art project _Transparencies_ [@davies-2018-transparencies] as a vehicle to deepen cross-disciplinary understanding of the complex interactions between body awareness, affective responses and visual images. 'specifically our research question is ...
 
 Eddy mentions Howard Gardner's use of term kinesthetic intelligence: Gardner, H. (1993), Creating Minds: An Anatomy of Creativity Seen through the Lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi. Also Polanyi's work is relevant here: [[we can know more than we can tell]]. See also <https://www.tandfonline.com/doi/abs/10.1080/15290824.2003.10387224>
 
-Somatics is the field that studies the body as it is perceived from the inside [@hanna_what_1995 p.341] and it describes various processes and practices which involve "listening deeply to the body"[@eddy_brief_2009 p.6]. Such practices are now fundamental to Western professional contemporary dance training (**citation**), and at their core is the belief that being more embodied is beneficial. 
+Somatics is the field that studies the body as it is perceived from the inside [@hanna-1995-what p.341] and it describes various processes and practices which involve "listening deeply to the body" [@eddy-2009-brief p.6]. Such practices are now fundamental to Western professional contemporary dance training [@weber-2009-integrating; @enghauser-2007-developing].
 
-Historically, qualitative and post-qualitative somatics research (including that which is published in the flagship Journal of Dance and Somatic Practices) has focused on describing different practices and the presumed efficacy of such practices (particularly re health and well-being) [see @ellis-2023-somatics]. The claims made by dance-informed researchers on behalf of somatics
-practices are varied including "embodied self-care" [@kampe-2015-eros p.200]; improved "functioning of the mind-body" [@mattes-2016-attentional p.260]; developing spatial awareness [@batson-2007-revisiting]; improved movement efficiency [@batson-2007-revisiting]; become pain free [@eddy-2009-brief]; and physical harmony [@mullan-2014-somatics]. 
+Historically, qualitative and post-qualitative somatics research (including that which is published in the flagship Journal of Dance and Somatic Practices) has focused on describing different practices and the presumed efficacy of such practices (particularly re health and well-being) [see @ellis-2023-somatics]. The claims made by dance-informed researchers on behalf of somatics practices are varied including "embodied self-care" [@kampe-2015-eros p.200]; improved "functioning of the mind-body" [@mattes-2016-attentional p.260]; developing spatial awareness [@batson-2007-revisiting]; improved movement efficiency [@batson-2007-revisiting]; become pain free [@eddy-2009-brief]; and physical harmony [@mullan-2014-somatics]. 
 
-The key element and mechanism of action by which somatic practices -- or what scientists call mindful movement approaches -- function is enhanced body awareness [@mehling-2011-body p.1]. Experienced mind-body therapists view body awareness as inseparable from embodied self-awareness [@mehling-2011-body]. Similarly we propose that the term embodied intelligence is indistinguishable from body awareness, and this research focuses on body awareness during the complex visual-affective process in _Transparencies_ (2018).
+Scientists call somatic practices _mindful movement approaches_ and rigorous scientific studies of "mindful-movement practices and body-awareness-enhancing approaches" [@mehling-2020-if p.257] are increasingly common. Such research indicates that the "key element and mechanism of action by which somatic practices function is enhanced body awareness" [@mehling-2011-body p.1]. 
 
-> Body awareness, as we define it here, is the subjective, phenomenological aspect of proprioception and interoception that enters conscious awareness, and is modifiable by mental pro- cesses including attention, interpretation, appraisal, beliefs, memories, conditioning, attitudes and affect. [@mehling-2011-body p.1]
+"somatics is a field that seeks to repair the body/mind dualism through bodily awareness" [@weber-2009-integrating p.237]
 
-- note also mention of embodied self-awareness in [@lamothe-2015-why.pdf] -- see p.212 and Alan Fogel's use of the term 
 
-> Science has opened up to rigorous studies of mindful-movement practices and body-awareness-enhancing approaches. [@mehling-2020-if p.257]
+> Body awareness involves an attentional focus on and awareness of internal body sensations. [@mehling-2011-body]
 
 Objective measures of body awareness are limited in that they tend to "test the equivalent of your visual acuity when looking at modern art in a museum, rather than how you process what you see and feel" [@mehling-2020-if p.256]
+
+Experienced mind-body therapists view body awareness as inseparable from embodied self-awareness [@mehling-2011-body]. Similarly we propose that the term embodied intelligence is indistinguishable from body awareness, and this research focuses on body awareness during the complex visual-affective process in _Transparencies_ (2018).
+
+
+
+
+> Body awareness, as we define it here, is the subjective, phenomenological aspect of proprioception and interoception that enters conscious awareness, and is modifiable by mental processes including attention, interpretation, appraisal, beliefs, memories, conditioning, attitudes and affect. [@mehling-2011-body p.1]
+
+- note also mention of embodied self-awareness in [@lamothe-2015-why.pdf] -- see p.212 and Alan Fogel's use of the term 
+- what is difference between sensation, attention, awareness and perception? 
+> Somatic awareness, a crucial yet often overlooked aspect of health and wellbeing, is the conscious perception and interpretation of physiological states and sensations <https://www.brainfirsttraininginstitute.com/blog/somatic-awareness-the-science-of-connecting-mind-and-body>
+
+
 
 - see [[the somatic marker hypothesis of Damasio]] and Craig's neural basis for body awareness
 
 Cognitive science and neuroscience are increasingly testing some of these claims, and there is reliable scientific evidence that somatic practices (and other mindful movement practices) improve body awareness 
 
-their focus has been on body awareness as a proxy for what dance artists call embodied intelligence.  
 also real-world activities (re interoception) like London Trading Floor [@kandasamy-2016-interoceptive]
-
-
-
-
-
 
 - science and somatic practices have a somewhat troubled relationship [e.g. @ginot-2010-shusterman; @batson-2012-integrating; @hutt-2010-corrective; @williamson-2009-formative; @green-2007-american; @mehling-2020-if; @schwartz-2014-this; @wait-2023-improvised]
 
@@ -52,7 +64,6 @@ also real-world activities (re interoception) like London Trading Floor [@kandas
 - or use embodied intelligence as catch all? Sally: "I'm still wrestling with whether we need to be able to understand or 'label' it in some way.  I suppose this would become more important if the project moved onto to consider how this understanding might be used/translated into some kind of output, e.g., that might inform moderation."
 
 ### the challenge the project addresses 
-
 
 - what is the problem here? What if it is something akin to: "How might we understand what is happening in this practice?"
 - what can we learn from (contemporary) dance in addition to how it functions as an art form? 
@@ -106,12 +117,11 @@ articulate why this is important
 ## Approach 1500
 how you're going to do it and what it builds on
 
-_Transparencies_ (2018) is an art project by choreographer Siobhan Davies. In it Davies works with 1 to 20 participants, and together they stand at a large table and place, arrange, rearrange and overlay more than 100 images printed on acetate paper. The images are mostly single figures caught in a moment of movement, and are drawn from visual art, dance, sports and science. The primary physical motion is the act of moving the photographs, an interaction that is punctuated by periods of quiet reflection and moments of unprompted dialogue. The work is also not goal-directed. Davies is not looking for particular things or for audience members to have specific experiences. In this regard, _Transparencies_ has properties in common with other structurally fluid interactive process-based artworks like _Extended Hermeneutics_ (Lacey, 2019), _Gramsci Monument_ (Hirschhorn, 2013), _A Little Piece of Care_ (Fayard, 2018), and _These Associations_ (Sehgal, 2012). _Transparencies_ is not overtly dance. Rather, it is choreographic because it asks its participants (including Davies herself) to spatially organise and re-organise the images and to notice how these changes _feel_. It draws attention to the body in two ways: 1) the content of the images themselves; 2) reflection on 'where' sensation is directly felt and experienced in the body. 
+_Transparencies_ (2018) is an art project by choreographer Siobhan Davies. In it Davies works with 1 to 20 participants, and together they stand at a large table and place, arrange, rearrange and overlay more than 100 images printed on acetate paper. The images are mostly single figures caught in a moment of movement, and are drawn from visual art, dance, sports and science. The primary physical motion is the act of moving the photographs, an interaction that is punctuated by periods of quiet reflection and moments of unprompted dialogue. The work is also not goal-directed – Davies is not looking for particular things or for audience members to have specific experiences. In this regard, _Transparencies_ has properties in common with other structurally fluid interactive process-based artworks like _Extended Hermeneutics_ (Lacey, 2019), _Gramsci Monument_ (Hirschhorn, 2013), _A Little Piece of Care_ (Fayard, 2018), and _These Associations_ (Sehgal, 2012). _Transparencies_ is not overtly dance. Rather, it is choreographic because it asks its participants (including Davies herself) to spatially organise and re-organise the images and to notice how these changes _feel_. It draws attention to the body in two ways: 1) the content of the images themselves; 2) reflection on 'where' sensation is directly felt and experienced in the body. 
 
 - useful set of ideas in [[interpretative phenomenological analysis]] (taken from wikipedia page): e.g. purposive sampling, homogenuous sampling
 - or possibly [[ecological momentary assessment]]
 - or Body Perception Questionnaire (check out references in this reference): [@kolacz-2023-body]
-
 
 - is it somatic? If so, how? what kinds of instructions does Sue give to the participant? (or will give)
 - Complex perceptual activity (primarily visual), physical action (manipulation/rearrangement of images), imagination, non-conceptual -- emotional, corporeal? To act as an accessible bridge. Somatic activity? Or intellectual? 
