@@ -12,9 +12,10 @@ _previous note:_ [[flow and nonduality]]
 - [[nonduality|nondual awareness]]
 - [[flow]]
 - [[namtok and the thought machine]]
+- [[immersed, embodied awareness that is entirely fluid]]
 
 00:00
-SH: What's the connection between an insight into selflessness and a conventional flow state? People have these experiences, as you say, often while moving, often during athletics or in nature, where they feel that suddenly there's no distance between them and their experience. They're not looking over their own shoulder at their experience, telling themselves the story of how good this is. They're fully unified.
+SH: What's the connection between an insight into selflessness and a conventional flow state? People have these experiences, as you say, often while moving, often during athletics or in nature, where they feel that suddenly there's no distance between them and their experience. They're not looking over their own shoulder at their experience, telling themselves the story of how good this is. They're fully unified ...
 
 00:29
 with the experience for a time, usually a brief time, and then they start telling themselves how good this is or how good it was or how can I get more of this or ... 
@@ -23,7 +24,7 @@ LK: How can I come back next year and do the same thing, but I don't have a vaca
 
 SH: Right, exactly. 	
 
-LK: So this is what we're doing is saying like. 
+LK: So this is what we're doing is saying like ...
 
 SH: Yeah, why can't my life be more like this? And maybe we should move to Montana. 
 
