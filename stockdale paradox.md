@@ -13,7 +13,7 @@ The author and researcher Jim Collins coined the term the Stockdale Paradox afte
 
 Stockdale responded to Collins' question about which prisoners didn't make it out of Vietnam by saying "the optimists". He then said:
 
->You must never confuse faith that you will prevail in the end—which you can never afford to lose—with the discipline to confront the most brutal facts of your current reality, whatever they might be.[@noauthor_stockdale_2021 n.pag.]
+>You must never confuse faith that you will prevail in the end—which you can never afford to lose—with the discipline to confront the most brutal facts of your current reality, whatever they might be.[@noauthor-2021-stockdale]
 
 In this writing and _philosophy of business leadership_, Collins describes the key concept of Disciplined Thought. One of these disciplines is to [confront the brutal facts](https://www.jimcollins.com/concepts/confront-the-brutal-facts.html)
 
@@ -31,8 +31,6 @@ _thoughts & links:_
 ---
 
 _original source/found:_ Jim Collins, _Good to Great_
-
-_citekey & zotero link:_ [@noauthor_stockdale_2021](zotero://select/items/1_X9R5I2FP)
 
 _reference:_ 
 

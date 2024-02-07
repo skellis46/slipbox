@@ -6,7 +6,7 @@
 - Author: [[Sam Dresser]]
 - Full Title: Science Is Not the Only Form of Knowledge but It Is the Best
 - Category: #articles
-- URL: https://aeon.co/essays/science-is-not-the-only-form-of-knowledge-but-it-is-the-best?utm_source=Aeon+Newsletter&utm_campaign=c3d0cade83-EMAIL_CAMPAIGN_2023_05_12&utm_medium=email&utm_term=0_-e7995480d9-%5BLIST_EMAIL_ID%5D
+- URL: https://aeon.co/essays/science-is-not-the-only-form-of-knowledge-but-it-is-the-best
 
 ## Highlights
 
