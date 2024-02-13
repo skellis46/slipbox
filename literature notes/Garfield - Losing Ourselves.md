@@ -170,10 +170,6 @@ _previous note:_
 
 > one reason is that Kant argues that space and time are projected by the self as loci for objects. This is because to experience anything as an object is to experience it *in* space and time; we can’t imagine a non-spatiotemporal object. So, he concludes, space and time are not themselves objects among other objects, but rather *the way we experience* all objects, structures that we must presuppose in order to experience anything as an object. ([View Highlight](https://read.readwise.io/read/01grx68tj8zdjyg3fegwdq5k3k))
 
-## New highlights added February 19, 2023 at 3:02 PM
-
-> It makes a great deal of biological, psychological, and ecological sense instead to think of awareness as a constant modulation of the open interaction between an organism and its environment, of the adjustment of the state of the organism and attunement of the posture and goals of the organism as its senses and movements interact with the world it inhabits. In other words, we can think of awareness as a mode of embedding of the organism in its world, instead of as the relation between an interior subject and an exterior object, even if that is how it appears to us in introspection. To think of awareness in this way is to take seriously the idea that we don’t stand against the world as subjects that detect its properties or agents that act on it, but instead are part of the world, and that awareness is more an attunement to our environment than a recording in our minds of what is going on outside. This approach to cognition, which is called the “embedded, embodied, enactive” model of cognition, is gaining wide acceptance among philosophers and cognitive scientists.[6](https://readwise.io/reader/document_raw_content/32011253#chapter5-6) ([View Highlight](https://read.readwise.io/read/01gs7bwqh802vtm5c3zmfkd798))
-
 
 > This takes us back to the sense in which the self, and the subject-object duality with which it is imbricated, are *illusions.* They are the way we take ourselves and our experience to be, not the way that we, or our experience, actually exist; ([View Highlight](https://read.readwise.io/read/01gs81fcnrr8qrd798vf9334rd))
 
