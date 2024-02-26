@@ -22,6 +22,10 @@ _previous note:_ [[authentic movement]]
 
 > The kite’s flying is surely the combined effect of the flyer, the kite and the air. The dance of agency, it turns out, is a threesome in which each partner acts upon, and is in turn acted upon by, the other two (Figure 7.5). Take away any one partner, and the performance will fail. Even in the air, a kite will not fly without a flyer; even with a flyer, the kite will only fly in the air; even if the flyer is out in the air, there will be no flying without a kite. The air, then, was the missing link that activated the kite, allowing an action potential that was already immanent within it – in its very construction – to be expressed in motion. [@ingold-2013-making p.99]
 
+He also writes this on [[the materials that perdure]]
+
+> Here it is the materials that perdure, not the more or less transitory forms into which they are cast. Throwing, as Goldsworthy shows us, and as our experiments in kite-flying proved, is not so much the outward effect of an embodied agency as the propulsion of animate being as it spills out into the world. Such, indeed, is the propulsion of life itself. (Tim Ingold, Making)
+
 +++++ 
 - Note: Links to jealousy three parts. Something about medium ... Internet as medium. Phenomenal properties of Internet?
  
