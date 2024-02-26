@@ -28,16 +28,12 @@ _previous note:_
 
 > I will use the word *self* only to refer to this kind of self, reserving the word *person* to denote the complex, constructed, socially embedded psychophysical complexes in which I will argue we really consist. ([View Highlight](https://read.readwise.io/read/01grjwkhp5n2f94gv5aqk7v48k))
 
-
 > Descartes (1596–1650) famously argues in his *Meditations on First Philosophy* that we can be certain of our existence as *res cogitans,* or as *thinking things,* identical not with our bodies, or our perceptual faculties, but with our faculty of abstract reason. ([View Highlight](https://read.readwise.io/read/01grjwmgwx8ykkj9rvze8q51fh))
-
 
 > Immanuel Kant (1724–1804), defending a position very much like that of many of the orthodox Indian schools, argues in the *Critique of Pure Reason* that the self is a *noumenon,* a transcendental object existing outside of space and time, a pure subject or perceptual, conceptual, and aesthetic experience and agent of action, transcendentally free of the causal order. ([View Highlight](https://read.readwise.io/read/01grjwn1t67h7nyfbqxfs4r4vm))
 
 
 > I suspect that the explanation of the self illusion is not cognitive, but is instead emotional, or even simply biological. There may be good evolutionary explanations of its origin, just as there are almost certainly good evolutionary explanations of how our visual system evolved to succumb to the Müller-Lyer illusion. Each of these may be, as the evolutionary biologist Stephen Jay Gould called them, spandrels, or byproducts, of traits that have real survival value, even if being duped by these illusions has no survival value in itself. ([View Highlight](https://read.readwise.io/read/01grkxzk3mazcjt73g7ckvre13))
-
-
 
 
 > I will present reasons to think that we are not selves. I take this task to be important, and not simply an abstract metaphysical inquiry. This is because the self illusion *matters.* It matters in part because it obscures our own identities from us, leading to a profound misunderstanding of who and what we are, and of the degree to which our own identities and existence are bound up with those of others. And it matters because it generates a perverse moral vision that engenders an instinctive attitude of self-interest and egoism that none of us can rationally endorse, and from which we would happily free ourselves. ([View Highlight](https://read.readwise.io/read/01grm26hesg5qx7f6mzjw1hx06))
