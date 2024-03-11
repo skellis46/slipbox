@@ -16,6 +16,8 @@ It is perhaps the least surprising thing that dance scholars and artists have la
 
 > The relatively new academic field of “embodiment”32 is a synthesis of many fields (biology, cognitive neuroscience, and phenomenology among them). Testifying to the importance of body narrative, embodiment scholars help substantiate ideas long thought integral to a dancer’s artistry and creativity, such as “kinesthetic resonance”33 and “somaesthetics.”34 (<https://iadms.org/media/3599/iadms-resource-paper-somatic-studies-and-dance.pdf>)
 
+^f83f53
+
 - see here the [[whole physical body minus the brain]]
 
 - embodied knowledge, embodiment, embodied intelligence
