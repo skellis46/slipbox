@@ -100,22 +100,7 @@ _previous note:_ [[losing oneself]]
 - C-DaRE invites: Are our bodies special? Science and the body
 
 
-> An important consequence of taking multidimensional levels of consciousness seriously is that sharp distinctions between conscious level and conscious content disappear. It becomes meaningless to completely separate how conscious you are from what you are conscious of. A ‘one size fits all’ measure of consciousness – of 48the sort we might expect if we take the temperature analogy too literally – may never be enough. (Location 797)
 
-
-> Tononi and Edelman asked what was characteristic about conscious experiences in general. They made a simple but profound observation: that conscious experiences – all conscious experiences – are both informative and integrated. From this starting point, they made claims about the neural basis of every conscious experience, not just of specific experiences of seeing red, or feeling jealous, or suffering a toothache. (Location 865)
-
-
-> Conscious experiences are 53informative because every conscious experience is different from every other conscious experience that you have ever had, ever will have, or ever could have. (Location 871)
-
-
-> On this view, the ‘what-it-is-like-ness’ of any specific conscious experience is defined not so much by what it is, but by all the unrealised but possible things that it is not. An experience of pure redness is the way that it is, not because of any intrinsic property of ‘redness’, but because red is not blue, green, or any other colour, or any smell, or a thought or a feeling of regret or indeed any other form of mental content whatsoever. Redness is redness because of all the things it isn’t, and the same goes for all other conscious experiences. (Location 882)
-
-
-> Conscious experiences are not only highly informative, they are also integrated. Exactly what is meant by consciousness being ‘integrated’ is still much debated, but essentially it means that every conscious experience appears as a unified scene. We do not experience colours separately from their shapes, nor objects independently of their background. (Location 887)
-
-
-> The key move made by Tononi and Edelman was to propose that if every conscious experience is both informative and unified at the level of phenomenology, then the neural mechanisms underlying conscious experiences should also exhibit both of these properties. That it is in virtue of expressing both of these properties that neural mechanisms do not merely correlate with, but actually account for, core phenomenological features of every conscious experience. (Location 892)
 
 
 > In the middle lie systems in which individual elements may do different things, but in which there is some degree of co-ordination so that the system behaves to some extent ‘as a whole’. This is the domain where both integration and information are to be found. It is also the middle ground between order and disorder, and it is here that systems are typically called ‘complex’. (Location 905)
@@ -147,59 +132,10 @@ _previous note:_ [[losing oneself]]
 
 > When trying to form perceptions, all the brain has to go on is a constant barrage of electrical signals which are only indirectly related to things out there in the world, whatever 76they may be. (Location 1283)
 
+---
+**continue from here**
 
-
-
-> But Wittgenstein was driving at something deeper. His real message for Anscombe was that even with a greater understanding of how things actually are, at some level things still appear the same way they always did. The sun rises in the east and sets in the west, same as always. (Location 1338)
-
-
-> Perceptions do not come from the bottom up or the outside in, they come primarily from the top down, or the inside out. What we experience is built from the brain’s predictions, or ‘best guesses’, about the causes of sensory signals. (Location 1346) ^4acfff
-
-
-> This is by no means a wholly new idea. The first glimmers of a top-down theory of perception emerge in ancient Greece, with Plato’s Allegory of the Cave. Prisoners, chained and facing a blank wall all their lives, see only the play of shadows cast by objects passing by a fire behind them, and they give the shadows names, because for them the shadows are what is real. The allegory is that our own conscious perceptions are just like these shadows, indirect reflections of hidden causes that we can never directly encounter. (Location 1349)
-
-
-> Hundreds of years later again, Immanuel Kant realised that the chaos of unrestricted sensory data would always remain meaningless 81without being given structure by pre-existing conceptions, which for him included a priori frameworks like space and time. Kant’s term noumenon refers to ‘things in themselves’ – Ding an sich – a mind-independent reality that will always be inaccessible to human perception, hidden behind a sensory veil. (Location 1355)
-
-
-> In neuroscience the story gets going with the German physicist and physiologist Hermann von Helmholtz. In the late nineteenth century, among a string of influential contributions, Helmholtz proposed the idea of perception as a process of ‘unconscious inference’. The contents of perception, he argued, are not given by sensory signals themselves but have to be inferred by combining these signals with the brain’s expectations or beliefs about their causes. In calling this process unconscious, Helmholtz understood that we are not aware of the mechanisms by which perceptual inferences happen, only of the results. Perceptual judgements – his ‘unconscious inferences’ – keep track of their causes in the world by continually and actively updating perceptual best guesses as new sensory data arrive. Helmholtz saw himself as providing a scientific version of Kant’s insight that perception cannot allow us to know things in the world directly – that we can only infer that things are there, behind the sensory veil. (Location 1359)
-
-
-> My own take on Helmholtz’s enduring idea, and on its contemporary incarnations, is best captured by the notion of perception as controlled hallucination, a phrase I first heard from the British psychologist Chris Frith many years ago.† The essential ingredients of the controlled hallucination view, as I think of it, are as follows. (Location 1378)
-
-
-> By adjusting top-down predictions so as to suppress bottom-up prediction errors, the brain’s perceptual best guesses maintain their grip on their causes in the world. In this view, perception happens through a continual process of prediction error minimisation. (Location 1388)
-
-
-> The third and most important ingredient in the controlled hallucination view is the claim that perceptual experience – in this case the subjective experience of ‘seeing a coffee cup’ – is determined by the content of the (top-down) predictions, and not by the (bottom-up) sensory signals. We never experience sensory signals themselves, we only ever experience interpretations of them. (Location 1391)
-
-
-> This means that colour is not a definite property of things-in-themselves. Rather, colour is a useful device that evolution has hit upon so that the brain can recognise and keep track of objects in changing lighting conditions. (Location 1426)
-
-
-> When I have the subjective 86experience of seeing the red chair in the corner of the room, this doesn’t mean that the chair actually is red – because what could it even mean for a chair to possess a phenomenological property like redness? Chairs aren’t red just as they aren’t ugly or old-fashioned or avant-garde. Instead, the surface of the chair has a particular property, the way-in-which-it-reflects-light, that my brain keeps track of through its mechanisms of perception. Redness is the subjective, phenomenological aspect of this process. (Location 1427)
-
-
-> There is no redness-as-such in the world or in the brain. As Paul Cézanne said, ‘colour is the place where our brain and the universe meet.’ (Location 1442)
-
-
-> The larger claim here is that this applies far beyond the realm of colour experience. It applies to all of perception. The immersive multisensory panorama of your perceptual scene, right here and right now, is a reaching out from the brain to the world, a writing as much as a reading. The entirety of perceptual experience is a neuronal fantasy that remains yoked to the world through a continuous making and remaking of perceptual best guesses, of controlled hallucinations. (Location 1444)
-
-
-> The fact that people have such different experiences and report them with such confidence, for the very same image, is compelling 89evidence that our perceptual experiences of the world are internal constructions, shaped by the idiosyncrasies of our personal biology and history. (Location 1470)
-
-
-> The function of perception, at least to a first approximation, is to figure out the most likely causes of the sensory signals, not to deliver awareness of the sensory signals themselves – whatever that might mean. (Location 1494)
-
-
-> One important implication of this principle is that we never experience the world ‘as it is’. Indeed, as Kant pointed out with his noumenon, it is difficult to know what it would mean to do so. (Location 1517)
-
-
-> So while we 93might be surprised when perceptual illusions – like those we’ve just encountered – reveal a discrepancy between what we see (or hear, or touch) and what’s there, we should be careful not to judge perceptual experiences solely in terms of their ‘accuracy’ in directly coinciding with reality. Accurate – ‘veridical’ – perception, understood this way, is a chimera. The controlled hallucination of our perceptual world has been designed by evolution to enhance our survival prospects, not to be a transparent window onto an external reality, a window that anyway makes no conceptual sense. (Location 1519)
-
-
-> Enlightenment philosopher John Locke called ‘primary’ and ‘secondary’ qualities. Locke proposed that the primary qualities of an object are those that exist independently of an observer, such as occupying space, having solidity, and moving. An oncoming train has these primary qualities in abundance, which is why jumping in front of one is a bad idea, whether or not you are observing it, and whatever beliefs you might hold about the nature of perception. Secondary qualities are those whose existence does depend on an 94observer. These are properties of objects that produce sensations – or ‘ideas’ – in the mind, and cannot be said to independently exist in the object. Colour is a good example of a secondary quality, since the experience of colour depends on the interaction of a particular kind of perceptual apparatus with an object. (Location 1530)
-
+---
 
 > The familiar but completely wrong idea that humans have only five senses can be traced back to Aristotle’s De Anima – ‘On the Soul’ – written around 350 BC. (Location 1599)
 
