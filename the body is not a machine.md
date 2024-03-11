@@ -11,11 +11,11 @@ The body as a machine is itself a powerful and seductive metaphor, "as pervasive
 
 Nesse writes that the body is not a machine:
 
->Machines are products of design, bodies are products of natural selection, and that makes them different in fundamental ways. The organic complexity of bodily mechanisms is qualitatively different from the mechanical complexities of machines. Machines have discrete parts with specific functions connected to each other in straightforward ways. Bodies have parts that may have blurry boundaries and many functions and the parts are often connected to each other in ways hard for human minds to fathom.[@nesse-2016-body n.pag.]
+> Machines are products of design, bodies are products of natural selection, and that makes them different in fundamental ways. The organic complexity of bodily mechanisms is qualitatively different from the mechanical complexities of machines. Machines have discrete parts with specific functions connected to each other in straightforward ways. Bodies have parts that may have blurry boundaries and many functions and the parts are often connected to each other in ways hard for human minds to fathom.[@nesse-2016-body n.pag.]
 
 Nesse's suggestion is that these metaphors are not useful unless they can be replaced with something better or more accurate. Instead, Nesse proposes that we simply recognise "the body as a soma shaped by selection"[@nesse-2016-body n.pag.] He displaces Gertrude Stein's "a rose is a rose is a rose" and states instead that a soma is a soma is a soma:
 
->A soma is a soma is a soma, shaped by natural selection. If we can wrench ourselves away from metaphor and see the body as an evolved soma, we can put aside the debates that arise from assuming that its parts have nice crisp boundaries and specific functions. We can avoid further centuries of debates about exactly how many basic emotions they are. Our bodies have parts with blurry boundaries, multiple functions, unimaginably complex connections, and no designer’s purpose underlying the whole system.[@nesse-2016-body n.pag.]
+> A soma is a soma is a soma, shaped by natural selection. If we can wrench ourselves away from metaphor and see the body as an evolved soma, we can put aside the debates that arise from assuming that its parts have nice crisp boundaries and specific functions. We can avoid further centuries of debates about exactly how many basic emotions they are. Our bodies have parts with blurry boundaries, multiple functions, unimaginably complex connections, and no designer’s purpose underlying the whole system.[@nesse-2016-body n.pag.]
 
 
 ---
