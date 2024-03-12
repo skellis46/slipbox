@@ -28,17 +28,7 @@ These are notes copied directly from the readwise highlights
 > Two main ways of seeing consciousness-as-such have emerged in these traditions. According to one, it is a state of full absorption with maximally reduced phenomenal content (Sansk. Samadhi), akin to a deep dreamless sleep, but not entirely unconscious, and without any knowable properties (Nikhilananda, 1990). According to the other, it is an awareness which is in itself empty of other phenomenal content and conceptual processes including those that reify it, yet it inherently knows itself to be aware (Rabjam, 2001). In the contemporary scientific and philosophical discourse, these two views are often conflated, sometimes under one term of MPE (Metzinger, 2019). ([View Highlight](https://read.readwise.io/read/01gv370pxq515gggc9sk5btvn2))
 
 
-> In line with
->  our previous work (Josipovic, 2014, 2019), we advance the
->  perspective that consciousness-as-such is first and foremost a
->  type of awareness, that is non-conceptual, non-propositional,
->  and nondual, in other words, non-representational. This
->  awareness is a unique kind, and cannot be reduced to a level
->  of arousal
->  and phenomenal
->  content, or
->  to their mental
->  representations and representational models. ([View Highlight](https://read.readwise.io/read/01gv3734c96xx778rk8br7wmte))
+> In line with our previous work (Josipovic, 2014, 2019), we advance the perspective that consciousness-as-such is first and foremost a type of awareness, that is non-conceptual, non-propositional, and nondual, in other words, non-representational. This awareness is a unique kind, and cannot be reduced to a level of arousal and phenomenal content, or to their mental representations and representational models. ([View Highlight](https://read.readwise.io/read/01gv3734c96xx778rk8br7wmte))
 
 
 > What makes consciousness-as-such or NDA a unique kind
@@ -94,7 +84,7 @@ These are notes copied directly from the readwise highlights
 
 _original source/found:_ 
 
-_reference:_ 
+_reference:_ Josipovic, Z. and Miskovic, V. (2020) ‘Nondual Awareness and Minimal Phenomenal Experience’. _Frontiers in Psychology_ 11, 2087
 
 
 
