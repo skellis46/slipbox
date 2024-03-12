@@ -130,77 +130,6 @@ _previous note:_ [[losing oneself]]
 > From our perspective, this means treating ‘integration’ and ‘information’ as general properties of conscious experiences to be explained, not as axiomatic claims about what consciousness actually ‘is’. In other words, treating consciousness as being more like life than like temperature. (Location 1204)
 
 
-> When trying to form perceptions, all the brain has to go on is a constant barrage of electrical signals which are only indirectly related to things out there in the world, whatever 76they may be. (Location 1283)
-
----
-**continue from here**
-
----
-
-> The familiar but completely wrong idea that humans have only five senses can be traced back to Aristotle’s De Anima – ‘On the Soul’ – written around 350 BC. (Location 1599)
-
-
-> But it is Bayes whose name is forever tied to a way of reasoning called ‘inference to the best explanation’, the insights from which are central to understanding how conscious perceptions are built from brain-based best guesses. (Location 1615)
-
-
-> Induction involves reaching conclusions through extrapolating from a series of observations: the sun has risen in the east for all of recorded history, therefore it always rises in the east. 98Unlike deductive inferences, inductive inferences can be wrong: the first three balls I pulled out of the bag were green, therefore all balls in the bag are green. This may or may not be true. (Location 1622)
-
-
-> Abductive reasoning – the sort formalised by Bayesian inference – is all about finding the best explanation for a set of observations, when these observations are incomplete, uncertain, or otherwise ambiguous. (Location 1625)
-
-
-> In seeking the ‘best explanation’, abductive reasoning can be thought of as reasoning backward, from observed effects to their most likely causes, rather than forward, from causes to their effects – as is the case for deduction and induction. (Location 1627)
-
-
-> Did it rain overnight? Perhaps, but it could also be that you forgot to turn off your garden sprinkler. The aim is to find the best explanation, or hypothesis, for what you see: given the lawn is wet, what is the probability (i) that it rained overnight, or (ii) that you left the sprinkler on? In other words, we want to infer the most likely cause for the observed data. (Location 1630)
-
-
-> Bayes’ rule is a mathematical recipe for going from what we already know (the prior) to what we should believe next (the posterior), based on what we are learning now (the likelihood). Priors, likelihoods, and posteriors are often called Bayesian ‘beliefs’ because they represent states of knowledge rather than states of the world. (Location 1633)
-
-
-> Bayes’ rule combines priors and likelihoods to come up with posterior probabilities for each hypothesis. The rule itself is simple: the posterior is just the prior multiplied by the likelihood, and divided by a second prior (this is the ‘prior on the data’ – which in this case is the prior probability of a wet lawn – we don’t need to worry about this here since it is the same for each hypothesis). (Location 1644)
-
-
-> In the philosophy of science, the Bayesian perspective has most in common with the views of the Hungarian philosopher Imre Lakatos, whose analysis focuses on what makes scientific research programmes work in practice, rather than on what they might ideally consist of. (Location 1674)
-
-
-> For example, I’m aware that I have a strong prior belief that brains are Bayesian-like prediction machines. This strong belief will not only shape how I interpret experimental evidence, it will also determine the sorts of experiments that I do, to generate new evidence relevant to my beliefs. Sometimes I wonder how much evidence it would take to overturn my Bayesian belief that the brain is essentially Bayesian. (Location 1677)
-
-
-> What Bayes’ theorem doesn’t do is specify how, in terms of neural mechanisms, the brain accomplishes these feats of best guessing. Answering this question returns us to the controlled hallucination theory of perception, and to the central claim that conscious contents are not merely shaped by perceptual predictions – they are these predictions. (Location 1735)
-
-
-> The controlled hallucination view shares many features with other ‘predictive’ theories of perception and brain function, most prominently predictive processing. There is, however, an important difference of emphasis. Predictive processing is a theory about the 107mechanisms by which brains accomplish perception (and cognition, and action). The controlled hallucination view, by contrast, is about how brain mechanisms explain phenomenological properties of conscious perception. In other words, predictive processing is a theory about how brains work, whereas the controlled hallucination view takes this theory and develops it to account for the nature of conscious experiences. Importantly, both rest on the bedrock process of prediction error minimisation. (Location 1745)
-
-
-> What this means, in practice, is that the brain continually adjusts the influence of sensory signals 109on perceptual inference. It does this by transiently altering their estimated precision. This is what is meant by the term ‘precision weighting’. Down-weighting estimated precision means that sensory signals have less influence on updating best guesses, while up-weighting means the opposite: a stronger influence of sensory signals on perceptual inference. In this way, precision weighting plays an essential role in choreographing the delicate dance between predictions and prediction errors needed to reach a perceptual best guess. (Location 1777)
-
-
-> Although this sounds complicated, we are all intimately familiar with the role of precision weighting in perception. Increasing the estimated precision of sensory signals is nothing other than ‘paying attention’. When you pay attention to something – for example, really trying to see whether a gorilla is out there in the distance – your brain is increasing the precision weighting on the corresponding sensory signals, which is equivalent to increasing their estimated reliability, or turning up their ‘gain’. Thinking about attention this way can explain why sometimes we don’t see things, even if they are in plain view, and even if we are looking right at them. (Location 1782)
-
-
-> Perception and action are so tightly coupled that they determine and define each other. Every action alters perception by changing the incoming sensory data, and every perception is the way it is in order to help guide action. There is simply no point to perception in the absence of action. We perceive the world around us in order to act effectively within it, to achieve our goals and – in the long run – to promote our prospects of survival. We don’t perceive the world as it is, we perceive it as it is useful for us to do so. (Location 1817)
-
-
-> It may even be that action comes first. Instead of picturing the brain as reaching perceptual best guesses in order to then guide behaviour, we can think of brains as fundamentally in the business of generating actions, and continually calibrating these 112actions using sensory signals, so as to best achieve the organism’s goals. This view casts the brain as an intrinsically dynamic, active system, continually probing its environment and examining the consequences. (Location 1821)
-
-
-
-
-
-> In the long run, actions are fundamental to learning – which here means improving the brain’s generative models by revealing more 114about the causes of sensory signals, and about the causal structure of the world in general. (Location 1849)
-
-
-> We probably don’t think much about proprioception because, in some sense, it’s always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of 115paying attention – a kind of ‘disattention’ to the body, which allows it to move. (Location 1860)
-
-- above re [[losing oneself]]
-
-> Thinking about action in this way underlines how action and perception are two sides of the same coin. Rather than perception being the input and action being the output with respect to some central ‘mind’, action and perception are both forms of brain-based prediction. Both depend on a common process of Bayesian best guessing, on a carefully choreographed dance between perceptual predictions and sensory prediction errors, just with differences in who leads and who follows. (Location 1867)
-
-
-> disattention: This idea can be experimentally tested, and it indeed turns out that during action, proprioceptive sensory sensitivity is reduced, just as would be expected (C. E. Palmer et al., 2016). The sensory attenuation accompanying action also provides a neat explanation for why we can’t tickle ourselves (H. Brown et al., 2013). (Location 1946)
-
-
 > In the fluid intellectual atmosphere of Vienna at that time, the two cultures of art and science mingled to an unusual degree. Science wasn’t placed above art, in the all too familiar sense in which art, and the human responses it evokes, are considered to be things in need of scientific explanation. Nor did art place itself beyond the reach of science. Artists and scientists – and their critics – were allies in their attempts to understand human experience in all its richness and variety. No wonder the neuroscientist Eric Kandel called this period ‘the age of insight’, in his book of the same name. (Location 1964)
 
 
@@ -215,13 +144,10 @@ _previous note:_ [[losing oneself]]
 > The general phenomenon of seeing patterns in things is called pareidolia (from the Greek ‘alongside’ and ‘image’). For humans – and some other animals – the significance of faces means that our brains come preloaded with strong face-related prior expectations. (Location 2041)
 
 
-> All our experiences, whether we label them hallucinatory or not, are always and everywhere grounded in a projection of perceptual expectations onto and into our sensory environment. What we call ‘hallucination’ is what happens when perceptual priors are unusually strong, overwhelming the sensory data so that the brain’s grip on their causes in the world starts to slide. (Location 2050)
-
-
 > The hallucination machine is an exercise in what we might call ‘computational phenomenology’: the use of computational models to build explanatory bridges from mechanisms to properties of perceptual experience. Its immediate value lies in matching the computational architecture of predictive perception to the phenomenology of hallucination. (Location 2088)
 
 
-> In cognitive science, the phenomenology of objecthood has been most thoroughly explored by ‘sensorimotor contingency theory’. According to this theory, what we experience depends on a ‘practical mastery’ of how actions change sensory inputs. When we perceive something, the content of what we perceive is not carried by the sensory signals; instead it emerges from the 129brain’s implicit knowledge about how actions and sensations are coupled. On this view, vision – and all our perceptual modalities – are things an organism does, not passive information feeds for a centralised ‘mind’. (Location 2114)
+
 
 
 > generative models can predict the sensory consequences of actions. These predictions are ‘conditional’ or ‘counterfactual’ in the sense that they are about what could happen or what could have happened to sensory signals, given some specific action. (Location 2127)
@@ -229,32 +155,26 @@ _previous note:_ [[losing oneself]]
 
 > The opposite situation, physical change without perceptual change, happens in ‘change blindness’. This can occur when some aspects of an environment change very slowly, or when everything is changing at once with only some features being relevant. In one powerful video example of this phenomenon,§ the entire lower half of an image can change colour – from red to purple – but because it happens slowly, over about forty seconds, most people don’t notice the change at all, even if they are looking directly at the changing part of the image. (Location 2162)
 
+- see [[perception of change versus change in perception]]
 
 > Some people think that change blindness exposes a philosophical dilemma: after the image has changed colour, are you still experiencing red (even though it’s now purple), or are you now experiencing purple, in which case what were you experiencing before, given that you didn’t experience any change? The resolution is to deny the premise of the question and to recognise that perception of change is not the same as change of perception. The experience of change is another perceptual inference, another variety of controlled hallucination. (Location 2170)
 
 
 > His idea is that we infer time based not on the ticking of an internal clock, but on the rate of change of perceptual contents in other modalities – and he devised a clever way to test it. (Location 2187)
 
-
 > Warrick then showed the same videos to an artificial neural network that mimicked the operation of the human visual system. This network was in fact the same one we’d used in our hallucination machine. For each video, an estimate of duration was computed, based – roughly speaking – on the accumulated rate of change of activity within the network. These estimates did not involve any ‘inner clock’ whatsoever. Remarkably, the neural network estimates and the human estimates were virtually identical, showing the same biases by duration and by context. This shows that time perception can emerge, at least in principle, from a ‘best guess’ about the rate of change of sensory signals, without any need for an internal pacemaker. (Location 2194)
-
 
 > With this set-up, we can now test ideas about the conditions in which people experience their environment as being real, and – perhaps more importantly – what it takes for this normally pervasive aspect of conscious experience to break down. These situations can and do happen, not only in cases like retinal afterimages, but also in debilitating psychiatric disorders such as depersonalisation and derealisation, where there can be a global loss of the experienced reality of the world, and of the self. (Location 2226)
 
+> Why do we experience our perceptual constructions as being objectively real? On the controlled hallucination view, the purpose of perception is to guide action and behaviour – to promote the organism’s prospects of survival. We perceive the world not as it is, but as it is useful for us. It therefore makes sense that phenomenological properties – like redness, chairness, Cilla Black-ness, and causality-ness – seem to be objective, veridical, properties of an external existing environment. We can respond more quickly and more effectively to something happening in the world if we perceive that thing as really existing. (Location 2242) ^690ef9
 
-> Why do we experience our perceptual constructions as being objectively real? On the controlled hallucination view, the purpose of perception is to guide action and behaviour – to promote the organism’s prospects of survival. We perceive the world not as it is, but as it is useful for us. It therefore makes sense that phenomenological properties – like redness, chairness, Cilla Black-ness, and causality-ness – seem to be objective, veridical, properties of an external existing environment. We can respond more quickly and more effectively to something happening in the world if we perceive that thing as really existing. (Location 2242)
-
+- for above see [[predictive processing vs controlled hallucination]] and also [[sensation, attention, awareness, perception, action and feeling]]
 
 > It is because our perceptions have the phenomenological character of ‘being real’ that it is extraordinarily difficult to appreciate that, in fact, perceptual experiences do not necessarily – or ever – directly correspond to things that have a mind-independent existence. A chair has a mind-independent existence; chairness does not. (Location 2258)
-
 
 > Putting it the other way around, the hard problem of consciousness seems especially hard if we interpret the contents of our perceptual experience as really existing out there in the world. Which is exactly what the phenomenology of normal conscious perception encourages us automatically to do. (Location 2262)
 
 
-> Delirium – a word surfacing from the depths of the sixteenth century – comes from the Latin delirare, to deviate, to be deranged. The dictionary calls it ‘an acutely disturbed state of mind characterised by restlessness, illusions, and incoherence’. (Location 2374)
-
-
-> Up to a third of elderly patients entering acute care develop hospital-induced delirium, and the proportion is even higher for those having surgery. (Location 2395)
 
 
 > The self is another perception, another controlled hallucination, though of a very special kind. From the sense of personal identity – like being a scientist, or a son – to experiences of having a body, and of simply ‘being’ a body, the many and varied elements of selfhood are Bayesian best guesses, designed by evolution to keep you alive. (Location 2422)
