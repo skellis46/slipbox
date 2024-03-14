@@ -177,19 +177,11 @@ _previous note:_ [[losing oneself]]
 
 
 
-> The self is another perception, another controlled hallucination, though of a very special kind. From the sense of personal identity – like being a scientist, or a son – to experiences of having a body, and of simply ‘being’ a body, the many and varied elements of selfhood are Bayesian best guesses, designed by evolution to keep you alive. (Location 2422)
 
 
-> We intuitively treat experiences of self differently from experiences of the world. When it comes to the experience of being you it seems harder to resist the intuition that it reveals a genuine property of the way things are – in this case an actual self – rather than a collection of perceptions. One intuitive consequence of assuming the existence of an actual self is that there can be only one such self, not two, or two thirds, or many. (Location 2451)
 
 
-> Kant, in his Critique of Pure Reason, argued that the concept of the self as a ‘simple substance’ is wrong, and Hume talked about the self as a ‘bundle’ of perceptions. Much more recently, the German philosopher Thomas Metzinger wrote a very brilliant book called Being No One – a powerful deconstruction of the singular self. Buddhists have long argued that there is no such thing as a permanent self and through meditation have attempted to reach entirely selfless states of consciousness. (Location 2457)
 
-
-> There are experiences of embodied selfhood that relate directly to the body. These include feelings of identification with the particular object that happens to be your body – we feel a certain sense of ownership over our body that doesn’t apply to other objects in the world. (Location 2481)
-
-
-> running below these experiences we can find deeper, formless feelings of simply being an embodied living organism – of being a body – without any clearly definable spatial extent or specific content. (Location 2483)
 
 
 > Just as experiences of redness are not indications of an externally existing ‘red’, experiences of unified selfhood do not signify the existence of an ‘actual self’. Indeed, the experience of being a unified self can come undone all too easily. The sense of personal identity, built on the narrative self, can erode or disappear entirely in dementia and in severe cases of amnesia, and it can be warped and distorted in cases of delirium, whether hospital-induced or not. (Location 2509)
@@ -201,7 +193,6 @@ _previous note:_ [[losing oneself]]
 > to somatoparaphrenia – the experience that one of your limbs belongs to someone else. In xenomelia – an extreme form (Location 2517)
 
 
-> The experience of being me, or of being you, is a perception itself – or better, a collection of perceptions – a tightly woven bundle of neurally encoded predictions geared towards keeping your body alive. And this, I believe, is all we need to be, to be who we are. (Location 2520)
 
 
 > The best-known example is the ‘rubber hand illusion’, first described more than twenty years ago, and now a cornerstone of research on embodiment. (Location 2524)
@@ -284,9 +275,6 @@ _previous note:_ [[losing oneself]]
 > This brings us to the heart of my ‘beast machine’ theory of consciousness and self. Our conscious experiences of the world around us, and of ourselves within it, happen with, through, and because of our living bodies. Our animal constitution is not merely compatible with our conscious perceptions of self and world. My proposal is that we cannot understand the nature and origin of these conscious experiences, except in light of our nature as living creatures. (Location 2857)
 
 
-> Underneath the layered expressions of selfhood involving memories of the past and plans for the future, before the explicit sense of personal identity, beneath the ‘I’ and even prior to the emergence of a first-person perspective and experiences of body ownership, there are deeper layers of selfhood still to be found. These bedrock layers are intimately tied to the interior of the body, rather than to the body as an object in the world, and they range from emotions and moods – what psychologists call ‘affective’ experiences – to a basal, formless, and ever-present sense of simply ‘being’ an embodied, living organism. (Location 2861)
-
-- above re [[authentic movement]] and [[losing oneself]]
 
 
 > The key property of interoceptive signals is that they reflect, in one way or another, how well physiological regulation of the body is going. In other words, how good a job the brain is doing of keeping its body alive. (Location 2878)
@@ -313,7 +301,6 @@ _previous note:_ [[losing oneself]]
 > Whether I’m sitting by my mother’s hospital bed, or fixing to escape from a bear, the form and quality of my emotional experiences are the way they are – desolate, hopeful, panicky, calm – because of the conditional predictions my brain is making about how different actions might impact my current and future physiological condition. (Location 3048)
 
 
-> At the very deepest layers of the self, beneath even emotions and moods, there lies a cognitively subterranean, inchoate, difficult-to-describe experience of simply being a living organism. Here, experiences of selfhood emerge in the unstructured feeling of just ‘being’. This is where we reach the core of the beast machine theory: the proposal that conscious experiences of the world around us, and of ourselves within it, happen with, through, and because of our living bodies. (Location 3051)
 
 
 > Just as with the outside world, the brain has no direct access to physiological states of the body, and so these states have to be inferred through Bayesian best guessing. As with all predictive perception, this best guessing is achieved through a brain-based process of prediction error minimisation. In the context of interoception, this is called interoceptive inference. Just as with vision and with hearing – just as with all perceptual modalities – interoceptive perception is a kind of controlled hallucination. (Location 3064)
