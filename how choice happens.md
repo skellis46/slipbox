@@ -1,0 +1,36 @@
+---
+aliases: 
+tags: 
+type: evergreen
+---
+
+# how choice happens
+
+_previous note:_ [[nondual meditation]]
+
+> How does an intensely voluntary choice slash action feel when the illusion of the self vanishes? Insofar as an action is, quote, intensely voluntary, think of what those words mean. Think of something that you feel like you should do, you need to do; it's absolutely central to your identity, that you do this thing. Like, your child is injured and crying, and you need to pick her up and console her. And if you didn't do that thing, you'd be a monster. This is the kind of action that is absolutely voluntary. But it's also important. It's not analogous to an experiment where you're deciding whether to move your right or left hand, and doesn't matter which one you move. This is you, you'd be a different person, if you didn't take this action. 
+
+> Well, in moments like that, I experience zero degrees of freedom; there is no choice, you have to do it. And whatever this wind is at your back, it's pushing hard. You've been blown around by something that is not you, right, that you didn't create? Did you create the parameters under which you would feel like a monster if you didn't do this thing? No, I no more create that than I have created the rules of English grammar that dictate whether this is a sentence, right? If I make a mistake here, and detect it, all of that seems completely without my own agency. And if I get it right, that's also mysterious. I didn't create anything in this space, that is determining success or failure. Another aspect here is with respect to what it means to reason, effectively. People often claim that without free will, there's no such thing as reason, right? How would you be reasoning, but reasoning is what constrains you, right? There is no freedom. Two plus two makes four. You either see that or you don't, where's the freedom? 
+
+> Freedom is a little easier to get at here than selfhood. But they are two sides of the same coin. To recognise that there's no self is to recognise that the emergence of anything, while perhaps explicable in terms of prior events and causes, is mysterious. Now, the fact that I'm speaking in English, can be explained. It's the only language, I can do this in. If I attempt to do it in French, I can make a little headway, but not being fluent, I'll make all kinds of errors. And it would be genuinely mysterious if I started doing this in Mandarin, never having studied Mandarin, that would cry out for explanation. But there is still a mystery to the emergence of anything into consciousness. The next sound, the next sight, the next thought, the next utterance, the next action, everything is emerging out of the darkness, on some level. And the feeling of self is a way of not recognising that fact, consciously. It's the illusion that you are the author. There is no author, there is process in patterns. But no pattern exists in and of itself. There is a series of relationships. Take the next thought, what is it? Where is it? Where does it start? And where does it end? Where's its middle? If the Self exists, where is that? Where's its front and back, or top and bottom. 
+
+> So a voluntary action, without a sense of self is just an appearance among appearances. It's different, however, from an involuntary action in that one of the things that appears in a stream of volition are intentions. And in many cases, consciously formed goals. Let's say you want to make a cup of coffee. The thought about coffee arises; it's associated with desire, rather than discussed. And then an action plan emerges, much of which is pre-conscious, but it has conscious reference points. Might have the thought, "Oh, wait a minute. Are we out of coffee? Do I have to actually go to the store to get some coffee?" And you'll do things in the appropriate sequence. If you have to put a filter somewhere before you put the coffee in while you put the ... you put the filter in first. But much of this if you pay attention is an automaticity. And there can be glitches in your experience that reveal this. So much of our behaviour in the middle of complex behaviour, any one of these sub routines, is unconsciously initiated. 
+
+> So a voluntary action is not identical to an involuntary one. But they're identical insofar as things are simply arising within consciousness, and being experienced. Voluntary or involuntary, the roots of an action are mysterious. The parameters by which it gets accomplished, are also mysterious. And when I say mysterious, it's not that there cannot be an explanation for these things, we can understand scientifically how human beings move their arms, whether by reflex or by intention. But the mystery is always present from the first person point of view, from the point of view of conscious experience. As much as you might know, about neurophysiology, you are not in a position to know how you move your hand in this moment, through introspection. Things simply appear in consciousness and change and vanish. That includes voluntary action. 
+
+> When we focus our attention on consciousness, who is it that is being attentive? In other words, which faculty of mind can set the focus to the experience of consciousness? Well, like many of these kinds of questions, much of this seems backwards from the experience of just noticing how consciousness is. It's not that you are focusing your attention on consciousness, you are simply ceasing to be distracted, right, you're ceasing to be identified with thought and with attention itself. 
+
+> The feeling that you can direct your attention is part of this undercurrent of thinking that you're not noticing, right, there's simply consciousness ... already. Everything is appearing on its own, including acts of attention. And the truth is you don't even have to be attentive, you simply have to no longer be distracted, you're ceasing to do something, you're not doing something, the sense that you're doing something is more distraction. Simply notice the next thing that you notice. Something will appear. And meditation is just that. Clearly experiencing consciousness and its contents in each moment, prior to concepts prior to identification with thought. So the usual starting point in meditation, a feeling that you are the locus of attention, and that you have a kind of spotlight that you can direct strategically to the breath, or to sounds or to any other object. It can seem that way, but if you look more closely, if you look for the seat of attention, if you look for the one who is shining the spotlight, there is nothing to find. And then what you have is simply consciousness and its contents. It's not that you can't pay attention to anything. It's not that you suddenly lose your intelligence. But you notice that all of this – from acts of attention to acts of will – all of it simply appearing on its own. Everything is in its own place. Right. There's no centre. It's a loss of the sense that there's a centre to consciousness in each moment. That is the fundamental change. The contents need not change.
+
+- Sam Harris _How choice happens_ <https://dynamic.wakingup.com/reflection/CAC415>
+
+---
+
+- transcription is in Otter: <https://otter.ai/u/dA_NsM2UPTS6zwxg1lpJ0BqtWvA?utm_source=copy_url>
+
+_original source/found:_ 
+
+_reference:_ 
+
+
+
