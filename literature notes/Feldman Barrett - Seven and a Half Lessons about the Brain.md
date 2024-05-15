@@ -197,11 +197,6 @@
 > Through this process, one individual neuron influences thousands of others, and thousands of neurons can influence one, all simultaneously. This is the brain in action. See 7half.info/wiring. (Location 1565)
 
 
-> ambiguous scraps of sense data: Sense data is not only ambiguous but also incomplete. Information about the world and the body is lost when it’s processed by your retina, cochlea, and other sensory organs and sent to the brain. Scientists still debate just how much is lost, but everyone agrees that neurons convey less sense data from the world and the body than is available to be perceived. See 7half.info/incomplete. (Location 1628)
-
-
-> Your brain assembles these bits into memories: The idea that your brain uses past experiences to give incoming sense data meaning is in some ways similar to immunologist and neuroscientist Gerald Edelman’s proposal that your ongoing conscious experience is the “remembered present.” See 7half.info/present. (Location 1633)
-
 
 > “the beholder’s share”: This idea about the perception of artwork originated with the art historian Alois Riegl, who called it “the beholder’s involvement.” The later term beholder’s share was coined by art historian Ernst Gombrich. See 7half.info/art. (Location 1642)
 

@@ -19,8 +19,7 @@ _previous note:_ [[somatics-body-awareness-transparencies project]]
 
 - Does this hold for transparencies? (increased degree of abstraction??)
 
-> For this reason, a photograph easily becomes a natural "transitional object", bridging realities without its viewer even realizing this is
-happening. [@weiser-2004-phototherapy p.26]
+> For this reason, a photograph easily becomes a natural "transitional object", bridging realities without its viewer even realizing this is happening. [@weiser-2004-phototherapy p.26]
 
 > Someone once told me a photo was paper with "emotion" all over it; of course he meant "emulsion", but the malapropism stayed with me. [@weiser-2004-phototherapy p.27]
 
@@ -30,8 +29,7 @@ happening. [@weiser-2004-phototherapy p.26]
 
 > Memories and feelings do not communicate directly in words -- they flow whether or not they are being noticed or believed. When people pause to describe or explain them, this very act automatically alters what is being experienced or observed. This is the reason that the nonverbal sensory-based Therapies are the most appropriate approaches for working with the primarily visual metaphorical language of the unconscious, especially PhotoTherapy or Art Therapy (or, even better, both combined). [@weiser-2004-phototherapy p.34]
 
-> Because objective truth of any image is therefore an impossibility, no two viewers will ever get identical meaning from the same
-photograph. This technique has been named "Photo-Projectives", because people always project meaning onto a photograph -- there is simply no other way to see one. [@weiser-2004-phototherapy p.44]
+> Because objective truth of any image is therefore an impossibility, no two viewers will ever get identical meaning from the same tphotograph. This technique has been named "Photo-Projectives", because people always project meaning onto a photograph -- there is simply no other way to see one. [@weiser-2004-phototherapy p.44]
 
 > Looking at a table on which many photos were laid out, one woman picked a photo of a person looking out of a train window, as being the one that most caught her attention emotionally. [@weiser-2004-phototherapy p.44]
 

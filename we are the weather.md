@@ -16,8 +16,8 @@ _previous note:_ [[Brown and Reihana-Morunga - Hau]]
 
 _thoughts & links:_
 
-- beautiful shift between _make_ and _are_ not so different from I have a body and I am a body in [[pressure, stress and strain - the body in time]]
-- also re non-attachment to the weather as simple example of mindfulness training; see [[sati, mindfulness and remembering]]
+- beautiful shift between _make_ and _are_ not so different from I have a body and I am a body in [[pressure, stress and strain - the body in time]] and in [[an object of special regard]]
+- also re non-attachment to the weather as simple example of mindfulness training; see [[sati, mindfulness and remembering]], and the work of Helen Poynor.
 - interpenetration and air in [[the circulation of oxygen]] 
 - [[footfall]]
 

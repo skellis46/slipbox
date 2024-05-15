@@ -155,7 +155,7 @@ Curiously, somatically trained dance artists discuss and valorise somatic or bod
 
 - or use embodied intelligence as catch all? Sally: "I'm still wrestling with whether we need to be able to understand or 'label' it in some way. I suppose this would become more important if the project moved onto to consider how this understanding might be used/translated into some kind of output, e.g., that might inform moderation."
 
-- note also mention of embodied self-awareness in [@lamothe-2015-why.pdf] -- see p.212 and Alan Fogel's use of the term 
+- note also mention of embodied self-awareness in lamothe-2015-why.pdf -- see p.212 and Alan Fogel's use of the term 
 
 Eddy mentions Howard Gardner's use of term kinesthetic intelligence: Gardner, H. (1993), Creating Minds: An Anatomy of Creativity Seen through the Lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi. Also Polanyi's work is relevant here: [[we can know more than we can tell]]. See also <https://www.tandfonline.com/doi/abs/10.1080/15290824.2003.10387224>
 

@@ -12,7 +12,7 @@ One of the key themes in Jay Garfield's book _Losing Ourselves_ is the distincti
 
 > should convince us that we are talking about the *self* because it perfectly captures that idea of the subject that stands behind mind and body as their possessor, that to which we seem to be so atavistically attached. That is the self, not the person. It should convince us that something has gone terribly *wrong* because, when we reflect carefully, it does not seem at all plausible that we really exist outside of space and time and distinct from our psychophysical embodiment. [@garfield-2022-losing Chapter 4 The Self Strikes Back]
 
-It is not that this self isn't useful to we humans, but more that it is an illusion that reifies agency and control. 
+It is not that this self isn't useful to we humans (see [[Seth - Being You]] for mention of the 'self' being part of survival mechanism), but more that it is an illusion that reifies agency and control. 
 
 
 - [[losing oneself]]

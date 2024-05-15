@@ -25,7 +25,7 @@ The critical thing that this structure affords is the subsequent question: known
 
 Body being known. Known by what? (and that there is nothing to find at that point -- non dual awareness). It seems to me that this might be a way of understanding embodiment. 
 
-Note how Leder in [[the lived body and embodiment]] hints at this (through writing of Husserl, Merleau-Ponty, and Straus) but it's so difficult to write about as slips into subject-object constructions: "organised around my corporeal position". Also seems to make the body a special kind of object -- which I am not convinced it is (or that we gain anything by making it so)
+Note how Leder in [[the lived body and embodiment]] hints at this (through writing of Husserl, Merleau-Ponty, and Straus) but it's so difficult to write about as slips into subject-object constructions: "organised around my corporeal position". Also seems to make the body a special kind of object (or [[the body as an object of special regard]]; [[an object of special regard]])-- which I am not convinced it is (or that we gain anything by making it so)
 
 - [[nonduality]]
 

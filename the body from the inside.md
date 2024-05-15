@@ -4,7 +4,7 @@ aliases:
 tags: 
 type: newsletter
 platform: skellis mailing list
-status: in-progress
+status: published
 date published: 2024-02-26
 
 ---

@@ -16,7 +16,11 @@ _previous note:_ [[the self is a controlled hallucination]]
 
 > We intuitively treat experiences of self differently from experiences of the world. When it comes to the experience of being you it seems harder to resist the intuition that it reveals a genuine property of the way things are – in this case an actual self – rather than a collection of perceptions. One intuitive consequence of assuming the existence of an actual self is that there can be only one such self, not two, or two thirds, or many. (Location 2451)
 
-> Kant, in his Critique of Pure Reason, argued that the concept of the self as a ‘simple substance’ is wrong, and Hume talked about the self as a ‘bundle’ of perceptions. Much more recently, the German philosopher Thomas Metzinger wrote a very brilliant book called Being No One – a powerful deconstruction of the singular self. Buddhists have long argued that there is no such thing as a permanent self and through meditation have attempted to reach entirely selfless states of consciousness. (Location 2457)
+> Kant, in his Critique of Pure Reason, argued that the concept of the self as a ‘simple substance’ is wrong, and Hume talked about the self as a ‘bundle’ of perceptions. Much more recently, the German philosopher Thomas Metzinger wrote a very brilliant book called _Being No One_ – a powerful deconstruction of the singular self. Buddhists have long argued that there is no such thing as a permanent self and through meditation have attempted to reach entirely selfless states of consciousness. (Location 2457)
+
+- [[consciousness-as-such]]
+- [[consciousness and the self]]
+- [[consciousness as a full-body phenomenon]]
 
 > The experience of being me, or of being you, is a perception itself – or better, a collection of perceptions – a tightly woven bundle of neurally encoded predictions geared towards keeping your body alive. And this, I believe, is all we need to be, to be who we are. (Location 2520)
 

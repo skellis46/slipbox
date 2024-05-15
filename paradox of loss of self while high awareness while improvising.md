@@ -12,7 +12,9 @@ This is the key paradox really. Sense of loss of self as in [[nondual awareness]
 
 > A recent model of interoception ([Craig, 2009b](https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x#b13)) underscores the role of the insula for the translation of visceral and further bodily states into subjective feelings and self-awareness. [@herbert-2012-body]
 
--- [[Herbert - The Body in the Mind]]
+- [[Herbert - The Body in the Mind]]
+- distinct from fading out of self-awareness as described in [[impaired metacognition and self-awareness]]
+
 
 
 ---

@@ -14,7 +14,7 @@ Original Williams writing is at <https://dailymeditate.com/neuroscience-mindfuln
 
 - TPN is task positive network
 - DMN is default mode network
-- see [[Blair Kirchner - TPN vs. DMN – Neural Mechanisms and Mindfulness]]
+- see [[Kirchner - TPN vs. DMN – Neural Mechanisms and Mindfulness]]
 
 
 ---

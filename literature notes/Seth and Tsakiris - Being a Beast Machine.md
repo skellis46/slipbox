@@ -20,6 +20,10 @@ Seth and Tsakiris mention how "Experiences of having a body, and of ‘being a b
 
 They discuss perception of the world through predictive processing (link to [[nondual awareness and predictive processing]]) "in which perceptual content is generally assumed to be conveyed by top-down predictions about the hidden causes of sensory signals" [@seth-2018-being p.970].
 
+- [[the self is a controlled hallucination]]
+- [[Bayes and abductive reasoning]]
+
+
 ---
 
 _original source:_ Anil Seth: Being You (epub) [@seth-2021-being]

@@ -6,7 +6,9 @@ type: evergreen
 
 # Bayes and abductive reasoning
 
-_previous note:_ 
+_previous note:_ [[Seth - Cybernetic Bayesian Brain]]
+
+For detailed understanding of Bayes' Theorem see here: <https://fs.blog/bayes-theorem/>
 
 > But it is Bayes whose name is forever tied to a way of reasoning called ‘inference to the best explanation’, the insights from which are central to understanding how conscious perceptions are built from brain-based best guesses. [@seth-2021-being Loc 1615]
 
