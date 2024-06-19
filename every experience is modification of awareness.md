@@ -13,6 +13,9 @@ _previous note:_ [[there is no boundary between awareness of experience and expe
 - [[sensation, attention, awareness, perception, action and feeling]]
 - [[awareness as modulation of organism and environment]]
 - [[awareness-ing]]
+- [[I never catch myself]]
+
+
 ---
 
 _original source/found:_ Waking Up app

@@ -12,16 +12,16 @@ My hunch in dance is that we say 'sensation' when we mean perception. We humans 
 
 In [[paying attention]] Kabat-Zin distinguishes between paying attention and awareness (specifically that we get more aware by paying attention)
 
-Do I need to add consciousness and experience to this list of things to disambiguate? See [[there is no boundary between awareness of experience and experience itself]]
+Do I need to add consciousness and experience to this list of things to disambiguate? See [[there is no boundary between awareness of experience and experience itself]] and also [[every experience is modification of awareness]]
 
-Regarding paying attention see [[predictive processing vs controlled hallucination#^2849f3]] -- turning up the gain on proprioception, interoception.
+Regarding paying attention see [[predictive processing vs controlled hallucination#^2849f3]] -- turning up the gain on proprioception, interoception. This 'turning up the gain' links to attention in [[objective experience is thinking, sensing and perceiving]].
 
 - [[attending to an object that does not change]]
 
 - Attention is attempt to narrow the field of consciousness (Harris) 
 - attention and volition (act of will) ... attention can be guided by volition (inside and outside body)
 
-> When trying to form perceptions, all the brain has to go on is a constant barrage of electrical signals which are only indirectly related to things out there in the world, whatever 76they may be.[@seth-2021-being Loc 1283] 
+> When trying to form perceptions, all the brain has to go on is a constant barrage of electrical signals which are only indirectly related to things out there in the world, whatever they may be.[@seth-2021-being Loc 1283] 
 
 - "On the controlled hallucination view, the purpose of perception is to guide action and behaviour – to promote the organism’s prospects of survival. We perceive the world not as it is, but as it is useful for us." - [[Seth - Being You#^690ef9]]
 
