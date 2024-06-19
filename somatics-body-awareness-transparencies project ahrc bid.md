@@ -20,9 +20,11 @@ Somatics is the field that studies the body as it is perceived from the inside [
 
 Historically, qualitative and post-qualitative somatics research has focused on describing different practices and the presumed efficacy of such practices (particularly re health and well-being) [@ellis-2023-somatics]. The claims made by dance-informed researchers on behalf of somatics practices are varied including "embodied self-care" [@kampe-2015-eros p.200]; improved "functioning of the mind-body" [@mattes-2016-attentional p.260]; developing spatial awareness [@batson-2007-revisiting]; improved movement efficiency [@batson-2007-revisiting]; become pain free [@eddy-2009-brief]; and physical harmony [@mullan-2014-somatics]. 
 
-Scientists group somatic practices together as _mindful movement approaches_ and, despite the somewhat troubled relationship between somatic practices and science [e.g. @ginot-2010-shusterman; @batson-2012-integrating; @hutt-2010-corrective; @williamson-2009-formative; @green-2007-american; @mehling-2020-if; @schwartz-2014-this; @wait-2023-improvised], scientific studies of these practices are increasingly common. Such research indicates that the "key element and mechanism of action by which somatic practices function is enhanced body awareness" [@mehling-2011-body p.1]. In dance research, Weber describes how "somatics is a field that seeks to repair the body/mind dualism through bodily awareness" [@weber-2009-integrating p.237].
+Scientists group somatic practices together as _mindful movement approaches_ and, despite the somewhat troubled relationship between somatic practices and science [e.g. @ginot-2010-shusterman; @batson-2012-integrating; @hutt-2010-corrective; @williamson-2009-formative; @green-2007-american; @mehling-2020-if; @schwartz-2014-this; @wait-2023-improvised], rigorous scientific studies of these practices are increasingly common. Such research indicates that the "key element and mechanism of action by which somatic practices function is enhanced body awareness" [@mehling-2011-body p.1]. In dance research, Weber describes how "somatics is a field that seeks to repair the body/mind dualism through bodily awareness" [@weber-2009-integrating p.237].
 
 There is now reliable scientific evidence that somatic practices (and other mindful movement practices) improve body awareness (citation?)
+
+> However, when body awareness is defined as the ability to recognize subtle body cues [37], findings from numerous studies seem to contradict the traditional understanding of body awareness and suggest that it may be useful in the management of chronic diseases such as chronic low back pain [18,46], congestive heart failure [37], chronic renal failure [38], and irritable bowel syndrome [47]. - Mehling 2011 body
 
 > Body awareness involves an attentional focus on and awareness of internal body sensations. [@mehling-2011-body p.1]
 
@@ -155,7 +157,7 @@ Curiously, somatically trained dance artists discuss and valorise somatic or bod
 
 - or use embodied intelligence as catch all? Sally: "I'm still wrestling with whether we need to be able to understand or 'label' it in some way. I suppose this would become more important if the project moved onto to consider how this understanding might be used/translated into some kind of output, e.g., that might inform moderation."
 
-- note also mention of embodied self-awareness in lamothe-2015-why.pdf -- see p.212 and Alan Fogel's use of the term 
+- note also mention of embodied self-awareness in [@lamothe-2015-why.pdf] -- see p.212 and Alan Fogel's use of the term 
 
 Eddy mentions Howard Gardner's use of term kinesthetic intelligence: Gardner, H. (1993), Creating Minds: An Anatomy of Creativity Seen through the Lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi. Also Polanyi's work is relevant here: [[we can know more than we can tell]]. See also <https://www.tandfonline.com/doi/abs/10.1080/15290824.2003.10387224>
 

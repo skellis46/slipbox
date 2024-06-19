@@ -60,9 +60,6 @@ _previous note:_ [[nonduality]]
 
 > What do we know about Consciousness? We know that Consciousness is, and that everything is known by and through it. However, Consciousness itself cannot be known as an object.
 
-> If we think that we know something objective about ourselves or the world, then whatever that something is that we think we know, will condition our subsequent enquiry into the nature of experience.
-
-**Note:** Losing oneself : this is the bias of training
 
 > Therefore the investigation into the nature of ourselves and of the world of objects initially has more to do with the exposure of deeply held ideas and beliefs about the way we think things are, than of acquiring any new knowledge. It is the exposure of our false certainties.
 
@@ -90,7 +87,6 @@ _previous note:_ [[nonduality]]
 
 > Consciousness veils itself from itself by pretending to limit itself to a separate entity and then forgets that it is pretending.
 
-
 > However, it may be revealed by it. Understanding is often preceded by a line of enquiry and can subsequently be formulated by the mind. Such a formulation, which comes from understanding and not from concepts, has the power to take us to the experience of Reality. Through its reasoning powers the mind is brought to its own limit and, as a result, the edifice of mind collapses. This is the experience of understanding, the timeless moment in which Consciousness is revealed to itself. Consciousness perceives itself. It knows itself, knowingly.
 
 > I, this Consciousness that is seeing these words and experiencing whatever it is that is being experienced in this moment, is not located inside a mind. The mind is not located inside a body and the body is not located inside a world. The body is simply the sensation of the body and the world is simply the perception of the world.
@@ -107,15 +103,9 @@ _previous note:_ [[nonduality]]
 
 > When we say that the mind can explore its limits we are really saying that Consciousness, the Knowingness that is Consciousness, takes the shape of abstract thinking and, through this shape, explores its own capacity to represent itself in the abstract terms of thought.
 
-> During the appearance of mind, That-Which-Is-Ever-Present is the substance of that appearance and yet is apparently disguised as such. In this case Consciousness fails to recognize itself. However, once this understanding, this Self-recognition, has taken place, Consciousness no longer needs to forget itself during the appearance of the mind (or the body or the world). It recognizes itself in and as the activity of the mind as well as in its absence.
-
-**Note:** Losing oneself: role of body
 
 > Meditation is simply to abide as oneself. We remain as we are and allow the mind, the body and the world to appear and disappear without interference. If there is interference, then that is understood to be part of the mind’s activity and is allowed to be exactly as it is.
 
-> Our objective experience consists of thoughts and images, which we call the mind; sensations, which we call the body; and sense perceptions, which we call the world. In fact we do not experience a mind, a body or a world as such. We experience thinking, sensing and perceiving.
-
-**Note:** Losing oneself: this is so clear
 
 > Consciousness is what we are, and to be as we are is the highest form of meditation. All other meditations are simply a modulation of this meditation of abidance as we are.
 
@@ -193,7 +183,7 @@ _previous note:_ [[nonduality]]
 
 > The screen is in fact never obscured by the appearance of the game. It is all we ever see. We just sometimes fail to notice it. The players seem to obscure the screen but in fact they do not. Rather they reveal it. However, in doing so, they do not reveal something that is hidden. They reveal something, the screen, that is always in plain view, that is always being perceived, but is sometimes not noticed.
 
-**Note:** Losinh oneself - can i construct similar framing re movement ? This is what movement does. It's The football game.
+**Note:** Losing oneself - can i construct similar framing re movement? This is what movement does. It's The football game.
 
 > Having said that, turning off the television is necessary, in most cases, to draw attention to the presence of the screen, to show that the screen was there first, to show that the players depend on the screen but that the screen does not depend on the players.
 
@@ -276,6 +266,353 @@ _previous note:_ [[nonduality]]
 > We no longer feel that we are an entity located here and now, in the sense of being inside the body at a particular moment of time. Rather we come to understand the ‘now’ as timeless Presence, not a moment in time, and the ‘here’ as placeless Presence, not a location in space.
 
 > The mind, the body and the world are understood to be expressions of Consciousness rather than distractions from it.
+
+> A thought, a sensation, a perception and a dream are all made out of the same ‘stuff’ and they all appear in the same space. They are made out of and appear within the same Consciousness, and it is this same Consciousness that is present during the gaps between appearances and during objectless deep sleep.
+
+**Note:** next new note? (after first set)
+
+> It does not make sense to talk about the presence of Consciousness ‘at all times,’ because Consciousness does not exist in time. Time exists as an idea in Consciousness. However, we have to accept these limitations of language if we are to speak of Presence.
+
+> After this timeless interval, Consciousness takes the shape of the next appearance and may identify itself with a part of this appearance, a body. In doing so it ‘forgets’ itself and thereby appears to veil itself from itself.
+
+> This contracted ‘me,’ which is simply Consciousness-pretending-to-be-a-separate-entity, overlooks or forgets that the experience of Peace and Happiness is inherent in its own nature. Instead it seems to become an intermittent experience that can be lost and therefore every time we have the experience of someone or something that once made us peaceful or happy, but now makes us agitated or unhappy, should be enough to indicate that Peace and Happiness are not delivered by objects.
+
+> However, it is not objects themselves that veil Peace and Happiness. It is the fact that we think and feel them to be objects, outside and separate from ourselves. With this feeling that objects are on the outside and separate, comes the corresponding thought and feeling that ‘I,’ the presence of Consciousness, is on the inside and is similarly separate.
+
+> It is the experience that is revealed every time a desire comes to an end. Desire is agitation and Happiness is the ever-present background of all states that is revealed when this agitation ceases.
+
+> Desire is agitation and Happiness is the ever-present background of all states that is revealed when this agitation ceases. Of course, it is also present during the agitation itself as it is the background of all states, but it is not experienced as such.
+
+> The thought, sensation or perception reveals Consciousness in the same way that the reflection reveals the mirror.
+
+> The object that appears in Consciousness is nothing other than Consciousness, in the same way that the object that appears in the mirror is nothing other than mirror.
+
+> Our experience is one of a stream of appearances in Consciousness. These events are thoughts, feelings, sensations and perceptions, one following another... A, B, C, D, E... Each is utterly unique and each disappears absolutely before the next arises.
+
+> However, when the hearing of rain is present, the ‘I’ thought is not. Likewise when the thought ‘Let’s have some tea’ is present, the ‘I’ thought is not. In between these two thoughts lies the timeless presence of Consciousness, the blue sky shining between the clouds. The ‘I’ thought is created to fill this interval, to impersonate the true ‘I’ of Consciousness
+
+> experience is not a series of events appearing in Consciousness, but rather that it is Consciousness itself taking the shape of hearing, thinking, tasting, enjoying, perceiving, etc.
+
+> Consciousness is not separate or removed from the object, perceiving it from a distance. When an object is present, that object is one with Consciousness. If they separate, the objective aspect vanishes utterly, instantly, whilst Consciousness remains as it always is.
+
+> Language cannot describe this, because even in attempting to describe it there is a reference to two things, the object and Consciousness. Two words are used whereas in fact there are never two things.
+
+> In fact, in the ultimate analysis, there are no objects. There is only Consciousness taking the shape of our experience from moment to moment
+
+> The ‘I-am-the-body’ idea arises in Consciousness, just like any other appearance and, as such, it is the form that Consciousness takes at that moment. However, the fact that it arises in Consciousness doesn’t necessarily make it true, any more than the thought that two plus two equals five, which also arises in Consciousness, is true.
+
+> It is an expression of Truth, but it is not true. The sensation or cluster of sensations that are referred to as ‘the body’ seldom appears without some perception of the world also. This conglomerate of sensations and perceptions is one seamless experience. However, Consciousness arbitrarily divides this seamless experience of sensations/perceptions into two, into sensation and perception. It does this by identifying itself exclusively with the sensations, with the body, and by disidentifying itself from the perceptions, from the world. It thinks, “I am this cluster of sensations, the body, but not that group of perceptions, the world.” Therefore, it is not so much the ‘I-am-the-body’ idea but rather the ‘I-am-only-the-body’ idea that is problematic.
+
+> Consciousness is one with the totality of every experience, not just with a fragment, the body/mind.
+
+> ‘I am not the body’ is true in that it suggests that ‘I,’ Consciousness, am not the body if by ‘body’ we mean an object that is outside and separate from Consciousness.
+
+> The natural state is not to be exclusively identified with anything. It requires an effort to identify Consciousness exclusively with the body or the mind.
+
+> From time to time old layers of identification with the body/mind reappear. However, they lose their separating power and with it their capacity to induce suffering.
+
+**Note:** Losing oneself: identifying with body is this the transition?
+
+> For that reason Love is said and felt to be unconditional, uncaused, unmodified, universal. It has no opposite. It is inherent in our true nature.
+
+> However, as no objective content is present in this experience, there is nothing to be remembered ‘there.’ Nothing objective is experienced, so the mind, which comprises only objects, cannot lay claim to this experience. It was not present during it. There was no mind and therefore nothing to be remembered.
+
+> As it reappears, the mind interprets this experience of the timeless presence of Consciousness as a blank, a void, because all it can know are objects. It would be more accurate to say that Consciousness represents this experience of its own formless presence, as a blank object in the mind. However, even a blank or a void is a subtle object.
+
+> As a consequence of buying the ‘blank object’ theory in this way, the ‘I am not present’ theory, Consciousness is condemned to looking for itself within the realm of objects.
+
+
+>In fact the experience of Consciousness knowing itself is always taking place. It is taking place in the absence of objectivity and in the presence of objectivity. That is why it is not quite true to say that Consciousness forgets itself. It would be more accurate to say that it pretends to forget itself.
+
+>From the conventional point of view our experience consists of a multitude of different objects, comprising various combinations of mind, body and world. That is, it comprises thoughts, images, bodily sensations and sense perceptions.
+
+>This little enclave of objects called ‘the mind and the body’ is given special status in this process of abstraction. It is partitioned off from all the other conceptualised objects and, strangely, it is given the status of subject. It is considered to be ‘me,’ whilst all the other conceptualised objects, including of course everyone else, are considered to be ‘other.’
+
+>The concept of separate isolated objects is an interpretation of our experience. It is not a description of it. The interpretation is a useful hypothesis but it is a mistake to confuse the interpretation for the actual experience.
+
+>The second thing that we learn from this exploration is that the boundary line we draw around a small enclave within the totality of our experience, and which we label ‘me,’ is an arbitrary one. It bears no relation to actual experience. For instance, it is not possible to draw a clear line between the body and the world.
+
+>However, it is also in fact going too far to say that there is ‘one thing.’ As soon as we make an object of it, a subject is implied, and again we are in the realm of duality, of two things. So, ‘one thing’ implies ‘two things.’ As soon as we name it, however transparent the word we use, some degree of objectivity and, by implication therefore, subjectivity, is implied. At the same time we have to recognise that whatever it is that we are trying to speak about, is not ‘nothing.’ So let us refer to this as a ‘seamless totality’ or ‘Oneness,’ on the understanding that even these words confer a shadow of objectivity on that which cannot in any way be described by words or mind, and yet which itself illumines all words and minds.
+
+>In order to make a more thorough exploration of the nature of our experience, we will again draw an artificial line within the seamless totality of experience, within this ‘Oneness,’ and provisionally separate the witnessing Consciousness from the witnessed mind/ body/world.
+
+>This separation is conceptual only, for the sake of clarity and understanding. It never actually takes place.
+
+>Within every experience there is something that perceives and there is something that is perceived, whatever that something is. Whatever it is that perceives is referred to as ‘subject’ and whatever is perceived is referred to as ‘object.’
+
+>Again, we are in the realm of duality, of subject/object relationship. However, this time we are closer to the facts of our experience. This time Consciousness is the subject and the mind/body/world is the object. Previously the mind and body was the subject and the world, including others, was the object.
+
+>So now we have divided the unity of experience into a subject, Consciousness, that witnesses, and an object, the mind/body/world, which is witnessed.
+
+>Consciousness loses itself in the world of objects. The moment it turns its attention away from objects towards itself, it recognises itself. As it turns its attention more and more towards itself, it becomes absorbed in itself.
+
+>The world of objectivity – or, rather Consciousness-lost-in-the-world-of-objectivity, which is represented by the son – is reintegrated with the father.
+
+>Consciousness is the totality of our current experience, taking the shape of this current experience now and now and now.
+
+>mind, and allows it to return to its true abode,
+
+>We, Consciousness, take the position ‘I am nothing conceivable or perceivable.’
+
+>There is never a true object of Consciousness and therefore Consciousness is never the subject of experience. Consciousness and its object are always one, beyond the realm of subject and object.
+
+>It is the ‘I am the body/mind’ belief that gives rise to the ‘I am not the world’ belief. These two beliefs are co-created.
+
+>As we fall asleep we first experience the withdrawal of sense perceptions or, more accurately, the faculties of perceiving and sensing. With the disappearance of perceiving, the world vanishes from our experience, and with the disappearance of sensing, the body vanishes from our experience, leaving only thinking and imagining. This is the dream state.
+
+>The thinking and imagining functions are in turn withdrawn and, as a result, the dream state gives way to deep sleep. In deep sleep Consciousness simply remains as it always is, open and aware, only there are no objects present within it.
+
+>Consciousness projects the appearance of the mind, body and world by taking the shape of thinking, sensing and perceiving. The process of falling asleep is not one of a separate entity transitioning through states. It is simply the withdrawal of this projection.
+
+>The mind construes that the time it imagines to be real is an actual experience. It imagines that time is present in the absence of mind, in the absence of itself, and therefore imagines that deep sleep has duration. Deep sleep is therefore considered to be a state.
+
+**Note:** LOS: thinking of time and tie w conversations with KC?
+
+>Experiencing is the essential ingredient of the mind, the body and the world, and Consciousness is the essential ingredient of experiencing.
+
+>Every experience that has ever occurred always occurs ‘Now.’ The past and the future are in fact never actually experienced. Thoughts and images about the past and future are experienced, but they always appear ‘Now.’
+
+>In fact time is never experienced. Only ‘Now’ is experienced. Time is a concept, albeit a useful one, but it is not an experience. The concept of time is an experience but time itself is not.
+
+>‘Now’ is ever-present. Was there ever a time that was not ‘Now’? ‘Now’ is not a moment. A ‘present moment’ is never experienced. A ‘present moment’ implies an infinitesimally short duration of time. Duration implies a before and an after, a past and a future. The ‘present moment’ is normally considered to be one of innumerable such moments that arise in succession ad infinitum.
+
+>‘Eternity’ is a word that is used to indicate this ‘ever-present Now,’ and although it has become associated with an infinite amount of time, in its original meaning it is perhaps the closest word that is available to convey the immediacy and Reality of ‘Now.’
+
+>These ‘moments’ in between the appearance of objects, whether thoughts, images, sensations or perceptions, are conceived of as gaps of minute duration that appear within the flow of experience.
+
+>However, in attempting the impossible task of using mind to look towards that which is not an object, Consciousness is somehow undermining its habit of looking ‘outside’ and ‘elsewhere.’ The mind dissolves when it tries to see or touch that objectless place.
+
+>Attention is Consciousness with an object. When the object vanishes, attention simply remains what it always is, Consciousness
+
+>The Being that shines in all experience is known in ourselves as the experience ‘I am.’ In the world it is known as ‘It is.’
+
+>We share the Presence that we are with all things.
+
+>The mind, the body and the world do not obscure Consciousness. They indicate it. They reveal it. They express it.
+
+>There is no purpose to meditation. The purpose is already accomplished. We are already what we are. We are already what we seek.
+
+>However, it is artificial to divide our experience into two, into Consciousness and the mind/body/world, into the subject ‘I’ and the object, the mind/body/world. The reason for doing this is not to describe the Reality of our experience but rather to draw attention to the presence and primacy of Consciousness. Normally we are lost in objects, in the mind, body and world, and we are not even aware of the presence of Consciousness. So in order to see clearly that Consciousness is present in every experience, we take a step back, so to speak, from the objects of the mind, body and world. By doing this we establish that not only is Consciousness present in every experience, but that it is our primary experience. Once we have established the presence of Consciousness as a fact of actual experience, we can take another look at the mind, body and world from the point of view of Consciousness.
+
+**Note:** LOS  it  is as if thr body as object is so clear but becoming a passenger is when the body loses its objwcthood. A path to consciousness.
+
+>We can do the same experiment with a bodily sensation. Take the tingling sensation of the face. Where does that sensation appear? Is there an interface between the sensation and Consciousness? Does it not appear in the same place as thoughts appear? Does it not appear not just to Consciousness but within Consciousness?
+
+>When thoughts, sensations and perceptions appear, they appear in Consciousness not just to Consciousness.
+
+
+> It is not the world that contains the body, the mind and Consciousness. It is Consciousness that contains the mind, the body and the world, on an equal footing.
+
+> The mind, the body and the world appear in Consciousness. That is our actual experience. It is not an extraordinary experience.
+
+> This exploration about the true nature of experience can be taken further. Once it is seen clearly that thoughts, bodily sensations and world perceptions appear in Consciousness, we can investigate what is the actual substance of that experience, of that object. Take a thought, for instance. Is its substance different from the Consciousness in which it appears? Is there any difference between the actual sensation of the tingling in our fingers and the Consciousness in which it appears?
+
+> it made of a substance that is different or distinct from the Consciousness in which it appears? Is there any difference between the actual sensation or perception and Consciousness itself?
+
+> The very substance of every experience is the substance of Consciousness. Objects do not just appear in Consciousness they appear as Consciousness Consciousness does not just witness every experience, it expresses itself as every experience. Everything that is experienced is experienced by, through, in and as Consciousness.
+
+> The apparent experience of a solid object is dissolved in this understanding, and is replaced by the understanding that we in fact experience a series of fleeting, insubstantial perceptions. It is in this sense that ‘everything falls apart.’
+
+> Nature appears to us as form and concepts. Form is the raw data of the sense perceptions and concepts are the labels or interpretations, pieced together by the conceptualising power of mind.
+
+> The image in the mirror is made only of mirror.
+
+> Being without form, it cannot be said to have any limitations, because any limitation would have to have a form, would have to be experienced through the mind or the senses, in order to be an objective experience.
+
+**Note:** LOS: limits of documentation
+
+> If they have no objective qualities how can they be said to be separate or different? They cannot! Therefore, whether we realise it or not, in our actual experience they are one, Consciousness/Existence, not Consciousness and Existence.
+
+> Nothing happens to Consciousness when a perception appears or disappears. It takes the shape of the perception but remains itself, just as a mirror takes on the appearance of an object and yet always remains exactly as it is.
+
+> He did not say that art depicts Reality any more than literature describes it, but rather that it gives us a taste of Reality. It takes us to the direct experience, the intimate knowing that Consciousness, what we truly are, is the substance of Reality, that there is only one thing, that there is only Being.
+
+> This is in line with Indian philosophy, which describes every experience as an expression of ‘nama rupa Sat Chit Ananda.’ ‘Nama’ is ‘name.’ It is that part of an experience that is supplied or conditioned by thinking. It could be called the concept, the label that the mind uses to frame the experience. It says, “That is a chair.” The concept ‘chair’ is nama. ‘Rupa’ is ‘form.’ It is that part of an experience that is supplied by the senses. Each of the senses has their corresponding object in the world. The sense of seeing has its counterpart in the objects of sight. The sense of hearing has its counterpart in the objects of sounds, etc. The senses condition the way Reality appears to us depending on their own characteristics. ‘Nama’ and ‘rupa’ together constitute the appearance of nature or an object.
+
+> If we are to apprehend the real nature of experience, independent of the particular characteristics that are conferred upon it by the mind and senses, we have to denude our experience of that part of it that is supplied by the experiencing apparatus, the instruments of perception, that is the mind and the senses.
+
+> The experience of this realisation is known in India as ‘Ananda,’ which has traditionally been translated as ‘bliss.’ However, this translation can be misleading. It suggests that the realisation of Oneness is considered to be accompanied by a rare and exotic state. And this in turn initiates the search for an extraordinary experience, for something that is not simply this.
+
+> ‘Ananda’ is perhaps better translated as Peace or Happiness, or simply Fulfilment. In fact it is very ordinary. It could be described as the absence of agitation or the ease of Being.
+
+> When we separate that part of our experience that is imposed or enclosed, as Blake put it, by the mind and senses, by the instruments of perception, Consciousness and Reality are realised to be one.
+
+> Although all objects ultimately come from this experience and are therefore an expression of it, there is a particular category of objects that could be called sacred works of art, that shine with the presence of this understanding and therefore have the power to convey or communicate it directly. They evoke it. In classical Greece this experience was described as ‘Beauty.’
+
+> Beauty is not the attribute of an object. It is inherent in the fundamental nature of experience. It is the experience of recognising that Consciousness and Reality are one.
+
+> At some point, and that moment is always now, Consciousness begins to select some objects over and above others. Instead of allowing everything to flow freely through itself, as the creator, witness and substance of all appearances, it focuses on some objects in favour of others.
+
+**Note:** LOS: fixation on the object of the body
+
+> In order to substantiate this new status of separation, Consciousness bestows its ‘ever-presentness’ onto a small group of sensations that comprise the body.
+
+> Consciousness bestows its identity exclusively on the body. It believes and feels, “I am the body.”
+
+**Note:** LOS: over identification with body in dance?
+
+> The open space of Consciousness begins to know itself again as a welcoming space in which everything is allowed to pass, as it will, when it will, where it will.
+
+> The net of desires and fears is unstitched in this welcoming space and fewer and fewer objects are caught in it. In the end it is threadbare and what remains of its density is so permeated with space that it no longer has any power to separate anything from anything. The body returns to its original transparency, open, available, loving and acutely sensitive, but holding onto nothing. The mind is liberated from the tyranny of a separate self and becomes clear, lively and kind. The beauty and vibrancy of the world is restored.
+
+> Upon waking from the dream we discover that the ‘individual person’ that seemed to be the experiencer of the dream was in fact experienced within the dream. However, upon waking we transfer the status of ‘experiencer’ from the ‘individual person’ who seems to be present in the dream to the ‘individual person’ who now seems to be present in the waking state.
+
+> That is why the transitions from the waking state to the dream state and from the dream state to deep sleep, and vice versa, are considered in some spiritual traditions to be such significant opportunities for awakening.
+
+**Note:** LOS: transition!
+
+> In these transitions, that which is illusory in each state is laid bare. And, by the same token, that which is real in each state, that which does not disappear during the transition, is revealed.
+
+> Imagine the first experience that ever appeared to us as a newborn infant or, even before that, the sensations and perceptions that appeared to us in the womb. Were we not present as Consciousness before and during that first experience? Must we not have already been present in order to be able to experience that first experience? And has our life since then not simply been a succession of appearances, all appearing to this Consciousness that we are?
+
+> Of course it does not make sense to say ‘before that first experience,’ because there were, by definition, no objects present ‘then’ or ‘there,’ and without objects there is no time or space.
+
+
+> All experience takes place here. This here is not a physical space. It is the space of Consciousness in which all experiences, including the apparent experience of space, takes place. A distant sound takes place here. The thought that subsequently conceives that sound to be at a distance from the perceiving Consciousness takes place in the same space as the sound itself. It takes place here. The chair on ‘the other side of the room’ is perceived here, in exactly the same place as the sound and the thought, at no distance from Consciousness. All bodily sensations take place in the same placeless place, which is here.
+
+> This here is not a location inside the body. The body is a sensation inside this here, inside Presence.
+
+> All experience takes place now. All memories of the past take place now. All thoughts about the future take place now. This now does not last in time. All time lasts in it.
+
+> The mirror of Consciousness is the screen on which everything is experienced and, at the same time, it is that which experiences everything. The image that appears in the mirror is made only of mirror. Whatever appears in Consciousness is made only of Consciousness
+
+> Rather, Consciousness takes the shape of the object, of the current experience, from moment to moment, whilst always remaining exactly as it is.
+
+> As the water in the ocean rises and swells into the shape of a wave, flows for a while and then falls back into the ocean, without ever for a moment being anything other than water, so every object, every experience, arises within Consciousness, takes its unique shape, does its unique thing, and then offers back its name and form to the ocean of Presence, which abides in and as itself, before taking the shape of the next wave.
+
+> The wave gives water a name and a form. When the wave vanishes, only name and form vanish. Water remains as it always is.
+
+> The thinking mind is a series of abstract concepts with which we, as a culture, have agreed by common consent to represent our experience so as to enable us to communicate.
+
+> The language of the mind does not deliver the object that it represents. It indicates it.
+
+> The presence of a doubt indicates, by definition, the presence of a belief underneath it. Belief and doubt always come together. If a thought represents a fact, we know it, we do not believe it. And if we know it we do not doubt it. If we doubt it we do not know it. And if we do not know it, it is a belief and not a fact.
+
+> The ‘dismantling of the edifice,’ the dismantling of that which prevents the man from seeing himself in the mirror, of that which prevents Consciousness from knowing itself knowingly, is, at the level of the mind, the investigation of our thoughts. Are they facts or are they beliefs? A thorough investigation of our ideas reveals most of them to be beliefs rather than facts.
+
+> So the investigation into the nature of our experience involves the reduction, in our understanding, of apparent facts to beliefs and the subsequent reduction of beliefs to ideas.
+
+> It is the freedom that Consciousness has from moment to moment: to create the idea that it is a separate, personal entity, to believe that idea, to forget that it has chosen to believe it and therefore consider it a fact, to explore the fact and rediscover that it is a belief, to stop believing it and realise again that it is simply an idea, and is, as such, one of many possible modes of being that Consciousness chooses from moment to moment, out of its own freedom.
+
+> This is why Ramana Maharshi was often silent when asked a question. The highest answer to a question about the nature of Reality or the Self is always Reality or the Self itself, and this cannot be spoken of. So he would just remain silent.
+
+> We are deceiving ourselves if we wash a veneer of ‘unknowing’ over deeply held beliefs and prejudices, or a veneer of ‘There is only one Consciousness’ over feelings that ‘I’ am this body or am in this body.
+
+> It is an experiential exploration rather than a rational investigation into the nature of separation, and as such little can be said about it in rational terms, although some hints may be given. It is for this reason that not much is said in this book about this exploration at the level of the body.
+
+> The belief in separation is the tip of the iceberg. The vast majority of the iceberg remains hidden underwater in the murky realms of feelings and bodily sensations.
+
+> Every experience, every appearance, is a wave on the ever-present ocean of Presence.
+
+> We do not experience a multitude of moments. We experience one ever-present Now. And this ever-present Now is coloured from time to time with apparent objectivity.
+
+> The refraction of the screen into an apparent multiplicity of objects is in appearance only. We are in fact always seeing the screen. There is in fact only ever one thing that is present and the substance of that thing is only the screen.
+
+> We cannot claim to be experiencing objects and Consciousness at the same time,
+
+> Sooner or later Consciousness comes to see the difference between its own openness, its own Presence, which welcomes all things into itself with benevolent indifference, and a mind which, by definition, sees differences and yet has imposed on itself a straitjacket of ‘nonjudging.’ Such ‘non-judging’ comes from fear and confusion. It is not the true, benevolent indifference of Presence.
+
+> With one exception, Reality cannot be touched by the mind, although the mind is always shining with its light, in the same way that the moon shines with the sun’s light. That exception is the thought about Reality itself. When we think about the nature of Reality, the mind comes to its own limit, because Reality is beyond the abstract concepts of the mind and therefore has no objective characteristics. It is like a man who runs towards a precipice and comes to the edge. If he proceeds he plunges into the void and dies.
+
+> However, the essence of the experience, a moment of Consciousness knowing itself knowingly, is colourless and transparent, and therefore cannot be remembered.
+
+> We do, however, remember the impact of this non-objective experience at the level of the body and the mind. This impact is often confused with the non-objective experience of Consciousness knowing itself and, as a result, these states of the body/mind become the object of intense seeking that sometimes lasts a whole lifetime.
+
+> Consciousness is in the looking, not in the looked for.
+
+**Note:** LOS: when become passenger consciousness we become the looking and there is no looked for
+
+> There are no objects in deep sleep and therefore no boundaries, so Consciousness, Peace and my Self are identical.
+
+> Every experience of the dream and waking worlds is only this ‘Consciousness-Peace-I’ taking the shape of thinking, imagining, sensing and perceiving.
+
+> It is an alive, open unknowingness that is free to take any shape or any position at any moment, in relation to the moment itself.
+
+**Note:** Freedom. Taking any shape  dancing
+
+> In this way the teaching remains free of fixed formulations, dogma and fundamentalism. It remains fluid, playful, enjoyable, unpredictable and ungraspable. It always leaves us in open unknowingness.
+
+> This open unknowingness is what we are. It is not something that we know.
+
+> No formulation of the Reality of experience is completely true. Once we acknowledge this, we relieve words of the impossible burden of trying to express the true nature of experience and, as a result, leave them free to be spoken and heard in playful and creative ways that evoke Reality itself, but never try to frame or grasp it.
+
+**Note:** Documentation
+
+> You, Consciousness, are prior to experience. You, Consciousness, are not the result of an experience.
+
+> Therefore your Being, your Reality, and the Peace and Happiness that are inherent therein, cannot be the result of a practice. Any so-called practice that aims for Happiness cannot be called spiritual. It is worldly. It is end-gaining. It is a perpetuation of the strategies of consolation and avoidance that characterise conventional life in the world.
+
+**Note:** We are not seeking anything
+
+> This unwinding of the tangled knot of seeking is the end of the conventional spiritual search. It is the deep understanding that nothing can be done as an individual, that the individual itself is a form of doing.
+
+> What we previously thought to be ‘practice’ or ‘doing’ is no longer a choice. It is an impossibility. At the same time the offering of the body, the mind and the world to Presence becomes an inevitability.
+
+> From the outside this may look like a practice, like something that an individual is doing for a desired end, and it may not differ outwardly from more conventional modes of spiritual seeking. However, it is nothing of the sort. They are worlds apart. In fact it is not even the offering of the body, the mind and the world. It is the reclaiming of the body, the mind and the world, their re-absorption into that from which they were never for a single moment separated. This should not really be called practice. It should be called love. In fact, it is love.
+
+> However, if we explore the relative truth of both statements, we free ourselves from the dogma attached to either position and, in this case, the issue is transcended in Understanding rather than resolved in knowledge.
+
+> Desire, at the level of the body, and seeking at the level of the mind are, in most cases, forms of agitation. They are modulations of a sense of lack, a sense that something is not right, that something needs to be secured or known.
+
+> Happiness is another name for Consciousness. It is the particular name Consciousness gives itself when it experiences itself at the end of a desire.
+
+> Likewise Understanding is another name for Consciousness. It is the particular name Consciousness gives itself when it experiences itself at the end of a thought.
+
+> Seeking itself is simply the name and the shape that Consciousness takes as it sets out in search of itself.
+
+> Happiness is not an experience that Consciousness has. It is what Consciousness is. That is why Joy is said to be causeless.
+
+> Once we see clearly that it is the ending of desire, rather than its fulfilment, that reveals the inherent Happiness, we no longer search for an object to make us happy. We may desire an object with which to express Happiness, but this Happiness is not dependent on the object.
+
+> Happiness, like Beauty and Love, is absolute, not relative. They are all inherent in Consciousness, and as such they do not change or disappear. They are the experience of Consciousness knowing itself, knowingly.
+
+> When the mind dissolves at the end of a thought, Consciousness recognises itself, and this recognition is called Understanding. When the body dissolves at the end of a bodily sensation, Consciousness recognises itself, and this recognition is called Happiness or Love.
+
+> When the world dissolves at the end of a perception, Consciousness recognises itself, and this recognition is called Beauty. The words Understanding, Happiness, Love and Beauty are all synonyms for Consciousness, for ‘I.’ They do not refer to objects.
+
+> All objective experience – that is the mind, body and world – is made out of thinking and imagining, sensing, and seeing, hearing, touching, tasting and smelling. What happens to our entire objective experience, including all of our suffering, when all of these are removed? It vanishes.
+
+> And if we go deeply into our experience at any given moment, we find that suffering is also non-existent there. In fact deep sleep and the present moment share much in common, whilst the past and the future have much in common with the dream state.
+
+> Thinking, imagining, sensing, seeing, hearing, touching, tasting and smelling are the particular forms that knowing or experiencing takes.
+
+> Theoretical understanding is only possible in relation to an object. That is because, when we think of an object, the mind forms an image or a concept of that object, but never actually comes in contact with the object itself.
+
+> However, the thought about Consciousness is different. The mind cannot represent that which has no objective qualities, so when it goes towards Consciousness, it collapses. It just cannot go there. How could a three-dimensional object enter a two-dimensional plane? How could a two-dimensional plane enter a one-dimensional point? And how could the one-dimensional object of mind enter the zero-dimensional space of Consciousness?
+
+> From the mind’s point of view, it is the end of seeking, rather than its fulfilment, that brings about the revelation of Presence
+
+> Understanding, which is not a knowing of something, but rather Knowingness itself, permeates every aspect of our life from an unknown direction. It just happens naturally.
+
+> Advaita, Non-Dualism, is not a bland whitewash of all the individual elements in each of our characters. In fact it is rather the opposite. Individuality means un-divided. Individuality is the unique expression of the undivided whole, which each body/mind expresses, and it tends to flourish rather than diminish, when we are relieved of the strait-jacket of ignorance – that is, when we stop ignoring our Self.
+
+> Similarly, Non-Dualism is not an immunisation against feeling. In fact it is the opposite. It is complete openness, sensitivity, vulnerability and availability.
+
+> Actually, suffering is our resistance to feeling, rather than a feeling itself.
+
+> So we don’t try to use this Understanding. We allow it to use us. We allow it to shape our life. We don’t put it into another straitjacket and dictate how it should operate.
+
+> Much of the mind’s activity is designed to avoid feeling. For instance, any form of repetitive, compulsive thinking is usually a sign that just below its surface lies an uncomfortable well of feelings. However, sooner or later, these uncomfortable feelings begin to percolate through the strategies and coping mechanisms that the mind has constructed.
+
+> The welcoming space of our own Awareness, which once seemed to be in the background or even eclipsed by these all-consuming feelings, begins to emerge and, as a result, the feelings begin to recede. In fact, they don’t really recede. Devoid of the mental commentary that previously gave them meaning and validity, they are experienced more and more as innocuous bodily sensations.
+
+> The idea that time is like a container, that houses all the events of our lives is in fact a temporal representation of Consciousness, in the mind.
+
+> Events do not appear in time and objects do not appear in space. They both appear in Consciousness.
+
+> The separate self is one such dot, given apparent continuity by the presence of Consciousness. As Einstein said, “The separate self is an optical delusion in Consciousness.”
+
+> However, even if for the time being, we provisionally grant the existence of objects, the essential ingredient of every experience is Consciousness itself. This is easy to check for ourselves by asking what would happen to experiencing if an object, such as this book, were now to be removed. Nothing! It would continue, although it would have a slightly different character. However, what would happen to experiencing if Consciousness were to be removed? It would vanish absolutely. So the experiencing part of an object belongs to Consciousness, not to the object, if such an object exists. So in deep sleep, when Consciousness is, so to speak, all alone, with no objective content, the Experiencingness of Consciousness remains exactly as it always is, pure experiencing.
+
+> Consciousness is Experiencingness and because Consciousness is always present, so experiencing is always present. How could this Experiencingness not be experiencing itself all the time?
+
+> The mystic tends to start with the investigation into the nature of the Self. The artist tends to start with the investigation into the world. But both ultimately arrive at the same conclusion, that Consciousness is the fundamental Reality of the world, that Consciousness and Being are one.
+
+> Consciousness has become so accustomed to shrinking itself into the frame of a body and a mind that the release from this self-contraction is often accompanied by a sense of elation or expansion.
+
+> However, at times Consciousness divides the totality of experience into two camps. Everything that is part of the ‘not me’ camp is called ‘the world.’ Everything that is part of the ‘me’ camp is called ‘the body/mind.’
+
+> This cycle of projecting the mind, body and world every morning and withdrawing the projection every night, as well as many other times during the day, continues in exactly the same way even when Consciousness has come to recognise its own unlimited Freedom.
 
 ---
 _reference:_ 
