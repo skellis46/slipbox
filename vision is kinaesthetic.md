@@ -6,7 +6,7 @@ _previous note:_  [[without symbolic mediation]]
 
 Barker cites (on p.2) the American psychologist James J. Gibson (actually, she cites him through an incorrectly referenced article by Anne Rutherford -- 2003 and _not_ 2002):
 
->vision is kinaesthetic in that it registers movements of the body just as much as does the muscle-joint-skin system and the inner-ear system.
+> vision is kinaesthetic in that it registers movements of the body just as much as does the muscle-joint-skin system and the inner-ear system.
 
 -- J. J. Gibson (1979) _The Ecological Approach to Visual Perception_ (p.183), cited in <http://sensesofcinema.com/2003/feature-articles/embodied_affect/>
 
