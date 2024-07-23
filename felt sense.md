@@ -12,6 +12,8 @@ _previous note:_ [[soma is embodiment of a process]]
 
 Including this so that I have a sense of when this term was first used.
 
+- see also [[felt sense versus direct experience]]
+
 ---
 
 _original source/found:_ [@eddy-2017-mindful p.8]
