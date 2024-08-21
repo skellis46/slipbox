@@ -1,12 +1,25 @@
 ---
 aliases: 
 tags: 
+  - somatics-body-awareness-transparencies
 type: evergreen
 ---
 
 # somatics-body-awareness-transparencies - annotated bibliography
 
 _previous note:_ 
+
+> The body is everywhere assaulted by all of our new media, a state which has resulted in deep disorientation of intellect and destabilization of culture throughout the world. In the age of disembodied communication, the meaning and significance and experience of the body is utterly transformed and distorted.”
+> Have I mentioned that I’ve been trying to figure out the Internet?”
+ – Eric McLuhan
+
+  [Uranus, Eris, and the Riddle of the Internet]([https://www.chronogram.com/horoscopes/uranus-eris-and-the-riddle-of-the-internet-2373025](https://www.chronogram.com/horoscopes/uranus-eris-and-the-riddle-of-the-internet-2373025)), by Eric Francis Coppolino" (swissmiss, Disembodied Communication)
+
+> In the past decades a growing body of research on embodiment has demonstrated that not only bodily sensations, but also bodily postures, gestures and expressions are inherent components of emotional experience and tacitly influence the evaluation of persons, objects and situations as well as memory recall. (Thomas Fuchs and Sabine C. Koch, Embodied Affectivity: On Moving and Being Moved)
+
+## Body Image and Social Media: Research and Practice in a Changing Environment
+
+https://pureportal.strath.ac.uk/en/projects/body-image-and-social-media-research-and-practice-in-a-changing-e
 
 ## Clark et al - Mindful movement and skilled attention
 

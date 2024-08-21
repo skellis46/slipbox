@@ -1,6 +1,7 @@
 ---
 aliases: 
 tags: 
+  - somatics-body-awareness-transparencies
 type: 
 ---
 

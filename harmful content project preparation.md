@@ -1,6 +1,7 @@
 ---
 aliases: []
 tags: [harmful_content]
+  - somatics-body-awareness-transparencies
 type: evergreen
 status: in-progress
 ---
