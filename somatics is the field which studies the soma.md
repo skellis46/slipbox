@@ -1,6 +1,6 @@
 # somatics is the field which studies the soma
 
-Thomas Hanna distinguishes between the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception). He says that somatics is "the field which studies the _soma_".[@hanna_what_1995 p.341] The term _somatics_ was coined by Hanna in the 1970s "to describe and unify"[@eddy_brief_2009 p.7] various processes which involved "listening deeply to the body."[@eddy_brief_2009 p.6]
+Thomas Hanna distinguishes between the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception). He says that somatics is "the field which studies the _soma_". [@hanna-1995-what p.341] The term _somatics_ was coined by Hanna in the 1970s "to describe and unify" [@eddy-2009-brief p.7] various processes which involved "listening deeply to the body."[@eddy-2009-brief p.6]
 
 Hanna says the body and the soma are "categorically distinct"[@hanna-1995-what p.341] because the mode of perception is different: "immediate proprioception" that provides "unique data".[p.341]
 
