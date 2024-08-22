@@ -10,6 +10,8 @@ _previous note:_ [[an object of special regard]]
 
 > There are experiences of embodied selfhood that relate directly to the body. These include feelings of identification with the particular object that happens to be your body – we feel a certain sense of ownership over our body that doesn’t apply to other objects in the world. [@seth-2021-being Location 2481]
 
+See Graeber and Wengrow and special kind of ownership of our bodies in [[pressure, stress and strain - the body in time]]
+
 - [[the body as an object of special regard]]
 - [[the self is a controlled hallucination]]
 - [[the self is another perception]]
