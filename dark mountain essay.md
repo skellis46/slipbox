@@ -55,13 +55,19 @@ we are given simple scores to follow that involve being in these environments fo
 
 > In his latest and last book, _Mortality_, Christopher Hitchens writes, "I don't have a body, I am a body." (86) He goes on to observe that he has "consciously and regularly acted as if this was [_sic_] not true." (https://maverickphilosopher.typepad.com/maverick_philosopher/2012/09/am-i-a-body-or-do-i-have-a-body.html)
 
-
+> This unwinding of the tangled knot of seeking is the end of the conventional spiritual search. It is the deep understanding that nothing can be done as an individual, that the individual itself is a form of doing." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
 That man on the side of the road died. He died in the rain while two people pushed the weight of their bodies into his chest. The next day there were flowers to mark the spot, the same spot where that car did not even make a mark on the wall. He is us. Making no mark.
 
 
+Flow - stepping towards something 
+Practice: stepping back. It's a non-task. 
+
+> "What does it mean to be a ‘self’? While some have argued that there may be no ‘thing’ that is a self [[1]](https://www.sciencedirect.com/science/article/pii/S1364661318302079?via%3Dihub#bib0005), experiences of selfhood are among the most pervasive aspects of human consciousness. Perceptions of the external world come and go, but it is their relation to the experience of ‘being an experiencing subject’ that gives these perceptions meaning, value, and emotional relevance. How perceptual experiences of ‘being a self’ are constructed is therefore a key question for cognitive science." (sciencedirect.com, Being a Beast Machine: The Somatic Basis of Selfhood)
+
 > In those special moments in which we need to become aware of our own subjectivity, doing so can facilitate our engagement with the world. But in most cases, that superimposition does not render us more effective or more aware of what transpires around us. Instead, it makes us less aware of our surroundings and of the objects or others to whom we should be attending; that is, it makes us self-conscious in the pejorative sense of that term. (Jay L. Garfield, Losing Ourselves)
 
+> In the same sense, our awareness of our subjective states—while it might present itself to naïve introspection as the experience of something immediately present, dually related to that which is other—is in fact just another aspect of our nondual embeddedness in that world. We participate in the construction of what we regard as external to us, and what is external to us participates in the construction of what we experience as the inner. In sum, the very dichotomy of self and other, inner and outer, is a construction, not a given. Much of our life is structured by the illusion that we just find what we in fact construct; but the fact that this illusion structures so much of our experience does not mean that it is not an illusion. (Jay L. Garfield, Losing Ourselves)
 
 - "I acknowledge the privilege of being alive in a human body at this moment, endowed with senses, memories, emotions, thoughts, and the space of mind in its wisdom aspect. —Alex Grey, “The Vast Expanse”" (Diane Musho Hamilton, Compassionate Conversations How to Speak and Listen From the Heart)
 
