@@ -59,6 +59,10 @@ we are given simple scores to follow that involve being in these environments fo
 
 That man on the side of the road died. He died in the rain while two people pushed the weight of their bodies into his chest. The next day there were flowers to mark the spot, the same spot where that car did not even make a mark on the wall. He is us. Making no mark.
 
+- [[the body and the disappearing self]]
+- [[skin encapsulated ego]]
+
+Here's something Helen Poynor wrote to me: "I was interested in the quote by Jay Garfield re selflessness – I feel most fully myself when alone in the environment – rather than it being an experience of standing against the world. I feel then also embedded in it. Also the site itself is dancing." ("and why are all the opposites to goal-directed so laden with negative connotations?") (postcode from her)
 
 Flow - stepping towards something 
 Practice: stepping back. It's a non-task. 
@@ -70,6 +74,10 @@ Practice: stepping back. It's a non-task.
 > In the same sense, our awareness of our subjective states—while it might present itself to naïve introspection as the experience of something immediately present, dually related to that which is other—is in fact just another aspect of our nondual embeddedness in that world. We participate in the construction of what we regard as external to us, and what is external to us participates in the construction of what we experience as the inner. In sum, the very dichotomy of self and other, inner and outer, is a construction, not a given. Much of our life is structured by the illusion that we just find what we in fact construct; but the fact that this illusion structures so much of our experience does not mean that it is not an illusion. (Jay L. Garfield, Losing Ourselves)
 
 - "I acknowledge the privilege of being alive in a human body at this moment, endowed with senses, memories, emotions, thoughts, and the space of mind in its wisdom aspect. —Alex Grey, “The Vast Expanse”" (Diane Musho Hamilton, Compassionate Conversations How to Speak and Listen From the Heart)
+
+"We hence see that it is not the presence of explicit thought that distinguishes ego-involved experience from ego-less experience. Instead, this distinction reflects the degree of immersion in activity and so the degree to which explicit awareness of oneself as standing outside that activity is diminished. It is a distinction that is more phenomenological than psychological, having to do with how we experience our own engagement with the world. When we are completely immersed in activity—whether the physical activity of carving an ox or the cognitive activity of thinking about how best to carve that ox—our sense of self, and with it, the experience of the duality of subject and object in experience, vanish. There is only the experience of a flow of activity." (Jay L. Garfield, Losing Ourselves)
+
+"Śāntideva endorses this analysis in *How to Lead an Awakened Life,* and he draws ethical consequences from it. He argues that the dualism of self and other underlies egocentricity. That egocentricity, in turn, leads to a strong sense of self-identity, which causes us to see ourselves as standing at the center of our own moral universes, and so as objects of special regard. He argues that this dualism derives in turn from self-grasping, from seeing the world in terms of the “I and mine” framework that derives from reifying ourselves as selves. He also argues that this is the source of the illusion that others are independent agents." (Jay L. Garfield, Losing Ourselves)
 
 - [https://gregmorris.co.uk/2024/08/08/do-hard-things.html](https://gregmorris.co.uk/2024/08/08/do-hard-things.html) -- japanese concepts in here? 
 - [[pure experience is the same as direct experience]]
