@@ -15,7 +15,7 @@ _previous note:_ [[weathering the weather]]
   - [ ] Training 
   - [ ] Photographs
 
-## info from original call 
+## info from original call
 [https://dark-mountain.net/submissions-call-for-dark-mountain-issue-27-on-bodies/](https://dark-mountain.net/submissions-call-for-dark-mountain-issue-27-on-bodies/)
 
   > Since the birth of Dark Mountain in 2010, contributors, and especially artists, have broken out of the studio confines to become the work themselves, using their bodies as an intervention against the ‘trance-state’ of civilisation. In times of abstraction and disconnection, as our attention is pulled away from the realities we inhabit and towards ethereal spaces untethered to geography, remembering our earthly bodies is a way to reconnect with the physicality of the living world. 
@@ -45,6 +45,7 @@ _description of practice._
 
 we are given simple scores to follow that involve being in these environments for an uncertain amount of time. Instructions include “stay at animal height” or “sprawl with part of your body contacting a rock and another part the pebbles” or “move, then rest in presence, then move”. These scores are a guide, and their simplicity and clarity belies the the transformative complexity of being on and in these sites while weathering the weather. 
 
+- [[where is you?]] -- something here for the sense of dissolution of body?? 
 
 - [[body being known]]
 
@@ -66,6 +67,8 @@ Here's something Helen Poynor wrote to me: "I was interested in the quote by Jay
 
 Flow - stepping towards something 
 Practice: stepping back. It's a non-task. 
+
+> "Dōgen, like Nāgasena, is not arguing for our unreality, and he is certainly not arguing that we have no experience. He is arguing instead that our reality is that of embedded persons, not that of independent selves. He is also arguing that even though we may sometimes superimpose a dualistic structure on our experience, and even take that for granted as the way we encounter the world, that duality is a superimposition on a primordially nondual mode of awareness. While it might sometimes be useful to think in dualistic terms, to do so without awareness of the artificial, cognitive origin of that structure is to fail in self-understanding." (Jay L. Garfield, Losing Ourselves)
 
 > "What does it mean to be a ‘self’? While some have argued that there may be no ‘thing’ that is a self [[1]](https://www.sciencedirect.com/science/article/pii/S1364661318302079?via%3Dihub#bib0005), experiences of selfhood are among the most pervasive aspects of human consciousness. Perceptions of the external world come and go, but it is their relation to the experience of ‘being an experiencing subject’ that gives these perceptions meaning, value, and emotional relevance. How perceptual experiences of ‘being a self’ are constructed is therefore a key question for cognitive science." (sciencedirect.com, Being a Beast Machine: The Somatic Basis of Selfhood)
 
