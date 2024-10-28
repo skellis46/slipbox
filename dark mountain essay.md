@@ -8,12 +8,11 @@ type: evergreen
 
 _previous note:_ [[weathering the weather]]
 
-  - [ ] can I do this? Do I have time?
-  - [x] Latour
-  - [ ] Self
-  - [x] Mini-essay
-  - [ ] Training 
-  - [ ] Photographs
+- [x] Latour
+- [ ] Self
+- [x] Mini-essay
+- [ ] Training 
+- [ ] Photographs
 
 ## info from original call
 [https://dark-mountain.net/submissions-call-for-dark-mountain-issue-27-on-bodies/](https://dark-mountain.net/submissions-call-for-dark-mountain-issue-27-on-bodies/)
@@ -25,90 +24,131 @@ _previous note:_ [[weathering the weather]]
 - up to 4000 words
 - submission guidelines: [https://dark-mountain.net/submissions-guidelines/](https://dark-mountain.net/submissions-guidelines/)
 - dark mountain manifesto: https://dark-mountain.net/about/manifesto/
-- uncertain body 
+- uncertain body
 - trance-state of civilisation
 
 ## possible titles
 
-- Soluble body
-- 
-
 ## dark mountain draft
 
-Now the rain is pelting down. I am standing with my arms outwards, head tilted up towards the skies, blinded by the water as it plummets through this body and into the body of sand beneath my feet. Soaked. And cold to the bone in a northern summer.
+Now the rain is pelting down. I am standing with my arms outwards, head tilted up towards the skies, blinded by the water as it plummets through this body and into the body of sand beneath my feet. Saturated. And cold to the bone in a UK summer.
 
-Perhaps an hour earlier when the rain had already begun its raining, there is a large man lying shirtless on the side of the road. His car has drifted gently into a small wall and two woman are applying cardiac compressions to his cyanotic body. Their physical effort is unsurprising and shocking. The man is a creature crossing over into death; his torso more a carcass being coaxed and willed to survive by knowing and desperate hands.
+Perhaps an hour earlier when the rain had already begun its raining, there is a large man lying shirtless on the side of the road. His car has drifted gently into a small wall and two women are applying cardiac compressions to his cyanotic body. Their physical effort is unsurprising and shocking. The man is a creature crossing over into death; his torso more a carcass being coaxed and willed to survive by knowing and desperately helpless hands.
 
-In the rain on the sand, this simple practice begins. It is a practice that dissolves in and through the body; a soluble [[body being known]]. It is also a counter-practice, a corporeal balm that resists the machinations of the default digital logic. In this practice we live as creatures not machines. 
+---
 
-The artist is Helen Poynor. She is a dancer, a choreographer, a conjurer. She is the real deal. She says "I feel most fully myself when alone in the environment – rather than it being an experience of standing against the world. I feel then also embedded in it." We are given scores to follow that involve being on site in different environments for an uncertain amount of time. There is the Iron Age hill fort called Blackbury Camp, or the tidal area under the cliffs down from Beer Beach where the cormorants nest along those same cliffs. Poynor's instructions include things like “stay at animal height” or “sprawl with part of your body contacting a rock and another part the pebbles” or “move, then rest in presence, then move”. The scores are a guide, and their simplicity belies the the transformative complexity of being on and in these sites while weathering the weather. 
+In the rain on the sand, a simple practice begins. It is a practice that dissolves in and through the body; a soluble [[body being known]]. It is also a counter-practice, a corporeal balm that resists the machinations of the default digital logic. In this practice we live as creatures not machines. 
 
-Flow - stepping towards something 
-Practice: stepping back. It's a non-task. 
+The artist is Helen Poynor. She is a dancer, a choreographer, a conjurer. She is the real deal. She says "I feel most fully myself when alone in the environment – rather than it being an experience of standing against the world. I feel then also embedded in it." We dancers are given scores to follow that involve being on site in different environments for an uncertain amount of time. There is the Iron Age hill fort called Blackbury Camp, or the tidal area under the cliffs down from Beer Beach where the cormorants nest along those same cliffs. Poynor's instructions include things like “stay at animal height” or “sprawl with part of your body contacting a rock and another part the pebbles” or “move, then rest in presence, then move”. The scores are a guide, and their simplicity belies the transformative complexity of being on and in these sites while weathering the weather. 
+
+With scores as scaffolding we enter what seem like private zones within the public sites. The practice makes enormous sense at the scale of the human animal. This ever changing body starts to slow down as time yields to deep presence. There is nothing and everything to do. I become a type of non-activity, and gradually there is no longer any sense of being outside of this activity, and this site. I smile gently and inwardly at the "I" that wants something useful from the practice. As my senses are filled with the site, my desires, my hopes, my needs fall away. I feel deeply of the land. Whoever that "I" is. 
+
+This is what the practice feels like. 
+
+I have practiced dancing for nearly 40 years. This body-of-mine is steeped in somatic actions, feelings and languages as a means to filter and understand the sensorium. 
+
+A somatic practice is any body-based practice that foregrounds the body as it is felt from the inside. Nearly all dance practices do this, but some more than others. Classical ballet, for instance, has a well-known obsession for how the body is seen from the outside. The presence of mirrors in ballet studios is a dead giveaway. But for those of us immersed in sensing the body as it feels from the inside, it's easy to forget just how radical that proposition is. 
+
+Somatic training foregrounds and sensitises the corporeal far beyond the way we humans usually think of our bodies only when something is wrong with it or it needs something, or when we are having sex. The body from the inside is rendered as feeling language: The feeling of dryness. The feeling of cold. The feeling of stillness. The feeling of wet. The feeling of weight. The feeling of earth. 
+
+In the practice, and as a matter of direct experience, there is only pressure, tension, temperature and movement. This is what all that training makes possible. A way to distill complex corporeality and complex things into direct somatic experiences. These are experiences that need not be named to be understood. The land also experiences pressure, tension, temperature and movement. I am seeping into the land.
+
+This practice matters not because of what it might do _for_ me (or whomever is engaged in it) but that it undermines _me-ness_. The outside site-as-object softens and as a matter of direct experience the “I” becomes site. It is the difference between me dancing the site, and the site being danced. Land being seeped into.
+
+In the time of the practice, it is as if my sense of subjecthood – of being an “I” outside or separate to the environment – starts to dissolve. The feeling in those direct and extended experiences of being with dirt and rock and ocean and tree is of widening time and consciousness underpinned by profound humility. There is awe here in the diminishing scale of the self: it is beautiful and discombobulating.
+
+In these direct and pure experiences there is nothing for this practice to be reduced to. It has no clear constituent parts on which the practice might be predicated. It has merely been gently set in motion and in the end -- and as a matter of direct and pure experience -- any sense of agency, of power, of control, slips away. I am fatally diminished. 
+
+### making no distinction
+
+In the practice we start separate to the world. We enter the site. We choose a part of the site. We settle into the site. It is a pragmatic approach that demands we distinguish ourselves from the site. But we cannot continue to be distinctive, to make a distinction between ourselves and the site. 
+
+"As one Zen master said, The Great Way is not difficult for those who have no preferences. When love and hate are both absent, everything becomes clear and undisguised. Make the smallest distinction, however, and heaven and earth are set infinitely apart.8" (Diane Musho Hamilton, Compassionate Conversations How to Speak and Listen From the Heart)
+
+- dark mountain. To make no distinction between the weather and this skin covered bag of bones. 
+- [[skin encapsulated ego]]
+
+"The structure of subject-object duality emerges, on Heidegger’s account, only in these situations where fluid, immersed, embedded, embodied perception and action in the world breaks down. That duality is not a pervasive aspect of our conscious lives, but a specific response to an abnormal situation." (Jay L. Garfield, Losing Ourselves)
+-- the work with Helen is a normal situation. It's certainly not extraordinary. 
 
 "Otherwise put: humans do not possess agency; nor, for that matter, do non-humans. They are rather possessed by action. Karen Barad admits as much when she argues that agency ‘is an enactment, not something that someone or something has’ (Barad 2003: 826" (Tim Ingold, Making)
 - Stark-Smith: the gap; Morrissey: being a passenger 
-- what _causes_ this experience? Or rather, what makes it possible to return to pure subject-less awareness? Could I name some? Not wanting; not judging; attention to direct experience; not goal-oriented; not therapeutic (which is a goal)
+- what _causes_ this experience? Or rather, what makes it possible to return to pure subject-less awareness? Could I name some? Not wanting; not judging; attention to direct experience; not goal-oriented; not therapeutic (which is a goal), not differentiating ... 
 - what are implications of this? 
 
 
+> It is an expression of Truth, but it is not true. The sensation or cluster of sensations that are referred to as ‘the body’ seldom appears without some perception of the world also. This conglomerate of sensations and perceptions is one seamless experience. However, Consciousness arbitrarily divides this seamless experience of sensations/perceptions into two, into sensation and perception. It does this by identifying itself exclusively with the sensations, with the body, and by disidentifying itself from the perceptions, from the world. It thinks, “I am this cluster of sensations, the body, but not that group of perceptions, the world.” Therefore, it is not so much the ‘I-am-the-body’ idea but rather the ‘I-am-only-the-body’ idea that is problematic. (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
+
+When we become the sensation, or surrender to it, we disappear. This is a different kind of selflessness. It is a return to the absence of self that makes something happen. It is the estranged and other twin to self-consciousness. In this practice, there is no self standing against the world. The deep porosity and solubility of the body render it as an amorphous collection of tangible and unmediated experiences in which the distinction between self and other departs. If there is no self standing against the planet, then the self dissolves into the cosmos.   
+
+---
+
+About that man.
+
+That man on the side of the road died. He died in the rain while two people sweated and pushed the weight of their bodies through their arms and onto his chest. The next day there were flowers to mark the site. In his last unremarkable and unforgettable dance he whispered a reminder to us all that sites are all always dancing us.
 
 
+## edit bin
 
-> The idea that we’re outside the world looking in, deciding from a menu which choice to make, is precisely the dangerous illusion. 
+> There's only one thing that's necessary in practice, only one thing, and that is the open experience of what is – usually the body – without anything else interfering. To be able to sit and just be nothing but that sensation. See, that sounds simple. It's not so simple because human beings don't want to do it. There's no you in that experiencing. If there's a shadow of a self ... identification type thought, then nothing happens. [@jokobeck-2023-practice n.pag.]
 
-– Timothy B. Morton [^1] 
+> I want to say again what it is when people say, 'Oh yeah, I'm experiencing my body'. I doubt it. As human beings, we don't want to stay with this at all. The minute you become the sensation, totally surrender to it, you've disappeared. And the whole focus our life isn't to disappear, but to glorify ourselves, to increase my sense that I'm important, I'm wonderful. [@jokobeck-2023-practice n.pag.]
 
-I have a sneaky suspicion that Morton’s idea is at the heart of the transformation I experienced (and have experienced before) while working outdoors on site with Helen. In the time of the practice, it is as if my sense of subjecthood – of being an “I” outside or separate to the environment – starts to dissolve or even become meaningless. The feeling in those direct and extended experiences of being with dirt and rock and ocean and tree is of widening time and consciousness underpinned by profound humility. There is awe here in the diminishing scale of the self: it’s beautiful and discombobulating.
+is irreducible (after Latour) [[Muecke - The Generous Philosopher]]. And because it has no clear constituent parts on which the experience might be predicated, nor is it emergent. [[emergence]]? It has merely been gently set in motion and in the end -- as a matter of direct experience -- 
 
-The planet’s resources are available to exploit if and only if they are treated as objects separate from human subject-hood. This is the danger that Morton is referring to above and it is why 
+- [[pure experience is the same as direct experience]]
+Any sense of agency, of power, slips away. 
 
-This is a different kind of selflessness. It is a return to the absence of self. It is the estranged and other twin to self-consciousness. 
+ something here about these are the experiences of all subjects? (or entities?) Pressure, tension, temperature and movement appear in awareness, yet awareness has no location. It is not inside of anything. Awareness is those direct experiences. 
 
-- [[the body and the disappearing self]]
-- [[skin encapsulated ego]]
+
+I step back from the logic of doing and into the frame of being. 
+
+Here the American vipassana (insight-based meditation) teacher Joseph Goldstein [describes his epiphany during a walking meditation](https://dynamic.wakingup.com/course/C2BA6D): 
+
+>  Instead of watching the movement or observing the movement, it was simply to feel the movement, to feel the sensations of the movement. And in the feeling language, that's from the inside. 
+
+> That’s a wonderfully concise and profound observation. Of course, I was inclined to agree with the sentiment because it captures something [I have been articulating](https://substack.com/redirect/45a986c8-cac8-4e12-888e-fffa69dc31d6?j=eyJ1IjoiYXZ6eDQifQ.G0OEO2hYU5EfmDn6Y1N-lMJfqyCMC6azYH_trtWPtnc), at much greater length, for some time now. The world is not simply present to us in its fullness and depth by virtue of the fact that we are capable of glancing at it. Instead, if we are to see the world, we must attend to it with care, patience, and even love.
+> This kind of attention can only unfold under certain conditions—solitude, silence, stillness—and in relation to certain virtues—humility, perseverance, charity. Among the conditions conducive to attentiveness I would also include deliberate slowness. Past a certain speed, we simply cannot perceive the world in depth." (The Convivial Society, The Ambling Mind)
 
 > In order to get our minds around the experience of selflessness, it is useful to recall the deep connection between the sense of self, the understanding of experience in terms of subject-object duality, and of action in terms of free agency. To take ourselves to be selves [...] is to take ourselves to be subjects with a very different mode of existence than that we assign to our objects. It is to regard ourselves as standing *against* the world rather than as being embedded *in* it. And it is to take our self-knowledge to be immediate, as opposed to the mediated knowledge we have of our objects.[^2]
 
+- like this phrase "scale of activity and experience appropriate to the human animal" (from The Convivial Society, The Ambling Mind)
 
 
-> In those special moments in which we need to become aware of our own subjectivity, doing so can facilitate our engagement with the world. But in most cases, that superimposition does not render us more effective or more aware of what transpires around us. Instead, it makes us less aware of our surroundings and of the objects or others to whom we should be attending; that is, it makes us self-conscious in the pejorative sense of that term. [@garfield-2022-losing]
- 
+> This unwinding of the tangled knot of seeking is the end of the conventional spiritual search. It is the deep understanding that nothing can be done as an individual, that the individual itself is a form of doing. [@spira-2008-transparency]
+
+- Alan Watts [[skin encapsulated ego]]:
+> Now it's very funny how we use the word I and if we just refer to common speech, we are not accustomed to say, 'I am a body'. We rather say 'I have a body'. We don't say 'I beat my heart' in the same way as we say, I walk, I think, I talk. We feel that our heart beats itself, and that has nothing very much to do with I. In other words, we don't regard I myself as identical with our whole physical organism. We regard it as something inside it.
+
+> Since then, I’ve serendipitously encountered a handful of similar meditations on the value of walking, so I’ve taken that as sign to briefly gather some of these together and offer them to you, chiefly because they collectively remind us that there is a scale of activity and experience appropriate to the human animal and things tend to go well for us when we mind it." (The Convivial Society, The Ambling Mind)
+
 > I am generally convinced by those who, in trying to describe the modern mode of relating to the world, find that it is best characterized as a relation of mastery and control, which is to say a relation of power. Positioned in this way, we are tempted to see the world, including ourselves, as a field of objects to be endlessly manipulated, optimized, and exploited. The world appears to us chiefly as raw material for our own projects. It is there primarily to be used and transformed to serve our purposes. [@sacasas-2022-two] 
+
+
+
+> Śāntideva endorses this analysis in *How to Lead an Awakened Life,* and he draws ethical consequences from it. He argues that the dualism of self and other underlies egocentricity. That egocentricity, in turn, leads to a strong sense of self-identity, which causes us to see ourselves as standing at the center of our own moral universes, and so as objects of special regard. He argues that this dualism derives in turn from self-grasping, from seeing the world in terms of the “I and mine” framework that derives from reifying ourselves as selves. He also argues that this is the source of the illusion that others are independent agents. [@garfield-2022-losing]
+
+> In the same sense, our awareness of our subjective states—while it might present itself to naïve introspection as the experience of something immediately present, dually related to that which is other—is in fact just another aspect of our nondual embeddedness in that world. We participate in the construction of what we regard as external to us, and what is external to us participates in the construction of what we experience as the inner. In sum, the very dichotomy of self and other, inner and outer, is a construction, not a given. Much of our life is structured by the illusion that we just find what we in fact construct; but the fact that this illusion structures so much of our experience does not mean that it is not an illusion.[@garfield-2022-losing]
 
 
 > Moreover, as we noted above, subject-object duality is better understood as a superimposition on a basically nondual experience than as an essential or a constitutive aspect of that experience. Subject-object duality, that is, reflects the way we represent our experience to ourselves (when we are actively doing so), not the way we actually experience the world ... [@garfield-2022-losing]
 
-> In the same sense, our awareness of our subjective states—while it might present itself to naïve introspection as the experience of something immediately present, dually related to that which is other—is in fact just another aspect of our nondual embeddedness in that world. We participate in the construction of what we regard as external to us, and what is external to us participates in the construction of what we experience as the inner. In sum, the very dichotomy of self and other, inner and outer, is a construction, not a given. Much of our life is structured by the illusion that we just find what we in fact construct; but the fact that this illusion structures so much of our experience does not mean that it is not an illusion.[@garfield-2022-losing]
+> In those special moments in which we need to become aware of our own subjectivity, doing so can facilitate our engagement with the world. But in most cases, that superimposition does not render us more effective or more aware of what transpires around us. Instead, it makes us less aware of our surroundings and of the objects or others to whom we should be attending; that is, it makes us self-conscious in the pejorative sense of that term. [@garfield-2022-losing]
 
-> We hence see that it is not the presence of explicit thought that distinguishes ego-involved experience from ego-less experience. Instead, this distinction reflects the degree of immersion in activity and so the degree to which explicit awareness of oneself as standing outside that activity is diminished. It is a distinction that is more phenomenological than psychological, having to do with how we experience our own engagement with the world. When we are completely immersed in activity—whether the physical activity of carving an ox or the cognitive activity of thinking about how best to carve that ox—our sense of self, and with it, the experience of the duality of subject and object in experience, vanish. There is only the experience of a flow of activity. [@garfield-2022-losing]
+Flow - stepping towards something 
+ 
 
-> Śāntideva endorses this analysis in *How to Lead an Awakened Life,* and he draws ethical consequences from it. He argues that the dualism of self and other underlies egocentricity. That egocentricity, in turn, leads to a strong sense of self-identity, which causes us to see ourselves as standing at the center of our own moral universes, and so as objects of special regard. He argues that this dualism derives in turn from self-grasping, from seeing the world in terms of the “I and mine” framework that derives from reifying ourselves as selves. He also argues that this is the source of the illusion that others are independent agents. [@garfield-2022-losing]
-
-In these direct experiences (sensations?) -- pure experiences -- there is nothing for this practice to be reduced to. It is irreducible (after Latour) [[Muecke - The Generous Philosopher]]. And because it has no clear constituent parts on which the experience might be predicted, nor is it emergent. [[emergence]]? It has merely been gently set in motion and in the end -- as a matter of direct experience -- 
-
-- [[pure experience is the same as direct experience]]
+And as we retreat further and further into our screens and captured by algorithmic longing .. this is a counter practice that matters more and more. 
 
 
-- [[the body from the inside]]
-- Alan Watts [[skin encapsulated ego]]:
-> Now it's very funny how we use the word I and if we just refer to common speech, we are not accustomed to say, 'I am a body'. We rather say 'I have a body'. We don't say 'I beat my heart' in the same way as we say, I walk, I think, I talk. We feel that our heart beats itself, and that has nothing very much to do with I. In other words, we don't regard I myself as identical with our whole physical organism. We regard it as something inside it.
+I have a sneaky suspicion that Morton’s idea is at the heart of the transformation I experienced (and have experienced before) while working outdoors on site with Helen. 
 
-These signs appear in awareness: pressure, tension, temperature. Yet awareness has no location. It is not inside of anything. It is just appearing as those same sensations, sounds, movements, thoughts. 
+The planet’s resources are available to exploit if and only if they are treated as objects separate from human subject-hood. This is the danger that Morton is referring to above and it is why 
 
+> The idea that we’re outside the world looking in, deciding from a menu which choice to make, is precisely the dangerous illusion. 
+– Timothy B. Morton [^1] 
 
-This practice matters not because of what it might do _for_ me (or whomever is engaged in the practice) but that it undermines _me-ness_. There is a deep softening of the outside site-as-object and as a matter of direct experience (even if fleetingly) “I” becomes site. It is the difference between me dancing the site, and the site being danced.
-
-> This unwinding of the tangled knot of seeking is the end of the conventional spiritual search. It is the deep understanding that nothing can be done as an individual, that the individual itself is a form of doing. [@spira-2008-transparency]
-
-That man on the side of the road died. He died in the rain while two people sweated and pushed the weight of their bodies through their arms and onto his chest. The next day there were flowers to mark the site. In his last unremarkable and unforgettable dance he whispered a reminder that sites are all always dancing, even in decay.
-
-
-
-
-
-
-## edit bin
 
 (as a grammatical trick which removes the “I”)
 
