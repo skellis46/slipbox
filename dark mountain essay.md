@@ -27,9 +27,8 @@ _previous note:_ [[weathering the weather]]
 - uncertain body
 - trance-state of civilisation
 
-## possible titles
 
-## dark mountain draft
+## Seeping into the land
 
 Now the rain is pelting down. I am standing with my arms outwards, head tilted up towards the skies, blinded by the water as it plummets through this body and into the body of sand beneath my feet. Saturated. And cold to the bone in a UK summer.
 
@@ -39,56 +38,69 @@ Perhaps an hour earlier when the rain had already begun its raining, there is a 
 
 In the rain on the sand, a simple practice begins. It is a practice that dissolves in and through the body; a soluble [[body being known]]. It is also a counter-practice, a corporeal balm that resists the machinations of the default digital logic. In this practice we live as creatures not machines. 
 
-The artist is Helen Poynor. She is a dancer, a choreographer, a conjurer. She is the real deal. She says "I feel most fully myself when alone in the environment – rather than it being an experience of standing against the world. I feel then also embedded in it." We dancers are given scores to follow that involve being on site in different environments for an uncertain amount of time. There is the Iron Age hill fort called Blackbury Camp, or the tidal area under the cliffs down from Beer Beach where the cormorants nest along those same cliffs. Poynor's instructions include things like “stay at animal height” or “sprawl with part of your body contacting a rock and another part the pebbles” or “move, then rest in presence, then move”. The scores are a guide, and their simplicity belies the transformative complexity of being on and in these sites while weathering the weather. 
+The artist is Helen Poynor. She is a dancer, a choreographer, a conjurer. She is the real deal. She says "I feel most fully myself when alone in the environment, rather than it being an experience of standing against the world. I feel then also embedded in it". We dancers are given scores to follow that involve being on site in different environments for an uncertain amount of time. There is the Iron Age hill fort called Blackbury Camp, or the tidal area under the cliffs down from Beer Beach where the cormorants nest along those same cliffs. Poynor's instructions include things like “stay at animal height” or “sprawl with part of your body contacting a rock and another part the pebbles” or “move, then rest in presence, then move”. The scores are a guide, and their simplicity belies the transformative complexity of being on and in and with these sites while weathering the weather. 
 
-With scores as scaffolding we enter what seem like private zones within the public sites. The practice makes enormous sense at the scale of the human animal. This ever changing body starts to slow down as time yields to deep presence. There is nothing and everything to do. I become a type of non-activity, and gradually there is no longer any sense of being outside of this activity, and this site. I smile gently and inwardly at the "I" that wants something useful from the practice. As my senses are filled with the site, my desires, my hopes, my needs fall away. I feel deeply of the land. Whoever that "I" is. 
+With scores as scaffolding we enter what initially seem like private zones within the public sites. The practice makes enormous sense at the scale of the human animal. This ever changing body starts to slow down as time yields to deep presence. There is nothing and everything to do. I become a type of non-activity, and gradually there is no longer any sense of being outside of this activity and this site. I smile gently and inwardly at the "I" that wants something useful from the practice. As my senses are filled with the site, my desires, my hopes, my needs fall away. I feel deeply of the land. Whoever that "I" is. 
 
 This is what the practice feels like. 
 
 I have practiced dancing for nearly 40 years. This body-of-mine is steeped in somatic actions, feelings and languages as a means to filter and understand the sensorium. 
 
-A somatic practice is any body-based practice that foregrounds the body as it is felt from the inside. Nearly all dance practices do this, but some more than others. Classical ballet, for instance, has a well-known obsession for how the body is seen from the outside. The presence of mirrors in ballet studios is a dead giveaway. But for those of us immersed in sensing the body as it feels from the inside, it's easy to forget just how radical that proposition is. 
+A somatic practice is any body-based practice that foregrounds the body as it is felt from the inside. This is the body as soma. Nearly all dance practices do this, but some more than others. Classical ballet, for instance, has a well-known obsession for how the body is seen from the outside. The presence of mirrors in ballet studios is a dead giveaway. But for those of us immersed in sensing the body as it feels from the inside, it's easy to forget just how radical is such a proposition. 
 
-Somatic training foregrounds and sensitises the corporeal far beyond the way we humans usually think of our bodies only when something is wrong with it or it needs something, or when we are having sex. The body from the inside is rendered as feeling language: The feeling of dryness. The feeling of cold. The feeling of stillness. The feeling of wet. The feeling of weight. The feeling of earth. 
+Somatic training foregrounds and sensitises the corporeal far beyond the way we humans usually think of our bodies only when something is wrong with it or it needs something, or when we are having sex. The body as soma can be rendered as feeling language: The feeling of dryness. The feeling of cold. The feeling of stillness. The feeling of wet. The feeling of weight. The feeling of earth. But the language of feeling can be distilled even further. In the practice, and as a matter of direct experience, there is really only pressure, tension, temperature and movement. This is what all that training makes possible. It makes possible _awareness-ing_ as direct experience: pressure, tension, temperature and movement. These are pure experiences -- sensations of the body dancing with perceptions of the world -- that need not be named to be understood. It is not 'my hand' that feels cold. A hand is an abstract shorthand for an object of the body. Without such a construction or naming, without such an object as described by a subject, the direct experience is simply cold-as-awareness.  
 
-In the practice, and as a matter of direct experience, there is only pressure, tension, temperature and movement. This is what all that training makes possible. A way to distill complex corporeality and complex things into direct somatic experiences. These are experiences that need not be named to be understood. The land also experiences pressure, tension, temperature and movement. I am seeping into the land.
+The land also experiences pressure, tension, temperature and movement. I-as-body am seeping into the land.
 
-This practice matters not because of what it might do _for_ me (or whomever is engaged in it) but that it undermines _me-ness_. The outside site-as-object softens and as a matter of direct experience the “I” becomes site. It is the difference between me dancing the site, and the site being danced. Land being seeped into.
+The English philosopher Rupert Spira describes how from birth human experience is formulated as I and other (e.g. "I don't like them") or me and the world (e.g. "I climbed up the tree"). This is a subject experiencing, judging and manipulating objects that, crucially, conditions the way the world appears. Such a subject-object rendering of the world includes the body as a special kind of object. When we say, "My hand is cold", or even "I _have_ a body", who is the "I" that possesses such a body or feels its hand to be cold, and where is that "I" located? 
 
-In the time of the practice, it is as if my sense of subjecthood – of being an “I” outside or separate to the environment – starts to dissolve. The feeling in those direct and extended experiences of being with dirt and rock and ocean and tree is of widening time and consciousness underpinned by profound humility. There is awe here in the diminishing scale of the self: it is beautiful and discombobulating.
+In the time of the practice, it is as if my sense of subjecthood – of being an “I” outside or separate to the environment – starts to clarify itself as being merely imagined. The feeling in those direct and extended experiences of being with dirt and rock and ocean and tree is of widening time and consciousness underpinned by profound humility. There is awe here in the diminishing scale and imagined palpability of the self: it is discombobulating beauty. The outside site-as-object softens and as a matter of direct experience the “I” becomes site. It is the difference between me dancing the site, and the site being danced. 
 
-In these direct and pure experiences there is nothing for this practice to be reduced to. It has no clear constituent parts on which the practice might be predicated. It has merely been gently set in motion and in the end -- and as a matter of direct and pure experience -- any sense of agency, of power, of control, slips away. I am fatally diminished. 
+It is land being seeped into.
 
-### making no distinction
+In these direct and pure experiences there is nothing for this practice to be reduced to. It has no clear constituent parts. It has merely been gently set in motion and in the end -- and as a matter of direct and pure experience -- any sense of agency, of power, of control, slips away. The I-as-subject is fatally diminished, and even the capacity to distinguish is similarly diminished. There is no distinction to be made between the weather, the site, and this skin covered collection of bones. Nor between I and them, me and the world. Without such small and grand distinctions, heaven and earth are inseparable.
 
-In the practice we start separate to the world. We enter the site. We choose a part of the site. We settle into the site. It is a pragmatic approach that demands we distinguish ourselves from the site. But we cannot continue to be distinctive, to make a distinction between ourselves and the site. 
+When we become the sensation, or surrender to it, we disappear. This is a different kind of selflessness. It is a return to the absence of self that sharpens experience. It is the estranged and other twin to self-consciousness. In this practice led by Helen Poynor, there is no self standing against the world. The deep porosity and solubility of the body render it as an amorphous collection of tangible and unmediated experiences in which the distinction between self and other departs. If there is no self standing against the planet, then the self dissolves into the cosmos and what remains is the body without boundaries. 
 
-"As one Zen master said, The Great Way is not difficult for those who have no preferences. When love and hate are both absent, everything becomes clear and undisguised. Make the smallest distinction, however, and heaven and earth are set infinitely apart.8" (Diane Musho Hamilton, Compassionate Conversations How to Speak and Listen From the Heart)
+---
 
-- dark mountain. To make no distinction between the weather and this skin covered bag of bones. 
-- [[skin encapsulated ego]]
+That man on the side of the road died. He died in the rain while two people sweated and pushed the weight of their bodies through their arms and onto his chest. The next day there were flowers to mark the site. In his last unremarkable and unforgettable dance he whispered and shivered a reminder that the world is always dancing us.
 
-"The structure of subject-object duality emerges, on Heidegger’s account, only in these situations where fluid, immersed, embedded, embodied perception and action in the world breaks down. That duality is not a pervasive aspect of our conscious lives, but a specific response to an abnormal situation." (Jay L. Garfield, Losing Ourselves)
--- the work with Helen is a normal situation. It's certainly not extraordinary. 
 
-"Otherwise put: humans do not possess agency; nor, for that matter, do non-humans. They are rather possessed by action. Karen Barad admits as much when she argues that agency ‘is an enactment, not something that someone or something has’ (Barad 2003: 826" (Tim Ingold, Making)
-- Stark-Smith: the gap; Morrissey: being a passenger 
+## edit bin
+
+The body-oriented practice matters not because of what it might do _for_ me (or whomever is engaged in it) but that it undermines the conditioning of subject-object _me-ness_ -- of making distinctions
+
+In the practice shared by Helen Poynor we dancers appear to start separate from the world. We enter the site. We choose a part of the site. We settle into the site. It is a pragmatic approach. But we cannot continue to be distinctive; we cannot continue to make a distinction between ourselves and the site. And nor were we ever distinctive. Such duality reveals itself only in situations in which our immersion and action in the world has somehow collapsed or broken down. And this is not one of those situations. This work is a regular situation, a normal situation. It's certainly not extraordinary. 
+
 - what _causes_ this experience? Or rather, what makes it possible to return to pure subject-less awareness? Could I name some? Not wanting; not judging; attention to direct experience; not goal-oriented; not therapeutic (which is a goal), not differentiating ... 
 - what are implications of this? 
 
 
+
+"Otherwise put: humans do not possess agency; nor, for that matter, do non-humans. They are rather possessed by action. Karen Barad admits as much when she argues that agency ‘is an enactment, not something that someone or something has’ (Barad 2003: 826" (Tim Ingold, Making)
+- Stark-Smith: the gap; Morrissey: being a passenger 
+
+- dark mountain. To make no distinction between the weather and this skin covered bag of bones. 
+- [[skin encapsulated ego]]
+
+- to undo the conditioning. 
+
+
+ 
+
+"As one Zen master said, The Great Way is not difficult for those who have no preferences. When love and hate are both absent, everything becomes clear and undisguised. Make the smallest distinction, however, and heaven and earth are set infinitely apart.8" (Diane Musho Hamilton, Compassionate Conversations How to Speak and Listen From the Heart)
+
+"The structure of subject-object duality emerges, on Heidegger’s account, only in these situations where fluid, immersed, embedded, embodied perception and action in the world breaks down. That duality is not a pervasive aspect of our conscious lives, but a specific response to an abnormal situation." (Jay L. Garfield, Losing Ourselves)
+-- the work with Helen is a normal situation. It's certainly not extraordinary. 
+
 > It is an expression of Truth, but it is not true. The sensation or cluster of sensations that are referred to as ‘the body’ seldom appears without some perception of the world also. This conglomerate of sensations and perceptions is one seamless experience. However, Consciousness arbitrarily divides this seamless experience of sensations/perceptions into two, into sensation and perception. It does this by identifying itself exclusively with the sensations, with the body, and by disidentifying itself from the perceptions, from the world. It thinks, “I am this cluster of sensations, the body, but not that group of perceptions, the world.” Therefore, it is not so much the ‘I-am-the-body’ idea but rather the ‘I-am-only-the-body’ idea that is problematic. (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
-When we become the sensation, or surrender to it, we disappear. This is a different kind of selflessness. It is a return to the absence of self that makes something happen. It is the estranged and other twin to self-consciousness. In this practice, there is no self standing against the world. The deep porosity and solubility of the body render it as an amorphous collection of tangible and unmediated experiences in which the distinction between self and other departs. If there is no self standing against the planet, then the self dissolves into the cosmos.   
+"What is our actual experience of the boundary between what is ‘inside’ myself and what is ‘outside’ myself? There is no experience of such a boundary!" (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
----
+"From an early age we are encouraged to formulate our experience in ways that seem to express and validate it, and these expressions subsequently condition the way the world appears. ‘David loves Jane,’ ‘Tim saw the bus.’ Our earliest formulations divide experience into ‘I’ and ‘other,’ ‘me’ and ‘the world,’ a subject experiencing an object. From that time on, our experience seems to validate these formulations. However, at a certain stage it begins to dawn on us that these formulations do not express our experience, but rather they condition it." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
-About that man.
-
-That man on the side of the road died. He died in the rain while two people sweated and pushed the weight of their bodies through their arms and onto his chest. The next day there were flowers to mark the site. In his last unremarkable and unforgettable dance he whispered a reminder to us all that sites are all always dancing us.
-
-
-## edit bin
+A way to become aware of complex corporeality and complex things as 
 
 > There's only one thing that's necessary in practice, only one thing, and that is the open experience of what is – usually the body – without anything else interfering. To be able to sit and just be nothing but that sensation. See, that sounds simple. It's not so simple because human beings don't want to do it. There's no you in that experiencing. If there's a shadow of a self ... identification type thought, then nothing happens. [@jokobeck-2023-practice n.pag.]
 
