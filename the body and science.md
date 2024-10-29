@@ -42,7 +42,7 @@ In dance scholarship we often remind ourselves and others of the aphorism that n
 - role of bodily sensations: see [[body awareness and emotion]] p.804 for brilliant summary
 - notion of self and embodiment [[interoception as fundamental feature of embodiment]]
 - overlapping and divergent methodologies, laboratory systems (Rhineberger), understandings, knowledge, metaphors, even belief systems. 
-- "the spectre of embodied cognition" [[Alvin Goldman and Frederique de Vignemont - Is social cognition embodied]]
+- "the spectre of embodied cognition" [[Goldman and de Vignemont - Is social cognition embodied]]
 - [[emotion, affect and internal bodily awareness]] -- allostasis versus homeostasis (Feldman Barrett)
 - controlled hallucination (Anil Seth) - predicting brain, agency
 - something about the rational (see[[somatics unlimited]]??) body? 
