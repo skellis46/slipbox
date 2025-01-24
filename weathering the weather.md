@@ -1,7 +1,7 @@
 ---
 
 aliases:
-tags: 
+tags: walk-of-life
 type: newsletter
 platform: skellis mailing list
 status: [published]

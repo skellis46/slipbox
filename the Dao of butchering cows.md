@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: []
+tags: [walk-of-life]
 ---
 
 # the Dao of butchering cows
