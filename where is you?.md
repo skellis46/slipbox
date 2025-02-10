@@ -12,7 +12,7 @@ Awareness meditation from Waking Up app, voiced by Sam Harris.
 Useful re dissolution of the body.
 
 - [[losing oneself]]
-- [[dark mountain essay]]
+- [[seeping into the land (dark mountain essay)]]
 
 > Okay, just sit comfortably and close your eyes and become aware of the sense of paying attention, just notice the feeling associated with awareness itself. What is this like to hear and feel and see, to notice thoughts and emotions, there's a clarity and an openness and notice if it feels located anywhere. Does it really feel like it's inside your head?
 

@@ -6,7 +6,7 @@ type: evergreen
 
 # the body and the disappearing self
 
-_previous note:_ [[dark mountain essay]]
+_previous note:_ [[seeping into the land (dark mountain essay)]]
 
 
 > There's only one thing that's necessary in practice, only one thing, and that is the open experience of what is – usually the body – without anything else interfering. To be able to sit and just be nothing but that sensation. See, that sounds simple. It's not so simple because human beings don't want to do it. There's no you in that experiencing. If there's a shadow of a self ... identification type thought, then nothing happens. 

@@ -14,7 +14,7 @@ _previous note:_ [[body as bag of skin]]
 
 - [[an object of special regard]]
 - [[we are the weather]]
-- [[dark mountain essay]]
+- [[seeping into the land (dark mountain essay)]]
 
 
 
