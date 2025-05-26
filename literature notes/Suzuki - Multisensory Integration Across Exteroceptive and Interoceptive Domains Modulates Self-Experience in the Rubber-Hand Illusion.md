@@ -17,39 +17,13 @@
 - Note: look up
 
 
-> The experience of body ownership (EBO) – of owning and
->  identifying with a particular body – is a central aspect of selfhood
->  (Bermudez, Marcel, & Eilan, 1995; Blanke, 2012; Blanke &
->  Metzinger, 2009). Although under normal circumstances EBO
->  appears highly stable, there is increasing evidence to indicate that
->  EBO depends on dynamic “on-the-ﬂy” multisensory integration of
->  self-related signals and is hence surprisingly open to change. ([View Highlight](https://read.readwise.io/read/01h697mhx0v8smz392ggzr5e24))
+> The experience of body ownership (EBO) – of owning and identifying with a particular body – is a central aspect of selfhood (Bermudez, Marcel, & Eilan, 1995; Blanke, 2012; Blanke & Metzinger, 2009). Although under normal circumstances EBO appears highly stable, there is increasing evidence to indicate that EBO depends on dynamic “on-the-ﬂy” multisensory integration of self-related signals and is hence surprisingly open to change. ([View Highlight](https://read.readwise.io/read/01h697mhx0v8smz392ggzr5e24))
 
 
-> A separate tradition emphasizes the impor-
->  tance of interoception – the sense of the internal physiological state
->  of the body – in underpinning the sense of self (Craig, 2009;
->  Critchley, Wiens, Rotshtein, Ohman, & Dolan, 2004; Damasio,
->  2010; Seth, Suzuki, & Critchley, 2011). Interoceptive representa-
->  tions reﬂect the perception of the body from the inside and
->  contribute to the regulation of physiological integrity (home-
->  ostasis) and associated affective feelings, drives and emotions.
->  A central theme within these models is that selfhood emerges
->  through elaboration of interoceptive representations and their
->  integration with exteroceptive signals within cortical regions,
->  notably the anterior portions of the insular cortex. ([View Highlight](https://read.readwise.io/read/01h697qb15arn77vfcr9bjb4tp))
+> A separate tradition emphasizes the importance of interoception – the sense of the internal physiological state of the body – in underpinning the sense of self (Craig, 2009; Critchley, Wiens, Rotshtein, Ohman, & Dolan, 2004; Damasio, 2010; Seth, Suzuki, & Critchley, 2011). Interoceptive representations reﬂect the perception of the body from the inside and contribute to the regulation of physiological integrity (homeostasis) and associated affective feelings, drives and emotions. A central theme within these models is that selfhood emerges through elaboration of interoceptive representations and their integration with exteroceptive signals within cortical regions, notably the anterior portions of the insular cortex. ([View Highlight](https://read.readwise.io/read/01h697qb15arn77vfcr9bjb4tp))
 
 
-> Tsakiris and colleagues capitalized on individual
->  variation in interoceptive sensitivity (IS), which refers to a person's
->  ability to detect their own interoceptive signals. They report that
->  participants with lower IS are more susceptible to the RHI
->  (Tsakiris, Tajadura-Jimenez, & Costantini, 2011) and exhibit larger ([View Highlight](https://read.readwise.io/read/01h697v4p7jqpzxqxe8z8en2na))
-
-
-> changes in self-other boundaries during the enfacement illusion
->  (Tajadura-Jimenez, Longo, Coleman, & Tsakiris, 2012; Tajadura-
->  Jimenez & Tsakiris, in press). ([View Highlight](https://read.readwise.io/read/01h697v8ahc0jy3hhnwaqs8c6p))
+> Tsakiris and colleagues capitalized on individual variation in interoceptive sensitivity (IS), which refers to a person's ability to detect their own interoceptive signals. They report that participants with lower IS are more susceptible to the RHI (Tsakiris, Tajadura-Jimenez, & Costantini, 2011) and exhibit larger ([View Highlight](https://read.readwise.io/read/01h697v4p7jqpzxqxe8z8en2na)) changes in self-other boundaries during the enfacement illusion (Tajadura-Jimenez, Longo, Coleman, & Tsakiris, 2012; Tajadura-Jimenez & Tsakiris, in press). ([View Highlight](https://read.readwise.io/read/01h697v8ahc0jy3hhnwaqs8c6p))
 
 
 > We interpret our results
@@ -63,26 +37,13 @@
 >  Kiebel, 2010; Seth et al., 2011). ([View Highlight](https://read.readwise.io/read/01h6985a5pnxcjs8a1v3yg2hn2))
 
 
-> Here, we address this question by implementing a novel
->  “cardiac rubber hand illusion” capitalizing on augmented reality
->  (AR) technology and integrating this with physiological (cardiac)
->  monitoring. This approach allows us to superimpose a “virtual
->  rubber hand” within a participant's visual ﬁeld, the visual appear-
->  ance of which can be modulated by cardiac signals such that the
->  modulation is either in synchrony, or out of synchrony, with the
->  participant's actual heartbeat. ([View Highlight](https://read.readwise.io/read/01h6980tn2mj5ttv1m28azb6sa))
+> Here, we address this question by implementing a novel “cardiac rubber hand illusion” capitalizing on augmented reality (AR) technology and integrating this with physiological (cardiac) monitoring. This approach allows us to superimpose a “virtual rubber hand” within a participant's visual ﬁeld, the visual appearance of which can be modulated by cardiac signals such that the modulation is either in synchrony, or out of synchrony, with the participant's actual heartbeat. ([View Highlight](https://read.readwise.io/read/01h6980tn2mj5ttv1m28azb6sa))
 
 
-> . The peak color modulation in cardio-visual feedback was
->  then timed to coincide with peak systolic pressure (200–250 ms, we used a value of
->  210 ms following estimated R-wave). This peak pressure is when aortic barorecep-
->  tors are most active and is also when heartbeats are typically perceived in tests of
->  interoceptive sensitivity (Brener, Liu, & Ring, 1993; Wiens & Palmer, 2001). ([View Highlight](https://read.readwise.io/read/01h699e1d720eaxnrnpryrtf1f))
+> The peak color modulation in cardio-visual feedback was then timed to coincide with peak systolic pressure (200–250 ms, we used a value of 210 ms following estimated R-wave). This peak pressure is when aortic baroreceptors are most active and is also when heartbeats are typically perceived in tests of interoceptive sensitivity (Brener, Liu, & Ring, 1993; Wiens & Palmer, 2001). ([View Highlight](https://read.readwise.io/read/01h699e1d720eaxnrnpryrtf1f))
 
 
-> PDDs were signiﬁcantly larger for synchronous
->  versus asynchronous cardio-visual feedback in the “cardiac still” but not the
->  “cardiac move” condition. P ([View Highlight](https://read.readwise.io/read/01h69a6vhwmcb2gpwmarre8h32))
+> PDDs were signiﬁcantly larger for synchronous versus asynchronous cardio-visual feedback in the “cardiac still” but not the “cardiac move” condition. P ([View Highlight](https://read.readwise.io/read/01h69a6vhwmcb2gpwmarre8h32))
 
 
 +++++ 
@@ -125,7 +86,7 @@
 >  especially when recalling that our choice of IS method (Whitehead
 >  et al., 1977) was motivated by its reliance on comparing interoceptive
 >  and exteroceptive (auditory) signals: this method may be more likely
->  to bemodulatedbyprocessesunderlyingmultisensoryintegration
+>  to be modulated by processes underlying multisensory integration
 >  than the alternative “counting” method (Schandry, 1981). ([View Highlight](https://read.readwise.io/read/01h6e2mfsr3ny7ek8nqdn43mh4))
 
 
@@ -143,17 +104,17 @@
 >  multisensory integration of exteroceptive and interoceptive signals
 >  can modulate EBO in the rubber hand illusion. Speciﬁcally, we found
 >  that synchronous (as compared to asynchronous) cardio-visual feed-
->  back ledtoanenhancedexperience of ownershipof the virtualhand
+>  back led to an enhanced experience of ownership of the virtual hand
 >  (condition “cardiac still”), as measured objectively by proprioceptive
->  drift (Fig. 2), andsubjectivelybyquestionnaire (Fig. 3). This observa-
->  tion extendspreviousstudiesshowingcorrelationsbetween IS and
->  susceptibility to illusions ofbody ownership (Tsakiris et al., 2011)and
+>  drift (Fig. 2), and subjectively by questionnaire (Fig. 3). This observa-
+>  tion extends previous studies showing correlations between IS and
+>  susceptibility to illusions of body ownership (Tsakiris et al., 2011) and
 >  associations between speciﬁc physiological measures and RHI induc-
 >  tion (Barnsley et al., 2011; Moseley et al., 2008). ([View Highlight](https://read.readwise.io/read/01h6e231s1kg319hkvbkjbw7ph))
 
 
 > A second possible explanation turns on the observation that
->  the classical RHI fake hand (as used by Tsakiris et al., 2011)is
+>  the classical RHI fake hand (as used by Tsakiris et al., 2011) is
 >  usually very distinct visually from the appearance of a partici-
 >  pant's real hand, whereas the virtual hand in our paradigm is a
 >  high-ﬁdelity three-dimensional visual copy of each participant's
@@ -253,7 +214,7 @@
 
 
 > The “cardiac move” condition also highlights important connec-
->  tions between experiences ofagency (i.e., the experience ofbeing the
+>  tions between experiences of agency (i.e., the experience of being the
 >  author of an action) and ownership (David, Newen, & Vogeley, 2008;
 >  Tsakiris et al., 2010). ([View Highlight](https://read.readwise.io/read/01h6e3k73v9ydm7gq1qjvd0290))
 
@@ -268,7 +229,7 @@
 >  modality to be incorporated into multisensory predictive models of
 >  the body and self. Thus, statistical correlations between interoceptive
 >  (e.g., cardiac) and exteroceptive (e.g., visual) signals can lead to
->  updating ofpredictive models of self-signals through minimization of
+>  updating of predictive models of self-signals through minimization of
 >  prediction error, just as may happen for exteroceptive multisensory
 >  conﬂicts in the classic RHI. In other words, there is no need to assume
 >  distinct modes of inﬂuence of exteroceptive and interoceptive signals
