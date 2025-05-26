@@ -251,7 +251,7 @@ _previous note:_ [[losing oneself]]
 > We are becoming different people all the time. Our perceptions of self are continually changing – you are a slightly different person now than when you started reading this chapter – but this does not mean that we perceive these changes. This subjective blindness to the changing self has consequences. For one thing, it fosters the false intuition that the self is an immutable entity, rather than a bundle of perceptions. But this is not the reason that evolution designed our experiences of selfhood this way. I believe that the subjective stability of the self goes beyond even the change blindness warranted by our slowly changing bodies and brains. We live with an exaggerated, extreme 170form of self-change-blindness, and to understand why, we need to understand the reason we perceive ourselves in the first place. We do not perceive ourselves in order to know ourselves, we perceive ourselves in order to control ourselves. (Location 2734)
 
 
-> We do not see things as they are, we see them as we are.           anaïs nin (Location 2814)
+> We do not see things as they are, we see them as we are.  – anaïs nin (Location 2814)
 
 
 > Self-perception is not about discovering what’s out there in the world, or in here, in the body. It’s about physiological control and regulation – it’s about staying alive. (Location 2815)
