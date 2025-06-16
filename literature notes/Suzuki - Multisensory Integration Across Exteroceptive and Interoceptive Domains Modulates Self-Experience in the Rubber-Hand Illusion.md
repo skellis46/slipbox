@@ -6,8 +6,7 @@
 > Identifying with a body is central to being a conscious self. ([View Highlight](https://read.readwise.io/read/01h697k346hg0p0r8bqm8d88vb))
 
 
-> Our results demonstrate that interoceptive signals directly inﬂuence the experience of body ownership via multisensory integration,
->  and they lend support to models of conscious selfhood based on interoceptive predictive coding. ([View Highlight](https://read.readwise.io/read/01h697jqakr2wa1fk8wnv2rrvk))
+> Our results demonstrate that interoceptive signals directly inﬂuence the experience of body ownership via multisensory integration, and they lend support to models of conscious selfhood based on interoceptive predictive coding. ([View Highlight](https://read.readwise.io/read/01h697jqakr2wa1fk8wnv2rrvk))
 
 
 > Tadi, Metzinger, & Blanke, 2007) o ([View Highlight](https://read.readwise.io/read/01h69a3g5jvq541psf7ybxxzrp))
@@ -26,15 +25,7 @@
 > Tsakiris and colleagues capitalized on individual variation in interoceptive sensitivity (IS), which refers to a person's ability to detect their own interoceptive signals. They report that participants with lower IS are more susceptible to the RHI (Tsakiris, Tajadura-Jimenez, & Costantini, 2011) and exhibit larger ([View Highlight](https://read.readwise.io/read/01h697v4p7jqpzxqxe8z8en2na)) changes in self-other boundaries during the enfacement illusion (Tajadura-Jimenez, Longo, Coleman, & Tsakiris, 2012; Tajadura-Jimenez & Tsakiris, in press). ([View Highlight](https://read.readwise.io/read/01h697v8ahc0jy3hhnwaqs8c6p))
 
 
-> We interpret our results
->  in the light of emerging models of selfhood based on “predictive
->  processing” which focus existing multisensory integration
->  accounts (e.g., Makin, Holmes, & Ehrsson, 2008) by positing that
->  experiences of selfhood and body ownership are determined by
->  the brain's estimation of the most likely interpretation of the
->  ensemble of self-related signals, computed according to Bayesian
->  principles (Apps & Tsakiris, 2013; Friston, Daunizeau, Kilner, &
->  Kiebel, 2010; Seth et al., 2011). ([View Highlight](https://read.readwise.io/read/01h6985a5pnxcjs8a1v3yg2hn2))
+> We interpret our results in the light of emerging models of selfhood based on “predictive processing” which focus existing multisensory integration accounts (e.g., Makin, Holmes, & Ehrsson, 2008) by positing that experiences of selfhood and body ownership are determined by the brain's estimation of the most likely interpretation of the ensemble of self-related signals, computed according to Bayesian principles (Apps & Tsakiris, 2013; Friston, Daunizeau, Kilner, & Kiebel, 2010; Seth et al., 2011). ([View Highlight](https://read.readwise.io/read/01h6985a5pnxcjs8a1v3yg2hn2))
 
 
 > Here, we address this question by implementing a novel “cardiac rubber hand illusion” capitalizing on augmented reality (AR) technology and integrating this with physiological (cardiac) monitoring. This approach allows us to superimpose a “virtual rubber hand” within a participant's visual ﬁeld, the visual appearance of which can be modulated by cardiac signals such that the modulation is either in synchrony, or out of synchrony, with the participant's actual heartbeat. ([View Highlight](https://read.readwise.io/read/01h6980tn2mj5ttv1m28azb6sa))
