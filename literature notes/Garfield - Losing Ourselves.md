@@ -1,14 +1,13 @@
 ---
 aliases: 
-tags: 
+tags: losing-self
 type: literature
 ---
 
-# 
+# Garfield - Losing Ourselves: Learning to Live without a Self
 
 _previous note:_
 
-# Garfield - Losing Ourselves: Learning to Live without a Self
 
 > Candrakīrti (c. 600–650 CE) introduces us to the target of any critique of the idea of the self. He argues that it is important to keep that target clearly in view, and that it is important not to confuse it with other ideas in the conceptual neighborhood. Candrakīrti tells the story of a man who is afraid that a poisonous snake has taken up residence in one of the walls of his house. In order to alleviate his fear, the man searches the house for an elephant, and satisfies himself that there is none there. He then rests at ease. [6.141][1](https://readwise.io/reader/document_raw_content/32011253#chapter1-1) ([View Highlight](https://read.readwise.io/read/01grhsp843264adawvf6nv32sp))
 

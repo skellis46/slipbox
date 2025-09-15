@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: 
+tags: losing-self
 type: evergreen
 ---
 
