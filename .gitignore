@@ -2,3 +2,9 @@
 .obsidian/
 obsidian.css
 .vault-stats
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
