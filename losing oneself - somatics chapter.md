@@ -35,6 +35,10 @@ improvisation, non-dual awareness, consciousness, flow,
 > They argue that the accumulation function in the posterior insula might be correlated with the encoding of time intervals as suggested by Craig ([2009a,b]([https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x#b12](https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x#b12) #b13)). Craig’s model proposes a close interaction between interoceptive processes and time perception, suggesting that our experience of time emerges from emotional and visceral states processed in the insular cortex. It can be interpreted as a series of global emotional moments that are indexed across a finite period of present time, from the past into the anticipated future. These series produce a cinemascopic “image” of the sentient self that is continuous across a moving window of present time. [@herbert-2012-body] 
 - thinking about time and flow and consciousness --
 
+> Attention is Consciousness with an object. When the object vanishes, attention simply remains what it always is, Consciousness [@spira-2008-transparency]
+
+> From the point of view of ignorance, the ‘person’ is what we are and ‘meditation’ is something that we do from time to time. From the point of view of understanding, ‘meditation’ is what we are and the ‘person’ is something that we do from time to time. [@spira-2008-transparency]
+
 > In spontaneous, virtuoso interaction, one simply interacts, with no bifurcation of the world into subject/object or agent/action/object. “No trace of realization remains, and this no-trace continues endlessly.” This is not a positive awareness of selflessness, or a focus on nondual awareness; it is simply the absence of any reification of self, or dualistic consciousness, and an attitude that can become a permanent expert mode of being. [@garfield-2022-losing] (Jay L. Garfield, Losing Ourselves) ^f6f3d0
 
 > However, theoretical and neuroscientific investigations attempt to dispel confusion about the experience of nonduality by drawing distinctions between the spontaneous realization of nondual awareness in its pure form, and other experiences of nonduality that still contain mental content and are realized through reflection (Josipovic, [2010](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR26); [2014](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR27); [2019](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR28)). [@lynch-2021-role p.1641]
@@ -76,6 +80,8 @@ not even a disturbance
 
 ## possible literature
 
-- Giulia Lorenzi, Felipe Morales Carbonell: Modalizing in musical performance. https://onlinelibrary.wiley.com/doi/10.1111/mila.12515, https://doi.org/10.1111/mila.12515. This is on the fringe of what I'm doing. Brief abstract: 
-- 
+### Giulia Lorenzi, Felipe Morales Carbonell: Modalizing in musical performance. https://onlinelibrary.wiley.com/doi/10.1111/mila.12515, https://doi.org/10.1111/mila.12515. 
 
+The paper argues that when musicians perform, they constantly track “what’s possible” right now—what sounds they could make next, what moves would fit musically, and what they can physically do. Drawing on examples from jazz improvisation and classical performance, it sketches a framework for how performers learn and update these possibilities, and concludes there isn’t one single source of this know-how: perception, practice, conventions, and embodied skill all contribute. 
+
+This is on the fringe of what I'm doing. 
