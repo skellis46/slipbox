@@ -37,7 +37,11 @@ improvisation, non-dual awareness, consciousness, flow,
 
 > Attention is Consciousness with an object. When the object vanishes, attention simply remains what it always is, Consciousness [@spira-2008-transparency]
 
+- can I make an argument here about the body during improvisation as a special kind of object [[an object of special regard]]?? But it's more like consciousness keeps getting nourished by sensations of the body (like Ros Crisp used to say about filling up??)
+
 > From the point of view of ignorance, the ‘person’ is what we are and ‘meditation’ is something that we do from time to time. From the point of view of understanding, ‘meditation’ is what we are and the ‘person’ is something that we do from time to time. [@spira-2008-transparency]
+
+-- and this back to frontness as a way to conceptualise the role of improvisation and 'the self'
 
 > In spontaneous, virtuoso interaction, one simply interacts, with no bifurcation of the world into subject/object or agent/action/object. “No trace of realization remains, and this no-trace continues endlessly.” This is not a positive awareness of selflessness, or a focus on nondual awareness; it is simply the absence of any reification of self, or dualistic consciousness, and an attitude that can become a permanent expert mode of being. [@garfield-2022-losing] (Jay L. Garfield, Losing Ourselves) ^f6f3d0
 
