@@ -24,6 +24,7 @@ improvisation, non-dual awareness, consciousness, flow,
 - methods: 
 	+ phenomenology -- see [[Krägeloh - Phenomenological Research Fails to Capture the Experience of Nondual Awareness]]
 - the line between driving and being driven -- the various names for this phenomenon
+- movement as a bias
 - data
 	+ the practice
 	+ qualitative self-reporting 
@@ -32,12 +33,33 @@ improvisation, non-dual awareness, consciousness, flow,
 
 ## collected quotes
 
+- [[Vo - Some Hypotheses on Being Possessed]] - this is fascinating and I wonder if any overlap with [[Waldenfels - Phenomenology of the Alien]]
+
 > They argue that the accumulation function in the posterior insula might be correlated with the encoding of time intervals as suggested by Craig ([2009a,b]([https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x#b12](https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x#b12) #b13)). Craig’s model proposes a close interaction between interoceptive processes and time perception, suggesting that our experience of time emerges from emotional and visceral states processed in the insular cortex. It can be interpreted as a series of global emotional moments that are indexed across a finite period of present time, from the past into the anticipated future. These series produce a cinemascopic “image” of the sentient self that is continuous across a moving window of present time. [@herbert-2012-body] 
 - thinking about time and flow and consciousness --
 
 > Attention is Consciousness with an object. When the object vanishes, attention simply remains what it always is, Consciousness [@spira-2008-transparency]
 
 - can I make an argument here about the body during improvisation as a special kind of object [[an object of special regard]]?? But it's more like consciousness keeps getting nourished by sensations of the body (like Ros Crisp used to say about filling up??)
+
+> Our objective experience consists of thoughts and images, which we call the mind; sensations, which we call the body; and sense perceptions, which we call the world. In fact we do not experience a mind, a body or a world as such. We experience thinking, sensing and perceiving. [@spira-2008-transparency]
+- just so useful as a reminder or as a kind of 'ground zero' for how to consider what is going on in the improvisation practice
+
+> Disorders of basic self-awareness have recently come to be explored in detail by means of an
+extensive, phenomenologically based interview (Examination of Anomalous Self-Experience, EASE [36]). [@fuchs-2009-embodiment]
+
+Hetty's questions from Nov 2024:
+- influence of being solo vs with other people
+- what is the role of movement? (this is a key question re [[Seth and Tsakiris - Being a Beast Machine]] and the 'bias' of movement for dancers )
+
+Zrinka wondered about the materiality of experience: density, weight; and what other access could there be? -- e.g. smell, colour)
+
+> Comparison of the two pieces vividly demonstrates how animacy and embodiment pull in opposite directions: where the former is a movement of opening, the latter is bent on closure. For the living, animate beings we are, argues dance philosopher Maxine Sheets-Johnstone, the term ‘embodiment’ is simply not experientially apposite. We do not, she insists, experience ourselves and one another as ‘packaged’ but as moving and moved, in ongoing response – that is in correspondence – with the things around us (Sheets-Johnstone 1998: 359; Ingold 2011b: 10). [@ingold-2013-making] 
+
+> Perception and action are so tightly coupled that they determine and define each other. Every action alters perception by changing the incoming sensory data, and every perception is the way it is in order to help guide action. There is simply no point to perception in the absence of action. We perceive the world around us in order to act effectively within it, to achieve our goals and – in the long run – to promote our prospects of survival. We don’t perceive the world as it is, we perceive it as it is useful for us to do so. [@seth-2021-being]
+
+
+> fully satisfying science: Another way of putting this ambition comes from the philosophers Susan Hurley and Alva Noë, who distinguish between ‘comparative’ explanatory gaps, which have to do with explaining why different experiences have the specific phenomenological properties that they do, and the ‘absolute’ explanatory gap, which is the (hard) problem of why and how there is such a thing as phenomenology at all. We can think of the real problem as exhaustively addressing comparative explanatory gaps in order to resolve, and perhaps dissolve, the absolute explanatory gap. See Hurley & Noë (2003). [@seth-2021-being]
 
 > From the point of view of ignorance, the ‘person’ is what we are and ‘meditation’ is something that we do from time to time. From the point of view of understanding, ‘meditation’ is what we are and the ‘person’ is something that we do from time to time. [@spira-2008-transparency]
 
