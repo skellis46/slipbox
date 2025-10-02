@@ -14,6 +14,35 @@ status-updated: "20250915"
 
 improvisation, non-dual awareness, consciousness, flow, 
 
+## abstract
+
+
+## drafting 
+
+The alarm sounds. 
+
+I am brought back to the world. My eyes were closed but I was not asleep. The feeling is akin to being woken up, and there is a brief moment of confusion or even shock before I re-register my surroundings: the room, the light, another person in the space, the silence, gravity; returning to a body I never left. 
+
+This being brought back to the world is not an uncommon or unpredictable experience. When I am practising a form of dance improvisation called [[authentic movement]] it happens every time. And for anyone who has long improvised or practiced in any form -- drawing, music, coding, dance, writing -- I am confident they would recognise or see themselves in this brief description of the departure from there to here. 
+
+Being woken up or disturbed from such an experience is revealing. It reveals that something profound and delicate is happening to that person in which their attention and awareness are not how we commonly or habitually inhabit the world. When we wake, we wake _from somewhere_. 
+
+Where was I before the alarm sounded? Who was I before the alarm sounded? Was  _I_ before the alarm sounded?  
+
+This writing is a description and an analysis of what I understand to be a delicate and vital part of being in a practice that makes possible the shock and confusion of being _woken up_ from that same practice. I am writing here of the threshold or hinge between knowing _one_ is doing the thing and ceasing to being aware that there is a _one_. Across traditions this interstice -- or the tiny moment when the transition occurs -- has many names. In dance improvisation it is described as the difference between "moving and being moved" [@adler-2002-offering p.30] while in cognitive science it is called transient hypofrontality [@dietrich-2003-functional]. 
+- Taoism: wu wei -- Alan Watts "not forcing" ([Alan Watts - The Principle Of Not Forcing"](https://www.youtube.com/watch?v=ZzaUGhhnlQ8). 17 July 2018. [Archived](https://ghostarchive.org/varchive/youtube/20211222/ZzaUGhhnlQ8) from the original on 2021-12-22 – via www.youtube.com). He said  "The river is not pushed from behind, nor is it pulled from ahead. It falls with gravity." (Watts, Alan (March 1974). _Cloud-Hidden, Whereabouts Unknown_. Pantheon Books). Also Slingerland "trying not to try" (book)
+- Zen mushin (no mind). **Takuan Sōhō.** _The Unfettered Mind._ (trans. W.S. Wilson, 1986/2012). Advice to swordsmen on non-clinging attention.
+- in the zone? 
+- [[flow]]
+- duende -- possibly
+- furor poeticus
+- trance
+- **Possession** / “being ridden” (Haitian Vodou)
+- **Glossolalia** (“tongues”)
+- Ecstasis 
+- Sufi wajd
+- then to [[nonduality|nondual awareness]]?? 
+
 ## initial outlining 
 
 - non dual awareness and consciousness 
@@ -23,13 +52,15 @@ improvisation, non-dual awareness, consciousness, flow,
 	+ [[Montero - Thought in Action]] 
 - methods: 
 	+ phenomenology -- see [[Krägeloh - Phenomenological Research Fails to Capture the Experience of Nondual Awareness]]
-- the line between driving and being driven -- the various names for this phenomenon
-- movement as a bias
+- the line between driving and being driven -- the various names for this phenomenon. Brief attempt at this in [[that which doesn't arise and pass away]] and see also [[undistracted non-meditation]] as more help to describe the experience or phenomenon. 
+- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]
 - data
 	+ the practice
 	+ qualitative self-reporting 
 	+ conversations / reflections with KC (post practice)
 	+ more interviews? 
+
+- there is a lot of information in the [[losing oneself 2024 practice]] page including annotated bibliography
 
 ## collected quotes
 
@@ -69,7 +100,7 @@ Zrinka wondered about the materiality of experience: density, weight; and what o
 
 > However, theoretical and neuroscientific investigations attempt to dispel confusion about the experience of nonduality by drawing distinctions between the spontaneous realization of nondual awareness in its pure form, and other experiences of nonduality that still contain mental content and are realized through reflection (Josipovic, [2010](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR26); [2014](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR27); [2019](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR28)). [@lynch-2021-role p.1641]
 
-> Basic experiences of embodied selfhood are even more challenging to describe [[2]](https://www.sciencedirect.com/science/article/pii/S1364661318302079?via%3Dihub#bib0010). There is a very low-level aspect of embodied self-experience perhaps best described as the experience of being a living organism, as opposed to owning a particular body, which seems to resist easy analysis in terms of the sort of perceptual inference responsible for exteroceptive perceptual scenes. This inchoate (and transparent, see [[62]](https://www.sciencedirect.com/science/article/pii/S1364661318302079?via%3Dihub#bib0310)) phenomenology of being a body describes a background experience of selfhood that shades into mood and emotion at one end and into experiences of body ownership at the other. This deeply rooted aspect of experienced embodiment involves no strong component of objecthood. Crudely put, we do not experience being a body in terms of the spatial arrangement of our internal organs as objects. [@seth-2018-being]
+> Basic experiences of embodied selfhood are even more challenging to describe [2](https://www.sciencedirect.com/science/article/pii/S1364661318302079?via%3Dihub#bib0010). There is a very low-level aspect of embodied self-experience perhaps best described as the experience of being a living organism, as opposed to owning a particular body, which seems to resist easy analysis in terms of the sort of perceptual inference responsible for exteroceptive perceptual scenes. This inchoate (and transparent, see [62](https://www.sciencedirect.com/science/article/pii/S1364661318302079?via%3Dihub#bib0310)) phenomenology of being a body describes a background experience of selfhood that shades into mood and emotion at one end and into experiences of body ownership at the other. This deeply rooted aspect of experienced embodiment involves no strong component of objecthood. Crudely put, we do not experience being a body in terms of the spatial arrangement of our internal organs as objects. [@seth-2018-being]
 
 
 > Comparison of the two pieces vividly demonstrates how animacy and embodiment pull in opposite directions: where the former is a movement of opening, the latter is bent on closure. For the living, animate beings we are, argues dance philosopher Maxine Sheets-Johnstone, the term ‘embodiment’ is simply not experientially apposite. We do not, she insists, experience ourselves and one another as ‘packaged’ but as moving and moved, in ongoing response – that is in correspondence – with the things around us (Sheets-Johnstone 1998: 359; Ingold 2011b: 10).[@ingold-2013-making]
