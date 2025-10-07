@@ -4,11 +4,13 @@ tags:
 type: book chapter
 platform: 
 status: in progress
-status-updated: "20250915"
+status-updated: "20251007"
 
 ---
 
 # losing oneself - somatics chapter
+
+threshold of the self in improvisation
 
 ## keywords 
 
@@ -16,6 +18,11 @@ improvisation, non-dual awareness, consciousness, flow,
 
 ## abstract
 
+This chapter examines experiences of losing one’s sense of self during the dance and somatic improvisation practice known as authentic movement, focusing on the tangible threshold between _moving_ and _being moved_. It draws on practice-led research undertaken in 2024 by dancer Katye Coe, cognitive scientist L. S. Merritt Millman, research assistant and dancer Michaela Gerussi and artist-researcher Simon Ellis. The writing builds on a mixed dataset of intensive authentic movement sessions, video and photographic documentation, post-improvisation conversations, self-report questionnaires and desk-based research.
+
+At its centre is a phenomenological analysis of the threshold – a moment in which the mover’s sense of agency and identity undergoes radical transformation. The chapter proposes that this threshold marks a shift from the illusion of subject–object dualism toward non-dual awareness, where the notion of a discrete self disappears. These experiences seem to share affinities with Csíkszentmihályi’s flow yet the analysis suggests that they are qualitatively different in kind, inviting reconsideration of how consciousness and embodiment interrelate in dance improvisation.
+
+The discussion situates these findings within wider discourse on flow, presence and non-dual awareness, and considers how somatic training may act as an attentional bias, inclining dance and somatic practitioners to overemphasise the body's role in accessing this liminal experience. While the research has implications for improvisation as performance, its primary contribution lies in resisting the lure of corporeal reductionism while articulating the possibilities of corporeality as a conduit for non-dual experience – how the body, through movement, reveals ways of being that momentarily dissolve the boundaries of selfhood. 
 
 ## drafting 
 
@@ -29,18 +36,20 @@ Being woken up or disturbed from such an experience is revealing. It reveals tha
 
 Where was I before the alarm sounded? Who was I before the alarm sounded? Was  _I_ before the alarm sounded?  
 
-This writing is a description and an analysis of what I understand to be a delicate and vital part of being in a practice that makes possible the shock and confusion of being _woken up_ from that same practice. I am writing here of the threshold or hinge between knowing _one_ is doing the thing and ceasing to being aware that there is a _one_. Across traditions this interstice -- or the tiny moment when the transition occurs -- has many names. In dance improvisation it is described as the difference between "moving and being moved" [@adler-2002-offering p.30] while in cognitive science it is called transient hypofrontality [@dietrich-2003-functional]. 
-- Taoism: wu wei -- Alan Watts "not forcing" ([Alan Watts - The Principle Of Not Forcing"](https://www.youtube.com/watch?v=ZzaUGhhnlQ8). 17 July 2018. [Archived](https://ghostarchive.org/varchive/youtube/20211222/ZzaUGhhnlQ8) from the original on 2021-12-22 – via www.youtube.com). He said  "The river is not pushed from behind, nor is it pulled from ahead. It falls with gravity." (Watts, Alan (March 1974). _Cloud-Hidden, Whereabouts Unknown_. Pantheon Books). Also Slingerland "trying not to try" (book)
-- Zen mushin (no mind). **Takuan Sōhō.** _The Unfettered Mind._ (trans. W.S. Wilson, 1986/2012). Advice to swordsmen on non-clinging attention.
-- in the zone? 
-- [[flow]]
-- duende -- possibly
-- furor poeticus
-- trance
-- **Possession** / “being ridden” (Haitian Vodou)
-- **Glossolalia** (“tongues”)
-- Ecstasis 
-- Sufi wajd
+This writing is a description and an analysis of what I understand to be a vital and tangible-yet-delicate part of being in a practice that affords the shock and confusion of being _woken up_ from that same practice. I am writing here of the threshold between knowing _one_ is doing the thing and ceasing to be aware that there is a _one_. This interstice and the experience of being on the other side has many names from many traditions, and they are overlapping concepts. In dance improvisation it is described as the difference between "moving and being moved" [@adler-2002-offering p.30] while in cognitive science it is called transient hypofrontality [@dietrich-2003-functional]. In Taoism _wúwéi_ [@slingerland-2003-effortless], in Zen _mushin_ [@soho-2012-unfettered], and in sport it bears similarities to being in -- or going through -- _the zone_ [@ashe-1975-arthur] or [[flow]] [@csikszentmihalyi-2009-flow]. There is trance, shamanism and ecstasis [@eliade-2004-shamanism; @lewis-2002-ecstatic], the Sufi wajd [@schimmel-1981-mystical], speaking in tongues (glossolalia) [@samarin-1972-tongues], furor poeticus (poetic frenzy) [@dodds-2020-greeks], the Flamenco concept of duende [@garcialorca-2023-finding], and Vodou possession or _being ridden_ [@metraux-1972-voodoo].
+
+Althoough these phenomena are not the same what they have in common ... (something about transgressing the self)
+
+
+
+or the tiny moment when the transition occurs
+
+
+
+
+- Ecstasis: note here:
+  **Eugene Gendlin (1997). _A Process Model_.** — describes consciousness as _ecstatic_ in the sense of exceeding static subject–object models.
+
 - then to [[nonduality|nondual awareness]]?? 
 
 ## initial outlining 
@@ -53,16 +62,73 @@ This writing is a description and an analysis of what I understand to be a delic
 - methods: 
 	+ phenomenology -- see [[Krägeloh - Phenomenological Research Fails to Capture the Experience of Nondual Awareness]]
 - the line between driving and being driven -- the various names for this phenomenon. Brief attempt at this in [[that which doesn't arise and pass away]] and see also [[undistracted non-meditation]] as more help to describe the experience or phenomenon. 
-- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]
+- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]. also on this point see Spira below: [[#^b57941]]
 - data
 	+ the practice
 	+ qualitative self-reporting 
 	+ conversations / reflections with KC (post practice)
 	+ more interviews? 
-
+- the principles of allowing this experience 
+	+ not wanting 
+	+ not forcing
+	+ not judging 
 - there is a lot of information in the [[losing oneself 2024 practice]] page including annotated bibliography
 
+## non-negotiables
+
+### review of work in dance on the nature of the threshold
+
+### review of work in other disciplines re the threshold 
+
+### what is consciousness? 
+
+- see below re 'the placeless place' from Spira and also that it is _here_. 
+
+> After this timeless interval, Consciousness takes the shape of the next appearance and may identify itself with a part of this appearance, a body. In doing so it ‘forgets’ itself and thereby appears to veil itself from itself.[@spira-2008-transparency]
+
+I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
+
+> All experience takes place here. This here is not a physical space. It is the space of Consciousness in which all experiences, including the apparent experience of space, takes place. A distant sound takes place here. The thought that subsequently conceives that sound to be at a distance from the perceiving Consciousness takes place in the same space as the sound itself. It takes place here. The chair on ‘the other side of the room’ is perceived here, in exactly the same place as the sound and the thought, at no distance from Consciousness. All bodily sensations take place in the same placeless place, which is here.[@spira-2008-transparency]
+
+- the above from Spira is clear. These are merely appearances in consciousness. What then is consciousness? (see non-negotiable above). Love that phrase "the placeless place". Also this:
+
+> One perception cannot appear within another. All perceptions appear within Consciousness. We do not experience a sensation inside the body. What we call the body is in fact the experience of a sensation. [@spira-2008-transparency]
+
+- The above is just beautiful -- and head spinning. There are only perceptions appearing in consciousness. That is all. Have as a separate note called [[all perceptions appear within consciousness]]
+
+On the matter of direct experience: 
+
+> Direct experience precedes the separation of knower and known, observer and observed. At its core is sheer awareness, the feeling of being. It’s with us when we wake up every morning and go to sleep each night. It’s easy to overlook because it’s so close and familiar. We habitually attend to things instead of noticing awareness itself. We thereby miss a crucial precondition of knowing, for without awareness, nothing can show up and become an object of knowledge.[@frank-2024-blinda]
+
+This is a description of being on the other side of the threshold. But the paradox is that it precedes the separation of subject and object. It is not a state. Duality is the state. 
+
+
+### what is authentic movement? 
+
+- [[authentic movement]]
+- 
+
+### the role of training / biases
+
+> Although this sounds complicated, we are all intimately familiar with the role of precision weighting in perception. Increasing the estimated precision of sensory signals is nothing other than ‘paying attention’. When you pay attention to something – for example, really trying to see whether a gorilla is out there in the distance – your brain is increasing the precision weighting on the corresponding sensory signals, which is equivalent to increasing their estimated reliability, or turning up their ‘gain’. Thinking about attention this way can explain why sometimes we don’t see things, even if they are in plain view, and even if we are looking right at them. [@seth-2021-being] 
+
+> If we think that we know something objective about ourselves or the world, then whatever that something is that we think we know, will condition our subsequent enquiry into the nature of experience.[@spira-2008-transparency] ^b57941
+
+This is essential also in relation to training biases
+
+- From Hetty in November 2024: what is the role of movement? (this is a key question re [[Seth and Tsakiris - Being a Beast Machine]] and the 'bias' of movement for dancers )
+
+### the principles
+
+- Taoism: wu wei -- Alan Watts "not forcing" ([Alan Watts - The Principle Of Not Forcing"](https://www.youtube.com/watch?v=ZzaUGhhnlQ8). 17 July 2018. [Archived](https://ghostarchive.org/varchive/youtube/20211222/ZzaUGhhnlQ8) from the original on 2021-12-22 – via www.youtube.com). He said  "The river is not pushed from behind, nor is it pulled from ahead. It falls with gravity." (Watts, Alan (March 1974). _Cloud-Hidden, Whereabouts Unknown_. Pantheon Books). Also Slingerland "trying not to try" (book)
+
 ## collected quotes
+
+
+
+I like the following description of the self by Sacasas. It's for another context, but useful as reminder of the fluidity of our identification with _a_ self? 
+
+> Put that way it doesn’t seem like an especially profound point. Indeed, it seems rather obvious. The self is not exactly fixed. It undoubtedly evolves over time, it is multi-faceted, and, critically, it escapes our full comprehension. All of this said, it seems to me that our experience of the self can range across a spectrum from more free-floating to more anchored. In these examples, people act as anchors. And, to be more precise, what we are being anchored to is some segment of our own past.[@sacasas-2022-stuff]
 
 - [[Vo - Some Hypotheses on Being Possessed]] - this is fascinating and I wonder if any overlap with [[Waldenfels - Phenomenology of the Alien]]
 
@@ -79,9 +145,8 @@ This writing is a description and an analysis of what I understand to be a delic
 > Disorders of basic self-awareness have recently come to be explored in detail by means of an
 extensive, phenomenologically based interview (Examination of Anomalous Self-Experience, EASE [36]). [@fuchs-2009-embodiment]
 
-Hetty's questions from Nov 2024:
-- influence of being solo vs with other people
-- what is the role of movement? (this is a key question re [[Seth and Tsakiris - Being a Beast Machine]] and the 'bias' of movement for dancers )
+- From Hetty in November 2024: what is influence of being solo vs with other people?
+
 
 Zrinka wondered about the materiality of experience: density, weight; and what other access could there be? -- e.g. smell, colour)
 
