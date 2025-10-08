@@ -6,11 +6,11 @@ type: "evergreen"
 
 # that which doesn't arise and pass away
 
-_previous note:_ [[losing oneself - somatics chapter]]
+_previous note:_ [[improvisation and the threshold of the self]]
 
 The thing I am drawn to here (in particular) is this part: 
 
-> There's no state that you can produce that matters. If it arises, it will pass away. The goal here is to recognize that which doesn't arise and pass away. The condition of empty, open, clarity that precedes and transcends every other experience. And as a matter of experience, you're not meditating on that. You are that. 
+> There's no state that you can produce that matters. If it arises, it will pass away. The goal here is to recognize that which doesn't arise and pass away. The condition of empty, open, clarity that precedes and transcends every other experience. And as a matter of experience, you're not meditating on that. You are that. [@harris-nodate-daily]
 
 What I think might be a way of understanding the transition from dancing to being danced -- from driving to being driven -- is akin to passing from noticing to not noticing. One is being aware that there is an experience happening (which in itself is a deep immersed experience) to the other in which you become the experience. It's so subtle yet utterly obvious. It is from self-conscious to non-dual (in which one becomes conscious). The connections here with [[nonduality|nondual awareness]] and [[flow]] (and therefore [[flow and nonduality]]) are obvious.
 

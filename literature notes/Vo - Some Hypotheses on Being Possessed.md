@@ -7,7 +7,7 @@ type: "literature"
 
 # Anh Vo – Some Hypotheses on Being Possessed: The Body as a Vessel
 
-_previous note:_ [[losing oneself - somatics chapter]]
+_previous note:_ [[improvisation and the threshold of the self]]
 
 - recommended to me by Arabella Stanger on 22 November 2024 (Beginnings)
 

@@ -6,7 +6,7 @@ type: "evergreen"
 
 # undistracted non-meditation
 
-_previous note:_ [[losing oneself - somatics chapter]]
+_previous note:_ [[improvisation and the threshold of the self]]
 
 This is an excerpt from the talk. It's the same in the dancing: undistracted non-dancing. 
 

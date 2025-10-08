@@ -7,7 +7,7 @@ type: "literature"
 
 # Waldenfels -  Phenomenology of the Alien 
 
-_previous note:_ [[losing oneself - somatics chapter]]
+_previous note:_ [[improvisation and the threshold of the self]]
 
 My colleague Susanne Foellmer (who recommended the book to me) wrote:
 

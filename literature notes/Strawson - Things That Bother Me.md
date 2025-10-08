@@ -7,7 +7,7 @@ type: "literature"
 
 # Galen Strawson - Things That Bother Me: Death, Freedom, the Self, Etc
 
-_previous note:_ [[losing oneself - somatics chapter]]
+_previous note:_ [[improvisation and the threshold of the self]]
 
 ## LLM summary 
 

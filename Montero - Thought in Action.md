@@ -7,7 +7,7 @@ type: "literature"
 
 # Montero - Thought in Action
 
-_previous note:_ [[losing oneself - somatics chapter]]
+_previous note:_ [[improvisation and the threshold of the self]]
 
 ## LLM summary:
 

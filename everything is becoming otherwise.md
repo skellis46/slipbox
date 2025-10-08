@@ -6,7 +6,7 @@ type: "evergreen"
 
 # everything is becoming otherwise
 
-_previous note:_ [[losing oneself - somatics chapter]]
+_previous note:_ [[improvisation and the threshold of the self]]
 
 This is a simple thing to reduce the sense of the body being 'solid' or fixed, particularly when it feels like such a strong guide in the practice. 
 
