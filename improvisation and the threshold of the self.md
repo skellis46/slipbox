@@ -9,6 +9,17 @@ status-updated: "20251008"
 ---
 
 # improvisation and the threshold of the self
+
+Improvisation: Threshold of the self
+Dance improvisation: threshold of the self
+
+
+> my decision-making process has to happen in such a way that I’m absolutely unaware of it, otherwise I’m objectifying a situation that demands something different. -- Daniel Day-Lewis <https://slate.com/culture/2025/10/daniel-day-lewis-anemone-movie-oscars-best-actor.html>
+
+Same article: 
+
+> This state of pure being is the actor’s equivalent of when great athletes are “in the zone,” or the trance that a jazz improviser enters when they’re really cooking. The name for it is a Russian word, _perezhivanie_, which means _experiencing_.
+
 ## keywords 
 
 improvisation, non-dual awareness, consciousness, flow, 
@@ -41,7 +52,7 @@ could add 'emptiness'??
 
 - the line between driving and being driven -- the various names for this phenomenon. Brief attempt at this in [[that which doesn't arise and pass away]] and see also [[undistracted non-meditation]] as more help to describe the experience or phenomenon. 
 
-Although these phenomena and ideas are not precisely the same what they have in common ... (something about transgressing the self) -- and then add focus on [[nonduality]]
+Although these phenomena and ideas are not precisely the same what they have in common is the way in which they explicitly or implicitly transgress or interrupt conventional understandings and experiences of a self.  -- and then add focus on [[nonduality]]
 
 
 or the tiny moment when the transition occurs
@@ -84,17 +95,47 @@ On the matter of direct experience:
 
 This is a description of being on the other side of the threshold. But the paradox is that it precedes the separation of subject and object. It is not a state. Duality is the state. 
 
-Finish with a very clear description of what the threshold is and what lies on its other side. 
+Finish with a very clear description of what the threshold is and what lies on its other side. [[that which doesn't arise and pass away]] is useful here. 
 
 ## the context (other literature)
 
+> [To create a dance improvisation] is to create an ongoing present from the world of possibilities at any given moment.[@sheets-johnstone-1981-thinkinga p.399]
+> in a dance improvisation, the process of creating is not the means of realizing _a_ dance, it is _the_ dance itself.[@sheets-johnstone-1981-thinkinga p.399] 
+
+That this is an article about dance improvisation is somewhat arbitrary. It could be many other practices that afford insight into the threshold. It is merely the practice of my expertise. But this also provides an opportunity to consider/assess the peculiarities of dance improvisation in this context, and its limits. 
+
+- Sheets-Johnstone (1981) _Thinking in Movement_ [@sheets-johnstone-1981-thinkinga]. Excellent analysis/description of thinking in movement vs thoughts of movement (and how they are distinct). Main idea is that movement itself is a form of thinking—a dynamic, pre-linguistic mode of cognition through which meaning and understanding are generated bodily rather than abstractly
+
+- Authentic movement, or improvisation that crosses the threshold from “doing” to “being moved”, can be understood as a temporary return to this **semiotic field** — where gesture precedes the self and meaning arises without intention or control. (this is Kristeva's idea, cited in Sheets-Johnstone above). But, like S-J, it is predicated on a self. I suspect S-J also falls into reifying the body. 
+- Mary Starks Whitehouse and Janet Adler -- moving and being moved. 
+- Adler on AM as mystical practice "the moving body invites an awakening – summoning the human soul toward a return, a reunion with the eternal." [@adler-2015-mandorla p.218]
+
+> At identifiable thresholds, penetration of fear or of awe - of an utter vulnerability – becomes the source of a growing strength. The risk of experiencing the ineffable fear of a death of oneself as one has known oneself to be can become the gateway into a transformation, into new ways of knowing.[@adler-2015-mandorla p.222]
+
+"in all that happens between the experience of duality and unity consciousness" [@adler-2015-mandorla p.226]
+
+> The great teachers and adept contemplatives tell us that in deep states of meditation the ego self dissolves and merges into the expansive eternal soul or Atman Self which is the sacred territory of Witness consciousness. Witness consciousness is the ultimate goal, conscious witnessing is how we practice our way to that goal. [@marcow-speiser-2007-authentic p.72]
+
 ### review of work in dance on the nature of the threshold
 ### review of work in other disciplines re the threshold 
+
+- [[Fuchs and Schlimme - Embodiment and psychopathology a phenomenological perspective]]
+- [[Fuchs and Koch - Embodied Affectivity On Moving and Being Moved]]
+- [[Herbert - The Body in the Mind]]
+
+[[Herbert - The Body in the Mind#^9fb6b4]] -- this is actually referring to [[Fuchs and Schlimme - Embodiment and psychopathology a phenomenological perspective]]
+- this on neurophenomenology [[a standing now and an ongoing flow]]
+- [[the dextrous butcher]]
+- [[Lynch & Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]]
 
 ## methods 
 
 - methods: 
 	+ phenomenology -- see [[Krägeloh - Phenomenological Research Fails to Capture the Experience of Nondual Awareness]]
+On this point re Krägeloh and the limits of phenomenology:
+
+> However, the thought about Consciousness or Reality is unique amongst all thoughts. When we try to think of Consciousness, it is like looking into a black hole. It is not even black. The mind simply cannot go there. It cannot go to that objectless place because the mind is itself an object. How could an object fit into a space that has no dimensions? [@spira-2008-transparency]
+- this is a huge limit
 
 
 - data
@@ -107,7 +148,7 @@ Finish with a very clear description of what the threshold is and what lies on i
 
 ## analysis 
 - flow -- hunch that there is overlap but that they are not the same
-	+ [[Montero - Thought in Action]] 
+	+ [[Montero - Thought in Action]]  
 
 ## the role of training / biases
 
@@ -131,8 +172,21 @@ This is essential also in relation to training biases
 	+ not judging 
 - there is a lot of information in the [[losing oneself 2024 practice]] page including annotated bibliography
 
+- indifference vs non-judgement: 
+
+> Sooner or later Consciousness comes to see the difference between its own openness, its own Presence, which welcomes all things into itself with benevolent indifference, and a mind which, by definition, sees differences and yet has imposed on itself a straitjacket of ‘nonjudging.’ Such ‘non-judging’ comes from fear and confusion. It is not the true, benevolent indifference of Presence.[@spira-2008-transparency]
+
 ## collected quotes
-	
+
+on what kind of awareness is it? (unconstructed):
+
+> Our results lend further evidence to the claims that NDA meditations are different from both FA and OM meditations. While FA and OM meditations are traditionally regarded as “constructed” states created through deployment of speciﬁc attentional strategies, NDA meditations are thought not to involve intentional effort, but to be based on identifying a reﬂexive awareness that is regarded as “unconstructed” (Mipam and Hopkins, 2006). Additionally, both FA and OM meditations are content-oriented, concerned with the speciﬁcs of experience, while NDA meditations could be seen as primarily context-oriented, concerned with the context of experience. [@josipovic-2012-influence]
+
+> When the world dissolves at the end of a perception, Consciousness recognises itself, and this recognition is called Beauty. The words Understanding, Happiness, Love and Beauty are all synonyms for Consciousness, for ‘I.’ They do not refer to objects. [@spira-2008-transparency]
+- above is kind of why it matters -- is it? (or perhaps that's in therapeutic sense)
+
+Wonder if [[bodily sensation and behaviour influence emotions]] is useful as a "future thinking" or 'why it matters' component.
+
 I like the following description of the self by Sacasas. It's for another context, but useful as reminder of the fluidity of our identification with _a_ self? 
 
 > Put that way it doesn’t seem like an especially profound point. Indeed, it seems rather obvious. The self is not exactly fixed. It undoubtedly evolves over time, it is multi-faceted, and, critically, it escapes our full comprehension. All of this said, it seems to me that our experience of the self can range across a spectrum from more free-floating to more anchored. In these examples, people act as anchors. And, to be more precise, what we are being anchored to is some segment of our own past.[@sacasas-2022-stuff]
