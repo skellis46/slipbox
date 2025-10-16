@@ -10,7 +10,7 @@ _previous note:_ [[embodiment and illusion of self]]
 
 > With growing alienation, even the act of perceiving itself may come to awareness. Then, the patients are like the spectators of their own perceptive processes: ‘I saw everything I did like a ﬁlm-camera’ [38] (p.132). This alienation of perception turns the objects into mere appearances or phantoms, hence the artiﬁcial, enigmatic alteration of the environment experienced in predelusional perplexity [39,40]. [@fuchs-2009-embodiment p.572]
 
-- from [[Thomas Fuchs and Jann E. Schlimme - Embodiment and psychopathology a phenomenological perspective]]
+- from [[Fuchs and Schlimme - Embodiment and psychopathology a phenomenological perspective]]
 
 My note on kindle under the above quotation: 
 

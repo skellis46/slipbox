@@ -13,7 +13,7 @@ _previous note:_ [[nonduality]]
 - this thing about loss of self-consciousness reminds me of the idea that being self-conscious is more akin to becoming aware of being seen (by someone else) from the outside. I wrote of it in [[climbing mountains]] and first happened across it listening to Sam Harris' Waking Up app. See also [[what the self feels like]] in which the self is attached to thinking when we do not recognise we are thinking (and relationship to [[DMN]]?). ^2141a6
 - see also [[self-conscious in the pejorative sense]]
 - [[flow]]
-- see [[Julianna M. Lynch & Allison S. Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] for literature note
+- see [[Lynch & Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] for literature note
 
 ---
 

@@ -20,7 +20,7 @@ Also this big claim:
 
 > The term nonduality encompasses a unified experience in which the boundaries between self and environment dissolve. This experience of nonduality seems to underlie the experience of flow. [@lynch-2021-role p.1649]
 
-- see [[Julianna M. Lynch & Allison S. Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] for literature note
+- see [[Lynch & Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] for literature note
 
 ---
 
