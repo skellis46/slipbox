@@ -45,8 +45,11 @@ Being woken up or disturbed from such an experience is revealing. It reveals tha
 Where was I before the alarm sounded? Who was I before the alarm sounded? Was  _I_ before the alarm sounded?  
 
 This writing is a description and an analysis of what I understand to be a vital and tangible-yet-delicate part of being in a practice that affords the shock and confusion of being _woken up_ from that same practice. I am writing here of the threshold between knowing _one_ is doing the thing and ceasing to be aware that there is a _one_. This interstice and the experience of being on the other side has many names from many traditions, and they are overlapping concepts. In dance improvisation it is described as the difference between "moving and being moved" [@adler-2002-offering p.30] while in cognitive science it is called transient hypofrontality [@dietrich-2003-functional]. In Taoism _wúwéi_ [@slingerland-2003-effortless] or _action without actor_, in Zen _mushin_ [@soho-2012-unfettered] or _no-mind_, and in sport it bears similarities to [[flow]] [@csikszentmihalyi-2009-flow] or being in -- or going through -- _the zone_ [@ashe-1975-arthur].[^zone] There is trance, shamanism and ecstasis [@eliade-2004-shamanism; @lewis-2002-ecstatic], the Sufi wajd [@schimmel-1981-mystical], speaking in tongues (glossolalia) [@samarin-1972-tongues], furor poeticus (poetic frenzy) [@dodds-2020-greeks], the Flamenco concept of duende [@garcialorca-2023-finding], and Vodou possession or _being ridden_ [@metraux-1972-voodoo]. In Russian, the word is simply xx, which means 
+In the Dzogchen tradition it is
 
 could add 'emptiness'??
+
+Not crossing into something but rather leaving something make believe or usefully constructed -- not entering a state. 
 
 [^zone]: Story of Arthur Ashe and the twilight zone.
 
@@ -80,6 +83,17 @@ gradual changes but then absolute. dawn/dusk not right -- like the sun is settin
 > After this timeless interval, Consciousness takes the shape of the next appearance and may identify itself with a part of this appearance, a body. In doing so it ‘forgets’ itself and thereby appears to veil itself from itself.[@spira-2008-transparency]
 
 I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
+
+Is the following useful (both re above) and also [[sati, mindfulness and remembering]]:
+
+> However, the essence of the experience, a moment of Consciousness knowing itself knowingly, is colourless and transparent, and therefore cannot be remembered. [@spira-2008-transparency] 
+
+"Consciousness bestows its identity exclusively on the body. It believes and feels, “I am the body.”" (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
+
+"This clear seeing is not an intellectual understanding, although it may be formulated provisionally in intellectual terms when required by the current situation. Rather, it is the direct, intimate and immediate knowing of ourselves resting in and as the formless expanse of Presence, and simultaneously dancing in the vibrancy and aliveness of every gesture and nuance of the body, mind and world." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
+
+
+"Likewise we do not experience the body in the way we normally conceive it. In fact there is no body as such. There is a series of sensations and perceptions appearing in Consciousness. And from time to time there is a thought or an image of a ‘body, ’ which is considered to be the sum total of all these sensations and perceptions." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
 > All experience takes place here. This here is not a physical space. It is the space of Consciousness in which all experiences, including the apparent experience of space, takes place. A distant sound takes place here. The thought that subsequently conceives that sound to be at a distance from the perceiving Consciousness takes place in the same space as the sound itself. It takes place here. The chair on ‘the other side of the room’ is perceived here, in exactly the same place as the sound and the thought, at no distance from Consciousness. All bodily sensations take place in the same placeless place, which is here.[@spira-2008-transparency]
 
@@ -117,6 +131,15 @@ That this is an article about dance improvisation is somewhat arbitrary. It coul
 > The great teachers and adept contemplatives tell us that in deep states of meditation the ego self dissolves and merges into the expansive eternal soul or Atman Self which is the sacred territory of Witness consciousness. Witness consciousness is the ultimate goal, conscious witnessing is how we practice our way to that goal. [@marcow-speiser-2007-authentic p.72]
 
 ### review of work in dance on the nature of the threshold
+
+I wonder what the role of newness in this work is at all. Does it have a role? Reading Foster (2003): 
+
+> The known also includes an individual body's predisposition to move in patterns of impulses established and made routine through training in a particular dance tradition as well as the body's predilection for making certain kinds of selections from a vocabulary or a sequence of movements. [@foster-2003-taken p.4]
+
+intriguing she writes of contemplating how: 
+
+> That moment of wavering while contemplating how, exactly, to execute an action already deeply known, belies the presence of improvised action.[@foster-2003-taken p.4]
+
 ### review of work in other disciplines re the threshold 
 
 - [[Fuchs and Schlimme - Embodiment and psychopathology a phenomenological perspective]]
