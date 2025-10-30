@@ -135,8 +135,6 @@ _previous note:_ [[embodiment]]
 
 > In his famous Playboy interview, the Canadian philosopher Marshall McLuhan, “the high priest of popcult and metaphysician of media,” explained how the emergence of literacy and the printed word led us to believe in the superiority of the “cool and neutral eye” over the other senses. He attributed fundamental changes in how we perceive space and time to this “rise of the eye.” “The man of the tribal world,” McLuhan suggested, “led a complex, kaleidoscopic life precisely because the ear, unlike the eye, cannot be focused and is synaesthetic, rather than analytical and rational.” Literacy, he said, gave man “an eye for an ear,” which led to a diminishment not just of hearing, but of touch, taste, and smell too. (loc 1011)
 
-> That data was able to yield what the philosopher Thomas Nagel described as “the view from nowhere”: an objective and detached perspective. (loc 1049)
-
 > In a 1935 essay on the body, the French sociologist Marcel Mauss claimed that “the body is man’s first and most natural instrument,” by which he meant that it is at the center of how we learn, perceive, and express our knowledge of the world. (loc 1088)
 
 > Man is usually the hunter, but what would it feel like to be hunted across open moorland like a stag? What’s it like to spend the night sleeping among foxes in an alleyway in London’s East End? Charles Foster’s fascination with the lives of animals has led him to do some unusual things in pursuit of answers to questions like these. (loc 1109)
