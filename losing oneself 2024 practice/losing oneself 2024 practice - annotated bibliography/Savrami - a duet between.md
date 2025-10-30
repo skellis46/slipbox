@@ -34,4 +34,4 @@ This article looks specifically at the context of dance improvisation when think
 
 ### links to other references
 
-this articles cites [[Foster - Taken by Surprise]]
+this articles cites [[losing oneself 2024 practice/losing oneself 2024 practice - annotated bibliography/Foster - Taken by Surprise]]

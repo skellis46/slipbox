@@ -20,7 +20,7 @@ Schmalzl, L., Crane-Godreau, M.A., and Payne, P. (2014) ‘Movement-Based Embodi
 
 - [[Buttingsrud - Bodies in skilled performance notion|Buttingsrud - Bodies in skilled performance notion]]
 - [[Clark & Ando - Geometry]]
-- [[Foster - Taken by Surprise]]
+- [[losing oneself 2024 practice/losing oneself 2024 practice - annotated bibliography/Foster - Taken by Surprise]]
 - [[Foultier - Letting the body find its way]]
 - [[Foultier - The Phenomenology]]
 - [[Fraleigh - Consciousness Matters]]
