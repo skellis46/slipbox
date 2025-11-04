@@ -44,24 +44,34 @@ Being woken up or disturbed from such an experience is revealing. It reveals tha
 
 Where was I before the alarm sounded? Who was I before the alarm sounded? Was  _I_ before the alarm sounded?  
 
-This writing is a description and an analysis of what I understand to be a vital and tangible-yet-delicate part of being in a practice that affords the shock and confusion of being _woken up_ from that same practice. I am writing here of the threshold between knowing _one_ is doing the thing and ceasing to be aware that there is a _one_. This interstice and the experience of being on the other side has many names from many traditions, and they are overlapping concepts. In dance improvisation it is described as the difference between "moving and being moved" [@adler-2002-offering p.30] while in cognitive science it is called transient hypofrontality [@dietrich-2003-functional]. In Taoism _wúwéi_ [@slingerland-2003-effortless] or _action without actor_, in Zen _mushin_ [@soho-2012-unfettered] or _no-mind_, and in sport it bears similarities to [[flow]] [@csikszentmihalyi-2009-flow] or being in -- or going through -- _the zone_ [@ashe-1975-arthur].[^zone] There is trance, shamanism and ecstasis [@eliade-2004-shamanism; @lewis-2002-ecstatic], the Sufi wajd [@schimmel-1981-mystical], speaking in tongues (glossolalia) [@samarin-1972-tongues], furor poeticus (poetic frenzy) [@dodds-2020-greeks], the Flamenco concept of duende [@garcialorca-2023-finding], and Vodou possession or _being ridden_ [@metraux-1972-voodoo]. In Russian, the word is simply xx, which means 
-In the Dzogchen tradition it is
+This writing is a description and an analysis of what I understand to be a vital and tangible-yet-delicate part of being in a practice that affords the shock and confusion of being _woken up_ from that same practice. I am writing here of the threshold between knowing _one_ is doing the thing and ceasing to be aware that there is a _one_. This interstice and the experience of being on the other side has many names from many traditions, and they are overlapping concepts. In dance improvisation it is described as the difference between "moving and being moved" [@adler-2002-offering p.30] while in cognitive science it is called transient hypofrontality [@dietrich-2003-functional]. In Taoism _wúwéi_ [@slingerland-2003-effortless] or _action without actor_, in Zen _mushin_ [@soho-2012-unfettered] or _no-mind_, and in sport it bears similarities to [[flow]] [@csikszentmihalyi-2009-flow] or being in -- or going through -- _the zone_ [@ashe-1975-arthur].[^zone] There is trance, shamanism and ecstasis [@eliade-2004-shamanism; @lewis-2002-ecstatic], the Sufi wajd [@schimmel-1981-mystical], speaking in tongues (glossolalia) [@samarin-1972-tongues], furor poeticus (poetic frenzy) [@dodds-2020-greeks], the Flamenco concept of duende [@garcialorca-2023-finding], and Vodou possession or _being ridden_ [@metraux-1972-voodoo]. In Russian, the word is simply _perezhivanie_, which means experiencing. In the [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) Tibetan Buddhist tradition it is _rigpa_ or pristine awareness -- where awareness recognises itself without interference (Wangyal Rinpoche, T. (2006). _The Tibetan Yogas of Dream and Sleep._ ). In Buddhism it is _śūnyatā_ or emptiness -- the open, non-conceptual field of awareness itself. It is self-luminous and nondual. 
 
-could add 'emptiness'??
+- [[consciousness-as-such]]
 
 Not crossing into something but rather leaving something make believe or usefully constructed -- not entering a state. 
 
 [^zone]: Story of Arthur Ashe and the twilight zone.
 
+key things: 
+1. thick description of that experience ... backgrounding of self / direct experiences of bias towards the corporeal (and tension of that bias with the the extent to which we are fundamentally corporeal) - see [[confusing self-consciousness with consciousness]], [[subject-body and object-body]]
+2. different from flow? (what is gained by this difference -- is it really different). different by degree? or kind? This scoping review intriguing: [https://doi.org/10.1016/j.jenvp.2025.102605](https://doi.org/10.1016/j.jenvp.2025.102605 "Persistent link using digital object identifier")
+3. limits of phenomenology 
+
+> One perception cannot appear within another. All perceptions appear within Consciousness. We do not experience a sensation inside the body. What we call the body is in fact the experience of a sensation. [@spira-2008-transparency]
+
+
 - the line between driving and being driven -- the various names for this phenomenon. Brief attempt at this in [[that which doesn't arise and pass away]] and see also [[undistracted non-meditation]] as more help to describe the experience or phenomenon. 
 
 Although these phenomena and ideas are not precisely the same what they have in common is the way in which they explicitly or implicitly transgress or interrupt conventional understandings and experiences of a self.  -- and then add focus on [[nonduality]]
 
-
 or the tiny moment when the transition occurs
 
+Need to understand what phenomenology means by 'lived experience'.
+
+In [[Barbour - Beyond Somatophobia]] she suggests three methods for investigating "lived dance experience": interviewing, creative journaling and dance making [@barbour-2005-somatophobia p.41]. Using phenomenology (along with others) but all gloss over the limits of addressing nonduality through method that is predicated on duality. 
+
 Is there a 'bardo' in this work. "intermediate state between conditions"
-gradual changes but then absolute. dawn/dusk not right -- like the sun is setting and setting then once it's gone complete darkness. 
+gradual changes but then absolute. dawn/dusk not right -- like the sun is setting and setting then once it's gone complete darkness. Or a gradient like that suggested by [[Josipovic - Implicit–explicit gradient of nondual awareness]]
 
 **metaxis** — being between or betwixt two states.
 
@@ -71,11 +81,11 @@ gradual changes but then absolute. dawn/dusk not right -- like the sun is settin
 **ECSTASIS / “standing outside oneself.”** The old Greek name for outsideness—religious, aesthetic, athletic—where agency feels displaced and enlarged. The word _ecstatic_ comes from the Greek **ekstasis (ἔκστασις)**, meaning “standing outside oneself” or “displacement.”
 
 - then to [[nonduality|nondual awareness]]?? 
-- introduce [[authentic movement]]
+- introduce [[authentic movement]]. Note that in [[Marcow-Speiser and Franklin - Authentic Movement as a Meditative Practice]] they link AM to meditation
 
 - non dual awareness and consciousness 
 	+ the hunch
-	+ where did it begin? (not sure I could tell frankly) -- from interoception and self? Meditation -- yes, through Kabat-Zinn and Sam Harris (in particular SH)
+	+ where did it begin? -- from interoception and self? Meditation -- yes, through Kabat-Zinn and Sam Harris (in particular SH)
 
 - **what is consciousness?**
 - - see below re 'the placeless place' from Spira and also that it is _here_. 
@@ -114,6 +124,7 @@ Finish with a very clear description of what the threshold is and what lies on i
 ## the context (other literature)
 
 > [To create a dance improvisation] is to create an ongoing present from the world of possibilities at any given moment.[@sheets-johnstone-1981-thinkinga p.399]
+
 > in a dance improvisation, the process of creating is not the means of realizing _a_ dance, it is _the_ dance itself.[@sheets-johnstone-1981-thinkinga p.399] 
 
 That this is an article about dance improvisation is somewhat arbitrary. It could be many other practices that afford insight into the threshold. It is merely the practice of my expertise. But this also provides an opportunity to consider/assess the peculiarities of dance improvisation in this context, and its limits. 
@@ -139,6 +150,8 @@ I wonder what the role of newness in this work is at all. Does it have a role? R
 intriguing she writes of contemplating how: 
 
 > That moment of wavering while contemplating how, exactly, to execute an action already deeply known, belies the presence of improvised action.[@foster-2003-taken p.4]
+
+- Foster also discussed the middle voice of "shit happens" (nonactive / nonpassive voicing)
 
 ### review of work in other disciplines re the threshold 
 
@@ -216,7 +229,7 @@ I like the following description of the self by Sacasas. It's for another contex
 
 - [[Vo - Some Hypotheses on Being Possessed]] - this is fascinating and I wonder if any overlap with [[Waldenfels - Phenomenology of the Alien]]
 
-> They argue that the accumulation function in the posterior insula might be correlated with the encoding of time intervals as suggested by Craig ([2009a,b]([https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x#b12](https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x#b12) #b13)). Craig’s model proposes a close interaction between interoceptive processes and time perception, suggesting that our experience of time emerges from emotional and visceral states processed in the insular cortex. It can be interpreted as a series of global emotional moments that are indexed across a finite period of present time, from the past into the anticipated future. These series produce a cinemascopic “image” of the sentient self that is continuous across a moving window of present time. [@herbert-2012-body] 
+> They argue that the accumulation function in the posterior insula might be correlated with the encoding of time intervals as suggested by Craig (2009a,b). Craig’s model proposes a close interaction between interoceptive processes and time perception, suggesting that our experience of time emerges from emotional and visceral states processed in the insular cortex. It can be interpreted as a series of global emotional moments that are indexed across a finite period of present time, from the past into the anticipated future. These series produce a cinemascopic “image” of the sentient self that is continuous across a moving window of present time. [@herbert-2012-body] 
 - thinking about time and flow and consciousness --
 
 > Attention is Consciousness with an object. When the object vanishes, attention simply remains what it always is, Consciousness [@spira-2008-transparency]
