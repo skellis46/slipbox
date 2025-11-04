@@ -19,7 +19,7 @@ _previous note:_ [[nonduality]]
 
 _original source/found:_ 
 
-_reference:_ 
+_reference:_ Lynch, J.M. and Troy, A.S. (2021) ‘The Role of Nonduality in the Relationship Between Flow States and Well-Being’. _Mindfulness_ 12 (7), 1639–1652
 
 
 

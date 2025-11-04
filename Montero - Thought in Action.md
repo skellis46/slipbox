@@ -11,7 +11,7 @@ _previous note:_ [[improvisation and the threshold of the self]]
 
 ## LLM summary:
 
-Barbara Gail Montero’s #Thought in Action: Expertise and the Conscious Mind#.
+Barbara Gail Montero’s Thought in Action: Expertise and the Conscious Mind.
 
 - **Core claim.** Montero argues that expert performance often _does_ involve conscious thought and attention; the popular “just do it” view—that thinking makes experts choke and that the best action is mindless, automatic, effortless—is a myth. She calls her view **cognition-in-action** and opposes the **just-do-it principle**. ([ResearchGate](https://www.researchgate.net/publication/345692809_Thought_in_Action_Expertise_and_the_Conscious_Mind "(PDF) Thought in Action: Expertise and the Conscious Mind"))
     
