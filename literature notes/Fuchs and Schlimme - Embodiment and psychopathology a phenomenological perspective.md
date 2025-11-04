@@ -4,7 +4,6 @@
 - Document Note: The concept of embodiment has become a key paradigm in interdisciplinary approaches related to philosophy, psychology, psychiatry, and neuroscience. Embodiment refers to the sensory-motor experience of an organism in relation to its environment. Recent studies and monographs have identified embodiment as a major paradigm of psychopathology, particularly in schizophrenia and depression, where there is a disturbance of the subject body or prereflective embodied sense of self. A phenomenology of embodiment may be combined with enactive approaches to cognitive neuroscience, and ecological concepts of embodiment to enable a new, advanced understanding of mental illness.
 - URL: https://readwise.io/reader/document_raw_content/77196858
 
-## Highlights
 
 > We present the concept of embodiment as a key paradigm of recent interdisciplinary approaches from the areas of philosophy, psychology, psychiatry and neuroscience. This requires a short overview on the phenomenological concept of embodiment; in particular, on the distinction of subject and object body. A psychopathology of embodiment may be based on these and other distinctions, in particular on a polarity of disembodiment and hyperembodiment, which is illustrated by the examples of schizophrenia and depression. Recent contributions to phenomenological accounts of these disorders are presented. Finally, the study discusses the relationship of phenomenological and neuropsychiatric perspectives on embodiment. ([View Highlight](https://read.readwise.io/read/01h6zz754brjzx34e0y5fps3g1))
 
@@ -94,7 +93,6 @@
 +++++ 
 - Note: Am reminded of how in AM there's a sense of the self as being observed with love from the outside. As if welcoming the disembodiment. But the paradox is that it's a strong feeling of deep embodiment. As if the alienation (as Fuchs calls it) is a feature and not a bug in AM?
 
-## New highlights added August 8, 2023 at 8:55 AM
 
 > In summary, from a phenomenological perspective,
 >  schizophrenia implies a disembodiment of the self in

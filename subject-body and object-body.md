@@ -12,7 +12,7 @@ Fuchs and Schlimme present an overview of embodiment and psychopathology from a 
 
 > Normally, the body tends to efface itself in our world-directed activity [27]. However, it appears as an object of conscious attention, particularly when it is inadequate for a task to be performed, be it by a lack of capacity, fatigue, illness or numbness, and whenever it becomes an object for others to whom I feel exposed. In these cases, the body’s performance is made explicit and may often be disturbed. Thus, the body has a double or ambiguous experiential status: both as a ‘lived body’, implicit in one’s ongoing experience, and as an explicit, physical or objective body. An ongoing oscillation between these two bodily modes constitutes a ﬂuid and hardly noticed foundation of all experiencing.[@fuchs-2009-embodiment p.571]
 
-See also [[Herbert - The Body in the Mind#^9fb6b4]] -- where Herbet mentions 
+See also [[Herbert - The Body in the Mind#^9fb6b4]] -- where Herbert writes the above. 
 
 Curious how the term "to whom I feel exposed" hints at judgement and the appearance of the body-object. But the difference between the two doesn't seem to mirror my experiences in [[authentic movement]] and improvisation. In these situations, a more non-dual subjective-objective body. 
 
