@@ -9,7 +9,93 @@ type: evergreen
 
 _previous note:_ [[kinship bid initial summary]]
 
-## next steps
+- am I the right person to lead this? Might it be let down by my involvement -- how to make a case for that? 
+- conversation with Derby -- how open are they? or test ideas on colleagues at CAWR (Francis & Judith) -- Amy Beaumont (is KK's counterpart)
+- https://www.derby.ac.uk/staff/gemma-collard-stokes/
+- natural environment research council ([NERC](https://www.ukri.org/councils/nerc/))
+- cross-council call? 
+- UN sustainable development goals 
+- global north / global south ... balance. 
+- myth / celtic indigineity 
+
+My experience and work: embodied practices in nature (with focus on felt sense, somatic sensitivity and non-dual awareness)
+
+Looking to develop a multi-disciplinary project and funding bid with following aspects: 
+
+- focus on embodied practices in nature
+- collective sense or consciousness, social connection and interoception
+- trans-species sensitivity
+- body-focused first person subjective experiential methods, combined with third person data gathering 
+
+
+Subject: Potential collaboration on embodied nature practices and collective sense
+
+Dear ,
+
+I am getting in touch to explore whether you might be interested in an initial conversation re collaborating on a new multi-disciplinary research project and associated funding bid focused on embodied practices in nature. My own work is grounded in embodied and somatic practices in natural environments, with particular emphasis on felt sense, somatic sensitivity and non-dual awareness.
+
+The project I am developing would bring together body-focused first person experiential methods with more conventional third person data gathering. I am especially interested in working through collective consciousness (perhaps "social connection"?), trans-species orientations, social interoception and embodiment might be part of a complex confluence of ideas and practices to understand, evidence and sustain through time.
+
+I am looking for co-investigators and collaborators from different disciplines who might see their own interests aligning with these concerns and who would be interested to shaping the bid and research design together. 
+
+What do you think? I'd be happy to meet online for a short conversation if that might be useful. 
+
+Best wishes
+
+Simon Ellis
+
+Contemporary responses to ecological crisis remain disembodied and data-driven, treating nature as a tool for wellbeing or behaviour change while sidelining lived, collective and more-than-human ways of knowing. This project addresses the lack of rigorous transdisciplinary methods for recognising, working with and evidencing those embodied human–nature relationships in research, governance and everyday life.
+
+While large-scale psychological studies have demonstrated the importance of nature connectedness for wellbeing and behaviour, they work with simplified, individualised constructs and rely on self-report metrics. This project asks what is obscured when experience is flattened into such data, and develops alternative modes of inquiry grounded in embodied and collective practice.
+
+- what benefits might this have to C-DaRE? to CC? to CU? 
+- how does this sit with-in the Centre/Uni's plan and roadmap?
+- why would the AHRC invest in this research? 
+- who do we need on the team to ensure strong multi-disciplinary approach? 
+- QR funds to cover a couple of days on it? 
+- scale? 
+
+Alignment re 2030 research strategy:
+- Aligns with the Creative Cultures and Sustainability, Equity and Resilience themes by using arts and humanities methods to address contemporary socio-ecological challenges and more-than-human relations as critical real-world issues. 
+- Contributes to the Research and Impact theme by delivering challenge-led, transdisciplinary research on eco-distress, nature connectedness and collective sense that is designed for significant societal and environmental impact. 
+- Strengthens CU’s research environment and strategic partnerships by building high performing teams around embodied, participatory practice, co-creating knowledge with communities and positioning Coventry as an international leader in innovative, impact-driven creative research. 
+
+## brief summary
+
+- Problems: people feel less connected to the more-than-human world; embodied and place-based knowledge is ignored in decisions; there are few solid ways to combine arts, somatics, ecology and social science.
+    
+- Questions: how “collective sense” and trans-species participation work in practice; how they can be understood, evidenced and used to support long-term relationships with nature, not just short-term wellbeing or behaviour change.
+    
+- Strategy: multi-site, arts-led and somatic fieldwork co-designed with communities and ecological partners, creating sharable maps, descriptions and prototypes that can sit alongside numbers and indicators in planning, health and environmental governance.
+    
+- Internal fit (Coventry): directly supports challenge-led, transdisciplinary and impact-focused research; links to Creative Cultures, Health and Wellbeing and Sustainability, Equity and Resilience; builds high-performing teams, strategic partnerships and knowledge exchange.
+    
+- External fit (AHRC and UKRI): matches AHRC focus on arts and humanities leadership in place, environment and health; aligns with UKRI priorities on building a green future, better health and wellbeing, and fairer opportunities by addressing eco-distress, unequal access to nature and place-based responses to climate and biodiversity crises.
+
+
+## problems
+
+### problem 1:
+
+Disconnection from nature undermines mental health and sustains a gap between abstract environmental concern and meaningful action, because most interventions treat nature as a tool for wellbeing or behaviour change rather than a field of kinship and shared sensing.
+
+Project response  
+The project investigates how embodied, transactional experiences and trans-species forms of “collective sense” can re-pattern long-term human–nature relationships beyond short-term wellbeing effects and instrumental framings.
+
+### problem 2: 
+
+Environmental planning and governance are dominated by quantitative indicators that sideline lived, embodied and place-based knowledges, leaving them with little evidential status in design and policy.
+    
+Project response  
+The project develops and tests arts-based and somatic methods for collective, more-than-human sensing that can generate sharable descriptions and mappings, allowing these forms of experience to sit alongside quantitative data in decision-making.
+
+### problem 3:
+Despite funder and policy demands for transdisciplinary work on health, sustainability and equity, there are few robust toolkits or exemplars that integrate arts, somatics, ecological science and social science around more-than-human participation.
+
+Project response
+The project builds and trials a multi-site methodological toolkit that shows how somatic and practice-research approaches can produce rigorous, transferable knowledge about human–nature relations and supports the development of researchers able to work in this way.
+
+## some questions (addressed)
 
 1. What is the RQ?
 
