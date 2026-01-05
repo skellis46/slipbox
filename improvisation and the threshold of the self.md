@@ -4,7 +4,7 @@ tags:
 type: book chapter
 platform: 
 status: in progress
-status-updated: "20251008"
+status-updated: "20260105"
 
 ---
 
@@ -44,7 +44,11 @@ Being woken up or disturbed from such an experience is revealing. It reveals tha
 
 Where was I before the alarm sounded? Who was I before the alarm sounded? Was  _I_ before the alarm sounded?  
 
-This writing is a description and an analysis of what I understand to be a vital and tangible-yet-delicate part of being in a practice that affords the shock and confusion of being _woken up_ from that same practice. I am writing here of the threshold between knowing _one_ is doing the thing and ceasing to be aware that there is a _one_. This interstice and the experience of being on the other side has many names from many traditions, and they are overlapping concepts. In dance improvisation it is described as the difference between "moving and being moved" [@adler-2002-offering p.30] while in cognitive science it is called transient hypofrontality [@dietrich-2003-functional]. In Taoism _wúwéi_ [@slingerland-2003-effortless] or _action without actor_, in Zen _mushin_ [@soho-2012-unfettered] or _no-mind_, and in sport it bears similarities to [[flow]] [@csikszentmihalyi-2009-flow] or being in -- or going through -- _the zone_ [@ashe-1975-arthur].[^zone] There is trance, shamanism and ecstasis [@eliade-2004-shamanism; @lewis-2002-ecstatic], the Sufi wajd [@schimmel-1981-mystical], speaking in tongues (glossolalia) [@samarin-1972-tongues], furor poeticus (poetic frenzy) [@dodds-2020-greeks], the Flamenco concept of duende [@garcialorca-2023-finding], and Vodou possession or _being ridden_ [@metraux-1972-voodoo]. In Russian, the word is simply _perezhivanie_, which means experiencing. In the [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) Tibetan Buddhist tradition it is _rigpa_ or pristine awareness -- where awareness recognises itself without interference (Wangyal Rinpoche, T. (2006). _The Tibetan Yogas of Dream and Sleep._ ). In Buddhism it is _śūnyatā_ or emptiness -- the open, non-conceptual field of awareness itself. It is self-luminous and nondual. 
+This writing is a description and an analysis of what I understand to be a vital and tangible-yet-delicate part of being in a practice that affords the shock and confusion of being _woken up_ from that same practice. I am writing here of the threshold between knowing _one_ is doing the thing and ceasing to be aware that there is a _one_. This interstice and the experience of being on the other side has many names from many traditions, and they are overlapping concepts. In dance improvisation it is described as the difference between "moving and being moved" [@adler-2002-offering p.30] while in cognitive science it is called transient hypofrontality [@dietrich-2003-functional]. In Taoism _wúwéi_ [@slingerland-2003-effortless] or _action without actor_, in Zen _mushin_ [@soho-2012-unfettered] or _no-mind_, and in sport it bears similarities to [[flow]] [@csikszentmihalyi-2009-flow] or being in -- or going through -- _the zone_ [@ashe-1975-arthur].[^zone] There is trance, shamanism and ecstasis [@eliade-2004-shamanism; @lewis-2002-ecstatic], the Sufi wajd [@schimmel-1981-mystical], speaking in tongues (glossolalia) [@samarin-1972-tongues], furor poeticus (poetic frenzy) [@dodds-2020-greeks], the Flamenco concept of duende [@garcialorca-2023-finding], and Vodou possession or _being ridden_ [@metraux-1972-voodoo]. In Russian, the word is simply _perezhivanie_, which means experiencing. In the [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) Tibetan Buddhist tradition it is _rigpa_ or pristine awareness -- where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan]. In Buddhism it is _śūnyatā_ or emptiness -- the open, non-conceptual field of awareness itself that is self-luminous and nondual. 
+
+Sam Harris describing this 'stage' in mindfulness practice: 
+
+> And that's the stage at which the illusion of self gets cut through with a sense that there's a subject at the centre of consciousness falls away. And that experience of openness and centrelessness at that point becomes synonymous with mindfulness. Which is to say that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own thoughts, intentions, emotions and ... vanishing. And this prior condition of consciousness in which all of that's happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-what]
 
 - [[consciousness-as-such]]
 
@@ -55,7 +59,7 @@ Not crossing into something but rather leaving something make believe or usefull
 key things: 
 1. thick description of that experience ... backgrounding of self / direct experiences of bias towards the corporeal (and tension of that bias with the the extent to which we are fundamentally corporeal) - see [[confusing self-consciousness with consciousness]], [[subject-body and object-body]]
 2. different from flow? (what is gained by this difference -- is it really different). different by degree? or kind? This scoping review intriguing: [https://doi.org/10.1016/j.jenvp.2025.102605](https://doi.org/10.1016/j.jenvp.2025.102605 "Persistent link using digital object identifier")
-3. limits of phenomenology 
+3. limits of phenomenology -- 
 
 > One perception cannot appear within another. All perceptions appear within Consciousness. We do not experience a sensation inside the body. What we call the body is in fact the experience of a sensation. [@spira-2008-transparency]
 
