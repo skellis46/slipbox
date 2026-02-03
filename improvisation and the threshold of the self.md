@@ -56,17 +56,31 @@ Although these phenomena and ideas are not precisely the same, what they have in
 
 _Waking Up_ is a software application developed by neuroscientist, philosopher and podcaster Sam Harris (who himself is influenced by the Dzogchen tradition) and it contains a large number of meditations, conversations, lectures and practices exploring secular mindfulness. In a brief audio recording called _What is Mindfulness?_ Harris describes the illusion of self and nondual awareness in which the subject-object dichotomy collapses: 
 
-> [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own thoughts, intentions, emotions and ... vanishing. And this prior condition of consciousness in which all of that's happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-what]
+> [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-what]
 
 - [[consciousness-as-such]]
 
 but how might nonduality (awareness / consciousness) be the object of research through practice? (it's illogical). 
 
+See [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies#^2eb562]] regarding degrees of relationship to body. Akin to only aware of our bodies at certain times (?) but more detailed. 
+
+Levels of embodiment: [[Lux - A Developmental Framework for Embodiment Research#^440e35]]
+
+[[Zoran Josipovic - Nondual Awareness and Minimal Phenomenal Experience#^7022db]]
+
+[[the act of perceiving itself coming to awareness]]
+
 ## methods and phenomenology
 
 Need to understand what phenomenology means by 'lived experience'. See Lumo prompt (Proton LLM)
 
-In [[Barbour - Beyond Somatophobia]] she suggests three methods for investigating "lived dance experience": interviewing, creative journaling and dance making [@barbour-2005-somatophobia p.41]. Using phenomenology (along with others) but all gloss over the limits of addressing nonduality through method that is predicated on duality. 
+In [[Barbour - Beyond Somatophobia]] she suggests three methods for investigating "lived dance experience": interviewing, creative journaling and dance making [@barbour-2005-somatophobia p.41]. Using phenomenology (along with others) but all gloss over the limits of addressing nonduality through method that is predicated on duality. But this is only a problem if I make a strong enough case for the presence of nonduality; otherwise the limits of phenomenology are irrelevant. 
+
+"We hence see that it is not the presence of explicit thought that distinguishes ego-involved experience from ego-less experience. Instead, this distinction reflects the degree of immersion in activity and so the degree to which explicit awareness of oneself as standing outside that activity is diminished. It is a distinction that is more phenomenological than psychological, having to do with how we experience our own engagement with the world. When we are completely immersed in activity—whether the physical activity of carving an ox or the cognitive activity of thinking about how best to carve that ox—our sense of self, and with it, the experience of the duality of subject and object in experience, vanish. There is only the experience of a flow of activity." (Jay L. Garfield, Losing Ourselves)
+
+"Consciousness is in the looking, not in the looked for" [@spira-2008-transparency n.pag.]. In the dancing, when I become a passenger, the _I_ dissolves into the looking and there is no looked for. 
+
+
 
 - methods: 
 	+ phenomenology -- see [[Krägeloh - Phenomenological Research Fails to Capture the Experience of Nondual Awareness]]
@@ -81,9 +95,28 @@ On this point re Krägeloh and the limits of phenomenology:
 	+ conversations / reflections with KC (post practice) -- not that my agenda was nonduality (but not the threshold). Was more interested (pre starting) in flow/interoception -- can look to some of my documents/emails about this. 
 	+ more interviews?  
 
+## flow
+
+From Kronsted email: 
+
+> I think Montero is a good place to start, and some of the literature on meshed architecture will probably work too. Similarly the discussions on "smooth coping" intermix will with the flow debates.
+
+> I find it interesting that much of the literature on "flow" continually adds and subtracts different conditions to the phenomenon. So many different cognitive phenomenon just get lumped together under flow. I think there are many ways of being in the zone.
+
+> These articles might also be of some help:
+
+- Christensen, W., Sutton, J., & McIlwain, D. J. F. (2016). Cognition in Skilled Action: Meshed Control and the Varieties of Skill Experience. Mind & Language, 31(1), 37–66.
+- Gallagher, S. (2021). Performance/Art: The Venetian Lectures. Mimesis.
+- Gallagher, S., & Varga, S. (2020). Meshed Architecture of Performance as a Model of Situated Cognition. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.02140
+- Katen, J. (2021). Competition and Cognition: Theorizing an Autopoietic Pedagogy of Performance within Competitive Dance. Journal of Dance Education, 21(3), 140–148.
+
 ## The practice
 
 - introduce [[authentic movement]]. Note that in [[Marcow-Speiser and Franklin - Authentic Movement as a Meditative Practice]] they link AM to meditation
+
+- how things look is NOT important. Indeed it's irrelevant. Separates this work from the ways in which dance is codified, validated, imagined etc
+
+- [[losing oneself - summary of transcripts]]
 
 Inside outside. All consciousness. Eyes closed alerts us to inside more. See [[no boundary between inside and outside]] -- the value/potential of closing eyes, but it's not necessary. Prioritises physical sensation. 
 
@@ -93,7 +126,7 @@ Inside outside. All consciousness. Eyes closed alerts us to inside more. See [[n
 
 That this is an article about dance improvisation is somewhat arbitrary. It could be many other practices that afford insight into the threshold. It is merely the practice of my expertise. But this also provides an opportunity to consider/assess the peculiarities of dance improvisation in this context, and its limits. 
 
-- Sheets-Johnstone (1981) _Thinking in Movement_ [@sheets-johnstone-1981-thinkinga]. Excellent analysis/description of thinking in movement vs thoughts of movement (and how they are distinct). Main idea is that movement itself is a form of thinking—a dynamic, pre-linguistic mode of cognition through which meaning and understanding are generated bodily rather than abstractly
+- Sheets-Johnstone (1981) _Thinking in Movement_ [@sheets-johnstone-1981-thinkinga]. Excellent analysis/description of thinking in movement vs thoughts of movement (and how they are distinct). Main idea is that movement itself is a form of thinking—a dynamic, pre-linguistic mode of cognition through which meaning and understanding are generated bodily rather than abstractly.
 
 - Authentic movement, or improvisation that crosses the threshold from “doing” to “being moved”, can be understood as a temporary return to this **semiotic field** — where gesture precedes the self and meaning arises without intention or control. (this is Kristeva's idea, cited in Sheets-Johnstone above). But, like S-J, it is predicated on a self. I suspect S-J also falls into reifying the body. 
 - Mary Starks Whitehouse and Janet Adler -- moving and being moved. 
@@ -103,7 +136,11 @@ That this is an article about dance improvisation is somewhat arbitrary. It coul
 
 "in all that happens between the experience of duality and unity consciousness" [@adler-2015-mandorla p.226]
 
+- [[Fraleigh - Consciousness Matters]]
+
 ## The threshold
+
+> That is why the transitions from the waking state to the dream state and from the dream state to deep sleep, and vice versa, are considered in some spiritual traditions to be such significant opportunities for awakening. [@spira-2008-transparency] 
 
 Not crossing into something but rather leaving something make believe or usefully constructed -- not entering a state. 
 
@@ -135,9 +172,6 @@ Finish with a very clear description of what the threshold is and what lies on i
 
 
 ## the context (other literature)
-
-
-
 
 
 ### review of work in dance on the nature of the threshold
