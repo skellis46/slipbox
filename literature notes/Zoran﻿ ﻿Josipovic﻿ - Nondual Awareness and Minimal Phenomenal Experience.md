@@ -1,13 +1,5 @@
 # Nondual Awareness and Minimal Phenomenal Experience
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
-
-## Metadata
-- Author: [[﻿Zoran﻿ ﻿Josipovic﻿]]
-- Full Title: Nondual Awareness and Minimal Phenomenal Experience
-- Category: #articles
-- URL: https://readwise.io/reader/document_raw_content/39054407
-
 ## Highlights
 
 > We have previously proposed that the impasse in today’s scientific understanding of consciousness
@@ -106,8 +98,6 @@
 >  accounts as to whether full absorption entails the presence of
 >  NDA or not and whether that awareness, if present, is self-
 >  recognized or not (Srinivasan, 2020). ([View Highlight](https://read.readwise.io/read/01gv376w6njz7qdkkew4gh88aw))
-
-## New highlights added August 1, 2023 at 11:53 AM
 
 > it has
 >  been proposed that so-called minimal phenomenal experiences (MPEs) or full absorption
@@ -251,25 +241,9 @@
 >  the fact (Guenther, 1977; Dunne, 2015). ([View Highlight](https://read.readwise.io/read/01h6r27ct6xd42h3nbd7at22ar))
 
 
-> Starting with relaxation
->  and silencing of the layers of inner narrative related to
->  autobiographical-relational-social self, it progresses to the
->  cessation of processes specifying phenomenal core self, such
->  as agency, body-ownership, and spatio-temporal located-ness,
->  then to the basic interoceptive sense of body presence (Farb
->  et al., 2007; Siderits et al., 2013; Dahl et al., 2015; Dor-Ziderman
->  et al., 2016; Metzinger, 2020). However, such temporary
->  quieting down in and of itself may not yet be cessation of
->  the constructed self as the implicit categorizations that reify
->  the self and objects may be still operating in the unconscious
->  substrate (Germano and Waldron, 2006). Thus, selflessness
->  can be understood in a more refined way as not merely
->  inner silence but as a more fundamental transformation of
->  the nature of cognition in which cognitive processes switch
->  from the exclusive reliance on conceptually constructed dualistic
->  subject-object structures to a more direct unconstructed way
->  of cognizing via NDA itself. ([View Highlight](https://read.readwise.io/read/01h6r2pn8gxdzt88acc5vm22xa))
+> Starting with relaxation and silencing of the layers of inner narrative related to autobiographical-relational-social self, it progresses to the cessation of processes specifying phenomenal core self, such  as agency, body-ownership, and spatio-temporal located-ness, then to the basic interoceptive sense of body presence (Farb et al., 2007; Siderits et al., 2013; Dahl et al., 2015; Dor-Ziderman et al., 2016; Metzinger, 2020). However, such temporary quieting down in and of itself may not yet be cessation of the constructed self as the implicit categorizations that reify the self and objects may be still operating in the unconscious substrate (Germano and Waldron, 2006). Thus, selflessness can be understood in a more refined way as not merely inner silence but as a more fundamental transformation of the nature of cognition in which cognitive processes switch from the exclusive reliance on conceptually constructed dualistic subject-object structures to a more direct unconstructed way of cognizing via NDA itself.
 
+^7022db
 
 +++++ 
 - Note: p.4 This is so so fundamental to the authentic movement thinking/practice.
