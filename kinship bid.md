@@ -9,6 +9,13 @@ type: evergreen
 
 _previous note:_ [[kinship bid initial summary]]
 
+
+kinship -- sensuous ethnography/anthropology.
+
+https://profiles.sussex.ac.uk/p202499-karis-jade-petty
+
+the illusion of separateness -- non duality 
+
 - am I the right person to lead this? Might it be let down by my involvement -- how to make a case for that? 
 - conversation with Derby -- how open are they? or test ideas on colleagues at CAWR (Francis & Judith) -- Amy Beaumont (is KK's counterpart)
 - https://www.derby.ac.uk/staff/gemma-collard-stokes/
