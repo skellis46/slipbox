@@ -39,7 +39,7 @@ A strong through-line is the role of “not wanting”: an active refusal to rea
 
 ## 4. Permission and container: the ethical/relational precondition
 
-KC/SE repeatedly treat the permissive container as foundational: “it has to all be allowed”. This is linked to authentic movement’s therapeutic lineage (witness availability, non-judgement), while also clarifying that your situation is not therapy and depends on being “resourced” as practitioners. This theme includes a negative image: choreographic or institutional contexts where judgement saturates the room make the required conditions impossible.
+KC/SE repeatedly treat the permissive container as foundational: “it has to all be allowed”. This is linked to authentic movement’s therapeutic lineage (witness availability, non-judgement), while also clarifying that the situation is not therapy and depends on being “resourced” as practitioners. This theme includes a negative image: choreographic or institutional contexts where judgement saturates the room make the required conditions impossible.
 
 ## 5. Witnessing, recognition and self-consciousness
 
@@ -100,12 +100,6 @@ SE/KC explicitly want articulation that provides access and demystifies the proc
 ## 13. “Good, not bad”: valence, safety and the non-heroic tone
 
 There is a sustained attempt to avoid romanticising intensity. “Benign” and “everyday availability” are used to resist framing the experience as bliss, peak or special state, because that framing feeds seeking and ego capture. At the same time, KC/SE do explicitly name it as “sustainable and healthy” and agree to reorient if it tips toward harm.
-
----
-
-_original source/found:_ 
-
-_reference:_ 
 
 
 
