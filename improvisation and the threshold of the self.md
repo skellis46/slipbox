@@ -42,6 +42,10 @@ This chapter is a description and an analysis of what I understand to be a vital
 
 ## non-dual awareness (an inappropriate lens)
 
+> Our results lend further evidence to the claims that NDA meditations are different from both FA and OM meditations. While FA and OM meditations are traditionally regarded as “constructed” states created through deployment of speciﬁc attentional strategies, NDA meditations are thought not to involve intentional effort, but to be based on identifying a reﬂexive awareness that is regarded as “unconstructed” (Mipam and Hopkins, 2006). Additionally, both FA and OM meditations are content-oriented, concerned with the speciﬁcs of experience, while NDA meditations could be seen as primarily context-oriented, concerned with the context of experience. (Zoran Josipovic, Influence of Meditation on Anti-Correlated Networks in the Brain)
+
+- write as part of the basis for my original hunch
+
 ### what is non-dual awareness? 
 
 - also nonduality
@@ -58,7 +62,7 @@ _Waking Up_ is a software application developed by neuroscientist, philosopher a
 
 ### literature (other examples)
 
-#### dance
+#### dance and nda
 
 I wonder what the role of newness in this work is at all. Does it have a role? Reading Foster (2003): 
 
@@ -81,9 +85,9 @@ intriguing she writes of contemplating how:
 
 - [[Fraleigh - Consciousness Matters]]
 
-#### mindfulness
+#### mindfulness and nda
 
-#### cognitive science
+#### cognitive science and nda
 
 - [[Mehling - Body Awareness a phenomenological inquiry into the common ground of mind-body therapies#^2eb562]] regarding degrees of relationship to body. Akin to only aware of our bodies at certain times (?) but more detailed. 
 - [[Zoran Josipovic - Nondual Awareness and Minimal Phenomenal Experience#^7022db]]
@@ -98,7 +102,7 @@ The following more on threshold?
 - [[the dextrous butcher]]
 - [[Lynch & Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]]
 
-#### body-based practices
+#### other body-based practices and nda
 
 ### the (inappropriate) lens of non-dual awareness
 
@@ -130,6 +134,11 @@ Seth on importance of subjective experience (first person)
 In [[Barbour - Beyond Somatophobia]] she suggests three methods for investigating "lived dance experience": interviewing, creative journaling and dance making [@barbour-2005-somatophobia p.41]. Using phenomenology (along with others) but all gloss over the limits of addressing nonduality through method that is predicated on duality. But this is only a problem if I make a strong enough case for the presence of nonduality; otherwise the limits of phenomenology are irrelevant. 
 
 Need to understand what phenomenology means by 'lived experience'. See Lumo prompt (Proton LLM)
+
+"And this is a good thing for at least two reasons. First, immersed phenomenology is less likely to lead us into the error of positing the self. This is because the subject-object duality that thematizes the self as the subject of experience or the agent of action is itself a misleading structural superimposition on experience, a superimposition absent in immersed experience. Second, immersed phenomenology is indicative of expertise, and facilitates more fluid, successful performance." (Jay L. Garfield, Losing Ourselves)
+
+look at the questions these were asked: 
+"Practitioners were asked the following questions:" (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
 
 ### the practice (and its documentation)
 
@@ -197,6 +206,12 @@ Finish with a very clear description of what the threshold is and what lies on i
 
 ### the role of training / movement bias
 
+"So through repetition and training in these skills of noticing, differentiating, and discerning, individuals engaged in mind-body practices that involve the body are immersed in a process that leads to embodiment and integration." (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
+
+"And then there is the practice of choiceless awareness. Given that the field of awareness we have been cultivating through the various practices described above is fundamentally limitless by nature, we can expand our awareness still further, beyond even attending specifically to the stream of our own thoughts and emotions arising and passing away in each moment. We can, instead, allow the field of awareness to be essentially infinite, boundless, like space itself, or like the sky, noting that it can include any and all aspects of our experience, interior and exterior, sensory, perceptual, somatic, emotional, cognitive as primary objects of attention, and that we can rest in this vast, sky-like field of awareness without choosing among or specifically featuring any of these particular occurrences. Instead, we allow them all to come and go, appear and disappear, as they will, and be known in their fullness from moment to moment within the nowscape. This is the practice of what Krishnamurti called choiceless awareness, akin to the practice of shikan-taza, or “just sitting—nothing more” in Zen, and to Dzogchen in the Tibetan tradition" (Jon Kabat-Zinn, Kabat-Zinn-2018-Falling)
+
+- noting that what is different is the emphasis (right word?) on bodily sensation - but perhaps this is just a training bias?
+
 - [[the act of perceiving itself coming to awareness]]
 - thick description of that experience ... backgrounding of self / direct experiences of bias towards the corporeal (and tension of that bias with the the extent to which we are fundamentally corporeal) - see [[confusing self-consciousness with consciousness]], [[subject-body and object-body]] -- note the 4 layer map at bottom of this: https://chatgpt.com/share/6968cf1e-c378-8003-9fb7-3a1c85adbe76
 
@@ -212,12 +227,31 @@ This is essential also in relation to training biases
 
 ### what is gained and lost by lens of nda? 
 - benevolent indifference vs non-judgement: 
-
 > Sooner or later Consciousness comes to see the difference between its own openness, its own Presence, which welcomes all things into itself with benevolent indifference, and a mind which, by definition, sees differences and yet has imposed on itself a straitjacket of ‘nonjudging.’ Such ‘non-judging’ comes from fear and confusion. It is not the true, benevolent indifference of Presence.[@spira-2008-transparency]
+
+
 
 "We hence see that it is not the presence of explicit thought that distinguishes ego-involved experience from ego-less experience. Instead, this distinction reflects the degree of immersion in activity and so the degree to which explicit awareness of oneself as standing outside that activity is diminished. It is a distinction that is more phenomenological than psychological, having to do with how we experience our own engagement with the world. When we are completely immersed in activity—whether the physical activity of carving an ox or the cognitive activity of thinking about how best to carve that ox—our sense of self, and with it, the experience of the duality of subject and object in experience, vanish. There is only the experience of a flow of activity." (Jay L. Garfield, Losing Ourselves)
 
 "Consciousness is in the looking, not in the looked for" [@spira-2008-transparency n.pag.]. In the dancing, when I become a passenger, the _I_ dissolves into the looking and there is no looked for. 
+
+++++++++++
+In the guided meditation on Tuesday 13 February 2024  ([that I shared with KC](https://dynamic.wakingup.com/daily/DA2963B?source=content%20share&share_id=083C72ED&code=SC73A05B4)), Sam Harris touches on the sense that the 'position' of the thinker/meditator as possibly feeling 'above' the feeling of movement in the hands. He, of course, challenges this idea or sensation. 
+
+It occurred to me that one of the differences between a sitting meditation and a dancing meditation (like the one KC and I are practicing) is that the presence and persistence of bodily movement constantly undermines or quietens the headiness of being lost in thought. That it is more difficult to imagine the head as a centre or location of thinking and consciousness when sensation and awareness is contagiously dispersed throughout the body in motion. 
+
+ties in with those papers re DMN (recently downloaded) and self-processing etc.
+
+also ties in with below:
+
+Sam Harris Waking Up guided meditation:
+
+https://dynamic.wakingup.com/daily/DA76E90?source=content%20share&share_id=5B68379A&code=SC73A05B4
+
+> We all spend a lot of time thinking about ourselves but how we appear to others about who we are in our lives and in the world about whether we are the person we want to be or expected to be but notice that this is who you are in this moment. You are precisely this experience. This moment of hearing, this moment of seeing. See if you can drop all of your ideas about yourself and sink into this moment of practice. There is always just this whatever else seems to be happening. (5:21min)
+
+> This practice is simply about being non distracted by the automaticity of thought. What's left when you're not distracted, is nothing but the vividness of conscious experience. Seeing, hearing, smelling, tasting, touching ... the arising of an emotion. (8:55min)
+++++++++++++
 
 
 ## conclusion - why this matters
@@ -240,6 +274,8 @@ Is the following useful (both re above) and also [[sati, mindfulness and remembe
 
 "This clear seeing is not an intellectual understanding, although it may be formulated provisionally in intellectual terms when required by the current situation. Rather, it is the direct, intimate and immediate knowing of ourselves resting in and as the formless expanse of Presence, and simultaneously dancing in the vibrancy and aliveness of every gesture and nuance of the body, mind and world." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
+"So objects – that is, thoughts, sensations and perceptions – are not the content of Consciousness. Consciousness alone is the content of Consciousness. Thoughts, sensations and perceptions are the names and forms that Consciousness takes in the process of manifestation." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
+
 
 "Likewise we do not experience the body in the way we normally conceive it. In fact there is no body as such. There is a series of sensations and perceptions appearing in Consciousness. And from time to time there is a thought or an image of a ‘body, ’ which is considered to be the sum total of all these sensations and perceptions." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
@@ -251,7 +287,8 @@ Is the following useful (both re above) and also [[sati, mindfulness and remembe
 
 - The above is just beautiful -- and head spinning. There are only perceptions appearing in consciousness. That is all. Have as a separate note called [[all perceptions appear within consciousness]]
 
-
+- the nature of activities not design to do anything? process-oriented? (that is, it’s not goal directed)
+- or perhaps make this about all of the key attributes — the scaffolding in the practice (non-judgement, process oriented, body in motion …??) -- should I include this kind of overview/summary?
 
 
 
