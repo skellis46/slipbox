@@ -7,7 +7,6 @@
 
 _previous note:_ [[Schmalzl - Movement-based embodied contemplative practices]]
 
-## Highlights
 
 > The cerebral cortex appears to be divided into two corresponding systems: an “extrinsic” system composed of brain areas that respond more to external stimuli and tasks and an “intrinsic” system composed of brain areas that respond less to external stimuli and tasks. These two broad brain systems seem to compete with each other, such that their activity levels over time is usually anti-correlated, even when subjects are “at rest” and not performing any task. ([View Highlight](https://read.readwise.io/read/01gv2x09j9g8m5dvb94ff65v7t)) [@josipovic-2012-influence p.1]
 
