@@ -14,6 +14,7 @@ kinship -- sensuous ethnography/anthropology.
 
 https://profiles.sussex.ac.uk/p202499-karis-jade-petty
 
+
 the illusion of separateness -- non duality 
 
 - am I the right person to lead this? Might it be let down by my involvement -- how to make a case for that? 
@@ -24,6 +25,8 @@ the illusion of separateness -- non duality
 - UN sustainable development goals 
 - global north / global south ... balance. 
 - myth / celtic indigineity 
+
+"Today I would say we’re individuals *because* we’re colonies. My teacher, Francisco Varela, coined this beautiful phrase. He said, ‘as organisms, we are a meshwork of selfless selves’. We’re ecosystems. This microbial ecosystem inside of you is in constant dialogue with the ecosystem(s) outside of you. Your gut biota are continuously replenished by the stuff you eat because it’s full of bacteria. Your skin microbiome deposits itself on everything you touch. If you touch somebody, you exchange microbiomes. You don’t have a border. To think so is another bourgeois Western illusion. In actuality, you’re constantly blurring with the animate world around you. This is the ‘conversational nature of reality’ the poet David Whyte talks about." (Hannah Close, The Poetics of Ecology)
 
 My experience and work: embodied practices in nature (with focus on felt sense, somatic sensitivity and non-dual awareness)
 
