@@ -10,6 +10,8 @@ type: evergreen
 _previous note:_ [[kinship bid initial summary]]
 
 
+"Both tasks reduce symptoms in individuals with DDD yet impacted mindfulness differently in both participant groups. In those with DDD, the DE task appears to enhance mindfulness and awareness of bodily sensations without explicitly asking participants to do so. Performing a simple sequence of movements does not require participants to explicitly focus on their inner bodily sensations but instead requires participants to shift attention away from these sensations in order to accurately reproduce and remember the sequence of instructed dance movements. Our study is not the first to report that shifting attention in this way can support wellbeing. A similar effect was found in a study on the benefits of drawing for emotional regulation [65], where drawing-to-distract (drawing something unrelated to one’s feelings after watching a sad movie) proved to be the more effective intervention to counter the negative emotions elicited by the movie. In our study, dance exercise may fulfil a similar function, where people with DDD shift their attention away from the experience of DDD whilst at the same time increasing bodily sensations. In contrast, body awareness may be more challenging for those with DDD as it instructs participants to explicitly focus on their bodily experiences, but may also promote an individual’s ability to verbalize and articulate bodily experiences/sensations. In other words, both tasks appear to address specific cognitive components of mindful­ness in DDD. These results align with current theory on the causes of dissociative experiences [16] which proposes that atypical somatosen­sory attenuation may play a role in dissociation. On this view, explicit instructions to focus on the body (as seen with the BA task) may be less effective and/or more difficult for those experiencing dissociation because they are already hyper-focused on, or “overthinking,” these bodily sensations [61]. In contrast, a more implicit task (DE) may be easier to complete and potentially more beneficial as it encourages movement and exertion without an explicit instruction to focus on the body." (L.S. Merritt Millman, Online Structured Dance/Movement Therapy Reduces Bodily Detachment in Depersonalization-Derealization Disorder)
+
 kinship -- sensuous ethnography/anthropology.
 
 https://profiles.sussex.ac.uk/p202499-karis-jade-petty
@@ -21,7 +23,7 @@ the illusion of separateness -- non duality
 - conversation with Derby -- how open are they? or test ideas on colleagues at CAWR (Francis & Judith) -- Amy Beaumont (is KK's counterpart)
 - https://www.derby.ac.uk/staff/gemma-collard-stokes/
 - natural environment research council ([NERC](https://www.ukri.org/councils/nerc/))
-- cross-council call? 
+
 - UN sustainable development goals 
 - global north / global south ... balance. 
 - myth / celtic indigineity 
