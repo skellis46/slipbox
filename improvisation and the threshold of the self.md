@@ -115,6 +115,16 @@ The self is also 'is also one of the contents of consciousness' [@csikszentmihal
 - [[Lynch & Troy - The Role of Nonduality in the Relationship Between Flow States and Well-Being]] - finish this sub-section with this (to shift in non-dual awareness)
 
 - I think mention Montero's work here -- and get into the weeds. that are her claims re pre-reflective different from nda? 
+- Montero [@montero-2018-thought p.182] -- talking about proprioception, makes clear different conditions (music, with others): be clear that there is something simplified in this practice: no sight, no music, no goal (including 'good performance') ... it is pared back a long way (even to the point of not even making shapes or forms with the body). She writes of "immersed in this experience of movement" (p.182) -- it's a pretty good description.
+
+> When the pleasure of expert skill does outweigh the pain, one way that dancers (and likely others) experience this pleasure is in “bodily immersion,” that is, in the feeling of being in contact with every point of one’s body.4When the pleasure of expert skill does outweigh the pain, one way that dancers (and likely others) experience this pleasure is in “bodily immersion,” that is, in the feeling of being in contact with every point of one’s body. [@montero-2018-thought p.182]
+- this 'being in contact' is very curious. 
+
+> And even in cases where the only thing on one’s mind is the feeling of movement, it seems that this feeling can in part comprise a sense of the self. In other words, there seems to at least be no direct path from bodily immersion to the loss of self. [@montero-2018-thought p.183]
+- first I need to be clear what bodily immersion is -- how clear is she. See [[Montero - Thought in Action#^5cef29]]
+
+- Csikszentmihalyi's work is in peak experience not peak performance [@montero-2018-thought p.184] and also see p.185 in the quote about Yeat's Among School Children. 
+- Montero definitely conflates mind with self (end of p.185). So important that I am rudely clear about mind, awareness, consciousness and self. 
 
 > We hence see that it is not the presence of explicit thought that distinguishes ego-involved experience from ego-less experience. Instead, this distinction reflects the degree of immersion in activity and so the degree to which explicit awareness of oneself as standing outside that activity is diminished. It is a distinction that is more phenomenological than psychological, having to do with how we experience our own engagement with the world. When we are completely immersed in activity—whether the physical activity of carving an ox or the cognitive activity of thinking about how best to carve that ox—our sense of self, and with it, the experience of the duality of subject and object in experience, vanish. There is only the experience of a flow of activity. [@garfield-2022-losing Chapter 6, n.pag.]
 
@@ -200,6 +210,8 @@ Phenomenology's "mission is to find the irreducibles of subjectivity" [@fraleigh
 On this point re Krägeloh and the limits of phenomenology:
 
 > However, the thought about Consciousness or Reality is unique amongst all thoughts. When we try to think of Consciousness, it is like looking into a black hole. It is not even black. The mind simply cannot go there. It cannot go to that objectless place because the mind is itself an object. How could an object fit into a space that has no dimensions? [@spira-2008-transparency] - this is a huge limit
+
+"However, at times Consciousness divides the totality of experience into two camps. Everything that is part of the ‘not me’ camp is called ‘the world.’ Everything that is part of the ‘me’ camp is called ‘the body/mind.’" (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
 Is the following useful (both re above) and also [[sati, mindfulness and remembering]]:
 > However, the essence of the experience, a moment of Consciousness knowing itself knowingly, is colourless and transparent, and therefore cannot be remembered. [@spira-2008-transparency] 
