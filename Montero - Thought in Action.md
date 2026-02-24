@@ -37,7 +37,7 @@ _previous note:_ [[improvisation and the threshold of the self]]
 
 - it's so much more complex than this -- temperature, tingling. There's direct experience here (without naming)
 
-> But in this instance and in Juleen’s experience of bodily immersion, we need not be led to the view that the pianist’s or dancer’s mind or self is not there. Rather, the mind, it would seem, is on the feeling of movement, and this experience of movement is at least compatible with a sense of self. [@montero-2018-thought p.183df]
+> But in this instance and in Juleen’s experience of bodily immersion, we need not be led to the view that the pianist’s or dancer’s mind or self is not there. Rather, the mind, it would seem, is on the feeling of movement, and this experience of movement is at least compatible with a sense of self. [@montero-2018-thought p.183]
 
 - I don't really understand the conflation of mind with self (even if only implied)
 
