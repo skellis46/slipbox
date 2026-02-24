@@ -56,6 +56,11 @@ I also use the word _dancing_ rather than improvising to describe the activity o
 
 – Lisa Nelson [in @despain-2014-landscape p.39]
 
+- Gallagher, S., & Varga, S. (2020). Meshed Architecture of Performance as a Model of Situated Cognition. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.02140 -- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'? -- so much of this research is on skilled performance -- goal oriented vs autotelic are different distinctions. And this sends the research into quite distinct fields or trajectories. 
+"Just because skillful action is usually pre-reflective, it does not have to be mindless” (Sutton et al., 2011, p. 95). -- in Gallagher and Varga above (p.)
+
+for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance? 
+
 In this work with Katye, as each of us was dancing, we were not making something; we were dancing and being danced, and as we did this we passed backwards and forwards across the threshold of the self.  
 
 ## The threshold and its conceptual neighbours
@@ -612,7 +617,7 @@ From Kronsted email:
 
 - Christensen, W., Sutton, J., & McIlwain, D. J. F. (2016). Cognition in Skilled Action: Meshed Control and the Varieties of Skill Experience. Mind & Language, 31(1), 37–66.
 - Gallagher, S. (2021). Performance/Art: The Venetian Lectures. Mimesis.
-- Gallagher, S., & Varga, S. (2020). Meshed Architecture of Performance as a Model of Situated Cognition. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.02140
+- Gallagher, S., & Varga, S. (2020). Meshed Architecture of Performance as a Model of Situated Cognition. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.02140 -- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'?
 - Katen, J. (2021). Competition and Cognition: Theorizing an Autopoietic Pedagogy of Performance within Competitive Dance. Journal of Dance Education, 21(3), 140–148.
 
 Levels of embodiment: [[Lux - A Developmental Framework for Embodiment Research#^440e35]]
