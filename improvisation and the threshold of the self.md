@@ -69,6 +69,7 @@ In this work with Katye, as each of us was dancing, we were not making something
 
 _on the table:_
 - what kind of activity is it? skill, practice ... 
+- summary of skilled practice and mindedness. e.g. [[Foultier - Letting the body find its way]]
 - characteristics of flow -- and skill dimension
 - relationship of AM to meditation (etc) vs other dance practices 
 - this is a case study 
@@ -81,6 +82,8 @@ _on the table:_
 	+ non goal directed -- how one does it (how the activity is 'organised')
 	+ non judgemental 
 	+ important distinction between authentic movement as form of therapy and what we were doing in the studio
+- benevolent indifference vs non-judgement: 
+> Sooner or later Consciousness comes to see the difference between its own openness, its own Presence, which welcomes all things into itself with benevolent indifference, and a mind which, by definition, sees differences and yet has imposed on itself a straitjacket of ‘nonjudging.’ Such ‘non-judging’ comes from fear and confusion. It is not the true, benevolent indifference of Presence.[@spira-2008-transparency]
 - assumption that closest link between the our version of AM and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011
 - there is Lutz's work on meditation as attentional expertise
 - this means that the work with KC becomes a kind of case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow (e.g. Montero) but that overlaps with a form of attentional expertise
@@ -285,7 +288,7 @@ Not crossing into something but rather leaving something make believe or usefull
 
 > One perception cannot appear within another. All perceptions appear within Consciousness. We do not experience a sensation inside the body. What we call the body is in fact the experience of a sensation. [@spira-2008-transparency]
 
-- The above is just beautiful -- and head spinning. There are only perceptions appearing in consciousness. That is all. Have as a separate note called [[all perceptions appear within consciousness]]
+- The above is just beautiful -- and head spinning. There are only perceptions appearing in consciousness. That is all. Have as a separate note called [[all perceptions appear within consciousness]]. It's also VERY useful in re-thinking or decentralising the importance of the body in somatics work? 
 
 ### 3.4 Position practice research:
 
@@ -410,7 +413,7 @@ They are epistemic because it examines how knowledge is produced when the knowin
 
 
 - future work in microphenomenology and/or [[neurophenomenology]]; see for instance [[Petitmengin - Studying the experience of meditation through Micro-phenomenology]] and anything by [[Dunne - Mindful meta-awareness]] 
-- perhaps [[gibson and roche - and then again I draw myself to the detail]] work might be useful
+- perhaps [[gibson and roche - and then again I draw myself to the detail]] work might be useful -- but also there about to be published book chapter: Landing and Dispersing at the Same Time (I have a pre-published version).
 
 "People instinctively regard themselves as selves in a very specific sense: they take themselves to persist through time as numerically identical subjects and agents, distinct from their minds, bodies, experiences, and traits. They do so even though they acknowledge that these minds, bodies, experiences, and traits are constantly changing and that they are only contingently connected to their selves." (Jay L. Garfield, Losing Ourselves)
 
@@ -424,8 +427,7 @@ On the matter of direct experience:
 
 This is a description of being on the other side of the threshold. But the paradox is that it precedes the separation of subject and object. It is not a state. Duality is the state. 
 
-- benevolent indifference vs non-judgement: 
-> Sooner or later Consciousness comes to see the difference between its own openness, its own Presence, which welcomes all things into itself with benevolent indifference, and a mind which, by definition, sees differences and yet has imposed on itself a straitjacket of ‘nonjudging.’ Such ‘non-judging’ comes from fear and confusion. It is not the true, benevolent indifference of Presence.[@spira-2008-transparency]
+
 
 ## References
 
