@@ -3,7 +3,7 @@ aliases:
 tags: 
 type: newsletter
 platform: skellis mailing list
-status: publishes
+status: published
 status-updated: "20251113"
 
 ---
