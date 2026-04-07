@@ -2,11 +2,7 @@
 
 ## Highlights
 
-> We have previously proposed that the impasse in today’s scientific understanding of consciousness
->  would be helped by understanding consciousness itself or nondual awareness (NDA), a basic
->  aspect of consciousness that is different from all other phenomenal contents and functions of
->  consciousness and from global states of arousal (Josipovic, 2014, 2019; Josipovic and Baars,
->  2015). ([View Highlight](https://read.readwise.io/read/01gv36nk5z13cwnf4p13y2vgsq))
+> We have previously proposed that the impasse in today’s scientific understanding of consciousness would be helped by understanding consciousness itself or nondual awareness (NDA), a basic aspect of consciousness that is different from all other phenomenal contents and functions of consciousness and from global states of arousal (Josipovic, 2014, 2019; Josipovic and Baars, 2015). ([View Highlight](https://read.readwise.io/read/01gv36nk5z13cwnf4p13y2vgsq))
 
 
 > In particular, it has
@@ -24,30 +20,12 @@
 > soteriological concerns ([View Highlight](https://read.readwise.io/read/01gv36wprhpbxstfx82g0je1p9))
 
 
-> Two main ways of seeing consciousness-as-such have emerged
->  in these traditions. According to one, it is a state of full
->  absorption with maximally reduced phenomenal content (Sansk.
->  Samadhi), akin to a deep dreamless sleep, but not entirely
->  unconscious, and without any knowable properties (Nikhilananda,
->  1990). According to the other, it is an awareness which is in
->  itself empty of other phenomenal content and conceptual
->  processes including those that reify it, yet it inherently knows
->  itself to be aware (Rabjam, 2001). In the contemporary scientific
->  and philosophical discourse, these two views are often conflated,
->  sometimes under one term of MPE (Metzinger, 2019). ([View Highlight](https://read.readwise.io/read/01gv370pxq515gggc9sk5btvn2))
+> Two main ways of seeing consciousness-as-such have emerged in these traditions. According to one, it is a state of full absorption with maximally reduced phenomenal content (Sansk Samadhi), akin to a deep dreamless sleep, but not entirely unconscious, and without any knowable properties (Nikhilananda, 1990). According to the other, it is an awareness which is in itself empty of other phenomenal content and conceptual processes including those that reify it, yet it inherently knows itself to be aware (Rabjam, 2001). In the contemporary scientific and philosophical discourse, these two views are often conflated, sometimes under one term of MPE (Metzinger, 2019). ([View Highlight](https://read.readwise.io/read/01gv370pxq515gggc9sk5btvn2))
 
 
-> In line with
->  our previous work (Josipovic, 2014, 2019), we advance the
->  perspective that consciousness-as-such is first and foremost a
->  type of awareness, that is non-conceptual, non-propositional,
->  and nondual, in other words, non-representational. This
->  awareness is a unique kind, and cannot be reduced to a level
->  of arousal
->  and phenomenal
->  content, or
->  to their mental
->  representations and representational models. ([View Highlight](https://read.readwise.io/read/01gv3734c96xx778rk8br7wmte))
+> In line with our previous work (Josipovic, 2014, 2019), we advance the perspective that consciousness-as-such is first and foremost a type of awareness, that is non-conceptual, non-propositional, and nondual, in other words, non-representational. This awareness is a unique kind, and cannot be reduced to a level of arousal and phenomenal content, or to their mental representations and representational models. ([View Highlight](https://read.readwise.io/read/01gv3734c96xx778rk8br7wmte))
+
+^de97ee
 
 
 > What makes consciousness-as-such or NDA a unique kind
