@@ -48,9 +48,20 @@ This writing stems from experiences during a two-month long research project cal
 
 [^losing:][losingoneself.coventry.ac.uk/](https://losingoneself.coventry.ac.uk/)
 
-The dancing underpinning these ideas is known as [[authentic movement]] and in _Losing Oneself_ it was practiced intensively by experienced dance professionals Katye Coe and me. The authentic movement practice involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on what happens. 
+The dancing underpinning these ideas is known as [[authentic movement]]. Authentic movement involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. 
 
 In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. Like other somatic practices developed through internal bodily attunement, an important aspect of authentic movement is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of both the dancer and the watcher [@ellis-2020-corporeal]. The unimportance of how the dancing appears separates this practice from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
+
+In _Losing Oneself_ authentic movement was practiced by expert dance professionals Katye Coe and me. I say expert because it connects the work to research by philosopher (and former ballet dancer) Barbara Montero that examines the role of thinking in expert performance. For Montero an expert is a professional-level practitioner developed through long deliberate practice who is actively trying to improve:
+
+> those that are generally recognized as experts in their fields and whose skills are usually thought to conform to the ten-year rule, which states that the journey from novice to professional typically takes ten years of intensive practice. [@montero-2013-dancer p.305]
+
+
+
+> If so, being in the zone, where the zone is defined as a time of optimal performance, is perfectly compatible with thinking. Alternatively, if the zone is defined as a time when optimal performance
+occurs entirely effortlessly and without thought, then being in the zone may simply not exist.[@montero-2015-thinking p.138]
+
+
 
 I also use the word _dancing_ rather than improvising to describe the activity of the mover, noting the distinction made by the American dancer and improviser Lisa Nelson:
 
@@ -58,12 +69,14 @@ I also use the word _dancing_ rather than improvising to describe the activity o
 
 – Lisa Nelson [in @despain-2014-landscape p.39]
 
+In this work with Katye, as each of us was dancing, we were not making something; we were dancing and being danced, and as we did this we passed backwards and forwards across what I am calling the threshold of the self.  
+
 - Gallagher, S., & Varga, S. (2020). Meshed Architecture of Performance as a Model of Situated Cognition. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.02140 -- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'? -- so much of this research is on skilled performance -- goal oriented vs autotelic are different distinctions. And this sends the research into quite distinct fields or trajectories. 
 "Just because skillful action is usually pre-reflective, it does not have to be mindless” (Sutton et al., 2011, p. 95). -- in Gallagher and Varga above (p.)
 
 for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance? 
 
-In this work with Katye, as each of us was dancing, we were not making something; we were dancing and being danced, and as we did this we passed backwards and forwards across what I am calling the threshold of the self.  
+
 
 ---
 
@@ -87,15 +100,16 @@ The person who has written extensively about the sense of self changing when dan
 
 > _The principle of automaticity_. When all is going well, expert performance significantly involves neither self-reflective thinking, nor planning, nor predicting, nor deliberation, nor mental effort.[@montero-2013-dancer p.304]
 
-What does she mean by "expert"? 
-
-> those that are generally recognized as experts in their fields and whose skills are usually thought to conform to the ten-year rule, which states that the journey from novice to professional typically takes ten years of intensive practice. [@montero-2013-dancer p.305]
 
 > my concern is not with the evolutionary explanation of why certain movements are pleasurable, but rather with the reciprocal pleasure principle: what is it about such movements that makes them pleasurable – in particular, does it involve a loss of the self? And does the pleasure of being fully engaged or immersed in the movement lead to a loss of the self? [@montero-2016-thought p.181]
 
 > But, as I shall argue, this glory, this pleasure, does not invariably dissolve the self. Furthermore, positing a partial loss of the self explains the relevant pleasure of movement just as well as positing total annihilation. [@montero-2016-thought p.182]
 
 Context for Montero's work is on skilled performance and the range of research -- including the work of Csíkszentmihályi -- that suggests that thinking inhibits skilled performance. 
+
+Montero makes it clear that she doesn't discuss flow so as not to add more grist to that particular mill. Csik's work was about optimal experience, not optimal performance (which is her concern). But surely I still need to look at her work re losing the self (or not). 
+
+I need to find a way to distinguish Montero's thinking re optimal performance and partially losing the self from flow and optimal experience.
 
 > But in this instance and in Juleen’s experience of bodily immersion, we need not be led to the view that the pianist’s or dancer’s mind or self is not there. Rather, the mind, it would seem, is on the feeling of movement, and this experience of movement is at least compatible with a sense of self. [@montero-2016-thought p.183]
 
