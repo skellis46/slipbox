@@ -42,13 +42,13 @@ Where was I before the alarm sounded? Who was I before the alarm sounded? Was _I
 
 The threshold I am writing of is, I propose, a rupture or a portal. It can only be recognised retrospectively, when the dancer returns to _dancing_ after having _been danced_. On the _dancing_ side of the threshold are the familiar subject–object configurations through which human experience is ordinarily organised: I have a body, I am dancing in space, I am doing these actions. On the _being danced_ side I suggest there is nonduality, where those same dancing/being danced configurations make no sense and where phenomenological description reaches its limit, not because nothing is happening but because the structures that make experience intelligible as subject and object have fallen away.
 
-While the practice of dancing is phenomenologically complex, in this chapter I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and selfhood. When the research extend beyond dance its stakes become how epistemology, methods, ethics and disciplinary boundaries are configured and reconfigured in phenomenological practice research. 
+While the practice of dancing is phenomenologically complex, in this chapter I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and selfhood. When the research extends beyond dance its stakes become how epistemology, methods, ethics and disciplinary boundaries are configured and reconfigured in phenomenological practice research. 
 
-This writing stems from experiences during a two-month long research project called _Losing Oneself_ supported by Coventry University's Centre for Dance Research, and held in the early months of 2024.[^losing] The research team was Katye Coe (dancer), L. S. Merritt Millman (neuroscientist), Michael Gerussi (dancer-researcher) and Simon Ellis (dance researcher). 
+This writing stems from experiences during a two-month long research project called _Losing Oneself_ supported by Coventry University's Centre for Dance Research, and held in the early months of 2024.[^losing] The research team was Katye Coe (dancer-researcher), L. S. Merritt Millman (neuroscientist), Michael Gerussi (dancer-researcher) and Simon Ellis (dancer-researcher). 
 
 [^losing:][losingoneself.coventry.ac.uk/](https://losingoneself.coventry.ac.uk/)
 
-The dancing underpinning these ideas is known as [[authentic movement]] and in _Losing Oneself_ it was practiced intensively by experienced dance professionals Katye Coe and me. The authentic movement practice involves two people: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on what happens. 
+The dancing underpinning these ideas is known as [[authentic movement]] and in _Losing Oneself_ it was practiced intensively by experienced dance professionals Katye Coe and me. The authentic movement practice involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on what happens. 
 
 In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. Like other somatic practices developed through internal bodily attunement, an important aspect of authentic movement is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of both the dancer and the watcher [@ellis-2020-corporeal]. The unimportance of how the dancing appears separates this practice from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
@@ -75,7 +75,7 @@ I am therefore going to try and convince you the reader of two things: threshold
 
 But if I can convince you that a) there is a threshold, and b) on the far _being danced_ side of it the subject-object orientation collapses then it follows that the being danced side means that one's sense of self dissolves. This is because in order to recognise a self in consciousness there must be an I (as subject) being aware of a self (as object). Without the subject-object divide with which we seem to know the world, there is no self quite simply because the self is yet another thing in the world that we seem to know. The self is another appearance in consciousness. 
 
-To do the first thing I must describe experiences that are different enough in kind such that there lies some experiential path between them (even if that pathway if very short).
+To do the first thing I must describe experiences that are different enough in kind such that there lies some experiential path between them (even if that pathway is very short).
 
 To do the second thing is much more difficult because there are no tools available to me to describe that experience directly. Phenomenology doesn't work. 
 
@@ -98,7 +98,7 @@ Illuminating argument -- skilled, pleasure, diminished self. What kinds of activ
 - have to mention flow here
 - lot of work looking at skill, flow, cognition, automaticity (e.g. meshed architecture by Christensen et al 2016)
 
-But what kind of activity or skill is AM? a skill? a practice? Are some people _better_ at it? How might it be a different kind of skills activity than those studied by Montero (including dancing)? What kinds of activities does AM most have in common? 
+But what kind of activity is AM? a skill? a practice? Are some people _better_ or more skilled at it? How might it be a different kind of skilled activity than those studied by Montero (including dancing)? What kinds of activities does AM most have in common? 
 
 The point here is about extending our understanding of ...
 
@@ -125,10 +125,7 @@ AM:
 
 "So objects – that is, thoughts, sensations and perceptions – are not the content of Consciousness. Consciousness alone is the content of Consciousness. Thoughts, sensations and perceptions are the names and forms that Consciousness takes in the process of manifestation." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
-_on the table:_
 
-- relationship of AM to meditation (etc) vs other dance practices 
-- this is a case study 
 - the threshold itself -- this is the analysis?? 
 - 
 
@@ -141,14 +138,16 @@ _on the table:_
 
 - focus on expertise is common
 
-"NDA can co-occur with any content, whether perceptual, affective, or cognitive, which appears in it, so to speak, like an image in a mirror." (Zoran﻿ ﻿Josipovic﻿, Nondual Awareness and Minimal Phenomenal Experience)
+"NDA can co-occur with any content, whether perceptual, affective, or cognitive, which appears in it, so to speak, like an image in a mirror." (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
 
-"During both unreflective everyday experience (walking the dog, watching the rain fall, daydreaming, etc.) and more constrained mental activity (self-conscious reflection, attentive concentration, etc.), the dynamical aspect of our conscious experience is pervasive and unavoidable. Whether we are startled by a unique and surprising event, such as a thunder clap, or we are following the ongoing train of ideas during a lecture, our experience seems always to be on the move. Yet we can recognize not only an ongoing movement or flow, but also a certain standing now or present moment, which seems always there—or rather *here*—invariant throughout the flow. These two structural features of our experience—a standing now and an ongoing flow—are central to both James, 1981, Husserl, 1991 analyses of consciousness.[1] According to Husserl (1991), they form one unified phenomenal structure, which he calls the standing-streaming structure of time-consciousness (see Zahavi, 2003, Zahavi, 2005). To set forth a phenomenological framework for our treatment of binocular rivalry in this paper, let us highlight a few basic features of this phenomenal structure." (Cosmelli & Thompson, Mountains and Valleys: Binocular Rivalry and the Flow of Experience)
+"During both unreflective everyday experience (walking the dog, watching the rain fall, daydreaming, etc.) and more constrained mental activity (self-conscious reflection, attentive concentration, etc.), the dynamical aspect of our conscious experience is pervasive and unavoidable. Whether we are startled by a unique and surprising event, such as a thunder clap, or we are following the ongoing train of ideas during a lecture, our experience seems always to be on the move. Yet we can recognize not only an ongoing movement or flow, but also a certain standing now or present moment, which seems always there—or rather *here*—invariant throughout the flow. These two structural features of our experience—a standing now and an ongoing flow—are central to both James's (1981) and Husserl's (1991) analyses of consciousness.[1] According to Husserl (1991), they form one unified phenomenal structure, which he calls the standing-streaming structure of time-consciousness (see Zahavi, 2003, Zahavi, 2005). To set forth a phenomenological framework for our treatment of binocular rivalry in this paper, let us highlight a few basic features of this phenomenal structure." (Cosmelli & Thompson, Mountains and Valleys: Binocular Rivalry and the Flow of Experience)
 - how might a form of 'dreamless sleep' (see Josipovic) fit here? 
 
 "However, it is also in fact going too far to say that there is ‘one thing.’ As soon as we make an object of it, a subject is implied, and again we are in the realm of duality, of two things. So, ‘one thing’ implies ‘two things.’ As soon as we name it, however transparent the word we use, some degree of objectivity and, by implication therefore, subjectivity, is implied. At the same time we have to recognise that whatever it is that we are trying to speak about, is not ‘nothing.’ So let us refer to this as a ‘seamless totality’ or ‘Oneness,’ on the understanding that even these words confer a shadow of objectivity on that which cannot in any way be described by words or mind, and yet which itself illumines all words and minds." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
-"- a form of dreamless sleep that is characterized not by mental blankness and sluggishness, but a high degree of clarity, described as: “…there is no film and no projection. Sleep yoga is imageless. The practice is the direct recognition of awareness by awareness, light illuminating light itself. It is luminosity without images of any kind” (Wangyal, 1998, p.)." (Zoran﻿ ﻿Josipovic﻿, Nondual Awareness and Minimal Phenomenal Experience)
+"- a form of dreamless sleep that is characterized not by mental blankness and sluggishness, but a high degree of clarity, described as: “…there is no film and no projection. Sleep yoga is imageless. The practice is the direct recognition of awareness by awareness, light illuminating light itself. It is luminosity without images of any kind” (Wangyal, 1998, p.)." (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
+
+> from a complete absence in various types of blackouts on one end of the spectrum, which may preclude such events from being regarded as phenomenal experiences altogether, to a vivid presence of self-knowing luminous awareness, regarded in some cases as instances of consciousness directly encountering itself (Josipovic, 2019).[@josipovic-2020-nondual p.3]
 
 Consciousness is organisms attempt to reduce uncertainty. "felt uncertainty" -- Mark Solms (https://pmc.ncbi.nlm.nih.gov/articles/PMC6363942; https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/statistical-mechanics-of-felt-uncertainty-under-active-inference/7A5ED41FB11010803C42FDDD07762FC9) That's what is special about meditation -- and AM -- there is no attempting to do anything. — from Pollan book (and podcast with Ezra Klein)
 
@@ -157,6 +156,16 @@ Consciousness is organisms attempt to reduce uncertainty. "felt uncertainty" -- 
 [Situate the threshold without collapsing it into existing categories.]
 
 I start by tracing the conceptual neighbours of the threshold through three lenses: dance and somatic practices, flow and non-dual awareness.  
+> Two mistaken inferences are then commonly made: one that nondual awareness is a mere absence of phenomenal contents akin to deep sleep, the other that nondual awareness can only be known retroactively through a subsequent cognition that takes that unconscious state as its
+object.[@josipovic-2019-nondual p.278]
+
+- he mentions this specifically -- in relation to discussion of substrate. See also:
+> Episodes of explicitly present NDA that is isolated from
+other phenomenal content, such as those that can occur with
+contemplative practice or in lucidity during deep sleep, can
+be regarded as episodes of MPE since no phenomenal content
+is present other than awareness itself (Josipovic, 2019).[@josipovic-2020-nondual p.2]
+- mentioned elsewhere in this document re yoga sleep
 
 ### Dance and somatic practices: moving and being moved
 
