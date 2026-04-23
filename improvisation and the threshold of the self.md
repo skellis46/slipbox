@@ -38,28 +38,53 @@ Where was I before the alarm sounded? Who was I before the alarm sounded? Was _I
 
 ---
 
+
+- introducing the paper
+- the specific kind of dancing (AM and its specific properties)	
+	+ recognise but distinguish from work in expert performance and flow -- or cover that later on? 
+- limits of phenomenology? 
+- methods
+- agency / self / knowing
+- movement bias / precision weighting -- getting into Gallagher here? 
+- implications
+
 - it's a trope of dancing (and other areas) -- being one, immersion, etc. when the dancer becomes the dance. But tropes exist for a reason so this writing is an attempt to understand a very particular moment in the experience of dancing through improvisation. This moment  
 - the focus of this writing is intentionally narrow -- want to get into the weeds.
-- rare to have this kind of focus in dance research -- we tend to talk about feelings and tendencies. isolated 'bubble' instances of practices [@ellis-2023-ecosystemic]. But here I try to be specific (very close analysis of very small time frame) while also recognising the limits of this work (particular kind of practice) -- but reaching out to other fields.
+- rare to have this kind of very narrow phenomenological focus in dance research -- we tend to talk about feelings and tendencies about the act of dancing as a whole [citation]. isolated 'bubble' instances of practices [@ellis-2023-ecosystemic]. But here I try to be specific (very close analysis of very small time frame) while also recognising the limits of this work (particular kind of practice) -- but reaching out to other fields.
 
 > How can we know the dancer from the dance? [@yeats-1951-collected p.212]
 
-While the practice of dancing is phenomenologically complex, in this chapter I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology. 
+While practices of dancing are phenomenologically complex, in this chapter I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology. 
 
 This chapter is a description and an analysis of what I understand to be a vital and tangible yet delicate part of dancing: the threshold between knowing _one_ is dancing and ceasing to be aware that there is a _one_. In dance the experience of the two sides of that threshold is described as the difference between 'moving and being moved' [@adler-2002-offeringa p.30] or dancing and being danced. 
 
+## don't yet know
+
+But I am jumping the gun and already have made difficult-to-forgive assumptions. Even if such a threshold exists experientially (because experience is all we have to experience such a thing??), how might we come to agree on what is happening on either side of it? It's a big assumption to say that the other side of the threshold is nondual and therefore there is no self. 
+
+I am therefore going to try and convince you the reader of two things: threshold, dissolution of subject object.
+
+But if I can convince you that a) there is a threshold, and b) on the far _being danced_ side of it the subject-object orientation collapses then it follows that the being danced side means that one's sense of self dissolves. This is because in order to recognise a self in consciousness there must be an I (as subject) being aware of a self (as object). Without the subject-object divide with which we seem to know the world, there is no self quite simply because the self is yet another thing in the world that we seem to know. The self is another appearance in consciousness. 
+
+Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovic-2021-implicit] or this: <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1450553/full>
+
+> Performers are able to shift across a full register, from explicit conscious control to implicit pre-reflective consciousness and to spontaneous body-schematic processes, adjusting their attunement to changing conditions through improvisation.[@gallagher-2020-meshed p.5]
+- note that he is talking about skilled performance based on Christensen et al's work (re meshed architecture)
+
+
+To do the first thing I must describe experiences that are different enough in kind such that there lies some experiential path between them (even if that pathway is very short).
+
+To do the second thing is much more difficult because there are no tools available to me to describe that experience directly. Phenomenology doesn't work. 
 
 Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and selfhood. When the research extends beyond dance its stakes become how epistemology, methods, ethics and disciplinary boundaries are configured and reconfigured in phenomenological practice research. 
 
-But what kind of dancing? 
+In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
 
-But before I do this I introduce the kind of dancing that this is. In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
-
-## Authentic movement
+## the specific kind of dancing: authentic movement
 
 The dancing underpinning these ideas is known as [[authentic movement]]. Authentic movement involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants. For a more detailed overview of authentic movement, including ongoing questions about the name of the form itself, see Amy Voris's excellent _Forming and Returning: Dance-Making with Authentic Movement_ [-@voris-2010-forming]. 
 
-In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. Like other somatic practices developed through internal bodily attunement, an important aspect of authentic movement is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of both the dancer and the watcher [@ellis-2020-corporeal]. The unimportance of how the dancing appears separates this practice from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
+Like other somatic practices developed through internal bodily attunement, an important aspect of authentic movement is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of both the dancer and the watcher [@ellis-2020-corporeal]. The unimportance of how the dancing appears separates this practice from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
 I also use the word _dancing_ rather than improvising to describe the activity of the mover, noting the distinction made by the American dancer and improviser Lisa Nelson:
 
@@ -69,7 +94,7 @@ I also use the word _dancing_ rather than improvising to describe the activity o
 
 In _Losing Oneself_ authentic movement was practiced by experienced dance professionals Katye Coe and me. As each of us was dancing, we were not making something; we were dancing and being danced, and as we did this we passed backwards and forwards across what I am calling the threshold of the self.  
 
-
+In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
 
 
 for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance? 
@@ -97,8 +122,8 @@ In this writing I seek to understand experiences in dancing in which a sense of 
 
 
 
-- Gallagher, S., & Varga, S. (2020). Meshed Architecture of Performance as a Model of Situated Cognition. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.02140 -- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'? -- so much of this research is on skilled performance -- goal oriented vs autotelic are different distinctions. And this sends the research into quite distinct fields or trajectories. 
-"Just because skillful action is usually pre-reflective, it does not have to be mindless” (Sutton et al., 2011, p. 95). -- in Gallagher and Varga above (p.)
+- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'? (thinking here of [@gallagher-2020-meshed])-- so much of this research (Montero, Christensen et al, Gallagher) is on skilled performance -- goal oriented vs autotelic are different distinctions. And this sends the research into quite distinct fields or trajectories. Gallagher does seem to make room for less goal-directed work "skill-informed selective uncertainty" [@gallagher-2023-surprise p.269]
+"Just because skillful action is usually pre-reflective, it does not have to be mindless” (Sutton et al., 2011, p. 95). -- in Gallagher and Varga above (p.4)
 
 The American philosopher Jay L. Garfield, who specialises in Tibetan Buddhism, writes of how the "expert is not conscious of his or her own subjectivity and its relation to the object with which he or she is engaged, or even of the tools the expert might be using, including his or her own body" [@garfield-2022-losing n.pag]. For Garfield this kind of experience 
 
@@ -149,19 +174,7 @@ This writing stems from experiences during a two-month long research project cal
 ---
 ---
 
-## don't yet know
 
-But I am jumping the gun and already have made difficult-to-forgive assumptions. Even if such a threshold exists experientially (because experience is all we have to experience such a thing??), how might we come to agree on what is happening on either side of it? It's a big assumption to say that the other side of the threshold is nondual and therefore there is no self. 
-
-I am therefore going to try and convince you the reader of two things: threshold, dissolution of subject object.
-
-But if I can convince you that a) there is a threshold, and b) on the far _being danced_ side of it the subject-object orientation collapses then it follows that the being danced side means that one's sense of self dissolves. This is because in order to recognise a self in consciousness there must be an I (as subject) being aware of a self (as object). Without the subject-object divide with which we seem to know the world, there is no self quite simply because the self is yet another thing in the world that we seem to know. The self is another appearance in consciousness. 
-
-Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovic-2021-implicit] or this: <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1450553/full>
-
-To do the first thing I must describe experiences that are different enough in kind such that there lies some experiential path between them (even if that pathway is very short).
-
-To do the second thing is much more difficult because there are no tools available to me to describe that experience directly. Phenomenology doesn't work. 
 
 The person who has written extensively about the sense of self changing when dancing (and doing other high level skills) is Barbara Montero. And Montero does not think or believe that the self is lost while doing complex skills. Her book _Thought in Action_ [-@montero-2016-thought] is a reaction to the appealing (and seemingly uncontested) idea that thinking interferes with high-level performance. Related is idea that because expert activity appears effortless then it must also be unreflective. She refers to her "theory of effortful expertise" [@montero-2016-thought p.6]. 
 
@@ -307,7 +320,7 @@ samadhi
 - Note: p.1649
   -- very very strong
 
-[[Zoran﻿ ﻿Josipovic﻿ - Nondual Awareness and Minimal Phenomenal Experience#^de97ee]] - this is very important for phenomenological description that approximates the experience (??)
+[[Zoran Josipovic - Nondual Awareness and Minimal Phenomenal Experience#^de97ee]] - this is very important for phenomenological description that approximates the experience (??)
 
 in Western mindfulness it is called open awareness [@taft-2022-meditation n.pag.]; and in the Dzogchen Tibetan Buddhist tradition it is _rigpa_ or pristine awareness -- where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan]. 
 
