@@ -23,6 +23,17 @@ The discussion situates these findings within wider discourse on flow, presence 
 
 > The urge to transcend self-conscious selfhood is, as I have said, a principal appetite of the soul. – Huxley [-@huxley-1954-doors p.67]
 
+## current index
+
+- introducing the chapter
+- the specific kind of dancing (AM and its specific properties)	
+	+ recognise but distinguish from work in expert performance and flow -- or cover that later on? 
+- limits of phenomenology? 
+- methods
+- nda and agency / self / knowing
+- movement bias / precision weighting -- getting into Gallagher here? 
+- implications
+
 
 ## Introduction: locating the threshold
 
@@ -38,27 +49,21 @@ Where was I before the alarm sounded? Who was I before the alarm sounded? Was _I
 
 ---
 
+This chapter details what I understand to be a tangible yet delicate part of dancing: the threshold between knowing _one_ is dancing and ceasing to be aware that there is a _one_. In dance, the two sides of that threshold are evoked by language like the difference between 'moving and being moved' [@adler-2002-offeringa p.30] or dancing and being danced. At its most clichéd we are aware of the concept when Yeats asks, "How can we know the dancer from the dance?" [-@yeats-1951-collected p.212]. Yet Yeats' question also endures as a trope because it reflects the complex phenomenology of agency one experiences when dancing. If it is not me choosing or doing this dancing then who or what is? 
 
-- introducing the paper
-- the specific kind of dancing (AM and its specific properties)	
-	+ recognise but distinguish from work in expert performance and flow -- or cover that later on? 
-- limits of phenomenology? 
-- methods
-- agency / self / knowing
-- movement bias / precision weighting -- getting into Gallagher here? 
-- implications
+Unlike scholarly contributions to understanding experiences of dancing as movement analysis [e.g. @koch-2011-movement], phenomenological research that isolates a particular quality or layer of dancing [e.g. @sheets-johnstone-2011-from; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetic], or even Godard's work on tonic function and _pre-movement_ here I focus on the transition between modes of agency while dancing. 
 
-- it's a trope of dancing (and other areas) -- being one, immersion, etc. when the dancer becomes the dance. But tropes exist for a reason so this writing is an attempt to understand a very particular moment in the experience of dancing through improvisation. This moment  
+
+I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
+
+While practices of dancing are phenomenologically complex, in this chapter 
+
+
 - the focus of this writing is intentionally narrow -- want to get into the weeds.
-- rare to have this kind of very narrow phenomenological focus in dance research -- we tend to talk about feelings and tendencies about the act of dancing as a whole [citation]. isolated 'bubble' instances of practices [@ellis-2023-ecosystemic]. But here I try to be specific (very close analysis of very small time frame) while also recognising the limits of this work (particular kind of practice) -- but reaching out to other fields.
+- rare to have this kind of very narrow phenomenological focus in dance research -- we tend to talk about feelings and tendencies about the act of dancing as a whole [citation]. isolated 'bubble' instances of practices [@ellis-2023-ecosystemic]. But here I try to be specific (very close analysis of very small time frame) while also recognising the limits of this work (particular kind of practice) -- but reaching out to other fields. name these fields.
 
-> How can we know the dancer from the dance? [@yeats-1951-collected p.212]
+ 
 
-While practices of dancing are phenomenologically complex, in this chapter I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology. 
-
-This chapter is a description and an analysis of what I understand to be a vital and tangible yet delicate part of dancing: the threshold between knowing _one_ is dancing and ceasing to be aware that there is a _one_. In dance the experience of the two sides of that threshold is described as the difference between 'moving and being moved' [@adler-2002-offeringa p.30] or dancing and being danced. 
-
-## don't yet know
 
 But I am jumping the gun and already have made difficult-to-forgive assumptions. Even if such a threshold exists experientially (because experience is all we have to experience such a thing??), how might we come to agree on what is happening on either side of it? It's a big assumption to say that the other side of the threshold is nondual and therefore there is no self. 
 
@@ -77,6 +82,8 @@ To do the first thing I must describe experiences that are different enough in k
 To do the second thing is much more difficult because there are no tools available to me to describe that experience directly. Phenomenology doesn't work. 
 
 Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and selfhood. When the research extends beyond dance its stakes become how epistemology, methods, ethics and disciplinary boundaries are configured and reconfigured in phenomenological practice research. 
+
+The threshold I am writing of is, I propose, a rupture or portal. It may only become identifiable as such retrospectively, when the dancer returns to _dancing_ after having _been danced_. This is not because nothing was known in the moment, but because what is known there is not yet organised as reflective cognition. On the _dancing_ side of the threshold are the familiar subject–object configurations through which experience is ordinarily organised: I have a body, I am dancing in space, I am doing these actions. On the _being danced_ side, I suggest, those configurations no longer hold. Phenomenological description reaches its limit not because nothing is happening, but because the structures that render experience intelligible as subject and object have fallen away.
 
 In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
 
@@ -151,7 +158,7 @@ For example, philosopher Barbara Montero questions how the self is washed away i
 - have to mention flow here
 - lot of work looking at skill, flow, cognition, automaticity (e.g. meshed architecture by Christensen et al 2016)
 
-The threshold I am writing of is, I propose, a rupture or portal. It may only become identifiable as such retrospectively, when the dancer returns to _dancing_ after having _been danced_. This is not because nothing was known in the moment, but because what is known there is not yet organised as reflective cognition. On the _dancing_ side of the threshold are the familiar subject–object configurations through which experience is ordinarily organised: I have a body, I am dancing in space, I am doing these actions. On the _being danced_ side, I suggest, those configurations no longer hold. Phenomenological description reaches its limit not because nothing is happening, but because the structures that render experience intelligible as subject and object have fallen away.
+
 
 
 ## methods
@@ -568,6 +575,10 @@ This is a description of being on the other side of the threshold. But the parad
 
 
 # sleeping kittens
+
+It is a cliché of dancing (and other human activities) that when we are fully immersed in the movement or practice that we no longer "know the dancer from the dance" [@yeats-1951-collected p.212].
+
+- But tropes exist for a reason so this writing is an attempt to understand a very particular moment in the experience of dancing through improvisation. This moment 
 
 > those that are generally recognized as experts in their fields and whose skills are usually thought to conform to the ten-year rule, which states that the journey from novice to professional typically takes ten years of intensive practice. [@montero-2013-dancer p.305]
 
