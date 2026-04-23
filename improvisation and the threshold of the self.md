@@ -21,6 +21,8 @@ At its centre is a phenomenological analysis of the threshold as being a moment 
 
 The discussion situates these findings within wider discourse on flow, presence and non-dual awareness, and considers how somatic training acts as an attentional bias, inclining dance and somatic practitioners to overemphasise the body's role in accessing such direct experience. While the research has implications for improvisation as performance, its primary contribution lies in resisting the lure of corporeal reductionism while articulating the possibilities of corporeality as a conduit for non-dual experience – how the body, through movement, reveals ways of being that momentarily dissolve the boundaries of selfhood. 
 
+> The urge to transcend self-conscious selfhood is, as I have said, a principal appetite of the soul. – Huxley [-@huxley-1954-doors p.67]
+
 
 ## Introduction: locating the threshold
 
@@ -30,72 +32,32 @@ I am brought back to the world. My eyes were closed but I was not asleep. The fe
 
 When we wake, we wake _from somewhere_. 
 
-This being brought back to the world is not an uncommon or unpredictable experience. When I am practising a form of dancing called [[authentic movement]] it happens every time. Being woken up or disturbed from such an experience reveals that something is happening to awareness that feels complete and even permanent, while paradoxically being easy to disrupt and difficult to describe. 
+This being brought back to the world is not an uncommon or unpredictable experience. When I am practising a form of dancing called [[authentic movement]] it happens every time. Being woken up or disturbed from such an experience reveals that something is happening to awareness that feels complete and even permanent, while paradoxically being both easy to disrupt and difficult to describe. 
 
 Where was I before the alarm sounded? Who was I before the alarm sounded? Was _I_ before the alarm sounded?  
 
 ---
 
 - it's a trope of dancing (and other areas) -- being one, immersion, etc. when the dancer becomes the dance. But tropes exist for a reason so this writing is an attempt to understand a very particular moment in the experience of dancing through improvisation. This moment  
-
+- the focus of this writing is intentionally narrow -- want to get into the weeds.
+- rare to have this kind of focus in dance research -- we tend to talk about feelings and tendencies. isolated 'bubble' instances of practices [@ellis-2023-ecosystemic]. But here I try to be specific (very close analysis of very small time frame) while also recognising the limits of this work (particular kind of practice) -- but reaching out to other fields.
 
 > How can we know the dancer from the dance? [@yeats-1951-collected p.212]
 
-While the practice of dancing is phenomenologically complex, in this chapter I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology. rare to have this kind of focus in research -- we tend to talk about feelings and tendencies. isolated 'bubble' instances of practices. But here I try to be specific (very close analysis of very small time frame) while also recognising the limits of this work (particular kind of practice) -- but reaching out to other fields.
-
-how do I go about this:
-- period of dancing (see below) in practice (including self reporting)
-- analysis 
-- desk-based
-- reflection with the other participant
-
-
-Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and selfhood. When the research extends beyond dance its stakes become how epistemology, methods, ethics and disciplinary boundaries are configured and reconfigured in phenomenological practice research. 
-
-This writing stems from experiences during a two-month long research project called _Losing Oneself_ supported by Coventry University's Centre for Dance Research, and held in the early months of 2024.[^losing] The research team was Katye Coe (dancer-researcher), L. S. Merritt Millman (neuroscientist), Michael Gerussi (dancer-researcher) and Simon Ellis (dancer-researcher). 
-
-[^losing:][losingoneself.coventry.ac.uk/](https://losingoneself.coventry.ac.uk/)
-
-- Garfield -- specifically mentions dancers
-- Montero resists this idea -- the self is partially lost (referring to expert performance)
-
-In this writing I seek to understand experiences in dancing in which a sense of self or _I_ is diminished, changed or even lost. Describing some disruption to the everyday experience of being subjects who manipulate or experience objects around us (including our bodies) in which this apparent separation between subject and object is diminished or even lost. 
+While the practice of dancing is phenomenologically complex, in this chapter I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology. 
 
 This chapter is a description and an analysis of what I understand to be a vital and tangible yet delicate part of dancing: the threshold between knowing _one_ is dancing and ceasing to be aware that there is a _one_. In dance the experience of the two sides of that threshold is described as the difference between 'moving and being moved' [@adler-2002-offeringa p.30] or dancing and being danced. 
 
 
-The American philosopher Jay L. Garfield, who specialises in Tibetan Buddhism, writes of how the "expert is not conscious of his or her own subjectivity and its relation to the object with which he or she is engaged, or even of the tools the expert might be using, including his or her own body" [@garfield-2022-losing n.pag]. For Garfield this kind of experience 
+Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and selfhood. When the research extends beyond dance its stakes become how epistemology, methods, ethics and disciplinary boundaries are configured and reconfigured in phenomenological practice research. 
 
-> It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness.[@garfield-2022-losing n.pag]
+But what kind of dancing? 
 
-> That is the kind of novice awareness that just gets in the way. Instead, the focused attention of the expert is entirely on the task at hand and on the goals to be accomplished through that task. It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness. This is the sense in which actors or dancers, when they are successful, completely *inhabit* their roles, becoming the roles they embody, instead of experiencing *themselves* as performing those roles. [@garfield-2022-losing n.pag.]
-
-conflates with flow: 
-
-> When performing as a virtuoso, one is in what psychologists call a “flow” state. In such a state, one experiences one’s action as spontaneous, not as planned or calculated; one’s own body, cognitive states, and the objects around one are not objects of reflective awareness, even though in these moments one is perhaps more closely perceptually attuned to the world and to one’s own actions than at any other time. There is, despite this exquisite attunement and control, no experience of subject-object duality, and no awareness of self. The achievement of real expertise, the *Zhuangzi* suggests through this parable, is in part the achievement of this kind of perceptual skill and perceptual-motor attunement. In the achievement of virtuosity, if this is right, we also see the *elimination* of one’s sense of self. [@garfield-2022-losing n.pag]
-
-Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c7048f]]
-
-- what is goal here for dancer? to perform something well? is it distinct from goal of AM practitioner? absolutely? hence proximity to meditative practices (and other )
-- this writing by Garfield is precisely what Montero objects to
-- focus on expertise is common
-
-For example, philosopher Barbara Montero questions how the self is washed away in expert performance. "there is an aspect of the self that is lost, but not the self entirely." [@montero-2016-thought p.179]
-
-- summary of skilled practice and mindedness. e.g. [[Foultier - Letting the body find its way]]
-- [[Bergamin - Being-in-the-flow]]
-- have to mention flow here
-- lot of work looking at skill, flow, cognition, automaticity (e.g. meshed architecture by Christensen et al 2016)
-
-The threshold I am writing of is, I propose, a rupture or portal. It may only become identifiable as such retrospectively, when the dancer returns to _dancing_ after having _been danced_. This is not because nothing was known in the moment, but because what is known there is not yet organised as reflective cognition. On the _dancing_ side of the threshold are the familiar subject–object configurations through which experience is ordinarily organised: I have a body, I am dancing in space, I am doing these actions. On the _being danced_ side, I suggest, those configurations no longer hold. Phenomenological description reaches its limit not because nothing is happening, but because the structures that render experience intelligible as subject and object have fallen away.
-
-
+But before I do this I introduce the kind of dancing that this is. In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
 
 ## Authentic movement
 
-The dancing underpinning these ideas is known as [[authentic movement]]. Authentic movement involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants. 
-
-- excellent summary in Voris (including terrible name): https://nivel.teak.fi/adie/forming-and-returning/ 
+The dancing underpinning these ideas is known as [[authentic movement]]. Authentic movement involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants. For a more detailed overview of authentic movement, including ongoing questions about the name of the form itself, see Amy Voris's excellent _Forming and Returning: Dance-Making with Authentic Movement_ [-@voris-2010-forming]. 
 
 In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. Like other somatic practices developed through internal bodily attunement, an important aspect of authentic movement is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of both the dancer and the watcher [@ellis-2020-corporeal]. The unimportance of how the dancing appears separates this practice from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
@@ -105,19 +67,12 @@ I also use the word _dancing_ rather than improvising to describe the activity o
 
 – Lisa Nelson [in @despain-2014-landscape p.39]
 
-In _Losing Oneself_ authentic movement was practiced by expert dance professionals Katye Coe and me. I say expert because it connects the work to research by philosopher (and former ballet dancer) Barbara Montero that examines the role of thinking in expert performance. For Montero an expert is a professional-level practitioner developed through long deliberate practice who is actively trying to improve:
+In _Losing Oneself_ authentic movement was practiced by experienced dance professionals Katye Coe and me. As each of us was dancing, we were not making something; we were dancing and being danced, and as we did this we passed backwards and forwards across what I am calling the threshold of the self.  
 
 
 
-In this work with Katye, as each of us was dancing, we were not making something; we were dancing and being danced, and as we did this we passed backwards and forwards across what I am calling the threshold of the self.  
-
-
-- Gallagher, S., & Varga, S. (2020). Meshed Architecture of Performance as a Model of Situated Cognition. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.02140 -- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'? -- so much of this research is on skilled performance -- goal oriented vs autotelic are different distinctions. And this sends the research into quite distinct fields or trajectories. 
-"Just because skillful action is usually pre-reflective, it does not have to be mindless” (Sutton et al., 2011, p. 95). -- in Gallagher and Varga above (p.)
 
 for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance? 
-
-
 
 But what kind of activity is AM? a skill? a practice? Are some people _better_ or more skilled at it? How might it be a different kind of skilled activity than those studied by Montero (including dancing)? What kinds of activities does AM most have in common? 
 
@@ -138,30 +93,65 @@ AM:
 
 - opens possibility that the threshold between dual and non-dual is a case-study that has applications in different fields: dance, somatics, neurophenomenology (overstating this), cognition, philosophy ....? 
 
+In this writing I seek to understand experiences in dancing in which a sense of self or _I_ is diminished, changed or even lost. Describing some disruption to the everyday experience of being subjects who manipulate or experience objects around us (including our bodies) in which this apparent separation between subject and object is diminished or even lost. 
+
+
+
+- Gallagher, S., & Varga, S. (2020). Meshed Architecture of Performance as a Model of Situated Cognition. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.02140 -- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'? -- so much of this research is on skilled performance -- goal oriented vs autotelic are different distinctions. And this sends the research into quite distinct fields or trajectories. 
+"Just because skillful action is usually pre-reflective, it does not have to be mindless” (Sutton et al., 2011, p. 95). -- in Gallagher and Varga above (p.)
+
+The American philosopher Jay L. Garfield, who specialises in Tibetan Buddhism, writes of how the "expert is not conscious of his or her own subjectivity and its relation to the object with which he or she is engaged, or even of the tools the expert might be using, including his or her own body" [@garfield-2022-losing n.pag]. For Garfield this kind of experience 
+
+- Garfield -- specifically mentions dancers
+- Montero resists this idea -- the self is partially lost (referring to expert performance)
+
+> It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness.[@garfield-2022-losing n.pag]
+
+> That is the kind of novice awareness that just gets in the way. Instead, the focused attention of the expert is entirely on the task at hand and on the goals to be accomplished through that task. It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness. This is the sense in which actors or dancers, when they are successful, completely *inhabit* their roles, becoming the roles they embody, instead of experiencing *themselves* as performing those roles. [@garfield-2022-losing n.pag.]
+
+conflates with flow: 
+
+> When performing as a virtuoso, one is in what psychologists call a “flow” state. In such a state, one experiences one’s action as spontaneous, not as planned or calculated; one’s own body, cognitive states, and the objects around one are not objects of reflective awareness, even though in these moments one is perhaps more closely perceptually attuned to the world and to one’s own actions than at any other time. There is, despite this exquisite attunement and control, no experience of subject-object duality, and no awareness of self. The achievement of real expertise, the *Zhuangzi* suggests through this parable, is in part the achievement of this kind of perceptual skill and perceptual-motor attunement. In the achievement of virtuosity, if this is right, we also see the *elimination* of one’s sense of self. [@garfield-2022-losing n.pag]
+
+Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c7048f]] -- what is interesting here is the possibility that, as a matter of direct experience and when the self dissolves, I don't have agency. That it is as if the world is pouring through the skin and bones and tissues that usually I associate with 'my body'. 
+
+- what is goal here for dancer? to perform something well? is it distinct from goal of AM practitioner? absolutely? hence proximity to meditative practices (and other )
+- this writing by Garfield is precisely what Montero objects to
+- focus on expertise is common
+
+For example, philosopher Barbara Montero questions how the self is washed away in expert performance. "there is an aspect of the self that is lost, but not the self entirely." [@montero-2016-thought p.179]
+
+- summary of skilled practice and mindedness. e.g. [[Foultier - Letting the body find its way]]
+- [[Bergamin - Being-in-the-flow]]
+- have to mention flow here
+- lot of work looking at skill, flow, cognition, automaticity (e.g. meshed architecture by Christensen et al 2016)
+
+The threshold I am writing of is, I propose, a rupture or portal. It may only become identifiable as such retrospectively, when the dancer returns to _dancing_ after having _been danced_. This is not because nothing was known in the moment, but because what is known there is not yet organised as reflective cognition. On the _dancing_ side of the threshold are the familiar subject–object configurations through which experience is ordinarily organised: I have a body, I am dancing in space, I am doing these actions. On the _being danced_ side, I suggest, those configurations no longer hold. Phenomenological description reaches its limit not because nothing is happening, but because the structures that render experience intelligible as subject and object have fallen away.
+
+
+## methods
+
+how did I go about this:
+- period of dancing (see below) in practice (including self reporting)
+- time away -- relevant? (or perhaps being an academic got in the way?)
+- analysis 
+- desk-based
+- reflection with the other participant
+- type of MPI with Rosemary Lee (emerging from experience with Siobhan Davies 16 April 2026 -- by chance)
+
+## towards the end
+
+This writing stems from experiences during a two-month long research project called _Losing Oneself_ supported by Coventry University's Centre for Dance Research, and held in the early months of 2024.[^losing] The research team was Katye Coe (dancer-researcher), L. S. Merritt Millman (neuroscientist), Michael Gerussi (dancer-researcher) and Simon Ellis (dancer-researcher). 
+
+[^losing:][losingoneself.coventry.ac.uk/](https://losingoneself.coventry.ac.uk/)
 
 
 ---
-
-
-> those that are generally recognized as experts in their fields and whose skills are usually thought to conform to the ten-year rule, which states that the journey from novice to professional typically takes ten years of intensive practice. [@montero-2013-dancer p.305]
-
-
-
-> If so, being in the zone, where the zone is defined as a time of optimal performance, is perfectly compatible with thinking. Alternatively, if the zone is defined as a time when optimal performance occurs entirely effortlessly and without thought, then being in the zone may simply not exist.[@montero-2015-thinking p.138]
-
-
-
-
-
-
-
-
-
 ---
 
+## don't yet know
 
-
-But I am jumping the gun and already have made difficult-to-forgive assumptions. Even if such a threshold exists experientially (because experience is all we have to experience such a thing??), how might we come to agree on what is happening on either side of it? It's a big assumption to say that on far nondual side of the threshold there is no self. 
+But I am jumping the gun and already have made difficult-to-forgive assumptions. Even if such a threshold exists experientially (because experience is all we have to experience such a thing??), how might we come to agree on what is happening on either side of it? It's a big assumption to say that the other side of the threshold is nondual and therefore there is no self. 
 
 I am therefore going to try and convince you the reader of two things: threshold, dissolution of subject object.
 
@@ -197,22 +187,13 @@ Note conflation of mind with self?
 Illuminating argument -- skilled, pleasure, diminished self. What kinds of activities was she looking at? 
 
 
-
-
-
-
-
 > Attention is Consciousness with an object. When the object vanishes, attention simply remains what it always is, Consciousness [@spira-2008-transparency]
 
 "So objects – that is, thoughts, sensations and perceptions – are not the content of Consciousness. Consciousness alone is the content of Consciousness. Thoughts, sensations and perceptions are the names and forms that Consciousness takes in the process of manifestation." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
 
-- the threshold itself -- this is the analysis?? 
-- 
 
-
-
-
+> This little enclave of objects called ‘the mind and the body’ is given special status in this process of abstraction. It is partitioned off from all the other conceptualised objects and, strangely, it is given the status of subject. It is considered to be ‘me,’ whilst all the other conceptualised objects, including of course everyone else, are considered to be ‘other.’ [@spira-2008-transparency n.pag]  [[mind and body given special status]]
 
 
 "NDA can co-occur with any content, whether perceptual, affective, or cognitive, which appears in it, so to speak, like an image in a mirror." (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
@@ -226,7 +207,7 @@ Illuminating argument -- skilled, pleasure, diminished self. What kinds of activ
 
 > from a complete absence in various types of blackouts on one end of the spectrum, which may preclude such events from being regarded as phenomenal experiences altogether, to a vivid presence of self-knowing luminous awareness, regarded in some cases as instances of consciousness directly encountering itself (Josipovic, 2019).[@josipovic-2020-nondual p.3]
 
-Consciousness is organisms attempt to reduce uncertainty. "felt uncertainty" -- Mark Solms (https://pmc.ncbi.nlm.nih.gov/articles/PMC6363942; https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/statistical-mechanics-of-felt-uncertainty-under-active-inference/7A5ED41FB11010803C42FDDD07762FC9) That's what is special about meditation -- and AM -- there is no attempting to do anything. — from Pollan book (and podcast with Ezra Klein)
+Consciousness is organisms attempt to reduce uncertainty. "felt uncertainty" -- Mark Solms (https://pmc.ncbi.nlm.nih.gov/articles/PMC6363942; https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/statistical-mechanics-of-felt-uncertainty-under-active-inference/7A5ED41FB11010803C42FDDD07762FC9) That's what is special about meditation -- and AM -- there is no attempting to do anything. — from Pollan book (and podcast with Ezra Klein) -- and then Gallagher's paper about how predictive processing might not hold for improvisation: <https://journals.sagepub.com/doi/full/10.1177/27538699221132691>
 
 ## The threshold and its conceptual neighbours
 
@@ -252,11 +233,11 @@ The dancers interviewed by Kent De Spain for _Landscape of the Now_ [-@despain-2
 
 – Kent De Spain [-@despain-2014-landscape p.52]
 
-Reduced desire, or the absence of desire, is a recurrent theme in improvised dancing. Kirstie Simson has long used a practice explicitly called 'hands that don't want anything' [@ellis-2009-hands], while Steve Paxton seems to infer the presence of a threshold when he describes how 'little sprits' like imagery and desire stop as if 'the mind has just been surgically removed' [Paxton, in @despain-2014-landscape p.77]. In Paxton's description there are hints of how Sheets-Johnstone references Kristeva's _primordial semiotic of gesture_ that affords 'no distinction between signifier and signified, and in which a bodily doing sets forth relations without specifying objects within these relations'  [@sheets-johnstone-1981-thinkinga p.403]. 
+Reduced desire, or the absence of desire, is a recurrent theme in improvised dancing. Kirstie Simson has long used a practice explicitly called 'hands that don't want anything' [@ellis-2009-hands], while Steve Paxton seems to infer the presence of a threshold when he describes how 'little sprits' like imagery and desire stop as if 'the mind has just been surgically removed' [Paxton, in @despain-2014-landscape p.77]. In Paxton's description there are hints of how Sheets-Johnstone references Kristeva's _primordial semiotic of gesture_ that affords 'no distinction between signifier and signified, and in which a bodily doing sets forth relations without specifying objects within these relations' [@sheets-johnstone-1981-thinkinga p.403]. 
 
 Paxton is unusual in attempting to articulate both sides of the threshold or what I am describing as the difference between dancing and being danced. But he also implicitly suggests how any description of _being danced_ requires a self (subject) to be describing the experience (the object), and that this can only happen _after_ the return from being danced to dancing when there is self-awareness or reflexivity. -- does he do this? when? where? 
 
-Then there are those artists whose descriptions of the complexities of improvised dancing reveal deep corporeal attunement only on _this_ side -- the _I am dancing_ side -- of the threshold. For instance, Barbara Dilley asks 'And what is that self-conscious state when one is simply highly aware and the self is part of that awareness?' [in @despain-2014-landscape p.63]. Similarly, Ruth Zaporah describes how she finds herself _doing things_, and that 'there's also this kid that's excited about it inside of me' who isn't judging the dancing [@despain-2014-landscape p.71]. - relates to lantern focus of children's consciousness
+Then there are those artists whose descriptions of the complexities of improvised dancing reveal deep corporeal attunement only on _this_ side -- the _I am dancing_ side -- of the threshold. For instance, Barbara Dilley asks 'And what is that self-conscious state when one is simply highly aware and the self is part of that awareness?' [in @despain-2014-landscape p.63]. Similarly, Ruth Zaporah describes how she finds herself _doing things_, and that 'there's also this kid that's excited about it inside of me' who isn't judging the dancing [@despain-2014-landscape p.71]. - relates to lantern focus of children's consciousness (vs spotlight)
 
 What the threshold distinguishes from adjacent accounts of presence or absorption is not intensity but a critical junction across which selfhood is porous: on one side, experience retains a reflexive subject; on the other, the distinction between subject and object no longer holds. The implication is that both sides of the bardo are deeply embodied and highly attuned experiences, yet they are, as I argue in this chapter, different in kind. 
 
@@ -430,6 +411,8 @@ Practice as condition-setting and disclosure, not data generation in a narrow se
 	
 First, it sets conditions. Through repetition, constraint, attentional orientation, witness–mover relations and temporal framing, the practice shapes a field in which particular kinds of experience become more likely. It biases perception, agency and self-relation without determining outcomes. Nothing is forced and nothing is guaranteed.
 
+
+
 Second, it enables disclosure. What matters is what shows up under those conditions, often unpredictably, and often only retrospectively recognisable. These disclosures are experiential, relational and situational. They are not “generated” in the sense of being produced on demand, nor do they pre-exist as stable objects waiting to be collected.
 
 So the claim rejects a narrow research logic in which practice is valuable only insofar as it yields codifiable data. Instead, practice functions more like an experimental ecology: it creates the possibility for thresholds, shifts or recognitions to occur, which can then be articulated, reflected on or analysed after the fact.
@@ -490,6 +473,11 @@ The problem is not spirituality per se, but the way explanatory language can qui
 - Somatic expertise as attentional conditioning.
 - Why dancers may over-privilege bodily routes to non-duality.
 - Explicit resistance to dance exceptionalism.
+
+"As a result of lots of previous actions, my movements are partially and automatically encoded in terms of their anticipated effects on perception.11" (Guy Claxton, Intelligence in the Flesh Why Your Mind Needs Your Body Much More Than It Thinks). also reminded
+
+all related to precision weighting? [This summary is excellent on llm](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
+and [useful re canonical references](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
 
 "So through repetition and training in these skills of noticing, differentiating, and discerning, individuals engaged in mind-body practices that involve the body are immersed in a process that leads to embodiment and integration." (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
 
@@ -567,6 +555,14 @@ This is a description of being on the other side of the threshold. But the parad
 
 
 # sleeping kittens
+
+> those that are generally recognized as experts in their fields and whose skills are usually thought to conform to the ten-year rule, which states that the journey from novice to professional typically takes ten years of intensive practice. [@montero-2013-dancer p.305]
+
+
+
+> If so, being in the zone, where the zone is defined as a time of optimal performance, is perfectly compatible with thinking. Alternatively, if the zone is defined as a time when optimal performance occurs entirely effortlessly and without thought, then being in the zone may simply not exist.[@montero-2015-thinking p.138]
+
+I say expert because it connects the work to research by philosopher (and former ballet dancer) Barbara Montero that examines the role of thinking in expert performance. For Montero an expert is a professional-level practitioner developed through long deliberate practice who is actively trying to improve:
 
 The experience on the other side of the threshold has many names from different traditions aside from dancing, and shares a disruption of subject–object organisation. 
 
