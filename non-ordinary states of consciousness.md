@@ -8,7 +8,7 @@ type: "evergreen"
 
 _previous note:_ [[improvisation and the threshold of the self]]
 
-> We broadly de ne NSCs as experiences that arise spontaneously or are induced by practices and/or rituals, and can have considerable cultural and eudaimonic (i.e., denoting well-being and meaning in life) significance.[@timmermann-2023-neurophenomenological p.139]
+> We broadly define NSCs as experiences that arise spontaneously or are induced by practices and/or rituals, and can have considerable cultural and eudaimonic (i.e., denoting well-being and meaning in life) significance.[@timmermann-2023-neurophenomenological p.139]
 
 
 ---
