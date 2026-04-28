@@ -63,37 +63,37 @@ In this writing dancing is both the object of the research, and a vehicle for ex
 
 ## the dancing: authentic movement and its specific properties
 
-When I am talking about dancing I am not talking about all dancing. The dancing underpinning this research is called [[authentic movement]]. The practice involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants. For more detail regarding authentic movement, including ongoing questions about the name of the form itself, see Amy Voris's _Forming and Returning: Dance-Making with Authentic Movement_ [-@voris-2010-forming] and Jane Bacon's _Authentic Movement: A field of practices_ [-@bacon-2015-authentic]
+This writing stems from experiences during a two-month long practice research project called _Losing Oneself_ supported by Coventry University's Centre for Dance Research, and held in the early months of 2024.[^losing] The research team was Katye Coe (dancer-researcher), Simon Ellis (dancer-researcher), Michael Gerussi (dancer-researcher) and L. S. Merritt Millman (neuroscientist). 
 
-Authentic movement is described by Bacon as a 'field of practices' [@bacon-2015-authentic p.205] in which 'there are ever-growing
-connections and emergences' [@bacon-2015-authentic p.207]. The practice started from a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a "mystical practice" [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming] and as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], while maintaining its roots in therapy [e.g. @stromsted-2026-souls]. 
+[^losing]:[losingoneself.coventry.ac.uk/](https://losingoneself.coventry.ac.uk/)
 
-Like other somatic practices developed through internal bodily attunement, an important aspect of most practices of authentic movement is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of both the dancer and the watcher [@ellis-2020-corporeal]. The unimportance of how the dancing appears usually separates the practice from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
+In many respects it extends: 
+- should mention two publications from work with Shaun: 
+	+ currency of play: https://www.skellis.net/currency-of-play
+	+ corporeal epistemics (in four parts): https://www.skellis.net/corporeal-epistemics -- or was it something else? 
 
+The research was centred on studio-based dancing practiced by experienced dance professionals Katye and Simon. The dancing in this research was [[authentic movement]], and it involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
+[^am]: For more detail regarding authentic movement, including ongoing questions about the name of the form itself, see Amy Voris's _Forming and Returning: Dance-Making with Authentic Movement_ [-@voris-2010-forming] and Jane Bacon's _Authentic Movement: A field of practices_ [-@bacon-2015-authentic]
 
-Indeed, there was no clear purpose why we 
+Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a 'mystical practice' [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming], as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], and also maintains its roots in therapy [e.g. @stromsted-2026-souls]. It is not surprising therefore that Jane Bacon describes authentic movement as a 'field of practices' [@bacon-2015-authentic p.205]. 
 
+Somatic practices like authentic movement focus on internal bodily attunement, and an important aspect of such practices is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of the dancer [@ellis-2020-corporeal]. The irrelevance of how the dancing appears is one thing that separates most somatic practices from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
-in this research the dancing was only ever seen by one other person (the witness). 
+In _Losing Oneself_ Katye and I were not practising authentic movement for any particular reason. The year before (2023) we had met sporadically and it was the practice that we found ourselves drawn to and that seeded this research. Unlike the various instances of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself. It was autotelic. We were dancing for its own sake -- not wanting anything from it -- and it felt this way even as part of research funded as pump-priming for a larger project. We were not trying to make or find anything in particular and even though we both brought interest in nondual awareness to the research (hence the project name), our curiosity about the threshold emerged during the research. This autotelic practice, with deep intrinsic enjoyment is a key characteristic of the dancing that Katye and I practiced.  
 
-
-The dancing was both autotelic and non-goal oriented. 
-
-AM: 
-- autotelic - for its own sake -- why one does it
-- non goal directed -- how one does it (how the activity is 'organised')
 - non judgemental 
-- important distinction between authentic movement as form of therapy and what we were doing in the studio
 
 - benevolent indifference vs non-judgement: 
 > Sooner or later Consciousness comes to see the difference between its own openness, its own Presence, which welcomes all things into itself with benevolent indifference, and a mind which, by definition, sees differences and yet has imposed on itself a straitjacket of ‘nonjudging.’ Such ‘non-judging’ comes from fear and confusion. It is not the true, benevolent indifference of Presence.[@spira-2008-transparency]
 
+
+- in this research the dancing was only ever seen by one other person (the witness). 
+
+
 But what kind of activity is AM? a skill? a practice? Are some people _better_ or more skilled at it? How might it be a different kind of skilled activity than those studied by Montero (including dancing)? What kinds of activities does AM most have in common? 
 
-- should mention two publications from work with Shaun: 
-	+ currency of play: https://www.skellis.net/currency-of-play
-	+ corporeal epistemics (in four parts): https://www.skellis.net/corporeal-epistemics -- or was it something else? 
+
 
 The point here is about extending our understanding of ...
 
@@ -105,13 +105,14 @@ The point here is about extending our understanding of ...
 
 - opens possibility that the threshold between dual and non-dual is a case-study that has applications in different fields: dance, somatics, neurophenomenology (overstating this), cognition, philosophy ....? 
 
-In this chapter I use the word _dancing_ rather than improvising to describe the activity of the mover, noting the distinction made by the American dancer and improviser Lisa Nelson:
+One final note on nomenclature. In this chapter I use the word _dancing_ rather than improvising to describe the activity of the mover, noting the distinction made by the American dancer and improviser Lisa Nelson:
 
 > A lot of what people call improvising, I call 'dancing.' I wouldn't put it in the category of improvising. When I think about improvising, it's already another stage or another phase of a dancing urge, and it has to do with making something.
 
 – Lisa Nelson [in @despain-2014-landscape p.39]
 
-The period of studio-based research on which this writing is developed was called _Losing Oneself_, and in it authentic movement was practiced by experienced dance professionals Katye Coe and me. As each of us was dancing, we were not making something; we were dancing and being danced, and as we did this we passed backwards and forwards across what I am calling the threshold of the self. 
+As each of us was dancing, we were not making something 
+
 
 In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
 In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
@@ -185,9 +186,7 @@ how did I go about this:
 - reflection with the other participant
 - type of MPI with Rosemary Lee (emerging from experience with Siobhan Davies 16 April 2026 -- by chance)
 
-This writing stems from experiences during a two-month long research project called _Losing Oneself_ supported by Coventry University's Centre for Dance Research, and held in the early months of 2024.[^losing] The research team was Katye Coe (dancer-researcher), L. S. Merritt Millman (neuroscientist), Michael Gerussi (dancer-researcher) and Simon Ellis (dancer-researcher). 
 
-[^losing:][losingoneself.coventry.ac.uk/](https://losingoneself.coventry.ac.uk/)
 
  The writing builds on a mixed dataset of authentic movement sessions, video and photographic documentation, post-practice conversations, self-report questionnaires and desk-based research.
 [[non-ordinary states of consciousness]]
@@ -302,11 +301,6 @@ Consciousness is organisms attempt to reduce uncertainty. "felt uncertainty" -- 
 + plea for specificity
 + limits
  **I am seeking precision such that others can be clear if their experiences are the same or different or indeed where they might overlap. while also recognising the limits of this work (particular kind of practice) -- but reaching out to other fields. name these fields.**
-
-
-
----
----
 
 
 
@@ -596,6 +590,17 @@ This is a description of being on the other side of the threshold. But the parad
 
 
 # sleeping kittens
+
+- important distinction between authentic movement as form of therapy and what we were doing in the studio
+
+
+The period of studio-based research on which this writing is developed was called _Losing Oneself_, and in it a version of authentic movement was practiced by experienced dance professionals Katye Coe and me. 
+
+in which 'there are ever-growing
+connections and emergences' [@bacon-2015-authentic p.207]
+
+we were dancing and being danced, and as we did this we passed backwards and forwards across what I am calling the threshold of the self. 
+
 
 Authentic Movement has also been used as a resource for dance-making and the generation of movement material [Voris 2019; Collinson 2005], and has been brought into performance and performance-directed improvisational contexts [Davis 2007; McLeod 2020]. In this research, however, the dancing was not developed as choreographic material or offered as performance: it was seen only by the witness within the mover–witness relation.
 
