@@ -65,7 +65,7 @@ This writing stems from experiences during a two-month long practice research pr
 
 [^losing]:[losingoneself.coventry.ac.uk/](https://losingoneself.coventry.ac.uk/)
 
-That studio work and this analysis extend previous work in which I have explored the ways in which authentic movement meets epistemology [@ellis-2020-corporeal] and questions of documentation [@ellis-2020-currency]. 
+That studio work and this analysis extend previous work in which I have explored the ways in which authentic movement meets epistemology [@ellis-2020-corporeal] and questions of documentation [@ellis-2020-currency].  add something here.
 
 The research was centred on studio-based dancing practiced by experienced dance professionals Katye and Simon. The dancing in this research was [[authentic movement]], and it involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
