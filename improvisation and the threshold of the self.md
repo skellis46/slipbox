@@ -23,7 +23,7 @@ The discussion situates these findings within wider discourse on flow, presence 
 
 > The urge to transcend self-conscious selfhood is, as I have said, a principal appetite of the soul. 
 
-> -- Huxley [-@huxley-1954-doors p.67]
+-- Huxley [-@huxley-1954-doors p.67]
 
 ## Introduction: dancing and being danced
 
@@ -41,25 +41,23 @@ Where was I before the alarm sounded? Who was I before the alarm sounded? Was _I
 
 This chapter details a tangible yet delicate part of dancing: the threshold between knowing _one_ is dancing and ceasing to be aware that there is a _one_. In dance, the two sides of that threshold are commonly evoked by phrases like 'moving and being moved' [@adler-2002-offering p.30] or dancing and being danced. We understand a version of the concept at its most clichéd when Yeats asks, 'How can we know the dancer from the dance?' [-@yeats-1951-collected p.212]. Yet Yeats' question also endures as a trope because it reflects the complex phenomenology of agency one experiences when dancing. If it sometimes feels as if it is not me (or anyone) doing this dancing then who or what is? 
 
-In this writing I pay the closest of attention to this threshold across which agency appears to transit as it morphs: between dancing and being danced. And I do so by treating _awareness while dancing_ as the material or corporeal substrate of the analysis. With such close attention I also make the practice, methods, analysis and conclusions open to scrutiny.
-
-This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-from; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetic], or even artist-scholars presenting discrete episodes of practice research [@ellis-2023-ecosystemic]. My concern is not any one component of dancing taken in isolation; rather I take a phenomenological and temporal cross-section of awareness while dancing. The chapter's focus is intentionally narrow and amounts to an analysis of brief moments in time.
-
-The threshold I have experienced and am describing is, I propose, a temporal rupture or portal. It may only become identifiable retrospectively, when the dancer returns to _dancing_ after having _been danced_. This is not because nothing was known in that alternate space of being danced, but because what is known there is not yet -- or perhaps not able to be -- organised as reflective cognition. On the _dancing_ side of the threshold are the familiar subject–object configurations through which experience is ordinarily organised: I have a body, I am dancing in space, I am doing these actions as an agentic human being. On the _being danced_ side, I suggest, those configurations no longer hold. While _being danced_ phenomenological description reaches its limit not because nothing is happening, but because the structures that render experience intelligible as subject and object have fallen away. In other words _being danced_ is a nondual experience in which, it follows, there is no self.
+In the following pages I pay close attention to this threshold across which agency appears to transit as it morphs: between dancing and being danced. On the _dancing_ side of the threshold are the familiar subject–object configurations through which experience is ordinarily organised: I have a body, I am dancing in space, I am doing these actions as an agentic human being. On the _being danced_ side, I suggest, those configurations no longer hold. While _being danced_ phenomenological description reaches its limit not because nothing is happening, but because the structures, systems and habits that render experience intelligible as subject and object have fallen away. In other words _being danced_ is a nondual experience in which, it follows, there is no self.
 
 But I am getting ahead of myself.
 
-Even if such a threshold exists experientially how might I convince you of what is happening on either side of it? Further, it is a non-trivial proposal or assumption to say that the far side of the threshold is nondual. As such I must convince you of two things. 
+Even if such a threshold exists experientially how might I clearly and convincingly communicate what is happening on either side of it? Further, it is a non-trivial proposal to say that the far side of the threshold is nondual. As such I must convince you of two things. 
 
-First, is that while dancing there is some kind of threshold which separates experiences of awareness that are different in kind. To do this I must describe experiences that are phenomenologically distinguishable such that there lies some path or transition between them (even if that transition is momentary or more akin to a jump cut).
+First, is that while dancing there is some kind of threshold which separates experiences that are different in kind, such that there lies some path or transition between them (even if that transition is momentary or more akin to a jump cut).
 
 Second, is that awareness on the far side of dancing, what I am calling _being danced_, is nondual. That is, there ceases to be a subject observing, feeling or knowing the dancer as object. To do this second thing is messy because there are no tools available to directly describe the experience of nonduality. Phenomenology no longer functions as its "mission is to find the irreducibles of subjectivity" [@fraleigh-2000-consciousness p.56], and therefore requires a perceiving subject and an object able to be experienced [@krageloh-2019-phenomenological]. 
 
-There are three key phenomena in this temporal cross-section: _dancing_, the threshold and _being danced_. If _being danced_ is nondual then it is only the experience of _dancing_ in two conditions that is reliably able to be described phenomenologically: i) the dancing that was happening before or leading up to the threshold, and ii) the dancing that was happening after returning back from _being danced_. This is because while _being danced_ there is no object to observe, and no subject to do that observing. _Being danced_ -- and perhaps even moments in the threshold itself -- resist direct capture as objects of phenomenological inquiry.
+Therefore, there are three key phenomena in this temporal cross-section: _dancing_, the threshold and _being danced_. If _being danced_ is nondual then it is only the experience of _dancing_ in two conditions that is reliably able to be described phenomenologically: i) the dancing that was happening before or leading up to the threshold, and ii) the dancing that was happening after returning back from _being danced_. This is because while _being danced_ there is no object to observe, and no subject to do that observing. _Being danced_ -- and perhaps even moments in the threshold itself -- resist direct capture as objects of phenomenological inquiry.
 
-The messiness I describe above is because there is epistemic, structural and methodological danger at the heart of this research. By proposing an experience as nondual it is by no means enough to merely state 'those experiences of dancing are not able to be rendered as describable objects'. That will not do. Instead, my method is to treat _being danced_ as if it were an object under phenomenological investigation. To throw everything at the _being danced_ experience with precision, purpose and rigour that only failure to describe it might substantiate it as being beyond phenomenological insight. 
+The messiness I describe above is because there is epistemic, structural and methodological danger at the heart of this research. By proposing an experience as nondual it is by no means enough to merely state that those experiences of dancing are not able to be rendered as describable objects. That will not do. Instead, my method is to treat _being danced_ as if it were an object under phenomenological investigation. To throw everything at the _being danced_ experience with precision, rigour and scepticism that only failure to describe it might substantiate it as being beyond phenomenological insight. In doing so I hope to make the practice, methods, analysis and conclusions open to scrutiny.
 
-In this writing dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and even selfhood. When the research extends beyond dance its stakes become how epistemology, methods and disciplinary boundaries are configured and reconfigured in phenomenologically oriented practice research. 
+This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-from; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetic], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. 
+
+My concern is not any one component of dancing taken in isolation. Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and even selfhood. When the research extends beyond dance its stakes become how epistemology, methods and disciplinary boundaries are configured and reconfigured in phenomenologically oriented practice research. 
 
 ## the dancing: authentic movement and its specific properties
 
@@ -67,10 +65,7 @@ This writing stems from experiences during a two-month long practice research pr
 
 [^losing]:[losingoneself.coventry.ac.uk/](https://losingoneself.coventry.ac.uk/)
 
-In many respects it extends: 
-- should mention two publications from work with Shaun: 
-	+ currency of play: https://www.skellis.net/currency-of-play
-	+ corporeal epistemics (in four parts): https://www.skellis.net/corporeal-epistemics -- or was it something else? 
+That studio work and this analysis extend previous work in which I have explored the ways in which authentic movement meets epistemology [@ellis-2020-corporeal] and questions of documentation [@ellis-2020-currency]. 
 
 The research was centred on studio-based dancing practiced by experienced dance professionals Katye and Simon. The dancing in this research was [[authentic movement]], and it involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
@@ -150,6 +145,9 @@ For example, philosopher Barbara Montero questions how the self is washed away i
 - have to mention flow here
 - lot of work looking at skill, flow, cognition, automaticity (e.g. meshed architecture by Christensen et al 2016)
 
+## put somewhere
+
+The focus is intentionally narrow and equates to an analysis of brief moments in time. -- doubt this is useful now
 
 ## experiences of the threshold / methods?
 
@@ -590,6 +588,10 @@ This is a description of being on the other side of the threshold. But the parad
 
 
 # sleeping kittens
+
+The threshold I have experienced and am describing is, I propose, a temporal rupture or portal. 
+
+It may only become identifiable retrospectively, when the dancer returns to _dancing_ after having _been danced_. This is not because nothing was known in that alternate space of being danced, but because what is known there is not yet -- or perhaps not able to be -- organised as reflective cognition. 
 
 - important distinction between authentic movement as form of therapy and what we were doing in the studio
 
