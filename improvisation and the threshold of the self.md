@@ -9,7 +9,7 @@ csl: /Users/nothing/Dropbox/pandoc/chicago-author-date-16th-edition.csl
 
 ---
 
-# The Threshold of the Self: Dancing and Non-dual Awareness
+# Threshold of the Self: Dancing and Non-dual Awareness
 
 keywords: dancing, improvisation, non-dual awareness, consciousness
 
@@ -226,6 +226,15 @@ NDA positioned explicitly as:
 	+ not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
 
 samadhi
+
+Metzinger - consciousness is state that does not resemble anything. From p.213 of Pollan book 
+Not tied to an experiencing self. 
+What if I write to the differences (between either side of the threshold?) as being massive?
+
+> To quote just one example, from a recent paper: ‘Even though intuitive processes themselves remain unconscious, they produce outcomes such as intuitions or gut feelings that we can consciously attend to … and use in our judgements.’28 Familiar enough, and seemingly innocuous – yet who or what is this ‘we’ that is attending, being informed and making judgements? Both everyday and academic talk constantly smuggle in the idea of the ghostly agent – the mind – that is clearly other than the workings of the body-brain itself. The idea that thinking, and the feeling that there is an inner someone who is ‘doing’ the thinking, co-arise when the body-brain finds itself in certain kinds of state is hard to keep hold of, especially once we start talking! [@claxton-2015-intelligence n.pag]
+
+> The apparent experience of a solid object is dissolved in this understanding, and is replaced by the understanding that we in fact experience a series of fleeting, insubstantial perceptions. It is in this sense that ‘everything falls apart.’ [@spira-2008-transparency n.pag]
+- relates tightly (?) to how I describe things 'falling away' (when the orchestra has no conductor). Also want to be clear that it is not automated or somehow 'subconscious' -- is that right? 
 
 Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c7048f]] -- what is interesting here is the possibility that, as a matter of direct experience and when the self dissolves, I don't have agency. That it is as if the world is pouring through the skin and bones and tissues that usually I associate with 'my body'. 
 
