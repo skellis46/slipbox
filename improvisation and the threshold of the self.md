@@ -55,6 +55,8 @@ Therefore, there are three key phenomena in this temporal cross-section: _dancin
 
 The messiness I describe above is because there is epistemic, structural and methodological danger at the heart of this research. By proposing an experience as nondual it is by no means enough to merely state that those experiences of dancing are not able to be rendered as describable objects. That will not do. Instead, my method is to treat _being danced_ as if it were an object under phenomenological investigation. To throw everything at the _being danced_ experience with precision, rigour and scepticism that only failure to describe it might substantiate it as being beyond phenomenological insight. In doing so I hope to make the practice, methods, analysis and conclusions open to scrutiny.
 
+> James notes that, in his view, we lose sight of them because human thought “always appears to deal with objects independent of itself,” discrete objects that we come to know by means of cognition. That’s why we tend to name our thoughts after their objects—“my cup of coffee,” or “the woman on line in front of me,” or “global workspace theory.” [@pollan-2026-world loc2534]
+
 This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-from; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetic], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. 
 
 My concern is not any one component of dancing taken in isolation. Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and even selfhood. When the research extends beyond dance its stakes become how epistemology, methods and disciplinary boundaries are configured and reconfigured in phenomenologically oriented practice research. 
@@ -148,6 +150,12 @@ For example, philosopher Barbara Montero questions how the self is washed away i
 ## put somewhere
 
 The focus is intentionally narrow and equates to an analysis of brief moments in time. -- doubt this is useful now
+
+> Another one of these nonsequential aspects is what we've been calling "gap," and you could say that it might be a very momentary or longer, not absence of reference points, but a low level of reference points, so that you're not really oriented somehow. And for some people, they live for this. This is like bliss and freedom. (For] other people, it's panic. So what do you do in the gap? Breathing is useful because—and again I'm making this up—it does seem to keep things moving, keep the life force moving along and perceiving things so that you can accumulate information and then at a certain point get oriented if that's what you want. But very often people will put into the gap something that they're familiar with, just to take the gap away. There are different strategies, as we know. Streaming does have a kind of energetic quality and sometimes we talk about arriving physically into sensation and arriving energetically, into presence, into awareness, in the moment. [Nancy Stark-Smith in @despain-2014-landscape n.pag]
+- to what extent is 'the gap' the same thing? (there's overlap?)
+
+https://www.themarginalian.org/2026/05/04/trying-not-to-try-slingerland/
+-- Mindball for thresholds- about desire and not wanting. might be a useful way in
 
 ## experiences of the threshold / methods?
 
@@ -263,6 +271,21 @@ _Waking Up_ is a software application developed by neuroscientist, philosopher a
 
 - [[consciousness-as-such]]
 
+
+"Perhaps we shouldn’t find it surprising that people regularly experience spaceless and timeless states in meditation, embodied as a “oneness” that no longer takes on the character of being a separate “self.” All three of these perceptions—space, time, and self— have been revealed by neuroscience and physics to be a distortion of what we now understand to be the underlying physical reality. These perceptions can even be considered illusions in one sense of the word." (Annaka Harris, Meditation and Reality) <https://annakaharris.com/meditation-and-reality/>
+
+> Carhart-Harris's work on the entropic brain is mentioned a lot in the Unraveling the Dream documentary and this is where things get properly interesting. The hypothesis which is laid out in [the original 2014 Frontiers paper](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00020/full) and then revisited in the [sciencedirect.com](https://www.sciencedirect.com/) paper titled  [The entropic brain -- revisited](https://www.sciencedirect.com/science/article/abs/pii/S0028390818301175) proposes that psilocybin and LSD throw a spanner into the brain's prediction machinery. The priors loosen and the top down predictions get weaker. The raw sensory information starts to matter more than the model. And the _self_ which is itself just another prediction your brain is running becomes more optional.
+
+-- https://shinyspores.co.uk/unraveling-the-dream-documentary-review/
+-- that loosening or weakening of the top-down -- makes perfect sense.
+
+"We probably don’t think much about proprioception because, in some sense, it’s always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of 115paying attention – a kind of ‘disattention’ to the body, which allows it to move." (Seth, Anil, Seth-2021-Being)
+
+Disattention - paradox. Like I'm attending less but get 'more' as a consequence. I like this a lot. Like it's a mechanism for what is happening in the dancing.
+
+> If he has an argument, it is with thinkers such as Hume and Locke, who regarded thoughts as discrete entities, one closely following another—as in a “train,” Locke said—but each capable of being set apart and examined on its own. But a stream is very different from a train, and James takes his riverine metaphor seriously. (It is not original to him, as we will see.) [@pollan-2026-world loc2525]
+
+- am I talking about a stream here? It's dangerous territory to communicate
 
 > [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-whata]
 
