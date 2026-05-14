@@ -10,7 +10,7 @@ status-updated: "20260429"
 
 # a shrinking body
 
-In an [age of technofeudalism](https://www.yanisvaroufakis.eu/2024/04/22/welcome-to-the-age-of-technofeudalism-interviewed-by-wired-magazine/), now seized by the boom or doom hoopla of generative AI, I have long felt safe. 
+In an [age of technofeudalism](https://www.yanisvaroufakis.eu/2024/04/22/welcome-to-the-age-of-technofeudalism-interviewed-by-wired-magazine/), now seized by the boom or doom hoopla of generative AI, I have long felt safe from technological capture. 
 
 I have felt safe because my work and artistic practice have been to centre corporeal experiences and sensations that are fundamental to the body in motion. This is the body that I once described as being radically analogue, as if that status of not being binary in the digital sense protected it from what the technology sceptic Neil Postman called the technopoly: 
 
@@ -28,7 +28,7 @@ This is the mistake I have been making.
 
 I have continued to define an ever-shrinking embodiment through the frame of the technopoly. For example, a radically analogue body is explicitly that which is not digital. This is 'remainder corporeality' expressed through the tropes of digital technologies that impoverish bodies-being-known through motion. The shrinkage is unsustainable as the digital bends, morphs and grows, while continuing to encroach on what being bodies might mean.
 
-The answer instead is to express these same bodies not by reference to generative AI or whatever is next in the technopoly's over-funded apparatus, but in their own presences, understandings and languages. If we in dance and somatic practices enter conversations labelled, for example, [human-centred AI](https://en.wikipedia.org/wiki/Human-centered_AI), then we must contribute language and understanding that are not expressed through ordinal and digital logics. To be in those conversations will demand that all of the ineffable mangle of being bodies is heard in its own terms.    
+The answer instead is to express these same bodies not by reference to generative AI or whatever is next in the technopoly's over-funded apparatus, but in their own presences, understandings and languages. If we in dance and somatic practices enter conversations labelled, for example, [human-centred AI](https://en.wikipedia.org/wiki/Human-centered_AI), then we must contribute language and understanding that are not expressed through ordinal and digital logics. To be in those conversations will demand that the difficult, unruly experience of being bodies is heard in its own terms.
 
 
 
