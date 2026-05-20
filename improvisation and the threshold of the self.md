@@ -225,6 +225,10 @@ I'm not sure I understand this idea of consciousness forgetting itself. I get ho
 
 ## nda and agency / self / knowing
 
+notion of a 'glimpse' — 
+
+"And then there is the practice of choiceless awareness. Given that the field of awareness we have been cultivating through the various practices described above is fundamentally limitless by nature, we can expand our awareness still further, beyond even attending specifically to the stream of our own thoughts and emotions arising and passing away in each moment. We can, instead, allow the field of awareness to be essentially infinite, boundless, like space itself, or like the sky, noting that it can include any and all aspects of our experience, interior and exterior, sensory, perceptual, somatic, emotional, cognitive as primary objects of attention, and that we can rest in this vast, sky-like field of awareness without choosing among or specifically featuring any of these particular occurrences. Instead, we allow them all to come and go, appear and disappear, as they will, and be known in their fullness from moment to moment within the nowscape. This is the practice of what Krishnamurti called choiceless awareness, akin to the practice of shikan-taza, or “just sitting—nothing more” in Zen, and to Dzogchen in the Tibetan tradition" (Jon Kabat-Zinn, Kabat-Zinn-2018-Falling)
+
 If _being danced_ is a nondual experience then it follows by definition that one's sense of self dissolves. This is because in order to recognise a self in consciousness there must be an I (as subject) being aware of its self (as object). 
 
 + recognise but distinguish from work in expert performance and flow -- or cover that later on? "at first glance appears to have much in common with Montero, Gallagher"?? 
