@@ -102,9 +102,6 @@ for all intents and purposes we are bordering on doing nothing. the skill is pec
 This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-from; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetic], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. 
 
 
-
-
-
 ----
 
 Even if such a threshold exists experientially how might I clearly and convincingly communicate what is happening on either side of it? Further, it is a non-trivial proposal to say that the far side of the threshold is nondual. As such I must convince you of two things. 
@@ -122,71 +119,7 @@ The messiness I describe above is because there is epistemic, structural and met
 My concern is not any one component of dancing taken in isolation. Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and even selfhood. When the research extends beyond dance its stakes become how epistemology, methods and disciplinary boundaries are configured and reconfigured in phenomenologically oriented practice research. 
 
 
-
-
-
-
-## skill and expert stuff -- not sure where or whether to put it
-
-- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'? (thinking here of [@gallagher-2020-meshed])-- so much of this research (Montero, Christensen et al, Gallagher) is on skilled performance -- goal oriented vs autotelic are different distinctions. And this sends the research into quite distinct fields or trajectories. Gallagher does seem to make room for less goal-directed work "skill-informed selective uncertainty" [@gallagher-2023-surprise p.269]
-"Just because skillful action is usually pre-reflective, it does not have to be mindless” (Sutton et al., 2011, p. 95). -- in Gallagher and Varga above (p.4). See also [[Foultier - Letting the body find its way]]
-
-The American philosopher Jay L. Garfield, who specialises in Tibetan Buddhism, writes of how the "expert is not conscious of his or her own subjectivity and its relation to the object with which he or she is engaged, or even of the tools the expert might be using, including his or her own body" [@garfield-2022-losing n.pag]. For Garfield this kind of experience 
-
-- Garfield -- specifically mentions dancers
-- Montero resists this idea -- the self is partially lost (referring to expert performance)
-
-> It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness.[@garfield-2022-losing n.pag]
-
-> That is the kind of novice awareness that just gets in the way. Instead, the focused attention of the expert is entirely on the task at hand and on the goals to be accomplished through that task. It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness. This is the sense in which actors or dancers, when they are successful, completely *inhabit* their roles, becoming the roles they embody, instead of experiencing *themselves* as performing those roles. [@garfield-2022-losing n.pag.]
-
-- what is goal here for dancer? to perform something well? is it distinct from goal of AM practitioner? absolutely? hence proximity to meditative practices (and other )
-- this writing by Garfield is precisely what Montero objects to
-- focus on expertise is common
-
-conflates with flow: 
-
-> When performing as a virtuoso, one is in what psychologists call a “flow” state. In such a state, one experiences one’s action as spontaneous, not as planned or calculated; one’s own body, cognitive states, and the objects around one are not objects of reflective awareness, even though in these moments one is perhaps more closely perceptually attuned to the world and to one’s own actions than at any other time. There is, despite this exquisite attunement and control, no experience of subject-object duality, and no awareness of self. The achievement of real expertise, the *Zhuangzi* suggests through this parable, is in part the achievement of this kind of perceptual skill and perceptual-motor attunement. In the achievement of virtuosity, if this is right, we also see the *elimination* of one’s sense of self. [@garfield-2022-losing n.pag]
-
-
-For example, philosopher Barbara Montero questions how the self is washed away in expert performance. "there is an aspect of the self that is lost, but not the self entirely." [@montero-2016-thought p.179]
-
-- summary of skilled practice and mindedness. e.g. [[Foultier - Letting the body find its way]]
-- [[Bergamin - Being-in-the-flow]]
-- have to mention flow here
-- lot of work looking at skill, flow, cognition, automaticity (e.g. meshed architecture by Christensen et al 2016)
-
-## put somewhere
-
-The focus is intentionally narrow and equates to an analysis of brief moments in time. -- doubt this is useful now
-
-> Another one of these nonsequential aspects is what we've been calling "gap," and you could say that it might be a very momentary or longer, not absence of reference points, but a low level of reference points, so that you're not really oriented somehow. And for some people, they live for this. This is like bliss and freedom. (For] other people, it's panic. So what do you do in the gap? Breathing is useful because—and again I'm making this up—it does seem to keep things moving, keep the life force moving along and perceiving things so that you can accumulate information and then at a certain point get oriented if that's what you want. But very often people will put into the gap something that they're familiar with, just to take the gap away. There are different strategies, as we know. Streaming does have a kind of energetic quality and sometimes we talk about arriving physically into sensation and arriving energetically, into presence, into awareness, in the moment. [Nancy Stark-Smith in @despain-2014-landscape n.pag]
-- to what extent is 'the gap' the same thing? (there's overlap?)
-
-https://www.themarginalian.org/2026/05/04/trying-not-to-try-slingerland/
--- Mindball for thresholds- about desire and not wanting. might be a useful way in
-
 ## experiences of the threshold / methods?
-
-Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with our research team a questioning process designed to elicit precise responses to felt experiences. It is a process that coincidentally seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my experiences while dancing.
-
-The methods for this analysis are therefore: 
-
-1. Studio-based dancing and conversational reflections between Katye and Simon over two months from January to March 2024
-2. Self-report questionnaires completed by Katye and Simon during those sessions and then later analysed by Merritt.
-3. Desk-based reviewing and research across neuroscience, psychology and dance with a focus on dance improvisation, consciousness and mindfulness practices. This work was initially done by Michaela in the early months of 2024 but later picked up and expanded by Simon as part of the development of this writing.
-4. Interviews akin to MPI between Rosemary and Simon in May of 2026. 
-
-I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
-
-Me reflecting on these things will change these things 
-
-Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovic-2021-implicit] or this: <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1450553/full>
-
-> Performers are able to shift across a full register, from explicit conscious control to implicit pre-reflective consciousness and to spontaneous body-schematic processes, adjusting their attunement to changing conditions through improvisation.[@gallagher-2020-meshed p.5]
-- note that he is talking about skilled performance based on his own and Christensen et al's work (re meshed architecture)
-
-
 
 - analytic core
 - Analyse the threshold directly, with methods embedded.
@@ -196,50 +129,60 @@ Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovi
 - Questionnaires appear as points of mismatch or failure.
 - Documentation appears as an active agent.
 
-weave methods in here.
+The timeline: 
+- dancing in 2023 with KC -- possibility of re-engaging
+- pump-priming money for small pilot project
+- studio-based Jan/Feb 2024 (including dancing, reflecting/conversations, self-report q/naires)
+- literature search and summarising early 2024
+- analysis of self-report September 2024
+- dormant -- wondering what to do and how best / other stuff got prioritised. But also present in the background as ongoing curiosity, reading, etc.
+- book chapter started 15 September 2025 as "losing oneself - somatics chapter" (https://github.com/skellis46/slipbox/commit/85cfb873957b6303ba2b0df4ce7444e94e5fa853). Name changed to "improvisation and the threshold of the self" on 8 October 2025. <https://github.com/skellis46/slipbox/blame/master/improvisation%20and%20the%20threshold%20of%20the%20self.md> -- full record of edits, changes and work since that name change. 
+- micro interviews with RL May 2026
+- bulk of this writing: Feb - August 2026 (many delays)
+- 
 
-> Disorders of basic self-awareness have recently come to be explored in detail by means of an extensive, phenomenologically based interview (Examination of Anomalous Self-Experience, EASE). 
+Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with our research team (16 April 2026) a questioning process designed to elicit precise responses to felt experiences. It is a process that coincidentally seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my experiences while dancing.
 
-> -- Thomas Fuchs and Jann E. Schlimme, [-@fuchs-2009-embodiment]
-
-how did I go about this:
-- period of dancing (see below) in practice (including self reporting)
-- time away -- relevant? (or perhaps being an academic got in the way?)
-- analysis 
-- desk-based
-- reflection with the other participant
-- type of MPI with Rosemary Lee (emerging from experience with Siobhan Davies 16 April 2026 -- by chance)
-
-
-
- The writing builds on a mixed dataset of authentic movement sessions, video and photographic documentation, post-practice conversations, self-report questionnaires and desk-based research.
+The writing builds on a mixed dataset of authentic movement sessions, video and photographic documentation, post-practice conversations, self-report questionnaires and desk-based research.
 [[non-ordinary states of consciousness]]
 
 - [[losing oneself - summary of transcripts]]
 
-### Conditions
-- Training, familiarity, commitment.
-- Why these enable without guaranteeing.
-- Briefly introduce authentic movement only insofar as it matters here.
+The methods for this analysis are therefore: 
+
+1. Studio-based dancing and conversational reflections between Katye and Simon over two months from January to March 2024
+2. Self-report questionnaires completed by Katye and Simon during those sessions and then later analysed by Merritt.
+3. Desk-based reviewing and research across neuroscience, psychology and dance with a focus on dance improvisation, consciousness and mindfulness practices. This work was initially done by Michaela in the early months of 2024 but later picked up and expanded by Simon as part of the development of this writing.
+4. Interviews akin to MPI between Rosemary and Simon in May of 2026. 
+
+
+
+I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
+
+Me reflecting on these things will change these things 
+
+also Gödelian paradoxes. It means a paradox or limit produced by self-reference, especially the kind made famous by Kurt Gödel’s incompleteness theorem.
+
+Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovic-2021-implicit] or this: <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1450553/full>
 
 One is being aware that there is an experience happening (which in itself is a deep immersed experience) to the other in which you become the experience. It's so subtle yet utterly obvious. 
 
 Is there a 'bardo' in this work. "intermediate state between conditions"
 gradual changes but then absolute. dawn/dusk not right -- like the sun is setting and setting then once it's gone complete darkness. Or a gradient like that suggested by [[Josipovic - Implicit–explicit gradient of nondual awareness]]
 
-### Markers
-- Shifts in agency language.
-- Temporal disruption.
-- Reduced narrativity.
-- Use conversation excerpts selectively.
+> Performers are able to shift across a full register, from explicit conscious control to implicit pre-reflective consciousness and to spontaneous body-schematic processes, adjusting their attunement to changing conditions through improvisation.[@gallagher-2020-meshed p.5]
+- note that he is talking about skilled performance based on his own and Christensen et al's work (re meshed architecture)
+
+
+## analysis
 
 > After this timeless interval, Consciousness takes the shape of the next appearance and may identify itself with a part of this appearance, a body. In doing so it ‘forgets’ itself and thereby appears to veil itself from itself.[@spira-2008-transparency]
 
 I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
 
-### Interruptions and re-selfing
-- Alarm, noise, pain, cameras, witnesses.
-- Why interruption reveals the threshold rather than negating it.
+- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled. 
+
+
 
 ## nda and agency / self / knowing
 
@@ -643,7 +586,80 @@ This is a description of being on the other side of the threshold. But the parad
 ## References
 
 
+
+
+
+
+## put somewhere
+
+note also sleeping kittens for stuff on expert performance and Montero -- probably should mention somewhere.
+
+The focus is intentionally narrow and equates to an analysis of brief moments in time. -- doubt this is useful now
+
+> Another one of these nonsequential aspects is what we've been calling "gap," and you could say that it might be a very momentary or longer, not absence of reference points, but a low level of reference points, so that you're not really oriented somehow. And for some people, they live for this. This is like bliss and freedom. (For] other people, it's panic. So what do you do in the gap? Breathing is useful because—and again I'm making this up—it does seem to keep things moving, keep the life force moving along and perceiving things so that you can accumulate information and then at a certain point get oriented if that's what you want. But very often people will put into the gap something that they're familiar with, just to take the gap away. There are different strategies, as we know. Streaming does have a kind of energetic quality and sometimes we talk about arriving physically into sensation and arriving energetically, into presence, into awareness, in the moment. [Nancy Stark-Smith in @despain-2014-landscape n.pag]
+- to what extent is 'the gap' the same thing? (there's overlap?)
+
+https://www.themarginalian.org/2026/05/04/trying-not-to-try-slingerland/
+-- Mindball for thresholds- about desire and not wanting. might be a useful way in
+
 # sleeping kittens
+
+how did I go about this:
+- period of dancing (see below) in practice (including self reporting)
+- time away -- relevant? (or perhaps being an academic got in the way?)
+- analysis 
+- desk-based
+- reflection with the other participant
+- type of MPI with Rosemary Lee (emerging from experience with Siobhan Davies 16 April 2026 -- by chance)
+
+### Interruptions and re-selfing
+- Alarm, noise, pain, cameras, witnesses.
+- Why interruption reveals the threshold rather than negating it.
+
+### Conditions
+- Training, familiarity, commitment.
+- Why these enable without guaranteeing.
+- Briefly introduce authentic movement only insofar as it matters here.
+
+
+
+### Markers
+- Shifts in agency language.
+- Temporal disruption.
+- Reduced narrativity.
+- Use conversation excerpts selectively.
+
+> Disorders of basic self-awareness have recently come to be explored in detail by means of an extensive, phenomenologically based interview (Examination of Anomalous Self-Experience, EASE). 
+
+> -- Thomas Fuchs and Jann E. Schlimme, [-@fuchs-2009-embodiment]
+
+## skill and expert stuff -- not sure where or whether to put it
+
+- tricky the extent to which what KC and I were doing as to whether or not to label it as a 'skill'? (thinking here of [@gallagher-2020-meshed])-- so much of this research (Montero, Christensen et al, Gallagher) is on skilled performance -- goal oriented vs autotelic are different distinctions. And this sends the research into quite distinct fields or trajectories. Gallagher does seem to make room for less goal-directed work "skill-informed selective uncertainty" [@gallagher-2023-surprise p.269]
+"Just because skillful action is usually pre-reflective, it does not have to be mindless” (Sutton et al., 2011, p. 95). -- in Gallagher and Varga above (p.4). See also [[Foultier - Letting the body find its way]]
+
+The American philosopher Jay L. Garfield, who specialises in Tibetan Buddhism, writes of how the "expert is not conscious of his or her own subjectivity and its relation to the object with which he or she is engaged, or even of the tools the expert might be using, including his or her own body" [@garfield-2022-losing n.pag]. For Garfield this kind of experience 
+
+- Garfield -- specifically mentions dancers
+- Montero resists this idea -- the self is partially lost (referring to expert performance)
+
+> That is the kind of novice awareness that just gets in the way. Instead, the focused attention of the expert is entirely on the task at hand and on the goals to be accomplished through that task. It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness. This is the sense in which actors or dancers, when they are successful, completely *inhabit* their roles, becoming the roles they embody, instead of experiencing *themselves* as performing those roles. [@garfield-2022-losing n.pag.]
+
+- what is goal here for dancer? to perform something well? is it distinct from goal of AM practitioner? absolutely? hence proximity to meditative practices (and other )
+- this writing by Garfield is precisely what Montero objects to
+- focus on expertise is common
+
+conflates with flow: 
+
+> When performing as a virtuoso, one is in what psychologists call a “flow” state. In such a state, one experiences one’s action as spontaneous, not as planned or calculated; one’s own body, cognitive states, and the objects around one are not objects of reflective awareness, even though in these moments one is perhaps more closely perceptually attuned to the world and to one’s own actions than at any other time. There is, despite this exquisite attunement and control, no experience of subject-object duality, and no awareness of self. The achievement of real expertise, the *Zhuangzi* suggests through this parable, is in part the achievement of this kind of perceptual skill and perceptual-motor attunement. In the achievement of virtuosity, if this is right, we also see the *elimination* of one’s sense of self. [@garfield-2022-losing n.pag]
+
+
+For example, philosopher Barbara Montero questions how the self is washed away in expert performance. "there is an aspect of the self that is lost, but not the self entirely." [@montero-2016-thought p.179]
+
+- summary of skilled practice and mindedness. e.g. [[Foultier - Letting the body find its way]]
+- [[Bergamin - Being-in-the-flow]]
+- have to mention flow here
+- lot of work looking at skill, flow, cognition, automaticity (e.g. meshed architecture by Christensen et al 2016)
 
 The threshold I have experienced and am describing is, I propose, a temporal rupture or portal. 
 
