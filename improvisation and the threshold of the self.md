@@ -45,22 +45,6 @@ In the following pages I pay close attention to this threshold across which agen
 
 But I am getting ahead of myself.
 
-Even if such a threshold exists experientially how might I clearly and convincingly communicate what is happening on either side of it? Further, it is a non-trivial proposal to say that the far side of the threshold is nondual. As such I must convince you of two things. 
-
-First, is that while dancing there is some kind of threshold which separates experiences that are different in kind, such that there lies some path or transition between them (even if that transition is momentary or more akin to a jump cut).
-
-Second, is that awareness on the far side of dancing, what I am calling _being danced_, is nondual. That is, there ceases to be a subject observing, feeling or knowing the dancer as object. To do this second thing is messy because there are no tools available to directly describe the experience of nonduality. Phenomenology no longer functions as its "mission is to find the irreducibles of subjectivity" [@fraleigh-2000-consciousness p.56], and therefore requires a perceiving subject and an object able to be experienced [@krageloh-2019-phenomenological]. 
-
-Therefore, there are three key phenomena in this temporal cross-section: _dancing_, the threshold and _being danced_. If _being danced_ is nondual then it is only the experience of _dancing_ in two conditions that is reliably able to be described phenomenologically: i) the dancing that was happening before or leading up to the threshold, and ii) the dancing that was happening after returning back from _being danced_. This is because while _being danced_ there is no object to observe, and no subject to do that observing. _Being danced_ -- and perhaps even moments in the threshold itself -- resist direct capture as objects of phenomenological inquiry.
-
-The messiness I describe above is because there is epistemic, structural and methodological danger at the heart of this research. By proposing an experience as nondual it is by no means enough to merely state that those experiences of dancing are not able to be rendered as describable objects. That will not do. Instead, my method is to treat _being danced_ as if it were an object under phenomenological investigation. To throw everything at the _being danced_ experience with precision, rigour and scepticism that only failure to describe it might substantiate it as being beyond phenomenological insight. In doing so I hope to make the practice, methods, analysis and conclusions open to scrutiny.
-
-> James notes that, in his view, we lose sight of them because human thought “always appears to deal with objects independent of itself,” discrete objects that we come to know by means of cognition. That’s why we tend to name our thoughts after their objects—“my cup of coffee,” or “the woman on line in front of me,” or “global workspace theory.” [@pollan-2026-world loc2534]
-
-This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-from; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetic], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. 
-
-My concern is not any one component of dancing taken in isolation. Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and even selfhood. When the research extends beyond dance its stakes become how epistemology, methods and disciplinary boundaries are configured and reconfigured in phenomenologically oriented practice research. 
-
 ## the dancing: authentic movement and its specific properties
 
 This writing stems from experiences during a two-month long practice research project called _Losing Oneself_ supported by Coventry University's Centre for Dance Research, and held in the early months of 2024.[^losing] The research team was Katye Coe (dancer-researcher), Simon Ellis (dancer-researcher), Michael Gerussi (dancer-researcher) and L. S. Merritt Millman (neuroscientist). 
@@ -69,7 +53,7 @@ This writing stems from experiences during a two-month long practice research pr
 
 That studio work and this analysis extend previous work in which I have explored the ways in which authentic movement meets epistemology [@ellis-2020-corporeal] and questions of documentation [@ellis-2020-currency].  add something here.
 
-The research was centred on studio-based dancing practiced by experienced dance professionals Katye and Simon. The dancing in this research was [[authentic movement]], and it involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
+The research was centred on studio-based dancing practiced by experienced dance professionals Katye and Simon. The dancing in this research was [[authentic movement]], and it normally involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
 [^am]: For more detail regarding authentic movement, including ongoing questions about the name of the form itself, see Amy Voris's _Forming and Returning: Dance-Making with Authentic Movement_ [-@voris-2010-forming] and Jane Bacon's _Authentic Movement: A field of practices_ [-@bacon-2015-authentic]
 
@@ -77,7 +61,7 @@ Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] 
 
 Somatic practices like authentic movement focus on internal bodily attunement, and an important aspect of such practices is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of the dancer [@ellis-2020-corporeal]. The irrelevance of how the dancing appears is one thing that separates most somatic practices from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
-In _Losing Oneself_ Katye and I were not practising authentic movement for any particular reason. The year before (2023) we had met sporadically and it was the practice that we found ourselves drawn to and that seeded this research. Unlike the various instances of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself. It was autotelic. We were dancing for its own sake -- not wanting anything from it -- and it felt this way even as part of research funded as pump-priming for a larger project. We were not trying to make or find anything in particular and even though we both brought interest in nondual awareness to the research (hence the project name), our curiosity about the threshold emerged during the research. This autotelic practice, with deep intrinsic enjoyment is a key characteristic of the dancing that Katye and I practiced.  
+In _Losing Oneself_ Katye and I were not practising authentic movement for any particular reason. The year before (2023) we had met sporadically and it was the practice that we found ourselves drawn to and that seeded this research. Unlike the various instances of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself. It was autotelic. We were dancing for its own sake -- not wanting anything from it -- and it felt this way even as part of a small research activity funded as pump-priming for a larger project. This autotelic practice, with deep intrinsic enjoyment is a key characteristic of the dancing that Katye and I practiced. We were not trying to make or find anything in particular and even though we both brought interest in nondual awareness to the research (hence the project name), our curiosity about the threshold emerged during the research and became the central theme of this writing as I engaged with the research materials and ideas.  
 
 - non judgemental 
 
@@ -95,8 +79,8 @@ But what kind of activity is AM? a skill? a practice? Are some people _better_ o
 The point here is about extending our understanding of ...
 
 
-- assumption that closest link between the our version of AM and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011
-- there is Lutz's work on meditation as attentional expertise
+- assumption that closest link between the our version of AM and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011 -- think this is a finding?? 
+- there is Lutz's work on meditation as attentional expertise [@lutz-2008-attention]
 
 - this means that the work with KC becomes a kind of case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow (e.g. Montero) but that overlaps with a form of attentional expertise
 
@@ -114,6 +98,31 @@ As each of us was dancing, we were not making something
 In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
 In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
 for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance? 
+
+This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-from; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetic], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. 
+
+
+
+
+
+----
+
+Even if such a threshold exists experientially how might I clearly and convincingly communicate what is happening on either side of it? Further, it is a non-trivial proposal to say that the far side of the threshold is nondual. As such I must convince you of two things. 
+
+First, is that while dancing there is some kind of threshold which separates experiences that are different in kind, such that there lies some path or transition between them (even if that transition is momentary or more akin to a jump cut).
+
+Second, is that awareness on the far side of dancing, what I am calling _being danced_, is nondual. That is, there ceases to be a subject observing, feeling or knowing the dancer as object. To do this second thing is messy because there are no tools available to directly describe the experience of nonduality. Phenomenology no longer functions as its "mission is to find the irreducibles of subjectivity" [@fraleigh-2000-consciousness p.56], and therefore requires a perceiving subject and an object able to be experienced [@krageloh-2019-phenomenological]. 
+
+Therefore, there are three key phenomena in this temporal cross-section: _dancing_, the threshold and _being danced_. If _being danced_ is nondual then it is only the experience of _dancing_ in two conditions that is reliably able to be described phenomenologically: i) the dancing that was happening before or leading up to the threshold, and ii) the dancing that was happening after returning back from _being danced_. This is because while _being danced_ there is no object to observe, and no subject to do that observing. _Being danced_ -- and perhaps even moments in the threshold itself -- resist direct capture as objects of phenomenological inquiry.
+
+The messiness I describe above is because there is epistemic, structural and methodological danger at the heart of this research. By proposing an experience as nondual it is by no means enough to merely state that those experiences of dancing are not able to be rendered as describable objects. That will not do. Instead, my method is to treat _being danced_ as if it were an object under phenomenological investigation. To throw everything at the _being danced_ experience with precision, rigour and scepticism that only failure to describe it might substantiate it as being beyond phenomenological insight. In doing so I hope to make the practice, methods, analysis and conclusions open to scrutiny.
+
+> James notes that, in his view, we lose sight of them because human thought “always appears to deal with objects independent of itself,” discrete objects that we come to know by means of cognition. That’s why we tend to name our thoughts after their objects—“my cup of coffee,” or “the woman on line in front of me,” or “global workspace theory.” [@pollan-2026-world loc2534]
+
+My concern is not any one component of dancing taken in isolation. Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and even selfhood. When the research extends beyond dance its stakes become how epistemology, methods and disciplinary boundaries are configured and reconfigured in phenomenologically oriented practice research. 
+
+
+
 
 
 
@@ -158,6 +167,15 @@ https://www.themarginalian.org/2026/05/04/trying-not-to-try-slingerland/
 -- Mindball for thresholds- about desire and not wanting. might be a useful way in
 
 ## experiences of the threshold / methods?
+
+Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with our research team a questioning process designed to elicit precise responses to felt experiences. It is a process that coincidentally seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my experiences while dancing.
+
+The methods for this analysis are therefore: 
+
+1. Studio-based dancing and conversational reflections between Katye and Simon over two months from January to March 2024
+2. Self-report questionnaires completed by Katye and Simon during those sessions and then later analysed by Merritt.
+3. Desk-based reviewing and research across neuroscience, psychology and dance with a focus on dance improvisation, consciousness and mindfulness practices. This work was initially done by Michaela in the early months of 2024 but later picked up and expanded by Simon as part of the development of this writing.
+4. Interviews akin to MPI between Rosemary and Simon in May of 2026. 
 
 I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
 
@@ -413,6 +431,8 @@ Reduced desire, or the absence of desire, is a recurrent theme in improvised dan
 Paxton is unusual in attempting to articulate both sides of the threshold or what I am describing as the difference between dancing and being danced. But he also implicitly suggests how any description of _being danced_ requires a self (subject) to be describing the experience (the object), and that this can only happen _after_ the return from being danced to dancing when there is self-awareness or reflexivity. -- does he do this? when? where? 
 
 Then there are those artists whose descriptions of the complexities of improvised dancing reveal deep corporeal attunement only on _this_ side -- the _I am dancing_ side -- of the threshold. For instance, Barbara Dilley asks 'And what is that self-conscious state when one is simply highly aware and the self is part of that awareness?' [in @despain-2014-landscape p.63]. Similarly, Ruth Zaporah describes how she finds herself _doing things_, and that 'there's also this kid that's excited about it inside of me' who isn't judging the dancing [@despain-2014-landscape p.71]. - relates to lantern focus of children's consciousness (vs spotlight)
+
+"Barbara Dilley: I think tracking is a training, and as a teacher of improv, I'm training that in specific ways. In a meditative language, you are learning to layer through familiarity, through repetition of improvisational practices, mindfulness of what it is that you are doing, establishing a comfort with the flow of energy in a moving body. I work with these three little disciplines—slowness, stillness, and repetition—as a way of slowing down the nervous system to allow tracking and, again, to soothe a kind of excitation that I think is inherent in improvisation; that it rides on speed. It can accumulate a kind of speed which then inhibits tracking. So then you bring that individual environment into relationship with other, and that's a very big landscape." (Kent De Spain, Landscape of the Now)
 
 What the threshold distinguishes from adjacent accounts of presence or absorption is not intensity but a critical junction across which selfhood is porous: on one side, experience retains a reflexive subject; on the other, the distinction between subject and object no longer holds. The implication is that both sides of the bardo are deeply embodied and highly attuned experiences, yet they are, as I argue in this chapter, different in kind. 
 
