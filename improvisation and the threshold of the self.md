@@ -155,7 +155,17 @@ The methods for this analysis are therefore:
 3. Desk-based reviewing and research across neuroscience, psychology and dance with a focus on dance improvisation, consciousness and mindfulness practices. This work was initially done by Michaela in the early months of 2024 but later picked up and expanded by Simon as part of the development of this writing.
 4. Interviews akin to MPI between Rosemary and Simon in May of 2026. 
 
+Katye and I practiced together for seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), with the exception of 26 January which was morning only. In total there were thirteen sessions of practice with the following format:
 
+1. One moved, the other witnessed. The length of each practice was variable but mostly we timed them to be 30 minutes.
+2. Completed post-activity self-reporting questionnaires
+3. Changed roles 
+3. Completed post-activity self-reporting questionnaires
+3. Open conversation about the experiences. 
+
+For the next session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the next day's work. 
+
+In those conversations we do not explicitly 
 
 I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
 
@@ -603,6 +613,8 @@ https://www.themarginalian.org/2026/05/04/trying-not-to-try-slingerland/
 -- Mindball for thresholds- about desire and not wanting. might be a useful way in
 
 # sleeping kittens
+
+We did this simply because the dancing felt differently personally dep order of the dancing/witnessing experiences shaped the tonal qualities differently.
 
 how did I go about this:
 - period of dancing (see below) in practice (including self reporting)
