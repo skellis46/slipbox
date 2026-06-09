@@ -4,7 +4,7 @@ tags:
 type: book chapter
 platform: 
 status: in progress
-status-updated: "20260205"
+status-updated: "20260609"
 csl: /Users/nothing/Dropbox/pandoc/chicago-author-date-16th-edition.csl
 
 ---
@@ -141,8 +141,6 @@ The timeline:
 - bulk of this writing: Feb - August 2026 (many delays)
 - 
 
-Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with our research team (16 April 2026) a questioning process designed to elicit precise responses to felt experiences. It is a process that coincidentally seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my experiences while dancing.
-
 The writing builds on a mixed dataset of authentic movement sessions, video and photographic documentation, post-practice conversations, self-report questionnaires and desk-based research.
 [[non-ordinary states of consciousness]]
 
@@ -157,15 +155,36 @@ The methods for this analysis are therefore:
 
 Katye and I practiced together for seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), with the exception of 26 January which was morning only. In total there were thirteen sessions of practice with the following format:
 
-1. One moved, the other witnessed. The length of each practice was variable but mostly we timed them to be 30 minutes.
+1. One of us moved, the other witnessed. The length of each practice was variable but mostly we timed them to be 30 minutes.
 2. Completed post-activity self-reporting questionnaires
-3. Changed roles 
+3. Changed roles and repeated the practice
 3. Completed post-activity self-reporting questionnaires
-3. Open conversation about the experiences. 
+3. Open conversation about the experiences. This means we had thirteen conversations in total, each around 40 minutes long.[^conversations]
 
-For the next session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the next day's work. 
+[^conversations]: 1) 26 January 2024; 2) 1 Feb 2024 am; 3) 1 Feb 2024 pm; 4) 2 Feb 2024 am; 5) 2 Feb 2024 pm; 6) 8 Feb 2024 am; 7) 8 Feb 2024 pm; 8) 9 Feb 2024 am; 9) 9 Feb 2024 pm; 10) 14 Feb 2024 am; 11) 14 Feb 2024 pm; 12) 15 Feb 2024 am; 13) 15 Feb 2024 pm.
 
-In those conversations we do not explicitly 
+For the second session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the next day's work. 
+
+Although in this writing I focus on the threshold between dual and non-dual experiences in dance improvisation, in reality the term _threshold_ reflected a family of distinct and overlapping transitions.  
+
+In the studio with Katye it is not until conversation 10 of 13 (14 February 2024 am) that we explicitly use the word _threshold_ when Katye says, "There's a threshold. There are many thresholds but first is to actually just go into space and begin." We start to discuss other types of thresholds: closing one's eyes, the move from "awareness-ing" to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from it. 
+
+Earlier in the studio work we do however allude to similar points of transition without using the word _threshold_. We discuss the way "attention spreads out" or flattens, or how the choice to respond or not respond (to internal stimuli or sensation) softens or disappears, or when the distinction between movement and sensation blurs, or even how one's sense of agency is lost and regained. We talk of how "I-ness" becomes less defined and how, for instance, pain or sound can jump the mover back to themselves: 
+
+> if we are thinking about non duality, like the I-ness or the me-ness gets less defined as the adventure carries on. But I come back intermittently. – Katye, 2 February 2024 (conversation 4 of 13)
+
+Katye's words reveal the extent to which we were framing our thinking and experience through the lens of non-duality. In that same conversation I speak of "where [the dancing] becomes a singular dimension. There's no sort of sense ... There's no out or in ... or when." 
+
+It is not until the final studio sessions that I start to imagine that the research could focus entirely on these hard to feel and describe moments in time when one slips out of time. 
+
+Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (16 April 2026) a questioning process designed to elicit precise responses to felt experiences. It is a process that coincidentally seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my memory of experiences while dancing.
+
+
+1. The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)
+2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.
+3. A key shift appears between “awareness-ing” or attending to bodily sensation and becoming “the passenger”, where agency feels reduced or displaced.
+4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.
+
 
 I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
 
