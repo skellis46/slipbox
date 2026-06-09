@@ -45,6 +45,70 @@ In the following pages I pay close attention to this threshold across which agen
 
 But I am getting ahead of myself.
 
+## arriving at the threshold
+
+- [[non-ordinary states of consciousness]]
+- [[losing oneself - summary of transcripts]]
+
+In 2023 professional dancer Katye Coe and I did some informal practice sessions in the studio at Coventry University. I had been working with authentic movement for many years and we gravitated towards experimental versions of that practice. Late that year I was awarded via lot some funding from Coventry University for a project called _Losing One’s Self: Exploring Dance Improvisation and Consciousness_. That funding, and the subsequent work with Katye, L.M. Merritt Millman and Michaela Gerussi in early 2024, is the backbone of this writing. 
+
+
+
+The studio-based work occurred between January and February 2024 (including dancing, reflecting, self-reporting questionnaires and various forms of documentation). Initial literature searches focusing on dance improvisation, consciousness and mindfulness practices occurred in early 2024 (led by Michaela), and was later picked up and expanded by Simon as part of the development of this writing. Analysis of the self-reporting questionnaires was finished by Merritt in September 2024.
+
+The project then went dormant as I wondered what to do and how best to do it, but also as I prioritised other research. Nevertheless, questions of non-duality and body-based practices remained an ongoing curiosity and I continued to read broadly in the area.
+
+In September 2025 I began direct work on this book chapter [^git] and the bulk of the work happened between February and August 2026. 
+
+[^git]: All drafting, edits and changes to this chapter are available as open access on GitHub; first as [_losing oneself - somatics chapter_](https://github.com/skellis46/slipbox/commit/85cfb873957b6303ba2b0df4ce7444e94e5fa853), and then [_improvisation and the threshold of the self_](https://github.com/skellis46/slipbox/blame/master/improvisation%20and%20the%20threshold%20of%20the%20self.md) when the work was re-titled on 8 October 2025. 
+
+Katye and I practiced together for seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), with the exception of 26 January which was morning only. In total there were thirteen sessions of practice with the following format:
+
+1. One of us moved, the other witnessed. The length of each practice was variable but mostly we timed them to be 30 minutes.
+2. Completed post-activity self-reporting questionnaires
+3. Changed roles and repeated the practice.[^taking-turns]
+3. Completed post-activity self-reporting questionnaires.
+3. Open conversation about the experiences. This means we had thirteen conversations in total, each around 40 minutes long.[^conversations]
+
+[^taking-turns]: For the second session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the next day's work. 
+
+[^conversations]: 1) 26 January 2024; 2) 1 Feb 2024 am; 3) 1 Feb 2024 pm; 4) 2 Feb 2024 am; 5) 2 Feb 2024 pm; 6) 8 Feb 2024 am; 7) 8 Feb 2024 pm; 8) 9 Feb 2024 am; 9) 9 Feb 2024 pm; 10) 14 Feb 2024 am; 11) 14 Feb 2024 pm; 12) 15 Feb 2024 am; 13) 15 Feb 2024 pm.
+
+Although in this writing I focus on the threshold between dual and non-dual experiences in dance improvisation, in reality the term _threshold_ reflected a family of distinct and overlapping transitions. It was not until conversation 10 of 13 (14 February 2024 am) that we explicitly used the word _threshold_ when Katye said, "There's a threshold. There are many thresholds but first is to actually just go into space and begin." We started to discuss other types of thresholds: closing one's eyes, the move from "awareness-ing" to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from it. 
+
+Earlier in the studio work we did however allude to similar points of transition without using the word _threshold_. We discussed the way "attention spreads out" or flattens, or how the choice to respond or not respond (to internal stimuli or sensation) softens or disappears, or when the distinction between movement and sensation blurs, or even how one's sense of agency is lost and regained. We talked of how "I-ness" becomes less defined and how, for instance, pain or sound can jump the mover back to themselves: 
+
+> if we are thinking about non duality, like the I-ness or the me-ness gets less defined as the adventure carries on. But I come back intermittently. – Katye, 2 February 2024 (conversation 4 of 13)
+
+Katye's words reveal the extent to which we were framing our thinking and experience through the lens of non-duality. In that same conversation I spoke of "where [the dancing] becomes a singular dimension. There's no sort of sense ... There's no out or in ... or when." 
+
+It was not until the final studio sessions that I started to imagine that the research could focus entirely on these hard to feel and describe moments in time when one slips out of time. 
+
+Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (16 April 2026) a questioning process designed to elicit precise responses to felt experiences. It is a process that coincidentally seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my memory of experiences while dancing.
+
+
+1. The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)
+2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.
+3. A key shift appears between “awareness-ing” or attending to bodily sensation and becoming “the passenger”, where agency feels reduced or displaced.
+4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.
+
+
+I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
+
+Me reflecting on these things will change these things 
+
+also Gödelian paradoxes. It means a paradox or limit produced by self-reference, especially the kind made famous by Kurt Gödel’s incompleteness theorem.
+
+Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovic-2021-implicit] or this: <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1450553/full>
+
+One is being aware that there is an experience happening (which in itself is a deep immersed experience) to the other in which you become the experience. It's so subtle yet utterly obvious. 
+
+Is there a 'bardo' in this work. "intermediate state between conditions"
+gradual changes but then absolute. dawn/dusk not right -- like the sun is setting and setting then once it's gone complete darkness. Or a gradient like that suggested by [[Josipovic - Implicit–explicit gradient of nondual awareness]]
+
+> Performers are able to shift across a full register, from explicit conscious control to implicit pre-reflective consciousness and to spontaneous body-schematic processes, adjusting their attunement to changing conditions through improvisation.[@gallagher-2020-meshed p.5]
+- note that he is talking about skilled performance based on his own and Christensen et al's work (re meshed architecture)
+
 ## the dancing: authentic movement and its specific properties
 
 This writing stems from experiences during a two-month long practice research project called _Losing Oneself_ supported by Coventry University's Centre for Dance Research, and held in the early months of 2024.[^losing] The research team was Katye Coe (dancer-researcher), Simon Ellis (dancer-researcher), Michael Gerussi (dancer-researcher) and L. S. Merritt Millman (neuroscientist). 
@@ -119,88 +183,7 @@ The messiness I describe above is because there is epistemic, structural and met
 My concern is not any one component of dancing taken in isolation. Dancing is both the object of the research, and a vehicle for exploring what happens to research itself when its central object unsettles the conditions of observation, description and even selfhood. When the research extends beyond dance its stakes become how epistemology, methods and disciplinary boundaries are configured and reconfigured in phenomenologically oriented practice research. 
 
 
-## experiences of the threshold / methods?
 
-- analytic core
-- Analyse the threshold directly, with methods embedded.
-- Structure this section around the threshold itself, not around methods.
-- Methods appear here instrumentally:
-- Conversations appear as sites of retrospective recognition.
-- Questionnaires appear as points of mismatch or failure.
-- Documentation appears as an active agent.
-
-The timeline: 
-- dancing in 2023 with KC -- possibility of re-engaging
-- pump-priming money for small pilot project
-- studio-based Jan/Feb 2024 (including dancing, reflecting/conversations, self-report q/naires)
-- literature search and summarising early 2024
-- analysis of self-report September 2024
-- dormant -- wondering what to do and how best / other stuff got prioritised. But also present in the background as ongoing curiosity, reading, etc.
-- book chapter started 15 September 2025 as "losing oneself - somatics chapter" (https://github.com/skellis46/slipbox/commit/85cfb873957b6303ba2b0df4ce7444e94e5fa853). Name changed to "improvisation and the threshold of the self" on 8 October 2025. <https://github.com/skellis46/slipbox/blame/master/improvisation%20and%20the%20threshold%20of%20the%20self.md> -- full record of edits, changes and work since that name change. 
-- micro interviews with RL May 2026
-- bulk of this writing: Feb - August 2026 (many delays)
-- 
-
-The writing builds on a mixed dataset of authentic movement sessions, video and photographic documentation, post-practice conversations, self-report questionnaires and desk-based research.
-[[non-ordinary states of consciousness]]
-
-- [[losing oneself - summary of transcripts]]
-
-The methods for this analysis are therefore: 
-
-1. Studio-based dancing and conversational reflections between Katye and Simon over two months from January to March 2024
-2. Self-report questionnaires completed by Katye and Simon during those sessions and then later analysed by Merritt.
-3. Desk-based reviewing and research across neuroscience, psychology and dance with a focus on dance improvisation, consciousness and mindfulness practices. This work was initially done by Michaela in the early months of 2024 but later picked up and expanded by Simon as part of the development of this writing.
-4. Interviews akin to MPI between Rosemary and Simon in May of 2026. 
-
-Katye and I practiced together for seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), with the exception of 26 January which was morning only. In total there were thirteen sessions of practice with the following format:
-
-1. One of us moved, the other witnessed. The length of each practice was variable but mostly we timed them to be 30 minutes.
-2. Completed post-activity self-reporting questionnaires
-3. Changed roles and repeated the practice
-3. Completed post-activity self-reporting questionnaires
-3. Open conversation about the experiences. This means we had thirteen conversations in total, each around 40 minutes long.[^conversations]
-
-[^conversations]: 1) 26 January 2024; 2) 1 Feb 2024 am; 3) 1 Feb 2024 pm; 4) 2 Feb 2024 am; 5) 2 Feb 2024 pm; 6) 8 Feb 2024 am; 7) 8 Feb 2024 pm; 8) 9 Feb 2024 am; 9) 9 Feb 2024 pm; 10) 14 Feb 2024 am; 11) 14 Feb 2024 pm; 12) 15 Feb 2024 am; 13) 15 Feb 2024 pm.
-
-For the second session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the next day's work. 
-
-Although in this writing I focus on the threshold between dual and non-dual experiences in dance improvisation, in reality the term _threshold_ reflected a family of distinct and overlapping transitions.  
-
-In the studio with Katye it is not until conversation 10 of 13 (14 February 2024 am) that we explicitly use the word _threshold_ when Katye says, "There's a threshold. There are many thresholds but first is to actually just go into space and begin." We start to discuss other types of thresholds: closing one's eyes, the move from "awareness-ing" to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from it. 
-
-Earlier in the studio work we do however allude to similar points of transition without using the word _threshold_. We discuss the way "attention spreads out" or flattens, or how the choice to respond or not respond (to internal stimuli or sensation) softens or disappears, or when the distinction between movement and sensation blurs, or even how one's sense of agency is lost and regained. We talk of how "I-ness" becomes less defined and how, for instance, pain or sound can jump the mover back to themselves: 
-
-> if we are thinking about non duality, like the I-ness or the me-ness gets less defined as the adventure carries on. But I come back intermittently. – Katye, 2 February 2024 (conversation 4 of 13)
-
-Katye's words reveal the extent to which we were framing our thinking and experience through the lens of non-duality. In that same conversation I speak of "where [the dancing] becomes a singular dimension. There's no sort of sense ... There's no out or in ... or when." 
-
-It is not until the final studio sessions that I start to imagine that the research could focus entirely on these hard to feel and describe moments in time when one slips out of time. 
-
-Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (16 April 2026) a questioning process designed to elicit precise responses to felt experiences. It is a process that coincidentally seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my memory of experiences while dancing.
-
-
-1. The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)
-2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.
-3. A key shift appears between “awareness-ing” or attending to bodily sensation and becoming “the passenger”, where agency feels reduced or displaced.
-4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.
-
-
-I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
-
-Me reflecting on these things will change these things 
-
-also Gödelian paradoxes. It means a paradox or limit produced by self-reference, especially the kind made famous by Kurt Gödel’s incompleteness theorem.
-
-Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovic-2021-implicit] or this: <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1450553/full>
-
-One is being aware that there is an experience happening (which in itself is a deep immersed experience) to the other in which you become the experience. It's so subtle yet utterly obvious. 
-
-Is there a 'bardo' in this work. "intermediate state between conditions"
-gradual changes but then absolute. dawn/dusk not right -- like the sun is setting and setting then once it's gone complete darkness. Or a gradient like that suggested by [[Josipovic - Implicit–explicit gradient of nondual awareness]]
-
-> Performers are able to shift across a full register, from explicit conscious control to implicit pre-reflective consciousness and to spontaneous body-schematic processes, adjusting their attunement to changing conditions through improvisation.[@gallagher-2020-meshed p.5]
-- note that he is talking about skilled performance based on his own and Christensen et al's work (re meshed architecture)
 
 
 ## analysis
@@ -632,6 +615,24 @@ https://www.themarginalian.org/2026/05/04/trying-not-to-try-slingerland/
 -- Mindball for thresholds- about desire and not wanting. might be a useful way in
 
 # sleeping kittens
+
+
+The methods for this analysis are therefore: 
+
+1. Studio-based dancing and conversational reflections between Katye and Simon between January and February 2024
+2. Self-report questionnaires completed by Katye and Simon during those sessions and then later analysed by Merritt.
+3. Desk-based reviewing and research across neuroscience, psychology and dance with a focus on dance improvisation, consciousness and mindfulness practices. This work was initially done by Michaela in the early months of 2024 .
+4. Interviews akin to MPI between Rosemary and Simon in May of 2026. 
+
+The writing builds on a mixed dataset of authentic movement sessions, video and photographic documentation, post-practice conversations, self-report questionnaires and desk-based research.
+
+- analytic core
+- Analyse the threshold directly, with methods embedded.
+- Structure this section around the threshold itself, not around methods.
+- Methods appear here instrumentally:
+- Conversations appear as sites of retrospective recognition.
+- Questionnaires appear as points of mismatch or failure.
+- Documentation appears as an active agent.
 
 We did this simply because the dancing felt differently personally dep order of the dancing/witnessing experiences shaped the tonal qualities differently.
 
