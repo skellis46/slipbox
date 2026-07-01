@@ -73,7 +73,7 @@ Katye and I practiced together for seven days between 26 January and 15 February
 3. Completed post-activity self-reporting questionnaires.
 3. Open conversation about the experiences. This means we had thirteen conversations in total, each around 40 minutes long.[^conversations]
 
-[^taking-turns]: For the second session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the next day's work. 
+[^taking-turns]: For the second session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the following day's work. 
 
 [^conversations]: 1) 26 January 2024; 2) 1 Feb 2024 am; 3) 1 Feb 2024 pm; 4) 2 Feb 2024 am; 5) 2 Feb 2024 pm; 6) 8 Feb 2024 am; 7) 8 Feb 2024 pm; 8) 9 Feb 2024 am; 9) 9 Feb 2024 pm; 10) 14 Feb 2024 am; 11) 14 Feb 2024 pm; 12) 15 Feb 2024 am; 13) 15 Feb 2024 pm.
 
@@ -87,7 +87,9 @@ Katye's words reveal the extent to which we were framing our thinking and experi
 
 It was not until the final studio sessions that I started to imagine that the research could focus precisely on the moment in time when one slips out of time and out of oneself. 
 
-Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (16 April 2026) a questioning process designed to elicit precise responses to remembered felt experiences. It is a process that coincidentally seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my memory of experiences while dancing.
+Much later, nearly two and a half years after the initial studio-based research and while I was struggling to draft this chapter, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (16 April 2026) a questioning process designed to elicit precise responses to remembered felt experiences. Coincidentally, the process seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 we met online twice to push deeper into my memory of experiences while dancing.
+
+Therefore, the _data set_ for this writing consists of first-person experiences of dancing, unstructured conversations post dancing between Katye and me, micro-interviews hosted by Rosemary focusing on the threshold, and desk-based research.
 
 ## the dancing: authentic movement and its properties
 
@@ -97,7 +99,7 @@ In this chapter I use the word _dancing_ rather than improvising to describe the
 
 – Lisa Nelson [in @despain-2014-landscape p.39]
 
-The dancing in this research was [[authentic movement]], and it normally involves two people taking turns in two different roles: a mover and viewer (or witness) in which the mover improvises movement with eyes closed while the witness pays attention by observing. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
+The dancing in this research was [[authentic movement]], and it normally involves two people taking turns in two different roles: a mover who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
 [^am]: For more detail regarding authentic movement, including ongoing questions about the name of the form itself, see Amy Voris's _Forming and Returning: Dance-Making with Authentic Movement_ [-@voris-2010-forming] and Jane Bacon's _Authentic Movement: A field of practices_ [-@bacon-2015-authentic]
 
@@ -107,7 +109,7 @@ Somatic practices like authentic movement focus on internal bodily attunement, a
 
 Katye and I were not practising authentic movement for any particular reason. Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself. It was autotelic. We were dancing for its own sake – not wanting anything from it – and it felt this way even as part of a small research activity funded as pump-priming for a larger project. This autotelic practice, with deep intrinsic enjoyment, is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular.
 
-Given these specific aspects of the movement practice, I propose/assume that the closest link between our version of AM and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011 -- think this is a finding?? 
+Given these specific aspects of the movement practice, my hunch is that the closest link between our version of authentic movement and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011 -- think this is a finding?? 
 - there is Lutz's work on meditation as attentional expertise 
 
 In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
@@ -126,7 +128,48 @@ Therefore, the studio-based work with Katye becomes a kind of case study of a bo
 
 ## analysis
 
-> After this timeless interval, Consciousness takes the shape of the next appearance and may identify itself with a part of this appearance, a body. In doing so it ‘forgets’ itself and thereby appears to veil itself from itself.[@spira-2008-transparency]
+1. The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)
+2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.
+3. A key shift appears between “awareness-ing” or attending to bodily sensation and becoming “the passenger”, where agency feels reduced or displaced.
+4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.
+
+OpenAI
+
+### architecture of the experience:
+
+The trajectory of each improvisation is described clearly across both retrospective spoken data sets: 
+
+starting (leaving ordinary life) --> spotlit attention --> deep sensory improvising <--> disappearance of organiser <--> deep sensory improvising --> ending (return to ordinary life).
+
+The improvisations start with what Katye describes as tracking sensations: "I noticed this, and then I noticed that [...] or I stay with this" (Coe, 8 February 2024 am; conversation 6 of 13). This spotlight tracking starts to diminish and hierarchies of attention soften to produce "a wideness of seeing and a wideness of feeling" (Coe, 1 February 2024 am; conversation 2 of 13). Such change from tracking to widening is as if the information presented to awareness through sensations in the body goes from happening in series to happening in parallel, and becomes less like attention or attending to sensations and more akin to experiencing a field of sensations. 
+
+In the conversations with Rosemary, I describe the same thing as deep sensory improvisation or as a "flow of awareness" (Ellis, 4 May 2026). 
+
+> It's much less like I'm scanning it, as opposed to things appearing in the body. Whether that's [...] pressure or pressure under my feet or breath in my nostrils or maybe tension in the back of my neck (Ellis, 19 May 2026)
+
+This kind of experience of dancing feels full, effortless and hard to disturb, and there is also clearly a self present as the organiser: "The feeling is of a really incredibly complex orchestra and I'm the conductor" (Ellis, 4 May 2026).
+
+The improvisation continues to deepen but changes to being an experience without a conductor or organiser. There is no labelling and although awareness remains it is not _mine_ in the usual way. My sensitivity to time and space disappears as if those dimensions cease. The body does not vanish; the bounded, skin-contained, self-owned body vanishes. What appears instead is less like being _out of body_ or disembodied, and more like what I describe as "all body". In this kind of dancing without an organiser, "I don't think I'm aware of a body encased by skin. So, _all body_ means that the skin dissolves" (Ellis, 19 May 2026).
+
+Crucially, there is no clear memory from within this experience when the organiser disappears and I know it only through the return to deep sensory dancing. In the second interview with Rosemary, I describe this return as a change from a disassembled "I" that is then reconstituted.
+
+> So I come back to my body in the regular way in which we inhabit it, that there's, you know, weight in my elbows, I can feel pressure in my toes or under my feet or depending on, you know, what position I am in the room or whatever. So that they become, I become. I re-awaken or become re-aware [...] of ... someone who has a body (Ellis, 19 May 2026).
+
+The difference between deep sensory improvising and the disappearance of the organiser is stark even if the entry into being _all body_ is slippery and nigh impossible to pinpoint. Furthermore, my suspicion is that I oscillate between the two kinds of dancing. These are both clear phenomenological properties of these two experiences of deep dancing. First is that the experience of dancing without an organiser only becomes clear once that organiser returns. Second is that the sense of an "I" is oscillating between being and not being. 
+
+Because the improvisations were timed and ended with an alarm, the return to ordinary life could happen from either deep sensory dancing or dancing without an organiser. The harshness and potential discombobulation of the ending would depend on which kind of dancing experience was interrupted. 
+
+
+
+The blunt version: MPI 1 identifies the phenomenon. MPI 2 makes it much harder to describe this as simply “losing the body” or “being disembodied”. It is almost the opposite. The body does not vanish; the bounded, skin-contained, self-owned body vanishes. What appears instead is “all body”, followed by the refinding of edge.
+
+
+## discussion
+
+The philosopher Rupert Spira writes how consciousness "takes the shape of the next awareness" and may identify itself with the body as a part of that awareness. When it does this it "forgets itself" [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
+
+---
+
 
 I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
 
@@ -148,10 +191,7 @@ gradual changes but then absolute. dawn/dusk not right -- like the sun is settin
 > Performers are able to shift across a full register, from explicit conscious control to implicit pre-reflective consciousness and to spontaneous body-schematic processes, adjusting their attunement to changing conditions through improvisation.[@gallagher-2020-meshed p.5]
 - note that he is talking about skilled performance based on his own and Christensen et al's work (re meshed architecture)
 
-1. The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)
-2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.
-3. A key shift appears between “awareness-ing” or attending to bodily sensation and becoming “the passenger”, where agency feels reduced or displaced.
-4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.
+
 
 ## nda and agency / self / knowing
 
@@ -194,7 +234,7 @@ Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c70
 
 +++++ 
 - Note: p.1649
-  -- very very strong
+  -- very very strong; also possibly have a section called "the idea of a self"? (or similar)
 
 [[Zoran Josipovic - Nondual Awareness and Minimal Phenomenal Experience#^de97ee]] - this is very important for phenomenological description that approximates the experience (??)
 
@@ -205,6 +245,8 @@ josipovic-2024-reflexivity.pdf is very useful description of non-representationa
 Although these phenomena and ideas are not precisely the same, what they have in common is the way in which they explicitly or implicitly transgress or interrupt conventional understandings and experiences of a self. The term nonduality or nondual awareness ... -- and then add focus on [[nonduality]]
 
 _Waking Up_ is a software application developed by neuroscientist, philosopher and podcaster Sam Harris (who himself is influenced by the Dzogchen tradition) and it contains a large number of meditations, conversations, lectures and practices exploring secular mindfulness. In a brief audio recording called _What is Mindfulness?_ Harris describes the illusion of self and nondual awareness in which the subject-object dichotomy collapses: 
+
+> [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-whata]
 
 - [[consciousness-as-such]]
 
@@ -224,8 +266,6 @@ Disattention - paradox. Like I'm attending less but get 'more' as a consequence.
 
 - am I talking about a stream here? It's dangerous territory to communicate
 
-> [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-whata]
-
 > Our results lend further evidence to the claims that NDA meditations are different from both FA and OM meditations. While FA and OM meditations are traditionally regarded as “constructed” states created through deployment of speciﬁc attentional strategies, NDA meditations are thought not to involve intentional effort, but to be based on identifying a reﬂexive awareness that is regarded as “unconstructed” (Mipam and Hopkins, 2006). Additionally, both FA and OM meditations are content-oriented, concerned with the speciﬁcs of experience, while NDA meditations could be seen as primarily context-oriented, concerned with the context of experience. (Zoran Josipovic, Influence of Meditation on Anti-Correlated Networks in the Brain)
 
 
@@ -241,9 +281,9 @@ While these accounts of presence, attunement and being moved may appear to align
 
 Even if such a threshold exists experientially how might I clearly and convincingly communicate what is happening on either side of it? Further, it is a non-trivial proposal to say that the far side of the threshold is nondual. As such I must convince you of two things. 
 
-First, is that while dancing there is some kind of threshold which separates experiences that are different in kind, such that there lies some path or transition between them (even if that transition is momentary or more akin to a jump cut).
+First, that while dancing there is some kind of threshold which separates experiences that are different in kind, such that there lies some path or transition between them (even if that transition is momentary or more akin to a jump cut).
 
-Second, is that awareness on the far side of dancing, what I am calling _being danced_, is nondual. That is, there ceases to be a subject observing, feeling or knowing the dancer as object. To do this second thing is messy because there are no tools available to directly describe the experience of nonduality. Phenomenology no longer functions as its "mission is to find the irreducibles of subjectivity" [@fraleigh-2000-consciousness p.56], and therefore requires a perceiving subject and an object able to be experienced [@krageloh-2019-phenomenological]. 
+Second, that awareness on the far side of dancing, what I am calling _being danced_, is nondual. That is, there ceases to be a subject observing, feeling or knowing the dancer as object. To do this second thing is messy because there are no tools available to directly describe the experience of nonduality. Phenomenology no longer functions as its "mission is to find the irreducibles of subjectivity" [@fraleigh-2000-consciousness p.56], and therefore requires a perceiving subject and an object able to be experienced [@krageloh-2019-phenomenological]. 
 
 Therefore, there are three key phenomena in this temporal cross-section: _dancing_, the threshold and _being danced_. If _being danced_ is nondual then it is only the experience of _dancing_ in two conditions that is reliably able to be described phenomenologically: i) the dancing that was happening before or leading up to the threshold, and ii) the dancing that was happening after returning back from _being danced_. This is because while _being danced_ there is no object to observe, and no subject to do that observing. _Being danced_ -- and perhaps even moments in the threshold itself -- resist direct capture as objects of phenomenological inquiry.
 
@@ -526,7 +566,7 @@ Sam Harris Waking Up guided meditation:
 
 https://dynamic.wakingup.com/daily/DA76E90?source=content%20share&share_id=5B68379A&code=SC73A05B4
 
-> We all spend a lot of time thinking about ourselves but how we appear to others about who we are in our lives and in the world about whether we are the person we want to be or expected to be but notice that this is who you are in this moment. You are precisely this experience. This moment of hearing, this moment of seeing. See if you can drop all of your ideas about yourself and sink into this moment of practice. There is always just this whatever else seems to be happening. (5:21min)
+> We all spend a lot of time thinking about ourselves but how we appear to others about who we are in our lives and in the world about whether we are the person we want to be or expected to be but notice that this is who you are in this moment. You are precisely this experience. This moment of hearing, this moment of seeing. See if you can drop all of your ideas about yourself and sink into this moment of practice. There is always just _this_ whatever else seems to be happening. (5:21min)
 
 > This practice is simply about being non distracted by the automaticity of thought. What's left when you're not distracted, is nothing but the vividness of conscious experience. Seeing, hearing, smelling, tasting, touching ... the arising of an emotion. (8:55min)
 
@@ -583,6 +623,11 @@ https://www.themarginalian.org/2026/05/04/trying-not-to-try-slingerland/
 -- Mindball for thresholds- about desire and not wanting. might be a useful way in
 
 # sleeping kittens
+
+> After this timeless interval, Consciousness takes the shape of the next appearance and may identify itself with a part of this appearance, a body. In doing so it ‘forgets’ itself and thereby appears to veil itself from itself.[@spira-2008-transparency]
+
+
+Such widening of attention is more _field-like_ if the sensorium can be described as a field. 
 
 Here's Rupert Spira on the difference between non-judgement and benevolent indifference: 
 
