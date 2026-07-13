@@ -1,3 +1,4 @@
+
 ---
 aliases: 
 tags: 
@@ -5,7 +6,7 @@ type: book chapter
 platform: 
 status: in progress
 status-updated: "20260609"
-csl: /Users/nothing/Dropbox/pandoc/chicago-author-date-16th-edition.csl
+csl: /Users/skiptime/Dropbox/pandoc/chicago-author-date-16th-edition.csl
 
 ---
 
@@ -21,11 +22,12 @@ At its centre is a phenomenological analysis of the threshold as being a moment 
 
 The discussion situates these findings within wider discourse on flow, presence and non-dual awareness, and considers how somatic training acts as an attentional bias, inclining dance and somatic practitioners to overemphasise the body's role in accessing such direct experience. While the research has implications for improvisation as performance, its primary contribution lies in resisting the lure of corporeal reductionism while articulating the possibilities of corporeality as a conduit for non-dual experience – how the body, through movement, reveals ways of being that momentarily dissolve the boundaries of selfhood. 
 
+
+## Introduction: dancing and being danced
+
 > The urge to transcend self-conscious selfhood is, as I have said, a principal appetite of the soul. 
 
 -- Huxley [-@huxley-1954-doors p.67]
-
-## Introduction: dancing and being danced
 
 The alarm sounds.
 
@@ -39,7 +41,7 @@ Where was I before the alarm sounded? Who was I before the alarm sounded? Was _I
 
 ---
 
-This chapter details a tangible yet delicate part of dancing: the threshold between knowing _one_ is dancing and ceasing to be aware that there is a _one_. In dance, the two sides of that threshold are commonly evoked by phrases like 'moving and being moved' [@adler-2002-offering p.30] or dancing and being danced. We understand a version of the concept at its most clichéd through Yeats' question, 'How can we know the dancer from the dance?' [-@yeats-1951-collected p.212]. Yet Yeats' idea also endures as a trope because it reflects the complex phenomenology of agency one experiences when dancing. If it sometimes feels as if it is not me (or anyone) doing this dancing then who or what is? 
+This chapter details a tangible yet delicate part of dancing: the threshold between knowing _one_ is dancing and ceasing to be aware that there is a _one_. In dance, the two sides of that threshold are commonly evoked by phrases like 'moving and being moved' [@adler-2002-offeringa p.30] or dancing and being danced. We understand a version of the concept at its most clichéd through Yeats' question, 'How can we know the dancer from the dance?' [-@yeats-1951-collected p.212]. Yet Yeats' idea also endures as a trope because it reflects the complex phenomenology of agency one experiences when dancing. If it sometimes feels as if it is not me (or anyone) doing this dancing then who or what is? 
 
 In the following pages I pay close attention to this threshold across which agency appears to transit as it morphs: between dancing and being danced. On the _dancing_ side of the threshold are the familiar subject–object configurations through which experience is ordinarily organised: I have a body, I am dancing in space, I am doing these actions as an agentic human being. On the _being danced_ side, I suggest, those configurations no longer hold. While _being danced_ phenomenological description reaches its limit not because nothing is happening, but because the structures, systems and habits that render experience intelligible as subject and object have fallen away. In other words _being danced_ is a nondual experience in which, it follows, there is no self.
 
@@ -99,25 +101,27 @@ In this chapter I use the word _dancing_ rather than improvising to describe the
 
 – Lisa Nelson [in @despain-2014-landscape p.39]
 
-The dancing in this research was [[authentic movement]], and it normally involves two people taking turns in two different roles: a mover who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
+The dancing in this research was [[authentic movement]], and it normally involves two people taking turns in two different roles: a mover/dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
 [^am]: For more detail regarding authentic movement, including ongoing questions about the name of the form itself, see Amy Voris's _Forming and Returning: Dance-Making with Authentic Movement_ [-@voris-2010-forming] and Jane Bacon's _Authentic Movement: A field of practices_ [-@bacon-2015-authentic]
 
-Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a 'mystical practice' [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming], as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], all while maintaining its roots in therapy [e.g. @stromsted-2026-souls]. It is not surprising therefore that Jane Bacon describes authentic movement as a 'field of practices' [@bacon-2015-authentic p.205]. 
+Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a 'mystical practice' [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming], and as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], all while maintaining its roots in therapy [e.g. @stromsted-2026-souls]. It is not surprising therefore that Jane Bacon describes authentic movement as a 'field of practices' [@bacon-2015-authentic p.205]. 
 
 Somatic practices like authentic movement focus on internal bodily attunement, and an important aspect of such practices is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of the dancer [@ellis-2020-corporeal]. The irrelevance of how the dancing appears is one thing that separates most somatic practices from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
 Katye and I were not practising authentic movement for any particular reason. Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself. It was autotelic. We were dancing for its own sake – not wanting anything from it – and it felt this way even as part of a small research activity funded as pump-priming for a larger project. This autotelic practice, with deep intrinsic enjoyment, is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular.
 
 In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
+
 In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
+
 for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance? 
 
-This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-from; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetic], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. 
+This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. 
 
 The studio work with Katye and this analysis extend previous work in which I have explored the ways in which authentic movement meets epistemology [@ellis-2020-corporeal] and questions of documentation [@ellis-2020-currency].  add something here.
 
-Therefore, the studio-based work with Katye becomes a kind of case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow (e.g. Montero) but that overlaps with a form of attentional expertise [see for example @lutz-2008-attention]. 
+Therefore, the studio-based work with Katye becomes a kind of case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow ([e.g. @montero-2018-thought]) but that overlaps with a form of attentional expertise [see for example @lutz-2008-attention]. 
 
 - opens possibility that the threshold between dual and non-dual is a case-study that has applications in different fields: dance, somatics, neurophenomenology (overstating this), cognition, philosophy ....? 
 
@@ -129,8 +133,6 @@ Therefore, the studio-based work with Katye becomes a kind of case study of a bo
 2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.
 3. A key shift appears between "awareness-ing" or attending to bodily sensation and becoming "the passenger", where agency feels reduced or displaced.
 4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.
-
-OpenAI
 
 ### architecture of the experience
 
@@ -165,9 +167,14 @@ The difference between deep sensory improvising and the disappearance of the org
 Because the improvisations were timed and ended with an alarm, the return to ordinary life could happen from either deep sensory dancing or dancing without an organiser. The harshness and potential discombobulation of the ending would depend on which kind of dancing experience was interrupted. As Katye observes, "it's clear, like there's a reorienting that goes on and there's a kind of coming back that's happening" (Coe, 9 February 2024 pm; conversation 8 of 13).
 
 
-## findings / discussion
+## findings / discussion (contribution)
 
 ### conditions for the experience
+
+- conditions matter -- to be precise/specific about what kind of practice this is
+- this is a 'plea' for specificity 
+- untangle from Montero? 
+- overlap with flow? 
 
 ### body-mindfulness
 
@@ -196,10 +203,12 @@ Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovi
 One is being aware that there is an experience happening (which in itself is a deep immersed experience) to the other in which you become the experience. It's so subtle yet utterly obvious. 
 
 Is there a 'bardo' in this work. "intermediate state between conditions"
-gradual changes but then absolute. dawn/dusk not right -- like the sun is setting and setting then once it's gone complete darkness. Or a gradient like that suggested by [[Josipovic - Implicit–explicit gradient of nondual awareness]]
+gradual changes but then absolute. dawn/dusk not right -- like the sun is setting and setting then once it's gone complete darkness. Or a gradient like that suggested by [[Josipovic - Implicit–explicit gradient of nondual awareness]]. Made me think it's more like the transition into general anaesthesia. 
 
 > Performers are able to shift across a full register, from explicit conscious control to implicit pre-reflective consciousness and to spontaneous body-schematic processes, adjusting their attunement to changing conditions through improvisation.[@gallagher-2020-meshed p.5]
+
 - note that he is talking about skilled performance based on his own and Christensen et al's work (re meshed architecture)
+- but for me it's more like allowing something to happen as opposed to choosing something to happen. This diminishment of agency seems important or not to be underestimated. See below re explanation and telos.
 
 
 
@@ -207,7 +216,7 @@ gradual changes but then absolute. dawn/dusk not right -- like the sun is settin
 
 notion of a 'glimpse' — 
 
-"And then there is the practice of choiceless awareness. Given that the field of awareness we have been cultivating through the various practices described above is fundamentally limitless by nature, we can expand our awareness still further, beyond even attending specifically to the stream of our own thoughts and emotions arising and passing away in each moment. We can, instead, allow the field of awareness to be essentially infinite, boundless, like space itself, or like the sky, noting that it can include any and all aspects of our experience, interior and exterior, sensory, perceptual, somatic, emotional, cognitive as primary objects of attention, and that we can rest in this vast, sky-like field of awareness without choosing among or specifically featuring any of these particular occurrences. Instead, we allow them all to come and go, appear and disappear, as they will, and be known in their fullness from moment to moment within the nowscape. This is the practice of what Krishnamurti called choiceless awareness, akin to the practice of shikan-taza, or "just sitting—nothing more" in Zen, and to Dzogchen in the Tibetan tradition" (Jon Kabat-Zinn, Kabat-Zinn-2018-Falling)
+> And then there is the practice of choiceless awareness. Given that the field of awareness we have been cultivating through the various practices described above is fundamentally limitless by nature, we can expand our awareness still further, beyond even attending specifically to the stream of our own thoughts and emotions arising and passing away in each moment. We can, instead, allow the field of awareness to be essentially infinite, boundless, like space itself, or like the sky, noting that it can include any and all aspects of our experience, interior and exterior, sensory, perceptual, somatic, emotional, cognitive as primary objects of attention, and that we can rest in this vast, sky-like field of awareness without choosing among or specifically featuring any of these particular occurrences. Instead, we allow them all to come and go, appear and disappear, as they will, and be known in their fullness from moment to moment within the nowscape. This is the practice of what Krishnamurti called choiceless awareness, akin to the practice of shikan-taza, or "just sitting—nothing more" in Zen, and to Dzogchen in the Tibetan tradition [@kabat-zinn-2018-falling]
 
 If _being danced_ is a nondual experience then it follows by definition that one's sense of self dissolves. This is because in order to recognise a self in consciousness there must be an I (as subject) being aware of its self (as object). 
 
@@ -217,8 +226,9 @@ But what kind of activity is AM? a skill? a practice? Are some people _better_ o
 
 
 NDA positioned explicitly as:
-	+ a lens that names loss of subject–object structure
-	+ not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
+
++ a lens that names loss of subject–object structure  
++ not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
 
 samadhi
 
@@ -229,6 +239,7 @@ What if I write to the differences (between either side of the threshold?) as be
 > To quote just one example, from a recent paper: ‘Even though intuitive processes themselves remain unconscious, they produce outcomes such as intuitions or gut feelings that we can consciously attend to … and use in our judgements.'28 Familiar enough, and seemingly innocuous – yet who or what is this ‘we' that is attending, being informed and making judgements? Both everyday and academic talk constantly smuggle in the idea of the ghostly agent – the mind – that is clearly other than the workings of the body-brain itself. The idea that thinking, and the feeling that there is an inner someone who is ‘doing' the thinking, co-arise when the body-brain finds itself in certain kinds of state is hard to keep hold of, especially once we start talking! [@claxton-2015-intelligence n.pag]
 
 > The apparent experience of a solid object is dissolved in this understanding, and is replaced by the understanding that we in fact experience a series of fleeting, insubstantial perceptions. It is in this sense that ‘everything falls apart.' [@spira-2008-transparency n.pag]
+
 - relates tightly (?) to how I describe things 'falling away' (when the orchestra has no conductor). Also want to be clear that it is not automated or somehow 'subconscious' -- is that right? 
 
 Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c7048f]] -- what is interesting here is the possibility that, as a matter of direct experience and when the self dissolves, I don't have agency. That it is as if the world is pouring through the skin and bones and tissues that usually I associate with 'my body'. 
@@ -239,12 +250,14 @@ Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c70
 
 > It makes a great deal of biological, psychological, and ecological sense instead to think of awareness as a constant modulation of the open interaction between an organism and its environment, of the adjustment of the state of the organism and attunement of the posture and goals of the organism as its senses and movements interact with the world it inhabits. In other words, we can think of awareness as a mode of embedding of the organism in its world, instead of as the relation between an interior subject and an exterior object, even if that is how it appears to us in introspection. To think of awareness in this way is to take seriously the idea that we don't stand against the world as subjects that detect its properties or agents that act on it, but instead are part of the world, and that awareness is more an attunement to our environment than a recording in our minds of what is going on outside. This approach to cognition, which is called the "embedded, embodied, enactive" model of cognition, is gaining wide acceptance among philosophers and cognitive scientists. [@garfield-2022-losing n.pag]
 
+- this feels like where I am going with the alignment of the context/conditions -- as a modulation of environment. part of that environment is the subsidence of desire.
+
 
 > Another experiential property of consciousness is the sense of self, the feeling of being a subject of experience and an agent of action. The sense of self is not one thing. It includes many different elements, such as the bodily self, the mental self experienced in memory and anticipation, the self as a personal storyline (the narrative self), and the social self. Each of these aspects in turn can be analyzed into distinct facets. For example, the bodily self includes the feelings of ownership ("this body is mine"), agency ("I'm the one making this movement"), self-location ("I'm in my body"), and egocentric perception ("I'm seeing the world through my own eyes"). [@frank-2024-blind]
 
-+++++ 
-- Note: p.1649
-  -- very very strong; also possibly have a section called "the idea of a self"? (or similar)
+- Note: p.1649  
+- very very strong; also possibly have a section called "the idea of a self"? (or similar)  
+- note also that I think I'm focusing on a particular kind of self which map to many of the things re bodily self that Frank et al describe  
 
 [[Zoran Josipovic - Nondual Awareness and Minimal Phenomenal Experience#^de97ee]] - this is very important for phenomenological description that approximates the experience (??)
 
@@ -254,7 +267,7 @@ josipovic-2024-reflexivity.pdf is very useful description of non-representationa
 
 Although these phenomena and ideas are not precisely the same, what they have in common is the way in which they explicitly or implicitly transgress or interrupt conventional understandings and experiences of a self. The term nonduality or nondual awareness ... -- and then add focus on [[nonduality]]
 
-_Waking Up_ is a software application developed by neuroscientist, philosopher and podcaster Sam Harris (who himself is influenced by the Dzogchen tradition) and it contains a large number of meditations, conversations, lectures and practices exploring secular mindfulness. In a brief audio recording called _What is Mindfulness?_ Harris describes the illusion of self and nondual awareness in which the subject-object dichotomy collapses: 
+_Waking Up_ is a software application developed by neuroscientist, philosopher and podcaster Sam Harris (who himself is trained in and influenced by the Dzogchen tradition) and it contains a large number of meditations, conversations, lectures and practices exploring secular mindfulness. In a brief audio recording called _What is Mindfulness?_ Harris describes the illusion of self and nondual awareness in which the subject-object dichotomy collapses: 
 
 > [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-whata]
 
@@ -268,22 +281,18 @@ _Waking Up_ is a software application developed by neuroscientist, philosopher a
 -- https://shinyspores.co.uk/unraveling-the-dream-documentary-review/
 -- that loosening or weakening of the top-down -- makes perfect sense.
 
-"We probably don't think much about proprioception because, in some sense, it's always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of 115paying attention – a kind of ‘disattention' to the body, which allows it to move." (Seth, Anil, Seth-2021-Being)
+> We probably don't think much about proprioception because, in some sense, it's always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of paying attention – a kind of ‘disattention' to the body, which allows it to move.[@seth-2018-being]
 
 Disattention - paradox. Like I'm attending less but get 'more' as a consequence. I like this a lot. Like it's a mechanism for what is happening in the dancing.
-
-> If he has an argument, it is with thinkers such as Hume and Locke, who regarded thoughts as discrete entities, one closely following another—as in a "train," Locke said—but each capable of being set apart and examined on its own. But a stream is very different from a train, and James takes his riverine metaphor seriously. (It is not original to him, as we will see.) [@pollan-2026-world loc2525]
-
-- am I talking about a stream here? It's dangerous territory to communicate
 
 > Our results lend further evidence to the claims that NDA meditations are different from both FA and OM meditations. While FA and OM meditations are traditionally regarded as "constructed" states created through deployment of speciﬁc attentional strategies, NDA meditations are thought not to involve intentional effort, but to be based on identifying a reﬂexive awareness that is regarded as "unconstructed" (Mipam and Hopkins, 2006). Additionally, both FA and OM meditations are content-oriented, concerned with the speciﬁcs of experience, while NDA meditations could be seen as primarily context-oriented, concerned with the context of experience. (Zoran Josipovic, Influence of Meditation on Anti-Correlated Networks in the Brain)
 
 
 it's even more than 'being danced' -- it ceases to be dancing. it's non-dancing. it's the movement that remains when there is non dancing. moving while non-dancing. 
 
-"Underneath the layered expressions of selfhood involving memories of the past and plans for the future, before the explicit sense of personal identity, beneath the ‘I' and even prior to the emergence of a first-person perspective and experiences of body ownership, there are deeper layers of selfhood still to be found. These bedrock layers are intimately tied to the interior of the body, rather than to the body as an object in the world, and they range from emotions and moods – what psychologists call ‘affective' experiences – to a basal, formless, and ever-present sense of simply ‘being' an embodied, living organism." (Seth, Anil, Seth-2021-Being)
+> Underneath the layered expressions of selfhood involving memories of the past and plans for the future, before the explicit sense of personal identity, beneath the ‘I' and even prior to the emergence of a first-person perspective and experiences of body ownership, there are deeper layers of selfhood still to be found. These bedrock layers are intimately tied to the interior of the body, rather than to the body as an object in the world, and they range from emotions and moods – what psychologists call ‘affective' experiences – to a basal, formless, and ever-present sense of simply ‘being' an embodied, living organism. [@seth-2018-being] 
 
-"According to Josipovic ([2019](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR28)), nondual awareness is an underlying awareness in all conscious experiences, even if left unrealized. It could be that flow states tap into or uncover portions of this nondual awareness, revealing nondual features of experience to the individual." (Julianna M. Lynch & Allison S. Troy, The Role of Nonduality in the Relationship Between Flow States and Well-Being)
+> According to Josipovic ([2019](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR28)), nondual awareness is an underlying awareness in all conscious experiences, even if left unrealized. It could be that flow states tap into or uncover portions of this nondual awareness, revealing nondual features of experience to the individual. [@lynch-2021-role]
 
 While these accounts of presence, attunement and being moved may appear to align with psychological models of absorption, the threshold I am describing is not simply a matter of intensified engagement but a qualitative shift in the structure of agency itself.
 
@@ -295,7 +304,7 @@ First, that while dancing there is some kind of threshold which separates experi
 
 Second, that awareness on the far side of dancing, what I am calling _being danced_, is nondual. That is, there ceases to be a subject observing, feeling or knowing the dancer as object. To do this second thing is messy because there are no tools available to directly describe the experience of nonduality. Phenomenology no longer functions as its "mission is to find the irreducibles of subjectivity" [@fraleigh-2000-consciousness p.56], and therefore requires a perceiving subject and an object able to be experienced [@krageloh-2019-phenomenological]. 
 
-Therefore, there are three key phenomena in this temporal cross-section: _dancing_, the threshold and _being danced_. If _being danced_ is nondual then it is only the experience of _dancing_ in two conditions that is reliably able to be described phenomenologically: i) the dancing that was happening before or leading up to the threshold, and ii) the dancing that was happening after returning back from _being danced_. This is because while _being danced_ there is no object to observe, and no subject to do that observing. _Being danced_ -- and perhaps even moments in the threshold itself -- resist direct capture as objects of phenomenological inquiry.
+Therefore, there are three key phenomena in this temporal cross-section: _dancing_, the threshold and _being danced_. If _being danced_ is nondual then it is only the experience of _dancing_ in two conditions that is reliably able to be described phenomenologically: i) the dancing that was happening before or leading up to the threshold, and ii) the dancing that was happening after returning back from _being danced_. This is because while _being danced_ there is no object to observe or feel, and no subject to do that observing or feeling. _Being danced_ – and perhaps even moments in the threshold itself – resist direct capture as objects of phenomenological inquiry.
 
 The messiness I describe above is because there is epistemic, structural and methodological danger at the heart of this research. By proposing an experience as nondual it is by no means enough to merely state that those experiences of dancing are not able to be rendered as describable objects. That will not do. Instead, my method is to treat _being danced_ as if it were an object under phenomenological investigation. To throw everything at the _being danced_ experience with precision, rigour and scepticism that only failure to describe it might substantiate it as being beyond phenomenological insight. In doing so I hope to make the practice, methods, analysis and conclusions open to scrutiny.
 
@@ -312,16 +321,13 @@ My concern is not any one component of dancing taken in isolation. Dancing is bo
 - Why dancers may over-privilege bodily routes to non-duality.
 - Explicit resistance to dance exceptionalism.
 
-"As a result of lots of previous actions, my movements are partially and automatically encoded in terms of their anticipated effects on perception.11" (Guy Claxton, Intelligence in the Flesh Why Your Mind Needs Your Body Much More Than It Thinks). also reminded
+"As a result of lots of previous actions, my movements are partially and automatically encoded in terms of their anticipated effects on perception.11" (Guy Claxton, Intelligence in the Flesh Why Your Mind Needs Your Body Much More Than It Thinks).
 
 all related to precision weighting? [This summary is excellent on llm](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
 and [useful re canonical references](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
 
 "So through repetition and training in these skills of noticing, differentiating, and discerning, individuals engaged in mind-body practices that involve the body are immersed in a process that leads to embodiment and integration." (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
 
-"And then there is the practice of choiceless awareness. Given that the field of awareness we have been cultivating through the various practices described above is fundamentally limitless by nature, we can expand our awareness still further, beyond even attending specifically to the stream of our own thoughts and emotions arising and passing away in each moment. We can, instead, allow the field of awareness to be essentially infinite, boundless, like space itself, or like the sky, noting that it can include any and all aspects of our experience, interior and exterior, sensory, perceptual, somatic, emotional, cognitive as primary objects of attention, and that we can rest in this vast, sky-like field of awareness without choosing among or specifically featuring any of these particular occurrences. Instead, we allow them all to come and go, appear and disappear, as they will, and be known in their fullness from moment to moment within the nowscape. This is the practice of what Krishnamurti called choiceless awareness, akin to the practice of shikan-taza, or "just sitting -- nothing more" in Zen, and to Dzogchen in the Tibetan tradition" (Jon Kabat-Zinn, Kabat-Zinn-2018-Falling)
-
-- noting that what is different is the emphasis (right word?) on bodily sensation - but perhaps this is just a training bias?
 
 does Sheets-Johnstone reify the body? 
 
@@ -341,9 +347,9 @@ Consciousness is organisms attempt to reduce uncertainty. "felt uncertainty" -- 
 
 The person who has written extensively about the sense of self changing when dancing (and doing other high level skills) is Barbara Montero. And Montero does not think or believe that the self is lost while doing complex skills. Her book _Thought in Action_ [-@montero-2016-thought] is a reaction to the appealing (and seemingly uncontested) idea that thinking interferes with high-level performance. Related is idea that because expert activity appears effortless then it must also be unreflective. She refers to her "theory of effortful expertise" [@montero-2016-thought p.6]. 
 
-> what is more often meant by the claim that expert action should be easy is that during a performance, an expert doesn't and shouldn't think much about what she is doing; rather, the expert acts intuitively and automatically.[@montero-2013-dancer p.304]
+> what is more often meant by the claim that expert action should be easy is that during a performance, an expert doesn't and shouldn't think much about what she is doing; rather, the expert acts intuitively and automatically. [@montero-2013-dancer p.304]
 
-> _The principle of automaticity_. When all is going well, expert performance significantly involves neither self-reflective thinking, nor planning, nor predicting, nor deliberation, nor mental effort.[@montero-2013-dancer p.304]
+> _The principle of automaticity_. When all is going well, expert performance significantly involves neither self-reflective thinking, nor planning, nor predicting, nor deliberation, nor mental effort. [@montero-2013-dancer p.304]
 
 
 > my concern is not with the evolutionary explanation of why certain movements are pleasurable, but rather with the reciprocal pleasure principle: what is it about such movements that makes them pleasurable – in particular, does it involve a loss of the self? And does the pleasure of being fully engaged or immersed in the movement lead to a loss of the self? [@montero-2016-thought p.181]
@@ -388,11 +394,14 @@ Illuminating argument -- skilled, pleasure, diminished self. What kinds of activ
 ## The threshold and its conceptual neighbours
 
 I start by tracing the conceptual neighbours of the threshold through three lenses: dance and somatic practices, flow and non-dual awareness.  
+
 > Two mistaken inferences are then commonly made: one that nondual awareness is a mere absence of phenomenal contents akin to deep sleep, the other that nondual awareness can only be known retroactively through a subsequent cognition that takes that unconscious state as its
-object.[@josipovic-2019-nondual p.278]
+object. [@josipovic-2019-nondual p.278]
 
 - he mentions this specifically -- in relation to discussion of substrate. See also:
-> Episodes of explicitly present NDA that is isolated from other phenomenal content, such as those that can occur with contemplative practice or in lucidity during deep sleep, can be regarded as episodes of MPE since no phenomenal content is present other than awareness itself (Josipovic, 2019).[@josipovic-2020-nondual p.2]
+
+> Episodes of explicitly present NDA that is isolated from other phenomenal content, such as those that can occur with contemplative practice or in lucidity during deep sleep, can be regarded as episodes of MPE since no phenomenal content is present other than awareness itself (Josipovic, 2019). [@josipovic-2020-nondual p.2]
+
 - mentioned elsewhere in this document re yoga sleep
 
 ### Dance and somatic practices: moving and being moved
@@ -409,7 +418,9 @@ Paxton is unusual in attempting to articulate both sides of the threshold or wha
 
 Then there are those artists whose descriptions of the complexities of improvised dancing reveal deep corporeal attunement only on _this_ side -- the _I am dancing_ side -- of the threshold. For instance, Barbara Dilley asks 'And what is that self-conscious state when one is simply highly aware and the self is part of that awareness?' [in @despain-2014-landscape p.63]. Similarly, Ruth Zaporah describes how she finds herself _doing things_, and that 'there's also this kid that's excited about it inside of me' who isn't judging the dancing [@despain-2014-landscape p.71]. - relates to lantern focus of children's consciousness (vs spotlight)
 
-"Barbara Dilley: I think tracking is a training, and as a teacher of improv, I'm training that in specific ways. In a meditative language, you are learning to layer through familiarity, through repetition of improvisational practices, mindfulness of what it is that you are doing, establishing a comfort with the flow of energy in a moving body. I work with these three little disciplines—slowness, stillness, and repetition—as a way of slowing down the nervous system to allow tracking and, again, to soothe a kind of excitation that I think is inherent in improvisation; that it rides on speed. It can accumulate a kind of speed which then inhibits tracking. So then you bring that individual environment into relationship with other, and that's a very big landscape." (Kent De Spain, Landscape of the Now)
+> I think tracking is a training, and as a teacher of improv, I'm training that in specific ways. In a meditative language, you are learning to layer through familiarity, through repetition of improvisational practices, mindfulness of what it is that you are doing, establishing a comfort with the flow of energy in a moving body. I work with these three little disciplines—slowness, stillness, and repetition—as a way of slowing down the nervous system to allow tracking and, again, to soothe a kind of excitation that I think is inherent in improvisation; that it rides on speed. It can accumulate a kind of speed which then inhibits tracking. So then you bring that individual environment into relationship with other, and that's a very big landscape. [Barbara Dilley, in @despain-2014-landscape]
+
+does 'tracking' in this sense relate to how KC and I describe this in the analysis section? 
 
 What the threshold distinguishes from adjacent accounts of presence or absorption is not intensity but a critical junction across which selfhood is porous: on one side, experience retains a reflexive subject; on the other, the distinction between subject and object no longer holds. The implication is that both sides of the bardo are deeply embodied and highly attuned experiences, yet they are, as I argue in this chapter, different in kind. 
 
@@ -417,7 +428,7 @@ I use the Tibetan Buddhist word _bardo_ as it describes 'a transitional period b
 
 Healing and therapy through movement are vital concerns to many somatic practitioners [@eddy-2009-brief] and their practices are often tied to experiencing one's true self. In her phenomenology of dance writing _Consciousness Matters_ Sondra Fraleigh writes that through somatic bodywork 'I have also experienced the surfacing of this healing landscape, that aspect of my core self that I have come to trust as mythic and creative' [-@fraleigh-2000-consciousness p.58]. 
 
-While such accounts frame somatic practice as a route toward healing and the recovery of a core or mythic self, other writers situate these same practices less in terms of self-discovery than in relation to contemplative or meditative presence. Marcow-Speiser and Franklin [-@marcow-speiser-2007-authentic] acknowledge the contemplative aspects of authentic movement that overlap with 'traditional meditative practices' [-@marcow-speiser-2007-authentic p.70] and the 'radical gesture of "just being" in the present moment' [-@marcow-speiser-2007-authentic p.70]. They say directly that authentic movement is a meditative practice in which the present moment is not simply a point in time but a mode of awareness. 
+While such accounts frame somatic practice as a route toward healing and the recovery of a core or mythic self, other writers situate these same practices less in terms of self-discovery than in relation to contemplative or meditative presence. Marcow-Speiser and Franklin [-@marcow-speiser-2007-authentic] acknowledge the contemplative aspects of authentic movement that overlap with 'traditional meditative practices' [-@marcow-speiser-2007-authentic p.70] and the 'radical gesture of "just being" in the present moment' [-@marcow-speiser-2007-authentic p.70]. They say directly that authentic movement is a meditative practice in which the present moment is not simply a point in time but a mode of awareness. (note: 'mode' of awareness just doesn't make sense. It's more like a mode of attention. awareness happens to us. )
 
 In _Thinking in Movement_ [-@sheets-johnstone-1981-thinkinga] Sheets-Johnstone refers to an ongoing present: 
 
@@ -472,35 +483,34 @@ Seth on importance of subjective experience (first person)
 
 Need to understand what phenomenology means by 'lived experience'. See Lumo prompt (Proton LLM)
 
-"And this is a good thing for at least two reasons. First, immersed phenomenology is less likely to lead us into the error of positing the self. This is because the subject-object duality that thematizes the self as the subject of experience or the agent of action is itself a misleading structural superimposition on experience, a superimposition absent in immersed experience. Second, immersed phenomenology is indicative of expertise, and facilitates more fluid, successful performance." (Jay L. Garfield, Losing Ourselves)
+> And this is a good thing for at least two reasons. First, immersed phenomenology is less likely to lead us into the error of positing the self. This is because the subject-object duality that thematizes the self as the subject of experience or the agent of action is itself a misleading structural superimposition on experience, a superimposition absent in immersed experience. Second, immersed phenomenology is indicative of expertise, and facilitates more fluid, successful performance. [@garfield-2022-losing]
 
 look at the questions these were asked: 
-"Practitioners were asked the following questions:" (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
+
+> Practitioners were asked the following questions [@mehling-2011-body] 
 
 perhaps [[Dunne - Mindful meta-awareness]] is useful here -- meta-awareness as being this quiet 'monitoring'.
 
 ### 3.2 The problem:
 
-NDA critiques that claim phenomenology fails at precisely this point.
 
 - but how might nonduality (awareness / consciousness) be the object of research through practice? (it's illogical). 
 
 	+ phenomenology -- see [[Krägeloh - Phenomenological Research Fails to Capture the Experience of Nondual Awareness]]
 
-
 - [[Fraleigh - Consciousness Matters]]
-
 
 On this point re Krägeloh and the limits of phenomenology:
 
 > However, the thought about Consciousness or Reality is unique amongst all thoughts. When we try to think of Consciousness, it is like looking into a black hole. It is not even black. The mind simply cannot go there. It cannot go to that objectless place because the mind is itself an object. How could an object fit into a space that has no dimensions? [@spira-2008-transparency] - this is a huge limit
 
-"However, at times Consciousness divides the totality of experience into two camps. Everything that is part of the ‘not me' camp is called ‘the world.' Everything that is part of the ‘me' camp is called ‘the body/mind.'" (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
+> However, at times Consciousness divides the totality of experience into two camps. Everything that is part of the ‘not me' camp is called ‘the world.' Everything that is part of the ‘me' camp is called ‘the body/mind.' [@spira-2008-transparency]
 
 Is the following useful (both re above) and also [[sati, mindfulness and remembering]]:
+
 > However, the essence of the experience, a moment of Consciousness knowing itself knowingly, is colourless and transparent, and therefore cannot be remembered. [@spira-2008-transparency] 
 
-For the purposes of this writing I consider awareness and consciousness as the same thing (e.g. Antonio Damasio – Self Comes to Mind (2010) and David Chalmers – The Conscious Mind (1996)
+For the purposes of this writing I consider awareness and consciousness as the same thing [e.g. @damasio-2010-self] and David Chalmers – The Conscious Mind (1996)
 
 ### 3.3 My  stance:
 
@@ -514,7 +524,7 @@ Not crossing into something but rather leaving something make believe or usefull
 
 "Consciousness is in the looking, not in the looked for" [@spira-2008-transparency n.pag.]. In the dancing, when I become a passenger, the _I_ dissolves into the looking and there is no looked for.  
 
-"Likewise we do not experience the body in the way we normally conceive it. In fact there is no body as such. There is a series of sensations and perceptions appearing in Consciousness. And from time to time there is a thought or an image of a ‘body, ' which is considered to be the sum total of all these sensations and perceptions." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
+"Likewise we do not experience the body in the way we normally conceive it. In fact there is no body as such. There is a series of sensations and perceptions appearing in Consciousness. And from time to time there is a thought or an image of a ‘body', which is considered to be the sum total of all these sensations and perceptions." (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
 
 > All experience takes place here. This here is not a physical space. It is the space of Consciousness in which all experiences, including the apparent experience of space, takes place. A distant sound takes place here. The thought that subsequently conceives that sound to be at a distance from the perceiving Consciousness takes place in the same space as the sound itself. It takes place here. The chair on ‘the other side of the room' is perceived here, in exactly the same place as the sound and the thought, at no distance from Consciousness. All bodily sensations take place in the same placeless place, which is here.[@spira-2008-transparency]
 
@@ -609,7 +619,7 @@ They are epistemic because it examines how knowledge is produced when the knowin
 
 On the matter of direct experience: 
 
-> Direct experience precedes the separation of knower and known, observer and observed. At its core is sheer awareness, the feeling of being. It's with us when we wake up every morning and go to sleep each night. It's easy to overlook because it's so close and familiar. We habitually attend to things instead of noticing awareness itself. We thereby miss a crucial precondition of knowing, for without awareness, nothing can show up and become an object of knowledge.[@frank-2024-blinda]
+> Direct experience precedes the separation of knower and known, observer and observed. At its core is sheer awareness, the feeling of being. It's with us when we wake up every morning and go to sleep each night. It's easy to overlook because it's so close and familiar. We habitually attend to things instead of noticing awareness itself. We thereby miss a crucial precondition of knowing, for without awareness, nothing can show up and become an object of knowledge. [@frank-2024-blind]
 
 This is a description of being on the other side of the threshold. But the paradox is that it precedes the separation of subject and object. It is not a state. Duality is the state. 
 
@@ -633,6 +643,10 @@ https://www.themarginalian.org/2026/05/04/trying-not-to-try-slingerland/
 -- Mindball for thresholds- about desire and not wanting. might be a useful way in
 
 # sleeping kittens
+
+> If he has an argument, it is with thinkers such as Hume and Locke, who regarded thoughts as discrete entities, one closely following another—as in a "train," Locke said—but each capable of being set apart and examined on its own. But a stream is very different from a train, and James takes his riverine metaphor seriously. (It is not original to him, as we will see.) [@pollan-2026-world loc2525]
+
+- am I talking about a stream here? It's dangerous territory to communicate
 
 > After this timeless interval, Consciousness takes the shape of the next appearance and may identify itself with a part of this appearance, a body. In doing so it ‘forgets' itself and thereby appears to veil itself from itself.[@spira-2008-transparency]
 
