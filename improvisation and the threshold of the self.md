@@ -46,17 +46,15 @@ In the following pages I pay close attention to this threshold across which agen
 
 But I am getting ahead of myself.
 
-## Arriving at the threshold
+## Approaching the threshold
 
-In the northern autumn of 2023 professional dancer Katye Coe and I were practicing together in the studio at Coventry University. I had been working with authentic movement for many years – as had Katye – and we gravitated towards experimental versions of the practice. Then, in early 2024, we continued that studio-based dancing as part of a broader research project called _Losing Oneself_.[^losing] In September 2025 I began direct work on this book chapter[^git] and the bulk of the writing and analytical work happened between February and August 2026. 
+In the northern autumn of 2023 professional dancer Katye Coe and I were practicing together in the studio at Coventry University. I had been working with authentic movement for many years – as had Katye – and we gravitated towards experimental versions of the practice. In early 2024 we were given the opportunity to continue our studio-based dancing as part of a broader research project called _Losing Oneself_.[^losing] 
 
-Katye and I practiced together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), with the exception of a morning only on 26 January. Each session went as follows: 
+That dancing lies at the heart of this writing.
 
-1. One person danced and moved, the other watched (or witnessed). The length of each practice varied, but most practices were timed to be 30 minutes.
-2. Changed roles and repeated the practice.[^taking-turns]
-3. Unstructured conversation about the experiences. This means we had thirteen conversations in total, each around 40 minutes long.[^conversations]
+Katye and I practiced together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), with the exception of a morning only on 26 January. A single session followed a pattern in which: 1) one person danced and moved for a timed period (normally 30 minutes) while the other watched (or witnessed); 2) roles were changed and the practice repeated; and 3) an unstructured conversation about the experiences was recorded. This means we had thirteen conversations in total, each around 40 minutes long.[^conversations]
 
-Although in this writing I focus on the threshold between dual and non-dual experiences in dance improvisation, in reality the term _threshold_ referenced a family of transitions in our conversations together. It was not until conversation 10 of 13 (14 February 2024 am) that we explicitly used the word _threshold_ when Katye said, 'There's a threshold. There are many thresholds but first is to actually just go into space and begin.' We started to discuss other types of thresholds: closing one's eyes, the move from 'awareness-ing' to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from the dancing. 
+Although in this writing I focus on the threshold between dual and non-dual experiences in dance improvisation, in reality the term _threshold_ referenced a family of transitions in our conversations together. It was not until conversation 10 of 13 (14 February 2024 am) that we explicitly used the word _threshold_ when Katye said, 'There's a threshold. There are many thresholds but first is to actually just go into space and begin'. We started to discuss other types of thresholds: closing one's eyes, the move from 'awareness-ing' to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from the dancing. 
 
 Earlier in the studio work we did however allude to similar points of transition without using the word _threshold_. We discussed the way 'attention spreads out' or flattens; how the choice to respond or not respond (to internal stimuli or sensation) softens or disappears; when the distinction between movement and sensation blurs; and how one's sense of agency is lost and regained. We talked of how pain or sound can jump the mover back to themselves, and how 'I-ness' becomes less defined: 
 
@@ -68,13 +66,13 @@ Katye's words reveal the extent to which we were framing our thinking and experi
 
 It was not until the final studio sessions that I started to imagine that the broader research project could focus precisely on the moment in time when one slips out of time and out of oneself. 
 
-Then, nearly two and a half years after the initial studio-based research and while I was struggling with drafting this writing, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (on 16 April 2026) a questioning process designed to elicit precise responses to remembered felt experiences. The process seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 she and I met online twice to push deeper into my memory of experiences while dancing.
+Then, nearly two and a half years after the initial studio-based research and while I was drafting this writing, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (on 16 April 2026) a questioning process designed to elicit precise responses to remembered felt experiences. The process seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 she and I met online twice to push deeper into my memory of experiences while dancing.
 
 This writing is therefore constructed from first-person experiences of dancing, unstructured conversations post-dancing between Katye and me, micro-interviews hosted by Rosemary focusing on the threshold, and desk-based work.[^other-data]
 
 ## Dancing: authentic movement and its properties
 
-The dancing in this research was a somatic practice called [[authentic movement]], and it normally involves two people taking turns in two different roles: a mover/dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
+Our research-based dancing was a somatic practice called [[authentic movement]], which normally involves two people taking turns in two different roles: a mover/dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
 Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a 'mystical practice' [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming], and as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], all while maintaining its roots in therapy [e.g. @stromsted-2026-souls]. It is not surprising therefore that Jane Bacon describes authentic movement as a 'field of practices' [@bacon-2015-authentic p.205]. 
 
@@ -92,7 +90,7 @@ This research differs from work that analyses movement [e.g. @koch-2011-movement
 
 The studio work with Katye and this analysis extend previous work in which I have explored the ways in which authentic movement meets epistemology [@ellis-2020-corporeal] and questions of documentation [@ellis-2020-currency]. **need to be specific re questions of doc**.
 
-Therefore, the studio-based work with Katye becomes a case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow ([e.g. @montero-2018-thought]) but that overlaps with a form of attentional expertise [see for example @lutz-2008-attention]. 
+Therefore, the studio-based work with Katye becomes a case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow ([e.g. @montero-2018-thought]) but that overlaps with a form of attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth) — link to other improv writers?
 
 
 
@@ -501,12 +499,9 @@ I am seeking precision such that others can be clear if their experiences are th
 [^nine]: Scientists have long measured flow experiences using a scale with nine dimensions. These nine dimensions are widely cited but are not necessarily stable experiential categories [@peifer-2022-scoping].
 
 
-[^taking-turns]: For the second session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the following day's work. 
-
+[^losing]:[Losing One's Self: Exploring Dance Improvisation and Consciousness](https://losingoneself.coventry.ac.uk/) involved Katye Coe (dancer-researcher), L.M. Merritt Millman (neuroscientist), Michaela Gerussi (dancer-researcher), and me (Simon Ellis, dancer-researcher). Late in 2023 the research was awarded via lot some seed funding from Coventry University. 
 
 [^conversations]: Session 1: 26 January 2024; Session 2: 1 February 2024 am; Session 3: 1 February 2024 pm; Session 4: 2 February 2024 am; Session 5: 2 February 2024 pm; Session 6: 8 February 2024 am; Session 7: 8 February 2024 pm; Session 8: 9 February 2024 am; Session 9: 9 February 2024 pm; Session 10: 14 February 2024 am; Session 11: 14 February 2024 pm; Session 12: 15 February 2024 am; Session 13: 15 February 2024 pm.
-
-[^losing]:[Losing One's Self: Exploring Dance Improvisation and Consciousness](https://losingoneself.coventry.ac.uk/) involved Katye Coe (dancer-researcher), L.M. Merritt Millman (neuroscientist), Michaela Gerussi (dancer-researcher), and me (Simon Ellis, dancer-researcher). Late in 2023 the research was awarded via lot some seed funding from Coventry University. 
 
 [^other-data]: For the broader project ... (including dancing, reflecting, self-reporting questionnaires and various forms of video and photographic documentation). Initial literature searches focusing on dance improvisation, consciousness and mindfulness practices occurred in early 2024 (led by Michaela), and I later picked up and expanded on Michaela's work as part of the development of this writing. Analysis of the self-reporting questionnaires was finished by Merritt in September 2024.
 
@@ -528,9 +523,11 @@ In this chapter I use the word _dancing_ rather than improvising to describe the
 
 ## References
 
-## sleeping kittens
+## edit bin
 
-(16 April 2026) 
+Each session followed this pattern. The length of each practice varied, but most practices were timed to be 30 minutes. For the second session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the following day's work. Each of our 13 unstructured conversations was around 40 minutes long:
+
+even though I didn't begin direct work on this book chapter[^git] until September 2025 and the bulk of the writing and analytical work happened between February and August 2026. 
 
 The project then went dormant as I wondered how best to work with its range of materials. Nevertheless, questions of non-duality and body-based practices remained an ongoing curiosity and I continued to read broadly in the area.
 
