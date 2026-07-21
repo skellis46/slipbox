@@ -72,19 +72,17 @@ This writing is therefore constructed from first-person experiences of dancing, 
 
 ## Authentic movement: awareness while dancing
 
-Our research-dancing was a somatic practice called [[authentic movement]], which normally involves two people taking turns in two different roles: a mover/dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
+Our research-dancing was a somatic practice called [[authentic movement]], which normally involves two people taking turns in two different roles: a mover-dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
 Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a 'mystical practice' [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming], and as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], all while maintaining its roots in therapy [e.g. @stromsted-2026-souls]. It is not surprising therefore that Jane Bacon describes authentic movement as a 'field of practices' [@bacon-2015-authentic p.205]. 
 
 Somatic practices focus on internal bodily attunement, and an important aspect of such practices is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of the dancer [@ellis-2020-corporeal]. At times it might even have appeared as if Katye and I were bordering on doing nothing. The irrelevance of how the dancing appears is one thing that separates most somatic practices from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
-Katye and I were not practising authentic movement for any particular reason. Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself: it was autotelic. We were dancing without wanting anything from it, and it felt this way even as part of a small research activity funded as pump-priming for a larger yet-to-be-imagined project. This autotelic practice, with deep intrinsic enjoyment, is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular. 
+Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself: it was autotelic. We were dancing without wanting anything from it, and it felt this way even as part of a small research activity funded as pump-priming for a larger yet-to-be-imagined project. This autotelic practice, with deep intrinsic enjoyment, is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular. 
 
-Given these aspects of the movement practice, our version of authentic movement has more in common with body awareness practices characterised by Mehling et al. as emphasising 'non-judgmental "mindfulness"' [-@mehling-2011-body p.1]; for example Body Awareness Therapy, Feldenkrais, Alexander Method and Body-Oriented Psychotherapy [@mehling-2011-body]. Although our authentic movement practice presented in this research does not act as a proxy for all dancing (whether artistic or social), I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
+Given these aspects of the movement practice, our version of authentic movement has more in common with body awareness practices characterised by Mehling et al. as emphasising 'non-judgmental "mindfulness"' [-@mehling-2011-body p.1]; for example Body Awareness Therapy, Feldenkrais, Alexander Method and Body-Oriented Psychotherapy [@mehling-2011-body]. Although our authentic movement practice presented in this research does not act as a proxy for all dancing (whether artistic, social or therapeutic), I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
 
-The research is distinct from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. 
-
-Instead, the research presented here is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. And that analysis takes the shape of a case study of mindful-movement-for-its-own-sake in which I present five key observations – and their implications – emerging from the reflective practice: 
+The research is distinct from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research presented here is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. And that analysis takes the shape of five key observations – and their implications – emerging from the reflective practice: 
 
 1. non-dual awareness
 2. agency
@@ -92,7 +90,7 @@ Instead, the research presented here is a phenomenological cross-section of _awa
 4. methodological limits of phenomenology
 5. the conditions of practice research
 
-Before I present those I detail the architecture of the movement experience as understood through the retrospective conversations immediately after the dancing sessions with Katye Coe, and then more than two years later as micro-interviews with Rosemary Lee. 
+Before I present those I detail the architecture of the movement experience as understood through remembering alongside the retrospective conversations with Katye Coe and Rosemary Lee. 
 
 ## Architecture of the experience
 
@@ -101,9 +99,9 @@ Before I present those I detail the architecture of the movement experience as u
 **3. A key shift appears between 'awareness-ing' or attending to bodily sensation and becoming 'the passenger', where agency feels reduced or displaced.**  
 **4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.**  
 
-The trajectory of each improvisation is described clearly in both the conversations with Katye and with Rosie.
+The trajectory of each improvisation is described clearly in the conversations with Katye and with Rosie.
 
-![[improvisation_loop.png]]
+![loop](assets/improvisation-loop.png)
 
 entering the practice / crossing a threshold --> serial sensory tracking --> widening of attention --> deep sensory improvising <--> disappearance of organiser <--> deep sensory improvising --> ending / return to ordinary life.
 
@@ -532,7 +530,8 @@ In this chapter I use the word _dancing_ rather than improvising to describe the
 - Merritt
 - Michaela
 - C-DaRE and colleagues
-
+- use of LLMs -- loop diagram, thematic analysis of unstructured conversations, literature searches. 
+- acknowledge the QR spend
 
 
 ## References
