@@ -12,15 +12,15 @@ csl: /Users/skiptime/Dropbox/pandoc/chicago-author-date-16th-edition.csl
 
 # Threshold of the Self: Dancing and Non-dual Awareness
 
-keywords: dancing, improvisation, non-dual awareness, consciousness
+_keywords:_ dancing, improvisation, non-dual awareness, consciousness
 
-## Abstract (working)
+_biography:_ 
 
-This chapter examines experiences of losing one's sense of self during the dance and somatic improvisation practice known as authentic movement, focusing on the tangible threshold between _moving_ and _being moved_. It draws on practice-led research undertaken in 2024 by dancer Katye Coe, cognitive scientist L. S. Merritt Millman, research assistant and dancer Michaela Gerussi and artist-researcher Simon Ellis. The writing builds on a mixed dataset of intensive authentic movement sessions, video and photographic documentation, post-improvisation conversations, self-report questionnaires and desk-based research.
+Simon Ellis works with choreography, filmmaking and words and has expertise in practice research. He was born in Aotearoa New Zealand, but lives in the UK and is the Director of C-DaRE (Centre for Dance Research) at Coventry University. He grew up in a family where conversations about dignity and equality were common and these conversations have shaped his values as an artist and researcher. www.skellis.net
 
-At its centre is a phenomenological analysis of the threshold as being a moment in which the mover's sense of agency and identity undergoes radical transformation. I propose that this threshold marks a shift from the illusion of subject–object dualism toward non-dual awareness, where the feeling or illusion of a discrete self disappears. These experiences seem to share affinities with Csíkszentmihályi's flow yet the analysis suggests that they are qualitatively different in kind, inviting reconsideration of how consciousness and embodiment interrelate in dance improvisation.
+## Abstract
 
-The discussion situates these findings within wider discourse on flow, presence and non-dual awareness, and considers how somatic training acts as an attentional bias, inclining dance and somatic practitioners to overemphasise the body's role in accessing such direct experience. While the research has implications for improvisation as performance, its primary contribution lies in resisting the lure of corporeal reductionism while articulating the possibilities of corporeality as a conduit for non-dual experience – how the body, through movement, reveals ways of being that momentarily dissolve the boundaries of selfhood. 
+
 
 ## Introduction: dancing and being danced
 
@@ -50,9 +50,9 @@ But I am getting ahead of myself.
 
 In the northern autumn of 2023 professional dancer Katye Coe and I were practicing together in the studio at Coventry University. I had been working with authentic movement for many years – as had Katye – and we gravitated towards experimental versions of the practice. In early 2024 we were given the opportunity to continue our studio-based dancing as part of a broader research project called _Losing Oneself_.[^losing] 
 
-That dancing lies at the heart of this writing.
+That dancing in in the northern winter of 2024 lies at the heart of this writing.
 
-Katye and I practiced together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), with the exception of a morning only on 26 January. A single session followed a pattern in which: 1) one person danced and moved for a timed period (normally 30 minutes) while the other watched (or witnessed); 2) roles were changed and the practice repeated; and 3) an unstructured conversation about the experiences was recorded. This means we had thirteen conversations in total, each around 40 minutes long.[^conversations]
+Katye and I practiced together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), with the exception of the morning only on 26 January. The sessions followed a pattern in which: 1) one person danced for a timed period (normally 25 minutes) while the other witness that dancing; 2) roles were changed and the practice repeated; and 3) an unstructured conversation about the experiences was recorded. Thus we had thirteen conversations in total, each around 40 minutes long.[^conversations]
 
 Although in this writing I focus on the threshold between dual and non-dual experiences in dance improvisation, in reality the term _threshold_ referenced a family of transitions in our conversations together. It was not until conversation 10 of 13 (14 February 2024 am) that we explicitly used the word _threshold_ when Katye said, 'There's a threshold. There are many thresholds but first is to actually just go into space and begin'. We started to discuss other types of thresholds: closing one's eyes, the move from 'awareness-ing' to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from the dancing. 
 
@@ -72,44 +72,56 @@ This writing is therefore constructed from first-person experiences of dancing, 
 
 ## Dancing: authentic movement and its properties
 
-Our research-based dancing was a somatic practice called [[authentic movement]], which normally involves two people taking turns in two different roles: a mover/dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
+Our research-dancing was a somatic practice called [[authentic movement]], which normally involves two people taking turns in two different roles: a mover/dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is followed by a period of reflection between the two participants.[^am]
 
 Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a 'mystical practice' [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming], and as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], all while maintaining its roots in therapy [e.g. @stromsted-2026-souls]. It is not surprising therefore that Jane Bacon describes authentic movement as a 'field of practices' [@bacon-2015-authentic p.205]. 
 
 Somatic practices focus on internal bodily attunement, and an important aspect of such practices is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of the dancer [@ellis-2020-corporeal]. The irrelevance of how the dancing appears is one thing that separates most somatic practices from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
-Katye and I were not practising authentic movement for any particular reason. Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself. It was autotelic. We were dancing without wanting anything from it, and it felt this way even as part of a small research activity funded as pump-priming for a larger project. This autotelic practice, with deep intrinsic enjoyment, is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular.
+Katye and I were not practising authentic movement for any particular reason. Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself. It was autotelic. We were dancing without wanting anything from it, and it felt this way even as part of a small research activity funded as pump-priming for a larger yet-to-be-imagined project. This autotelic practice, with deep intrinsic enjoyment, is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular. At times it might even have appeared as if we were bordering on doing nothing
+
+Given these aspects of the movement practice, my hunch is that our version of authentic movement has more in common with body-mindfulness pratices  
+
+closest link between our version of authentic movement and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011 -- think this is a finding?? 
+- there is Lutz's work on meditation as attentional expertise 
 
 In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
 
 In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
 
-for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance? 
+for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance?
 
-This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. **add here or just below contribution to dance improv (in fact, all contributions here — is there just two?)**
+The practice takes the shape of a case study of dancing without wanting; it is dancing that resists any artistic or compositional pretenses.  
 
-The studio work with Katye and this analysis extend previous work in which I have explored the ways in which authentic movement meets epistemology [@ellis-2020-corporeal] and questions of documentation [@ellis-2020-currency]. **need to be specific re questions of doc**.
+The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
+
+I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
+
+- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled.
 
 Therefore, the studio-based work with Katye becomes a case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow ([e.g. @montero-2018-thought]) but that overlaps with a form of attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth) — link to other improv writers?
 
 
+This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. **add here or just below contribution to dance improv (in fact, all contributions here — is there just two?)**
 
-## analysis
+The studio work with Katye and this analysis extend previous work in which I explored how authentic movement meets epistemology [@ellis-2020-corporeal] and how it might be documented without reducing embodied experience to its visible traces [@ellis-2020-currency].
 
-1. The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)
-2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.
-3. A key shift appears between 'awareness-ing' or attending to bodily sensation and becoming 'the passenger', where agency feels reduced or displaced.
-4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.
+### Architecture of the experience
 
-### architecture of the experience
+**1. The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)**  
+**2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.**  
+**3. A key shift appears between 'awareness-ing' or attending to bodily sensation and becoming 'the passenger', where agency feels reduced or displaced.**  
+**4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.**  
 
-The trajectory of each improvisation is described clearly across both retrospective spoken data sets: 
+The trajectory of each improvisation is described clearly in both the conversations with Katye and with Rosie: 
 
 entering the practice / crossing a threshold --> serial sensory tracking --> widening of attention --> deep sensory improvising <--> disappearance of organiser <--> deep sensory improvising --> ending / return to ordinary life.
 
 The improvisations do not so much leave ordinary life behind as establish a temporary set of conditions in which ordinary life, bodily sensation, memory, thought, image and movement are received differently. As Katye describes it, 'there's a threshold. There is many thresholds but first is to actually just go into space and begin' (Coe, 14 February 2024 am; conversation 10 of 13). This crossing is also a commitment: 'I'm committing to kind of going where I go, or going where this goes for however long the 25 minutes feels like or for however long 25 minutes is' (Coe, 14 February 2024 am; conversation 10 of 13).
 
 The improvisations then start with what Katye describes as tracking sensations: 'I noticed this, and then I noticed that and then I noticed this, or I stay with this' (Coe, 8 February 2024 am; conversation 6 of 13). This early experience is not quite deliberate body scanning, since sensations seem to enter awareness rather than be searched for, but there is still a sense of awareness moving from one bodily event to another. This serial sensory tracking starts to diminish as attention widens. Katye describes this shift as if 'it spreads out. And therefore [...] the hierarchy of attention, it becomes like very flat' (Coe, 8 February 2024 am; conversation 6 of 13) and wide: 'a wideness of seeing and a wideness of feeling' (Coe, 1 February 2024 am; conversation 2 of 13). Such change from tracking to widening is as if the information presented to awareness through sensations in the body goes from happening in series to happening in parallel, and becomes less like attending to separate sensations and more akin to inhabiting a field of bodily, perceptual and imaginal events. 
+
+The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)
 
 In the conversations with Rosemary, I describe what I believe to be the same experience as deep sensory improvisation or as a 'flow of awareness' (Ellis, 4 May 2026). The clearest description is that sensations which could be named sequentially do not feel sequential in experience:
 
@@ -118,6 +130,12 @@ In the conversations with Rosemary, I describe what I believe to be the same exp
 This kind of experience of dancing feels full, effortless and hard to disturb, but there is also clearly a self present as the organiser: 'The feeling is of a really incredibly complex orchestra and I'm the conductor' (Ellis, 4 May 2026). That self is not necessarily grasping or forcing the dance, but it is still the one sensing, selecting and conducting. In other words, deep sensory improvising still includes 'some self at the centre of this, noticing those things' (Ellis, 4 May 2026).
 
 The improvisation continues to deepen but changes to being an experience without a conductor or organiser. There is no labelling and although awareness remains it is not _mine_ in the usual way. My sensitivity to time and space disappears as if those dimensions cease. The body does not vanish; the bounded, skin-contained, self-owned body vanishes. What appears instead is less like being _out of body_ or disembodied, and more like what I describe as 'all body'. 'It doesn't sound right to me [...] if I were to say out of body. But actually, what it feels like, it's much more like [...] all body. It's like all there is' (Ellis, 19 May 2026). In this kind of dancing without an organiser, 'I don't think I'm aware of a body encased by skin. So, _all body_ means that the skin dissolves' (Ellis, 19 May 2026).
+
+Ordinary state of apathetic indifference
+
+In the [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) Tibetan Buddhist tradition it is _rigpa_ or pristine awareness – where there is no inside or outside and awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan].
+
+Mipham distinguishes rigpa from _tha mal tang nyom_, 'an ordinary state of apathetic indifference', in which consciousness remains dull, blank and absorbed in the neutral ground of ordinary mind [@mipham-2018-lamp p.44]
 
 > Starting with relaxation and silencing of the layers of inner narrative related to autobiographical-relational-social self, it progresses to the cessation of processes specifying phenomenal core self, such as agency, body-ownership, and spatio-temporal located-ness, then to the basic interoceptive sense of body presence (Farb et al., 2007; Siderits et al., 2013; Dahl et al., 2015; Dor-Ziderman et al., 2016; Metzinger, 2020). However, such temporary quieting down in and of itself may not yet be cessation of the constructed self as the implicit categorizations that reify the self and objects may be still operating in the unconscious substrate (Germano and Waldron, 2006). Thus, selflessness can be understood in a more refined way as not merely inner silence but as a more fundamental transformation of the nature of cognition in which cognitive processes switch from the exclusive reliance on conceptually constructed dualistic subject-object structures to a more direct unconstructed way of cognizing via NDA itself. (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
 
@@ -169,7 +187,7 @@ Such accounts of presence are and have been a core component of describing exper
 
 Worth discussing Katye's SIBAM (gestalt) stuff -- as 'dancing' side -- still deeply tuned. 
 
-## findings / discussion (contribution)
+## six observations (?) findings / discussion (contribution)
 
 ### conditions for the experience: practice research
 
@@ -194,6 +212,12 @@ In short: the practice does not make data. It makes conditions under which somet
 
 Given these specific aspects of the movement practice, my hunch is that the closest link between our version of authentic movement and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011 -- think this is a finding?? 
 - there is Lutz's work on meditation as attentional expertise 
+
+In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
+
+In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
+
+for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance?
 
 The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
 
@@ -444,7 +468,6 @@ Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c70
 
 [[Zoran Josipovic - Nondual Awareness and Minimal Phenomenal Experience#^de97ee]] - this is very important for phenomenological description that approximates the experience (??)
 
-in Western mindfulness it is called open awareness [@taft-2022-meditation n.pag.]; and in the Dzogchen Tibetan Buddhist tradition it is _rigpa_ or pristine awareness -- where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan]. 
 
 josipovic-2024-reflexivity.pdf is very useful description of non-representational consciousness -- and how this work overlaps with that research. See [[Josipovic - Reflexivity gradients]] summary. More also (but likely not necessary) in josipovic-2021-implicit.pdf
 
@@ -524,6 +547,19 @@ In this chapter I use the word _dancing_ rather than improvising to describe the
 ## References
 
 ## edit bin
+
+### old abstract
+
+This chapter examines experiences of losing one's sense of self during the dance and somatic improvisation practice known as authentic movement, focusing on the tangible threshold between _moving_ and _being moved_. It draws on practice-led research undertaken in 2024 by dancer Katye Coe, cognitive scientist L. S. Merritt Millman, research assistant and dancer Michaela Gerussi and artist-researcher Simon Ellis. The writing builds on a mixed dataset of intensive authentic movement sessions, video and photographic documentation, post-improvisation conversations, self-report questionnaires and desk-based research.
+
+At its centre is a phenomenological analysis of the threshold as being a moment in which the mover's sense of agency and identity undergoes radical transformation. I propose that this threshold marks a shift from the illusion of subject–object dualism toward non-dual awareness, where the feeling or illusion of a discrete self disappears. These experiences seem to share affinities with Csíkszentmihályi's flow yet the analysis suggests that they are qualitatively different in kind, inviting reconsideration of how consciousness and embodiment interrelate in dance improvisation.
+
+The discussion situates these findings within wider discourse on flow, presence and non-dual awareness, and considers how somatic training acts as an attentional bias, inclining dance and somatic practitioners to overemphasise the body's role in accessing such direct experience. While the research has implications for improvisation as performance, its primary contribution lies in resisting the lure of corporeal reductionism while articulating the possibilities of corporeality as a conduit for non-dual experience – how the body, through movement, reveals ways of being that momentarily dissolve the boundaries of selfhood. 
+
+
+--- 
+
+
 
 Each session followed this pattern. The length of each practice varied, but most practices were timed to be 30 minutes. For the second session on the same day the person who moved first in the morning witnessed first in the afternoon. We also ensured that whomever had danced first in the morning witnessed first the morning of the following day's work. Each of our 13 unstructured conversations was around 40 minutes long:
 
