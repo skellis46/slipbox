@@ -76,35 +76,23 @@ Our research-dancing was a somatic practice called [[authentic movement]], which
 
 Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a 'mystical practice' [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming], and as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], all while maintaining its roots in therapy [e.g. @stromsted-2026-souls]. It is not surprising therefore that Jane Bacon describes authentic movement as a 'field of practices' [@bacon-2015-authentic p.205]. 
 
-Somatic practices focus on internal bodily attunement, and an important aspect of such practices is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of the dancer [@ellis-2020-corporeal]. The irrelevance of how the dancing appears is one thing that separates most somatic practices from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
+Somatic practices focus on internal bodily attunement, and an important aspect of such practices is that what the movement looks like is not important, and what it looks like reveals little of the complex internal experiences of the dancer [@ellis-2020-corporeal]. At times it might even have appeared as if Katye and I were bordering on doing nothing. The irrelevance of how the dancing appears is one thing that separates most somatic practices from the conventional oculocentric ways in which artistic dance is codified, validated and imagined.
 
-Katye and I were not practising authentic movement for any particular reason. Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself. It was autotelic. We were dancing without wanting anything from it, and it felt this way even as part of a small research activity funded as pump-priming for a larger yet-to-be-imagined project. This autotelic practice, with deep intrinsic enjoyment, is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular. At times it might even have appeared as if we were bordering on doing nothing
+Katye and I were not practising authentic movement for any particular reason. Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself: it was autotelic. We were dancing without wanting anything from it, and it felt this way even as part of a small research activity funded as pump-priming for a larger yet-to-be-imagined project. This autotelic practice, with deep intrinsic enjoyment, is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular. 
 
-Given these aspects of the movement practice, my hunch is that our version of authentic movement has more in common with body-mindfulness pratices  
+Given these aspects of the movement practice, our version of authentic movement has more in common with body awareness practices characterised by Mehling et al. as emphasising 'non-judgmental "mindfulness"' [-@mehling-2011-body p.1]; for example Body Awareness Therapy, Feldenkrais, Alexander Method and Body-Oriented Psychotherapy [@mehling-2011-body]. Although our authentic movement practice presented in this research does not act as a proxy for all dancing (whether artistic or social), I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
 
-closest link between our version of authentic movement and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011 -- think this is a finding?? 
-- there is Lutz's work on meditation as attentional expertise 
+The research is distinct from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. 
 
-In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
+Instead, the research presented here is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. And that analysis takes the shape of a case study of mindful-movement-for-its-own-sake in which I present five key observations – and their implications – emerging from the reflective practice: 
 
-In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
+1. non-dual awareness
+2. agency
+3. movement bias
+4. methodological limits of phenomenology
+5. the conditions of practice research
 
-for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance?
-
-The practice takes the shape of a case study of dancing without wanting; it is dancing that resists any artistic or compositional pretenses.  
-
-The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
-
-I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
-
-- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled.
-
-Therefore, the studio-based work with Katye becomes a case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow ([e.g. @montero-2018-thought]) but that overlaps with a form of attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth) — link to other improv writers?
-
-
-This research differs from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. **add here or just below contribution to dance improv (in fact, all contributions here — is there just two?)**
-
-The studio work with Katye and this analysis extend previous work in which I explored how authentic movement meets epistemology [@ellis-2020-corporeal] and how it might be documented without reducing embodied experience to its visible traces [@ellis-2020-currency].
+Before I present those I detail the architecture of the movement experience as understood through the retrospective conversations immediately after the dancing sessions with Katye Coe, and then more than two years later as micro-interviews with Rosemary Lee. 
 
 ### Architecture of the experience
 
@@ -136,6 +124,15 @@ Ordinary state of apathetic indifference
 In the [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) Tibetan Buddhist tradition it is _rigpa_ or pristine awareness – where there is no inside or outside and awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan].
 
 Mipham distinguishes rigpa from _tha mal tang nyom_, 'an ordinary state of apathetic indifference', in which consciousness remains dull, blank and absorbed in the neutral ground of ordinary mind [@mipham-2018-lamp p.44]
+
+ there is Lutz's work on meditation as attentional expertise 
+
+The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
+
+I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
+
+- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled.
+
 
 > Starting with relaxation and silencing of the layers of inner narrative related to autobiographical-relational-social self, it progresses to the cessation of processes specifying phenomenal core self, such as agency, body-ownership, and spatio-temporal located-ness, then to the basic interoceptive sense of body presence (Farb et al., 2007; Siderits et al., 2013; Dahl et al., 2015; Dor-Ziderman et al., 2016; Metzinger, 2020). However, such temporary quieting down in and of itself may not yet be cessation of the constructed self as the implicit categorizations that reify the self and objects may be still operating in the unconscious substrate (Germano and Waldron, 2006). Thus, selflessness can be understood in a more refined way as not merely inner silence but as a more fundamental transformation of the nature of cognition in which cognitive processes switch from the exclusive reliance on conceptually constructed dualistic subject-object structures to a more direct unconstructed way of cognizing via NDA itself. (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
 
@@ -207,26 +204,6 @@ Second, it enables disclosure. What matters is what shows up under those conditi
 So the claim rejects a narrow research logic in which practice is valuable only insofar as it yields codifiable data. Instead, practice functions more like an experimental ecology: it creates the possibility for thresholds, shifts or recognitions to occur, which can then be articulated, reflected on or analysed after the fact.
 
 In short: the practice does not make data. It makes conditions under which something can be seen.
-
-### body-mindfulness
-
-Given these specific aspects of the movement practice, my hunch is that the closest link between our version of authentic movement and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011 -- think this is a finding?? 
-- there is Lutz's work on meditation as attentional expertise 
-
-In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
-
-In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
-
-for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance?
-
-The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
-
----
-
-
-I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
-
-- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled. 
 
 ### agency
 
@@ -547,6 +524,22 @@ In this chapter I use the word _dancing_ rather than improvising to describe the
 ## References
 
 ## edit bin
+
+Given these specific aspects of the movement practice, my hunch is that the closest link between our version of authentic movement and other practices is with body-mindfulness practices; e.g. like body awareness practices in Mehling 2011 -- think this is a finding?? 
+- there is Lutz's work on meditation as attentional expertise 
+
+In this chapter authentic movement does not act as a proxy for all dancing (whether artistic or social), but I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
+
+In doing so, I want to be clear that I am not sure if what this writing deals with makes sense or aligns with other kinds of dancing. (return to this later?)
+
+for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance?
+
+The studio work with Katye and this analysis extend previous work in which I explored how authentic movement meets epistemology [@ellis-2020-corporeal] and how it might be documented without reducing embodied experience to its visible traces [@ellis-2020-currency].
+
+for all intents and purposes we are bordering on doing nothing. the skill is peculiar ... it's almost as if what I am doing is akin to a case study that 'complicates' these other explorations of skill/performance?
+
+
+Therefore, the studio-based work with Katye becomes a case study of a body-based mindfulness practice (originating in dance practices) that is distinct from questions of skill and cognition in flow ([e.g. @montero-2018-thought]) but that overlaps with a form of attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth) — link to other improv writers?
 
 ### old abstract
 
