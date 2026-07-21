@@ -101,37 +101,28 @@ Before I present those I detail the architecture of the movement experience as u
 
 The trajectory of each improvisation is described clearly in the conversations with Katye and with Rosie.
 
-![loop](assets/improvisation-loop.png)
+![improvisation loop and exits](assets/improvisation_loop.png)
 
 entering the practice / crossing a threshold --> serial sensory tracking --> widening of attention --> deep sensory improvising <--> disappearance of organiser <--> deep sensory improvising --> ending / return to ordinary life.
 
 The improvisations do not so much leave ordinary life behind as establish a temporary set of conditions in which ordinary life, bodily sensation, memory, thought, image and movement are received differently. As Katye describes it, 'there's a threshold. There is many thresholds but first is to actually just go into space and begin' (Coe, 14 February 2024 am; conversation 10 of 13). This crossing is also a commitment: 'I'm committing to kind of going where I go, or going where this goes for however long the 25 minutes feels like or for however long 25 minutes is' (Coe, 14 February 2024 am; conversation 10 of 13).
 
-The improvisations then start with what Katye describes as tracking sensations: 'I noticed this, and then I noticed that and then I noticed this, or I stay with this' (Coe, 8 February 2024 am; conversation 6 of 13). This early experience is not quite deliberate body scanning, since sensations seem to enter awareness rather than be searched for, but there is still a sense of awareness moving from one bodily event to another. This serial sensory tracking starts to diminish as attention widens. Katye describes this shift as if 'it spreads out. And therefore [...] the hierarchy of attention, it becomes like very flat' (Coe, 8 February 2024 am; conversation 6 of 13) and wide: 'a wideness of seeing and a wideness of feeling' (Coe, 1 February 2024 am; conversation 2 of 13). Such change from tracking to widening is as if the information presented to awareness through sensations in the body goes from happening in series to happening in parallel, and becomes less like attending to separate sensations and more akin to inhabiting a field of bodily, perceptual and imaginal events. 
+The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (Coe, 14 February 2024 pm, conversation 11 of 13), and also describes tracking sensations: 'I noticed this, and then I noticed that and then I noticed this, or I stay with this' (Coe, 8 February 2024 am; conversation 6 of 13). This initial experience is not deliberate body scanning, since sensations seem to enter awareness rather than be searched for, but there is still a sense of awareness moving from one bodily event to another. This serial sensory tracking starts to diminish as attention widens. Katye describes this shift as if 'it spreads out. And therefore [...] the hierarchy of attention, it becomes like very flat' (Coe, 8 February 2024 am; conversation 6 of 13) and wide: 'a wideness of seeing and a wideness of feeling' (Coe, 1 February 2024 am; conversation 2 of 13). Such change from tracking to widening is as if the information presented to awareness through sensations in the body goes from happening in series to happening in parallel, and becomes less like attending to separate sensations and more akin to inhabiting a _field_ of bodily, perceptual and imaginal events. 
 
-The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)
-
-In the conversations with Rosemary, I describe what I believe to be the same experience as deep sensory improvisation or as a 'flow of awareness' (Ellis, 4 May 2026). The clearest description is that sensations which could be named sequentially do not feel sequential in experience:
+In the conversations with Rosemary, I describe what I believe to be the same experience as deep sensory improvisation or as a 'flow of awareness' (Ellis, 4 May 2026). The clearest description is of sensations which could be named sequentially not feeling sequential in experience:
 
 > Hands tingling, lower back — you could name it as a list, as if they are serial things or serial awarenesses in my body, but they feel much more like they're overlapping [...] as if I'm aware of it all at the same time (Ellis, 4 May 2026).
 
-This kind of experience of dancing feels full, effortless and hard to disturb, but there is also clearly a self present as the organiser: 'The feeling is of a really incredibly complex orchestra and I'm the conductor' (Ellis, 4 May 2026). That self is not necessarily grasping or forcing the dance, but it is still the one sensing, selecting and conducting. In other words, deep sensory improvising still includes 'some self at the centre of this, noticing those things' (Ellis, 4 May 2026).
+This kind of experience of dancing feels full, effortless and hard to disturb, but there is also clearly a self present as the organiser: 'The feeling is of a really incredibly complex orchestra and I'm the conductor' (Ellis, 4 May 2026). That self is not necessarily grasping or forcing the dance, but it is still the one sensing, selecting and conducting. In other words, what I am calling deep sensory improvising still includes 'some self at the centre of this, noticing those things' (Ellis, 4 May 2026).
 
-The improvisation continues to deepen but changes to being an experience without a conductor or organiser. There is no labelling and although awareness remains it is not _mine_ in the usual way. My sensitivity to time and space disappears as if those dimensions cease. The body does not vanish; the bounded, skin-contained, self-owned body vanishes. What appears instead is less like being _out of body_ or disembodied, and more like what I describe as 'all body'. 'It doesn't sound right to me [...] if I were to say out of body. But actually, what it feels like, it's much more like [...] all body. It's like all there is' (Ellis, 19 May 2026). In this kind of dancing without an organiser, 'I don't think I'm aware of a body encased by skin. So, _all body_ means that the skin dissolves' (Ellis, 19 May 2026).
+The improvisation continues to deepen but changes to being an experience without a conductor or organiser. There is no labelling and although awareness remains it is not _mine_ in the usual way. My sensitivity to time and space disappears as if those dimensions cease. The body does not vanish; the bounded, skin-contained, self-owned body vanishes. What appears instead is less like being _out of body_ or disembodied, and more like what I describe as 'all body':
 
-Ordinary state of apathetic indifference
+> It doesn't sound right to me [...] if I were to say out of body. But actually, what it feels like, it's much more like [...] all body. It's like all there is. (Ellis, 19 May 2026). 
 
-In the [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) Tibetan Buddhist tradition it is _rigpa_ or pristine awareness – where there is no inside or outside and awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan].
+In this kind of dancing without an organiser, 'I don't think I'm aware of a body encased by skin. So, _all body_ means that the skin dissolves' (Ellis, 19 May 2026). Curiously, in the [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) Tibetan Buddhist tradition, pristine awareness – or _rigpa_ – is described as having no inside or outside with which awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan].
 
-Mipham distinguishes rigpa from _tha mal tang nyom_, 'an ordinary state of apathetic indifference', in which consciousness remains dull, blank and absorbed in the neutral ground of ordinary mind [@mipham-2018-lamp p.44]
 
  there is Lutz's work on meditation as attentional expertise 
-
-The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
-
-I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
-
-- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled.
 
 
 > Starting with relaxation and silencing of the layers of inner narrative related to autobiographical-relational-social self, it progresses to the cessation of processes specifying phenomenal core self, such as agency, body-ownership, and spatio-temporal located-ness, then to the basic interoceptive sense of body presence (Farb et al., 2007; Siderits et al., 2013; Dahl et al., 2015; Dor-Ziderman et al., 2016; Metzinger, 2020). However, such temporary quieting down in and of itself may not yet be cessation of the constructed self as the implicit categorizations that reify the self and objects may be still operating in the unconscious substrate (Germano and Waldron, 2006). Thus, selflessness can be understood in a more refined way as not merely inner silence but as a more fundamental transformation of the nature of cognition in which cognitive processes switch from the exclusive reliance on conceptually constructed dualistic subject-object structures to a more direct unconstructed way of cognizing via NDA itself. (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
@@ -287,7 +278,7 @@ gradual changes but then absolute. dawn/dusk not right -- like the sun is settin
 - note that he is talking about skilled performance based on his own and Christensen et al's work (re meshed architecture)
 - but for me it's more like allowing something to happen as opposed to choosing something to happen. This diminishment of agency seems important or not to be underestimated. See below re explanation and telos.
 
-### Bias towards movement
+### Bias towards the body moving
 
 > People instinctively regard themselves as selves in a very specific sense: they take themselves to persist through time as numerically identical subjects and agents, distinct from their minds, bodies, experiences, and traits. They do so even though they acknowledge that these minds, bodies, experiences, and traits are constantly changing and that they are only contingently connected to their selves. (Jay L. Garfield, Losing Ourselves)
 
@@ -321,6 +312,11 @@ https://dynamic.wakingup.com/daily/DA76E90?source=content%20share&share_id=5B683
 
 > This practice is simply about being non distracted by the automaticity of thought. What's left when you're not distracted, is nothing but the vividness of conscious experience. Seeing, hearing, smelling, tasting, touching ... the arising of an emotion. (8:55min)
 
+The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
+
+I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
+
+- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled.
 
 
 > Consciousness bestows its identity exclusively on the body. It believes and feels, 'I am the body.' (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
