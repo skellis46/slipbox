@@ -145,11 +145,56 @@ Because the improvisations were timed and ended with an alarm, the return to ord
 
 ### Non-dual awareness
 
-> Spend enough time in the hyper-awareness of improvisation and you will undoubtedly begin to question such things as the nature of thought, or the source of desire, or even the structure of self.
+> Spend enough time in the hyper-awareness of improvisation and you will undoubtedly begin to question [...] the structure of self.
 
 <div style="text-align: right">– Kent De Spain [-@despain-2014-landscape p.52]</div>
 
-> from a complete absence in various types of blackouts on one end of the spectrum, which may preclude such events from being regarded as phenomenal experiences altogether, to a vivid presence of self-knowing luminous awareness, regarded in some cases as instances of consciousness directly encountering itself (Josipovic, 2019).[@josipovic-2020-nondual p.3]
+
+
+'It does feel like it is happening to me' while at the same time as if 'there isn’t a me doing it.' (Simon Ellis, 15 February 2024 am, 29:07–30:59)
+“I don’t know whether I disappear or whether I just get very quiet.”
+(Katye Coe, 15 February 2024 am, 31:37–32:38)
+
+> The wide-open field [...] blurs the edges of thing-ness [...] the binary things like time or effort [...] that keep us as separate from everything else fall away [...] I sort of lose track of a more binary way of being in the world.
+(Katye Coe, 9 February 2024 am, 11:06–12:19)
+
+
+- does it feel different from flow? 
+
+
+Strengths
+
+* First-hand experiential knowledge
+* Access to embodied detail unavailable to external observers
+* Retrospective discussion enables reflection and shared articulation
+
+Limitations
+
+* All discursive data are retrospective
+* Recall and description may be shaped by emerging interpretations
+* Risk of theory-laden interpretation through the lens of non-dual awareness
+* Alternative interpretations may have been overlooked or suppressed
+* Participant-researcher involvement limits analytical distance
+
+Theory-laden interpretation: the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. Here, the lens of non-dual awareness may influence how retrospective accounts are interpreted, making them appear to confirm that framework (Hanson 1958, 19).
+
+Hanson, N. R. 1958. Patterns of Discovery: An Inquiry into the Conceptual Foundations of Science. Cambridge: Cambridge University Press. 
+
+(from LLM): In your case, the concern is that interpreting retrospective accounts through non-dual awareness may create confirmation bias if experiences that fit this framework receive greater attention than those that complicate or contradict it.
+
+
+
+
+
+“It’s not even [...] dilation. It disappears, like there isn’t time [...] whether it’s three seconds or a second or two minutes or four, it’s irrelevant [...] Time just doesn’t function.” (Simon Ellis, conversation with Rosie Lee, 19 May 2026, 28:13–28:31)
+
+“I think what I’m saying [is] oscillating from being a self, deeply dancing, to being no self, backwards and forwards between those two.”
+(Simon Ellis, conversation with Rosie Lee, 19 May 2026, 37:54–38:03)
+
+“It’s as if I stop being the organiser and the doer, the person who’s doing all that sensing [...] as if I disappear completely.”
+
+see also conversation re 'being in' and that not making sense.
+
 
 
 > Attention is Consciousness with an object. When the object vanishes, attention simply remains what it always is, Consciousness [@spira-2008-transparency]
@@ -261,6 +306,9 @@ While these accounts of presence, attunement and being moved may appear to align
 ### Agency
 
 I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
+
+“There’s some kind of mixing pot there in terms of agency not belonging to the single body [...] it’s not inter, it’s intra [...] this experience of no thing being or everything being.”
+(Katye Coe, 9 February 2024 am, 15:11–18:41)
 
 Me reflecting on these things will change these things 
 
