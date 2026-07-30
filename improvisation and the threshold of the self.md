@@ -82,7 +82,7 @@ Broadly speaking, somatic practices focus on internal bodily attunement, and an 
 
 Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself: it was autotelic. We were dancing without wanting anything from it, and it felt this way even as part of a small research activity funded as pump-priming for a larger yet-to-be-imagined project. This autotelic practice, with deep intrinsic enjoyment in which 'this pleasure has no objective' [@erpenbeck-2018-go n.pag.], is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular. 
 
-Given these aspects of the movement practice, I propose that our version of authentic movement has more in common with body awareness practices characterised by Mehling et al. as emphasising 'non-judgmental "mindfulness"' [-@mehling-2011-body p.1]; for example Body Awareness Therapy, Feldenkrais, Alexander Method and Body-Oriented Psychotherapy [@mehling-2011-body]. Although our authentic movement practice does not act as a proxy for all dancing, whether artistic, social or therapeutic, I assume that it intersects with many body-based practices, including various dance techniques, and is itself shaped by multiple practices.
+Given these aspects of the movement practice, I propose that our version of authentic movement has more in common with body awareness practices characterised by Mehling et al. that emphasise 'non-judgmental "mindfulness"' [-@mehling-2011-body p.1]; for example Body Awareness Therapy, Feldenkrais, Alexander Method and Body-Oriented Psychotherapy [@mehling-2011-body]. Although our authentic movement practice does not act as a proxy for all dancing, whether artistic, social or therapeutic, I assume that it intersects with many body-based practices, including various dance techniques, and is itself shaped by multiple practices.
 
 The research is distinct from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research presented here is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. And that analysis takes the shape of five key observations – and their implications – emerging from the reflective practice: 
 
@@ -151,21 +151,34 @@ Because the improvisations were timed and ended with an alarm, the return to ord
 
 <div style="text-align: right">– Kent De Spain [-@despain-2014-landscape p.52]</div>
 
-> The term nonduality encompasses a unified experience in which the boundaries between self and environment dissolve. This experience of nonduality seems to underlie the experience of flow. [@lynch-2021-role]
+Nondual awareness refers to a foundational component of the phenomenology of consciousness in which there is no subject-object structuring [@josipovic-2019-nondual]. In the Dzogchen Tibetan Buddhist tradition nondual awareness is known as _rigpa_ or pristine awareness – where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan], while in Buddhism it is _śūnyatā_ or emptiness – the open, non-conceptual field of awareness itself that is self-luminous and nondual. 
 
-> According to Josipovic ([2019](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR28)), nondual awareness is an underlying awareness in all conscious experiences, even if left unrealized. It could be that flow states tap into or uncover portions of this nondual awareness, revealing nondual features of experience to the individual. [@lynch-2021-role]
+The neuroscientist, philosopher and podcaster Sam Harris (who himself is trained in and influenced by the Dzogchen tradition) describes nondual awareness in mindfulness practice by focusing on the collapse of the subject-object dichotomy and the illusion of self:
 
-'It does feel like it is happening to me' while at the same time as if 'there isn’t a me doing it.' (Simon Ellis, 15 February 2024 am, 29:07–30:59)
-“I don’t know whether I disappear or whether I just get very quiet.”
+> [...] when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-what]
+
+In our conversation in February 2024 Katye and I reach for language which reference this similar idea of the experiencing not having, or feeling like a self: 
+
+> It does feel like it is happening to me' [as if] 'there isn’t a me doing it.' (Simon Ellis, 15 February 2024 am, 29:07–30:59)
+
+> I don’t know whether I disappear or whether I just get very quiet.
 (Katye Coe, 15 February 2024 am, 31:37–32:38)
+
+
 
 > The wide-open field [...] blurs the edges of thing-ness [...] the binary things like time or effort [...] that keep us as separate from everything else fall away [...] I sort of lose track of a more binary way of being in the world.
 (Katye Coe, 9 February 2024 am, 11:06–12:19)
 
+It is not surprising that in our body awareness practice of authentic movement Katye and I leaned on nondual awareness as a lens to understand our experiences. But I need to take care here. 
 
-_Waking Up_ is a software application developed by neuroscientist, philosopher and podcaster Sam Harris (who himself is trained in and influenced by the Dzogchen tradition) and it contains a large number of meditations, conversations, lectures and practices exploring secular mindfulness. In a brief audio recording called _What is Mindfulness?_ Harris describes the illusion of self and nondual awareness in which the subject-object dichotomy collapses: 
 
-> [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-what]
+NDA positioned explicitly as:
+
++ a lens that names loss of subject–object structure  
++ not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
+
+
+
 
 - does it feel different from flow? 
 
@@ -238,15 +251,6 @@ notion of a 'glimpse' —
 + recognise but distinguish from work in expert performance and flow -- or cover that later on? 'at first glance appears to have much in common with Montero, Gallagher'?? 
 
 But what kind of activity is AM? a skill? a practice? Are some people _better_ or more skilled at it? How might it be a different kind of skilled activity than those studied by Montero (including dancing)? What kinds of activities does AM most have in common? 
-
-
-NDA positioned explicitly as:
-
-+ a lens that names loss of subject–object structure  
-+ not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
-
-samadhi
-
 
 
 
