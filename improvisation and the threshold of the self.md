@@ -66,6 +66,8 @@ Katye's words reveal the extent to which we were framing our thinking and experi
 
 It was not until the final studio sessions that I started to imagine that the broader research project could focus precisely on the moment in time when one slips out of time and out of oneself. 
 
+The project then went dormant as I wondered how best to work with its range of materials, although questions of non-duality and body-based practice remained an ongoing curiosity.
+
 Then, nearly two and a half years after the initial studio-based research and while I was drafting this writing, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (on 16 April 2026) a questioning process designed to elicit precise responses to remembered felt experiences. The process seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 she and I met online twice to push deeper into my memory of experiences while dancing.
 
 This writing is therefore constructed from first-person experiences of dancing, unstructured conversations post-dancing between Katye and me, micro-interviews hosted by Rosemary focusing on the threshold, and desk-based work.[^other-data]
@@ -80,7 +82,7 @@ Broadly speaking, somatic practices focus on internal bodily attunement, and an 
 
 Unlike the various instances or practices of authentic movement described above, the purpose or goal of our dancing was simply for the experience itself: it was autotelic. We were dancing without wanting anything from it, and it felt this way even as part of a small research activity funded as pump-priming for a larger yet-to-be-imagined project. This autotelic practice, with deep intrinsic enjoyment in which 'this pleasure has no objective' [@erpenbeck-2018-go n.pag.], is a key characteristic of the dancing that Katye and I practiced for and with each other. We were not trying to make or find anything in particular. 
 
-Given these aspects of the movement practice, I propose that our version of authentic movement has more in common with body awareness practices characterised by Mehling et al. as emphasising 'non-judgmental "mindfulness"' [-@mehling-2011-body p.1]; for example Body Awareness Therapy, Feldenkrais, Alexander Method and Body-Oriented Psychotherapy [@mehling-2011-body]. Although our authentic movement practice presented in this research does not act as a proxy for all dancing (whether artistic, social or therapeutic), I assume that it forks into many body-based practices (including various dance techniques), and is forked from many practices. 
+Given these aspects of the movement practice, I propose that our version of authentic movement has more in common with body awareness practices characterised by Mehling et al. as emphasising 'non-judgmental "mindfulness"' [-@mehling-2011-body p.1]; for example Body Awareness Therapy, Feldenkrais, Alexander Method and Body-Oriented Psychotherapy [@mehling-2011-body]. Although our authentic movement practice does not act as a proxy for all dancing, whether artistic, social or therapeutic, I assume that it intersects with many body-based practices, including various dance techniques, and is itself shaped by multiple practices.
 
 The research is distinct from work that analyses movement [e.g. @koch-2011-movement], isolates particular experiential qualities [e.g. @sheets-johnstone-2011-movement; @sheets-johnstone-2011-primacy; @ehrenberg-2015-kinesthetica], or even artist-scholars presenting discrete episodes of practice research [see @ellis-2023-ecosystemic]. Instead, the research presented here is a phenomenological cross-section of _awareness while dancing_ which I treat as the corporeal and material substrate of the analysis. And that analysis takes the shape of five key observations – and their implications – emerging from the reflective practice: 
 
@@ -149,7 +151,9 @@ Because the improvisations were timed and ended with an alarm, the return to ord
 
 <div style="text-align: right">– Kent De Spain [-@despain-2014-landscape p.52]</div>
 
+> The term nonduality encompasses a unified experience in which the boundaries between self and environment dissolve. This experience of nonduality seems to underlie the experience of flow. [@lynch-2021-role]
 
+> According to Josipovic ([2019](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR28)), nondual awareness is an underlying awareness in all conscious experiences, even if left unrealized. It could be that flow states tap into or uncover portions of this nondual awareness, revealing nondual features of experience to the individual. [@lynch-2021-role]
 
 'It does feel like it is happening to me' while at the same time as if 'there isn’t a me doing it.' (Simon Ellis, 15 February 2024 am, 29:07–30:59)
 “I don’t know whether I disappear or whether I just get very quiet.”
@@ -158,6 +162,10 @@ Because the improvisations were timed and ended with an alarm, the return to ord
 > The wide-open field [...] blurs the edges of thing-ness [...] the binary things like time or effort [...] that keep us as separate from everything else fall away [...] I sort of lose track of a more binary way of being in the world.
 (Katye Coe, 9 February 2024 am, 11:06–12:19)
 
+
+_Waking Up_ is a software application developed by neuroscientist, philosopher and podcaster Sam Harris (who himself is trained in and influenced by the Dzogchen tradition) and it contains a large number of meditations, conversations, lectures and practices exploring secular mindfulness. In a brief audio recording called _What is Mindfulness?_ Harris describes the illusion of self and nondual awareness in which the subject-object dichotomy collapses: 
+
+> [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-what]
 
 - does it feel different from flow? 
 
@@ -203,7 +211,6 @@ see also conversation re 'being in' and that not making sense.
 
 
 
-> This little enclave of objects called ‘the mind and the body' is given special status in this process of abstraction. It is partitioned off from all the other conceptualised objects and, strangely, it is given the status of subject. It is considered to be ‘me,' whilst all the other conceptualised objects, including of course everyone else, are considered to be ‘other.' [@spira-2008-transparency n.pag]  [[mind and body given special status]]
 
 
 > NDA can co-occur with any content, whether perceptual, affective, or cognitive, which appears in it, so to speak, like an image in a mirror. (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
@@ -226,7 +233,7 @@ notion of a 'glimpse' —
 
 > And then there is the practice of choiceless awareness. Given that the field of awareness we have been cultivating through the various practices described above is fundamentally limitless by nature, we can expand our awareness still further, beyond even attending specifically to the stream of our own thoughts and emotions arising and passing away in each moment. We can, instead, allow the field of awareness to be essentially infinite, boundless, like space itself, or like the sky, noting that it can include any and all aspects of our experience, interior and exterior, sensory, perceptual, somatic, emotional, cognitive as primary objects of attention, and that we can rest in this vast, sky-like field of awareness without choosing among or specifically featuring any of these particular occurrences. Instead, we allow them all to come and go, appear and disappear, as they will, and be known in their fullness from moment to moment within the nowscape. This is the practice of what Krishnamurti called choiceless awareness, akin to the practice of shikan-taza, or 'just sitting—nothing more' in Zen, and to Dzogchen in the Tibetan tradition [@kabat-zinn-2018-falling]
 
-If _being danced_ is a nondual experience then it follows by definition that one's sense of self dissolves. This is because in order to recognise a self in consciousness there must be an I (as subject) being aware of its self (as object). 
+
 
 + recognise but distinguish from work in expert performance and flow -- or cover that later on? 'at first glance appears to have much in common with Montero, Gallagher'?? 
 
@@ -240,25 +247,22 @@ NDA positioned explicitly as:
 
 samadhi
 
-Metzinger - consciousness is state that does not resemble anything. From p.213 of Pollan book 
-Not tied to an experiencing self. 
-What if I write to the differences (between either side of the threshold?) as being massive?
 
-> To quote just one example, from a recent paper: ‘Even though intuitive processes themselves remain unconscious, they produce outcomes such as intuitions or gut feelings that we can consciously attend to … and use in our judgements.'28 Familiar enough, and seemingly innocuous – yet who or what is this ‘we' that is attending, being informed and making judgements? Both everyday and academic talk constantly smuggle in the idea of the ghostly agent – the mind – that is clearly other than the workings of the body-brain itself. The idea that thinking, and the feeling that there is an inner someone who is ‘doing' the thinking, co-arise when the body-brain finds itself in certain kinds of state is hard to keep hold of, especially once we start talking! [@claxton-2015-intelligence n.pag]
+
+
 
 > The apparent experience of a solid object is dissolved in this understanding, and is replaced by the understanding that we in fact experience a series of fleeting, insubstantial perceptions. It is in this sense that ‘everything falls apart.' [@spira-2008-transparency n.pag]
 
 - relates tightly (?) to how I describe things 'falling away' (when the orchestra has no conductor). Also want to be clear that it is not automated or somehow 'subconscious' -- is that right? 
 
-Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c7048f]] -- what is interesting here is the possibility that, as a matter of direct experience and when the self dissolves, I don't have agency. That it is as if the world is pouring through the skin and bones and tissues that usually I associate with 'my body'. 
 
-> The term nonduality encompasses a unified experience in which the boundaries between self and environment dissolve. This experience of nonduality seems to underlie the experience of flow. [@lynch-2021-role]
+
 
 > [E]xpert consciousness is nondual. The expert is not conscious of his or her own subjectivity and its relation to the object with which he or she is engaged, or even of the tools the expert might be using, including his or her own body. That is the kind of novice awareness that just gets in the way. Instead, the focused attention of the expert is entirely on the task at hand and on the goals to be accomplished through that task. It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness. [@garfield-2022-losing]
 
-> It makes a great deal of biological, psychological, and ecological sense instead to think of awareness as a constant modulation of the open interaction between an organism and its environment, of the adjustment of the state of the organism and attunement of the posture and goals of the organism as its senses and movements interact with the world it inhabits. In other words, we can think of awareness as a mode of embedding of the organism in its world, instead of as the relation between an interior subject and an exterior object, even if that is how it appears to us in introspection. To think of awareness in this way is to take seriously the idea that we don't stand against the world as subjects that detect its properties or agents that act on it, but instead are part of the world, and that awareness is more an attunement to our environment than a recording in our minds of what is going on outside. This approach to cognition, which is called the 'embedded, embodied, enactive' model of cognition, is gaining wide acceptance among philosophers and cognitive scientists. [@garfield-2022-losing n.pag]
+- Montero would disagree. But that is about the type of activity and what 'expert' is??
 
-- this feels like where I am going with the alignment of the context/conditions -- as a modulation of environment. part of that environment is the subsidence of desire.
+
 
 
 > Another experiential property of consciousness is the sense of self, the feeling of being a subject of experience and an agent of action. The sense of self is not one thing. It includes many different elements, such as the bodily self, the mental self experienced in memory and anticipation, the self as a personal storyline (the narrative self), and the social self. Each of these aspects in turn can be analyzed into distinct facets. For example, the bodily self includes the feelings of ownership ('this body is mine'), agency ('I'm the one making this movement'), self-location ('I'm in my body'), and egocentric perception ('I'm seeing the world through my own eyes'). [@frank-2024-blind]
@@ -274,11 +278,9 @@ josipovic-2024-reflexivity.pdf is very useful description of non-representationa
 
 Although these phenomena and ideas are not precisely the same, what they have in common is the way in which they explicitly or implicitly transgress or interrupt conventional understandings and experiences of a self. The term nonduality or nondual awareness ... -- and then add focus on [[nonduality]]
 
-_Waking Up_ is a software application developed by neuroscientist, philosopher and podcaster Sam Harris (who himself is trained in and influenced by the Dzogchen tradition) and it contains a large number of meditations, conversations, lectures and practices exploring secular mindfulness. In a brief audio recording called _What is Mindfulness?_ Harris describes the illusion of self and nondual awareness in which the subject-object dichotomy collapses: 
 
-> [...] that when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-whata]
 
-- [[consciousness-as-such]]
+
 
 
 > Perhaps we shouldn't find it surprising that people regularly experience spaceless and timeless states in meditation, embodied as a "oneness" that no longer takes on the character of being a separate "self." All three of these perceptions—space, time, and self— have been revealed by neuroscience and physics to be a distortion of what we now understand to be the underlying physical reality. These perceptions can even be considered illusions in one sense of the word. (Annaka Harris, Meditation and Reality) <https://annakaharris.com/meditation-and-reality/>
@@ -290,16 +292,13 @@ _Waking Up_ is a software application developed by neuroscientist, philosopher a
 
 > We probably don't think much about proprioception because, in some sense, it's always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of paying attention – a kind of ‘disattention' to the body, which allows it to move.[@seth-2018-being]
 
-Disattention - paradox. Like I'm attending less but get 'more' as a consequence. I like this a lot. Like it's a mechanism for what is happening in the dancing.
+Disattention presents a productive paradox: attending less to the body as something to be monitored and controlled may allow more movement and sensory experience to emerge. In the dancing, this offers a possible mechanism for the shift from deliberate organisation towards being moved.
 
 > Our results lend further evidence to the claims that NDA meditations are different from both FA and OM meditations. While FA and OM meditations are traditionally regarded as "constructed" states created through deployment of speciﬁc attentional strategies, NDA meditations are thought not to involve intentional effort, but to be based on identifying a reﬂexive awareness that is regarded as "unconstructed" (Mipam and Hopkins, 2006). Additionally, both FA and OM meditations are content-oriented, concerned with the speciﬁcs of experience, while NDA meditations could be seen as primarily context-oriented, concerned with the context of experience. (Zoran Josipovic, Influence of Meditation on Anti-Correlated Networks in the Brain)
 
 
 it's even more than 'being danced' -- it ceases to be dancing. it's non-dancing. it's the movement that remains when there is non dancing. moving while non-dancing. 
 
-> Underneath the layered expressions of selfhood involving memories of the past and plans for the future, before the explicit sense of personal identity, beneath the ‘I' and even prior to the emergence of a first-person perspective and experiences of body ownership, there are deeper layers of selfhood still to be found. These bedrock layers are intimately tied to the interior of the body, rather than to the body as an object in the world, and they range from emotions and moods – what psychologists call ‘affective' experiences – to a basal, formless, and ever-present sense of simply ‘being' an embodied, living organism. [@seth-2018-being] 
-
-> According to Josipovic ([2019](https://link.springer.com/article/10.1007/s12671-021-01627-3#ref-CR28)), nondual awareness is an underlying awareness in all conscious experiences, even if left unrealized. It could be that flow states tap into or uncover portions of this nondual awareness, revealing nondual features of experience to the individual. [@lynch-2021-role]
 
 While these accounts of presence, attunement and being moved may appear to align with psychological models of absorption, the threshold I am describing is not simply a matter of intensified engagement but a qualitative shift in the structure of agency itself.
 
@@ -309,6 +308,10 @@ I focus on the experiential qualities of the threshold and ask what happens to a
 
 “There’s some kind of mixing pot there in terms of agency not belonging to the single body [...] it’s not inter, it’s intra [...] this experience of no thing being or everything being.”
 (Katye Coe, 9 February 2024 am, 15:11–18:41)
+
+Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c7048f]] -- what is interesting here is the possibility that, as a matter of direct experience and when the self dissolves, I don't have agency. That it is as if the world is pouring through the skin and bones and tissues that usually I associate with 'my body'. 
+
+
 
 Me reflecting on these things will change these things 
 
@@ -497,7 +500,10 @@ So the claim rejects a narrow research logic in which practice is valuable only 
 
 In short: the practice does not make data. It makes conditions under which something can be seen.
 
+> It makes a great deal of biological, psychological, and ecological sense instead to think of awareness as a constant modulation of the open interaction between an organism and its environment, of the adjustment of the state of the organism and attunement of the posture and goals of the organism as its senses and movements interact with the world it inhabits. In other words, we can think of awareness as a mode of embedding of the organism in its world, instead of as the relation between an interior subject and an exterior object, even if that is how it appears to us in introspection. To think of awareness in this way is to take seriously the idea that we don't stand against the world as subjects that detect its properties or agents that act on it, but instead are part of the world, and that awareness is more an attunement to our environment than a recording in our minds of what is going on outside. This approach to cognition, which is called the 'embedded, embodied, enactive' model of cognition, is gaining wide acceptance among philosophers and cognitive scientists. [@garfield-2022-losing n.pag]
 
+- this feels like where I am going with the alignment of the context/conditions -- as a modulation of environment. part of that environment is the subsidence of desire.
+- only just related in this section but perhaps could be an example
 
 ## Closing: specificity in practice research
 
