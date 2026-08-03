@@ -153,41 +153,32 @@ Because the improvisations were timed and ended with an alarm, the return to ord
 
 Nondual awareness refers to a foundational component of the phenomenology of consciousness in which there is no subject-object structuring [@josipovic-2019-nondual]. In the Dzogchen Tibetan Buddhist tradition nondual awareness is known as _rigpa_ or pristine awareness – where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan], while in Buddhism it is _śūnyatā_ or emptiness – the open, non-conceptual field of awareness itself that is self-luminous and nondual. 
 
-The neuroscientist, philosopher and podcaster Sam Harris (who himself is trained in and influenced by the Dzogchen tradition) describes nondual awareness in mindfulness practice by focusing on the collapse of the subject-object dichotomy and the illusion of self:
+The neuroscientist, philosopher and podcaster Sam Harris (who is trained in and influenced by the Dzogchen tradition) describes nondual awareness in mindfulness practice by focusing on the collapse of the subject-object dichotomy and the illusion of self:
 
 > [...] when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-what]
 
-In our conversation in February 2024 Katye and I reach for language which reference this similar idea of the experiencing not having, or feeling like a self: 
+Katye and I reach for language which references this similar idea of the experiencing not having, or feeling like a self: 
 
 > It does feel like it is happening to me' [as if] 'there isn’t a me doing it.' (Simon Ellis, 15 February 2024 am, 29:07–30:59)
 
 > I don’t know whether I disappear or whether I just get very quiet.
 (Katye Coe, 15 February 2024 am, 31:37–32:38)
 
-
-
 > The wide-open field [...] blurs the edges of thing-ness [...] the binary things like time or effort [...] that keep us as separate from everything else fall away [...] I sort of lose track of a more binary way of being in the world.
 (Katye Coe, 9 February 2024 am, 11:06–12:19)
 
-It is not surprising that in our body awareness practice of authentic movement Katye and I leaned on nondual awareness as a lens to understand our experiences. But I need to take care here. 
+The convergence between our body awareness practice of authentic movement and nondual awareness as a lens to understand the experiences is not surprising. But I need to take care here. 
+
+Not only were these conversations retrospective (initially with Katye minutes after the practice, then with Rosie more than two years afterwards – although that was more akin to reflecting generally about decades of practice), they were all framed more or less than a means to consider non-duality as a way to understand the experiences. That is, the framing tuned us to reach for non-dual language.
+
+At the same time, this first-hand experiential and subjective knowledge is fundamental to practice research but also in complex phenomena like movement improvisation or body-awareness practices. These first-hand accounts provide access to embodied details unavailable to external observers. 
+
+What is more, critical reflection and shared articulation is made possible by retrospective discussion. It's not all bad. 
+
+Yet the risks of these methods are (at least) threefold. First, retrospective discursive data – particularly in time between the practice and the conversations with Rosemary Lee – means the recall and descriptions may be shaped by emerging interpretations. Second, given the work set out to understand the 'losing' of one's self during improvisation these pre-existing concepts shape how ambiguous data are recognised, described and understood. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of non-dual awareness may influence how retrospective accounts are interpreted, making them appear to confirm that framework. 
 
 
-NDA positioned explicitly as:
-
-+ a lens that names loss of subject–object structure  
-+ not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
-
-
-
-
-- does it feel different from flow? 
-
-
-Strengths
-
-* First-hand experiential knowledge
-* Access to embodied detail unavailable to external observers
-* Retrospective discussion enables reflection and shared articulation
+(from LLM): In your case, the concern is that interpreting retrospective accounts through non-dual awareness may create confirmation bias if experiences that fit this framework receive greater attention than those that complicate or contradict it.
 
 Limitations
 
@@ -197,11 +188,23 @@ Limitations
 * Alternative interpretations may have been overlooked or suppressed
 * Participant-researcher involvement limits analytical distance
 
-Theory-laden interpretation: the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. Here, the lens of non-dual awareness may influence how retrospective accounts are interpreted, making them appear to confirm that framework (Hanson 1958, 19).
 
-Hanson, N. R. 1958. Patterns of Discovery: An Inquiry into the Conceptual Foundations of Science. Cambridge: Cambridge University Press. 
 
-(from LLM): In your case, the concern is that interpreting retrospective accounts through non-dual awareness may create confirmation bias if experiences that fit this framework receive greater attention than those that complicate or contradict it.
+
+
+
+NDA positioned explicitly as:
+
++ a lens that names loss of subject–object structure  
++ not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
+
+not evidence that it is not NDA, but just that evidence indicates could be other things. this is evidential underdetermination (see https://chatgpt.com/share/6a704f96-6df8-83ed-bd47-134dd52a1d80)
+
+
+- does it feel different from flow? 
+
+
+
 
 
 
