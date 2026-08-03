@@ -96,10 +96,7 @@ Before I present those I detail the architecture of the movement experience as u
 
 ## Architecture of the experience
 
-**1. The practice is repeatedly described as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (conv 11 of 13)**  
-**2. Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.**  
-**3. A key shift appears between 'awareness-ing' or attending to bodily sensation and becoming 'the passenger', where agency feels reduced or displaced.**  
-**4. The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.**  
+- sub-headings for this architecture?
 
 The trajectory of each improvisation is described clearly in the conversations with Katye and with Rosie.
 
@@ -107,15 +104,21 @@ The trajectory of each improvisation is described clearly in the conversations w
 
 entering the practice / crossing a threshold --> serial sensory tracking --> widening of attention --> deep sensory improvising <--> disappearance of organiser --> ending / return to ordinary life.
 
+**The witness, cameras, sound, room, trust and non-judgement matter because they form the container that lets the mover enter, deepen and return.** -- the conditions matter
+
 The improvisations do not so much leave ordinary life behind as establish a temporary set of conditions in which ordinary life, bodily sensation, memory, thought, image and movement are received differently. As Katye describes it, 'there's a threshold. There is many thresholds but first is to actually just go into space and begin' (Coe, 14 February 2024 am; conversation 10 of 13). This crossing is also a commitment: 'I'm committing to kind of going where I go, or going where this goes for however long the 25 minutes feels like or for however long 25 minutes is' (Coe, 14 February 2024 am; conversation 10 of 13).
 
 The practice is repeatedly described by the two of us as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (Coe, 14 February 2024 pm, conversation 11 of 13), and also describes tracking sensations: 'I noticed this, and then I noticed that and then I noticed this, or I stay with this' (Coe, 8 February 2024 am; conversation 6 of 13). This initial experience is not deliberate body scanning, since sensations seem to enter awareness rather than be searched for, but there is still a sense of awareness moving from one bodily event to another. This serial sensory tracking starts to diminish as attention widens. Katye describes this shift as if 'it spreads out. And therefore [...] the hierarchy of attention, it becomes like very flat' (Coe, 8 February 2024 am; conversation 6 of 13) and wide: 'a wideness of seeing and a wideness of feeling' (Coe, 1 February 2024 am; conversation 2 of 13). Such change from tracking to widening is as if the information presented to awareness through sensations in the body goes from happening in series to happening in parallel, and becomes less like attending to separate sensations and more akin to inhabiting a _field_ of bodily, perceptual and imaginal events. 
+
+**Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.** -- add this idea 
 
 In the conversations with Rosemary, I describe what I believe to be the same experience as deep sensory improvisation or as a 'flow of awareness' (Ellis, 4 May 2026). The clearest description is of sensations which could be named sequentially not feeling sequential in experience:
 
 > Hands tingling, lower back — you could name it as a list, as if they are serial things or serial awarenesses in my body, but they feel much more like they're overlapping [...] as if I'm aware of it all at the same time (Ellis, 4 May 2026).
 
 This kind of experience of dancing feels full, effortless and hard to disturb, but there is also clearly a self present as the organiser: 'The feeling is of a really incredibly complex orchestra and I'm the conductor' (Ellis, 4 May 2026). That self is not necessarily grasping or forcing the dance, but it is still the one sensing, selecting and conducting. In other words, what I am calling deep sensory improvising still includes 'some self at the centre of this, noticing those things' (Ellis, 4 May 2026).
+
+A key shift appears between 'awareness-ing' or attending to bodily sensation and becoming 'the passenger', where agency feels reduced or displaced. -- add this somewhere to clarify
 
 The improvisation continues to deepen but changes to being an experience without a conductor or organiser. There is no labelling and although awareness remains it is not _mine_ in the usual way. My sensitivity to time and space disappears as if those dimensions cease. The body does not vanish; the bounded, skin-contained, self-owned body vanishes. What appears instead is less like being _out of body_ or disembodied, and more like what I describe as 'all body':
 
@@ -137,27 +140,31 @@ This reconstitution is not located in a single body part. Rather, ordinary embod
 
 Rosemary describes this return as 'refinding your edge', and I recognise that as a return to a skin-contained body: 'I'm in this skin [...] I'm aware of a boundary, a rather superficial boundary between interior and exterior' (Ellis, 19 May 2026).
 
-The difference between deep sensory improvising and the disappearance of the organiser is stark even if the entry into being _all body_ is slippery and nigh impossible to pinpoint. Furthermore, my suspicion is that I oscillate between the two kinds of dancing. These are both clear phenomenological properties of these two experiences of deep dancing. First is that the experience of dancing without an organiser only becomes clear once that organiser returns. Second is that the sense of an _I_ is oscillating between being and not being. In one conversation with Katye, I describe this oscillation as being 'up and over the threshold and down and over', with the line becoming 'much much grey or slippery' (Ellis, 14 February 2024 pm; conversation 11 of 13).
+The difference between deep sensory improvising and the disappearance of the organiser is stark even if the entry into being _all body_ is slippery and nigh impossible to pinpoint. Furthermore, my experiential hunch is that I oscillate between the two kinds of dancing. These are both clear phenomenological properties of these two experiences of deep dancing. First is that the experience of dancing without an organiser only becomes clear once that organiser returns. Second is that the sense of an _I_ is oscillating between being and not being. In one conversation with Katye, I describe this oscillation as being 'up and over the threshold and down and over', with the line becoming 'much much grey or slippery' (Ellis, 14 February 2024 pm; conversation 11 of 13).
 
 Because the improvisations were timed and ended with an alarm, the return to ordinary life could happen from either deep sensory dancing or dancing without an organiser. The harshness and potential discombobulation of the ending would depend on which kind of dancing experience was interrupted. As Katye observes, 'it's clear, like there's a reorienting that goes on and there's a kind of coming back that's happening' (Coe, 9 February 2024 pm; conversation 8 of 13).
 
+## Five observations - this isn't right.
 
+- 
 
-## Five observations
-
-### Non-dual awareness
+### Non-dual awareness as a frame
 
 > Spend enough time in the hyper-awareness of improvisation and you will undoubtedly begin to question [...] the structure of self.
 
 <div style="text-align: right">– Kent De Spain [-@despain-2014-landscape p.52]</div>
 
-Nondual awareness refers to a foundational component of the phenomenology of consciousness in which there is no subject-object structuring [@josipovic-2019-nondual]. In the Dzogchen Tibetan Buddhist tradition nondual awareness is known as _rigpa_ or pristine awareness – where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan], while in Buddhism it is _śūnyatā_ or emptiness – the open, non-conceptual field of awareness itself that is self-luminous and nondual. 
+We tend to perceive ourselves as subjects seeing the world – including the body – 'as a field of objects to be endlessly manipulated, optimized, and exploited' [@sacasas-2022-two n.pag]. In everyday English we describe ourselves as _having_ a body. But when I say, 'I have a body', who is the _I_ in that statement that _has_ a body and how is the _I_ distinguishable from that body?   
+
+The philosopher and sociologist Helmuth Plessner (building on the work of phenomenologist Edmund Husserl) described the double nature of human embodiment. That is, 'we both _are_ a body and _have_ a body' [@wehrle-2020-being p.499]. Plessner wrote, '[A] human being always and conjointly is a living body and has this living body as his [sic] physical thing' [Plessner 1970, in @wehrle-2020-being p.500]. In other words, the human body is a subject _and_ an object, even if when it is perceived as an object it is somehow an 'object of special regard' [@garfield-2022-losing n.pag.].
+
+Nondual awareness refers to a foundational component of the phenomenology of consciousness in which there is no such subject-object structuring [@josipovic-2019-nondual]. In the Dzogchen Tibetan Buddhist tradition nondual awareness is known as _rigpa_ or pristine awareness – where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan], while in Buddhism it is _śūnyatā_ or emptiness – the open, non-conceptual field of awareness itself that is self-luminous and nondual. 
 
 The neuroscientist, philosopher and podcaster Sam Harris (who is trained in and influenced by the Dzogchen tradition) describes nondual awareness in mindfulness practice by focusing on the collapse of the subject-object dichotomy and the illusion of self:
 
-> [...] when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. And so in that context one speaks and thinks less about mindfulness as a kind of behavior or practice or even state of mind and one tends to speak more about the nature of consciousness itself. [@harris-nodate-what]
+> [...] when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. [@harris-nodate-what]
 
-Katye and I reach for language which references this similar idea of the experiencing not having, or feeling like a self: 
+In our conversations together Katye and I reached for language that describes the dancing in similar ways in which selfhood is somehow compromised or challenged:  
 
 > It does feel like it is happening to me' [as if] 'there isn’t a me doing it.' (Simon Ellis, 15 February 2024 am, 29:07–30:59)
 
@@ -167,26 +174,21 @@ Katye and I reach for language which references this similar idea of the experie
 > The wide-open field [...] blurs the edges of thing-ness [...] the binary things like time or effort [...] that keep us as separate from everything else fall away [...] I sort of lose track of a more binary way of being in the world.
 (Katye Coe, 9 February 2024 am, 11:06–12:19)
 
-The convergence between our body awareness practice of authentic movement and nondual awareness as a lens to understand the experiences is not surprising. But I need to take care here. 
+The convergence between our body awareness practice of authentic movement and nondual awareness as a lens to understand the experiences is not surprising. 
 
-Not only were these conversations retrospective (initially with Katye minutes after the practice, then with Rosie more than two years afterwards – although that was more akin to reflecting generally about decades of practice), they were all framed more or less than a means to consider non-duality as a way to understand the experiences. That is, the framing tuned us to reach for non-dual language.
+But I need to take care here. 
+
+## the methodological and interpretive limits of NDA as frame
+
+Not only were these conversations retrospective (initially with Katye minutes after the practice, then with Rosemary Lee more than two years afterwards – although that was more akin to reflecting generally about decades of practice), they were all framed more or less than a means to consider non-duality as a way to understand the experiences. That is, the framing tuned us to reach for non-dual language.
 
 At the same time, this first-hand experiential and subjective knowledge is fundamental to practice research but also in complex phenomena like movement improvisation or body-awareness practices. These first-hand accounts provide access to embodied details unavailable to external observers. 
 
 What is more, critical reflection and shared articulation is made possible by retrospective discussion. It's not all bad. 
 
-Yet the risks of these methods are (at least) threefold. First, retrospective discursive data – particularly in time between the practice and the conversations with Rosemary Lee – means the recall and descriptions may be shaped by emerging interpretations. Second, given the work set out to understand the 'losing' of one's self during improvisation these pre-existing concepts shape how ambiguous data are recognised, described and understood. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of non-dual awareness may influence how retrospective accounts are interpreted, making them appear to confirm that framework. 
+Yet the risks of these methods are (at least) threefold. First, All discursive data are retrospective. Second, retrospective discursive data – particularly in time between the practice and the conversations with Rosemary Lee – means the recall and descriptions may be shaped by emerging interpretations. Third, given the research set out to understand the 'losing' of one's self during improvisation these pre-existing concepts shape how ambiguous data are recognised, described and understood. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of non-dual awareness may influence the extent to which – and how – retrospective accounts are interpreted, making them appear to confirm that framework. Fourth, Alternative interpretations may have been overlooked or suppressed. Fifth, Participant-researcher involvement limits analytical distance
 
 
-(from LLM): In your case, the concern is that interpreting retrospective accounts through non-dual awareness may create confirmation bias if experiences that fit this framework receive greater attention than those that complicate or contradict it.
-
-Limitations
-
-* All discursive data are retrospective
-* Recall and description may be shaped by emerging interpretations
-* Risk of theory-laden interpretation through the lens of non-dual awareness
-* Alternative interpretations may have been overlooked or suppressed
-* Participant-researcher involvement limits analytical distance
 
 
 
@@ -198,8 +200,16 @@ NDA positioned explicitly as:
 + a lens that names loss of subject–object structure  
 + not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
 
+### the evidence
+
 not evidence that it is not NDA, but just that evidence indicates could be other things. this is evidential underdetermination (see https://chatgpt.com/share/6a704f96-6df8-83ed-bd47-134dd52a1d80)
 
+### so what is definitely happening?
+
+- reduced sense of agency 
+- less or ceased cognitive chatter
+
+- where do epistemic limits go in this new format? and the bias towards movement? 
 
 - does it feel different from flow? 
 
