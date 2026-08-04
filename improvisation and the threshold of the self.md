@@ -98,7 +98,7 @@ As Katye describes it, 'there's a threshold. There [are] many thresholds but fir
 
 The practice is repeatedly described by the two of us as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (Coe, 14 February 2024 pm, conversation 11 of 13), and also describes tracking sensations: 'I noticed this, and then I noticed that and then I noticed this, or I stay with this' (Coe, 8 February 2024 am; conversation 6 of 13). This initial experience is not deliberate body scanning, since sensations seem to enter awareness rather than be searched for, but there is still a sense of awareness moving from one bodily event to another. 
 
-**Movement and awareness form a reciprocal process: sensation gives rise to movement, movement generates further sensation, then this loop begins to blur.** -- add this idea 
+Movement and awareness appear to form a reciprocal process in which ‘sensing movement precipitates more movement, which precipitates more sensory information’ (Ellis, 4 May 2026). Katye, however, questions the circularity implied by reciprocity: she is ‘not saying that that’s not happening’, but experiences it as something that ‘just keeps going somewhere else’ (Coe, 2 February 2024 am; conversation 4 of 13), until the distinction between sensation and movement begins to blur.
 
 ### Widening of attention
 
@@ -136,7 +136,7 @@ Because the improvisations were timed and ended with an alarm, the return to ord
 
 ## Analysis
 
-### The frame of non-dual awareness
+### Embodiment and the frame of non-dual awareness
 
 > Spend enough time in the hyper-awareness of improvisation and you will undoubtedly begin to question [...] the structure of self.
 
@@ -162,37 +162,26 @@ In our conversations together Katye and I reached for language that describes th
 > The wide-open field [...] blurs the edges of thing-ness [...] the binary things like time or effort [...] that keep us as separate from everything else fall away [...] I sort of lose track of a more binary way of being in the world.
 (Katye Coe, 9 February 2024 am, 11:06–12:19)
 
-The convergence between our body awareness practice of authentic movement and nondual awareness as a lens to understand the experiences is hardly surprising given how the project was framed and described as research exploring 'the phenomenology of dance improvisation in dialogue with research into nonduality, flow, interoception and consciousness' 
+Such convergence between our descriptions of the body awareness practice of authentic movement and nondual awareness as a lens to understand the experiences is hardly surprising given that the project was originally framed and described as exploring 'the phenomenology of dance improvisation in dialogue with research into nonduality, flow, interoception and consciousness' [@ellis-2024-losing]. 
 
-But I need to take care here. 
+And so I need to take care here.
 
-## the methodological and interpretive limits of NDA as frame
+### Methodological and interpretive risks
 
-Not only were these conversations retrospective (initially with Katye minutes after the practice, then with Rosemary Lee more than two years afterwards – although that was more akin to reflecting generally about decades of practice), they were all framed more or less than a means to consider non-duality as a way to understand the experiences. That is, the framing tuned us to reach for non-dual language and understanding.
+First-hand experiential and subjective knowledge is fundamental to practice research and also in complex phenomena like movement improvisation or body-awareness practices. Such first-hand accounts provide access to details of corporeal and embodied experiences unavailable to external observers. Furthermore, critical reflection and shared articulation is made possible by retrospective discussion and analysis.
 
-At the same time, this first-hand experiential and subjective knowledge is fundamental to practice research but also in complex phenomena like movement improvisation or body-awareness practices. These first-hand accounts provide access to embodied details unavailable to external observers. 
+Yet the retrospective conversations that comprise a key part of the reflective methods of this research carry at least four risks. First, retrospective discursive data – particularly in the time between the practice and the conversations with Rosemary Lee – means the recall and descriptions may be shaped by emerging interpretations. Second, given the research set out to understand the 'losing' of one's self during improvisation these pre-existing concepts shape how ambiguous data are perceived. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of non-dual awareness may have influenced how and the extent to which retrospective accounts were interpreted, making them appear to confirm that framework. Third, alternative interpretations may have been overlooked or suppressed. Fourth, participant-researcher involvement limits analytical distance.
 
-What is more, critical reflection and shared articulation is made possible by retrospective discussion. It's not all bad. 
+A further risk concerns not only the retrospective character of the conversations but their initial framing. From the immediate post-practice discussions with Katye to the later conversations with Rosemary Lee, non-duality was already present as a possible way of understanding the experiences. This framing may have conceptually primed the conversations, tuning us to notice particular features and reach for non-dual language while making other descriptions or interpretations less available. The accounts were therefore not simply later interpreted through a non-dual lens but were partly produced through it.
 
-Yet the risks of these methods are (at least) threefold. First, All discursive data are retrospective. Second, retrospective discursive data – particularly in time between the practice and the conversations with Rosemary Lee – means the recall and descriptions may be shaped by emerging interpretations. Third, given the research set out to understand the 'losing' of one's self during improvisation these pre-existing concepts shape how ambiguous data are recognised, described and understood. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of non-dual awareness may influence the extent to which – and how – retrospective accounts are interpreted, making them appear to confirm that framework. Fourth, Alternative interpretations may have been overlooked or suppressed. Fifth, Participant-researcher involvement limits analytical distance
+### It is not not nondual awareness
 
-
-
-
-
-
-
-
-NDA positioned explicitly as:
-
-+ a lens that names loss of subject–object structure  
-+ not an explanation, not a telos (it neither explains the practice nor gives it a direction. It names something that can appear without being caused and without being aimed for. As soon as it is treated as either, it collapses into seeking, optimisation, or narrative closure.)
-
-### the evidence
+None of these concerns or risks indicate that the experiences during which the organiser of the dancing _disappeared_ were not _not_ nondual awareness. Rather, the body of evidence both experientially and in the retrospective conversations indicates that nondual awareness is one of many ways to account for or make sense of the experiences. This is a form of evidential underdetermination 
 
 not evidence that it is not NDA, but just that evidence indicates could be other things. this is evidential underdetermination (see https://chatgpt.com/share/6a704f96-6df8-83ed-bd47-134dd52a1d80)
 
-### so what is definitely happening?
+
+### What is definitely happening?
 
 - reduced sense of agency 
 - less or ceased cognitive chatter
@@ -200,6 +189,14 @@ not evidence that it is not NDA, but just that evidence indicates could be other
 - where do epistemic limits go in this new format? and the bias towards movement? 
 
 - does it feel different from flow? 
+
+
+
+
+
+
+
+
 
 > Starting with relaxation and silencing of the layers of inner narrative related to autobiographical-relational-social self, it progresses to the cessation of processes specifying phenomenal core self, such as agency, body-ownership, and spatio-temporal located-ness, then to the basic interoceptive sense of body presence (Farb et al., 2007; Siderits et al., 2013; Dahl et al., 2015; Dor-Ziderman et al., 2016; Metzinger, 2020). However, such temporary quieting down in and of itself may not yet be cessation of the constructed self as the implicit categorizations that reify the self and objects may be still operating in the unconscious substrate (Germano and Waldron, 2006). Thus, selflessness can be understood in a more refined way as not merely inner silence but as a more fundamental transformation of the nature of cognition in which cognitive processes switch from the exclusive reliance on conceptually constructed dualistic subject-object structures to a more direct unconstructed way of cognizing via NDA itself. (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
 
