@@ -209,7 +209,12 @@ it's even more than 'being danced' -- it ceases to be dancing. it's non-dancing.
 
 ## explanations -- not really for this chapter
 - more like further reading
+
+### illusory self
+
 > Perhaps we shouldn't find it surprising that people regularly experience spaceless and timeless states in meditation, embodied as a "oneness" that no longer takes on the character of being a separate "self." All three of these perceptions—space, time, and self— have been revealed by neuroscience and physics to be a distortion of what we now understand to be the underlying physical reality. These perceptions can even be considered illusions in one sense of the word. (Annaka Harris, Meditation and Reality) <https://annakaharris.com/meditation-and-reality/>
+
+### predictive brain / precision weighting / disattention
 
 > Carhart-Harris's work on the entropic brain is mentioned a lot in the Unraveling the Dream documentary and this is where things get properly interesting. The hypothesis which is laid out in [the original 2014 Frontiers paper](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00020/full) and then revisited in the [sciencedirect.com](https://www.sciencedirect.com/) paper titled  [The entropic brain -- revisited](https://www.sciencedirect.com/science/article/abs/pii/S0028390818301175) proposes that psilocybin and LSD throw a spanner into the brain's prediction machinery. The priors loosen and the top down predictions get weaker. The raw sensory information starts to matter more than the model. And the _self_ which is itself just another prediction your brain is running becomes more optional.
 
@@ -219,6 +224,30 @@ it's even more than 'being danced' -- it ceases to be dancing. it's non-dancing.
 > We probably don't think much about proprioception because, in some sense, it's always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of paying attention – a kind of ‘disattention' to the body, which allows it to move.[@seth-2018-being]
 
 Disattention presents a productive paradox: attending less to the body as something to be monitored and controlled may allow more movement and sensory experience to emerge. In the dancing, this offers a possible mechanism for the shift from deliberate organisation towards being moved.
+
+### Bias towards the body moving
+
+- the thing about being in motion is that the constantly changing part is foregrounded exquisitely
+
+- precision weighting -- Gallagher as well? 
+
+- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]. also on this point see Spira below: [[#^b57941]]
+
+> Although this sounds complicated, we are all intimately familiar with the role of precision weighting in perception. Increasing the estimated precision of sensory signals is nothing other than ‘paying attention'. When you pay attention to something – for example, really trying to see whether a gorilla is out there in the distance – your brain is increasing the precision weighting on the corresponding sensory signals, which is equivalent to increasing their estimated reliability, or turning up their ‘gain'. Thinking about attention this way can explain why sometimes we don't see things, even if they are in plain view, and even if we are looking right at them. [@seth-2021-being] 
+
+> If we think that we know something objective about ourselves or the world, then whatever that something is that we think we know, will condition our subsequent enquiry into the nature of experience.[@spira-2008-transparency] ^b57941
+
+This is essential also in relation to training biases
+
+- From Hetty in November 2024: what is the role of movement? (this is a key question re [[Seth and Tsakiris - Being a Beast Machine]] and the 'bias' of movement for dancers )
+
+### the shape of the skin (and spira)
+
+The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
+
+I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
+
+- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled. -- metaphysical (not phenomenological) -- but include? 
 
 ## not yet organised but likely useful
 
@@ -262,30 +291,25 @@ The problem is not spirituality per se, but the way explanatory language can qui
 - very very strong; also possibly have a section called 'the idea of a self'? (or similar)  
 - note also that I think I'm focusing on a particular kind of self which map to many of the things re bodily self that Frank et al describe  
 
-
-
-
-
 ### Agency
 
 While these accounts of presence, attunement and being moved may appear to align with psychological models of absorption, the threshold I am describing is not simply a matter of intensified engagement but a qualitative shift in the structure of agency itself.
-
-I focus on the experiential qualities of the threshold and ask what happens to agency, self and knowing at the moment when movement ceases to be organised by a subject. -- need to make an argument that for this kind of dancing in this kind of practice nonduality is a thing. Then get into agency and knowing? and consciousness? and the limits of phenomenology.
 
 “There’s some kind of mixing pot there in terms of agency not belonging to the single body [...] it’s not inter, it’s intra [...] this experience of no thing being or everything being.”
 (Katye Coe, 9 February 2024 am, 15:11–18:41)
 
 Garfield very good re agency. See for example [[Garfield - Losing Ourselves#^c7048f]] -- what is interesting here is the possibility that, as a matter of direct experience and when the self dissolves, I don't have agency. That it is as if the world is pouring through the skin and bones and tissues that usually I associate with 'my body'. 
 
+> We have encountered four principle conceptual ingredients to the idea of self: priority, unity, subject-object duality, and agency. That is, a self is meant to have a kind of existence *prior* to, or more fundamental than, that of body and mind; it is meant to be a unitary entity, not a multiplicity; it is that which is the subject of our cognitive objects, and so distinct from them; and it is the agent of action and the locus of responsibility.[11](https://readwise.io/reader/document_raw_content/32011253#chapter2-11) (Jay L. Garfield, Losing Ourselves)
 
 
-Me reflecting on these things will change these things 
 
-also Gödelian paradoxes. It means a paradox or limit produced by self-reference, especially the kind made famous by Kurt Gödel's incompleteness theorem.
+++++++
+
+### analysis / thinking re the threshold
 
 Regarding the threshold -- Josipovic talks about a transitional zone: [@josipovic-2021-implicit] or this: <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1450553/full>
 
-> We have encountered four principle conceptual ingredients to the idea of self: priority, unity, subject-object duality, and agency. That is, a self is meant to have a kind of existence *prior* to, or more fundamental than, that of body and mind; it is meant to be a unitary entity, not a multiplicity; it is that which is the subject of our cognitive objects, and so distinct from them; and it is the agent of action and the locus of responsibility.[11](https://readwise.io/reader/document_raw_content/32011253#chapter2-11) (Jay L. Garfield, Losing Ourselves)
 
 One is being aware that there is an experience happening (which in itself is a deep immersed experience) to the other in which you become the experience. It's so subtle yet utterly obvious. 
 
@@ -297,23 +321,7 @@ gradual changes but then absolute. dawn/dusk not right -- like the sun is settin
 - note that he is talking about skilled performance based on his own and Christensen et al's work (re meshed architecture)
 - but for me it's more like allowing something to happen as opposed to choosing something to happen. This diminishment of agency seems important or not to be underestimated. See below re explanation and telos.
 
-### Bias towards the body moving
 
-> People instinctively regard themselves as selves in a very specific sense: they take themselves to persist through time as numerically identical subjects and agents, distinct from their minds, bodies, experiences, and traits. They do so even though they acknowledge that these minds, bodies, experiences, and traits are constantly changing and that they are only contingently connected to their selves. (Jay L. Garfield, Losing Ourselves)
-
-- the thing about being in motion is that the constantly changing part is foregrounded exquisitely
-
-- precision weighting -- Gallagher as well? 
-
-- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]. also on this point see Spira below: [[#^b57941]]
-
-> Although this sounds complicated, we are all intimately familiar with the role of precision weighting in perception. Increasing the estimated precision of sensory signals is nothing other than ‘paying attention'. When you pay attention to something – for example, really trying to see whether a gorilla is out there in the distance – your brain is increasing the precision weighting on the corresponding sensory signals, which is equivalent to increasing their estimated reliability, or turning up their ‘gain'. Thinking about attention this way can explain why sometimes we don't see things, even if they are in plain view, and even if we are looking right at them. [@seth-2021-being] 
-
-> If we think that we know something objective about ourselves or the world, then whatever that something is that we think we know, will condition our subsequent enquiry into the nature of experience.[@spira-2008-transparency] ^b57941
-
-This is essential also in relation to training biases
-
-- From Hetty in November 2024: what is the role of movement? (this is a key question re [[Seth and Tsakiris - Being a Beast Machine]] and the 'bias' of movement for dancers )
 
 In the guided meditation on Tuesday 13 February 2024  ([that I shared with KC](https://dynamic.wakingup.com/daily/DA2963B?source=content%20share&share_id=083C72ED&code=SC73A05B4)), Sam Harris touches on the sense that the 'position' of the thinker/meditator as possibly feeling 'above' the feeling of movement in the hands. He, of course, challenges this idea or sensation. 
 
@@ -321,21 +329,9 @@ It occurred to me that one of the differences between a sitting meditation and a
 
 ties in with those papers re DMN and self-processing etc.
 
-also ties in with below:
 
-Sam Harris Waking Up guided meditation:
 
-https://dynamic.wakingup.com/daily/DA76E90?source=content%20share&share_id=5B68379A&code=SC73A05B4
 
-> We all spend a lot of time thinking about ourselves but how we appear to others about who we are in our lives and in the world about whether we are the person we want to be or expected to be but notice that this is who you are in this moment. You are precisely this experience. This moment of hearing, this moment of seeing. See if you can drop all of your ideas about yourself and sink into this moment of practice. There is always just _this_ whatever else seems to be happening. (5:21min)
-
-> This practice is simply about being non distracted by the automaticity of thought. What's left when you're not distracted, is nothing but the vividness of conscious experience. Seeing, hearing, smelling, tasting, touching ... the arising of an emotion. (8:55min)
-
-The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
-
-I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
-
-- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled.
 
 
 > Consciousness bestows its identity exclusively on the body. It believes and feels, 'I am the body.' (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
