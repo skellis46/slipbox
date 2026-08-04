@@ -86,23 +86,23 @@ The research is distinct from work that analyses movement [e.g. @koch-2011-movem
 
 ## Architecture of the experience
 
-The trajectory or architecture of each improvisation is described clearly in the retrospective conversations with Katye Coe and with Rosemary Lee.
+The trajectory or architecture of each improvisation is described clearly in the retrospective conversations with Katye Coe and with Rosemary Lee. It consists of five parts that do have some experiential overlap: Entering the practice / Crossing a threshold; Serial sensory tracking; Widening of attention; Deep sensory improvising; Being danced; and Ending / Return to ordinary life. Although written here in a linear way, these layers are not necessarily linear progressions.
 
 ### Entering the practice / Crossing a threshold
 
-The improvisations do not so much leave ordinary life behind as establish a temporary set of conditions in which ordinary life, bodily sensation, memory, thought, image and movement are received differently. These conditions matter: the near silence, the witness, the room and the clear commitment to non-judgement form a porous container that affords the mover the capacity to trust, to enter, deepen and return. 
+The improvisations do not so much leave ordinary life behind as establish a temporary set of conditions in which ordinary life, bodily sensation, memory, thought, image and movement are received differently. These conditions matter: the near silence, the witness, the room and the clear commitment to non-judgement form a porous container that affords the mover the capacity to trust, and to enter, deepen and return. 
 
 As Katye describes it, 'there's a threshold. There [are] many thresholds but first is to actually just go into space and begin' (Coe, 14 February 2024 am; conversation 10 of 13). This crossing is also a commitment: 'I'm committing to kind of going where I go, or going where this goes for however long the 25 minutes feels like or for however long 25 minutes is' (Coe, 14 February 2024 am; conversation 10 of 13).
 
 ### Serial sensory tracking
 
-The practice is repeatedly described by the two of us as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (Coe, 14 February 2024 pm, conversation 11 of 13), and also describes tracking sensations: 'I noticed this, and then I noticed that and then I noticed this, or I stay with this' (Coe, 8 February 2024 am; conversation 6 of 13). This initial experience is not deliberate body scanning, since sensations seem to enter awareness rather than be searched for, but there is still a sense of awareness moving from one bodily event to another. 
+The practice is repeatedly described by the two of us as beginning through sensation: weight, pressure, skin, temperature, tone, breath, gravity and movement information. Katye calls sensation the 'gateway threshold' (Coe, 14 February 2024 pm, conversation 11 of 13), and also describes tracking sensations: 'I noticed this, and then I noticed that and then I noticed this, or I stay with this' (Coe, 8 February 2024 am; conversation 6 of 13). This initial experience is not deliberate body scanning, since sensations seem to enter awareness rather than be searched for, but there is still a sense of awareness moving as if in series from one bodily event to another. 
 
 Movement and awareness appear to form a reciprocal process in which ‘sensing movement precipitates more movement, which precipitates more sensory information’ (Ellis, 4 May 2026). Katye, however, questions the circularity implied by reciprocity: she is ‘not saying that that’s not happening’, but experiences it as something that ‘just keeps going somewhere else’ (Coe, 2 February 2024 am; conversation 4 of 13), until the distinction between sensation and movement begins to blur.
 
 ### Widening of attention
 
-This serial sensory tracking starts to diminish as attention widens. Katye describes this shift as if 'it spreads out. And therefore [...] the hierarchy of attention, it becomes like very flat' (Coe, 8 February 2024 am; conversation 6 of 13) and wide: 'a wideness of seeing and a wideness of feeling' (Coe, 1 February 2024 am; conversation 2 of 13). Such change from tracking to widening is as if the information presented to awareness through sensations in the body goes from happening in series to happening in parallel, and becomes less like attending to separate sensations and more akin to inhabiting a _field_ of bodily, perceptual and imaginal events. 
+Serial sensory tracking starts to diminish as attention widens. Katye describes this shift as if 'it spreads out. And therefore [...] the hierarchy of attention, it becomes like very flat' (Coe, 8 February 2024 am; conversation 6 of 13) and wide: 'a wideness of seeing and a wideness of feeling' (Coe, 1 February 2024 am; conversation 2 of 13). Such change from tracking to widening is as if the information presented to awareness through sensations in the body goes from happening in series to happening in parallel, and becomes less like attending to separate sensations and more akin to inhabiting a _field_ of bodily, perceptual and imaginal events. 
 
 ### Deep sensory improvising
 
@@ -118,21 +118,21 @@ The improvisation continues to deepen but changes to being an experience without
 
 > It doesn't sound right to me [...] if I were to say out of body. But actually, what it feels like, it's much more like [...] all body. It's like all there is. (Ellis, 19 May 2026). 
 
-In this kind of dancing without an organiser, 'I don't think I'm aware of a body encased by skin. So, _all body_ means that the skin dissolves' (Ellis, 19 May 2026).
+In being danced, 'I don't think I'm aware of a body encased by skin. So, _all body_ means that the skin dissolves' (Ellis, 19 May 2026).
 
 Crucially, there is no clear memory from within this experience when the organiser disappears and I know it only through the return to deep sensory dancing. In the second interview with Rosemary, I describe this return as a change in which 'It feels like the _I_ disassembles. And then gets reconstituted' (Ellis, 19 May 2026).
 
 This reconstitution is not located in a single body part. Rather, ordinary embodied experience reappears as distributed sensation:
 
-> So I come back to my body in the regular way in which we inhabit it, that there's, you know, weight in my elbows, I can feel pressure in my toes or under my feet or depending on, you know, what position I am in the room or whatever. So that they become, I become. I re-awaken or become re-aware [...] of ... someone who has a body (Ellis, 19 May 2026).
+> So I come back to my body in the regular way in which we inhabit it, that there's [...] weight in my elbows, I can feel pressure in my toes or under my feet or depending on [...] what position I am in the room [...] So that they become, I become. I re-awaken or become re-aware [...] of ... someone who has a body (Ellis, 19 May 2026).
 
 Rosemary describes this return as 'refinding your edge', and I recognise it as a return to a skin-contained body: 'I'm in this skin [...] I'm aware of a boundary, a rather superficial boundary between interior and exterior' (Ellis, 19 May 2026).
 
 The difference between deep sensory improvising and being danced is stark even if the entry into being _all body_ is slippery and nigh impossible to pinpoint. Furthermore, my experiential hunch is that I oscillate between the two kinds of dancing. These are both clear phenomenological properties of these two experiences of deep dancing. First is that the experience of dancing without an organiser – being danced – only becomes clear once that organiser returns. Second is that the sense of an _I_ is oscillating between being and not being. In one conversation with Katye, I describe this oscillation as being 'up and over the threshold and down and over', with the line becoming 'much much grey or slippery' (Ellis, 14 February 2024 pm; conversation 11 of 13).
 
-### Ending / Return to ordinary life.
+### Ending / Return to ordinary life
 
-Because the improvisations were timed and ended with an alarm, the return to ordinary life could happen from either deep sensory dancing or being danced. The harshness and potential discombobulation of the ending would depend on which kind of dancing experience was interrupted. As Katye observes, 'it's clear, like there's a reorienting that goes on and there's a kind of coming back that's happening' (Coe, 9 February 2024 pm; conversation 8 of 13).
+Because the improvisations were timed and ended with an alarm, the return to ordinary life would happen from either deep sensory dancing or being danced. The harshness and potential discombobulation of the ending would depend on which kind of dancing experience was interrupted. As Katye observes, 'it's clear, like there's a reorienting that goes on and there's a kind of coming back that's happening' (Coe, 9 February 2024 pm; conversation 8 of 13).
 
 ## Analysis
 
@@ -144,7 +144,7 @@ Because the improvisations were timed and ended with an alarm, the return to ord
 
 We tend to perceive ourselves as subjects seeing the world (which includes the body) 'as a field of objects to be endlessly manipulated, optimized, and exploited' [@sacasas-2022-two n.pag]. In everyday English we describe ourselves as _having_ a body. But when I say, 'I have a body', who is the _I_ in that statement that _has_ a body and how is the _I_ distinguishable from that body?   
 
-The philosopher and sociologist Helmuth Plessner (building on the work of phenomenologist Edmund Husserl) described the double nature of human embodiment. That is, 'we both _are_ a body and _have_ a body' [@wehrle-2020-being p.499]. Plessner wrote, '[A] human being always and conjointly is a living body and has this living body as his [sic] physical thing' [Plessner 1970, in @wehrle-2020-being p.500]. In other words, the human body is a subject _and_ an object, even if when it is perceived as an object it is somehow an 'object of special regard' [@garfield-2022-losing n.pag.].
+The philosopher and sociologist Helmuth Plessner (building on the work of phenomenologist Edmund Husserl) describes the double nature of human embodiment. That is, 'we both _are_ a body and _have_ a body' [@wehrle-2020-being p.499]. Plessner wrote, '[A] human being always and conjointly is a living body and has this living body as his [sic] physical thing' [Plessner 1970, in @wehrle-2020-being p.500]. In other words, the human body is a subject _and_ an object, even if when it is perceived as an object it is somehow an 'object of special regard' [@garfield-2022-losing n.pag.].
 
 Nondual awareness refers to a foundational component of the phenomenology of consciousness in which there is no such subject-object structuring [@josipovic-2019-nondual]. In the Dzogchen Tibetan Buddhist tradition nondual awareness is known as _rigpa_ or pristine awareness – where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan], while in Buddhism it is _śūnyatā_ or emptiness – the open, non-conceptual field of awareness itself that is self-luminous and nondual. 
 
@@ -154,13 +154,11 @@ The neuroscientist, philosopher and podcaster Sam Harris (who is trained in and 
 
 In our conversations together Katye and I reached for language that describes the dancing in similar ways in which selfhood is somehow compromised or challenged:  
 
-> It does feel like it is happening to me […] there isn’t a me doing it? Or something like that? (Simon Ellis, 15 February 2024 am)
+> It does feel like it is happening to me [...] there isn’t a me doing it? Or something like that? (Simon Ellis, 15 February 2024 am)
 
-> I don’t know whether I disappear or whether I just get very quiet.
-(Katye Coe, 15 February 2024 am)
+> I don’t know whether I disappear or whether I just get very quiet. (Katye Coe, 15 February 2024 am)
 
-> The wide-open field [...] blurs the edges of thing-ness [...] the binary things like time or effort [...] that keep us as separate from everything else fall away [...] I sort of lose track of a more binary way of being in the world.
-(Katye Coe, 9 February 2024 am, 11:06–12:19)
+> The wide-open field [...] blurs the edges of thing-ness [...] the binary things like time or effort [...] that keep us as separate from everything else fall away [...] I sort of lose track of a more binary way of being in the world. (Katye Coe, 9 February 2024 am, 11:06–12:19)
 
 However, such convergence between the descriptions of our practice of authentic movement and nondual awareness as a lens to understand the experiences is hardly surprising given that the project was originally framed and described as exploring 'the phenomenology of dance improvisation in dialogue with research into nonduality, flow, interoception and consciousness' [@ellis-2024-losing]. 
 
@@ -170,98 +168,46 @@ And so I need to take care here.
 
 First-hand experiential and subjective knowledge is fundamental to practice research and also in complex phenomena like movement improvisation or body-awareness practices. Such first-hand accounts provide access to details of corporeal and embodied experiences unavailable to external observers. Furthermore, critical reflection and shared articulation is made possible by retrospective discussion and analysis.
 
-Yet the retrospective conversations that comprise a key part of the reflective methods of this research carry at least four risks. First, retrospective discursive data – particularly in the time between the practice and the conversations with Rosemary Lee – mean the recall and descriptions may be shaped by emerging interpretations. Second, given the research set out to understand the 'losing' of one's self during improvisation these pre-existing concepts likely infect how data are perceived. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of non-dual awareness may have influenced how, and the extent, to which retrospective accounts were interpreted, making them appear to confirm that framework. Third, alternative interpretations may have been overlooked or suppressed. Fourth, participant-researcher involvement limits analytical distance.
+Yet the retrospective conversations that comprise a key part of the  methods of this research carry at least four risks. First, retrospective discursive data – particularly in the time between the practice and the conversations with Rosemary Lee – mean the recall and descriptions may be shaped by emerging interpretations. Second, given the research set out to understand the losing of one's self during improvisation, these pre-existing concepts likely infect how data are perceived. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher’s existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of non-dual awareness may have influenced how, and the extent to which, retrospective accounts were interpreted, making them appear to confirm that framework. Third, alternative interpretations may have been overlooked or suppressed. Fourth, participant-researcher involvement limits analytical distance.
 
 A further risk concerns not only the retrospective character of the conversations but their initial framing. From the immediate post-practice discussions with Katye to the later conversations with Rosemary Lee, non-duality was already present as a possible way of understanding the experiences. This framing may have conceptually primed the conversations, tuning us to notice particular features and reach for non-dual language while making other descriptions or interpretations less available. The accounts were therefore not simply later interpreted through a non-dual lens but were partly produced through it.
 
-### It is not not nondual awareness
+### Evidential underdetermination
 
-None of these concerns or risks indicate that the experiences _being danced_ were not _not_ nondual awareness. Rather, the body of evidence both experientially and in the retrospective conversations indicates that nondual awareness is one of many ways to account for or make sense of the experiences. This is a form of evidential underdetermination which occurs when the available evidence is compatible with more than one plausible explanation or interpretation, meaning that the evidence alone cannot determine which should be accepted [@stanford-2023-underdetermination].
+These risks do not establish that the experiences of *being danced* were instances of nondual awareness, but neither do they rule out that interpretation. Rather, the experiential evidence and retrospective conversations suggest that nondual awareness is one of several plausible ways of making sense of these experiences. This is a form of evidential underdetermination, which occurs when the available evidence is compatible with more than one plausible explanation or interpretation and therefore cannot, by itself, determine which should be accepted [@stanford-2023-underdetermination].
 
-Nevertheless, the experience of a transition in the improvising in which something changes remains important. What I have called _deep sensory dancing_ is phenomenologically different from _being danced_. There must be some kind of threshold which separates experiences of movement improvisation that are different in kind – a transition between them, even if that transition is momentary or more akin to a jump cut. As the dance oscillates between these two experiences of dancing, the difference is marked by, at the very least, a diminished sense of an _I_ responsible for that dancing. Such a difference is what I described at the beginning of this chapter as the qualitative and felt difference between dancing and being danced.   
+Nevertheless, the experience of a transition between layers in the improvising remains important. What I have called _deep sensory dancing_ is phenomenologically different from _being danced_. There must be some kind of threshold which separates experiences of movement improvisation that are different in kind – a transition between them, even if that transition is momentary or more akin to a jump cut. As the dance oscillates between these two experiences or layers of dancing, the difference is marked by, at the very least, a diminished sense of an _I_ responsible for that dancing. Such a difference is what I described at the beginning of this chapter as the qualitative and felt difference between dancing and being danced.   
 
-Before I attempt to account for other possible explanations of the experiences during the dancing, what follows is an account of various phenomena present while Katye and I danced for each other. It is broken down into XX deep sensory dancing, the threshold, and being danced, and each item/component includes an illustrative extract from the retrospecitive conversations. Each list is not exhaustive but rather most evidence. 
+Before considering alternative explanations for these experiences, I summarise twelve key phenomena that emerged while Katye and I practised together. These provide the main experiential and discursive basis for the analysis. They are organised around two layers of the dancing, experienced on either side of the central threshold: *deep sensory dancing* and *being danced*. Each phenomenon is accompanied by an illustrative extract from the retrospective conversations. The lists are not exhaustive but focus on the phenomena for which the evidence is strongest.
+
+These phenomena are analytical groupings drawn from retrospective conversations rather than direct observations of experience. The accounts of deep sensory dancing are comparatively detailed and internally accessible, whereas ‘being danced’ is understood mainly through its onset, aftermath and the retrospective recognition that the organiser or doer had disappeared. The categories overlap, appear to oscillate and should not be read as establishing any particular explanation of the experience.
 
 #### Deep sensory dancing
 
-- Heightened corporeal sensitivity
-
-> It feels as if I’m deeply […] tuned to sensations throughout my body [...] Hands tingling, lower back [...] I’m deeply tuned into those changes in awareness. (Ellis, 4 May 2026, 11:46–13:02)
-
-- Widened, simultaneous attention
-
-> You could name it as a list, as if they are serial things or serial awarenesses in my body, but they feel much more like they’re overlapping [...] as if I’m aware of it all at the same time. (Ellis, 4 May 2026, 12:07–12:28)
-
-- Reduced but retained agency
-
-> There’s a lot of kind of sensory information that’s just coming to me and I can just kind of [...] almost like I’m picking and choosing, but very subtly. (Ellis, 4 May 2026, 07:41)
-
-- A retained but less directive experiencer
-
-> I recognise it to be me doing this thing. But I’m not invested in what it is that is happening [...] it’s me, and yet there’s a kind of distance or detachment. (Ellis, 4 May 2026, 23:53–25:27)
-
-- Movement–sensation feedback
-
-> Sensing movement precipitates more movement, which precipitates more sensory information [...] that kind of little feeding back becomes part of the entry into [...] depth. (Ellis, 4 May 2026, 18:33–19:39)
-
-- Reduced cognitive interference
-
-> I don’t get [...] hooked on them. I can enter in them and stay with them, but I don’t feel like [...] I get lost in them. They become part [...] of the kind of flow of awareness. (Ellis, 4 May 2026, 23:53–25:19)
-
-- Effortless continuation
-
-> That kind of fullness of that sensory information is bottomless [...] and it requires very little effort [...] they talk about sort of effortless effort. (Ellis, 4 May 2026, 08:00)
+- _Heightened corporeal sensitivity_: 'It feels as if I’m deeply [...] tuned to sensations throughout my body [...] Hands tingling, lower back [...] I’m deeply tuned into those changes in awareness' (Ellis, 4 May 2026)
+- _Widened, simultaneous attention_: 'You could name it as a list, as if they are serial things or serial awarenesses in my body, but they feel much more like they’re overlapping [...] as if I’m aware of it all at the same time' (Ellis, 4 May 2026)
+- _Reduced but retained agency_: 'There’s a lot of kind of sensory information that’s just coming to me and I can just kind of [...] almost like I’m picking and choosing, but very subtly' (Ellis, 4 May 2026)
+- _A retained but less directive experiencer_: 'I recognise it to be me doing this thing. But I’m not invested in what it is that is happening [...] it’s me, and yet there’s a kind of distance or detachment' (Ellis, 4 May 2026)
+- _Movement–sensation feedback_: 'Sensing movement precipitates more movement, which precipitates more sensory information [...] that kind of little feeding back becomes part of the entry into [...] depth' (Ellis, 4 May 2026)
+- _Reduced cognitive interference_: 'I don’t get [...] hooked on them. I can enter in them and stay with them, but I don’t feel like [...] I get lost in them. They become part [...] of the kind of flow of awareness (Ellis, 4 May 2026)
+- _Effortless continuation_: 'That kind of fullness of that sensory information is bottomless [...] and it requires very little effort [...] they talk about sort of effortless effort (Ellis, 4 May 2026)
 
 
 #### Being danced
 
-- Disappearance of the organiser or doer
+- _Disappearance of the organiser or doer_: 'It’s as if I stop [...] being the organiser and the doer, the person who’s doing all that sensing [...] as if I disappear completely' (Ellis, 4 May 2026)
+- _Retrospective recognition that the ‘I’ was absent_: 'Suddenly I become aware that I [...] wasn’t there' (Ellis, 19 May 2026)
+- _Loss of explicit agency_: 'My sense of time [...] my sense of doing anything, my sense of, dare I say it [...] my sense of me have all [...] fallen away' (Ellis, 9 February 2024)
+- _Cessation of differentiation and labelling_: 'It feels like whatever that experience is, it’s fully conscious [...] but it’s not the same as me, Simon, being conscious in the deep [...] thing, because the same sense of being able to label disappears' (Ellis, 4 May 2026)
+- _Dissolution of bodily boundaries_: 'I don’t think I’m aware of a body encased by skin. So, all body means that the skin dissolves [...] There is just one thing' (Ellis, 19 May 2026)
 
-> It’s as if I stop [...] being the organiser and the doer, the person who’s doing all that sensing [...] as if I disappear completely. (Ellis, 4 May 2026, 02:39–02:54)
+## Making sense of the phenomena
 
-- Retrospective recognition that the ‘I’ was absent
+If nondual-awareness is one possible way of understanding/interpreting these retrospective and experiential data, what are the others? 
 
-> Suddenly I become aware that I [...] wasn’t there. (Ellis, 19 May 2026, 13:25)
+Importantly, these candidates are not mutually exclusive. A single episode might simultaneously involve absorbed attention, automatised movement, attenuated agency and altered arousal. NDA would then be one interpretation of the overall experiential structure rather than a rival causal mechanism on exactly the same level.
 
-- Loss of explicit agency
-
-> My sense of time [...] my sense of doing anything, my sense of, dare I say it [...] my sense of me have all [...] fallen away. (Ellis, 9 February 2024 am, 13:40)
-
-- Cessation of differentiation and labelling
-
-> It feels like whatever that experience is, it’s fully conscious [...] but it’s not the same as me, Simon, being conscious in the deep [...] thing, because the same sense of being able to label disappears. (Ellis, 4 May 2026, 34:11–34:48)
-
-- Dissolution of bodily boundaries
-
-> I don’t think I’m aware of a body encased by skin. So, all body means that the skin dissolves [...] There is just one thing. (Ellis, 19 May 2026, 05:07–05:27)
-
-
-Key qualifications to make explicit about the lists:
-
-- All the phenomena are retrospectively described. None constitutes a direct record of experience while it was occurring.
-
-- The temporal distance varies. The KC–SE conversations took place shortly after each dance in 2024, whereas the two micro-phenomenological interviews occurred more than two years later and were shaped by the conceptual framework that had since developed.
-
-- The two conditions are not equally accessible. Deep sensory dancing is richly described as it occurs in memory. ‘Being danced’ is principally inferred from its onset, its aftermath and the retrospective recognition that the organiser had been absent.
-
-- The quotations are illustrative extracts, not independent proof that the proposed phenomena occurred exactly as named.
-
-- The names of the phenomena are analytical constructions. The dancers did not necessarily use these categories themselves or consistently distinguish them during the conversations.
-
-- The lists should not imply a fixed sequence. Deep sensory dancing and being danced appear to oscillate, with movement back and forth across the threshold.
-
-- The phenomena overlap. For example, reduced agency begins within deep sensory dancing and becomes significant at the threshold, so it cannot be assigned exclusively to one condition.
-
-- The evidence for ‘being danced’ comes predominantly from Simon’s accounts. Katye’s description is more cautious: she is uncertain whether she disappears or merely becomes ‘very quiet’.
-
-- Reports of the organiser disappearing are stronger than accounts of what awareness was like during its absence. Claims about timelessness, undifferentiated awareness or dissolved bodily boundaries are more reconstructive and uncertain.
-
-- The lists describe reported features of the dancing. They do not by themselves establish an explanation such as non-dual awareness, flow, absorption or skilled automaticity.
-
-These phenomena are analytical groupings drawn from retrospective conversations rather than direct observations of experience. The accounts of deep sensory dancing are comparatively detailed and internally accessible, whereas ‘being danced’ is understood mainly through its onset, aftermath and the retrospective recognition that the organiser had disappeared. The categories overlap, appear to oscillate and should not be read as establishing any particular explanation of the experience.
-
-
-
+None of these interpretations alone explains all the reported features. In particular, flow, skilled automaticity and attenuated agency may explain the disappearance of deliberate control without explaining why the body ceased to feel bounded by the skin or separate from its surroundings.
 
 ---
 
