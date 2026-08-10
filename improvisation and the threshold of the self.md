@@ -206,7 +206,7 @@ The two lists are not exhaustive but focus on the phenomena for which the eviden
 
 If nondual-awareness is one possible way of framing or interpreting these retrospective experiential data, then _absorption_, _experience without explicit self-awareness_, _attenuated sense of agency_, _flow_ and _skilled automaticity_ are five others.
 
-Absorption is described by the psychologist Auke Tellegen as 'a disposition to enter under conducive circumstances psychological states that are characterized by marked restructuring of the phenomenal self and world' [1992, quoted in @wild-1995-role p.570]. 
+Absorption is described by the psychologist Auke Tellegen as 'a disposition to enter under conducive circumstances psychological states that are characterized by marked restructuring of the phenomenal self and world' [1992, quoted in @wild-1995-role p.570]. That is, the capacity to be absorbed in our actions such that our sense of self and our relationship to the world is changed.
 
 Here Katye describes her experience of the dancing that could be interpreted or framed as both absorption and nondual awareness: 
 
@@ -214,40 +214,39 @@ Here Katye describes her experience of the dancing that could be interpreted or 
 
 In _experience without explicit self-awareness_ conscious experience may continue without our explicitly recognising, labelling or subsequently remembering that experience [@schooler-2002-representing]. One possibility is that a tacit, non-propositional awareness continues even when this more explicit awareness of experience diminishes [@dunne-2019-mindful].
 
-> I remember myself here, I remember myself here. Oh, I don’t remember myself here. Oh, I remember myself again. (Ellis, 19 May 2026, 26:42–26:53)
+> I remember myself here, I remember myself here. Oh, I don't remember myself here. Oh, I remember myself again. (Ellis, 19 May 2026, 26:42–26:53)
 
 The distinction is subtle but significant: from my retrospective position, an experience that continued without explicit self-awareness may be indistinguishable from one in which subject–object differentiation disappeared. 
 
+A _sense of agency_ refers to the 'experience of controlling one's own actions' [@haggard-2017-sense p.196] and how those actions change our surroundings, feelings and ideas. 
 
+> It's akin to being on the horse and the horse leading. [...] You are not driving this thing, this practice. (Ellis, 9 February 2024 pm, 11:06)
 
-Schooler, J. W. (2002), ‘Re-representing consciousness: dissociations between experience and meta-consciousness’, Trends in Cognitive Sciences, 6(8), 339–344. https://doi.org/10.1016/S1364-6613(02)01949-6
-Schooler, J. W. et al. (2011), ‘Meta-awareness, perceptual decoupling and the wandering mind’, Trends in Cognitive Sciences, 15(7), 319–326. https://doi.org/10.1016/j.tics.2011.05.006
+It is entirely imaginable that one's sense of agency can diminish even while movement continues effectively. _Being danced_ could therefore involve a loss of experienced authorship rather than the disappearance of the self or of subject–object differentiation more generally. Once again, these two experiences would be indistinguishable retrospectively. 
 
+*Flow* describes complete involvement in an activity, characterised by concentrated attention, reduced self-consciousness, altered time, intrinsic pleasure and a merging of action and awareness [@csikszentmihalyi-1990-flow].
 
+> Things come into awareness, moving, not moving [...] it's much less like these separate components. [...] The experience of it is that it almost has no temporal structure at all. (Ellis, 8 February 2024 am, 07:02)
 
+Flow overlaps considerably with *absorption* and accounts well for deep sensory dancing. It fits *being danced* less clearly because flow ordinarily includes an implicit sense of control rather than the apparent disappearance of the organiser. Nevertheless, flow is commonly associated with a loss of self:
 
-The same might apply for the concept of skilled automaticity originally discussed by Fitts and Posner [-@fitts-1967-human] and now referring to how extensive practice enables sensorimotor aspects of an action to proceed with little conscious attention or deliberate control [@logan-1985-skill; @christensen-2016-cognition].
+> This is when the person, involved in the activity, loses their idea of self and blends in with the environment or the activity they are completing. For example, a dancer on stage will lose their ability to separate themselves from the dance [@hefferon-2006-just p.143].
 
-Decades of dance and somatic training may allow movement to be organised without deliberate selection or conscious supervision. In this case, _being danced_ would be when Katye or I cease to manage movement explicitly, while our embodied skills continue to generate movement.
+One way to explain this apparent loss of self without invoking nondual awareness is through *skilled automaticity*. The concept originates in models of skill acquisition such as that of Fitts and Posner [-@fitts-1967-human] and now refers to how extensive practice enables sensorimotor aspects of an action to proceed with little conscious attention or deliberate control [@logan-1985-skill; @christensen-2016-cognition]. Decades of dance and somatic training may therefore allow movement to be organised without deliberate selection or conscious supervision. On this account, *being danced* occurs when Katye or I cease to manage movement explicitly while embodied skills continue to generate it.
 
 > I've got a big rucksack full of tools [...] I've got enough information from the 25 years [of dancing] to kind of go there and not worry about whether I'm doing it right or wrong. (Coe, 9 February 2024 pm, 13:52)
 
-While it seems true that Katye and I have more than enough experience to feel comfortable dancing – or _generating movement_ – under practical conditions like those in the research, what kind of skill is authentic movement as we practised it? 
+Yet this explanation raises a problem. Much research on flow and automaticity has focused on expert performance of identifiable skills, whereas authentic movement has no predetermined movement sequence or external standard of what success looks or even feels like. Although Katye and I have more than enough experience to dance comfortably under the practical conditions of the research, what precisely has become automatic? What kind of expertise is involved in a practice whose activity consists not simply in generating movement but in simply attending and allowing movement to emerge without judgement?
 
-- not quite right because it's more a psychological thing (not about the production of skill) -- so what are we skilled at in this case. refer to Montero's work re flow and the overlap here. 
+Barbara Montero's work makes this question more difficult. She challenges the assumption that experts necessarily lose reflective self-awareness while executing complex motor skills [see @montero-2016-thought] and rejects the idea that ‘the expert acts intuitively and automatically' [@montero-2013-dancer p.304]. Skilled automaticity may therefore explain how movement continues with reduced deliberate control, but it cannot be assumed to explain either the disappearance of the organiser or the particular form of awareness Katye and I describe while *being danced*.
 
-> [E]xpert consciousness is nondual. The expert is not conscious of his or her own subjectivity and its relation to the object with which he or she is engaged, or even of the tools the expert might be using, including his or her own body. That is the kind of novice awareness that just gets in the way. Instead, the focused attention of the expert is entirely on the task at hand and on the goals to be accomplished through that task. It is immersed, embodied awareness, and awareness that is entirely fluid, adjusting to the ever-changing demands of the task at hand. Nothing resembling a self is ever present in this kind of consciousness. [@garfield-2022-losing]
+These five framings to make sense of the experience of being danced – absorption, experience without explicit self-awareness, attenuated sense of agency, flow and skilled automaticity – are not mutually exclusive. A single episode might simultaneously involve absorbed attention, automatised movement, attenuated agency, reduced metacognitive access and flow. Nondual awareness would then be one interpretation of the overall experiential structure rather than a rival causal mechanism on exactly the same level.
 
-- Montero would disagree. But that is about the type of activity and what 'expert' is??
+The most economical comparison would probably treat absorption and flow as broad descriptions of the experience, then combine skilled automaticity, reduced metacognitive access and attenuated agency as a possible cognitive account of how being danced occurs. None of these interpretations alone explains all the reported features. Flow, skilled automaticity and attenuated agency may explain the disappearance of deliberate control without explaining why the body ceased to feel bounded by the skin or separate from its surroundings.
 
-+ recognise but distinguish from work in expert performance and flow -- or cover that later on? 'at first glance appears to have much in common with Montero, Gallagher'?? 
+What then for my desire to represent these strong experiences as being nondual? It is not as if these give framings prove that the experiences are not non-dual. What is gained by 
 
-But what kind of activity is AM? a skill? a practice? Are some people _better_ or more skilled at it? How might it be a different kind of skilled activity than those studied by Montero (including dancing)? What kinds of activities does AM most have in common? 
-
-
-Importantly, these candidates are not mutually exclusive. A single episode might simultaneously involve absorbed attention, automatised movement, attenuated agency, reduced metacognitive access and flow. NDA would then be one interpretation of the overall experiential structure rather than a rival causal mechanism on exactly the same level.
-
-The most economical comparison would probably treat absorption and flow as broad descriptions of the experience, then combine skilled automaticity, reduced metacognitive access and attenuated agency as a possible cognitive account of how being danced occurs. None alone explains all the reported features, particularly dissolved bodily boundaries.
+What then is our expertise? What are we actually practicing? What is the role of movement in this work? 
 
 attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth)
 
@@ -256,14 +255,11 @@ attentional expertise [see for example @lutz-2008-attention]. -- this idea needs
 
 
 
+- not quite right because it's more a psychological thing (not about the production of skill) -- so what are we skilled at in this case. refer to Montero's work re flow and the overlap here. 
 
 
 
-The philosopher Rupert Spira writes how consciousness 'takes the shape of the next awareness' and may identify itself with the body as a part of that awareness. When it does this it 'forgets itself' [@spira-2008-transparency n.pag.] or hides itself from itself. In other words, in identifying with the body as a shape of awareness, consciousness loses its true nature and in the dancing I see myself as an organiser of these body-oriented shapes of awareness.
 
-- Spira here maps on to how I describe the reconstitution of the skin. The sense of a 'self surrounded by skin' appears and consciousness is veiled. -- metaphysical (not phenomenological) -- but include? 
-
-None of these interpretations alone explains all the reported features. In particular, flow, skilled automaticity and attenuated agency may explain the disappearance of deliberate control without explaining why the body ceased to feel bounded by the skin or separate from its surroundings.
 
 > Starting with relaxation and silencing of the layers of inner narrative related to autobiographical-relational-social self, it progresses to the cessation of processes specifying phenomenal core self, such as agency, body-ownership, and spatio-temporal located-ness, then to the basic interoceptive sense of body presence (Farb et al., 2007; Siderits et al., 2013; Dahl et al., 2015; Dor-Ziderman et al., 2016; Metzinger, 2020). However, such temporary quieting down in and of itself may not yet be cessation of the constructed self as the implicit categorizations that reify the self and objects may be still operating in the unconscious substrate (Germano and Waldron, 2006). Thus, selflessness can be understood in a more refined way as not merely inner silence but as a more fundamental transformation of the nature of cognition in which cognitive processes switch from the exclusive reliance on conceptually constructed dualistic subject-object structures to a more direct unconstructed way of cognizing via NDA itself. (Zoran Josipovic, Nondual Awareness and Minimal Phenomenal Experience)
 
