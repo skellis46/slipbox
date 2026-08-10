@@ -224,21 +224,23 @@ One way to explain this apparent loss of self without invoking nondual awareness
 
 > I've got a big rucksack full of tools [...] I've got enough information from the 25 years [of dancing] to kind of go there and not worry about whether I'm doing it right or wrong. (Coe, 9 February 2024 pm, 13:52)
 
-Much research on flow and automaticity has focused on expert performance of identifiable skills, However, authentic movement has no predetermined movement sequence or external standard of what success looks or even feels like. Although Katye and I have more than enough experience to dance comfortably under the practical conditions of the research, what precisely has become automatic? What kind of expertise is involved in a practice whose activity consists not simply in generating movement but in simply attending and allowing movement to emerge without judgement?
+Much research on flow and automaticity has focused on expert performance of identifiable skills. However, authentic movement has no predetermined movement sequence or external standard of what success looks or even feels like; it might even be difficult to label it as a skill. Although Katye and I have more than enough experience and expertise to dance within the practical conditions of the research, what if anything is automatic as a consequence of our long term practices? What kind of expertise is involved in a practice whose activity consists not simply in generating movement but in simply attending and allowing movement to emerge without judgement?
 
-Barbara Montero's work makes this question more difficult. She challenges the assumption that experts necessarily lose reflective self-awareness while executing complex motor skills [see @montero-2016-thought] and rejects the idea that ‘the expert acts intuitively and automatically' [@montero-2013-dancer p.304]. Skilled automaticity may therefore explain how movement continues with reduced deliberate control, but it cannot be assumed to explain either the disappearance of the organiser or the particular form of awareness Katye and I describe while _being danced_.
+Barbara Montero's work makes this question more difficult. She challenges the assumption that experts necessarily lose reflective self-awareness while executing complex motor skills [see @montero-2016-thought] and rejects the idea that 'the expert acts intuitively and automatically' [@montero-2013-dancer p.304]. Skilled automaticity may therefore explain how movement continues with reduced deliberate control, but it cannot be assumed to explain either the disappearance of the organiser or the particular form of awareness Katye and I describe while _being danced_.
 
 These five alternative framings to make sense of the experience of being danced – absorption, experience without explicit self-awareness, attenuated sense of agency, flow and skilled automaticity – are not mutually exclusive. A single session of authentic movement might simultaneously involve absorbed attention, automatised movement, attenuated agency, experience without explicit self-awareness and flow. 
 
-The most economical comparison would treat absorption and flow as broad descriptions of the experience, then combine skilled automaticity, experience without explicit self-awareness and attenuated agency as a possible cognitive account of how *being danced* occurs. None of these interpretations alone explains everything Katye and I describe. Flow, skilled automaticity and attenuated agency may explain the disappearance of deliberate control without explaining why the body ceased to feel bounded by the skin or separate from its surroundings. Nondual awareness may therefore be an interpretation of the overall experiential structure rather than a rival causal explanation or mechanism.
+The most economical comparison would treat absorption and flow as broad descriptions of the experience, then combine skilled automaticity, experience without explicit self-awareness and attenuated agency as a possible cognitive account of how *being danced* occurs. None of these interpretations alone explains everything Katye and I describe. Flow, skilled automaticity and attenuated agency may explain the disappearance of deliberate control without explaining why the body ceased to feel bounded by the skin when it feels as if 'the skin dissolves' (Ellis, 19 May 2026). Nondual awareness may therefore be an interpretation of the overall experiential structure rather than a rival causal explanation or mechanism.
 
-These accounts describe aspects of what Katye and I experienced, but they do not explain how the practice made those experiences possible. Authentic movement involves no predetermined sequence or outward standard of virtuosity. For all intents and purposes, Katye and I appear to do very little while dancing, sometimes nothing at all. The practice looks almost everyday even when it feels complex, rich and anything but everyday. I maintain that the threshold between *deep sensory dancing* and *being danced* is experientially legible, even if the expertise underpinning it is not expressed through complex or virtuosic movement. What, then, are we actually practising? What is our expertise in this practice? And what role does movement play in reorganising how we perceive and respond to experience?
+These accounts describe aspects of what Katye and I experienced, but they do not explain how the practice made those experiences possible. Authentic movement involves no expectations of _correct_ or _good_ movement, and no outward standard of virtuosity. For all intents and purposes, Katye and I appear to do very little while dancing, sometimes nothing at all. The practice looks rather simple or everyday even when it feels complex, rich and anything but everyday. I maintain that the threshold between _deep sensory dancing_ and _being danced_ is experientially legible, even if the expertise underpinning it is not expressed through complex or virtuosic movement. What, then, are we actually practising? What is our expertise in this practice? And what role does movement play in reorganising how we perceive and respond to experience?
 
 ## The practice
 
-> If we think that we know something objective about ourselves or the world, then whatever that something is that we think we know, will condition our subsequent enquiry into the nature of experience.[@spira-2008-transparency] ^b57941
+> If we think that we know something objective about ourselves or the world, then whatever that something is that we think we know, will condition our subsequent enquiry into the nature of experience.
 
-### Precision weighting
+<div style="text-align: right">– Rupert Spira [-@spira-2008-transparency]</div>
+
+### Precision weighting / predictive processing
 
 - precision weighting -- Gallagher as well (mesh framing?)
 
@@ -254,10 +256,13 @@ and [useful re canonical references](https://chatgpt.com/share/69e9d52b-4dd4-83e
 
 > As a result of lots of previous actions, my movements are partially and automatically encoded in terms of their anticipated effects on perception.11 (Guy Claxton, Intelligence in the Flesh Why Your Mind Needs Your Body Much More Than It Thinks).
 
+> We probably don't think much about proprioception because, in some sense, it's always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of paying attention – a kind of 'disattention' to the body, which allows it to move.[@seth-2018-being]
+
+Disattention presents a productive paradox: attending less to the body as something to be monitored and controlled may allow more movement and sensory experience to emerge. In the dancing, this offers a possible mechanism for the shift from deliberate organisation towards being moved.
 
 ### Movement as a bias
 
-- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]. also on this point see Spira below: [[#^b57941]]
+- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]. also on this point see Spira below:
 
 This is essential also in relation to training biases
 
