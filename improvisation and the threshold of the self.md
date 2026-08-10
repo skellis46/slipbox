@@ -230,45 +230,41 @@ Barbara Montero's work makes this question more difficult. She challenges the as
 
 These five alternative framings to make sense of the experience of being danced – absorption, experience without explicit self-awareness, attenuated sense of agency, flow and skilled automaticity – are not mutually exclusive. A single session of authentic movement might simultaneously involve absorbed attention, automatised movement, attenuated agency, experience without explicit self-awareness and flow. 
 
-The most economical comparison would treat absorption and flow as broad descriptions of the experience, then combine skilled automaticity, experience without explicit self-awareness and attenuated agency as a possible cognitive account of how being danced occurs. None of these interpretations alone explains all the things Katye and I describe of the experiences. Flow, skilled automaticity and attenuated agency may explain the disappearance of deliberate control without explaining why the body ceased to feel bounded by the skin or separate from its surroundings. It is possible therefore that nondual awareness is one interpretation of the overall experiential structure rather than a rival explanation and/or mechanism of the experience.
+The most economical comparison would treat absorption and flow as broad descriptions of the experience, then combine skilled automaticity, experience without explicit self-awareness and attenuated agency as a possible cognitive account of how *being danced* occurs. None of these interpretations alone explains everything Katye and I describe. Flow, skilled automaticity and attenuated agency may explain the disappearance of deliberate control without explaining why the body ceased to feel bounded by the skin or separate from its surroundings. Nondual awareness may therefore be an interpretation of the overall experiential structure rather than a rival causal explanation or mechanism.
 
-These alternative framings are by and large the result of research into quantifiable skills that demand empirically and demonstrably high degrees of virtuosity. Yet authentic movement is not such a skill. For all intents and purposes it would appear as if Katye and I are doing very little, sometimes nothing at all. It is almost everyday in appearance even if felt as something complex, rich and anything but everyday. I maintain that the line between deep sensory dancing and being danced is experientially legible, even if the skills that underpin it are not necessarily predicated on complex or virtuous movement. What then is it that we are actually practising? What is our expertise in this practice? And what is the role of movement in this work? 
+These accounts describe aspects of what Katye and I experienced, but they do not explain how the practice made those experiences possible. Authentic movement involves no predetermined sequence or outward standard of virtuosity. For all intents and purposes, Katye and I appear to do very little while dancing, sometimes nothing at all. The practice looks almost everyday even when it feels complex, rich and anything but everyday. I maintain that the threshold between *deep sensory dancing* and *being danced* is experientially legible, even if the expertise underpinning it is not expressed through complex or virtuosic movement. What, then, are we actually practising? What is our expertise in this practice? And what role does movement play in reorganising how we perceive and respond to experience?
 
 ## The practice
 
+> If we think that we know something objective about ourselves or the world, then whatever that something is that we think we know, will condition our subsequent enquiry into the nature of experience.[@spira-2008-transparency] ^b57941
 
-attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth)
+### Precision weighting
 
-- feel like lutz's work is another possibility entirely. 
-- https://chatgpt.com/share/6a6b2ec2-fdf8-83eb-9a37-f2a8e525f845
-
-
-
-- not quite right because it's more a psychological thing (not about the production of skill) -- so what are we skilled at in this case. refer to Montero's work re flow and the overlap here. 
-- the thing about being in motion is that the constantly changing part is foregrounded exquisitely
-
-- precision weighting -- Gallagher as well? 
-
-- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]. also on this point see Spira below: [[#^b57941]]
+- precision weighting -- Gallagher as well (mesh framing?)
 
 > Although this sounds complicated, we are all intimately familiar with the role of precision weighting in perception. Increasing the estimated precision of sensory signals is nothing other than 'paying attention'. When you pay attention to something – for example, really trying to see whether a gorilla is out there in the distance – your brain is increasing the precision weighting on the corresponding sensory signals, which is equivalent to increasing their estimated reliability, or turning up their 'gain'. Thinking about attention this way can explain why sometimes we don't see things, even if they are in plain view, and even if we are looking right at them. [@seth-2021-being] 
 
-> If we think that we know something objective about ourselves or the world, then whatever that something is that we think we know, will condition our subsequent enquiry into the nature of experience.[@spira-2008-transparency] ^b57941
-
-This is essential also in relation to training biases
 
 - From Hetty in November 2024: what is the role of movement? (this is a key question re [[Seth and Tsakiris - Being a Beast Machine]] and the 'bias' of movement for dancers )
 
-> Consciousness bestows its identity exclusively on the body. It believes and feels, 'I am the body.' (Rupert Spira, The Transparency of Things Contemplating the Nature of Experience)
-
-- Somatic expertise as attentional conditioning.
-- Why dancers may over-privilege bodily routes to non-duality.
-- Explicit resistance to dance exceptionalism.
-
-> As a result of lots of previous actions, my movements are partially and automatically encoded in terms of their anticipated effects on perception.11 (Guy Claxton, Intelligence in the Flesh Why Your Mind Needs Your Body Much More Than It Thinks).
 
 all related to precision weighting? [This summary is excellent on llm](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
 and [useful re canonical references](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
+
+
+> As a result of lots of previous actions, my movements are partially and automatically encoded in terms of their anticipated effects on perception.11 (Guy Claxton, Intelligence in the Flesh Why Your Mind Needs Your Body Much More Than It Thinks).
+
+
+### Movement as a bias
+
+- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]. also on this point see Spira below: [[#^b57941]]
+
+This is essential also in relation to training biases
+
+- the thing about being in motion is that the constantly changing part is foregrounded exquisitely
+- Somatic expertise as attentional conditioning.
+- Why dancers may over-privilege bodily routes to non-duality.
+- Explicit resistance to dance exceptionalism.
 
 > So through repetition and training in these skills of noticing, differentiating, and discerning, individuals engaged in mind-body practices that involve the body are immersed in a process that leads to embodiment and integration. (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
 
@@ -277,45 +273,37 @@ and [useful re canonical references](https://chatgpt.com/share/69e9d52b-4dd4-83e
 
 It occurred to me that one of the differences between a sitting meditation and a dancing meditation (like the one KC and I are practicing) is that the presence and persistence of bodily movement constantly undermines or quietens the headiness of being lost in thought. That it is more difficult to imagine the head as a centre or location of thinking and consciousness when sensation and awareness is contagiously dispersed throughout the body in motion. 
 
-ties in with those papers re DMN and self-processing etc.
+### Attentional expertise
 
+attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth)
 
-I'm not sure I understand this idea of consciousness forgetting itself. I get how it takes the shape of the next appearance (say, a tingling in my hand). But what is the itself it is veiling itself from? That I identify the tingling as 'consciousness' as a 'thing'?? 
+- feel like lutz's work is another possibility entirely. 
+- https://chatgpt.com/share/6a6b2ec2-fdf8-83eb-9a37-f2a8e525f845
 
-## Implications
+> It makes a great deal of biological, psychological, and ecological sense instead to think of awareness as a constant modulation of the open interaction between an organism and its environment, of the adjustment of the state of the organism and attunement of the posture and goals of the organism as its senses and movements interact with the world it inhabits. In other words, we can think of awareness as a mode of embedding of the organism in its world, instead of as the relation between an interior subject and an exterior object, even if that is how it appears to us in introspection. To think of awareness in this way is to take seriously the idea that we don't stand against the world as subjects that detect its properties or agents that act on it, but instead are part of the world, and that awareness is more an attunement to our environment than a recording in our minds of what is going on outside. This approach to cognition, which is called the 'embedded, embodied, enactive' model of cognition, is gaining wide acceptance among philosophers and cognitive scientists. [@garfield-2022-losing n.pag]
+
 
 > Our results lend further evidence to the claims that NDA meditations are different from both FA and OM meditations. While FA and OM meditations are traditionally regarded as "constructed" states created through deployment of speciﬁc attentional strategies, NDA meditations are thought not to involve intentional effort, but to be based on identifying a reﬂexive awareness that is regarded as "unconstructed" (Mipam and Hopkins, 2006). Additionally, both FA and OM meditations are content-oriented, concerned with the speciﬁcs of experience, while NDA meditations could be seen as primarily context-oriented, concerned with the context of experience. (Zoran Josipovic, Influence of Meditation on Anti-Correlated Networks in the Brain)
 
 
-it's even more than 'being danced' -- it ceases to be dancing. it's non-dancing. it's the movement that remains when there is non dancing. moving while non-dancing. 
 
-> Direct experience precedes the separation of knower and known, observer and observed. At its core is sheer awareness, the feeling of being. It's with us when we wake up every morning and go to sleep each night. It's easy to overlook because it's so close and familiar. We habitually attend to things instead of noticing awareness itself. We thereby miss a crucial precondition of knowing, for without awareness, nothing can show up and become an object of knowledge. [@frank-2024-blind]
 
-This is a description of being on the other side of the threshold. But the paradox is that it precedes the separation of subject and object. It is not a state. Duality is the state. 
+
 
 > Perhaps we shouldn't find it surprising that people regularly experience spaceless and timeless states in meditation, embodied as a "oneness" that no longer takes on the character of being a separate "self." All three of these perceptions – space, time, and self – have been revealed by neuroscience and physics to be a distortion of what we now understand to be the underlying physical reality. These perceptions can even be considered illusions in one sense of the word. 
 
 <div style="text-align: right">– Annaka Harris [-@harris-nodate-meditation n.pag]</div>
 
+finish with paragraph that incorporates these things. 
+
+it's even more than 'being danced' -- it ceases to be dancing. it's non-dancing. it's the movement that remains when there is non dancing. moving while non-dancing. 
+
 That in this dancing -- but not because dancing is special – is an encounter with reality that is normally and usefully masked by perception. 
 
-> Another experiential property of consciousness is the sense of self, the feeling of being a subject of experience and an agent of action. The sense of self is not one thing. It includes many different elements, such as the bodily self, the mental self experienced in memory and anticipation, the self as a personal storyline (the narrative self), and the social self. Each of these aspects in turn can be analyzed into distinct facets. For example, the bodily self includes the feelings of ownership ('this body is mine'), agency ('I'm the one making this movement'), self-location ('I'm in my body'), and egocentric perception ('I'm seeing the world through my own eyes'). [@frank-2024-blind]
 
-- Note: p.1649
-- maps onto idea that diminished selfhood diminishes sense of agency (or is it vice-versa?)  
-- very very strong; also possibly have a section called 'the idea of a self'? (or similar)  
-- note also that I think I'm focusing on a particular kind of self which map to many of the things re bodily self that Frank et al describe
 
-While these accounts of presence, attunement and being moved may appear to align with psychological models of absorption, the threshold I am describing is not simply a matter of intensified engagement but a qualitative shift in the structure of agency itself.
 
-“There's some kind of mixing pot there in terms of agency not belonging to the single body [...] it's not inter, it's intra [...] this experience of no thing being or everything being.”
-(Katye Coe, 9 February 2024 am, 15:11–18:41)
 
-Garfield re agency. See for example [[Garfield - Losing Ourselves#^c7048f]] -- what is interesting here is the possibility that, as a matter of direct experience and when the self dissolves, I don't have agency. That it is as if the world is pouring through the skin and bones and tissues that usually I associate with 'my body'. 
-
-> We have encountered four principle conceptual ingredients to the idea of self: priority, unity, subject-object duality, and agency. That is, a self is meant to have a kind of existence *prior* to, or more fundamental than, that of body and mind; it is meant to be a unitary entity, not a multiplicity; it is that which is the subject of our cognitive objects, and so distinct from them; and it is the agent of action and the locus of responsibility.[11](https://readwise.io/reader/document_raw_content/32011253#chapter2-11) (Jay L. Garfield, Losing Ourselves)
-
-> It makes a great deal of biological, psychological, and ecological sense instead to think of awareness as a constant modulation of the open interaction between an organism and its environment, of the adjustment of the state of the organism and attunement of the posture and goals of the organism as its senses and movements interact with the world it inhabits. In other words, we can think of awareness as a mode of embedding of the organism in its world, instead of as the relation between an interior subject and an exterior object, even if that is how it appears to us in introspection. To think of awareness in this way is to take seriously the idea that we don't stand against the world as subjects that detect its properties or agents that act on it, but instead are part of the world, and that awareness is more an attunement to our environment than a recording in our minds of what is going on outside. This approach to cognition, which is called the 'embedded, embodied, enactive' model of cognition, is gaining wide acceptance among philosophers and cognitive scientists. [@garfield-2022-losing n.pag]
 
 - epistemic limits
 - practice research (both of these in edit bin now)
