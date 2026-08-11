@@ -52,7 +52,7 @@ In the northern autumn of 2023 professional dancer Katye Coe and I were practici
 
 That dancing in the northern hemisphere winter of 2024 lies at the heart of this writing.
 
-Katye and I practiced together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), except for a morning only on 26 January. The sessions followed a pattern in which: 1) one person danced for a timed period (normally 25 minutes) while the other witnessed that dancing; 2) roles were changed and the practice repeated; and 3) there was an unstructured conversation about the experiences that was audio recorded. Thus we had thirteen conversations in total, each around 40 minutes long.[^conversations]
+Katye and I practiced together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), except for the morning only on 26 January. The sessions followed a pattern: 1) one person danced for a timed period (normally 25 minutes) while the other witnessed that dancing; 2) roles were changed and the practice repeated; 3) there was an unstructured conversation about the experiences that was audio recorded. We had thirteen conversations in total, each around 40 minutes long.[^conversations]
 
 Although in this writing I focus on the threshold between seemingly dual and non-dual experiences in dance improvisation, in reality the term _threshold_ referenced a family of transitions in our conversations together. It was not until the tenth conversation of 13 (on the morning of 14 February 2024) that we explicitly used the word _threshold_, at which point we started to discuss other types of thresholds: closing one's eyes, the move from what we were calling 'awareness-ing' to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from the dancing. 
 
@@ -92,7 +92,7 @@ The trajectory or architecture of each improvisation became clear through the pr
 
 The improvisations do not so much leave ordinary life behind as establish a temporary set of conditions in which ordinary life, bodily sensation, memory, thought, image and movement are received differently. These conditions matter: the near silence, the witness, the room and the clear commitment to non-judgement form a porous container that affords the two people the capacity to trust each other, and for the mover to enter, deepen and return. 
 
-As Katye describes it, 'there's a threshold. There [are] many thresholds but first is to actually just go into space and begin' (Coe, 14 February 2024 am; conversation 10 of 13). This crossing is expresses commitment: 'I'm committing to kind of going where I go, or going where this goes for however long the 25 minutes feels like or for however long 25 minutes is' (Coe, 14 February 2024 am; conversation 10 of 13).
+As Katye describes it, 'there's a threshold. There [are] many thresholds but first is to actually just go into space and begin' (Coe, 14 February 2024 am; conversation 10 of 13). This crossing expresses commitment: 'I'm committing to kind of going where I go, or going where this goes for however long the 25 minutes feels like or for however long 25 minutes is' (Coe, 14 February 2024 am; conversation 10 of 13).
 
 ### Serial sensory tracking
 
@@ -152,7 +152,7 @@ The neuroscientist, philosopher and podcaster Sam Harris (who is trained in and 
 
 > [...] when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. [@harris-nodate-what]
 
-In the dance world, the originator of contact improvisation Steve Paxton recounts how when he is 'really on [...] there's almost no memory [and] that gives me a lot of hope of getting away from the self [...] if I can just get over myself' [Paxton, quoted in @despain-2014-landscape p.156]
+In the dance world, the originator of contact improvisation Steve Paxton recounts how when he is 'really on [...] there's almost no memory [and] that gives me a lot of hope of getting away from the self [...] if I can just get over myself' [Paxton, quoted in @despain-2014-landscape p.156].
 
 Like Harris and like Paxton, in our conversations together Katye and I reached for language that similarly described the dancing in which selfhood is somehow compromised or challenged:  
 
@@ -176,9 +176,9 @@ A further risk concerns not only the retrospective character of the conversation
 
 ### Evidential underdetermination
 
-These risks do not rule out that the experiences of *being danced* in the practice were instances of nondual awareness; the risks are more like methodological caveats. The experiential evidence and retrospective conversations suggest that nondual awareness is one of several plausible ways of making sense of these experiences. This is a form of evidential underdetermination in that the available evidence is compatible with more than one plausible explanation or interpretation and therefore cannot, by itself, determine which is most likely and should be accepted [@stanford-2023-underdetermination].
+These risks do not rule out that the experiences of *being danced* in the practice were nondual; the risks are more like methodological caveats. The experiential evidence and retrospective conversations suggest that nondual awareness is one of several plausible ways of making sense of these experiences. This is a form of evidential underdetermination in that the available evidence is compatible with more than one plausible explanation or interpretation and therefore cannot, by itself, determine which is most likely and should be accepted [@stanford-2023-underdetermination].
 
-Nevertheless, the experience of a transition between different types of awareness in the dancing remains important. What I have called _deep sensory dancing_ is phenomenologically different from _being danced_. There must be some kind of threshold or transition which separates experiences of movement improvisation that are different in kind, even if that transition is momentary or more akin to a jump cut. As Katye and I worked, the dance oscillated between these two experiences or layers of dancing, and the difference was marked by, at the very least, a diminished sense of an _I_ responsible for that dancing. Such a difference is what I described at the beginning of this chapter as the qualitative and felt difference between dancing and being danced.   
+Nevertheless, the experience of a transition between different types of awareness in the dancing remains important. What I have called _deep sensory dancing_ is phenomenologically different from _being danced_. There must be a threshold or transition which separates experiences of movement improvisation that are different in kind or by degree, even if that transition is momentary or more akin to a jump cut. As Katye and I worked, the dance oscillated between these two experiences or layers of dancing, and the difference was marked by, at the very least, a diminished sense of an _I_ responsible for that dancing. Such a difference is what I described at the beginning of this chapter as the qualitative and felt difference between dancing and being danced.   
 
 Before considering alternative explanations for these experiences, I summarise twelve key phenomena that emerged while Katye and I practised together. These provide the main experiential and discursive basis for the analysis, and are organised around the two layers of the dancing experienced on either side of the central threshold: *deep sensory dancing* and *being danced*. Each phenomenon is accompanied by an aligned extract drawn from the retrospective conversations. Tellingly, nearly all of these extracts are from the much later conversations with Rosemary more than two years after the practicing with Katye. 
 
@@ -212,7 +212,7 @@ Here Katye describes her experience of the dancing that could be interpreted or 
 
 > The hierarchy of attention [...] becomes very flat [...] the thinking also spreads out when my physical attention spreads out. And I think that's probably when I become less aware of where and when I am.” (Coe, 8 February 2024 am)
 
-In _experience without explicit self-awareness_ subjective consciousness may continue without our explicitly recognising, labelling or subsequently remembering that experience [@schooler-2002-representing]. One possibility is that a tacit, non-propositional awareness continues even when more explicit awareness of experience diminishes [@dunne-2019-mindful]. The distinction is subtle but significant: from my retrospective position, an experience that continued without explicit self-awareness may be indistinguishable from one in which subject–object differentiation disappeared. 
+In _experience without explicit self-awareness_ subjective consciousness may continue without our explicitly recognising, labelling or subsequently remembering that experience [@schooler-2002-rerepresenting]. One possibility is that a tacit, non-propositional awareness continues even when more explicit awareness of experience diminishes [@dunne-2019-mindful]. The distinction is subtle but significant: from my retrospective position, an experience that continued without explicit self-awareness may be indistinguishable from one in which subject–object differentiation disappeared. 
 
 A _sense of agency_ refers to the 'experience of controlling one's own actions' [@haggard-2017-sense p.196] and how those actions change our surroundings, feelings and ideas. It is entirely imaginable that one's sense of agency can diminish even while the practice of moving continues. _Being danced_ could therefore involve a loss of a feeling of authorship rather than the disappearance of the self or of subject–object differentiation more generally. Once again, these two experiences would be indistinguishable retrospectively. 
 
@@ -240,61 +240,32 @@ These accounts describe aspects of what Katye and I experienced, but they do not
 
 <div style="text-align: right">– Rupert Spira [-@spira-2008-transparency]</div>
 
-### Predictive processing and precision weighting
+### Precision weighting and movement as a bias
 
-The neuroscientist Anil Seth’s account of perception as ‘controlled hallucination’ draws on predictive processing to explain the nature of conscious experience [@seth-2021-being]. In brief, predictive processing proposes that perceptual systems generate predictions about incoming sensory information based on prior experience – or priors – and compare these predictions with sensory signals. Perception emerges through this ongoing exchange between top-down predictions and bottom-up prediction errors, with the system continually seeking to minimise the difference between what is predicted and what is sensed. These perceptual best guesses are ‘a reaching out from the brain to the world, a writing as much as a reading’, and are what the philosopher Andy Clark playfully calls ‘controlled hallucinations’ [@clark-2016-surfing p.195].
+The neuroscientist Anil Seth's account of perception as 'controlled hallucination' draws on predictive processing to explain the nature of conscious experience [@seth-2021-being]. In brief, predictive processing proposes that perceptual systems generate predictions about incoming sensory information based on prior experience – or priors – and compare these predictions with sensory signals. Perception emerges through an ongoing exchange between predictions passing down from the brain's existing model of the world and signals passing up from the senses. When sensory signals differ from what was predicted, the resulting prediction errors prompt the brain to revise its predictions. These perceptual best guesses are 'a reaching out from the brain to the world, a writing as much as a reading', and are what the philosopher Andy Clark playfully calls 'controlled hallucinations' [@clark-2016-surfing p.195].
 
-A key part of predictive processing is precision weighting: the system’s estimation of how reliable or informative particular predictions and sensory signals are. Precision weighting is closely related to attention. As Seth explains, attending to sensory information is ‘equivalent to increasing its expected precision so that the sensory data have greater impact on perception’ [@seth-2018-being p.971].
+A key part of predictive processing is precision weighting: the system's estimation of how reliable or informative particular predictions and sensory signals are. Precision weighting is closely related to attention. As Seth explains, attending to sensory information is 'equivalent to increasing its expected precision so that the sensory data have greater impact on perception' [@seth-2018-being p.971]. In authentic movement, sustained attention to bodily sensation may therefore 'turn up the gain' on sensory signals from the body, increasing their influence on perception. What is sensed is not thereby freed from prior expectations: those expectations, including beliefs about the body's role in perception, continue to shape how bodily signals are interpreted. Guy Claxton writes that due to lots of previous action 'my movements are partially and automatically encoded in terms of their anticipated effects on perception' [-@claxton-2015-intelligence p.66]
 
-> Increasing the estimated precision of sensory signals is nothing other than 'paying attention'. Seth book
+Seen through the lens of predictive processing and precision weighting, the practice Katye and I did together involved a distinctive pattern of up- and down-weighting. Decades of dance and somatic training has predisposed us to treat kinaesthetic information as fundamental or even vital: at the beginning of an improvisation I described bodily sensations as 'full and rich' and attributed the difficulty of becoming lost in thought to 'the quantity and quality of basically bodily information' (Ellis, 2 February 2024 am). Movement further amplified this information: Katye noted that it 'agitates sensation', so that 'my attention immediately spreads because there's many things to attend to' (Coe, 9 February 2024 pm). At the same time, the practice appears to down-weight predictions concerned with what the dancing ought to become. Coe associated 'expectation about what this is or what this isn't' with 'the same part that reaches', observing that when this part of thinking is loud 'it gets quieter' (Coe, 14 February 2024 am); I described beginning the practice as 'committing to not wanting' (Ellis, 14 February 2024 am). 
 
-attention does not merely increase sensory information but changes how much influence particular sensory signals have on perception.
-disattention
-
-
-
-> When you pay attention to something [...] your brain is increasing the precision weighting on the corresponding sensory signals, which is equivalent to increasing their estimated reliability, or turning up their ‘gain’. [@seth-2021-being]
-
-> The function of perception, at least to a first approximation, is to figure out the most likely causes of the sensory signals, not to deliver awareness of the sensory signals themselves – whatever that might mean. (Seth loc 1494)
-
-- precision weighting -- Gallagher as well (mesh framing?)
+In predictive-processing terms, then, the practice may be understood as cultivating a learned bias towards the precision of moment-to-moment kinaesthetic information while reducing the influence of explicit, goal-directed expectations about what should happen next. In other words, for dancers, movement is little more than a bias in the same way that pianists might up-weight aural attention while down-weighting physical sensation. The clinician and research Wolf Mehling describes how individuals working through mind-body practices that involve the body use 'repetition and training in these skills of noticing, differentiating, and discerning' to lead to 'embodiment and integration' [@mehling-2011-body p.]   
 
 
 
-
-- From Hetty in November 2024: what is the role of movement? (this is a key question re Seth and Tsakiris - Being a Beast Machine and the 'bias' of movement for dancers )
-
-> the really exciting thing about predictive processing is it for the first time gives us a language to understand this pure awareness, this pure non-dual awareness. Shamil Chandaria [in @taft-2022-meditation 30:05min]
-
-all related to precision weighting? [This summary is excellent on llm](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
-and [useful re canonical references](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
-
-
-> As a result of lots of previous actions, my movements are partially and automatically encoded in terms of their anticipated effects on perception.11 (Guy Claxton, Intelligence in the Flesh Why Your Mind Needs Your Body Much More Than It Thinks).
+> So through repetition and training in these skills of noticing, differentiating, and discerning, individuals engaged in mind-body practices that involve the body are immersed in a process that leads to embodiment and integration. (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
 
 > We probably don't think much about proprioception because, in some sense, it's always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of paying attention – a kind of 'disattention' to the body, which allows it to move.[@seth-2018-being]
 
 Disattention presents a productive paradox: attending less to the body as something to be monitored and controlled may allow more movement and sensory experience to emerge. In the dancing, this offers a possible mechanism for the shift from deliberate organisation towards being moved.
 
-### Movement as a bias
 
-- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also everything is becoming otherwise. also on this point see Spira below:
 
-This is essential also in relation to training biases
+- precision weighting -- Gallagher as well (mesh framing?)
 
-- the thing about being in motion is that the constantly changing part is foregrounded exquisitely
-- Somatic expertise as attentional conditioning.
-- Why dancers may over-privilege bodily routes to non-duality.
-- Explicit resistance to dance exceptionalism.
-
-> So through repetition and training in these skills of noticing, differentiating, and discerning, individuals engaged in mind-body practices that involve the body are immersed in a process that leads to embodiment and integration. (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
-
-- the act of perceiving itself coming to awareness
-- thick description of that experience ... backgrounding of self / direct experiences of bias towards the corporeal (and tension of that bias with the the extent to which we are fundamentally corporeal) - see confusing self-consciousness with consciousness, subject-body and object-body
-
-It occurred to me that one of the differences between a sitting meditation and a dancing meditation (like the one KC and I are practicing) is that the presence and persistence of bodily movement constantly undermines or quietens the headiness of being lost in thought. That it is more difficult to imagine the head as a centre or location of thinking and consciousness when sensation and awareness is contagiously dispersed throughout the body in motion. 
 
 ### Attentional expertise
+
+- Somatic expertise as attentional conditioning. -- a profound positive feedback loop between importance of corporeal sensation --> attention --> importance of corporeal sensation --> reduced focus on outcome --> etc
 
 attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth)
 
