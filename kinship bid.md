@@ -9,6 +9,8 @@ type: evergreen
 
 _previous note:_ [[kinship bid initial summary]]
 
+- see Vanessa Lux on embodiment and disciplinary boundaries: [[Lux - A Developmental Framework for Embodiment Research#^6c1a18]]
+
 Research on nature is often shaped by instrumental questions about benefit, for example whether time outdoors reduces stress, improves mood or supports resilience. While important, such approaches overlook aspects of experience that are difficult to measure yet culturally and intellectually significant. In sustained body-oriented practices outdoors, people may encounter shifts in self-experience, bodily sensing and relation to place, including experiences of altered self-boundary and heightened awareness of more-than-human life. These experiences sit uneasily within dominant wellbeing frameworks and remain underexplored in current research. This project asks how arts and humanities led, first-person and practice-based methods can bring such experiences into clearer view. It also examines whether in situ sampling can be brought into productive dialogue with phenomenological description without reducing complex lived experience to thin categories. In doing so, the project repositions nature experience as a question of relation, method and knowledge, not only outcome.
 
 - that last sentence is terrible. 
