@@ -204,6 +204,19 @@ The two lists are not exhaustive but focus on the phenomena for which the eviden
 
 ## Making sense of the phenomena
 
+--- 
+**the phenomenology is now established; the question becomes how to account for it**
+
+"Making sense of the phenomena" = what might this experience be?
+"The practice" = why might this particular practice make it more likely?
+"Non-dancing" = what follows -- this needs explaining. is more like a coda
+
+once the architecture and phenomena have established deep sensory dancing versus being danced, later sections should refer back to that distinction rather than redescribe it. remove material from the middle-late part would make the final expansion stronger.
+
+For the ending add only short bridging paragraph before "Non-dancing" that earns the move from the dancing practice to a more general feature of experience. 
+
+---
+
 If nondual-awareness is one possible way of framing or interpreting these retrospective experiential data, then _absorption_, _experience without explicit self-awareness_, _attenuated sense of agency_, _flow_ and _skilled automaticity_ are five others.
 
 Absorption is described by the psychologist Auke Tellegen as 'a disposition to enter under conducive circumstances psychological states that are characterized by marked restructuring of the phenomenal self and world' [1992, quoted in @wild-1995-role p.570]. That is, the capacity to be absorbed in our actions such that our sense of self and our relationship to the world is changed.
@@ -240,66 +253,31 @@ These accounts describe aspects of what Katye and I experienced, but they do not
 
 <div style="text-align: right">– Rupert Spira [-@spira-2008-transparency]</div>
 
-### Precision weighting and movement as a bias
-
 The neuroscientist Anil Seth's account of perception as 'controlled hallucination' draws on predictive processing to explain the nature of conscious experience [@seth-2021-being]. In brief, predictive processing proposes that perceptual systems generate predictions about incoming sensory information based on prior experience – or priors – and compare these predictions with sensory signals. Perception emerges through an ongoing exchange between predictions passing down from the brain's existing model of the world and signals passing up from the senses. When sensory signals differ from what was predicted, the resulting prediction errors prompt the brain to revise its predictions. These perceptual best guesses are 'a reaching out from the brain to the world, a writing as much as a reading', and are what the philosopher Andy Clark playfully calls 'controlled hallucinations' [@clark-2016-surfing p.195].
 
-A key part of predictive processing is precision weighting: the system's estimation of how reliable or informative particular predictions and sensory signals are. Precision weighting is closely related to attention. As Seth explains, attending to sensory information is 'equivalent to increasing its expected precision so that the sensory data have greater impact on perception' [@seth-2018-being p.971]. In authentic movement, sustained attention to bodily sensation may therefore 'turn up the gain' on sensory signals from the body, increasing their influence on perception. What is sensed is not thereby freed from prior expectations: those expectations, including beliefs about the body's role in perception, continue to shape how bodily signals are interpreted. Guy Claxton writes that due to lots of previous action 'my movements are partially and automatically encoded in terms of their anticipated effects on perception' [-@claxton-2015-intelligence p.66]
+A key part of predictive processing is precision weighting: the system's estimation of how reliable or informative predictions and sensory signals are. Precision weighting is closely related to attention. As Seth explains, attending to sensory information is 'equivalent to increasing its expected precision so that the sensory data have greater impact on perception' [-@seth-2018-being p.971]. In authentic movement, sustained attention to bodily sensation may therefore 'turn up the gain' on sensory signals from the body, increasing their influence on perception. What is sensed is not thereby freed from prior expectations: those expectations, including beliefs about the body's role in perception, continue to shape how bodily signals are interpreted.
 
-Seen through the lens of predictive processing and precision weighting, the practice Katye and I did together involved a distinctive pattern of up- and down-weighting. Decades of dance and somatic training has predisposed us to treat kinaesthetic information as fundamental or even vital: at the beginning of an improvisation I described bodily sensations as 'full and rich' and attributed the difficulty of becoming lost in thought to 'the quantity and quality of basically bodily information' (Ellis, 2 February 2024 am). Movement further amplified this information: Katye noted that it 'agitates sensation', so that 'my attention immediately spreads because there's many things to attend to' (Coe, 9 February 2024 pm). At the same time, the practice appears to down-weight predictions concerned with what the dancing ought to become. Coe associated 'expectation about what this is or what this isn't' with 'the same part that reaches', observing that when this part of thinking is loud 'it gets quieter' (Coe, 14 February 2024 am); I described beginning the practice as 'committing to not wanting' (Ellis, 14 February 2024 am). 
+Seen through the lens of predictive processing and precision weighting, the practice Katye and I did together likely involved a distinctive pattern of up- and down-weighting. Decades of dance and somatic training has predisposed us to treat kinaesthetic information as fundamental or vital. At the beginning of an improvisation I described bodily sensations as 'full and rich' and attributed the difficulty of becoming lost in thought to 'the quantity and quality of basically bodily information' (Ellis, 2 February 2024 am). Movement further amplified this information. Katye noted that it 'agitates sensation', so that 'my attention immediately spreads because there's many things to attend to' (Coe, 9 February 2024 pm). At the same time, the practice appears to down-weight predictions concerned with what the dancing ought to become. Coe associated 'expectation about what this is or what this isn't' with 'the same part that reaches', observing that when this part of thinking is loud 'it gets quieter' (Coe, 14 February 2024 am); I described beginning the practice as 'committing to not wanting' (Ellis, 14 February 2024 am). 
 
-The clinician and research Wolf Mehling describes how individuals working through mind-body practices that involve the body use 'repetition and training in these skills of noticing, differentiating, and discerning' to lead to 'embodiment and integration' [@mehling-2011-body p.7]. In predictive-processing terms, then, the somatic practice Katye and I practice may be understood as cultivating a learned bias towards the precision of moment-to-moment kinaesthetic information while reducing the influence of explicit, goal-directed expectations about what should happen next. More broadly, for dancers movement is little more than a bias in the same way that pianists might up-weight aural acuity (or attention) while down-weighting physical sensation.  
+The clinical researcher Wolf Mehling describes how individuals working through mind-body practices that centralise the body use 'repetition and training in these skills of noticing, differentiating, and discerning' to lead to 'embodiment and integration' [@mehling-2011-body p.7]. In predictive-processing terms, then, the somatic practice Katye and I practice may be understood as cultivating a learned bias towards the precision of moment-to-moment kinaesthetic information while reducing the influence of explicit, goal-directed expectations about what should happen next. More broadly, therefore, for dancers movement is little more than a bias in the same way that pianists might up-weight aural acuity (or attention) while down-weighting physical sensation.  
 
+According to Seth, while attention is the means to up-weight particular sensations, _disattention_ is the opposite and its role in proprioception and movement is important and somewhat counter-intuitive. In order for a physical action to be carried out, the predictions telling the brain where the body currently is need to be down-weighted such that the body will move. Seth calls this down-weighting disattention [@seth-2018-being], and it presents a productive paradox: attending less to the body as something to be monitored and controlled may allow more movement and sensory experience to emerge. 
 
-> We probably don't think much about proprioception because, in some sense, it's always there, but the simple fact that you can touch your nose with your eyes shut – try it! – demonstrates the essential role it plays in all our actions. From the perspective of active inference, touching my nose means allowing a suite of proprioceptive predictions about hand movement and position to become self-fulfilling – to overwhelm the sensory evidence that my fingers are currently not touching my nose. Precision weighting again plays an important role here. In order for proprioceptive predictions to make themselves come true, the prediction errors that are telling the brain where the body actually is must be attenuated, or down-weighted. This can be thought of as the opposite of paying attention – a kind of 'disattention' to the body, which allows it to move.[@seth-2018-being]
+In the dancing, this offers a mechanism for the shift from deliberate organisation towards being moved. One might vividly attend to bodily sensation overall while down-weighting proprioceptive signals that would otherwise stabilise the body's present position or demand conscious correction. The mover can become more sensorially immersed while becoming less governed by information that maintains the body's current organisation. In other words, less authority is given to 'this is where and how my body presently is', allowing movement to unfold and generating more sensation in the process. 
 
-Disattention presents a productive paradox: attending less to the body as something to be monitored and controlled may allow more movement and sensory experience to emerge. In the dancing, this offers a possible mechanism for the shift from deliberate organisation towards being moved.
+If part of the practice of dancing for Katye and me is to turn up the gain on sensation and reduce it on goal-directed expectations, do these abilities map onto what our expertise is in the practice? 
 
+My hunch is that somatic expertise develops alongside attentional expertise [@lutz-2008-attention] via a self-reinforcing loop. Sustained attention up-weights corporeal sensation and subtle movement provides enough sensory variation to sustain that attention. Learned priors about the value of bodily sensation and openness to indeterminacy and uncertainty support this process, while expectations about particular actions, outcomes or 'desires' are down-weighted. In the practice with Katye small movements may intensify, alter or renew sensation, but the primary activity is sustained sensing. Movement helps keep the sensory field alive. 
 
-
-- precision weighting -- Gallagher as well (mesh framing?)
-
-
-### Attentional expertise
-
-- Somatic expertise as attentional conditioning. -- a profound positive feedback loop between importance of corporeal sensation --> attention --> importance of corporeal sensation --> reduced focus on outcome --> etc
-
-attentional expertise [see for example @lutz-2008-attention]. -- this idea needs clarification. Merge with contributions? or link to top-down predictions/agency/disattention (Seth)
-
-- feel like lutz's work is another possibility entirely. 
-- https://chatgpt.com/share/6a6b2ec2-fdf8-83eb-9a37-f2a8e525f845
-
-> It makes a great deal of biological, psychological, and ecological sense instead to think of awareness as a constant modulation of the open interaction between an organism and its environment, of the adjustment of the state of the organism and attunement of the posture and goals of the organism as its senses and movements interact with the world it inhabits. In other words, we can think of awareness as a mode of embedding of the organism in its world, instead of as the relation between an interior subject and an exterior object, even if that is how it appears to us in introspection. To think of awareness in this way is to take seriously the idea that we don't stand against the world as subjects that detect its properties or agents that act on it, but instead are part of the world, and that awareness is more an attunement to our environment than a recording in our minds of what is going on outside. This approach to cognition, which is called the 'embedded, embodied, enactive' model of cognition, is gaining wide acceptance among philosophers and cognitive scientists. [@garfield-2022-losing n.pag]
-
-
-> Our results lend further evidence to the claims that NDA meditations are different from both FA and OM meditations. While FA and OM meditations are traditionally regarded as "constructed" states created through deployment of speciﬁc attentional strategies, NDA meditations are thought not to involve intentional effort, but to be based on identifying a reﬂexive awareness that is regarded as "unconstructed" (Mipam and Hopkins, 2006). Additionally, both FA and OM meditations are content-oriented, concerned with the speciﬁcs of experience, while NDA meditations could be seen as primarily context-oriented, concerned with the context of experience. (Zoran Josipovic, Influence of Meditation on Anti-Correlated Networks in the Brain)
-
-
-
-
-
+## Non-dancing
 
 > Perhaps we shouldn't find it surprising that people regularly experience spaceless and timeless states in meditation, embodied as a "oneness" that no longer takes on the character of being a separate "self." All three of these perceptions – space, time, and self – have been revealed by neuroscience and physics to be a distortion of what we now understand to be the underlying physical reality. These perceptions can even be considered illusions in one sense of the word. 
 
 <div style="text-align: right">– Annaka Harris [-@harris-nodate-meditation n.pag]</div>
 
-finish with paragraph that incorporates these things. 
+None of these ideas and practices presented in this chapter is somehow evidence that Katye and I had a series of nondual experiences while dancing in the northern winter of 2024. Yet we felt what we felt, and described these feelings in a way that I have attempted to present as accurately as possible in this writing. 
 
-it's even more than 'being danced' -- it ceases to be dancing. it's non-dancing. it's the movement that remains when there is non dancing. moving while non-dancing. 
-
-That in this dancing -- but not because dancing is special – is an encounter with reality that is normally and usefully masked by perception. 
-
-
-
-
-
-
-- epistemic limits
-- practice research (both of these in edit bin now)
-- explanations? -- also in edit bin
-- bias towards the body moving
-
-
+It strikes me now, many months into this process, that _being danced_ has very little to do with dancing. Perhaps it is akin to an experience when the dancing ceases or becomes non-dancing. It is the movement that remains when there is non-dancing. That in this dancing – but not because dancing is somehow special – is an encounter with reality that is usually and usefully masked by perception. The practice merely enables us to elude the layers of personal and cultural perceptual histories in order for the body to dissolve.
 
 
 ---
