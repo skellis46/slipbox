@@ -34,7 +34,7 @@ I am brought back to the world. My eyes were closed but I was not asleep. The fe
 
 When we wake, we wake _from somewhere_. 
 
-Being brought back to the world like this is not an uncommon or unpredictable experience. When I am practising a form of dancing called [[authentic movement]] it happens every time. Being woken up or disturbed from such an experience reveals that something is happening to awareness that feels complete and even permanent, while paradoxically easy to disrupt and difficult to describe. 
+Being brought back to the world like this is not an uncommon or unpredictable experience. When I am practising a form of dancing called authentic movement it happens every time. Being woken up or disturbed from such an experience reveals that something is happening to awareness that feels complete and even permanent, while paradoxically easy to disrupt and difficult to describe. 
 
 Where was I before the alarm sounded? Who was I before the alarm sounded? Was _I_ before the alarm sounded?  
 
@@ -72,7 +72,7 @@ This writing is therefore constructed from first-person experiences of dancing, 
 
 ## Authentic movement: awareness while dancing
 
-Our research-dancing was a somatic practice called [[authentic movement]], which normally involves two people taking turns in two different roles: a mover-dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is usually followed by a period of reflection between the two participants[^am] – something Katye and I only did after we had both danced.
+Our research-dancing was a somatic practice called authentic movement, which normally involves two people taking turns in two different roles: a mover-dancer who improvises movement with eyes closed, and a viewer or witness who observes. Both the mover and witness attempt to avoid making judgments on any aspect of the experience. Each iteration of the practice is usually followed by a period of reflection between the two participants[^am] – something Katye and I only did after we had both danced.
 
 Authentic movement has a therapeutic lineage [@starkswhitehouse-1999-authentic] and is now used variously as a 'mystical practice' [@adler-2015-mandorla p.218], as a method to create movement [e.g. @voris-2018-forming], and as a performance practice [e.g. @davis-2007-maya; @mcleod-2020-dance], all while maintaining its roots in therapy [e.g. @stromsted-2026-souls]. It is not surprising that Jane Bacon describes authentic movement as a 'field of practices' [@bacon-2015-authentic p.205]. 
 
@@ -240,15 +240,31 @@ These accounts describe aspects of what Katye and I experienced, but they do not
 
 <div style="text-align: right">– Rupert Spira [-@spira-2008-transparency]</div>
 
-### Precision weighting / predictive processing
+### Predictive processing and precision weighting
+
+The neuroscientist Anil Seth’s account of perception as ‘controlled hallucination’ draws on predictive processing to explain the nature of conscious experience [@seth-2021-being]. In brief, predictive processing proposes that perceptual systems generate predictions about incoming sensory information based on prior experience – or priors – and compare these predictions with sensory signals. Perception emerges through this ongoing exchange between top-down predictions and bottom-up prediction errors, with the system continually seeking to minimise the difference between what is predicted and what is sensed. These perceptual best guesses are ‘a reaching out from the brain to the world, a writing as much as a reading’, and are what the philosopher Andy Clark playfully calls ‘controlled hallucinations’ [@clark-2016-surfing p.195].
+
+A key part of predictive processing is precision weighting: the system’s estimation of how reliable or informative particular predictions and sensory signals are. Precision weighting is closely related to attention. As Seth explains, attending to sensory information is ‘equivalent to increasing its expected precision so that the sensory data have greater impact on perception’ [@seth-2018-being p.971].
+
+> Increasing the estimated precision of sensory signals is nothing other than 'paying attention'. Seth book
+
+attention does not merely increase sensory information but changes how much influence particular sensory signals have on perception.
+disattention
+
+
+
+> When you pay attention to something [...] your brain is increasing the precision weighting on the corresponding sensory signals, which is equivalent to increasing their estimated reliability, or turning up their ‘gain’. [@seth-2021-being]
+
+> The function of perception, at least to a first approximation, is to figure out the most likely causes of the sensory signals, not to deliver awareness of the sensory signals themselves – whatever that might mean. (Seth loc 1494)
 
 - precision weighting -- Gallagher as well (mesh framing?)
 
-> Although this sounds complicated, we are all intimately familiar with the role of precision weighting in perception. Increasing the estimated precision of sensory signals is nothing other than 'paying attention'. When you pay attention to something – for example, really trying to see whether a gorilla is out there in the distance – your brain is increasing the precision weighting on the corresponding sensory signals, which is equivalent to increasing their estimated reliability, or turning up their 'gain'. Thinking about attention this way can explain why sometimes we don't see things, even if they are in plain view, and even if we are looking right at them. [@seth-2021-being] 
 
 
-- From Hetty in November 2024: what is the role of movement? (this is a key question re [[Seth and Tsakiris - Being a Beast Machine]] and the 'bias' of movement for dancers )
 
+- From Hetty in November 2024: what is the role of movement? (this is a key question re Seth and Tsakiris - Being a Beast Machine and the 'bias' of movement for dancers )
+
+> the really exciting thing about predictive processing is it for the first time gives us a language to understand this pure awareness, this pure non-dual awareness. Shamil Chandaria [in @taft-2022-meditation 30:05min]
 
 all related to precision weighting? [This summary is excellent on llm](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
 and [useful re canonical references](https://chatgpt.com/share/69e9d52b-4dd4-83eb-a55a-8d62d9a09fa1).
@@ -262,7 +278,7 @@ Disattention presents a productive paradox: attending less to the body as someth
 
 ### Movement as a bias
 
-- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also [[everything is becoming otherwise]]. also on this point see Spira below:
+- movement as a bias. That we in dance are training this bias (indeed this is what training can be thought to be). See also everything is becoming otherwise. also on this point see Spira below:
 
 This is essential also in relation to training biases
 
@@ -273,8 +289,8 @@ This is essential also in relation to training biases
 
 > So through repetition and training in these skills of noticing, differentiating, and discerning, individuals engaged in mind-body practices that involve the body are immersed in a process that leads to embodiment and integration. (Mehling, Wolf E. et al, Body Awareness: a phenomenological inquiry into the common ground of mind-body therapies)
 
-- [[the act of perceiving itself coming to awareness]]
-- thick description of that experience ... backgrounding of self / direct experiences of bias towards the corporeal (and tension of that bias with the the extent to which we are fundamentally corporeal) - see [[confusing self-consciousness with consciousness]], [[subject-body and object-body]]
+- the act of perceiving itself coming to awareness
+- thick description of that experience ... backgrounding of self / direct experiences of bias towards the corporeal (and tension of that bias with the the extent to which we are fundamentally corporeal) - see confusing self-consciousness with consciousness, subject-body and object-body
 
 It occurred to me that one of the differences between a sitting meditation and a dancing meditation (like the one KC and I are practicing) is that the presence and persistence of bodily movement constantly undermines or quietens the headiness of being lost in thought. That it is more difficult to imagine the head as a centre or location of thinking and consciousness when sensation and awareness is contagiously dispersed throughout the body in motion. 
 
@@ -345,6 +361,14 @@ That in this dancing -- but not because dancing is special – is an encounter w
 - Hetty for questions 
 - acknowledge the QR spend
 
+## links
+
+- [[authentic movement]]
+- [[Seth and Tsakiris - Being a Beast Machine]]
+- [[everything is becoming otherwise]]
+- [[the act of perceiving itself coming to awareness]]
+- [[confusing self-consciousness with consciousness]]
+- [[subject-body and object-body]]
 
 ## References
 
