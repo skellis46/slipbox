@@ -16,7 +16,7 @@ _keywords:_ dancing, improvisation, non-dual awareness, consciousness
 
 _biography:_ 
 
-Simon Ellis works with choreography, filmmaking and words and has expertise in practice research. He was born in Aotearoa New Zealand, but lives in the UK and is the Director of C-DaRE (Centre for Dance Research) at Coventry University. He grew up in a family where conversations about dignity and equality were common and these conversations have shaped his values as an artist and researcher. www.skellis.net
+Simon Ellis works with choreography, filmmaking and words and has expertise in practice research. He was born in Aotearoa New Zealand, but lives in the UK and is the Director of C-DaRE (Centre for Dance Research) at Coventry University. He grew up in a family where questions about politics, science and technology were part of everyday conversation, and his work as an artist-scholar continues to be shaped by those questions and conversations. www.skellis.net
 
 ## Abstract
 
@@ -52,7 +52,7 @@ In the northern autumn of 2023 professional dancer Katye Coe and I were practici
 
 That dancing in the northern hemisphere winter of 2024 lies at the heart of this writing.
 
-Katye and I practiced together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), except for the morning only on 26 January. The sessions followed a pattern: 1) one person danced for a timed period (normally 25 minutes) while the other witnessed that dancing; 2) roles were changed and the practice repeated; 3) there was an unstructured conversation about the experiences that was audio recorded. We had thirteen conversations in total, each around 40 minutes long.[^conversations]
+Katye and I practiced together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), except for the morning only on 26 January. The sessions followed a pattern: 1) one person danced for a timed period (normally 25 minutes) while the other witnessed that dancing; 2) roles were changed and the practice repeated; 3) there was an unstructured conversation about the experiences that was audio recorded. We had thirteen conversations in total, each around 40 minutes long.[^conversations][^llm]
 
 Although in this writing I focus on the threshold between seemingly dual and non-dual experiences in dance improvisation, in reality the term _threshold_ referenced a family of transitions in our conversations together. It was not until the tenth conversation of 13 (on the morning of 14 February 2024) that we explicitly used the word _threshold_, at which point we started to discuss other types of thresholds: closing one's eyes, the move from what we were calling 'awareness-ing' to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from the dancing. 
 
@@ -270,6 +270,8 @@ It strikes me now, many months into this process, that _being danced_ has very l
 [^losing]:[Losing One's Self: Exploring Dance Improvisation and Consciousness](https://losingoneself.coventry.ac.uk/) involved Katye Coe (dancer-researcher), L.M. Merritt Millman (neuroscientist), Michaela Gerussi (dancer-researcher), and me (Simon Ellis, dancer-researcher). Late in 2023 the research was awarded via lot some seed funding from Coventry University. 
 
 [^conversations]: Session 1: 26 January 2024; Session 2: 1 February 2024 am; Session 3: 1 February 2024 pm; Session 4: 2 February 2024 am; Session 5: 2 February 2024 pm; Session 6: 8 February 2024 am; Session 7: 8 February 2024 pm; Session 8: 9 February 2024 am; Session 9: 9 February 2024 pm; Session 10: 14 February 2024 am; Session 11: 14 February 2024 pm; Session 12: 15 February 2024 am; Session 13: 15 February 2024 pm.
+
+[^llm]: Large language models (LLMs) – Anthropic's Claude and OpenAI's chatGPT were used at several stages in the research and writing process. They assisted with preliminary content analysis of interview transcripts, including identifying recurrent themes and patterns, and with early-stage desk research, particularly summarising academic articles prior to closer reading. During writing, LLMs were used as editorial tools to test structure, identify repetition, suggest revisions and proofread drafts. Their outputs were treated as provisional rather than authoritative: interpretations, summaries and suggested edits were checked against the original research data, source texts and the authors’ own analysis. An LLM also wrote this paragraph. 
 
 [^other-data]: For the broader project ... (including dancing, reflecting, self-reporting questionnaires and various forms of video and photographic documentation). Initial literature searches focusing on dance improvisation, consciousness and mindfulness practices occurred in early 2024 (led by Michaela), and I later picked up and expanded on Michaela's work as part of the development of this writing. Analysis of the self-reporting questionnaires was finished by Merritt in September 2024.
 
