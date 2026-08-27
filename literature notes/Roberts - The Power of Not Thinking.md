@@ -49,7 +49,7 @@ _previous note:_ [[embodiment]]
 
 > Reliable knowledge, Descartes suggested, is only available to us when we put our emotions to one side and apply our minds. In making this argument, he was laying the foundations for centuries of distrust of the body as a source of understanding.(loc 506)
 
-> Taken together, these three ideas establish a very distinctive and enduring division between minds and bodies. Minds are  superior, the animating source of knowledge and truth, while bodies are transportation devices at best and sources of sensory deception at worst.(loc 512)
+> Taken together, these three ideas establish a very distinctive and enduring division between minds and bodies. Minds are  superior, the animating source of knowledge and truth, while bodies are transportation devices at best and sources of sensory deception at worst.(loc 512) #the-body-problem 
 
 
 > This age of reason confirmed the mind as the means for achieving knowledge; in Descartes’s philosophy it didn’t just relegate the body but actively warned against it since, he argued, reason and certainty come from physical disengagement and dominion over our senses.(loc 526)

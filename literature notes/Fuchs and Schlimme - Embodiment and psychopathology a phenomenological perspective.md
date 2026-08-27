@@ -1,3 +1,10 @@
+---
+aliases: []
+tags:
+  - the-body-problem
+type: literature
+---
+
 # Fuchs and Schlimme - Embodiment and psychopathology: a phenomenological perspective
 
 

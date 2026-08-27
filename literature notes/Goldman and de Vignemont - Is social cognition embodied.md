@@ -31,13 +31,7 @@ type: literature
 - Note: p.154
 
 
-> Embodiment theorists want to elevate the
->  importance of the body in explaining cognitive activities.
->  What is meant by ‘body’ here? It ought to mean: the whole
->  physical body minus the brain. Letting the brain qualify as
->  part of the body would trivialize the claim that the body is
->  crucial to mental life, simply because the brain is the seat
->  of most, if not all, mental events. ([View Highlight](https://read.readwise.io/read/01h7a4jdav0perbnffwhwsffwa))
+> Embodiment theorists want to elevate the importance of the body in explaining cognitive activities. What is meant by ‘body’ here? It ought to mean: the whole physical body minus the brain. Letting the brain qualify as part of the body would trivialize the claim that the body is crucial to mental life, simply because the brain is the seat of most, if not all, mental events. ([View Highlight](https://read.readwise.io/read/01h7a4jdav0perbnffwhwsffwa)) #the-body-problem 
 
 
 +++++ 
