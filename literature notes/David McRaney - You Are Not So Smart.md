@@ -1,5 +1,7 @@
 # You Are Not So Smart
 
+_previous note:_ [[apophenia and seeking patterns]]
+
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51G70KBZyLL._SL200_.jpg)
 
 ## Metadata

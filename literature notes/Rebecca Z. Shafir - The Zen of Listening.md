@@ -1,5 +1,7 @@
 # The Zen of Listening
 
+_previous note:_ [[listening is easy in principle]]
+
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/412pL0HeIaL._SL200_.jpg)
 
 ## Metadata
