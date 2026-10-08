@@ -15,6 +15,7 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 - Boundary test 01 is titled **Relational bodily encounters** and uses the exact agreed question quoted in its file.
 - The project record should live in Markdown under the Obsidian vault's existing GitHub repository, with explicitly recorded updates.
 - Continue with BT-02 using McGeer's passive dynamic walker, asking which conception of embodiment makes that description possible and what such a conception might exclude.
+- BT-02 provisional outcome agreed: the passive walker fits bodily constraint / affordance, but its location within Lux's biological levels is uncertain. This may reveal a limitation in how the map's dimensions are combined, rather than exclusion from embodiment.
 
 ## Provisional working positions
 
@@ -39,10 +40,11 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 5. Should ethics and other transversal concerns be represented at all, and if so how?
 6. When does translation into embodiment vocabulary misrepresent a tradition's own categories?
 7. How should physical coupling, environmental sensitivity and awareness be distinguished? Might this warrant another boundary test, rather than extending BT-02?
+8. Must an account occupy every dimension of the map, or can one dimension be explicitly marked inapplicable? Not yet agreed.
 
 ## Not decided
 
-- No final result for BT-02 and no boundary established by the passive walker case.
+- BT-02's provisional outcome has been agreed, but the question of dimension inapplicability remains unresolved and the test is not yet formally closed.
 
 - No final result for BT-01.
 - No addition to the existing map's categories, axes or literature.
