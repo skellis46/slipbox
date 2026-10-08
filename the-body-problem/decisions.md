@@ -90,3 +90,13 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **New proposed question, not yet agreed:** Can the map distinguish conceptions of embodiment for which awareness is necessary from those for which it is not?
 
 **Status:** Direction agreed. Exact question and findings remain open. Earlier BT-03 proposals are retained in the file for the audit trail. See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md).
+
+### 2026-10-08 15:43 BST | Agreed | BT-03 and project handoff
+
+**Exact question agreed for BT-03:** “Can the map distinguish conceptions of embodiment for which awareness is necessary from those for which it is not?” The boundary test has **no agreed finding**.
+
+**Conceptual status:** Awareness *may* be equivalent to consciousness. This remains an open possibility, not a definition. Evidence of unconscious perceptual processing should not be used to claim without qualification that all perception is unconscious or that the dispute about unconscious perception is settled.
+
+**Separate future test:** Somatic expertise in practices without prescribed movement outcomes, contrasted carefully with research on outcome-oriented skilled performance. This has been parked in [the unnumbered note](future-tests/somatic-expertise.md), without an agreed test question or outcome.
+
+**Pause and resumption:** The project is on hold after this session. On returning, read the [README](README.md), this decisions log and the current [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md). The brief account to share with Scott lives in [scott updates](scott%20updates.md), with most recent summaries at the top.
