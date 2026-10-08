@@ -67,6 +67,22 @@ Boundary test 02 has an **agreed provisional outcome**: the passive walker fits 
 
 Other possible lines include ethics as a transversal concern and traditions which might not understand bodies through 'embodiment' at all. No new categories or literature coverage programme have been authorised.
 
+## Session handoff
+
+**Source of truth:** the `the-body-problem/` folder in the `master` branch of `skellis46/slipbox`. Do not reconstruct the working position solely from conversational memory.
+
+**At the start of a new session:** read the current versions of this README, `decisions.md` and the relevant boundary-test file directly from GitHub. Consult `sources/README.md` for source inventories. Distinguish agreed test questions and findings from interpretations, proposals and outstanding problems. Where changes have been made locally, ensure they are pushed before editing the remote copy.
+
+**Between sessions:** changes made directly to GitHub become local through **Pull** in Sublime Merge. Locally edited notes must be committed and pushed before they can be read from GitHub. Avoid overwriting newer local or remote revisions.
+
+**State as of 8 October 2026:**
+- BT-01, relational bodily encounters: agreed question, **no agreed outcome**.
+- BT-02, embodiment without experience: **agreed provisional outcome**. The passive walker is accommodated by bodily constraint / affordance but fits Lux's biological levels poorly. The mismatch is retained as a possible insight into the map and its conceptions.
+- Methodological decision: a case **need not fit every dimension**. Record non-applicability, poor fit and conceptual incompatibility as informative 'failure points', not defects to be automatically corrected.
+- BT-03 is next: awareness and bodily responsiveness. Its precise question and conclusions **are not yet agreed**. Awareness must not quietly become a universal condition of embodiment.
+
+**Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
+
 ## Working files
 
 - [Decisions and open questions](decisions.md)
