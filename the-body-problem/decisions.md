@@ -42,6 +42,11 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 6. When does translation into embodiment vocabulary misrepresent a tradition's own categories?
 7. How should physical coupling, environmental sensitivity and awareness be distinguished? Might this warrant another boundary test, rather than extending BT-02?
 8. How should we annotate and interpret failure points consistently without treating every poor fit as a reason to change the map?
+9. BT-03 (proposed): How can the map distinguish environmental responsiveness, bodily awareness without reflective attention and deliberate somatic attention, without making awareness universally necessary?
+
+## Current work
+
+- BT-03 has been opened as a **proposed** test, comparing the passive walker, Feldenkrais Awareness Through Movement and Gallagher's account of skilled performance. Neither the question nor a result is yet agreed. See `boundary-tests/BT-03-awareness-and-bodily-responsiveness.md`.
 
 ## Not decided
 
