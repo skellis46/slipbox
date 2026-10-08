@@ -66,6 +66,18 @@ The map should be permissive enough to trouble normative assumptions about embod
 
 Examine precisely what the passive walker is claimed to embody in the cited literature and identify what that conception includes or excludes. Do not expand the map or close the test in advance.
 
-## Finding
+## Agreed provisional outcome
 
-**Not yet decided.**
+The passive walker can be accommodated within the map's conception of **bodily constraint / affordance**. However, its relationship to the seven biological levels is uncertain. This suggests a possible limitation in how the map's dimensions are combined rather than a failure to recognise the example as embodied.
+
+The agreement concerns this **provisional assessment**, not the resolution of all methodological questions raised by the test.
+
+## Still open
+
+Does an account need to be locatable on all three dimensions of the map – conceptions of embodiment, Lux's seven levels and modes of knowledge – or may a dimension legitimately be inapplicable? Level 4 may be a tempting analogy for the passive walker's locomotion, but describing it as sensory and motor activity risks implying sensory processes not present in the example.
+
+No change to the map or its categories has been agreed. The broader question of awareness remains separate.
+
+## Finding status
+
+**Provisional outcome agreed. Test not yet formally closed.**
