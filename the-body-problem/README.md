@@ -91,6 +91,21 @@ Other possible lines include ethics as a transversal concern and traditions whic
 - [Boundary test 03 – proposed](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md)
 - [Source inventory](sources/README.md)
 
+## Decision timestamps
+
+From 8 October 2026 onwards, record each substantive decision or change of position in a **chronological, append-only log** in [`decisions.md`](decisions.md). Use the following format:
+
+`YYYY-MM-DD HH:mm BST/GMT | Status | BT-XX or project-wide`
+
+Include a concise account of what was agreed, revised or rejected and a link to the relevant boundary test when appropriate.
+
+- Use UK local time, explicitly marking **BST** or **GMT** as applicable.
+- **Agreed** denotes a decision explicitly accepted in discussion. **Provisional** denotes a working position. **Revised** records a change to an earlier position. **Rejected** records an explicitly rejected proposal. Keep proposed questions labelled as proposals, not decisions.
+- Record the time the entry is **written or confirmed**, not a claimed exact time of an earlier conversation. When the original decision time is unknown, use its known date only and do not invent an hour or minute.
+- Do not overwrite, backdate or silently recategorise earlier entries. Add a dated revision that points to the earlier entry.
+- The Git commit is an additional audit trail, not a substitute for a decision timestamp.
+- The pre-existing thematic sections in `decisions.md` are a legacy summary. Their dates and status should not be retroactively reconstructed.
+
 ## Conventions
 
 UK English, no Oxford commas, no em-dashes. Record what was **agreed**, **suggested** and **left open** separately. Cite identifiable sources accurately. Do not silently rewrite an earlier formulation, conflate an author's work with the practices it describes or treat absent historical evidence as evidence of absent experience.
