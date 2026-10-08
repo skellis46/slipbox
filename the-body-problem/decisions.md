@@ -80,3 +80,13 @@ Entries below are added in order of recording. The timestamp identifies when the
 **Proposed alternative question, not yet accepted:** Can the map accommodate conceptions of embodiment in which awareness, provisionally understood as consciousness, is central to the practice, while the expertise being cultivated concerns attending, sensing and allowing rather than achieving an externally specified movement outcome?
 
 See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [Ellis's working chapter](../improvisation%20and%20the%20threshold%20of%20the%20self.md). Neither BT-03's question nor its finding has been agreed.
+
+### 2026-10-08 15:36 BST | Revised | BT-03
+
+**Agreed change of scope:** BT-03 returns to awareness as a potential **boundary between conceptions of embodiment**, not awareness of the body versus awareness of the environment. Somatic expertise, particularly the comparison of outcome-oriented skilled performance with skills cultivated in autotelic somatic practices, is reserved for a **separate future boundary test**.
+
+**Working orientation, not settled definition:** Awareness may be understood as consciousness; perception is distinct and need not be conscious. Self-awareness should not be taken as equivalent to consciousness.
+
+**New proposed question, not yet agreed:** Can the map distinguish conceptions of embodiment for which awareness is necessary from those for which it is not?
+
+**Status:** Direction agreed. Exact question and findings remain open. Earlier BT-03 proposals are retained in the file for the audit trail. See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md).
