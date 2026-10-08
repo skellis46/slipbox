@@ -37,6 +37,21 @@ These are preliminary placements. They do not establish either a successful fit 
 - Do not equate environmental interaction with conscious perception or intentional navigation.
 - Do not infer a single universal definition of embodiment from Lux et al.'s treatment of embodied robotics.
 
+## Methodological reflection: somatic standpoint
+
+One co-author's experience of embodiment comes especially through somatic practice, sensitivity to bodily sensation and something akin to *felt sense*. This is a situated starting point and a methodological limit: it can incline the enquiry towards awareness without warranting awareness as a condition of every conception of embodiment.
+
+A working distinction from the discussion is between **bodily organisation participating in the generation of behaviour** and an account of **awareness**. The former is the current focus of BT-02. The latter remains an open question, potentially a separate boundary test.
+
+For the passive walker, distinguish:
+- **Physical coupling:** slope, gravity and ground contact participate in producing its movement.
+- **Sensitivity or responsiveness:** behaviour depends on these conditions, but that does not by itself entail sensing, discrimination or representation.
+- **Awareness:** a potentially experiential notion which is not established by the walking mechanism's behaviour. Avoid simply identifying awareness with consciousness before clarifying the term.
+
+The proposed distinction between **being aware of** an environment and **accounting for** an environment requires care: McGeer's passive walker does not need an internal environmental model. Its behaviour is physically conditioned by the environment. This is neither evidence of felt awareness nor necessarily a case of the walker explicitly accounting for its surroundings.
+
+A possible further question, *not yet an agreed or numbered test*: What would make environmental sensitivity count as awareness, and what different conceptions of embodiment presuppose or reject that move?
+
 ## Tension to preserve
 
 The map should be permissive enough to trouble normative assumptions about embodiment. Yet if everything counts as embodied, the map loses discriminating power. This tension is not yet resolved, and is part of what BT-02 is meant to investigate.
