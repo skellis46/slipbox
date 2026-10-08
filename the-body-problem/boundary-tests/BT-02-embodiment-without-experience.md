@@ -1,6 +1,6 @@
 # BT-02: Embodiment without experience
 
-Status: **open – direction agreed, finding not settled**  
+Status: **agreed provisional outcome – poor fits retained**  
 Opened: 8 October 2026
 
 ## Working question
@@ -72,12 +72,21 @@ The passive walker can be accommodated within the map's conception of **bodily c
 
 The agreement concerns this **provisional assessment**, not the resolution of all methodological questions raised by the test.
 
-## Still open
+## Agreed principle: failure points
 
-Does an account need to be locatable on all three dimensions of the map – conceptions of embodiment, Lux's seven levels and modes of knowledge – or may a dimension legitimately be inapplicable? Level 4 may be a tempting analogy for the passive walker's locomotion, but describing it as sensory and motor activity risks implying sensory processes not present in the example.
+An account **does not have to fit every dimension** of the map. Record poor fits or 'failure points' rather than smoothing them away. They may reveal a limit of the map, a difference in scope among its dimensions or something about the conception of embodiment under examination. A dimension that does not apply should not be confused with an attempted placement that misrepresents the account.
 
-No change to the map or its categories has been agreed. The broader question of awareness remains separate.
+In this case:
+- **Conceptions:** bodily constraint / affordance is a productive fit. The case troubles any tacit expectation that embodiment must involve a living or experiencing body.
+- **Lux's levels:** level 4 (sensory and motor activity) is at best an imperfect analogy. The walker has locomotion without the kind of sensory system the label may imply. This is a **poor fit or possible non-applicability**, not grounds to force a classification.
+- **Knowledge modes:** experimental and theoretical investigation are broadly accommodated, although the labels may not capture the particular relation between mechanical design and demonstration. This point has not been examined in depth.
+
+The 'failure point' concerning Lux's levels is itself analytically useful: the map combines dimensions developed with different assumptions and scopes. Their uneven applicability may teach us something about the embodiment conceptions brought into relation by the map.
+
+## Remaining limits and possible follow-on questions
+
+No map categories have been changed. The analysis does not establish that the walker is aware of its environment. Awareness remains a possible separate boundary test. The more general question of what the map ultimately excludes is still open.
 
 ## Finding status
 
-**Provisional outcome agreed. Test not yet formally closed.**
+**Agreed provisional outcome and methodological principle.** The identified poor fit is retained rather than repaired. BT-02 may be revisited; no further decision about requiring all dimensions is outstanding.
