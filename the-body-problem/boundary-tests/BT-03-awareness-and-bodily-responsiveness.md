@@ -3,6 +3,16 @@
 Status: **opened – question and findings not yet agreed**  
 Opened: 8 October 2026
 
+## Current direction, agreed on 8 October 2026
+
+BT-03 concerns **awareness as a boundary marker between conceptions of embodiment**. The proposed question is: *Can the map distinguish conceptions of embodiment for which awareness is necessary from those for which it is not?* The direction is agreed, but this exact question remains proposed.
+
+Working conceptual distinctions: awareness may be synonymous with consciousness, while perception can occur without consciousness. Self-awareness is not identical to consciousness. The issue is not whether awareness is directed towards one's body or towards an environment.
+
+Somatic expertise, including questions about skilled performance and practices without externally prescribed outcomes, is reserved for **a separate future boundary test**. Gallagher and *Threshold of the Self* belong principally to that separate line of enquiry.
+
+**Source handling:** Earlier proposed BT-03 questions, examples and interpretations below are retained as historical working material. They are **superseded as the current framing** and are not agreed findings.
+
 ## Proposed test question
 
 > Can the map distinguish bodily responsiveness that does not require conscious attention from forms of bodily awareness deliberately cultivated in somatic practice, without making awareness a general condition of embodiment?
