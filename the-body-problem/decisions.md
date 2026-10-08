@@ -14,6 +14,7 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 - Use repeatable, **one-at-a-time** boundary tests.
 - Boundary test 01 is titled **Relational bodily encounters** and uses the exact agreed question quoted in its file.
 - The project record should live in Markdown under the Obsidian vault's existing GitHub repository, with explicitly recorded updates.
+- Continue with BT-02 using McGeer's passive dynamic walker, asking which conception of embodiment makes that description possible and what such a conception might exclude.
 
 ## Provisional working positions
 
@@ -24,6 +25,8 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 - Existing embodiment scholarship addresses relationality and intersubjectivity. Do not claim those are simply absent.
 - Chinese medicine is not a single counterfactual case. Specific histories, texts or practices need separate examination.
 - Hsu's historical account of tactile diagnosis and contemporary Functional Integration are possible **test cases**; they are not interchangeable evidence.
+- Within some conceptions, embodiment need not require life or subjective experience. Do not convert this into a universal proposition about all embodiment scholarship.
+- The passive walker troubles normative understandings of embodiment, but a map that admits everything would have little discriminatory force. This tension remains productive and unresolved.
 
 ## Open questions
 
@@ -35,6 +38,8 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 6. When does translation into embodiment vocabulary misrepresent a tradition's own categories?
 
 ## Not decided
+
+- No final result for BT-02 and no boundary established by the passive walker case.
 
 - No final result for BT-01.
 - No addition to the existing map's categories, axes or literature.
