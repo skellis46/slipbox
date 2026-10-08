@@ -41,6 +41,10 @@ The microfiche metaphor: moving the frame reveals different parts of a much larg
 
 These are working possibilities, not mutually exclusive or definitive outcomes.
 
+## Situated standpoint
+
+One co-author comes to questions of embodiment principally through somatics, including sensitivity to bodily sensation and felt sense. This gives particular salience to awareness, but must be recognised as a situated intellectual and practical orientation rather than an assumption about all forms of embodiment. In boundary testing, distinguish environmental coupling and responsiveness from awareness or felt experience; do not let these differences become unexamined inclusion criteria. See BT-02 for the passive walker example.
+
 ## Boundary-test method
 
 Proceed **one test at a time**:
