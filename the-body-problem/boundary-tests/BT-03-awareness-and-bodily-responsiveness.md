@@ -1,19 +1,32 @@
-# BT-03: Awareness and bodily responsiveness
+# BT-03: Awareness as a boundary marker
 
-Status: **opened – question and findings not yet agreed**  
+Status: **question agreed – boundary test not yet conducted**  
 Opened: 8 October 2026
 
-## Current direction, agreed on 8 October 2026
+## Agreed question
 
-BT-03 concerns **awareness as a boundary marker between conceptions of embodiment**. The proposed question is: *Can the map distinguish conceptions of embodiment for which awareness is necessary from those for which it is not?* The direction is agreed, but this exact question remains proposed.
+> Can the map distinguish conceptions of embodiment for which awareness is necessary from those for which it is not?
 
-Working conceptual distinctions: awareness may be synonymous with consciousness, while perception can occur without consciousness. Self-awareness is not identical to consciousness. The issue is not whether awareness is directed towards one's body or towards an environment.
+Question agreed on 8 October 2026. **No outcome or change to the map has been agreed.**
 
-Somatic expertise, including questions about skilled performance and practices without externally prescribed outcomes, is reserved for **a separate future boundary test**. Gallagher and *Threshold of the Self* belong principally to that separate line of enquiry.
+## Working distinctions, not settled definitions
 
-**Source handling:** Earlier proposed BT-03 questions, examples and interpretations below are retained as historical working material. They are **superseded as the current framing** and are not agreed findings.
+- **Awareness may be equivalent to consciousness.** This is an open working possibility, not a definition imposed on all accounts.
+- Perception and awareness are distinct terms. Research on blindsight and masked perception suggests that perceptual processing can occur without reported awareness, but whether *perception itself* can be unconscious remains contested. Do not treat the stronger claim as settled.
+- Self-awareness or the sense of an 'I' is not synonymous with consciousness. The kind of experience described as *being danced* in Ellis's *Threshold of the Self* is pertinent but does not resolve this issue.
+- A question about the *content* of consciousness (body or environment) is not this boundary test. No assumption that awareness is necessary for every conception of embodiment.
 
-## Proposed test question
+## On resuming work
+
+Read this agreed question alongside the [project README](../README.md) and [decisions log](../decisions.md). Next identify **specific accounts or authors** that treat awareness as necessary and those that do not, checking their use of the word and their evidence before locating them on the existing map. Distinguish lack of conscious awareness from lack of reporting or evidence. Record poor fits as analytically useful rather than forcing dimensional classifications.
+
+**Parked, separate test:** somatic expertise and skills cultivated in autotelic practices without externally prescribed outcomes. See [Somatic expertise](../future-tests/somatic-expertise.md). Do not reintroduce Gallagher or the skilled-performance comparison here unless directly necessary to the awareness question.
+
+## Earlier proposals (historical record, superseded)
+
+The earlier proposals and comparisons below are preserved to show how BT-03 was developed. They are not the current agreed test question or plan.
+
+## Earlier proposed test question (not agreed)
 
 > Can the map distinguish bodily responsiveness that does not require conscious attention from forms of bodily awareness deliberately cultivated in somatic practice, without making awareness a general condition of embodiment?
 
@@ -86,7 +99,7 @@ Related note in the repository: [*Confusing self-consciousness with consciousnes
 
 This is a possible replacement for the earlier proposed question, not a silent alteration of it. The emerging issue is whether the map's conception and knowledge-mode dimensions can adequately represent **the character of the practice and how expertise or change is recognised**. That may constitute a useful 'failure point', but it has not yet been demonstrated.
 
-## Next step
+## Earlier proposed next step (superseded)
 
 Discuss and agree or revise the proposed question before trying to resolve the test. Then examine one specific source account closely enough to show what the existing map preserves and loses. Identify any failure point without forcing a new classification.
 
