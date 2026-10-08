@@ -55,11 +55,15 @@ Proceed **one test at a time**:
 5. Record a provisional finding with reasons, objections and unresolved issues.
 6. Agree any change explicitly before treating it as decided.
 
+**Dimensional fit is not mandatory.** An account need not be placed within all three dimensions. Record 'failure points': non-applicability, strained fit and conceptual incompatibility, without collapsing them into a single failure label. Attend to what each reveals, whether the limit belongs to the map's design, to the scope or assumptions of an individual dimension or to a conception being investigated. Do not automatically extend or repair the map to remove these points.
+
 A new map category is **not** the automatic response to a difficult test.
 
 ## Current position
 
 Boundary test 01 addresses **relational bodily encounters**. Its question is agreed, but the earlier suggestion that the map ‘passes’ is **not** an agreed final finding. See [BT-01](boundary-tests/BT-01-relational-bodily-encounters.md).
+
+Boundary test 02 has an **agreed provisional outcome**: the passive walker fits bodily constraint / affordance but sits uneasily within Lux's biologically oriented levels. The poor fit is retained as an informative feature of the map, not forced into a category. See [BT-02](boundary-tests/BT-02-embodiment-without-experience.md).
 
 Other possible lines include ethics as a transversal concern and traditions which might not understand bodies through 'embodiment' at all. No new categories or literature coverage programme have been authorised.
 
