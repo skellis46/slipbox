@@ -79,17 +79,31 @@ Other possible lines include ethics as a transversal concern and traditions whic
 - BT-01, relational bodily encounters: agreed question, **no agreed outcome**.
 - BT-02, embodiment without experience: **agreed provisional outcome**. The passive walker is accommodated by bodily constraint / affordance but fits Lux's biological levels poorly. The mismatch is retained as a possible insight into the map and its conceptions.
 - Methodological decision: a case **need not fit every dimension**. Record non-applicability, poor fit and conceptual incompatibility as informative 'failure points', not defects to be automatically corrected.
-- BT-03: **awareness as a boundary between conceptions of embodiment** is the agreed direction. The precise question and finding remain open. Working inclination: awareness may be treated as consciousness, distinct from perception; the difference between awareness of the body and of the environment is not the focus. See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md).
-- **Separate future boundary test:** somatic expertise and the difference between outcome-oriented skilled performance and autotelic practices without externally prescribed movement outcomes. Do not conflate this with BT-03 or assume that somatic expertise cannot be measured. No test number, question or finding has been agreed.
+- BT-03, **awareness as a boundary marker:** its **exact question is agreed**: “Can the map distinguish conceptions of embodiment for which awareness is necessary from those for which it is not?” **No finding** is agreed. Awareness may be equivalent to consciousness, but this remains an open working possibility. Keep perceptual processing distinct from claims about conscious experience; the dispute about unconscious perception is not settled here. See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md).
+- **Separate future boundary test (unnumbered):** [Somatic expertise](future-tests/somatic-expertise.md), including the difference between outcome-oriented skilled performance and autotelic practices without externally prescribed movement outcomes. Do not conflate this with BT-03 or assume that somatic expertise cannot be measured. No test number, exact question or finding has been agreed.
 
 **Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
+
+## Pause and restart point – 8 October 2026, 15:43 BST
+
+**Paused after agreeing BT-03's exact question; BT-03 has not been evaluated.**
+
+To resume in another session: fetch the latest GitHub versions of this README, [`decisions.md`](decisions.md) and [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) **before** advancing the argument. If helpful, consult the previous [BT-02](boundary-tests/BT-02-embodiment-without-experience.md) finding and [BT-01](boundary-tests/BT-01-relational-bodily-encounters.md) open test.
+
+**Next intellectual task:** identify and compare specific accounts of embodiment that require conscious awareness with accounts that do not, respecting each source's understanding of awareness. First examine whether awareness is equivalent to consciousness in each account and distinguish evidence for unconscious sensory/perceptual processing from stronger contested claims about unconscious perception. Test *how the map represents the difference*, not whether a passive walker experiences anything or whether somatic skill has measurable outcomes. Note poor fits without altering the map.
+
+**Not to do on resumption:** settle awareness by assertion, treat somatic expertise as part of BT-03, reopen the settled map-fit rule, turn a suggested additional axis into a decision or declare BT-01 or BT-03 complete without discussion.
+
+**For Scott:** [`scott updates.md`](scott%20updates.md) is the deliberately brief, most-recent-first log of each working session. Add a new dated and time-stamped entry above earlier entries after future sessions, with at most eight brief bullets and no more than two sentences per bullet. Keep the fuller intellectual decision history here in [`decisions.md`](decisions.md).
 
 ## Working files
 
 - [Decisions and open questions](decisions.md)
 - [Boundary test 01](boundary-tests/BT-01-relational-bodily-encounters.md)
 - [Boundary test 02](boundary-tests/BT-02-embodiment-without-experience.md)
-- [Boundary test 03 – proposed](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md)
+- [Boundary test 03 – question agreed](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md)
+- [Future test: somatic expertise](future-tests/somatic-expertise.md)
+- [Scott updates – brief session summaries](scott%20updates.md)
 - [Source inventory](sources/README.md)
 
 ## Decision timestamps
