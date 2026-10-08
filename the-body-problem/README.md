@@ -63,6 +63,7 @@ Other possible lines include ethics as a transversal concern and traditions whic
 
 - [Decisions and open questions](decisions.md)
 - [Boundary test 01](boundary-tests/BT-01-relational-bodily-encounters.md)
+- [Boundary test 02](boundary-tests/BT-02-embodiment-without-experience.md)
 - [Source inventory](sources/README.md)
 
 ## Conventions
