@@ -79,7 +79,8 @@ Other possible lines include ethics as a transversal concern and traditions whic
 - BT-01, relational bodily encounters: agreed question, **no agreed outcome**.
 - BT-02, embodiment without experience: **agreed provisional outcome**. The passive walker is accommodated by bodily constraint / affordance but fits Lux's biological levels poorly. The mismatch is retained as a possible insight into the map and its conceptions.
 - Methodological decision: a case **need not fit every dimension**. Record non-applicability, poor fit and conceptual incompatibility as informative 'failure points', not defects to be automatically corrected.
-- BT-03, awareness and bodily responsiveness: **opened**, with a proposed question and three candidate cases. Its wording and findings **are not yet agreed**. See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md). Awareness must not quietly become a universal condition of embodiment.
+- BT-03: **awareness as a boundary between conceptions of embodiment** is the agreed direction. The precise question and finding remain open. Working inclination: awareness may be treated as consciousness, distinct from perception; the difference between awareness of the body and of the environment is not the focus. See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md).
+- **Separate future boundary test:** somatic expertise and the difference between outcome-oriented skilled performance and autotelic practices without externally prescribed movement outcomes. Do not conflate this with BT-03 or assume that somatic expertise cannot be measured. No test number, question or finding has been agreed.
 
 **Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
 
