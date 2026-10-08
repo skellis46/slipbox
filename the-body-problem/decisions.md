@@ -60,3 +60,13 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 ## Process record
 
 8 October 2026: A GitHub–Obsidian round-trip test was completed using a temporary Markdown document in `skellis46/slipbox`. ChatGPT created it, the local vault received it through Sublime Merge and a subsequent local edit pushed to GitHub was correctly read back. The temporary file was then removed. This verifies the workflow used for the current research folder, not the correctness of future scholarly interpretations.
+
+## Chronological decision log
+
+Entries below are added in order of recording. The timestamp identifies when the entry was recorded or confirmed, not necessarily when an earlier discussion took place. Prior thematic sections above remain unchanged as a legacy summary; no retrospective times have been assigned. See [README](README.md#decision-timestamps) for the recording convention.
+
+### 2026-10-08 15:27 BST | Agreed | Project-wide
+
+**Decision:** Use a dated and time-stamped chronological record for substantive decisions and changes of position. Apply the statuses **Agreed**, **Provisional**, **Revised** and **Rejected** where appropriate. Distinguish proposed questions from agreed decisions. Preserve earlier entries and record changes as new dated entries rather than silently replacing earlier positions.
+
+**Scope:** This convention applies to future research decisions and boundary tests. Existing thematic decisions are preserved without invented historical times. Git commit timestamps remain a separate audit trail.
