@@ -27,6 +27,8 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 - Hsu's historical account of tactile diagnosis and contemporary Functional Integration are possible **test cases**; they are not interchangeable evidence.
 - Within some conceptions, embodiment need not require life or subjective experience. Do not convert this into a universal proposition about all embodiment scholarship.
 - The passive walker troubles normative understandings of embodiment, but a map that admits everything would have little discriminatory force. This tension remains productive and unresolved.
+- In BT-02, distinguish bodily organisation participating in generating behaviour from whether a system has awareness. These are different questions; the former does not settle the latter.
+- A somatic standpoint that foregrounds bodily sensitivity and felt sense is a productive but situated perspective, not a criterion to impose on all conceptions of embodiment.
 
 ## Open questions
 
@@ -36,6 +38,7 @@ This is a log of intellectual decisions, not a record of everything discussed. W
 4. What constitutes a *conceptual failure* rather than lack of visual resolution?
 5. Should ethics and other transversal concerns be represented at all, and if so how?
 6. When does translation into embodiment vocabulary misrepresent a tradition's own categories?
+7. How should physical coupling, environmental sensitivity and awareness be distinguished? Might this warrant another boundary test, rather than extending BT-02?
 
 ## Not decided
 
