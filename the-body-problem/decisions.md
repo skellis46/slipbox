@@ -70,3 +70,13 @@ Entries below are added in order of recording. The timestamp identifies when the
 **Decision:** Use a dated and time-stamped chronological record for substantive decisions and changes of position. Apply the statuses **Agreed**, **Provisional**, **Revised** and **Rejected** where appropriate. Distinguish proposed questions from agreed decisions. Preserve earlier entries and record changes as new dated entries rather than silently replacing earlier positions.
 
 **Scope:** This convention applies to future research decisions and boundary tests. Existing thematic decisions are preserved without invented historical times. Git commit timestamps remain a separate audit trail.
+
+### 2026-10-08 15:32 BST | Provisional | BT-03
+
+**Position under examination, not agreed as a definition:** One co-author leans towards treating *awareness* as synonymous with *consciousness*, distinct from *perception* (which can operate without consciousness). Body and environment may then be different contents rather than kinds of awareness. This calls the original proposed BT-03 question into doubt.
+
+**Source-based methodological observation:** After reading Ellis's working chapter *Threshold of the Self*, the useful comparison may concern expertise in a specific autotelic practice of authentic movement, where sustained sensing, attention and allowing movement to emerge have no pre-specified movement outcome. Do not generalise this to all somatic practice or assume somatic expertise cannot be evaluated. Gallagher (2011) should not be portrayed as requiring measurable outcomes for all skill.
+
+**Proposed alternative question, not yet accepted:** Can the map accommodate conceptions of embodiment in which awareness, provisionally understood as consciousness, is central to the practice, while the expertise being cultivated concerns attending, sensing and allowing rather than achieving an externally specified movement outcome?
+
+See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [Ellis's working chapter](../improvisation%20and%20the%20threshold%20of%20the%20self.md). Neither BT-03's question nor its finding has been agreed.
