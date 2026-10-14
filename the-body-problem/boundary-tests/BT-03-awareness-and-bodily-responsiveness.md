@@ -1,7 +1,15 @@
 # BT-03: Awareness as a boundary marker
 
-Status: **question agreed – boundary test not yet conducted**  
+Status: **suspended – no agreed substantive finding**  
 Opened: 8 October 2026
+
+## Suspension – 14 October 2026 (agreed)
+
+**Status: suspended, with no agreed substantive finding.** The four-text enquiry drifted from awareness towards consciousness, conscious experience, deliberate attention and articulation. We cannot presently draw defensible conclusions about awareness or its capacity to discriminate between conceptions of embodiment. The question of whether awareness lies beyond this map's scope remains open rather than established.
+
+**Attribution correction:** Equating consciousness with awareness is a position or usage already found in wider discourse, **not a novel claim originating with the co-authors**. The possibility of investigating this equivalence in relation to the map and embodiment is reserved for later. Do not substitute *conscious experience* for either term without argument, and do not assume deliberate attention or conscious report are equivalent.
+
+**Methodological lesson:** Before comparing sources using a putative boundary concept, determine whether the concept operates comparably in those sources. Otherwise the apparent differences may arise from our terminology. Preserve the earlier comparative material as provisional research history, not a completed finding. No map change or new test is agreed.
 
 ## Agreed question
 
