@@ -2,6 +2,14 @@
 
 Brief session summaries for Scott. Add each new dated entry **above** earlier entries; times are UK local time and refer to when the summary was recorded.
 
+## 14 October 2026, 11:07 BST – BT-04 pause
+
+- **BT-04, degrees of embodiment:** Solnit's *A Field Guide to Getting Lost* quotation was a provocation only, not evidence or an argument for ranking art forms.
+- Agreed to distinguish degrees of embodiment from degrees of bodily involvement. More movement, bodily contribution or particular morphology does not mean more embodiment.
+- A sharper working question compares an activity with itself over time: can its embodiment change rather than only its bodily capacities or experience? No finding has been agreed.
+- Early comparison of phenomenology, sense-making and biological incorporation shows changes in embodied processes but does not establish degrees.
+- **Resume here:** Is it worth exploring degrees *within* conceptions even if degrees *across* conceptions are incomparable? The question awaits discussion.
+
 ## 14 October 2026
 
 - We agreed to examine BT-03 through two strands: whether awareness distinguishes conceptions of embodiment and what the comparison reveals about their underlying assumptions.
