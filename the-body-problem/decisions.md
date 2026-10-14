@@ -106,3 +106,13 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Decision:** Retain BT-03 as one boundary test with two analytical strands: BT-03a assesses whether awareness discriminates between conceptions of embodiment; BT-03b asks what comparing awareness discloses about their differing premises. Test BT-03a provisionally, test BT-03b on the same accounts, then reassess BT-03a in that light before evaluating the map. The strands may yield different results and neither proposition is yet an agreed finding.
 
 **Methodological requirement:** Case selection is critical to validity. Avoid choosing cases simply to produce an expected contrast. Document how accounts are selected, each source's understanding of awareness and embodiment, and difficult or equivocal cases able to challenge the distinction. No case selection or map change was approved. See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md).
+
+### 2026-10-14 09:44 BST | Agreed and provisional | Project-wide / BT-03
+
+**Agreed:** The initial use of Lux et al. (2021) as the basis for the maps was exploratory and somewhat arbitrary, motivated by curiosity. The maps are working instruments, not taxonomies bound by fidelity to Lux et al. Methodological rigour should be proportionate and support progress.
+
+**Agreed:** Case choice materially affects the enquiry. Whether an account falls within, at the edge of or outside the map must be established through examination, not preassigned as a selection result. Record why cases are chosen, without assuming the comparison's outcome.
+
+**Provisional scope, not settled:** For now, examine accounts within and at the edges of the map, allowing genuinely outside accounts to emerge; a more explicit search outside may come later. The extent to which this should be the guiding scope remains open. Retain the uncertainty rather than silently treating this as an exclusion rule.
+
+**Practical direction:** Use a proportionate, transparent selection of a few identifiable primary accounts rather than elaborate sampling machinery. The four-case scheme already noted in BT-03 is a proposal, not a requirement or an agreed set.
