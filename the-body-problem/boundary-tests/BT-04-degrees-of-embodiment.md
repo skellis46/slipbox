@@ -26,6 +26,13 @@ This separation is useful to the enquiry but does not yet settle whether either 
 
 Test whether different conceptions of embodiment make degrees intelligible, rather than treating differences between art forms as the object of investigation. Avoid collapsing the question back into the map's general concern with what counts as embodiment. Specific accounts, selection method and outcomes have **not** been agreed.
 
+## Further discussion – 14 October 2026 (working distinctions, no finding)
+
+- **Agreed correction:** Neither the quantity of movement, the number of bodily parts involved nor bodily morphology should be used as a proxy or direct measure for embodiment. The body's contribution to an activity is not equivalent to embodiment itself.
+- **Promising possibility, not settled:** Variation may occur along particular dimensions without licensing an overall ranking from less to more embodied.
+- **Proposed sharper test:** Investigate whether *the same activity* can become more or less embodied over time. If a genuine change in embodiment can be shown, that would support the possibility of degrees in at least that conception. But distinguish *a change in embodiment* from *a change in capacities occurring through embodiment*.
+- Comparison across different activities remains interesting but is not the first priority. No specific case, criterion or finding has been agreed.
+
 ## Finding
 
 **None yet agreed.**
