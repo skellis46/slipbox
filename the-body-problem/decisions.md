@@ -124,3 +124,11 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Clarification:** The proposed equivalence of *consciousness* and *awareness* is an existing position or usage worth investigating, **not an original claim belonging to the co-authors**. It is distinct from equating awareness with *conscious experience*. Whether this equivalence is useful in relation to embodiment or to the map may be examined later, without presupposing its validity. No new boundary test is authorised here.
 
 **Agreed methodological lesson for subsequent tests:** Before treating a concept as a cross-account discriminator, establish whether its meanings and uses are sufficiently comparable in the actual sources. Otherwise apparent contrasts may derive from the researchers' shifting terminology rather than differences between accounts. The map has not thereby been shown to fail; awareness may be beyond this map's current scope, but that remains provisional.
+
+### 2026-10-14 10:27 BST | Agreed and proposed | BT-04
+
+**Agreed:** Distinguish *degrees of embodiment* (whether something can meaningfully be more or less embodied) from *degrees of bodily involvement* (whether bodily participation or contribution varies without embodiment itself admitting of degrees). This distinction is worth testing, not an established result.
+
+**Provenance:** Rebecca Solnit's observation in *A Field Guide to Getting Lost* that writing is 'the most disembodied art' was **only the provocation** from which the question emerged. BT-04 is not an evaluation of her comparison between arts and must not treat the quotation as evidence for a scale of embodiment.
+
+**Proposed question, not yet agreed:** 'Can something be more or less embodied?' No cases, method or finding agreed. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md).
