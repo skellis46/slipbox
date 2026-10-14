@@ -33,6 +33,20 @@ Test whether different conceptions of embodiment make degrees intelligible, rath
 - **Proposed sharper test:** Investigate whether *the same activity* can become more or less embodied over time. If a genuine change in embodiment can be shown, that would support the possibility of degrees in at least that conception. But distinguish *a change in embodiment* from *a change in capacities occurring through embodiment*.
 - Comparison across different activities remains interesting but is not the first priority. No specific case, criterion or finding has been agreed.
 
+## First conceptual comparison – 14 October 2026 (assistant interpretation, not agreed)
+
+Working question: **When an activity changes over time, can any conception in our map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?** This is a working reformulation, not a newly agreed replacement for the original proposed question.
+
+Three provisional comparisons, using the map's conception labels:
+
+1. **Lived body / phenomenology:** The same improvisational activity can change as habits and lived relations to movement change. This does not by itself entail that the activity becomes *more embodied*. Example is illustrative, not an empirical result.
+2. **Relationality / sense-making:** The embodied action account of Varela, Thompson and Rosch permits changing sensorimotor-environment relationships and emergent cognitive structures. Whether there is a degree of embodiment rather than a reorganisation of embodied activity is unsettled. Source: *The Embodied Mind*, 'Enaction: Embodied Cognition', https://doi.org/10.7551/mitpress/9780262529365.003.0008 (publisher abstract consulted).
+3. **Biological incorporation:** Krieger's account of embodiment as socially and ecologically shaped biological incorporation is intrinsically historical. Accumulating or changing incorporated effects does not entail a person is more embodied. Source: Krieger (2005), https://doi.org/10.1136/jech.2004.024562 (open-access primary article consulted).
+
+**Provisional issue:** The examples demonstrate meaningful change within embodied processes but do not yet establish a scalar measure of embodiment. Neither a single ordering nor the impossibility of degrees is proved. A multidimensional account might permit degrees within dimensions without a defensible overall ranking, but only if the dimensions are genuinely dimensions *of embodiment*, not merely bodily phenomena grouped under that heading.
+
+**Methodological restraint:** Do not treat the three map conception labels as internally uniform theories, or the movement-practice illustration as evidence. The source texts do not directly adjudicate the degrees question. No substantive finding and no map revision.
+
 ## Finding
 
 **None yet agreed.**
