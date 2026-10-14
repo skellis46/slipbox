@@ -20,6 +20,21 @@ BT-03 remains **one boundary test** with two separately recorded but interdepend
 
 **Case-selection rigour is central.** Do not select cases merely because their contrasting positions on awareness are expected in advance. Establish source-specific definitions, explanatory scope and evidence before classifying. Include at least one genuinely difficult or equivocal case that could undermine the proposed distinction. Keep theory, empirical demonstration and pedagogical practice analytically distinct. Selection criteria and exclusions must be documented before inferring findings. No case set has yet been agreed, and no map revision is authorised.
 
+## Case-selection protocol – proposal, 14 October 2026 (not agreed)
+
+**Purpose:** Assess the two BT-03 strands without selecting accounts for their expected answers. Case selection itself requires scrutiny before any texts are designated.
+
+1. **Unit:** A specific account of embodiment grounded in an identifiable primary text or tightly related texts, not an entire tradition. Record each source's explanatory object, account of embodiment, treatment of awareness, type of claim and evidence. Silence on awareness is not evidence of rejection.
+2. **Initial pool:** Identify accounts through differing *explanatory orientations* among the map's existing conceptions, without first coding them as awareness-required or awareness-unnecessary. Log what was considered and why any account was excluded.
+3. **Comparison structure:** Combine cross-conception variation with at least one close comparison between accounts sharing theoretical commitments, so that a contrast cannot be attributed only to entirely different explanatory purposes.
+4. **Critical case:** Include an equivocal or potentially disconfirming account capable of challenging awareness's discriminatory power, and retain it if inconvenient.
+5. **Initial scale:** Tentatively four accounts with roles: bodily organisation, lived bodily experience, a closely related comparator and a difficult case. These are selection functions, **not** new map categories; no particular authors or texts are yet selected.
+6. **Interpretation:** For BT-03a distinguish awareness necessary to the account, relevant to some investigated phenomena, optional or not required by the explanation. Do not equate absence of evidence, absence of report, absence of reflective attention and absence of consciousness. In BT-03b interrogate each account's premises and re-check BT-03a's classifications.
+7. **Possible outcomes:** A meaningful distinction, no distinction, source-level indeterminacy, conceptual non-comparability or a distinction that does not add explanatory value beyond existing categories are all legitimate.
+8. **Map assessment last:** Record what is representable, merely visually absent, strained or incompatible without modifying the map in advance.
+
+This protocol is an **assistant proposal**, not an agreed methodology or finding. Case identities, corpus boundaries and exclusion decisions require discussion.
+
 ## Working distinctions, not settled definitions
 
 - **Awareness may be equivalent to consciousness.** This is an open working possibility, not a definition imposed on all accounts.
