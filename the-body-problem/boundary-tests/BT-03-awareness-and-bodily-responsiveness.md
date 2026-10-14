@@ -54,6 +54,29 @@ Selection rationale: span explanatory purposes (morphological construction, live
 
 **Next step:** Close-read precise relevant passages in each text and record (a) the source's claim, (b) our interpretation, (c) what remains unsettled, and (d) map fit only after analysis. No cases are approved by recording this list.
 
+## Initial BT-03a/BT-03b source check – 14 October 2026 (assistant analysis, no agreed finding)
+
+**User's caution:** There is a substantive doubt that BT-03 is drifting away from awareness. Keep the originally agreed awareness question explicit and treat movement into general theories of embodiment as a diagnostic risk, not as a change of topic.
+
+The four previously proposed candidates were approved for **provisional examination**, not adopted as conclusive exemplars.
+
+### BT-03a – what can presently be said about awareness?
+
+- **Pfeifer, Iida and Lungarella (2014):** publisher abstract and highlights establish that bodily morphology, material properties and physical system–environment interactions matter to cognition. Such a mechanism need not invoke conscious awareness. *Not established:* a universal denial of any need for consciousness in their broader conception. https://doi.org/10.1016/j.tics.2014.04.004
+- **Fuchs (2012):** the author-hosted full-text, **pp. 10–13**, distinguishes implicit bodily memory from conscious recollection and explicit attentional steering. Crucially on **p. 11**, dancing proceeds without deliberate steering yet involves sensing and experienced participation. On **p. 12**, procedural actions recede from explicit awareness. *Inference:* absence of explicit attention is not absence of all experience; his chapter does not cleanly supply a general yes/no necessity criterion. https://www.klinikum.uni-heidelberg.de/fileadmin/zpm/psychatrie/fuchs/Literatur/The_phenomenology_of_body_memory.pdf
+- **Di Paolo (2005):** the author-posted article's introduction and argument distinguish organismic viability/adaptivity, sense-making and the phenomenological *starting point* of experienced concern. It draws methodological links between first-person experience and naturalistic explanation. *Not established:* that all biological sense-making is phenomenally conscious, or that the paper simply excludes consciousness. https://doi.org/10.1007/s11097-005-9002-y
+- **Krieger (2005):** the primary journal text explicitly distinguishes what bodies biologically register from what people can or will consciously express. *Not established:* unconsciousness of the originating experiences. Conscious articulation is not synonymous with consciousness. https://doi.org/10.1136/jech.2004.024562
+
+### BT-03b – provisional interpretive consequence
+
+The accounts differ in what they aim to explain: physical contributions to cognition, habitual lived bodily skills, organismic normativity and socially patterned biological incorporation. Hence a difference about conscious attention or expression is not automatically a disagreement about the same property of embodiment. This is a **working interpretation**, not a completed comparison.
+
+### Methodological finding about the test, not an embodiment finding
+
+The current evidence does **not** justify assigning the four accounts to simple 'awareness required' / 'awareness not required' categories. Distinguish (i) consciousness, (ii) attending to movement, (iii) conscious report or articulation, and (iv) an investigator's first-person evidence. Avoid expanding BT-03 into a general review merely because these accounts differ in explanatory purpose. Fuchs provides the strongest directly pertinent page-level instance at this stage; Di Paolo and Krieger require further passage-level checking before any classification. Pfeifer currently offers a limited, mechanism-specific contrast.
+
+**Status:** No map changes, no agreed BT-03a/BT-03b outcomes. Present this reading for critical discussion and consider whether a more tightly matched comparison is needed.
+
 ## Working distinctions, not settled definitions
 
 - **Awareness may be equivalent to consciousness.** This is an open working possibility, not a definition imposed on all accounts.
