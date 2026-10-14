@@ -20,6 +20,12 @@ BT-03 remains **one boundary test** with two separately recorded but interdepend
 
 **Case-selection rigour is central.** Do not select cases merely because their contrasting positions on awareness are expected in advance. Establish source-specific definitions, explanatory scope and evidence before classifying. Include at least one genuinely difficult or equivocal case that could undermine the proposed distinction. Keep theory, empirical demonstration and pedagogical practice analytically distinct. Selection criteria and exclusions must be documented before inferring findings. No case set has yet been agreed, and no map revision is authorised.
 
+## Scope clarification – 14 October 2026
+
+**Agreed:** Lux et al. (2021) motivated the maps through curiosity rather than supplying a privileged foundation. Progress and proportionate rigour matter more than preserving those original categories. Case selection matters, but a case's position inside, at the edge of or outside the map is an outcome of analysis, not a predetermined label.
+
+**Still provisional:** Concentrate initially on the map and its edges while allowing genuinely outside cases. Whether to pursue external cases systematically later is unresolved. The four-case design below remains optional rather than binding. Record selection reasons in advance without prejudging awareness or map fit.
+
 ## Case-selection protocol – proposal, 14 October 2026 (not agreed)
 
 **Purpose:** Assess the two BT-03 strands without selecting accounts for their expected answers. Case selection itself requires scrutiny before any texts are designated.
