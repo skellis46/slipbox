@@ -132,3 +132,11 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Provenance:** Rebecca Solnit's observation in *A Field Guide to Getting Lost* that writing is 'the most disembodied art' was **only the provocation** from which the question emerged. BT-04 is not an evaluation of her comparison between arts and must not treat the quotation as evidence for a scale of embodiment.
 
 **Proposed question, not yet agreed:** 'Can something be more or less embodied?' No cases, method or finding agreed. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md).
+
+### 2026-10-14 11:07 BST | Pause / provisional enquiry | BT-04
+
+**Pause:** BT-04 now has a clearer working question (not formally ratified): 'When an activity changes over time, can any conception in our map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?' The original broader question ('Can something be more or less embodied?') remains proposed. The distinction between degrees of embodiment and degrees of bodily involvement is agreed; more movement, morphology or greater bodily contribution is not equivalent to greater embodiment.
+
+**Exploration, not findings:** Comparing lived-body phenomenology, relationality/sense-making and biological incorporation suggested that conceptions can describe changes in embodied activity without providing an ordering by degree of embodiment. The speculative possibility of degrees along dimensions remains open; the map's three kinds of coordinates are not themselves degree measures. A temporal comparison within one activity is a promising route. No test result, case set or map alteration has been agreed.
+
+**Exact next question, awaiting response:** 'Do you think it's worth pursuing the possibility of degrees within particular conceptions, even if comparing degrees across conceptions ultimately proves meaningless?' Do not silently answer it or proceed to further cases before discussing it. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md).
