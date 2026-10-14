@@ -1,6 +1,6 @@
 # BT-04: Degrees of embodiment
 
-Status: **question proposed, distinction agreed – test not yet conducted**  
+Status: **paused – exploratory comparison conducted, no agreed finding**  
 Opened: 14 October 2026
 
 ## Provocation (not evidence or a theoretical position adopted for this test)
@@ -46,6 +46,32 @@ Three provisional comparisons, using the map's conception labels:
 **Provisional issue:** The examples demonstrate meaningful change within embodied processes but do not yet establish a scalar measure of embodiment. Neither a single ordering nor the impossibility of degrees is proved. A multidimensional account might permit degrees within dimensions without a defensible overall ranking, but only if the dimensions are genuinely dimensions *of embodiment*, not merely bodily phenomena grouped under that heading.
 
 **Methodological restraint:** Do not treat the three map conception labels as internally uniform theories, or the movement-practice illustration as evidence. The source texts do not directly adjudicate the degrees question. No substantive finding and no map revision.
+
+## Pause and exact resumption point – 14 October 2026, 11:07 BST
+
+**Paused at the following question from the most recent analysis:**
+
+> Do you think it's worth pursuing the possibility of degrees within particular conceptions, even if comparing degrees across conceptions ultimately proves meaningless?
+
+**This question has not been answered. Resume by asking it, without initiating new literature comparisons or treating it as agreed.**
+
+**Working question accepted as clearer, but not formally ratified as the exact BT-04 question:**
+
+> When an activity changes over time, can any conception in our map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?
+
+The original broader question, 'Can something be more or less embodied?', remains proposed.
+
+**Agreed distinction:** Degrees of embodiment are not the same as degrees of bodily involvement. More movement, additional body parts contributing, greater bodily involvement or particular bodily morphologies cannot be equated with more embodiment. We must also distinguish a change *in* embodiment from a change *through* embodiment, without pretending we already know how to operationalise the difference.
+
+**User's direction:** Comparing an activity with itself across time is a promising route to testing degrees, since demonstrating a genuine increase over time would imply degrees. Comparison between activities remains interesting but less immediate. The possible multidimensional character of degrees is intriguing.
+
+**Exploratory work completed, without finding:** Assistant compared lived-body phenomenology, relationality/sense-making and biological incorporation. All accommodate transformations in embodied activity, but none of the limited examples or texts examined established a scale of embodiment. Do **not** infer from this that degrees are impossible. The map's 'dimensions' (conceptions, levels of investigation and knowledge modes) are classification coordinates, not quantities and must not be turned into degree-scales by default.
+
+**Unresolved methodological point:** Could degrees be intelligible *within a particular conception* but not between conceptions? We need to determine whether any putative dimension actually measures embodiment rather than a different bodily phenomenon or research variable. The latest question above is specifically about whether to pursue this line.
+
+**Provenance:** Rebecca Solnit's passage in *A Field Guide to Getting Lost* was solely a provocation. The test is neither about ranking art forms nor about proving Solnit right or wrong.
+
+**No agreed finding, formal case set or map alteration.** Read this file and the latest decisions log before continuing.
 
 ## Finding
 
