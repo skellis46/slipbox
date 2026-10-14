@@ -1,6 +1,6 @@
 # The body problem: research record
 
-Updated: 8 October 2026  
+Updated: 14 October 2026  
 Status: working record, not a finished chapter or settled taxonomy
 
 ## Purpose
@@ -84,7 +84,17 @@ Other possible lines include ethics as a transversal concern and traditions whic
 
 **Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
 
-## Pause and restart point – 8 October 2026, 15:43 BST
+## Current pause: BT-04 – 14 October 2026, 11:07 BST
+
+**The active enquiry is [BT-04: Degrees of embodiment](boundary-tests/BT-04-degrees-of-embodiment.md). It is paused with no agreed finding.** BT-03 was suspended without a finding after terminology around awareness and consciousness drifted. The 8 October restart instructions below are retained as a historical record and **are superseded for the current resumption**.
+
+Solnit's *A Field Guide to Getting Lost* quotation was only the provocation for BT-04. The agreed distinction is between degrees of embodiment and degrees of bodily involvement; greater movement, contribution or morphology is not greater embodiment. Comparison of the *same activity over time* is now the main exploratory approach, not comparison between different arts or activities.
+
+The sharpened working question is: **'When an activity changes over time, can any conception in our map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?'** The broader question **'Can something be more or less embodied?'** is proposed but not formally ratified. A preliminary comparison of phenomenology, relationality/sense-making and biological incorporation did not establish degrees. No map change.
+
+**Resume directly with the user's unanswered question:** 'Do you think it's worth pursuing the possibility of degrees within particular conceptions, even if comparing degrees across conceptions ultimately proves meaningless?' Do not presuppose the answer or conflate the map's classification dimensions with scales. See BT-04 for detail and the dated [decisions log](decisions.md).
+
+## Historical pause and restart point – 8 October 2026, 15:43 BST
 
 **Paused after agreeing BT-03's exact question; BT-03 has not been evaluated.**
 
