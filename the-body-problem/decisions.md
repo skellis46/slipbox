@@ -100,3 +100,9 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Separate future test:** Somatic expertise in practices without prescribed movement outcomes, contrasted carefully with research on outcome-oriented skilled performance. This has been parked in [the unnumbered note](future-tests/somatic-expertise.md), without an agreed test question or outcome.
 
 **Pause and resumption:** The project is on hold after this session. On returning, read the [README](README.md), this decisions log and the current [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md). The brief account to share with Scott lives in [scott updates](scott%20updates.md), with most recent summaries at the top.
+
+### 2026-10-14 08:48 BST | Agreed | BT-03
+
+**Decision:** Retain BT-03 as one boundary test with two analytical strands: BT-03a assesses whether awareness discriminates between conceptions of embodiment; BT-03b asks what comparing awareness discloses about their differing premises. Test BT-03a provisionally, test BT-03b on the same accounts, then reassess BT-03a in that light before evaluating the map. The strands may yield different results and neither proposition is yet an agreed finding.
+
+**Methodological requirement:** Case selection is critical to validity. Avoid choosing cases simply to produce an expected contrast. Document how accounts are selected, each source's understanding of awareness and embodiment, and difficult or equivocal cases able to challenge the distinction. No case selection or map change was approved. See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md).
