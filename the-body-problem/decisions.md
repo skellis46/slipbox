@@ -116,3 +116,11 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Provisional scope, not settled:** For now, examine accounts within and at the edges of the map, allowing genuinely outside accounts to emerge; a more explicit search outside may come later. The extent to which this should be the guiding scope remains open. Retain the uncertainty rather than silently treating this as an exclusion rule.
 
 **Practical direction:** Use a proportionate, transparent selection of a few identifiable primary accounts rather than elaborate sampling machinery. The four-case scheme already noted in BT-03 is a proposal, not a requirement or an agreed set.
+
+### 2026-10-14 | Agreed | BT-03 suspension and methodological lesson
+
+**Decision:** Suspend BT-03 without a substantive finding about awareness, consciousness or the map. The preliminary comparison moved between awareness, consciousness, conscious experience, deliberate attention and reportability without sufficient conceptual differentiation. The four candidate texts and their preliminary readings remain as exploratory material, not evidence of a completed test.
+
+**Clarification:** The proposed equivalence of *consciousness* and *awareness* is an existing position or usage worth investigating, **not an original claim belonging to the co-authors**. It is distinct from equating awareness with *conscious experience*. Whether this equivalence is useful in relation to embodiment or to the map may be examined later, without presupposing its validity. No new boundary test is authorised here.
+
+**Agreed methodological lesson for subsequent tests:** Before treating a concept as a cross-account discriminator, establish whether its meanings and uses are sufficiently comparable in the actual sources. Otherwise apparent contrasts may derive from the researchers' shifting terminology rather than differences between accounts. The map has not thereby been shown to fail; awareness may be beyond this map's current scope, but that remains provisional.
