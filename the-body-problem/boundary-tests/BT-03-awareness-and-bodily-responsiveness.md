@@ -9,6 +9,17 @@ Opened: 8 October 2026
 
 Question agreed on 8 October 2026. **No outcome or change to the map has been agreed.**
 
+## Agreed testing structure – 14 October 2026
+
+BT-03 remains **one boundary test** with two separately recorded but interdependent analytical strands. Neither strand is an agreed finding.
+
+- **BT-03a – discriminatory capacity:** Test whether awareness, as understood by the sources, differentiates conceptions of embodiment. Distinguish necessary, optional and unnecessary awareness, and explicit authorial claims from our inferences.
+- **BT-03b – conceptual premises:** Using the same accounts, examine what each takes embodiment to mean, what it seeks to explain and how those premises condition awareness's role.
+
+**Agreed sequence:** (1) examine BT-03a provisionally, (2) examine BT-03b using the same cases, (3) revisit the conclusions of BT-03a in the light of BT-03b, and only then assess what the current map can or cannot represent. A positive result for either strand does not entail a positive result for the other.
+
+**Case-selection rigour is central.** Do not select cases merely because their contrasting positions on awareness are expected in advance. Establish source-specific definitions, explanatory scope and evidence before classifying. Include at least one genuinely difficult or equivocal case that could undermine the proposed distinction. Keep theory, empirical demonstration and pedagogical practice analytically distinct. Selection criteria and exclusions must be documented before inferring findings. No case set has yet been agreed, and no map revision is authorised.
+
 ## Working distinctions, not settled definitions
 
 - **Awareness may be equivalent to consciousness.** This is an open working possibility, not a definition imposed on all accounts.
