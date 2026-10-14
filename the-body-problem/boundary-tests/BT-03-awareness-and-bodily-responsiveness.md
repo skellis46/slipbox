@@ -41,6 +41,19 @@ BT-03 remains **one boundary test** with two separately recorded but interdepend
 
 This protocol is an **assistant proposal**, not an agreed methodology or finding. Case identities, corpus boundaries and exclusion decisions require discussion.
 
+## Candidate primary-text set – proposal, 14 October 2026 (not selected or agreed)
+
+Selection rationale: span explanatory purposes (morphological construction, lived bodily habits, biological sense-making and socially patterned embodiment) **before** coding positions on awareness. These are candidate texts, not predetermined inside/edge/outside labels, final classifications or findings.
+
+1. **Pfeifer, R., Iida, F. and Lungarella, M. (2014).** 'Cognition from the bottom up: On biological inspiration, body morphology, and soft materials.' *Trends in Cognitive Sciences*, 18(8), 404–413. https://doi.org/10.1016/j.tics.2014.04.004. Candidate because bodily morphology and material-environment interaction carry explanatory weight. Risk: duplicates BT-02 and absence of awareness in a mechanism is not proof of its exclusion from a conception. Verified against publisher and PubMed abstracts.
+2. **Fuchs, T. (2012).** 'The phenomenology of body memory.' In *Body Memory, Metaphor and Movement*, pp. 9–22. https://doi.org/10.1075/aicr.84.03fuc. Candidate because implicit habits and bodily skills are analysed through lived-body phenomenology. Risk: conflating implicit, pre-reflective and unconscious. Publisher abstract verified; claims about consciousness need close full-text reading.
+3. **Di Paolo, E. A. (2005).** 'Autopoiesis, adaptivity, teleology, agency.' *Phenomenology and the Cognitive Sciences*, 4, 429–452. https://doi.org/10.1007/s11097-005-9002-y. Candidate because viability, adaptivity and sense-making complicate a mechanical/conscious contrast. Risk: unwarranted inference from agency or perspective to phenomenal consciousness. Abstract and author-hosted paper located.
+4. **Krieger, N. (2005).** 'Embodiment: A conceptual glossary for epidemiology.' *Journal of Epidemiology & Community Health*, 59, 350–355. https://doi.org/10.1136/jech.2004.024562. Candidate to avoid restricting the sample to cognitive sciences/phenomenology. Risk: equating what is not consciously *expressed or reported* with what was not consciously *experienced*. Open-access primary article located.
+
+**Selection critique:** The first three remain concentrated around cognition, agency and phenomenology. Fuchs/Di Paolo provide a possible comparison of neighbouring premises but are not a controlled 'most similar' pair. Krieger provides a different explanatory purpose and may show awareness to be orthogonal to her research rather than necessary/unnecessary. The sample is purposive and exploratory, not representative or exhaustive. The first-pass assessment must allow inconclusive results and reassess whether Pfeifer adds beyond BT-02.
+
+**Next step:** Close-read precise relevant passages in each text and record (a) the source's claim, (b) our interpretation, (c) what remains unsettled, and (d) map fit only after analysis. No cases are approved by recording this list.
+
 ## Working distinctions, not settled definitions
 
 - **Awareness may be equivalent to consciousness.** This is an open working possibility, not a definition imposed on all accounts.
