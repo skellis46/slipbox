@@ -2,6 +2,13 @@
 
 Brief session summaries for Scott. Add each new dated entry **above** earlier entries; times are UK local time and refer to when the summary was recorded.
 
+## 14 October 2026
+
+- We agreed to examine BT-03 through two strands: whether awareness distinguishes conceptions of embodiment and what the comparison reveals about their underlying assumptions.
+- Four candidate accounts were explored, but the enquiry drifted between awareness, consciousness, conscious experience and attention.
+- **BT-03 is suspended without a finding.** The possible equivalence of awareness and consciousness remains open for later investigation.
+- Methodological lesson: check that a proposed distinguishing concept is comparable across sources before testing it. The maps remain provisional, with Lux et al. an exploratory starting point rather than a binding framework.
+
 ## 8 October 2026, 15:43 BST
 
 - We continued testing the boundaries of our provisional embodiment maps rather than adding more literature or categories.
