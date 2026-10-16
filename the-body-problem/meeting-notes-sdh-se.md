@@ -9,7 +9,7 @@
 - across all disciplines ... probing this Q of the nature of embodiment across ALL published literature 
 - how to delimit this process? 
 - SdH to act as foil
-- SdH to pass Qs across from [trade_literature](analogue_trade/trade_literature) (analogue world) 
+- SdH to pass Qs across from [trade_literature](analogue_trade/trade_literature.md) (analogue world) 
 
 ---
 
