@@ -1,3 +1,0 @@
-hello
-
-Simon's edit.
