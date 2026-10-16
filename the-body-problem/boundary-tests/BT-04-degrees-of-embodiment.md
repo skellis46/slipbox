@@ -1,6 +1,6 @@
 # BT-04: Degrees of embodiment
 
-Status: **paused – exploratory comparison conducted, no agreed finding**  
+Status: **active – two agreed provisional findings, third contrasting conception next**  
 Opened: 14 October 2026
 
 ## Provocation (not evidence or a theoretical position adopted for this test)
@@ -73,6 +73,35 @@ The original broader question, 'Can something be more or less embodied?', remain
 
 **No agreed finding, formal case set or map alteration.** Read this file and the latest decisions log before continuing.
 
-## Finding
+## Agreed provisional findings – 16 October 2026
 
-**None yet agreed.**
+### 1. Biological incorporation
+
+**Conception:** Biological incorporation. Embodiment understood through incorporation of material, social and environmental conditions into biological organisation and functioning across time (a provisional map characterisation, not Krieger's exact definition).
+
+**Account considered:** Nancy Krieger (2005), 'Embodiment: a conceptual glossary for epidemiology', *Journal of Epidemiology & Community Health*, 59(5), 350–355, https://doi.org/10.1136/jech.2004.024562. Selected for its account of historical biological incorporation. It is illustrative, not exhaustive or representative by fiat.
+
+**Agreed provisional finding (SE–LLM, not Krieger's claim):**
+
+> Within the conception of biological incorporation, differences in bodily organisation, capacities and embodied experience can be described across time. It is conceivable that these differences bear some relationship to degrees of embodiment. However, the nature of that relationship remains unresolved, and we have not established grounds for determining or even understanding degrees of embodiment within this conception.
+
+**Discussion provenance:** SE proposed changes in embodied experience and activity across a lifetime, including walking with a stick and changing experiences of running, as meaningful for thinking about degrees. LLM distinguished describable changes from inferences or assumptions about degrees. We did not establish how degrees could be understood or determined.
+
+### 2. Lived body / phenomenology
+
+**Conception:** Lived body / phenomenology. Embodiment understood through the body as lived and experienced, including sensation, perception and movement (provisional characterisation of our map category).
+
+**Account considered:** Sondra Horton Fraleigh (1987), *Dance and the Lived Body: A Descriptive Aesthetics*. Selected because it brings phenomenological thinking into the experience of dancing. Fraleigh has **not** been verified as endorsing the equivalence between bodily sensitivity and embodiment.
+
+**Agreed provisional finding (SE–LLM, not Fraleigh's claim):**
+
+> Within the conception of lived body / phenomenology, degrees of embodiment may be intelligible through changes in bodily sensitivity developed through sustained somatic and embodied practices. From an experiential standpoint, increased sensitivity can meaningfully be described as increased embodiment. However, the equivalence between sensitivity and embodiment remains situated and is not established across phenomenological accounts. The relationship between deliberate attention, cultivated sensitivity and habitual bodily awareness warrants further examination but does not prevent a provisional finding.
+
+**Discussion provenance:** SE described forty years of dancing and greater bodily sensitivity developed through sustained attention in multiple somatic and embodied practices, proposing sensitivity as a shorthand for embodiment. SE also distinguished change in perception from perception of change and suggested that the connection extends beyond dance, for example to meditation. LLM proposed that cultivated sensitivity might become available without deliberate attention. This possibility was not resolved. Some relevant scholarship on bodily/interoceptive awareness was identified for future verification and reading, not used as proof that phenomenology generally equates sensitivity and embodiment.
+
+## Next step – BT-04
+
+Select **one third contrasting conception** from the existing seven provisional map conceptions, giving a brief account of what it is and why it offers a useful contrast. Examine one identifiable account, distinguishing source evidence from SE and LLM interpretations. Seek a bounded provisional finding and then assess what the three comparisons reveal about degrees and the map, without automatically extending the investigation or changing the map. The third conception and specific account have **not** yet been selected or agreed.
+
+**Outstanding:** The overall BT-04 question remains proposed, not formally ratified. Nothing here establishes a common scale across conceptions, proves degrees of embodiment generally or resolves the relationship between degrees and kinds of embodiment. The 14 October pause text above is historical and must not override this next step.
+
