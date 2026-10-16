@@ -1,6 +1,6 @@
 # The body problem: research record
 
-Updated: 14 October 2026  
+Updated: 16 October 2026  
 Status: working record, not a finished chapter or settled taxonomy
 
 ## Purpose
@@ -84,7 +84,19 @@ Other possible lines include ethics as a transversal concern and traditions whic
 
 **Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
 
-## Current pause: BT-04 – 14 October 2026, 11:07 BST
+## Current resumption point: BT-04 – 16 October 2026
+
+**BT-04 is active, with two agreed provisional findings and a third comparison pending.** The 14 October pause below is retained for provenance but is superseded as a resumption instruction. Read [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and the latest entries in [decisions.md](decisions.md).
+
+- **Biological incorporation** (Krieger 2005 as an illustrative account): differences in bodily organisation, capacities and embodied experience across time are describable. A relationship to degrees of embodiment is conceivable, but its nature remains unresolved. We have not established grounds for determining or even understanding degrees of embodiment within this conception.
+- **Lived body / phenomenology** (Fraleigh 1987 as a relevant account, not established as endorsing the finding): degrees may be intelligible through bodily sensitivity cultivated in sustained somatic and embodied practices. From SE's experiential standpoint increased sensitivity can meaningfully be described as increased embodiment. The equivalence is situated, not established across phenomenological accounts. The relation between deliberate attention, cultivated sensitivity and habitual bodily awareness remains open.
+- **Next step:** choose and examine **one third contrasting conception** already present in the map, with a concise rationale and a bounded comparison. Do not treat a conception as homogeneous or presume that the chosen author represents it. Do not begin that comparison until the next working session. The overall BT-04 test remains open; no map alteration has been agreed.
+
+Working convention: always name and briefly characterise the relevant map conception, name the specific author's account and briefly justify its selection. Mark source quotations, source-based paraphrases, **SE** proposals, **LLM** interpretations and agreed joint findings distinctly. The conception labels are our provisional map categories, not Lux et al.'s categories. Stop at a defensible provisional finding rather than pursuing every emerging question; unresolved is a legitimate result.
+
+A new [quotes folder](quotes/README.md) holds one Markdown note per carefully sourced quotation, for use in boundary testing.
+
+## Historical pause: BT-04 – 14 October 2026, 11:07 BST
 
 **The active enquiry is [BT-04: Degrees of embodiment](boundary-tests/BT-04-degrees-of-embodiment.md). It is paused with no agreed finding.** BT-03 was suspended without a finding after terminology around awareness and consciousness drifted. The 8 October restart instructions below are retained as a historical record and **are superseded for the current resumption**.
 
@@ -115,6 +127,7 @@ To resume in another session: fetch the latest GitHub versions of this README, [
 - [Future test: somatic expertise](future-tests/somatic-expertise.md)
 - [Scott updates – brief session summaries](scott%20updates.md)
 - [Source inventory](sources/README.md)
+- [Quotation notes](quotes/README.md)
 
 ## Decision timestamps
 
