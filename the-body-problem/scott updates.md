@@ -2,6 +2,16 @@
 
 Brief session summaries for Scott. Add each new dated entry **above** earlier entries; times are UK local time and refer to when the summary was recorded.
 
+## 16 October 2026, 15:57 BST – BT-04 findings and quotation notes
+
+- **BT-04 is ongoing:** We agreed that it is worth examining possible degrees of embodiment within particular conceptions, even without a universal definition or comparable scale. Distinguishing embodiment from the amount of bodily involvement remains essential.
+- **Biological incorporation – agreed provisional finding:** Changes in bodily organisation, capacities and experience across time are describable, and a connection with degrees of embodiment is conceivable, but we lack grounds for determining or even understanding such degrees within this conception.
+- **Lived body / phenomenology – agreed provisional finding:** SE's account of forty years of dancing and sustained somatic attention suggests that cultivated bodily sensitivity can meaningfully be called increased embodiment. The equivalence is situated and has not been established across phenomenological accounts; deliberate attention and habitual sensitivity remain open questions.
+- **Method:** We agreed to keep each conception-specific comparison finite, separate SE's experiential contributions from LLM interpretations and source claims, and accept unresolved issues rather than continuing endless questions.
+- **Next BT-04 step:** Select and examine one third contrasting conception from the existing map, with an identifiable author or account and a bounded provisional finding. Then assess the three comparisons together; no new category or completed overall BT-04 finding is claimed.
+- **Quotations:** Created a [quotes collection](quotes/README.md) with one Markdown note per quotation, including source details, verification status, context and potential relevance. Nine notes have been added: Dillo, Taft, Mehling (two), Lux (two), Seth and Tsakiris, Ingold and Fechtel.
+- **Emerging threads, not decisions:** The quotations bring practice-based development, basic embodied selfhood, the breadth of Lux's framework, Ingold's critique of embodiment and the ethical limits of bodily self-concern into view. These have not changed the agreed BT-04 findings.
+
 ## 14 October 2026, 11:07 BST – BT-04 pause
 
 - **BT-04, degrees of embodiment:** Solnit's *A Field Guide to Getting Lost* quotation was a provocation only, not evidence or an argument for ranking art forms.
