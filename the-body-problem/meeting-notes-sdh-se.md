@@ -11,7 +11,7 @@
 - SdH to act as foil
 - SdH to pass Qs across from [trade_literature](analogue_trade/trade_literature.md) (analogue world) 
 
-## 20260916 – teams meeting notes
+## 20261009 – teams meeting notes
 
 **Scott:**
 
@@ -97,7 +97,7 @@ I uploaded the other four essays to join the Trade Lit one [here](https://liveco
 - \[ \] SE add the somatics unlimited html piece to the folder
 - \[ \] SdH to photograph and spreadsheet the shit out of it
 
-**20260907 – grove court se notes from talking with sdh**
+## 20260907 – grove court se notes from talking with sdh
 
 - what does this have to do 'dance' as a field of research? (and its status and also the ways in which dance is perceived from the outside)
 - relationship to the digital??
