@@ -46,7 +46,7 @@ To leave you/ us with something to ponder. Read the second paragraph here. <http
 - crude difference between analogue and digital processes we are engaged in
 - Berry vs Minsky - which end of the spectrum do you lie? -- as a way into an open question and position and bias for both writing and reading
 
-## 20261009 – NO MEETING NOTES TYPED UP.
+## 20261002 – NO MEETING NOTES TYPED UP.
 
 ## 20260909 – teams meeting notes
 
