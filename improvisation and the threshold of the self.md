@@ -6,13 +6,13 @@ type: book chapter
 platform: 
 status: in progress
 status-updated: "20260812"
-csl: /Users/skiptime/Dropbox/pandoc/chicago-author-date-16th-edition.csl
+csl: /Users/skiptime/Resilio_ske_Drive/pandoc/chicago-author-date-16th-edition.csl
 
 ---
 
-# Threshold of the Self: Dancing and Non-dual Awareness
+# Threshold of the Self: Dancing and Nondual Awareness
 
-_keywords:_ dancing, improvisation, non-dual awareness, consciousness
+_keywords:_ dancing, improvisation, nondual awareness, consciousness
 
 _biography:_ 
 
@@ -20,7 +20,7 @@ Simon Ellis works with choreography, filmmaking and words and has expertise in p
 
 ## Abstract
 
-
+This chapter examines a threshold in improvised dancing: between knowing one is dancing and ceasing to be aware that there is a 'one'. Drawing on authentic movement practice with dancer Katye Coe, retrospective dialogue, and later informal micro-phenomenological interviews with Rosemary Lee, it proposes a six-part architecture of the improvisations and distinguishes _deep sensory dancing_, in which an organiser remains, from _being danced_, in which it appears absent. The chapter tests a nondual reading of these experiences against five alternatives (absorption, implicit awareness, attenuated agency, flow and skilled automaticity) and argues that the evidence underdetermines between them. Predictive processing is then used to reframe somatic expertise as attentional rather than motor skill. The chapter contributes a refined account of 'being moved', a model of somatic expertise, and an approach to practice research that tests first-person accounts against rival explanations rather than letting them confirm themselves.
 
 ## Introduction: dancing and being danced
 
@@ -54,7 +54,7 @@ That dancing in the northern hemisphere winter of 2024 lies at the heart of this
 
 Katye and I practised together 13 times over seven days between 26 January and 15 February 2024. Each day of practice contained two sessions (morning and afternoon), except for the morning only on 26 January. The sessions followed a pattern: 1) one person danced for a timed period (normally 25 minutes) while the other witnessed that dancing; 2) roles were changed and the practice repeated; 3) there was an unstructured conversation about the experiences that was audio recorded. We had thirteen conversations in total, each around 40 minutes long.[^conversations][^llm]
 
-Although in this writing I focus on the threshold between seemingly dual and non-dual experiences in dance improvisation, the term _threshold_ referenced a family of transitions in our conversations together. It was not until the tenth conversation of 13 (on the morning of 14 February 2024) that we explicitly used the word _threshold_, at which point we started to discuss other types of thresholds: closing one's eyes, the move from what we were calling 'awareness-ing' to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from the dancing. 
+Although in this writing I focus on the threshold between seemingly dual and nondual experiences in dance improvisation, the term _threshold_ referenced a family of transitions in our conversations together. It was not until the tenth conversation of 13 (on the morning of 14 February 2024) that we explicitly used the word _threshold_, at which point we started to discuss other types of thresholds: closing one's eyes, the move from what we were calling 'awareness-ing' to passenger, the softening or loss of self, and even simply committing to the practice of not wanting anything from the dancing. 
 
 Earlier in the studio work we did however allude to similar points of transition without using the word _threshold_. We discussed the way 'attention spreads out' or flattens; how the choice to respond or not respond (to internal stimuli or sensation) softens or disappears; when the distinction between movement and sensation blurs; and how one's sense of agency is lost and regained. We talked of how pain or sound can jump the mover back to themselves, and how 'I-ness' becomes less defined: 
 
@@ -62,13 +62,13 @@ Earlier in the studio work we did however allude to similar points of transition
 
 <div style="text-align: right">– Katye, 2 February 2024 (conversation 4 of 13)</div>
 
-Katye's words reveal the extent to which we were framing our thinking and experience through the lens of non-duality. This is not surprising given the original premise and title for the pilot funding. In that same conversation on 2 February 2024 I spoke of 'where [the dancing] _becomes_ a singular dimension. There's no sort of sense ... There's no out or in ... or when'. It was not until the final studio sessions that I started to imagine that the broader research project could focus precisely on the moment in time when one seems to slip out of time and out of oneself. 
+Katye's words reveal the extent to which we were framing our thinking and experience through the lens of nonduality. This is not surprising given the original premise and title for the pilot funding. In that same conversation on 2 February 2024 I spoke of 'where [the dancing] _becomes_ a singular dimension. There's no sort of sense ... There's no out or in ... or when'. It was not until the final studio sessions that I started to imagine that the broader research project could focus precisely on the moment in time when one seems to slip out of time and out of oneself. 
 
-The project then went dormant as I wondered how best to work with its range of materials, although questions of non-duality and body-based practice remained an ongoing curiosity.
+The project then went dormant as I wondered how best to work with its range of materials, although questions of nonduality and body-based practice remained an ongoing curiosity.
 
 Nearly two and a half years after the initial studio-based research and while I was drafting this writing, my colleagues Siobhan Davies and Rosemary Lee shared with the C-DaRE research team (on 16 April 2026) a questioning process designed to elicit precise responses to remembered felt experiences. The process seems to have much in common with micro-phenomenological interviews [see @petitmengin-2006-describing; @petitmengin-2019-discovering]. On a methodological whim I asked Rosemary to work with me to integrate that questioning process into this research. In May 2026 she and I met online twice to push deeper into my memory of experiences while dancing.
 
-This writing is therefore constructed from first-person experiences of dancing, unstructured conversations post-dancing between Katye and me, micro-interviews hosted by Rosemary focusing on the threshold, and desk-based work.[^other-data] Throughout the chapter I imagine _experience_ as a verb filled with the subjectivities of noticing, sensing and feeling, whereas as a noun _experience_ is 'a bounded phenomenon or situation that many presume can be empirically studied and designed' [@walker-2020-experience n.pag.]
+This writing is therefore constructed from first-person experiences of dancing, unstructured conversations post-dancing between Katye and me, micro-interviews hosted by Rosemary focusing on the threshold, and desk-based work.[^other-data] Throughout the chapter I imagine _experience_ as a verb filled with the subjectivities of noticing, sensing and feeling, whereas as a noun _experience_ is 'a bounded phenomenon or situation that many presume can be empirically studied and designed' [@walker-2020-experience n.pag.]. The chapter is also an argument about practice research as method. Rather than allow the nondual framing with which the project began to confirm itself, I test it against five other accounts of the experience, and treat what cannot be decided between them as a finding.
 
 ## Authentic movement: awareness while dancing
 
@@ -134,9 +134,9 @@ The difference between deep sensory dancing and being danced is stark, even if t
 
 Because the improvisations were timed and ended with an alarm, the return to ordinary life would happen from either deep sensory dancing or being danced. The harshness and potential discombobulation of the ending would depend on which kind of dancing experience was interrupted. As Katye observes, 'it's clear, like there's a reorienting that goes on and there's a kind of coming back that's happening' (Coe, 9 February 2024 pm; conversation 8 of 13).
 
-## Testing the non-dual framing
+## Testing the nondual framing
 
-### Embodiment and non-dual awareness
+### Embodiment and nondual awareness
 
 > Spend enough time in the hyper-awareness of improvisation and you will undoubtedly begin to question [...] the structure of self.
 
@@ -144,11 +144,9 @@ Because the improvisations were timed and ended with an alarm, the return to ord
 
 We tend to perceive ourselves as subjects seeing the world 'as a field of objects to be endlessly manipulated, optimized, and exploited' [@sacasas-2022-two n.pag]. Curiously, this *world* includes our own bodies, and it is telling, in everyday English, that we describe ourselves as *having* a body. But when I say, 'I have a body', who is the *I* that *has* a body, and how is that *I* distinguishable from that body?
 
-The philosopher and sociologist Helmuth Plessner (building on the work of phenomenologist Edmund Husserl) describes the double nature of human embodiment. That is, 'we both _are_ a body and _have_ a body' [@wehrle-2020-being p.499 original emphasis]. Plessner wrote, '[A] human being always and conjointly is a living body and has this living body as his [sic] physical thing' [Plessner 1970, quoted in @wehrle-2020-being p.500]. In other words, the human body is a subject _and_ an object, even if when it is perceived as an object it is somehow an 'object of special regard' [@garfield-2022-losing n.pag.].
+The philosopher and sociologist Helmuth Plessner (building on the work of phenomenologist Edmund Husserl) describes the double nature of human embodiment. That is, 'we both _are_ a body and _have_ a body' [Plessner 1970, quoted in @wehrle-2020-being p.499 original emphasis]. Plessner wrote, '[A] human being always and conjointly is a living body and has this living body as his [sic] physical thing' [Plessner 1970, quoted in @wehrle-2020-being p.500]. In other words, the human body is a subject _and_ an object, even if when it is perceived as an object it is somehow an 'object of special regard' [@garfield-2022-losing n.pag.].
 
-Nondual awareness refers to a foundational component of the phenomenology of consciousness in which there is no such subject-object structuring [@josipovic-2019-nondual]. In the Dzogchen Tibetan Buddhist tradition nondual awareness is known as _rigpa_ or pristine awareness – where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan], while in Buddhism it is _śūnyatā_ or emptiness – the open, non-conceptual field of awareness itself that is self-luminous and nondual. 
-
-The neuroscientist, philosopher and podcaster Sam Harris (who is trained in and influenced by the Dzogchen tradition) describes nondual awareness in mindfulness practice by focusing on the collapse of the subject-object dichotomy and the illusion of self:
+Nondual awareness refers to a foundational component of the phenomenology of consciousness in which there is no such subject-object structuring [@josipovic-2019-nondual]. In the Dzogchen Tibetan Buddhist tradition nondual awareness is known as _rigpa_ or pristine awareness – where awareness recognises itself without interference [@wangyalrinpoche-1998-tibetan]. The neuroscientist, philosopher and podcaster Sam Harris (who is trained in and influenced by the Dzogchen tradition) describes nondual awareness in mindfulness practice by focusing on the collapse of the subject-object dichotomy and the illusion of self:
 
 > [...] when you're truly paying attention to anything what is clear in those moments is that there's no one doing it. Everything is simply happening. Everything is arising on its own – thoughts, intentions, emotions – and vanishing. And this prior condition of consciousness in which all that is happening doesn't itself feel like I. It doesn't feel like a self. [@harris-nodate-what]
 
@@ -170,9 +168,9 @@ And so I need to take care here.
 
 First-hand experiential and subjective knowledge is fundamental to practice research and also in complex phenomena like movement improvisation or body-awareness practices. Such first-hand accounts provide access to details of corporeal and embodied experiences unavailable to external observers. Furthermore, critical reflection and shared articulation are made possible by retrospective discussion and analysis.
 
-Yet the retrospective conversations that comprise a key part of the methods of this research carry at least four risks. First, retrospective discursive data – particularly in the extended time between the practice and the conversations with Rosemary Lee – mean the recall and descriptions may be shaped by emerging interpretations. Second, given the research set out to understand the losing of one's self during improvisation, pre-existing concepts likely infect how experiences as data are perceived. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher's existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of non-dual awareness may have influenced how retrospective accounts were interpreted, making them appear to confirm that framework. Third, alternative interpretations may have been overlooked or suppressed. Fourth, participant-researcher involvement limits analytical distance.
+Yet the retrospective conversations that comprise a key part of the methods of this research carry at least four risks. First, retrospective discursive data – particularly in the extended time between the practice and the conversations with Rosemary Lee – mean the recall and descriptions may be shaped by emerging interpretations. Second, given the research set out to understand the losing of one's self during improvisation, pre-existing concepts likely infect how experiences as data are perceived. This is known as theory-laden interpretation [@hanson-1965-patterns] in which the researcher's existing concepts shape how ambiguous data are recognised, described and understood. In this case, the lens of nondual awareness may have influenced how retrospective accounts were interpreted, making them appear to confirm that framework. Third, alternative interpretations may have been overlooked or suppressed. Fourth, participant-researcher involvement limits analytical distance.
 
-A further risk concerns not only the retrospective character of the conversations but their initial framing. From the immediate post-practice discussions with Katye to the later conversations with Rosemary Lee, non-duality was already present as a possible way of understanding the experiences. This framing may have conceptually primed the conversations, tuning us to notice particular features and reach for non-dual language while making other descriptions or interpretations less available. The accounts were therefore not simply later interpreted through a non-dual lens but were partly produced through it.
+A further risk concerns not only the retrospective character of the conversations but their initial framing. From the immediate post-practice discussions with Katye to the later conversations with Rosemary Lee, nonduality was already present as a possible way of understanding the experiences. This framing may have conceptually primed the conversations, tuning us to notice particular features and reach for nondual language while making other descriptions or interpretations less available. The accounts were therefore not simply later interpreted through a nondual lens but were partly produced through it.
 
 ### Evidential underdetermination
 
@@ -212,7 +210,7 @@ _Flow_ describes complete involvement in an activity, characterised by concentra
 
 – Hefferon and Ollis [-@hefferon-2006-just p.143]
 
-One way to explain this apparent loss of self without invoking nondual awareness is through *skilled automaticity*. The concept originates in models of skill acquisition [@fitts-1967-human] and now refers to how extensive practice enables sensorimotor aspects of an action to proceed with little conscious attention or deliberate control [@logan-1985-skill; @christensen-2016-cognition]. Decades of dance and somatic training may therefore allow Katye and I to organise or _perform_ movement without deliberate selection or conscious supervision. On this account, *being danced* occurs when Katye or I cease to manage movement explicitly while embodied skills continue to generate it.
+One way to explain this apparent loss of self without invoking nondual awareness is through *skilled automaticity*. The concept originates in models of skill acquisition [@fitts-1967-human] and now refers to how extensive practice enables sensorimotor aspects of an action to proceed with little conscious attention or deliberate control [@logan-1985-skill; @christensen-2016-cognition]. Decades of dance and somatic training may therefore allow Katye and me to organise or _perform_ movement without deliberate selection or conscious supervision. On this account, *being danced* occurs when Katye or I cease to manage movement explicitly while embodied skills continue to generate it.
 
 > I've got a big rucksack full of tools [...] I've got enough information from the 25 years [of dancing] to kind of go there and not worry about whether I'm doing it right or wrong. (Coe, 9 February 2024 pm, 13:52)
 
@@ -222,7 +220,19 @@ Yet a critical question remains. What kind of expertise is involved in a practic
 
 Barbara Montero's work complicates this question. She challenges the assumption that experts necessarily lose reflective self-awareness while executing complex motor skills [see @montero-2016-thought] and rejects the idea that 'the expert acts intuitively and automatically' [@montero-2013-dancer p.304]. Skilled automaticity may therefore explain how movement continues with reduced deliberate control, but it cannot be assumed to explain either the disappearance of the organiser or the particular form of awareness Katye and I describe while _being danced_.
 
-The most economical comparison would treat absorption and flow as broad descriptions of the experience, then combine skilled automaticity, experience without explicit self-awareness and attenuated agency as a possible cognitive account of how *being danced* occurs. None of these interpretations alone explains everything Katye and I describe. Flow, skilled automaticity and attenuated agency may explain the disappearance of deliberate control without explaining why the body ceased to feel bounded by the skin when it feels as if 'the skin dissolves' (Ellis, 19 May 2026). Nondual awareness may therefore be an interpretation of the overall experiential structure rather than a rival causal explanation or mechanism.
+The following table maps each of these accounts against the five phenomena of _being danced_ identified earlier. The judgements are mine and are offered as an aid to comparison rather than a verdict.
+
+| Being danced | Nondual awareness | Absorption | Experience without explicit self-awareness | Attenuated agency | Flow | Skilled automaticity |
+| --- | --- | --- | --- | --- | --- | --- |
+| Disappearance of the organiser or doer | yes | partly | partly | partly | no | partly |
+| Retrospective recognition that the 'I' was absent | yes | no | yes | no | no | no |
+| Loss of explicit agency | yes | partly | partly | yes | partly | yes |
+| Cessation of differentiation and labelling | yes | partly | yes | no | partly | no |
+| Dissolution of bodily boundaries | yes | partly | no | no | partly | no |
+
+Nondual awareness is the only account that addresses every row. That should not be read as confirmation: it is also what one would expect if, as I suggest above, the accounts were produced through a nondual lens. The final row is more telling. Only nondual awareness addresses the body ceasing to feel bounded by the skin, the sense that 'the skin dissolves' (Ellis, 19 May 2026); absorption and flow touch it only through a more general loss of self, and it is this feature, more than the loss of control, that the cognitive accounts leave unexplained.
+
+The most economical comparison would treat absorption and flow as broad descriptions of the experience, then combine skilled automaticity, experience without explicit self-awareness and attenuated agency as a possible cognitive account of how _being danced_ occurs. None of these accounts, alone or in combination, explains everything Katye and I describe. Nondual awareness may therefore be an interpretation of the overall experiential structure rather than a rival causal explanation or mechanism.
 
 These accounts describe aspects of what Katye and I experienced, but they do not explain how the practice made those experiences possible. Authentic movement involves no expectations of _correct_ or _good_ movement, and no outward standard of virtuosity. For all intents and purposes, Katye and I appear to do very little while dancing, sometimes nothing at all. The practice looks rather simple or everyday even when it feels complex, rich and anything but everyday. What, then, are we actually practising? What is our expertise in this practice? And what role does movement play in reorganising how we perceive and respond to experience?
 
@@ -236,9 +246,9 @@ The neuroscientist Anil Seth's account of perception as 'controlled hallucinatio
 
 A key part of predictive processing is precision weighting: the system's estimation of how reliable or informative predictions and sensory signals are. Precision weighting is closely related to attention. As Seth explains, attending to sensory information is 'equivalent to increasing its expected precision so that the sensory data have greater impact on perception' [-@seth-2018-being p.971]. In authentic movement, sustained attention to bodily sensation may therefore 'turn up the gain' on sensory signals from the body, increasing their influence on perception. What is sensed is not thereby freed from prior expectations: those expectations, including beliefs about the body's role in perception, continue to shape how bodily signals are interpreted.
 
-Seen through the lens of predictive processing and precision weighting, the practice Katye and I did together likely involved a distinctive pattern of up- and down-weighting. Decades of dance and somatic training have predisposed us to treat kinaesthetic information as fundamental or vital. At the beginning of an improvisation I described bodily sensations as 'full and rich' and attributed the difficulty of becoming lost in thought to 'the quantity and quality of basically bodily information' (Ellis, 2 February 2024 am). Movement further amplified this information. Katye noted also that movement 'agitates sensation', so that 'my attention immediately spreads because there's many things to attend to' (Coe, 9 February 2024 pm). At the same time, the practice appears to down-weight predictions concerned with what the dancing ought to become. Coe associated 'expectation about what this is or what this isn't' with 'the same part that reaches', observing that when this part of thinking is loud 'it gets quieter' (Coe, 14 February 2024 am); I understand beginning the practice to be 'committing to not wanting' (Ellis, 14 February 2024 am). 
+Seen through the lens of predictive processing and precision weighting, the practice Katye and I did together likely involved a distinctive pattern of up- and down-weighting. Decades of dance and somatic training have predisposed us to treat kinaesthetic information as fundamental or vital. At the beginning of an improvisation I described bodily sensations as 'full and rich' and attributed the difficulty of becoming lost in thought to 'the quantity and quality of basically bodily information' (Ellis, 2 February 2024 am). Movement further amplified this information. Katye noted also that movement 'agitates sensation', so that 'my attention immediately spreads because there's many things to attend to' (Coe, 9 February 2024 pm). At the same time, the practice appears to down-weight predictions concerned with what the dancing ought to become. Katye associated 'expectation about what this is or what this isn't' with 'the same part that reaches', observing that when this part of thinking is loud 'it gets quieter' (Coe, 14 February 2024 am); I understand beginning the practice to be 'committing to not wanting' (Ellis, 14 February 2024 am). 
 
-The clinical researcher Wolf Mehling describes how 'repetition and training in these skills of noticing, differentiating, and discerning' in mind-body practices that centralise the body can lead to 'embodiment and integration' [@mehling-2011-body p.7]. In predictive-processing terms, then, the somatic practice of authentic movement Katye and I were researching may be understood as cultivating a learned bias towards the precision of moment-to-moment kinaesthetic information while reducing the influence of explicit, goal-directed expectations about what should happen next. More broadly, therefore, for dancers movement becomes little more than a bias in the same way that pianists might up-weight aural acuity (or attention) while down-weighting physical sensation.  
+The clinical researcher Wolf Mehling describes how 'repetition and training in these skills of noticing, differentiating, and discerning' in mind-body practices that centralise the body can lead to 'embodiment and integration' [@mehling-2011-body p.7]. In predictive-processing terms, then, the somatic practice of authentic movement Katye and I were researching may be understood as cultivating a learned bias towards the precision of moment-to-moment kinaesthetic information while reducing the influence of explicit, goal-directed expectations about what should happen next. More broadly, therefore, for dancers movement becomes little more than an attentional bias towards kinaesthetic information in the same way that pianists might up-weight aural acuity (or attention) while down-weighting physical sensation.  
 
 According to Seth, while attention is the means to up-weight particular sensations, _disattention_ is the opposite and its role in proprioception and movement is important and somewhat counter-intuitive. In order for a physical action to be carried out, the predictions telling the brain where the body currently is need to be down-weighted such that the body will move. Seth calls this down-weighting disattention [@seth-2018-being], and it presents a productive paradox: attending less to the body as something to be monitored and controlled may allow more movement and sensory experience to emerge. 
 
@@ -250,6 +260,16 @@ My hunch is that somatic expertise develops alongside attentional expertise [see
 
 Such a cycle of up- and down-weighting may help explain how deep sensory dancing becomes sustained, richly sensorial and less deliberately organised. It does not, however, explain the threshold into being danced or establish that the organiser actually disappears by losing their self. That remains the more difficult question that I have not been able to answer.
 
+## What the threshold offers
+
+Three things follow from this work, and each have emerged from the practice that started in silence in the studio. 
+
+The first concerns authentic movement and improvisation more widely. Adler's pairing of moving and being moved [@adler-2002-offeringa] is an evocative shorthand, a play on the active and passive senses of the verb. The practice with Katye offers a closer and more precise account of what that shorthand holds. Being moved, I suggest, contains at least two conditions: _deep sensory dancing_, in which an organiser remains, however quiet, and _being danced_, in which that organiser is absent and is known only on its return. Distinguishing the two, and locating a threshold between them, offers practitioners a finer vocabulary for what a mover means when they say they were being moved, and offers researchers a more precise object of study.
+
+The second concerns expertise. If the predictive-processing account holds, expertise in somatic practice is less a matter of motor skill than of attentional skill: a learned weighting of sensation over expectation, in which movement serves to keep the sensory field alive. This places somatic practice squarely within debates about expert action [@montero-2016-thought; @christensen-2016-cognition], rather than as a quieter case of physical virtuosity, or of skills judged by measurable outcomes.
+
+The third, and perhaps the most portable beyond the field, concerns practice research as method. First-person accounts are central to practice research, but they often stand as their own warrant. Here I have tried something different: to gather those accounts through several means (dancing, dialogue and informal micro-phenomenological questioning) and then hold them against rival explanations from contemplative traditions, philosophy and cognitive science, accepting that the evidence underdetermines which is right. That underdetermination is a finding and not a failure of the research. Some features of experience, like the absence of the organiser, may be available only retrospectively and only as a gap, which sets a limit on what first-person methods can recover [cf. @petitmengin-2006-describing]. Being exposed in this way, about what it can and cannot settle, is both a strength and a weakness of practice research. It is also what opens it to methodological exchange and collaboration across disciplines, in which first-person accounts and other forms of evidence can test one another.
+
 ## An afterthought: Non-dancing
 
 > Perhaps we shouldn't find it surprising that people regularly experience spaceless and timeless states in meditation, embodied as a "oneness" that no longer takes on the character of being a separate "self." All three of these perceptions – space, time, and self – have been revealed by neuroscience and physics to be a distortion of what we now understand to be the underlying physical reality. These perceptions can even be considered illusions in one sense of the word. 
@@ -260,7 +280,7 @@ I want to end in speculation.
 
 None of these ideas and practices presented in this chapter is somehow evidence that Katye and I had a series of nondual experiences while dancing in the northern winter of 2024. Yet we felt what we felt, and described these feelings in a way that I have attempted to present as accurately as possible in this writing. 
 
-It strikes me now, many months into this process, that _being danced_ has very little to do with dancing. Rather, that dancing is the mean by which we practise attention without judgement. Perhaps the practice begins to flourish when the dancing ceases or becomes non-dancing; it is the movement that remains when there is non-dancing. That within this non-dancing is an encounter with reality that is usually and usefully masked by perception. The practice merely enables us to elude the layers of personal and cultural perceptual histories in order for the body to dissolve.
+It strikes me now, many months into this process, that _being danced_ has very little to do with dancing. Rather, that dancing is the means by which we practise attention without judgement. Perhaps the practice begins to flourish when the dancing ceases or becomes non-dancing; it is the movement that remains when there is non-dancing. That within this non-dancing is an encounter with reality that is usually and usefully masked by perception. The practice merely enables us to elude the layers of personal and cultural perceptual histories in order for the body to dissolve.
 
 
 ---
@@ -271,7 +291,7 @@ It strikes me now, many months into this process, that _being danced_ has very l
 [^git]: All drafting, edits and changes to this chapter are available as open access on GitHub; first as [_losing oneself - somatics chapter_](https://github.com/skellis46/slipbox/commit/85cfb873957b6303ba2b0df4ce7444e94e5fa853), and then [_improvisation and the threshold of the self_](https://github.com/skellis46/slipbox/blame/master/improvisation%20and%20the%20threshold%20of%20the%20self.md) when the work was re-titled on 8 October 2025. 
 
 
-[^losing]:[Losing One's Self: Exploring Dance Improvisation and Consciousness](https://losingoneself.coventry.ac.uk/) involved Katye Coe (dancer-researcher), L.M. Merritt Millman (neuroscientist), Michaela Gerussi (dancer-researcher), and me (Simon Ellis, dancer-researcher). Late in 2023 the research was awarded via lot some seed funding from Coventry University. 
+[^losing]:[Losing One's Self: Exploring Dance Improvisation and Consciousness](https://losingoneself.coventry.ac.uk/) involved Katye Coe (dancer-researcher), L.M. Merritt Millman (neuroscientist), Michaela Gerussi (dancer-researcher), and me (Simon Ellis, dancer-researcher). Late in 2023 the research was awarded via a lottery some seed funding from Coventry University. 
 
 [^conversations]: Session 1: 26 January 2024; Session 2: 1 February 2024 am; Session 3: 1 February 2024 pm; Session 4: 2 February 2024 am; Session 5: 2 February 2024 pm; Session 6: 8 February 2024 am; Session 7: 8 February 2024 pm; Session 8: 9 February 2024 am; Session 9: 9 February 2024 pm; Session 10: 14 February 2024 am; Session 11: 14 February 2024 pm; Session 12: 15 February 2024 am; Session 13: 15 February 2024 pm.
 
@@ -287,6 +307,7 @@ It strikes me now, many months into this process, that _being danced_ has very l
 - Merritt
 - Michaela
 - Kronsted (check my emails with him)
+- Sarah W
 - C-DaRE and colleagues
 - use of LLMs -- thematic analysis of unstructured conversations, literature searches, knotty editing parts (where I grew frustrated with the way something read).
 - Hetty for questions 
