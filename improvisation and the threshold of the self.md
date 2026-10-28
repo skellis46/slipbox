@@ -301,23 +301,15 @@ It strikes me now, many months into this process, that _being danced_ has very l
 
 [^conversations]: Session 1: 26 January 2024; Session 2: 1 February 2024 am; Session 3: 1 February 2024 pm; Session 4: 2 February 2024 am; Session 5: 2 February 2024 pm; Session 6: 8 February 2024 am; Session 7: 8 February 2024 pm; Session 8: 9 February 2024 am; Session 9: 9 February 2024 pm; Session 10: 14 February 2024 am; Session 11: 14 February 2024 pm; Session 12: 15 February 2024 am; Session 13: 15 February 2024 pm.
 
-[^llm]: Large language models (LLMs) – Anthropic's Claude and OpenAI's ChatGPT – were used at several stages in the research and writing process. They assisted with preliminary content analysis of interview transcripts, including identifying recurrent themes and patterns, and with early-stage desk research, particularly summarising academic articles prior to closer reading. During writing, LLMs were used as editorial tools to test structure, identify repetition, suggest revisions and proofread drafts. Their outputs were treated as provisional rather than authoritative: interpretations, summaries and suggested edits were checked against the original research data, source texts and the author's own analysis. An LLM also wrote this paragraph. 
+[^llm]: Large language models (LLMs) – Anthropic's Claude and OpenAI's ChatGPT – were used at several stages in the research and writing process. They assisted with preliminary content analysis of interview transcripts, including identifying recurrent themes and patterns, and with early-stage desk research, particularly in literature searches and in summarising academic articles prior to closer reading. During writing, LLMs were used as editorial tools to test structure, identify repetition, suggest revisions,  proofread drafts and ensure alignment with the Chicago style guide. Their outputs were treated as provisional rather than authoritative: interpretations, summaries and suggested edits were checked against the original research data, source texts and the author's own analysis. An LLM also wrote this paragraph. 
 
-[^other-data]: For the broader project ... (including dancing, reflecting, self-reporting questionnaires and various forms of video and photographic documentation). Initial literature searches focusing on dance improvisation, consciousness and mindfulness practices occurred in early 2024 (led by Michaela), and I later picked up and expanded on Michaela's work as part of the development of this writing. Analysis of the self-reporting questionnaires was finished by Merritt in September 2024.
+[^other-data]: The broader project also included self-reporting questionnaires and various forms of video and photographic documentation. Initial literature searches focusing on dance improvisation, consciousness and mindfulness practices occurred in early 2024 (led by Michaela), and I later picked up and expanded on Michaela's work as part of the development of this writing. Analysis of the self-reporting questionnaires was finished by Merritt in September 2024 but is not included in this chapter for reasons of methodological coherence.
 
 ---
 
 ## Acknowledgements
 
-- Katye
-- Merritt
-- Michaela
-- Kronsted (check my emails with him)
-- Sarah W
-- C-DaRE and colleagues
-- use of LLMs -- thematic analysis of unstructured conversations, literature searches, knotty editing parts (where I grew frustrated with the way something read).
-- Hetty for questions 
-- acknowledge the QR spend
+Thanks to the research team Katye Coe, Michaela Gerussi and Merritt Millman for their deep and productive collaboration. Thanks also to Rosemary Lee, Hetty Blades, Sarah Whatley, Christian Kronsted, Jonathan Burrows, Scott deLahunta, and my colleagues at C-DaRE with whom I share lively and rich conversations. Lastly, thanks to the University of Coventry for the small pot of internal funding that made the pilot research possible.
 
 ## links
 
