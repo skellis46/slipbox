@@ -1,11 +1,12 @@
-# Fwd: The Prompt Box Is a Minefield: AI Chatbots and Power of Language
+# Sacasas - The Prompt Box Is a Minefield: AI Chatbots and Power of Language
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+
 
 ## Metadata
-- Author: [[Simon Ellis]]
-- Full Title: Fwd: The Prompt Box Is a Minefield: AI Chatbots and Power of Language
+- Author: [[L. M. Sacasas]]
+- Full Title: The Prompt Box Is a Minefield: AI Chatbots and Power of Language
 - Category: #articles
+- URL: https://theconvivialsociety.substack.com/p/the-prompt-box-is-a-minefield-ai
 
 ## Highlights
 
