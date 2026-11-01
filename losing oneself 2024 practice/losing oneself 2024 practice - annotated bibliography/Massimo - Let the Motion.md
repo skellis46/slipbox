@@ -16,7 +16,7 @@ Massimo, Serena
 
 ### location breadcrumb:
 
-reverse google scholar search — articles citing [De Spain - The Cutting](De%20Spain%20-%20The%20Cutting%20adf4b46db00b4047b5a2c386e44c09af.md) 
+reverse google scholar search — articles citing [De Spain - The Cutting](De%20Spain%20-%20The%20Cutting.md) 
 
 date added: 13 May 2024
 

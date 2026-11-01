@@ -6,7 +6,7 @@ type: "literature"
 
 # Crunțeanu - The Power of 'Co-' in Contemporary Dance
 
-_previous note:_ [[Haraway - Symbiogenesis, Sympoiesis, And Art Science Activisms For Staying With The Trouble]]
+_previous note:_ [[Haraway - Symbiogenesis, Sympoiesis, And Art Science Activisms]]
 
 > metanoia
 _note: "change in one's way of life resulting from penitence or spiritual conversion."_
