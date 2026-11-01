@@ -21,7 +21,7 @@ _previous note:_
 
 - the problem of scale for tech companies. What if we 'find' that this process is incredibly useful for understanding experiences of HC? How would it be scaled up?  
 - content moderation is impossible to do well at scale [@masnick-2019-masnick]
-- as if what we are proposing is the precise opposite of an Amazon mechanical turk [[Melanie Mitchell - Mitchell-2019-Artificial#^586fbb]]
+- as if what we are proposing is the precise opposite of an Amazon mechanical turk [[Melanie Mitchell - Artificial Intelligence A Guide for Thinking Humans#^586fbb]]
 - as direct comparison with brittleness of AI??
 - we are basically attempting to introduce a massive amount of friction into the system
 - is there a way to build an online version of Transparencies -- something that automates transparency layer of images, and then makes them available on a lightboard/desktop online? 

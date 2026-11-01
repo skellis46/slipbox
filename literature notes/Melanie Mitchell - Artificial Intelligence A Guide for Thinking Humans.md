@@ -1,13 +1,16 @@
-# Mitchell-2019-Artificial
+---
+aliases: []
+tags: []
+author: "Mitchell, Melanie"
+year: "2019"
+title: "Artificial Intelligence: A Guide for Thinking Humans"
+type: "literature"
+---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png)
 
-## Metadata
-- Author: [[Melanie Mitchell]]
-- Full Title: Mitchell-2019-Artificial
-- Category: #books
+# Mitchell - Artificial Intelligence: A Guide for Thinking Humans
 
-## Highlights
+_previous note:_ [[Lucy Suchman - Subject Objects]]
 
 > In short, Google is no longer merely a web-search portal—not by a long shot. It is rapidly becoming an applied AI company. AI is the glue that unifies the diverse products, services, and blue-sky research efforts offered by Google and its parent company, Alphabet. The company’s ultimate aspiration is reflected in the original mission statement of its DeepMind group: “Solve intelligence and use it to solve everything else.” (Location 44)
 
