@@ -1,5 +1,13 @@
 # scott updates
 
+## 5 November 2026 – BT-06 provisionally concluded
+
+- **BT-06:** The map accommodates different ways bodily knowing is communicated, including verbal description, demonstration and guided participation. An illustrative baker teaching dough-kneading supplied a bounded example outside dance.
+- **Conceptual source:** Ingold's (2001, 2013) education of attention and learning through making complicate communication understood only as transfer of ready-made knowledge.
+- **Agreed provisional finding:** The map does not directly differentiate transmission of information from cultivation of practical knowing through participation. This is a representational limitation, not a demonstrated conceptual failure; no map revision.
+- **For the chapter:** The enquiry raises whether bodily knowing's communicability is obscured by assumptions that knowing is detachable from practice. This is a question, not a proven claim that bodily knowing cannot be articulated.
+- **Parked:** A human/robot comparison involving programming and machine learning is retained as [candidate C15](future-tests/candidate-pool.md), not folded into BT-06. [Full record](boundary-tests/BT-06-communicating-bodily-knowing.md).
+
 ## 5 November 2026 – BT-05 closure and future test pool
 
 - **BT-05 provisionally concluded:** Merleau-Ponty's account of ordinary bodily habit accommodates the light-switch example primarily under lived body / phenomenology. This shows descriptive usefulness but limited discriminatory power; no map change.
