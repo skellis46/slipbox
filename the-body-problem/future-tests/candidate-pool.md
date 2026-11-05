@@ -30,6 +30,11 @@ The `Origin / provenance` column is part of the analysis, not just an archival n
 
 **Key:** M = test of the map; A = contribution to the body problem argument. 'Possible' means that contribution is not yet well established. Assessments and difficulty labels should be revised as we develop a bounded case.
 
+## Updates to candidate provenance – 5 November 2026
+
+- **C03 and C06:** These lines led to [BT-06](../boundary-tests/BT-06-communicating-bodily-knowing.md). The enquiry shifted from performing versus verbally describing movement, to *description* as one form of communication, then to communicating information versus cultivating practical knowing through guided participation. **BT-06 is provisionally concluded**. Retain the original entries above to preserve provenance. More general questions about kinds of knowing and articulation remain outside the bounded finding.
+- **New candidate C15 – Human and machine communication of skilled action:** SE asked whether the 'person-to-person' formulation wrongly excludes robots. What differences emerge when instructions, demonstrations or feedback shape skilled action in humans and robotic systems? This could revisit the map's bodily constraint / affordance category and BT-02, but must not assume that human apprenticeship, robot programming and machine learning are equivalent. **Origin:** BT-06 discussion, 5 November 2026. **M:** Yes (provisional). **A:** Possible. **Likely scope:** Demanding. **Status:** Parked, unnumbered. Not part of the BT-06 finding.
+
 ## Other open lines, not yet bounded into candidates
 
 - Ethics and moral concern as transversal questions rather than an automatic additional axis (project-wide; some quotation notes).
@@ -55,4 +60,5 @@ The `Origin / provenance` column is part of the analysis, not just an archival n
 - [BT-03](../boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) – suspended
 - [BT-04](../boundary-tests/BT-04-degrees-of-embodiment.md) – provisionally concluded
 - [BT-05](../boundary-tests/BT-05-ordinary-bodily-habit.md) – provisionally concluded
+- [BT-06](../boundary-tests/BT-06-communicating-bodily-knowing.md) – provisionally concluded
 - [Decisions log](../decisions.md)
