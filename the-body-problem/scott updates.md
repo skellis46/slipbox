@@ -1,5 +1,14 @@
 # scott updates
 
+## 5 November 2026 – BT-04 provisionally concluded
+
+- **Status:** BT-04 is provisionally closed. We did not establish a general scale of embodiment or demonstrate that degrees are impossible; no map change was agreed.
+- **Three conceptions:** Biological incorporation (Krieger 2005), lived body / phenomenology (Fraleigh 1987, with SE's situated experiential proposal) and relationality / sense-making (Di Paolo and Thompson 2014; Di Paolo, Buhrmann and Barandiaran 2017). Source claims remain distinct from our interpretations.
+- **Third conception:** Relationality / sense-making challenged the assumption that more sophisticated sense-making means more embodiment and opened further analytical possibilities, but the comparison was exploratory.
+- **Key distinction:** A transformation *within embodiment* is not necessarily an *increase in embodiment*. Growing sensitivity between dancers, or changes following injury or disability, may transform experience and capacity without licensing a more/less embodied judgement.
+- **Parked:** The relationship between embodiment and sense-making, objections to degrees, transformations versus increases, and future conceptual or empirical tests. None is a newly active test.
+- **References and full finding:** See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and the dated entry in [decisions.md](decisions.md).
+
 Brief session summaries for Scott. Add each new dated entry **above** earlier entries; times are UK local time and refer to when the summary was recorded.
 
 ## 16 October 2026, 15:57 BST – BT-04 findings and quotation notes
