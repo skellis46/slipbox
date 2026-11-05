@@ -1,5 +1,13 @@
 # scott updates
 
+## 5 November 2026 – BT-05 closure and future test pool
+
+- **BT-05 provisionally concluded:** Merleau-Ponty's account of ordinary bodily habit accommodates the light-switch example primarily under lived body / phenomenology. This shows descriptive usefulness but limited discriminatory power; no map change.
+- **Practice:** Habit brings training, repetition and developing embodied capacities back into view without implying increasing degrees of embodiment.
+- **Parked for future tests:** Bodily knowing versus articulating that knowing, and kinds of knowing versus modes of producing evidence. These connect closely to the chapter's body problem argument.
+- **Candidate pool:** Added [fourteen unnumbered proposals](future-tests/candidate-pool.md) from BT-01 to BT-05 and the simpler options discussed today. Their recorded origins are intended to trace how questions develop.
+- **Selection principle:** Prefer tests that both challenge or clarify the map and develop the chapter's argument. The pool is not a committed sequence, and no new numbered test has been opened.
+
 ## 5 November 2026 – BT-04 provisionally concluded
 
 - **Status:** BT-04 is provisionally closed. We did not establish a general scale of embodiment or demonstrate that degrees are impossible; no map change was agreed.
