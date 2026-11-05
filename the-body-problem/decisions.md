@@ -166,3 +166,17 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Deferred, without opening new tests:** (1) whether sense-making is one aspect of embodiment or relates to it differently; (2) further challenges to the idea of degrees, including injury and disability; (3) transformations within versus increases in embodiment; (4) conceptual or empirical tests. For the completed record and references, see [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md).
 
 **Writing convention:** Cite identifiable scholarship wherever it supports a claim, distinguish source claims from SE observations and LLM interpretations, and avoid the word 'particularly' in new prose.
+
+### 2026-11-05 | Agreed provisional conclusion | BT-05
+
+**Decision:** Provisionally conclude [BT-05: Ordinary bodily habit](boundary-tests/BT-05-ordinary-bodily-habit.md). The everyday example of reaching for a familiar light switch in the dark is accommodated primarily by lived body / phenomenology. Merleau-Ponty's discussion of acquired bodily habit in *Phenomenology of Perception* (1945/2012, Landes translation) is the primary source; the light-switch illustration is ours. The map's descriptive usefulness is supported, but this case does not strongly test its discriminatory power. No map change was agreed.
+
+**Practice and development:** Learning and repetition can develop practical bodily familiarity. This should not be equated with increasing degrees of embodiment (see BT-04).
+
+**Deferred questions:** (1) bodily knowing versus the ability to describe or communicate it and (2) kinds of knowing versus evidence/knowledge modes. Both may contribute directly to the chapter's body problem argument; neither was opened as a new test.
+
+### 2026-11-05 | Agreed direction; provisional inventory | Future tests
+
+**Decision:** Maintain a Markdown [candidate pool](future-tests/candidate-pool.md) for possible future boundary tests, including the simpler tests suggested on 5 November and lines emerging from BT-01 through BT-05. Preserve **origin/provenance** as analytical data, documenting how proposals evolve rather than merely enumerating topics.
+
+**Selection preference:** Favour bounded tests that both evaluate the provisional map and help develop the chapter's argument about the body problem. This is a preference, not an entry criterion. The fourteen candidate questions, M/A assessments and difficulty estimates are **LLM proposals** pending selection, not collectively agreed questions. No additional test number, priority order or map alteration was agreed.
