@@ -84,7 +84,13 @@ Other possible lines include ethics as a transversal concern and traditions whic
 
 **Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
 
-## Current resumption position – 5 November 2026
+## Current position – 5 November 2026: BT-05 and candidate pool
+
+**BT-05 is provisionally concluded:** [ordinary bodily habit](boundary-tests/BT-05-ordinary-bodily-habit.md) fits principally within lived body / phenomenology. It shows descriptive usefulness rather than strong discriminatory power and foregrounds the role of practice in developing embodied capacities without implying greater degrees of embodiment.
+
+**Future work is a pool, not a sequence:** [candidate boundary tests](future-tests/candidate-pool.md) gathers fourteen proposed directions, with origins/provenance, provisional assessments of map-testing and chapter-argument contributions and likely scope. The preference is for bounded tests that do both, without making that an exclusion criterion. No BT-06 or other new test has been opened.
+
+## Historical resumption position – 5 November 2026: BT-04
 
 **BT-04 is provisionally concluded**, with an unresolved general question but a substantive conceptual finding. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md), the latest [decisions](decisions.md) and [Scott updates](scott%20updates.md). No map change or new active boundary test has been agreed.
 
@@ -132,6 +138,9 @@ To resume in another session: fetch the latest GitHub versions of this README, [
 - [Boundary test 01](boundary-tests/BT-01-relational-bodily-encounters.md)
 - [Boundary test 02](boundary-tests/BT-02-embodiment-without-experience.md)
 - [Boundary test 03 – question agreed](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md)
+- [Boundary test 04 – provisionally concluded](boundary-tests/BT-04-degrees-of-embodiment.md)
+- [Boundary test 05 – provisionally concluded](boundary-tests/BT-05-ordinary-bodily-habit.md)
+- [Future boundary-test candidate pool](future-tests/candidate-pool.md)
 - [Future test: somatic expertise](future-tests/somatic-expertise.md)
 - [Scott updates – brief session summaries](scott%20updates.md)
 - [Source inventory](sources/README.md)
