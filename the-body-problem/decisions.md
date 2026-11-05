@@ -154,3 +154,15 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Working presentation convention:** Explicitly name and characterise the map conception, identify the account and briefly explain its selection. Distinguish quotations and source-based claims from SE observations, LLM interpretations and agreed findings. Keep the enquiry finite and accept unresolved matters rather than extending questioning indefinitely.
 
 **Repository organisation:** Add a `quotes/` folder for one Markdown file per useful quotation with exact citation, location, context, verification status and relevance to a boundary test. Do not invent or silently verify quotation text. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and [quotes](quotes/README.md).
+
+### 2026-11-05 | Agreed provisional conclusion | BT-04
+
+**Decision:** Provisionally close BT-04. We have not established meaningful degrees of embodiment across disciplinary conceptions, nor established their impossibility. Retain the agreed distinction between degrees of embodiment and degrees of bodily involvement. The three conception-specific discussions are biological incorporation (Krieger 2005), lived body / phenomenology (Fraleigh 1987 as relevant scholarship, with SE's situated experiential proposal) and relationality / sense-making (Di Paolo and Thompson 2014; Di Paolo, Buhrmann and Barandiaran 2017). These references frame the accounts; the conclusion about degrees is an SE–LLM interpretation rather than the authors' stated position.
+
+**Third conception:** Relationality / sense-making was provocative in challenging the assumption that increasingly sophisticated sense-making entails greater embodiment, and useful in opening new possibilities for analysis. The comparison remains exploratory and less firmly supported by close source analysis than the earlier findings. No new map category, degree-scale or test was agreed.
+
+**Emergent distinction:** Transformations *within embodiment* need not constitute increases *in embodiment*. A dancer's increased sensitivity to a partner may change perception and response without demonstrating greater embodiment. Likewise, injury or disability may change capacities and experiences without implying less embodiment. These are conceptual examples, not empirical findings.
+
+**Deferred, without opening new tests:** (1) whether sense-making is one aspect of embodiment or relates to it differently; (2) further challenges to the idea of degrees, including injury and disability; (3) transformations within versus increases in embodiment; (4) conceptual or empirical tests. For the completed record and references, see [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md).
+
+**Writing convention:** Cite identifiable scholarship wherever it supports a claim, distinguish source claims from SE observations and LLM interpretations, and avoid the word 'particularly' in new prose.
