@@ -1,6 +1,6 @@
 # The body problem: research record
 
-Updated: 16 October 2026  
+Updated: 5 November 2026  
 Status: working record, not a finished chapter or settled taxonomy
 
 ## Purpose
@@ -84,7 +84,15 @@ Other possible lines include ethics as a transversal concern and traditions whic
 
 **Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
 
-## Current resumption point: BT-04 – 16 October 2026
+## Current resumption position – 5 November 2026
+
+**BT-04 is provisionally concluded**, with an unresolved general question but a substantive conceptual finding. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md), the latest [decisions](decisions.md) and [Scott updates](scott%20updates.md). No map change or new active boundary test has been agreed.
+
+Across biological incorporation, lived body / phenomenology and relationality / sense-making, we found no general basis to say that embodiment increases or decreases, but also did not establish that degrees are impossible. The third conception challenged the assumption that more sophisticated sense-making entails greater embodiment and opened new lines of enquiry. Distinguish *transformations within embodiment* from *increases in embodiment*: a dancer's developing sensitivity or changes following injury or disability need not imply becoming more or less embodied.
+
+**Parked, not active:** the relationship between sense-making and embodiment (including sense-making as one aspect of embodiment), the possibility of degrees and injury/disability counterexamples, transformations versus increases, and possible future tests. The section below dated 16 October remains as a historical resumption record, not the current instruction.
+
+## Historical resumption point: BT-04 – 16 October 2026
 
 **BT-04 is active, with two agreed provisional findings and a third comparison pending.** The 14 October pause below is retained for provenance but is superseded as a resumption instruction. Read [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and the latest entries in [decisions.md](decisions.md).
 
