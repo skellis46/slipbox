@@ -1,5 +1,21 @@
 # meeting-notes-sdh-se
 
+## 20261106 - online
+
+- forms of expression on the part of artists (based on the Trade Lit summaries and quotes) -- possibility of employing an LLM in considering this. Overlaps with [[BT-06-communicating-bodily-knowing]] and descriptions of embodied understandings
+- [ ] SE: in the BTs, make the summary more accessible to someone not in the middle of the process
+- talking about 'understandings' and I wondered about misunderstandings
+- continue with this scope/scale re embodiment? 
+- noting that the trade literature that these are all known artists. That this literature is a 'map of influence'
+- relative "illiteracy" in the field (which perhaps means dance is a culture of intergenerational forgetting)
+- [ ] SE: add original proposal to git repo (in markdown format)
+- idea of parallel 'thing' going on in SdH's work with TL -- might the proposal be re-written with that parallel thing in mind? 
+- swallowing the entire corpus of human literature 
+- idea of a lightweight narrative for what we've done so far (or multiple narratives)
+- avoiding need to find which of the TL has been part of training LLM models 
+- [ ] buy Lisa Nelson's new book: *Living in the Composition: On Dance as a way of Seeing – an introduction to Tuning Scores*
+- 
+
 ## 20261016 - grove court
 
 - how to formulate the constraints given the unfathomable quantity of materials 
