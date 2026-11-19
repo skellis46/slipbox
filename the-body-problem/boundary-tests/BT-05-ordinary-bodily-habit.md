@@ -3,6 +3,16 @@
 Status: **provisionally concluded – straightforward map fit**  
 Discussed and agreed: 5 November 2026
 
+## In brief
+
+*Background: Scott deLahunta and Simon Ellis have drawn a working map of the different ways researchers understand embodiment, the idea that our bodies shape how we experience, think and act. Each boundary test takes one example or question and asks whether the map can cope with it. Where it cannot, that may tell us something about the map or about the idea of embodiment.*
+
+You walk into a familiar room in the dark and reach straight for the light switch without thinking. Can the map describe an ordinary habit like this?
+
+**Result (provisional):** yes, easily, using the philosopher Maurice Merleau-Ponty's account of the body as lived and familiar with its world. Because the fit was so easy, the test shows the map is useful for describing things but did not challenge it much.
+
+**Also noted:** practice and repetition build bodily skills, but that does not mean someone becomes more embodied (see BT-04).
+
 ## Question
 
 Can the existing map adequately describe an ordinary bodily habit without requiring additional conceptual categories?

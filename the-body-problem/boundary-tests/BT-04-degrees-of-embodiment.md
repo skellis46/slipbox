@@ -1,7 +1,17 @@
 # BT-04: Degrees of embodiment
 
-Status: **active – two agreed provisional findings, third contrasting conception next**  
+Status: **provisionally concluded (5 November 2026)** – earlier status line updated 19 November 2026; see the provisional conclusion below  
 Opened: 14 October 2026
+
+## In brief
+
+*Background: Scott deLahunta and Simon Ellis have drawn a working map of the different ways researchers understand embodiment, the idea that our bodies shape how we experience, think and act. Each boundary test takes one example or question and asks whether the map can cope with it. Where it cannot, that may tell us something about the map or about the idea of embodiment.*
+
+Can something be more or less embodied? For example, does a dancer become *more* embodied through years of training? We looked at three different ideas of embodiment: as something absorbed into our biology over a lifetime, as the body we live and feel, and as an ongoing process of making sense of the world.
+
+**Result (provisional):** we found no general way to say that something is more or less embodied, but we did not show that it is impossible either. One co-author's experience suggests that growing bodily sensitivity can feel like becoming more embodied. This is recorded as a personal standpoint, not a general finding.
+
+**Key distinction:** a change *within* embodiment, such as a dancer becoming more sensitive or someone's body changing after injury, is not necessarily becoming more or less embodied.
 
 ## Provocation (not evidence or a theoretical position adopted for this test)
 

@@ -3,6 +3,16 @@
 Status: **agreed provisional outcome – poor fits retained**  
 Opened: 8 October 2026
 
+## In brief
+
+*Background: Scott deLahunta and Simon Ellis have drawn a working map of the different ways researchers understand embodiment, the idea that our bodies shape how we experience, think and act. Each boundary test takes one example or question and asks whether the map can cope with it. Where it cannot, that may tell us something about the map or about the idea of embodiment.*
+
+A 'passive dynamic walker' is a simple machine that walks down a slope by itself, powered only by gravity, with no motor, brain or sensors. Some researchers describe it as embodied. This test asks what idea of embodiment allows that, and what such an idea would leave out.
+
+**Result (provisional):** the map can include the walker under the idea that a body's physical shape and build shape what it can do. But the map's scale of biological levels, which runs from genes to social life, does not really apply to a machine.
+
+**Lesson:** an example does not have to fit every part of the map. Poor fits are worth recording, not hiding.
+
 ## Working question
 
 > What conception of embodiment makes it possible to describe the passive walker as embodied, and what might that conception exclude?

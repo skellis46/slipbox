@@ -2,6 +2,16 @@
 
 Status: open. Test question agreed, finding not settled.
 
+## In brief
+
+*Background: Scott deLahunta and Simon Ellis have drawn a working map of the different ways researchers understand embodiment, the idea that our bodies shape how we experience, think and act. Each boundary test takes one example or question and asks whether the map can cope with it. Where it cannot, that may tell us something about the map or about the idea of embodiment.*
+
+When two people are in physical contact, such as a practitioner examining a patient by touch, each may sense and understand the encounter differently. One of them may not even be aware of what is happening. This test asks whether the map can show those differences between people.
+
+Examples considered: pulse-taking in early Chinese medicine (as studied by the historian Elisabeth Hsu) and Feldenkrais hands-on lessons.
+
+**Status: open, no answer yet.** An early observation is that the map does not show *whose* sensing or understanding is in question. We have not decided whether that is a real problem or just a limit of how the map is drawn.
+
 ## Agreed question
 
 > Can the existing map accommodate relational bodily encounters in which sensing, sense-making and meaning may be differently constituted for each participant, including situations where these processes are asymmetrical or not consciously experienced?

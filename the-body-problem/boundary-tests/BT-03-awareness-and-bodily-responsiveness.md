@@ -3,6 +3,16 @@
 Status: **suspended – no agreed substantive finding**  
 Opened: 8 October 2026
 
+## In brief
+
+*Background: Scott deLahunta and Simon Ellis have drawn a working map of the different ways researchers understand embodiment, the idea that our bodies shape how we experience, think and act. Each boundary test takes one example or question and asks whether the map can cope with it. Where it cannot, that may tell us something about the map or about the idea of embodiment.*
+
+Some ideas of embodiment seem to require that a person is aware of what they are doing. Others do not, as the walking machine in BT-02 shows. This test asked whether the map can separate the two.
+
+**Status: suspended, no answer.** In discussion, the words *awareness*, *consciousness*, *attention* and *experience* kept sliding into one another, so no clear comparison was possible.
+
+**Lesson:** before using a word to compare different writers, check that they mean the same thing by it.
+
 ## Suspension – 14 October 2026 (agreed)
 
 **Status: suspended, with no agreed substantive finding.** The four-text enquiry drifted from awareness towards consciousness, conscious experience, deliberate attention and articulation. We cannot presently draw defensible conclusions about awareness or its capacity to discriminate between conceptions of embodiment. The question of whether awareness lies beyond this map's scope remains open rather than established.
