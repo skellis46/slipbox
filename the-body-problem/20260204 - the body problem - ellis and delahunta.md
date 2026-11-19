@@ -1,0 +1,12 @@
+# The body problem
+
+- Simon Ellis and Scott deLahunta
+- chapter proposal for _Embodiment and Dance: A Reader on Somatic Thinking, Practice and Research_
+
+This chapter addresses the concept of _embodiment_ in two parts: first, an overview of how the term operates across a selection of disciplines where embodiment plays a clear role; second, an articulation of what we describe as _the body problem_ – the paradoxical status of the body as both foundational to human experience and persistently difficult to articulate, evidence or value within dominant knowledge systems.
+
+Part I traces the diverse and often conflicting uses of "embodiment" across a selection of disciplines including phenomenology, cognitive science, robotics, anthropology, feminist and disability studies and dance and somatics research. Across these "embodiment" appears variously as lived experience, biological substrate, hardware, relational process, cultural inscription, methodological stance, and metaphorical shorthand. This section traces points of convergence – particularly around situated, relational and non-representational accounts of knowing – alongside persistent fractures concerning language, evidence, generalisability and the status of practice as knowledge.
+
+Part II introduces _the body problem_ as a way of naming a central paradox. If, paraphrasing Pascal, there are "two equally dangerous extremes: to exclude the body, or to admit nothing but the body", then debates about embodiment frequently oscillate between these poles. On one side, bodily experience is marginalised by abstract, linguistic or computational models of knowledge. On the other, appeals to "the body" risk becoming vague, mystified or insulated from critique, leaving bodily knowing asserted rather than articulated.
+
+Practices of dance bring this paradox into sharp relief. They render bodily intelligence unmistakably present – through perception, timing, affect and relational attunement – while simultaneously exposing the limits of existing conceptual and evaluative frameworks. Dance does not resolve the body problem; it makes it visible. In this chapter we argue that this tension should not be treated as a failure to explain embodiment, but as a productive condition that demands new ways of thinking, researching and writing with and through bodily practices.
