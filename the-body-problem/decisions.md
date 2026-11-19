@@ -190,3 +190,23 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Connection to the body problem:** The test raises whether the difficulty of communicating bodily knowing reflects the assumption that knowledge must be detachable from the activities in which it develops. This remains an interpretative possibility, not an established result about inexpressibility or the inadequacy of propositions.
 
 **Boundary and provenance:** The question evolved from knowing how to perform versus describe a movement (candidate C03), through description as one part of communication, into the distinction between transmitting knowledge and establishing conditions for learning (related to C06). SE introduced robotics and machine learning as a challenge to an overly human-to-human account. That comparison was parked as a separate [candidate C15](future-tests/candidate-pool.md) to avoid shifting BT-06 into a general account of machine learning or what constitutes knowledge. No finding about robotic knowledge, experience or the equivalence of learning processes was agreed.
+
+### 2026-11-19 11:43 GMT | Agreed | C07 split and BT-07 opened
+
+**Decision:** Split candidate C07 into **C07a** (whether the evidence and knowledge modes can represent kinds of knowing in relation to their evidence) and **C07b** (whether the map as a whole presumes propositional knowledge as the norm). Whether they remain one line depends on literature and cases. A C07a result must not be treated as answering C07b.
+
+**BT-07 opened from C07a.** Exact question: "Can the map's evidence and knowledge modes represent Nelson's relation between modes of knowing and their evidence, including his treatment of praxis as both knowing and primary evidence?" Outcome criteria (fit, representational limitation, conceptual boundary) were agreed **before** placement to limit post hoc interpretation. See [BT-07](boundary-tests/BT-07-knowing-and-evidence.md).
+
+**Sources:** Nelson (2022) is the single primary source, preferred to the 2013 edition. Borgdorff (2012) is recorded as a named challenge to BT-07's premise, linked to C07b. Pakes (2003, 2009) is a candidate source for C07b. Initial revision: an LLM claim that Nelson separates kinds of knowing from evidence was corrected; Nelson relates them and treats praxis as both. No placement, finding or map change.
+
+### 2026-11-19 12:38 GMT | Agreed findings; proposed map change | BT-07
+
+**Two-stage method agreed:** place Nelson (2022) against the current map, then against a proposed revised key, to avoid confirming a revision made in anticipation of the test.
+
+**Stage 1 finding (agreed):** a conceptual boundary. The dimension title "type of evidence or knowledge" can suggest evidence and knowledge are the same; the map cannot hold praxis as both. Know-what is strained and convergence cannot be shown. The test also exposed contested wording in the practice marker. The problems belong to our LLM-assisted construction of the map.
+
+**Proposed map change (SE; not agreed with SdH):** title → "How claims are investigated and supported"; pentagon → "practice-based".
+
+**Stage 2 finding (agreed):** the revision removes the conceptual boundary, but Nelson's kinds of knowing then have no place on this dimension or elsewhere on the map. This is not a C07b finding.
+
+**Provenance recorded:** the six modes were devised with an LLM; an LLM summary of their development is secondary and partly corrected by SE. Several LLM claims were withdrawn. See [BT-07](boundary-tests/BT-07-knowing-and-evidence.md). BT-07 is not yet provisionally concluded.

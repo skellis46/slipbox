@@ -6,7 +6,7 @@ This is a source inventory only. The original PDF, map images and proposal DOCX 
 
 - Simon Ellis and Scott deLahunta, *The body problem*, chapter proposal, 4 February 2026. Original file: `20260204 - the body problem - ellis and delahunta.docx`.
 - Lux, V., Non, A. L., Pexman, P. M., Stadler, W., Weber, L. A. E. and Krüger, M. (2021). 'A Developmental Framework for Embodiment Research: The Next Step Toward Integrating Concepts and Methods.' *Frontiers in Systems Neuroscience*, 15, 672740. https://doi.org/10.3389/fnsys.2021.672740. Original: `lux-2021-developmental.pdf`.
-- Two original map images: `embodiment_map_multidimensional(1).png` and `embodiment_map_simpler(1).png`. These are working maps, not figures from Lux et al.
+- Two original map images: `embodiment_map_multidimensional(1).png` and `embodiment_map_simpler(1).png`. These are working maps, not figures from Lux et al. Only the seven levels derive from Lux et al.; the six evidence / knowledge modes were devised with an LLM, and the reference set began with Lux's citations before being expanded (SE, 19 November 2026; see [BT-07](../boundary-tests/BT-07-knowing-and-evidence.md)).
 
 ## Boundary test 01
 

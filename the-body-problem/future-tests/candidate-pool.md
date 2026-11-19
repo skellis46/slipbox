@@ -35,6 +35,10 @@ The `Origin / provenance` column is part of the analysis, not just an archival n
 - **C03 and C06:** These lines led to [BT-06](../boundary-tests/BT-06-communicating-bodily-knowing.md). The enquiry shifted from performing versus verbally describing movement, to *description* as one form of communication, then to communicating information versus cultivating practical knowing through guided participation. **BT-06 is provisionally concluded**. Retain the original entries above to preserve provenance. More general questions about kinds of knowing and articulation remain outside the bounded finding.
 - **New candidate C15 – Human and machine communication of skilled action:** SE asked whether the 'person-to-person' formulation wrongly excludes robots. What differences emerge when instructions, demonstrations or feedback shape skilled action in humans and robotic systems? This could revisit the map's bodily constraint / affordance category and BT-02, but must not assume that human apprenticeship, robot programming and machine learning are equivalent. **Origin:** BT-06 discussion, 5 November 2026. **M:** Yes (provisional). **A:** Possible. **Likely scope:** Demanding. **Status:** Parked, unnumbered. Not part of the BT-06 finding.
 
+## Updates to candidate provenance – 19 November 2026
+
+- **C07 split (agreed):** **C07a** asks whether the evidence and knowledge modes can represent kinds of knowing in relation to their evidence (source: Nelson 2022). C07a became [BT-07](../boundary-tests/BT-07-knowing-and-evidence.md). **C07b** asks whether the map as a whole presumes propositional knowledge as the norm (candidate sources: Pakes 2003, 2009; Borgdorff 2012 as challenge). C07b remains parked and unnumbered. A BT-07 result must not be treated as answering C07b.
+
 ## Other open lines, not yet bounded into candidates
 
 - Ethics and moral concern as transversal questions rather than an automatic additional axis (project-wide; some quotation notes).
@@ -61,4 +65,5 @@ The `Origin / provenance` column is part of the analysis, not just an archival n
 - [BT-04](../boundary-tests/BT-04-degrees-of-embodiment.md) – provisionally concluded
 - [BT-05](../boundary-tests/BT-05-ordinary-bodily-habit.md) – provisionally concluded
 - [BT-06](../boundary-tests/BT-06-communicating-bodily-knowing.md) – provisionally concluded
+- [BT-07](../boundary-tests/BT-07-knowing-and-evidence.md) – open
 - [Decisions log](../decisions.md)

@@ -1,5 +1,21 @@
 # scott updates
 
+## 19 November 2026, 12:38 GMT – BT-07 findings and a proposed change to the map key
+
+- **Provenance:** Only Lux's seven levels come from Lux et al. The six evidence / knowledge modes were devised with an LLM; the reference set began with Lux's citations.
+- **Stage 1 (current map):** Nelson's model does not fit. "Type of evidence or knowledge" can read as if evidence and knowledge are the same, so practice cannot be shown as both. Reflection (know-what) is awkward and the modes cannot be shown working together.
+- **Proposed change, needs your view:** dimension title → "How claims are investigated and supported"; "practice-based or pedagogical knowledge" → "practice-based".
+- **Stage 2 (revised key):** the equation of evidence and knowledge disappears, but kinds of knowing then have no place anywhere on the map.
+- **Status:** Findings agreed; BT-07 not yet closed. [Record](boundary-tests/BT-07-knowing-and-evidence.md).
+
+## 19 November 2026, 11:43 GMT – BT-07 opened
+
+- **Selection:** Candidate C07 (kinds of knowing) was split. C07a tests one map dimension; C07b asks whether the whole map presumes propositional knowledge. Only C07a is active, as BT-07.
+- **Question:** Can the map's evidence and knowledge modes represent Nelson's relation between modes of knowing and their evidence, including praxis as both knowing and primary evidence?
+- **Method change:** Fit, representational limitation and conceptual boundary were defined **before** placement, to reduce interpretive wriggle room.
+- **Sources:** Nelson (2022) is primary. Borgdorff (2012) is a named challenge: perhaps "kinds of knowing" is already the wrong frame. Pakes (2003, 2009) is held for C07b.
+- **Status:** No placement or finding yet. [Record](boundary-tests/BT-07-knowing-and-evidence.md).
+
 ## 5 November 2026 – BT-06 provisionally concluded
 
 - **BT-06:** The map accommodates different ways bodily knowing is communicated, including verbal description, demonstration and guided participation. An illustrative baker teaching dough-kneading supplied a bounded example outside dance.

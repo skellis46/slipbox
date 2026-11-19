@@ -1,6 +1,6 @@
 # The body problem: research record
 
-Updated: 5 November 2026  
+Updated: 19 November 2026  
 Status: working record, not a finished chapter or settled taxonomy
 
 ## Purpose
@@ -84,7 +84,13 @@ Other possible lines include ethics as a transversal concern and traditions whic
 
 **Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
 
-## Current position – 5 November 2026: BT-06 provisionally concluded
+## Current position – 19 November 2026: BT-07 open
+
+[BT-07: Kinds of knowing and their evidence](boundary-tests/BT-07-knowing-and-evidence.md) is open, with an agreed question and outcome criteria but no placement or finding. It derives from C07a after C07 was split; C07b is parked. Nelson (2022) is the primary source; Borgdorff (2012) is a named challenge. The section below is now historical.
+
+**State correction:** BT-03 is **suspended** without a finding (14 October), although the 8 October state list above still describes it as having only an agreed question.
+
+## Historical position – 5 November 2026: BT-06 provisionally concluded
 
 [BT-06: Communicating bodily knowing](boundary-tests/BT-06-communicating-bodily-knowing.md) is provisionally concluded. The map can accommodate verbal instruction, demonstration and guided participation, but does not directly distinguish **transmitting information** from **cultivating practical knowing**. Ingold (2001, 2013) was used as the conceptual account and learning to knead dough as an illustrative non-dance example. This is a representational limitation, not a demonstrated conceptual failure or reason to edit the map.
 
@@ -147,6 +153,7 @@ To resume in another session: fetch the latest GitHub versions of this README, [
 - [Boundary test 04 – provisionally concluded](boundary-tests/BT-04-degrees-of-embodiment.md)
 - [Boundary test 05 – provisionally concluded](boundary-tests/BT-05-ordinary-bodily-habit.md)
 - [Boundary test 06 – provisionally concluded](boundary-tests/BT-06-communicating-bodily-knowing.md)
+- [Boundary test 07 – open](boundary-tests/BT-07-knowing-and-evidence.md)
 - [Future boundary-test candidate pool](future-tests/candidate-pool.md)
 - [Future test: somatic expertise](future-tests/somatic-expertise.md)
 - [Scott updates – brief session summaries](scott%20updates.md)
