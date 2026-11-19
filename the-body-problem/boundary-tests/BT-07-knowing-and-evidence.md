@@ -91,6 +91,6 @@ The conceptual-boundary reading is SE's ("as if they are somehow the same thing.
 
 ## Still open
 
-- Whether BT-07 is provisionally concluded.
+- Whether BT-07 is provisionally concluded: agreed 19 November 2026 to keep it open until SdH responds to the proposed key change.
 - SdH's agreement to the proposed key change.
 - Verification of Nelson (2022) quotations against a legitimate copy, with page numbers.

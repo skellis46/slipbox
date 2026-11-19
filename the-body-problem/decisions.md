@@ -210,3 +210,7 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 **Stage 2 finding (agreed):** the revision removes the conceptual boundary, but Nelson's kinds of knowing then have no place on this dimension or elsewhere on the map. This is not a C07b finding.
 
 **Provenance recorded:** the six modes were devised with an LLM; an LLM summary of their development is secondary and partly corrected by SE. Several LLM claims were withdrawn. See [BT-07](boundary-tests/BT-07-knowing-and-evidence.md). BT-07 is not yet provisionally concluded.
+
+### 2026-11-19 12:46 GMT | Agreed | BT-07
+
+**Decision:** BT-07 stays **open** until SdH responds to the proposed change to the map key. Both stage findings stand. Provisional closure will be decided after that response.
