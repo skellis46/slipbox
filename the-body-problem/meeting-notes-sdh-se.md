@@ -8,7 +8,7 @@
 - continue with this scope/scale re: embodiment? **yes for now** 
 - noting that the trade literature that these are all known artists. That this literature is a 'map of influence'. **yes** I think this connects to the [trade_literature](analogue_trade/trade_literature.md) description.
 - relative "illiteracy" in the field (which perhaps means dance is a culture of intergenerational forgetting) **let's discuss 'what you bring into the room' interviews at the MRL in Amsterdam. Not sure it is "illiteracy" but something**.
-- [ ] SE: add original proposal to git repo (in markdown format) **DONE**
+- [x] SE: add original proposal to git repo (in markdown format) **DONE**
 - idea of parallel 'thing' going on in SdH's work with TL -- might the proposal be re-written with that parallel thing in mind? 
 - swallowing the entire corpus of human literature 
 - idea of a lightweight narrative for what we've done so far (or multiple narratives) **I think I may start on this tomorrow morning**
