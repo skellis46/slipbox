@@ -146,6 +146,7 @@ To resume in another session: fetch the latest GitHub versions of this README, [
 
 ## Working files
 
+- [To do – current working list](todo.md)
 - [Decisions and open questions](decisions.md)
 - [Boundary test 01](boundary-tests/BT-01-relational-bodily-encounters.md)
 - [Boundary test 02](boundary-tests/BT-02-embodiment-without-experience.md)

@@ -3,7 +3,7 @@
 ## 20261106 - online (**edited** by Scott 20261119)
 
 - **published** forms of expression on the part of artists captured in Trade Lit cover blurbs [document](analogue_trade/TL_jacket_cover_blurbs.md). Possibility of employing an LLM in considering this. Overlaps with [BT-06-communicating-bodily-knowing](boundary-tests/BT-06-communicating-bodily-knowing.md) and descriptions of embodied understandings.
-- [ ] SE: in the BTs, make the summary more accessible to someone not in the middle of the process
+- [x] SE: in the BTs, make the summary more accessible to someone not in the middle of the process **DONE 19 Nov**
 - talking about 'understandings' and I wondered about misunderstandings
 - continue with this scope/scale re: embodiment? **yes for now** 
 - noting that the trade literature that these are all known artists. That this literature is a 'map of influence'. **yes** I think this connects to the [trade_literature](analogue_trade/trade_literature.md) description.
