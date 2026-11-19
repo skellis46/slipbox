@@ -4,7 +4,7 @@ Brief session summaries for Simon. Add each new dated entry **above** earlier en
 
 ## 19 November 2026, 09:08 BST – update on TL Quotes including from before last on line meeting (6 November 2026)
 
-- **updated meeting notes from 6 November on line meeting:** see [these notes](the-body-problem/meeting-notes-sdh-se.md).
+- **updated meeting notes from 6 November on line meeting:** see [these notes](meeting-notes-sdh-se.md).
  - **converted spreadsheet to just a list:** decided to get rid of the random quote from inside the publication and just keep the "blurb" and converted the spreadsheet just to this list   [document](analogue_trade/TL_jacket_cover_blurbs.md). This seems more pertinent to the exercise of trying to understand the implications of this TL in the context of this chapter.
  - **selecting quotes from TL:** took pictures of jacket cover blurbs and a selection of some text from the content inside the book. converted to text and cut and paste into spreadsheet, adjusting the columns. Did this with ten publications, then converted to .md spreadsheet file and uploaded to GitHub Analogue Trade folder 
 
