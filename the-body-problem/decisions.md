@@ -214,3 +214,7 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 ### 2026-11-19 12:46 GMT | Agreed | BT-07
 
 **Decision:** BT-07 stays **open** until SdH responds to the proposed change to the map key. Both stage findings stand. Provisional closure will be decided after that response.
+
+### 2026-11-19 12:52 GMT | Agreed | Future tests (C09)
+
+**Decision:** Record Mehling et al.'s (2011) claim that training in noticing 'leads to embodiment and integration' as a [quotation note](quotes/mehling-2011-practice-leads-to-embodiment.md), with its connections to BT-04, BT-05, BT-06, C08 and C09. Mark C09 as a possible future boundary test with Mehling as source. The proposed question is not agreed and no test is opened. The quotation is not yet verified against the article.

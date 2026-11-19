@@ -39,6 +39,8 @@ The `Origin / provenance` column is part of the analysis, not just an archival n
 
 - **C07 split (agreed):** **C07a** asks whether the evidence and knowledge modes can represent kinds of knowing in relation to their evidence (source: Nelson 2022). C07a became [BT-07](../boundary-tests/BT-07-knowing-and-evidence.md). **C07b** asks whether the map as a whole presumes propositional knowledge as the norm (candidate sources: Pakes 2003, 2009; Borgdorff 2012 as challenge). C07b remains parked and unnumbered. A BT-07 result must not be treated as answering C07b.
 
+- **C09 – possible source identified (19 November 2026):** Mehling et al. (2011) claim that training in noticing, differentiating and discerning 'leads to embodiment and integration' ([quotation note](../quotes/mehling-2011-practice-leads-to-embodiment.md)). This supplies the new case C09 required. **Proposed question, not agreed:** Can the map accommodate an account in which embodiment is an achievement of practice rather than a condition, without collapsing BT-04's distinction? Check first whether Mehling's normative use of 'embodiment' is comparable with ours (BT-03 lesson), and whether 'embodiment' is the authors' gloss on practitioners' talk of 'integration' ([p. 6 passage](../quotes/mehling-2011-differentiated-noticing.md)). Also bears on BT-04, BT-05 (lived body as least integrated stage), BT-06 and C08. **Status:** marked as a possible future BT; not numbered or active.
+
 ## Other open lines, not yet bounded into candidates
 
 - Ethics and moral concern as transversal questions rather than an automatic additional axis (project-wide; some quotation notes).
