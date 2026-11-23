@@ -14,11 +14,11 @@ key questions from the session:
 
 3\. How does the (seems possible) devaluing of written, published texts from academic/ scientific disciplines connect to this. What does this mean for Dance's Trade Literature (not sure yet)
 
-4\. What is that dizziness for Scott. How does he account for that feeling, where is it coming from? Is there any research or writing out there that resonates with this? (see reference in [narrative](analogue_trade/The Body Problem in a Nutshell.md))
+4\. What is that dizziness for Scott. How does he account for that feeling, where is it coming from? Is there any research or writing out there that resonates with this? (see reference in [narrative](/analogue_trade/The Body Problem in a Nutshell.md).
 
 5\. We agreed on the format of this outcome: text, diagrams, drawings. The challenge will be accounting for this non-propositional space differently but still materialised visually
 
-6\. I started to go through my notes and yours and started on this [narrative](analogue_trade/The Body Problem in a Nutshell.md). All your notes and any additional thoughts are more or less all accounted for in it.
+6\. I started to go through my notes and yours and started on this [narrative](/analogue_trade/The Body Problem in a Nutshell.md). All your notes and any additional thoughts are more or less all accounted for in it.
 
 **Simon:**
 
