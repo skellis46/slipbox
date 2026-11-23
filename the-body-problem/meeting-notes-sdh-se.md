@@ -1,5 +1,50 @@
 # meeting-notes-sdh-se
 
+## 20261120 - online
+
+**Scott:**
+
+key questions from the session:
+
+1\. How to account for this new form of researching, writing, reading, thinking practice when engaging with Large Language Models?
+
+(This could include the question: What is happening for Simon when the LLM seems to be "drifting away". How does he know?)
+
+2\. How is this now (if we agree that it is) The Body Problem in a Nutshell? And how do we best refer to this "cognitive" work (propositionalising?) LLM tools are doing.
+
+3\. How does the (seems possible) devaluing of written, published texts from academic/ scientific disciplines connect to this. What does this mean for Dance's Trade Literature (not sure yet)
+
+4\. What is that dizziness for Scott. How does he account for that feeling, where is it coming from? Is there any research or writing out there that resonates with this? (see reference in narrative)
+
+5\. We agreed on the format of this outcome: text, diagrams, drawings. The challenge will be accounting for this non-propositional space differently but still materialised visually
+
+6\. I started to go through my notes and yours and started on this narrative. All your notes and any additional thoughts are more or less all accounted for in it.
+
+**Simon:**
+
+- how to make these notes readable to a third party (SdH)
+- clarify the pronouns -- who is being addressed, who is writing
+- could we use SdH's dizzyness to come up with other cases -- "analogue piercings" (as groundings)
+- language is not the main way which people express the things they know
+- vertigo and LLMs ... the lack of "who" is fascinating ... there is no 'who' for LLM generated material
+- how I am working is not clear from the text -- and this needs to happen 
+- paradox: SdH not wanting to associate the methods with a person, yet discombobulated by the lack of a 'who' in the LLMs
+- the importance of CQ -- as TL that has resisted the academy 
+- relentlessly tangible nature of the books and the body -- vs riding the LLM wild horse with no saddle 
+- LLM drift -- implies that I understand or know something. 
+- SdH "I'm not surprised that I stumble across Mark Johnson"
+- the value of the material object is seeping away. 
+- Johnson talks about non propositional understanding in propositional ways
+- what's new here for you Scott? (certainly the experience of the dizzyness is new)
+- rhetorical talent to Ingold of the non-propositional through the propositional
+- that the method here is a formulation of the body problem ... 
+- hyper-propositional language models
+- material object -- and the need
+- any book being published on embodiment has to account for this -- this transition into a space ... or practicing writing, practicing reading and linking those to non-propositional experiences has to try and accommodate what appears to be a shift in the value of using words
+- the body is missing / the shrinking body / 
+- to account for this non-propositional space differently. something printable/written/diagrams -- that is materialised visually. 
+- language/words as a constraint for the problem, not something to be bypassed. 
+
 ## 20261106 - online (**edited** by Scott 20261119)
 
 - **published** forms of expression on the part of artists captured in Trade Lit cover blurbs [document](analogue_trade/TL_jacket_cover_blurbs.md). Possibility of employing an LLM in considering this. Overlaps with [BT-06-communicating-bodily-knowing](boundary-tests/BT-06-communicating-bodily-knowing.md) and descriptions of embodied understandings.
