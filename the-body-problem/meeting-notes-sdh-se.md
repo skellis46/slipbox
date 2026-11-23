@@ -14,7 +14,7 @@ key questions from the session:
 
 3\. How does the (seems possible) devaluing of written, published texts from academic/ scientific disciplines connect to this. What does this mean for Dance's Trade Literature (not sure yet)
 
-4\. What is that dizziness for Scott. How does he account for that feeling, where is it coming from? Is there any research or writing out there that resonates with this? (see reference in [narrative](analogue_trade/The_Body_Problem_in_a_Nutshell.md).
+4\. What is that dizziness for Scott. How does he account for that feeling, where is it coming from? Is there any research or writing out there that resonates with this? (see reference in [narrative](analogue_trade/The_Body_Problem_in_a_Nutshell.md)).
 
 5\. We agreed on the format of this outcome: text, diagrams, drawings. The challenge will be accounting for this non-propositional space differently but still materialised visually
 
