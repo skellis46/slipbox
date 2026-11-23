@@ -16,13 +16,13 @@ _Trade literature is a category of publication written by someone with knowledge
 1. This material has been published with the intention to share dance artist processes, methods, techniques and ideas or concepts.
 2. Through practice (training, rehearsing, creating and performing) dance artists acquire a high level of bodily knowledge, expertise or intelligence.
 3. Much of what is known by a dance artist cannot be expressed in explicit terms, therefore is not explicitly accessible in these publications.
-4. That there is something intrinsically and particularly human (and maybe ethical) harboured in dance practice. ([see Fechtel quote](quotes/fechtel-2025-body-as-limit-of-moral-concern.md))
+4. That there is something intrinsically and particularly human (and maybe ethical) harboured in dance practice. ([see Fechtel quote](/quotes/fechtel-2025-body-as-limit-of-moral-concern.md))
 
 **Questions**
 
 1. To what extent does this material communicate the experiential knowledge acquired through dancing and to whom?
 2. What is the importance of design in the creation of these publications?
-3. How can/ can dance artists be considered embodiment experts? or animacy experts ([see Ingold quote](quotes/ingold-2013-animacy-against-embodiment-as-enclosure.md))
-4. Does one need to engage in a bodily practice like dance so that these materials can be understood? Would Zen meditation suffice ([see Dillo quote](quotes/dillo-2022-zen-meditation-embodied-transformation.md))
+3. How can/ can dance artists be considered embodiment experts? or animacy experts ([see Ingold quote](/quotes/ingold-2013-animacy-against-embodiment-as-enclosure.md))
+4. Does one need to engage in a bodily practice like dance so that these materials can be understood? Would Zen meditation suffice ([see Dillo quote](/quotes/dillo-2022-zen-meditation-embodied-transformation.md))
 5. Does understanding mean that this bodily knowledge has been accessed/ acquired?
 6. How is this knowledge to be put to use if not for the purpose of dance?
