@@ -27,7 +27,7 @@ Heading format: `YYYY-MM-DD HH:mm GMT/BST | Type | Status | Scope`. Where the ti
 
 ### 2026-11-26 12:35 GMT | Convention | Agreed (SE) | Project-wide
 
-**README split:** the README becomes a short "start here" file: what the project is, where to look, what to do at the end of a session, which file is for what, and the conventions. The project's thinking (purpose, maps, premises, distinctions, method) and the current position move to [current-summary.md](current-summary.md), updated by SE at the end of each working session. The summary gives a snapshot of where things stand; the updates files record what has changed since last time. `scott updates.md` and `simon updates.md` were renamed `updates for SdH.md` and `updates for SE.md`.
+**README split:** the README becomes a short "start here" file: what the project is, where to look, what to do at the end of a session, which file is for what and the conventions. The project's thinking (purpose, maps, premises, distinctions, method) and the current position move to [current-summary.md](current-summary.md), updated by SE at the end of each working session. The summary gives a snapshot of where things stand; the updates files record what has changed since last time. `scott updates.md` and `simon updates.md` were renamed `updates for SdH.md` and `updates for SE.md`.
 
 *Entry written by LLM (Claude) at SE's request.*
 

@@ -6,7 +6,7 @@ Updated: 26 November 2026
 
 ## Purpose
 
-This folder records the development of a chapter by Simon Ellis and Scott deLahunta for *Embodiment and Dance: A Reader on Somatic Thinking, Practice and Research*. The chapter proposal has two parts: a cross-disciplinary examination of conceptions of embodiment and an articulation of **the body problem** – the body is central to experience but difficult to articulate, evidence or value within dominant knowledge systems. Dance makes the tension visible rather than resolving it.
+This folder records the development of a chapter by SE and SdH for *Embodiment and Dance: A Reader on Somatic Thinking, Practice and Research*. The chapter proposal has two parts: a cross-disciplinary examination of conceptions of embodiment and an articulation of **the body problem** – the body is central to experience but difficult to articulate, evidence or value within dominant knowledge systems. Dance makes the tension visible rather than resolving it.
 
 Our immediate focus is not adding references to the existing maps. It is establishing what their boundaries might be and testing these boundaries against specific examples.
 

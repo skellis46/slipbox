@@ -1,5 +1,7 @@
 # updates for SdH
 
+Brief session summaries for SdH. Entries from 8 October to 5 November 2026 were written by LLM (ChatGPT) and from 19 November by LLM (Claude); on 26 November 2026 their pronouns were made consistent with the convention. Each new dated entry goes **above** earlier entries; times are UK local time and refer to when the summary was recorded.
+
 ## 26 November 2026, 13:00 GMT – the record reorganised for legibility
 
 *Written by LLM (Claude) for SE. For information; nothing here needs your approval.*
@@ -46,21 +48,19 @@
 
 ## 5 November 2026 – BT-04 provisionally concluded
 
-- **Status:** BT-04 is provisionally closed. We did not establish a general scale of embodiment or demonstrate that degrees are impossible; no map change was agreed.
-- **Three conceptions:** Biological incorporation (Krieger 2005), lived body / phenomenology (Fraleigh 1987, with SE's situated experiential proposal) and relationality / sense-making (Di Paolo and Thompson 2014; Di Paolo, Buhrmann and Barandiaran 2017). Source claims remain distinct from our interpretations.
+- **Status:** BT-04 is provisionally closed. SE and LLM (ChatGPT) did not establish a general scale of embodiment or demonstrate that degrees are impossible; no map change was agreed.
+- **Three conceptions:** Biological incorporation (Krieger 2005), lived body / phenomenology (Fraleigh 1987, with SE's situated experiential proposal) and relationality / sense-making (Di Paolo and Thompson 2014; Di Paolo, Buhrmann and Barandiaran 2017). Source claims remain distinct from their interpretations.
 - **Third conception:** Relationality / sense-making challenged the assumption that more sophisticated sense-making means more embodiment and opened further analytical possibilities, but the comparison was exploratory.
 - **Key distinction:** A transformation *within embodiment* is not necessarily an *increase in embodiment*. Growing sensitivity between dancers, or changes following injury or disability, may transform experience and capacity without licensing a more/less embodied judgement.
-- **Parked:** The relationship between embodiment and sense-making, objections to degrees, transformations versus increases, and future conceptual or empirical tests. None is a newly active test.
-- **References and full finding:** See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and the dated entry in [lab-book.md](lab-book.md).
-
-Brief session summaries for Scott. Add each new dated entry **above** earlier entries; times are UK local time and refer to when the summary was recorded.
+- **Parked:** The relationship between embodiment and sense-making, objections to degrees, transformations versus increases and future conceptual or empirical tests. None is a newly active test.
+- **References and full finding:** See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md).
 
 ## 16 October 2026, 15:57 BST – BT-04 findings and quotation notes
 
-- **BT-04 is ongoing:** We agreed that it is worth examining possible degrees of embodiment within particular conceptions, even without a universal definition or comparable scale. Distinguishing embodiment from the amount of bodily involvement remains essential.
-- **Biological incorporation – agreed provisional finding:** Changes in bodily organisation, capacities and experience across time are describable, and a connection with degrees of embodiment is conceivable, but we lack grounds for determining or even understanding such degrees within this conception.
+- **BT-04 is ongoing:** SE and LLM (ChatGPT) agreed that it is worth examining possible degrees of embodiment within particular conceptions, even without a universal definition or comparable scale. Distinguishing embodiment from the amount of bodily involvement remains essential.
+- **Biological incorporation – agreed provisional finding:** Changes in bodily organisation, capacities and experience across time are describable, and a connection with degrees of embodiment is conceivable, but they lack grounds for determining or even understanding such degrees within this conception.
 - **Lived body / phenomenology – agreed provisional finding:** SE's account of forty years of dancing and sustained somatic attention suggests that cultivated bodily sensitivity can meaningfully be called increased embodiment. The equivalence is situated and has not been established across phenomenological accounts; deliberate attention and habitual sensitivity remain open questions.
-- **Method:** We agreed to keep each conception-specific comparison finite, separate SE's experiential contributions from LLM interpretations and source claims, and accept unresolved issues rather than continuing endless questions.
+- **Method:** SE and LLM (ChatGPT) agreed to keep each conception-specific comparison finite, separate SE's experiential contributions from LLM interpretations and source claims, and accept unresolved issues rather than continuing endless questions.
 - **Next BT-04 step:** Select and examine one third contrasting conception from the existing map, with an identifiable author or account and a bounded provisional finding. Then assess the three comparisons together; no new category or completed overall BT-04 finding is claimed.
 - **Quotations:** Created a [quotes collection](quotes/about-quotes.md) with one Markdown note per quotation, including source details, verification status, context and potential relevance. Nine notes have been added: Dillo, Taft, Mehling (two), Lux (two), Seth and Tsakiris, Ingold and Fechtel.
 - **Emerging threads, not decisions:** The quotations bring practice-based development, basic embodied selfhood, the breadth of Lux's framework, Ingold's critique of embodiment and the ethical limits of bodily self-concern into view. These have not changed the agreed BT-04 findings.
@@ -75,18 +75,18 @@ Brief session summaries for Scott. Add each new dated entry **above** earlier en
 
 ## 14 October 2026
 
-- We agreed to examine BT-03 through two strands: whether awareness distinguishes conceptions of embodiment and what the comparison reveals about their underlying assumptions.
+- SE and LLM (ChatGPT) agreed to examine BT-03 through two strands: whether awareness distinguishes conceptions of embodiment and what the comparison reveals about their underlying assumptions.
 - Four candidate accounts were explored, but the enquiry drifted between awareness, consciousness, conscious experience and attention.
 - **BT-03 is suspended without a finding.** The possible equivalence of awareness and consciousness remains open for later investigation.
 - Methodological lesson: check that a proposed distinguishing concept is comparable across sources before testing it. The maps remain provisional, with Lux et al. an exploratory starting point rather than a binding framework.
 
 ## 8 October 2026, 15:43 BST
 
-- We continued testing the boundaries of our provisional embodiment maps rather than adding more literature or categories.
-- We agreed that poor fits or 'failure points' are useful results. An account need not fit every map dimension.
+- SE and LLM (ChatGPT) continued testing the boundaries of the provisional embodiment maps rather than adding more literature or categories.
+- SE and LLM (ChatGPT) agreed that poor fits or 'failure points' are useful results. An account need not fit every map dimension.
 - **BT-01, relational bodily encounters:** the question about asymmetrical sensing, sense-making and meaning is agreed, but the finding remains open.
 - **BT-02, passive dynamic walking:** a nonliving walker's bodily organisation and environmental coupling can generate gait without subjective experience being necessary to that conception of embodiment.
 - The walker fits **bodily constraint / affordance** but not neatly Lux's biological levels. This is an agreed provisional outcome, not a reason to change the map.
 - **BT-03, awareness:** agreed question – **Can the map distinguish conceptions of embodiment for which awareness is necessary from those for which it is not?** No finding yet.
-- Awareness may be equivalent to consciousness, but this is unresolved. We also need care in distinguishing conscious awareness from perceptual processing.
-- Somatic expertise, including skills cultivated in autotelic movement practices, has been reserved for a separate future test. We established a date- and time-stamped research decisions log.
+- Awareness may be equivalent to consciousness, but this is unresolved. Care is also needed in distinguishing conscious awareness from perceptual processing.
+- Somatic expertise, including skills cultivated in autotelic movement practices, has been reserved for a separate future test. SE and LLM (ChatGPT) established a date- and time-stamped research decisions log.

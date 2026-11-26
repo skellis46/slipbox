@@ -8,7 +8,7 @@
 | **Question** | "Can something be more or less embodied?" Proposed but, according to the record, never formally agreed |
 | **Text** | LLM (ChatGPT) in iterative exchange with SE, written to GitHub through its connector. In this file "LLM" on its own means ChatGPT; text by Claude is marked LLM (Claude) |
 
-**Summary** *(LLM (Claude), 26 November 2026)*: can something be more or less embodied? For example, does a dancer become *more* embodied through years of training? SE and LLM looked at three different ideas of embodiment: as something absorbed into people's biology over a lifetime, as the body people live and feel, and as an ongoing process of making sense of the world.
+**Summary** *(LLM (Claude), 26 November 2026)*: can something be more or less embodied? For example, does a dancer become *more* embodied through years of training? SE and LLM looked at three different ideas of embodiment: as something absorbed into people's biology over a lifetime, as the body people live and feel and as an ongoing process of making sense of the world.
 
 **Origin** *(LLM (Claude) from the records, confirmed by SE, 26 November 2026)*: BT-04 began on 14 October from a passage SE brought in from Rebecca Solnit's *A Field Guide to Getting Lost*, which calls writing "the most disembodied art". It was a provocation only: the test is not about ranking art forms. The question became whether something can be more or less embodied.
 

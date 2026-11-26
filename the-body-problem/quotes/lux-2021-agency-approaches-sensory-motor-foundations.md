@@ -26,7 +26,7 @@ Lux, V., Non, A. L., Pexman, P. M., Stadler, W., Weber, L. A. E. and Krüger, M.
 
 ## Relevance
 
-**Project-wide:** Useful for documenting the origins and boundaries of Lux et al.'s integrative framework, which informed but does not dictate our maps. **Agency approaches** are Lux et al.'s grouping, not one of our seven provisional conceptions.
+**Project-wide:** Useful for documenting the origins and boundaries of Lux et al.'s integrative framework, which informed but does not dictate the maps. **Agency approaches** are Lux et al.'s grouping, not one of the map's seven provisional conceptions.
 
 **LLM (ChatGPT) interpretation (provisional):** This passage connects perception of oneself and perception of the environment through bodily preconditions. It may help situate the project's discussions of sensory awareness and embodied practice, but does not establish either a definition of embodied sensitivity or degrees of embodiment.
 

@@ -71,8 +71,8 @@ To avoid revising the map and then confirming the revision, Nelson's model was p
 | Know-that | Star (theoretical / conceptual) | Fits |
 | Know-what | Triangle or star | Strained |
 | Praxis as evidence | Pentagon, via the dimension's "or" | Accommodated; not an omission (SE: a seventh shape is unnecessary) |
-| Praxis as evidence *and* knowing | — | Not held: conceptual boundary |
-| Convergence of modes | — | Cannot be shown (one shape per reference) |
+| Praxis as evidence *and* knowing | (none) | Not held: conceptual boundary |
+| Convergence of modes | (none) | Cannot be shown (one shape per reference) |
 
 > **Finding:** On the current map, Nelson's model does not fit. The key labels one dimension "type of evidence or knowledge", which can suggest that evidence and knowledge are the same thing. Nelson treats them as different but connected. So the map cannot show his central claim, that the practice is both the evidence and a way of knowing. His other modes of knowing mostly fit, but critical reflection (know-what) has no clear place, and the map cannot show how the modes work together. The test also exposed a second wording problem. "Practice-based or pedagogical knowledge" uses a contested term and mixes research with teaching. These problems are in how SE and LLM (ChatGPT) built the map.
 
@@ -90,10 +90,10 @@ The conceptual-boundary reading is SE's ("as if they are somehow the same thing.
 | --- | --- | --- |
 | Praxis as evidence | Practice-based | Fits clearly |
 | Praxis as evidence *and* knowing | Practice-based | No longer blocked; the key is silent on knowing |
-| Know-how | — | Moves off this dimension |
+| Know-how | (none) | Moves off this dimension |
 | Know-that | Star | Fits |
 | Know-what | Triangle or star | Still strained |
-| Convergence | — | Still cannot be shown |
+| Convergence | (none) | Still cannot be shown |
 
 > **Finding:** With the revised key, the map no longer suggests that evidence and knowledge are the same. Practice now clearly counts as a way of supporting claims. But Nelson's kinds of knowing no longer have a place on this dimension, and nowhere else on the map takes them up. Reflection (know-what) is still awkward, and the map still cannot show how different modes work together. The revision makes the map more honest about what this dimension does. It also shows that the map has no dimension for kinds of knowing.
 

@@ -37,14 +37,14 @@ Relevant zettels:
 - [the skilled practitioner is responsive](../../the%20skilled%20practitioner%20is%20responsive.md), citing Ingold (2001)
 - [Ingold – Making](../../literature%20notes/Ingold%20-%20Making.md), including notes on establishing conditions in which students learn
 - [the Dao of butchering cows](../../the%20Dao%20of%20butchering%20cows.md), a possible non-dance comparison that was **not** pursued in this bounded test
-- [Scott's analogue trade literature](../analogue_trade/trade_literature.md), which separately asks how publications communicate practitioners' experiential knowledge and to whom
+- [SdH's analogue trade literature](../analogue_trade/trade_literature.md), which separately asks how publications communicate practitioners' experiential knowledge and to whom
 
 ## Map assessment (SE and LLM interpretation)
 
 | Map dimension | Provisional reading |
 | --- | --- |
 | Conceptions | Conception 5, relationality / sense-making (embodied interaction constitutes meaning), and conception 6, lived body / phenomenology (the body as perspective and lived experience), can accommodate the developing responsiveness and practical familiarity of a learner. These are map locations, not Ingold's categories. |
-| Levels of investigation | Sensorimotor activity and social interaction are relevant (Lux's level 4, sensory and motor activity, and level 7, social and cultural interaction: *reading added by LLM (Claude), 26 November 2026*), without forcing the example to fit every level. |
+| Levels of investigation | Sensorimotor activity and social interaction are relevant (Lux's levels 4, sensory and motor activity, and 7, social and cultural interaction: *reading added by LLM (Claude), 26 November 2026*), without forcing the example to fit every level. |
 | Evidence and knowledge modes | "Practice-based or pedagogical knowledge" is relevant; "interview / ethnographic / observational data" and "self-report or first-person data" could be ways of investigating the process. These methods do not necessarily specify how knowledge is communicated or acquired. |
 
 ## Agreed provisional finding (SE and LLM)

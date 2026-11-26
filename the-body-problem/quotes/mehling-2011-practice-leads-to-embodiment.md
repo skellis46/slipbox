@@ -25,9 +25,9 @@ Status: transcribed but not checked. Supplied by SE on 19 November 2026; wording
 **Recorded 19 November 2026. No boundary test opened.**
 
 **LLM (Claude) interpretations (provisional, not agreed):**
-- **"Leads to":** embodiment here is an achievement or outcome of practice, not a condition. This appears to oppose BT-04's agreed distinction between transformations *within* and increases *in* embodiment. Apply BT-03's lesson first: Mehling's use of 'embodiment' is therapeutic, developmental and normative; ours is descriptive. The opposition may be terminological.
+- **"Leads to":** embodiment here is an achievement or outcome of practice, not a condition. This appears to oppose BT-04's agreed distinction between transformations *within* and increases *in* embodiment. Apply BT-03's lesson first: Mehling's use of 'embodiment' is therapeutic, developmental and normative; the map's is descriptive. The opposition may be terminological.
 - **BT-04:** strongest link, but BT-04 is provisionally closed and should not be reopened merely because a source restates the larger question.
-- **BT-05:** Merleau-Ponty's habit makes the body unnoticed; Mehling's training makes it noticed. Mehling et al.'s four-stage model places 'the lived body', taken for granted and 'absent', at the first and least integrated stage, while our map's lived body / phenomenology conception treats the lived body as embodiment itself. A possible tension within one conception.
+- **BT-05:** Merleau-Ponty's habit makes the body unnoticed; Mehling's training makes it noticed. Mehling et al.'s four-stage model places 'the lived body', taken for granted and 'absent', at the first and least integrated stage, while the map's lived body / phenomenology conception treats the lived body as embodiment itself. A possible tension within one conception.
 - **BT-06:** 'skills of noticing, differentiating, and discerning' resembles Ingold's education of attention.
 - **C08:** relevant to cultivated noticing, but Mehling's context is therapy with health outcomes, unlike the autotelic practice C08 concerns.
 - **C09:** best fit. Supplies the new case C09 required.

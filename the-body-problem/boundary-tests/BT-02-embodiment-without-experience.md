@@ -4,7 +4,7 @@
 |---|---|
 | **Opened** | 8 October 2026 |
 | **Last updated** | 26 November 2026 |
-| **Status** | Provisionally concluded. Poor fits retained, not repaired |
+| **Status** | Provisionally concluded, 8 October 2026. Poor fits retained, not repaired |
 | **Question agreed by** | SE and LLM (ChatGPT) |
 | **Text** | LLM (ChatGPT) in iterative exchange with SE, written to GitHub through its connector. In this file "LLM" on its own means ChatGPT; text by Claude is marked LLM (Claude) |
 
