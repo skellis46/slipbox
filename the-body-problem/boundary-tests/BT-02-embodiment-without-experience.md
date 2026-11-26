@@ -49,7 +49,7 @@ These are preliminary placements. They do not establish either a successful fit 
 
 ## Methodological reflection: somatic standpoint
 
-One co-author's experience of embodiment comes especially through somatic practice, sensitivity to bodily sensation and something akin to *felt sense*. This is a situated starting point and a methodological limit: it can incline the enquiry towards awareness without warranting awareness as a condition of every conception of embodiment.
+SE's experience of embodiment comes especially through somatic practice, sensitivity to bodily sensation and something akin to *felt sense*. This is a situated starting point and a methodological limit: it can incline the enquiry towards awareness without warranting awareness as a condition of every conception of embodiment.
 
 A working distinction from the discussion is between **bodily organisation participating in the generation of behaviour** and an account of **awareness**. The former is the current focus of BT-02. The latter remains an open question, potentially a separate boundary test.
 

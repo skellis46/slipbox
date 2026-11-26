@@ -122,7 +122,7 @@ This is a **proposed working question**, not an agreed formulation. In BT-02, th
 
 BT-02 examined how a nonliving body's organisation and environmental coupling contribute to locomotion. BT-03 examines what different accounts mean by **awareness**. It should not retrospectively impose awareness as a requirement on BT-02.
 
-One co-author approaches embodiment primarily through somatic practice and felt sense. This is a useful perspective but may encourage conflation of embodiment, awareness and consciously attended sensation. The test must permit accounts that separate these.
+SE approaches embodiment primarily through somatic practice and felt sense. This is a useful perspective but may encourage conflation of embodiment, awareness and consciously attended sensation. The test must permit accounts that separate these.
 
 ## Bounded cases for comparison
 

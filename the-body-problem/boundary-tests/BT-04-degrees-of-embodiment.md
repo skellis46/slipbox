@@ -9,7 +9,7 @@ Opened: 14 October 2026
 
 Can something be more or less embodied? For example, does a dancer become *more* embodied through years of training? We looked at three different ideas of embodiment: as something absorbed into our biology over a lifetime, as the body we live and feel, and as an ongoing process of making sense of the world.
 
-**Result (provisional):** we found no general way to say that something is more or less embodied, but we did not show that it is impossible either. One co-author's experience suggests that growing bodily sensitivity can feel like becoming more embodied. This is recorded as a personal standpoint, not a general finding.
+**Result (provisional):** we found no general way to say that something is more or less embodied, but we did not show that it is impossible either. SE's experience suggests that growing bodily sensitivity can feel like becoming more embodied. This is recorded as a personal standpoint, not a general finding.
 
 **Key distinction:** a change *within* embodiment, such as a dancer becoming more sensitive or someone's body changing after injury, is not necessarily becoming more or less embodied.
 

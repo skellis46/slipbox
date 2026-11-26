@@ -73,7 +73,7 @@ Entries below are added in order of recording. The timestamp identifies when the
 
 ### 2026-10-08 15:32 BST | Provisional | BT-03
 
-**Position under examination, not agreed as a definition:** One co-author leans towards treating *awareness* as synonymous with *consciousness*, distinct from *perception* (which can operate without consciousness). Body and environment may then be different contents rather than kinds of awareness. This calls the original proposed BT-03 question into doubt.
+**Position under examination, not agreed as a definition:** SE leans towards treating *awareness* as synonymous with *consciousness*, distinct from *perception* (which can operate without consciousness). Body and environment may then be different contents rather than kinds of awareness. This calls the original proposed BT-03 question into doubt.
 
 **Source-based methodological observation:** After reading Ellis's working chapter *Threshold of the Self*, the useful comparison may concern expertise in a specific autotelic practice of authentic movement, where sustained sensing, attention and allowing movement to emerge have no pre-specified movement outcome. Do not generalise this to all somatic practice or assume somatic expertise cannot be evaluated. Gallagher (2011) should not be portrayed as requiring measurable outcomes for all skill.
 
@@ -153,7 +153,7 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 
 **Working presentation convention:** Explicitly name and characterise the map conception, identify the account and briefly explain its selection. Distinguish quotations and source-based claims from SE observations, LLM interpretations and agreed findings. Keep the enquiry finite and accept unresolved matters rather than extending questioning indefinitely.
 
-**Repository organisation:** Add a `quotes/` folder for one Markdown file per useful quotation with exact citation, location, context, verification status and relevance to a boundary test. Do not invent or silently verify quotation text. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and [quotes](quotes/README.md).
+**Repository organisation:** Add a `quotes/` folder for one Markdown file per useful quotation with exact citation, location, context, verification status and relevance to a boundary test. Do not invent or silently verify quotation text. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and [quotes](quotes/about-quotes.md).
 
 ### 2026-11-05 | Agreed provisional conclusion | BT-04
 
@@ -218,3 +218,11 @@ See [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) and [El
 ### 2026-11-19 12:52 GMT | Agreed | Future tests (C09)
 
 **Decision:** Record Mehling et al.'s (2011) claim that training in noticing 'leads to embodiment and integration' as a [quotation note](quotes/mehling-2011-practice-leads-to-embodiment.md), with its connections to BT-04, BT-05, BT-06, C08 and C09. Mark C09 as a possible future boundary test with Mehling as source. The proposed question is not agreed and no test is opened. The quotation is not yet verified against the article.
+
+### 2026-11-26 10:15 GMT | Agreed | Project-wide
+
+**Decision (SE; to be shared with SdH):** a pronoun and attribution convention for the repository. "We", "our" and "us" mean SE and SdH only; other combinations are named. Co-authors are referred to as **SE** and **SdH**. LLM-written text is labelled, naming the model where known, for example LLM (ChatGPT) or LLM (Claude). Signed first-person notes are left as written. See the [README conventions](README.md#conventions).
+
+**Reorganisation:** instructions addressed to LLM sessions and the dated resumption records were moved from the README to [llm-handoff.md](llm-handoff.md). `quotes/README.md` was renamed [`quotes/about-quotes.md`](quotes/about-quotes.md) and `sources/README.md` was renamed [`sources/source-inventory.md`](sources/source-inventory.md), so the README is the only README. "One co-author" was replaced by SE in the README, BT-02, BT-03 and BT-04; in earlier entries of this log, the link to the renamed quotes file (16 October entry) was updated and "One co-author" was replaced by SE (14 October entry).
+
+*Entry written by LLM (Claude) at SE's request.*
