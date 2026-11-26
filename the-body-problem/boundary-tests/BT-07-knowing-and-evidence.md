@@ -6,8 +6,6 @@ Origin: candidate C07, split into C07a and C07b on 19 November 2026. BT-07 is C0
 
 ## In brief
 
-*Background: Scott deLahunta and Simon Ellis have drawn a working map of the different ways researchers understand embodiment, the idea that our bodies shape how we experience, think and act. Each boundary test takes one example or question and asks whether the map can cope with it. Where it cannot, that may tell us something about the map or about the idea of embodiment.*
-
 Researchers who use their own practice, such as dancing, as a way of doing research often distinguish different kinds of knowing: knowing *how* (skill), knowing *what* works (through reflecting on the practice) and knowing *that* (facts and ideas). This test uses Robin Nelson's account of these and asks whether our map can show how kinds of knowing relate to the evidence for them.
 
 **Result so far:** the map's key lists 'types of evidence or knowledge', which can suggest the two are the same thing. So it cannot show Nelson's main point, that the practice itself is both evidence and a way of knowing. A proposed rewording of the key removes that problem but reveals that the map has nowhere to show kinds of knowing at all.

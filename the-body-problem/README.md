@@ -113,7 +113,7 @@ Include a concise account of what was agreed, revised or rejected and a link to 
 
 UK English, no Oxford commas, no em-dashes. Record what was **agreed**, **suggested** and **left open** separately. Cite identifiable sources accurately. Do not silently rewrite an earlier formulation, conflate an author's work with the practices it describes or treat absent historical evidence as evidence of absent experience.
 
-Working convention (moved from the 16 October 2026 historical section): always name and briefly characterise the relevant map conception, name the specific author's account and briefly justify its selection. Mark source quotations, source-based paraphrases, **SE** proposals, **LLM** interpretations and findings agreed by SE and the LLM distinctly. The conception labels are provisional map categories devised by SE and an LLM, not Lux et al.'s categories. Stop at a defensible provisional finding rather than pursuing every emerging question; unresolved is a legitimate result.
+Working convention (moved from the 16 October 2026 historical section): always name and briefly characterise the relevant map conception, name the specific author's account and briefly justify its selection. Mark source quotations, source-based paraphrases, **SE** proposals, **LLM** interpretations and findings agreed by SE and the LLM distinctly. The conception labels are provisional map categories devised by SE and LLM (ChatGPT), not Lux et al.'s categories. Stop at a defensible provisional finding rather than pursuing every emerging question; unresolved is a legitimate result.
 
 ### Pronouns and attribution (agreed by SE, 26 November 2026)
 

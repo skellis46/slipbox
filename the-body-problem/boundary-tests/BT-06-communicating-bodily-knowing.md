@@ -5,8 +5,6 @@ Agreed: 5 November 2026
 
 ## In brief
 
-*Background: Scott deLahunta and Simon Ellis have drawn a working map of the different ways researchers understand embodiment, the idea that our bodies shape how we experience, think and act. Each boundary test takes one example or question and asks whether the map can cope with it. Where it cannot, that may tell us something about the map or about the idea of embodiment.*
-
 How is bodily know-how passed on? Imagine a baker teaching someone to knead dough. They might explain in words, demonstrate or guide the learner's hands and attention to how the dough feels.
 
 **Result (provisional):** the map can include all three. But it cannot show the difference between *handing over information* and *helping someone develop their own feel* for a task, a distinction drawn by the anthropologist Tim Ingold. This is a limit of how the map is drawn, not a reason to change it.
