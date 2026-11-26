@@ -61,7 +61,7 @@ A new map category is **not** the automatic response to a difficult test.
 
 ## Current position – 26 November 2026
 
-*Status summary written by LLM (Claude) on 26 November 2026 from the boundary-test files and decisions log, for SE and SdH to check.*
+*Status summary written by LLM (Claude) on 26 November 2026 from the boundary-test files and lab book, for SE and SdH to check.*
 
 - **BT-01**, relational bodily encounters: question agreed, no finding.
 - **BT-02**, embodiment without experience: agreed provisional outcome. The passive walker fits bodily constraint / affordance but sits uneasily within Lux's biologically oriented levels; the poor fit is retained as informative.
@@ -78,7 +78,7 @@ Other possible lines include ethics as a transversal concern and traditions whic
 ## Working files
 
 - [To do – current working list](todo.md)
-- [Decisions and open questions](decisions.md)
+- [Lab book – map, method, convention and drift entries](lab-book.md)
 - [LLM handoff – instructions for LLM sessions](llm-handoff.md)
 - [Boundary test 01](boundary-tests/BT-01-relational-bodily-encounters.md)
 - [Boundary test 02](boundary-tests/BT-02-embodiment-without-experience.md)
@@ -94,20 +94,9 @@ Other possible lines include ethics as a transversal concern and traditions whic
 - [Source inventory](sources/source-inventory.md)
 - [Quotation notes](quotes/about-quotes.md)
 
-## Decision timestamps
+## Lab book
 
-From 8 October 2026 onwards, record each substantive decision or change of position in a **chronological, append-only log** in [`decisions.md`](decisions.md). Use the following format:
-
-`YYYY-MM-DD HH:mm BST/GMT | Status | BT-XX or project-wide`
-
-Include a concise account of what was agreed, revised or rejected and a link to the relevant boundary test when appropriate.
-
-- Use UK local time, explicitly marking **BST** or **GMT** as applicable.
-- **Agreed** denotes a decision explicitly accepted in discussion. **Provisional** denotes a working position. **Revised** records a change to an earlier position. **Rejected** records an explicitly rejected proposal. Keep proposed questions labelled as proposals, not decisions.
-- Record the time the entry is **written or confirmed**, not a claimed exact time of an earlier conversation. When the original decision time is unknown, use its known date only and do not invent an hour or minute.
-- Do not overwrite, backdate or silently recategorise earlier entries. Add a dated revision that points to the earlier entry.
-- The Git commit is an additional audit trail, not a substitute for a decision timestamp.
-- The pre-existing thematic sections in `decisions.md` are a legacy summary. Their dates and status should not be retroactively reconstructed.
+Changes to the map, the method and the conventions, and instances of drift, are recorded newest first in the [lab book](lab-book.md), which explains its format. Opening, suspending or concluding a boundary test is recorded only in the test file.
 
 ## Conventions
 

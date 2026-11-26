@@ -5,14 +5,14 @@
 | **Opened** | 8 October 2026 |
 | **Last updated** | 26 November 2026 |
 | **Status** | Provisionally concluded. Poor fits retained, not repaired |
-| **Question agreed by** | SE and LLM |
-| **Text** | LLM in iterative exchange with SE, unless marked otherwise |
+| **Question agreed by** | SE and LLM (ChatGPT) |
+| **Text** | LLM (ChatGPT) in iterative exchange with SE, written to GitHub through its connector. In this file "LLM" on its own means ChatGPT; text by Claude is marked LLM (Claude) |
 
 **Summary** *(LLM (Claude), 26 November 2026)*: a passive dynamic walker is a simple machine that walks down a slope by itself, powered only by gravity, with no motor, brain or sensors. Some researchers call it embodied. What idea of embodiment allows that, and what does that idea leave out?
 
 **Origin** *(SE, 26 November 2026)*: SE wanted to test the map against robots. A passive dynamic walker is about as "dumb" a robot as there is.
 
-**Where it stands:** the map can include the walker under conception 2, bodily constraint / affordance (a body's physical shape and build shape what it can do). But Lux's seven levels, which run from genes to social life, do not really apply to a machine. The lesson recorded is that an example does not have to fit every part of the map: poor fits are worth recording, not hiding.
+**Where it stands** *(LLM (Claude), 19 and 26 November 2026)*: the map can include the walker under conception 2, bodily constraint / affordance (a body's physical shape and build shape what it can do). But Lux's seven levels, which run from genes to social life, do not really apply to a machine. The lesson recorded is that an example does not have to fit every part of the map: poor fits are worth recording, not hiding.
 
 ## Agreed question
 

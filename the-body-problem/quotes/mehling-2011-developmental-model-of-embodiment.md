@@ -28,7 +28,7 @@ Mehling, W. E., Wrubel, J., Daubenmier, J. J., Price, C. J., Kerr, C. E., Silow,
 
 **Boundary test:** BT-04 – Degrees of embodiment (potential relevance).
 
-**LLM interpretation (provisional):** A developmental model offers a way to investigate change in embodied self-awareness across practice. The notion of development should not be silently taken as proof of more or less embodiment, or as a single quantitative scale. This is also relevant to the methodological relationship between phenomenological and practice-oriented approaches raised in BT-04.
+**LLM (ChatGPT) interpretation (provisional):** A developmental model offers a way to investigate change in embodied self-awareness across practice. The notion of development should not be silently taken as proof of more or less embodiment, or as a single quantitative scale. This is also relevant to the methodological relationship between phenomenological and practice-oriented approaches raised in BT-04.
 
 **Possible map connections (not findings):** Lived body / phenomenology; interoception / feeling / selfhood. No definitive assignment is made.
 

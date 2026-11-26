@@ -6,13 +6,13 @@
 | **Last updated** | 26 November 2026 |
 | **Status** | Open. Question agreed; no finding |
 | **Question agreed by** | SE and LLM (ChatGPT) |
-| **Text** | LLM in iterative exchange with SE, unless marked otherwise |
+| **Text** | LLM (ChatGPT) in iterative exchange with SE, written to GitHub through its connector. In this file "LLM" on its own means ChatGPT; text by Claude is marked LLM (Claude) |
 
 **Summary** *(LLM (Claude), 26 November 2026)*: when one person touches another, as in pulse-taking or a hands-on somatic lesson, can the map show that each person may sense and understand the encounter differently?
 
 **Origin** *(SE, 26 November 2026)*: the test began from a hunch that a practice like early Chinese medicine might not fit easily within Lux's thinking. The question then shifted to who is touching and who is being touched: is the embodied understanding of the expert (the practitioner) distinct from the potential effect on the patient?
 
-**Where it stands:** an early observation is that the map does not show *whose* sensing or understanding is in question. SE and SdH have not decided whether that is a real problem or just a limit of how the map is drawn.
+**Where it stands** *(LLM (Claude), 19 and 26 November 2026)*: an early observation is that the map does not show *whose* sensing or understanding is in question. SE and SdH have not decided whether that is a real problem or just a limit of how the map is drawn.
 
 ## Agreed question
 

@@ -1,23 +1,26 @@
 # BT-03: Awareness as a boundary marker
 
-Status: **suspended – no agreed substantive finding**  
-Opened: 8 October 2026
+| | |
+|---|---|
+| **Opened** | 8 October 2026 |
+| **Last updated** | 26 November 2026 |
+| **Status** | Suspended on 14 October 2026. No finding |
+| **Question agreed by** | SE and LLM (ChatGPT), 8 October 2026 |
+| **Text** | LLM (ChatGPT) in iterative exchange with SE, written to GitHub through its connector. In this file "LLM" on its own means ChatGPT; text by Claude is marked LLM (Claude) |
 
-## In brief
+**Summary** *(LLM (Claude), 26 November 2026)*: some ideas of embodiment seem to require that a person is aware of what they are doing; others do not, as the walking machine in [BT-02](BT-02-embodiment-without-experience.md) shows. This test asked whether the map can separate the two.
 
-Some ideas of embodiment seem to require that a person is aware of what they are doing. Others do not, as the walking machine in BT-02 shows. This test asked whether the map can separate the two.
+**Origin** *(LLM (Claude) from the records, confirmed by SE, 26 November 2026)*: BT-03 grew out of BT-02. Having established that the passive walker's behaviour is conditioned by its environment, SE and LLM asked whether it could be said to be *aware of* that environment. On 8 October the question was reconsidered after reading SE's chapter *Threshold of the Self*, with its distinction between deep sensory dancing and "being danced". It was suspended on 14 October, when *awareness*, *consciousness*, *attention* and *experience* kept sliding into one another.
 
-**Status: suspended, no answer.** In discussion, the words *awareness*, *consciousness*, *attention* and *experience* kept sliding into one another, so no clear comparison was possible.
+**Where it stands** *(LLM (Claude), 19 and 26 November 2026)*: suspended, no answer. Because those words kept sliding into one another, no clear comparison was possible. The lesson recorded is that before using a word to compare different writers, it is worth checking that they mean the same thing by it.
 
-**Lesson:** before using a word to compare different writers, check that they mean the same thing by it.
+## Suspension – 14 October 2026 (agreed by SE and LLM)
 
-## Suspension – 14 October 2026 (agreed)
+**Status: suspended, with no agreed substantive finding.** The four-text enquiry drifted from awareness towards consciousness, conscious experience, deliberate attention and articulation. SE and LLM cannot presently draw defensible conclusions about awareness or its capacity to discriminate between conceptions of embodiment. The question of whether awareness lies beyond this map's scope remains open rather than established.
 
-**Status: suspended, with no agreed substantive finding.** The four-text enquiry drifted from awareness towards consciousness, conscious experience, deliberate attention and articulation. We cannot presently draw defensible conclusions about awareness or its capacity to discriminate between conceptions of embodiment. The question of whether awareness lies beyond this map's scope remains open rather than established.
+**Attribution correction (by SE):** LLM had presented equating consciousness with awareness as a novel claim originating with SE. SE corrected this: it is a position or usage already found in wider discourse. The possibility of investigating this equivalence in relation to the map and embodiment is reserved for later. *Conscious experience* should not be substituted for either term without argument, and deliberate attention and conscious report should not be assumed to be equivalent.
 
-**Attribution correction:** Equating consciousness with awareness is a position or usage already found in wider discourse, **not a novel claim originating with the co-authors**. The possibility of investigating this equivalence in relation to the map and embodiment is reserved for later. Do not substitute *conscious experience* for either term without argument, and do not assume deliberate attention or conscious report are equivalent.
-
-**Methodological lesson:** Before comparing sources using a putative boundary concept, determine whether the concept operates comparably in those sources. Otherwise the apparent differences may arise from our terminology. Preserve the earlier comparative material as provisional research history, not a completed finding. No map change or new test is agreed.
+**Methodological lesson:** Before comparing sources using a putative boundary concept, determine whether the concept operates comparably in those sources. Otherwise the apparent differences may arise from the terminology of SE and LLM rather than from the sources. The earlier comparative material is kept as provisional research history, not a completed finding. No map change or new test is agreed.
 
 ## Agreed question
 
@@ -25,11 +28,16 @@ Some ideas of embodiment seem to require that a person is aware of what they are
 
 Question agreed on 8 October 2026. **No outcome or change to the map has been agreed.**
 
+
+## Historical record
+
+*Note (LLM (Claude), 26 November 2026): everything below is kept as a record of how BT-03 developed and why it was suspended. It is not needed to understand the test. It is left largely as written by LLM during the exchange with SE, apart from attribution labels ("assistant" is now LLM, "User" is now SE) and pronouns. Its instructions (for example "Do not…", "On resuming work") belong to that period and are not current instructions.*
+
 ## Agreed testing structure – 14 October 2026
 
 BT-03 remains **one boundary test** with two separately recorded but interdependent analytical strands. Neither strand is an agreed finding.
 
-- **BT-03a – discriminatory capacity:** Test whether awareness, as understood by the sources, differentiates conceptions of embodiment. Distinguish necessary, optional and unnecessary awareness, and explicit authorial claims from our inferences.
+- **BT-03a – discriminatory capacity:** Test whether awareness, as understood by the sources, differentiates conceptions of embodiment. Distinguish necessary, optional and unnecessary awareness, and explicit authorial claims from inferences by SE and LLM.
 - **BT-03b – conceptual premises:** Using the same accounts, examine what each takes embodiment to mean, what it seeks to explain and how those premises condition awareness's role.
 
 **Agreed sequence:** (1) examine BT-03a provisionally, (2) examine BT-03b using the same cases, (3) revisit the conclusions of BT-03a in the light of BT-03b, and only then assess what the current map can or cannot represent. A positive result for either strand does not entail a positive result for the other.
@@ -55,7 +63,7 @@ BT-03 remains **one boundary test** with two separately recorded but interdepend
 7. **Possible outcomes:** A meaningful distinction, no distinction, source-level indeterminacy, conceptual non-comparability or a distinction that does not add explanatory value beyond existing categories are all legitimate.
 8. **Map assessment last:** Record what is representable, merely visually absent, strained or incompatible without modifying the map in advance.
 
-This protocol is an **assistant proposal**, not an agreed methodology or finding. Case identities, corpus boundaries and exclusion decisions require discussion.
+This protocol is an **LLM proposal**, not an agreed methodology or finding. Case identities, corpus boundaries and exclusion decisions require discussion.
 
 ## Candidate primary-text set – proposal, 14 October 2026 (not selected or agreed)
 
@@ -68,11 +76,11 @@ Selection rationale: span explanatory purposes (morphological construction, live
 
 **Selection critique:** The first three remain concentrated around cognition, agency and phenomenology. Fuchs/Di Paolo provide a possible comparison of neighbouring premises but are not a controlled 'most similar' pair. Krieger provides a different explanatory purpose and may show awareness to be orthogonal to her research rather than necessary/unnecessary. The sample is purposive and exploratory, not representative or exhaustive. The first-pass assessment must allow inconclusive results and reassess whether Pfeifer adds beyond BT-02.
 
-**Next step:** Close-read precise relevant passages in each text and record (a) the source's claim, (b) our interpretation, (c) what remains unsettled, and (d) map fit only after analysis. No cases are approved by recording this list.
+**Next step:** Close-read precise relevant passages in each text and record (a) the source's claim, (b) the interpretation by SE and LLM, (c) what remains unsettled, and (d) map fit only after analysis. No cases are approved by recording this list.
 
-## Initial BT-03a/BT-03b source check – 14 October 2026 (assistant analysis, no agreed finding)
+## Initial BT-03a/BT-03b source check – 14 October 2026 (LLM analysis, no agreed finding)
 
-**User's caution:** There is a substantive doubt that BT-03 is drifting away from awareness. Keep the originally agreed awareness question explicit and treat movement into general theories of embodiment as a diagnostic risk, not as a change of topic.
+**SE's caution:** There is a substantive doubt that BT-03 is drifting away from awareness. Keep the originally agreed awareness question explicit and treat movement into general theories of embodiment as a diagnostic risk, not as a change of topic.
 
 The four previously proposed candidates were approved for **provisional examination**, not adopted as conclusive exemplars.
 
@@ -102,7 +110,7 @@ The current evidence does **not** justify assigning the four accounts to simple 
 
 ## On resuming work
 
-Read this agreed question alongside the [project README](../README.md) and [decisions log](../decisions.md). Next identify **specific accounts or authors** that treat awareness as necessary and those that do not, checking their use of the word and their evidence before locating them on the existing map. Distinguish lack of conscious awareness from lack of reporting or evidence. Record poor fits as analytically useful rather than forcing dimensional classifications.
+Read this agreed question alongside the [project README](../README.md) and [lab book](../lab-book.md). Next identify **specific accounts or authors** that treat awareness as necessary and those that do not, checking their use of the word and their evidence before locating them on the existing map. Distinguish lack of conscious awareness from lack of reporting or evidence. Record poor fits as analytically useful rather than forcing dimensional classifications.
 
 **Parked, separate test:** somatic expertise and skills cultivated in autotelic practices without externally prescribed outcomes. See [Somatic expertise](../future-tests/somatic-expertise.md). Do not reintroduce Gallagher or the skilled-performance comparison here unless directly necessary to the awareness question.
 
@@ -167,7 +175,7 @@ Another risk is mistaking the mode by which knowledge is produced (e.g. first-pe
 
 Source read: Simon Ellis, [*Threshold of the Self: Dancing and Non-dual Awareness*](../../improvisation%20and%20the%20threshold%20of%20the%20self.md), working chapter in the repository (`improvisation and the threshold of the self.md`). In particular, 'Authentic movement: awareness while dancing', 'Deep sensory dancing', 'Being danced', 'Making sense of the phenomena' and 'The practice: attention and precision weighting'. This source was supplied as a way of understanding the skills at stake in somatic practice, not as evidence for universal claims about all somatics.
 
-**User's stated inclination, not a settled definition:** awareness may best be treated as consciousness. Awareness of the body and of the environment would then indicate different contents of consciousness rather than fundamentally different concepts of awareness. Perception should remain distinct: it need not always be conscious. The earlier proposed contrast of body-awareness versus environment-awareness may therefore be misplaced.
+**SE's stated inclination, not a settled definition:** awareness may best be treated as consciousness. Awareness of the body and of the environment would then indicate different contents of consciousness rather than fundamentally different concepts of awareness. Perception should remain distinct: it need not always be conscious. The earlier proposed contrast of body-awareness versus environment-awareness may therefore be misplaced.
 
 **What the writing shows about skill:** the authentic movement practiced by Ellis and Katye Coe was *autotelic*, with no prescribed movement sequence, aim to produce a piece of movement or external standard of success. 'What kind of expertise is involved in a practice whose activity consists not simply in generating movement but in attending and allowing movement to emerge without judgement?' is the explicit question in the chapter. The provisional hypothesis is that somatic expertise develops alongside attentional expertise: sustained sensing, openness to sensory variation and reduced goal-directed expectation. These are situated interpretations, not experimentally validated outcomes, and the chapter states that its predictive-processing account does not explain the apparent transition into *being danced*.
 

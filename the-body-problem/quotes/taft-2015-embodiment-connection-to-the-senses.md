@@ -28,7 +28,7 @@ Taft, Michael W. (2015). *The Mindful Geek: Secular Meditation for Smart Skeptic
 
 **Potential boundary-test relevance:** BT-04 – Degrees of embodiment.
 
-**LLM interpretation (provisional):** This is a comparatively direct example of an author defining embodiment in terms of sensory contact. It may be relevant to SE's proposal that increased bodily sensitivity can, within certain practice traditions, be understood as increased embodiment. Taft's account includes senses directed towards the environment, not solely sensations of the body. The quotation does not itself specify how degrees are established.
+**LLM (ChatGPT) interpretation (provisional):** This is a comparatively direct example of an author defining embodiment in terms of sensory contact. It may be relevant to SE's proposal that increased bodily sensitivity can, within certain practice traditions, be understood as increased embodiment. Taft's account includes senses directed towards the environment, not solely sensations of the body. The quotation does not itself specify how degrees are established.
 
 **Possible map connections (not findings):** Lived body / phenomenology; interoception / feeling / selfhood. The latter would require care because Taft's examples include exteroceptive sensing. No conception has been assigned definitively.
 

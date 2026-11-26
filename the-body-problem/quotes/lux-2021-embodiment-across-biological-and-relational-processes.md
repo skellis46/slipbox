@@ -26,7 +26,7 @@ Lux, V., Non, A. L., Pexman, P. M., Stadler, W., Weber, L. A. E. and Krüger, M.
 
 **Boundary tests:** Project-wide relevance to the provisional maps; potentially BT-04 (Degrees of embodiment).
 
-**LLM interpretation (provisional):** This passage is useful for examining the breadth and limits of the map's coverage and for reminding us that a developmental approach spans distinct kinds of embodied processes. It does **not** itself establish degrees of embodiment or a measure shared across these processes.
+**LLM (ChatGPT) interpretation (provisional):** This passage is useful for examining the breadth and limits of the map's coverage and for reminding us that a developmental approach spans distinct kinds of embodied processes. It does **not** itself establish degrees of embodiment or a measure shared across these processes.
 
 **Mapping caution:** The project's seven provisional conceptions are not Lux et al.'s own taxonomy. Their explicit distinction between agency and environmental approaches must not be rewritten as endorsement of our particular seven-category map.
 

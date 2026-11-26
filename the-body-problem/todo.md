@@ -32,4 +32,4 @@ A short working list for SE. It points to the detailed records; it does not repl
 ## Housekeeping
 
 - [ ] Parked from BT-07: check the other five evidence labels ('measurement', 'data', 'work') for consistency if the key changes.
-- [ ] `decisions.md` header still says "Last updated: 8 October 2026".
+- [x] `decisions.md` replaced by [`lab-book.md`](lab-book.md) (26 November 2026).

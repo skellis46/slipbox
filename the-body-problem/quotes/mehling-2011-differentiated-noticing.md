@@ -22,7 +22,7 @@ Status: transcribed but not checked. Supplied by SE on 19 November 2026; wording
 
 ## Relevance
 
-**LLM interpretations (provisional, not agreed):**
+**LLM (Claude) interpretations (provisional, not agreed):**
 - **Attribution matters for C09.** Here the claim is reported as the *practitioners'* view and the outcome is *integration*. In the p. 7 passage the authors summarise it as leading to 'embodiment and integration'. So 'embodiment' as an achievement may be the authors' gloss, not the practitioners' term. Check this before treating Mehling as a source for embodiment-as-achievement.
 - **'Might be verbalized or not':** noticing is treated as a skill independent of verbal articulation. Relevant to C06 (bodily knowing and articulation), BT-06 and C07b.
 - **BT-06:** training in differentiated noticing resembles Ingold's education of attention.

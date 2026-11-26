@@ -6,7 +6,7 @@
 
 **Source of truth:** the `the-body-problem/` folder in the `master` branch of `skellis46/slipbox`. Do not reconstruct the working position solely from conversational memory.
 
-**At the start of a new session:** read the current versions of the README, `decisions.md` and the relevant boundary-test file directly from GitHub. Consult `sources/source-inventory.md` for source inventories. Distinguish agreed test questions and findings from interpretations, proposals and outstanding problems. Where changes have been made locally, ensure they are pushed before editing the remote copy.
+**At the start of a new session:** read the current versions of the README, `lab-book.md` and the relevant boundary-test file directly from GitHub. Consult `sources/source-inventory.md` for source inventories. Distinguish agreed test questions and findings from interpretations, proposals and outstanding problems. Where changes have been made locally, ensure they are pushed before editing the remote copy.
 
 **Between sessions:** changes made directly to GitHub become local through **Pull** in Sublime Merge. Locally edited notes must be committed and pushed before they can be read from GitHub. Avoid overwriting newer local or remote revisions.
 
@@ -37,7 +37,7 @@ The [candidate pool](future-tests/candidate-pool.md) now tracks C03/C06's develo
 
 ## Historical resumption position – 5 November 2026: BT-04
 
-**BT-04 is provisionally concluded**, with an unresolved general question but a substantive conceptual finding. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md), the latest [decisions](decisions.md) and [Scott updates](scott%20updates.md). No map change or new active boundary test has been agreed.
+**BT-04 is provisionally concluded**, with an unresolved general question but a substantive conceptual finding. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md), the latest [lab book](lab-book.md) and [Scott updates](scott%20updates.md). No map change or new active boundary test has been agreed.
 
 Across biological incorporation, lived body / phenomenology and relationality / sense-making, we found no general basis to say that embodiment increases or decreases, but also did not establish that degrees are impossible. The third conception challenged the assumption that more sophisticated sense-making entails greater embodiment and opened new lines of enquiry. Distinguish *transformations within embodiment* from *increases in embodiment*: a dancer's developing sensitivity or changes following injury or disability need not imply becoming more or less embodied.
 
@@ -45,7 +45,7 @@ Across biological incorporation, lived body / phenomenology and relationality / 
 
 ## Historical resumption point: BT-04 – 16 October 2026
 
-**BT-04 is active, with two agreed provisional findings and a third comparison pending.** The 14 October pause below is retained for provenance but is superseded as a resumption instruction. Read [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and the latest entries in [decisions.md](decisions.md).
+**BT-04 is active, with two agreed provisional findings and a third comparison pending.** The 14 October pause below is retained for provenance but is superseded as a resumption instruction. Read [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md) and the latest entries in [lab-book.md](lab-book.md).
 
 - **Biological incorporation** (Krieger 2005 as an illustrative account): differences in bodily organisation, capacities and embodied experience across time are describable. A relationship to degrees of embodiment is conceivable, but its nature remains unresolved. We have not established grounds for determining or even understanding degrees of embodiment within this conception.
 - **Lived body / phenomenology** (Fraleigh 1987 as a relevant account, not established as endorsing the finding): degrees may be intelligible through bodily sensitivity cultivated in sustained somatic and embodied practices. From SE's experiential standpoint increased sensitivity can meaningfully be described as increased embodiment. The equivalence is situated, not established across phenomenological accounts. The relation between deliberate attention, cultivated sensitivity and habitual bodily awareness remains open.
@@ -63,18 +63,18 @@ Solnit's *A Field Guide to Getting Lost* quotation was only the provocation for 
 
 The sharpened working question is: **'When an activity changes over time, can any conception in our map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?'** The broader question **'Can something be more or less embodied?'** is proposed but not formally ratified. A preliminary comparison of phenomenology, relationality/sense-making and biological incorporation did not establish degrees. No map change.
 
-**Resume directly with SE's unanswered question:** 'Do you think it's worth pursuing the possibility of degrees within particular conceptions, even if comparing degrees across conceptions ultimately proves meaningless?' Do not presuppose the answer or conflate the map's classification dimensions with scales. See BT-04 for detail and the dated [decisions log](decisions.md).
+**Resume directly with SE's unanswered question:** 'Do you think it's worth pursuing the possibility of degrees within particular conceptions, even if comparing degrees across conceptions ultimately proves meaningless?' Do not presuppose the answer or conflate the map's classification dimensions with scales. See BT-04 for detail and the dated [lab book](lab-book.md).
 
 ## Historical pause and restart point – 8 October 2026, 15:43 BST
 
 **Paused after agreeing BT-03's exact question; BT-03 has not been evaluated.**
 
-To resume in another session: fetch the latest GitHub versions of the README, [`decisions.md`](decisions.md) and [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) **before** advancing the argument. If helpful, consult the previous [BT-02](boundary-tests/BT-02-embodiment-without-experience.md) finding and [BT-01](boundary-tests/BT-01-relational-bodily-encounters.md) open test.
+To resume in another session: fetch the latest GitHub versions of the README, [`lab-book.md`](lab-book.md) and [BT-03](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) **before** advancing the argument. If helpful, consult the previous [BT-02](boundary-tests/BT-02-embodiment-without-experience.md) finding and [BT-01](boundary-tests/BT-01-relational-bodily-encounters.md) open test.
 
 **Next intellectual task:** identify and compare specific accounts of embodiment that require conscious awareness with accounts that do not, respecting each source's understanding of awareness. First examine whether awareness is equivalent to consciousness in each account and distinguish evidence for unconscious sensory/perceptual processing from stronger contested claims about unconscious perception. Test *how the map represents the difference*, not whether a passive walker experiences anything or whether somatic skill has measurable outcomes. Note poor fits without altering the map.
 
 **Not to do on resumption:** settle awareness by assertion, treat somatic expertise as part of BT-03, reopen the settled map-fit rule, turn a suggested additional axis into a decision or declare BT-01 or BT-03 complete without discussion.
 
-**For Scott:** [`scott updates.md`](scott%20updates.md) is the deliberately brief, most-recent-first log of each working session. Add a new dated and time-stamped entry above earlier entries after future sessions, with at most eight brief bullets and no more than two sentences per bullet. Keep the fuller intellectual decision history here in [`decisions.md`](decisions.md).
+**For Scott:** [`scott updates.md`](scott%20updates.md) is the deliberately brief, most-recent-first log of each working session. Add a new dated and time-stamped entry above earlier entries after future sessions, with at most eight brief bullets and no more than two sentences per bullet. Keep the fuller intellectual decision history here in [`lab-book.md`](lab-book.md).
 
-To resume this work in a new conversation, read the README, `decisions.md` and the active boundary test from the current GitHub repository before proceeding.
+To resume this work in a new conversation, read the README, `lab-book.md` and the active boundary test from the current GitHub repository before proceeding.

@@ -24,6 +24,6 @@ Fechtel, John (2025). ‘Why does it matter what you think about nature?’ *Nat
 
 **Project-wide:** Potential relevance to ethics as a transversal concern and to questions about how an assumed boundary between one's own body and others or the environment informs moral reasoning.
 
-**LLM interpretation (provisional):** The quotation may be useful as a contrast to relational and ecological accounts of bodily existence. It is **not** evidence for degrees of embodiment and should not be assimilated to the map simply because it uses the word ‘body’. The ethical argument may be more relevant to the body problem's conceptual boundaries than to BT-04.
+**LLM (ChatGPT) interpretation (provisional):** The quotation may be useful as a contrast to relational and ecological accounts of bodily existence. It is **not** evidence for degrees of embodiment and should not be assimilated to the map simply because it uses the word ‘body’. The ethical argument may be more relevant to the body problem's conceptual boundaries than to BT-04.
 
 **Map status:** No definitive conception assigned. No change to any boundary-test finding.

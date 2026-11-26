@@ -26,6 +26,6 @@ Mehling, W. E., Wrubel, J., Daubenmier, J. J., Price, C. J., Kerr, C. E., Silow,
 
 **Boundary test:** BT-04 – Degrees of embodiment (potentially significant); possibly BT-03 (awareness, currently suspended).
 
-**LLM interpretation (provisional):** This is a more explicit developmental account than the previous Mehling quotation. It links embodiment with changing relationships between body and self rather than merely increases in sensory acuity. It may be valuable for testing whether ‘degrees of embodiment’ could be understood as stages of integration or qualitative transformations. However, a proposed four-level developmental scheme is not, by itself, a quantitative scale or proof that people become ‘more embodied’.
+**LLM (ChatGPT) interpretation (provisional):** This is a more explicit developmental account than the previous Mehling quotation. It links embodiment with changing relationships between body and self rather than merely increases in sensory acuity. It may be valuable for testing whether ‘degrees of embodiment’ could be understood as stages of integration or qualitative transformations. However, a proposed four-level developmental scheme is not, by itself, a quantitative scale or proof that people become ‘more embodied’.
 
 **Possible map connections (not findings):** Lived body / phenomenology; interoception / feeling / selfhood. The project's map has no confirmed new category or axis on this basis.

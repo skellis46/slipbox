@@ -28,6 +28,6 @@ Ingold, T. (2013). *Making: Anthropology, Archaeology, Art and Architecture*. Ro
 
 **Possible map connection (not assigned):** Relationality / sense-making, insofar as ongoing responsiveness and correspondence are at issue. But fitting Ingold's language into that category risks erasing his explicit resistance to ‘embodiment’ as a term.
 
-**LLM interpretation (provisional):** The passage may provide a useful test of the boundary between an account omitted from the map and one that rejects the framing of the map itself. It is not evidence that embodiedness has a measurable degree or that relationality necessarily resolves the objection.
+**LLM (ChatGPT) interpretation (provisional):** The passage may provide a useful test of the boundary between an account omitted from the map and one that rejects the framing of the map itself. It is not evidence that embodiedness has a measurable degree or that relationality necessarily resolves the objection.
 
 **BT-04:** Possible conceptual counterpoint only; no alteration to agreed provisional findings.

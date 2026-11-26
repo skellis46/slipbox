@@ -28,5 +28,5 @@ Seth, A. K. and Tsakiris, M. (2018). ‘Being a Beast Machine: The Somatic Basis
 
 **Possible map connections:** Interoception / feeling / selfhood; lived body / phenomenology. These are candidate coordinates in *our* map, not categories assigned by Seth and Tsakiris.
 
-**LLM interpretation (provisional):** The contrast between *being* and *owning* a body may complicate BT-04's experiential shorthand equating increased bodily sensitivity with increased embodiment. On this account an aspect of embodied selfhood may persist as background experience rather than as an object of attention. That is a question for future testing, not a revision of the two agreed BT-04 findings.
+**LLM (ChatGPT) interpretation (provisional):** The contrast between *being* and *owning* a body may complicate BT-04's experiential shorthand equating increased bodily sensitivity with increased embodiment. On this account an aspect of embodied selfhood may persist as background experience rather than as an object of attention. That is a question for future testing, not a revision of the two agreed BT-04 findings.
 

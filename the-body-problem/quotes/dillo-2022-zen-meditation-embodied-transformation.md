@@ -22,7 +22,7 @@ Existing vault note: [Dillo – The Path of Aliveness](../../literature%20notes/
 
 **Source-based observation:** In the supplied passage, Dillo contrasts conceptual study with bodily meditation practice and maintains that transformation needs to manifest bodily. The passage expresses his account of Zen, not a claim established here about all traditions of Zen Buddhism.
 
-**LLM interpretation (provisional):** Relevant to the body problem's treatment of the relationship between conceptual knowing and bodily practice. It might also inform BT-04's discussion of embodiment cultivated through practice, but the quotation alone does not establish that embodiment admits of degrees.
+**LLM (ChatGPT) interpretation (provisional):** Relevant to the body problem's treatment of the relationship between conceptual knowing and bodily practice. It might also inform BT-04's discussion of embodiment cultivated through practice, but the quotation alone does not establish that embodiment admits of degrees.
 
 **Possible map connections (not assigned as findings):** Lived body / phenomenology; social inscription / cultural practice. The suitability of either category would need examination.
 

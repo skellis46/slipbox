@@ -1,15 +1,58 @@
 # BT-04: Degrees of embodiment
 
-Status: **provisionally concluded (5 November 2026)** – earlier status line updated 19 November 2026; see the provisional conclusion below  
-Opened: 14 October 2026
+| | |
+|---|---|
+| **Opened** | 14 October 2026 |
+| **Last updated** | 26 November 2026 |
+| **Status** | Provisionally concluded, 5 November 2026 |
+| **Question** | "Can something be more or less embodied?" Proposed but, according to the record, never formally agreed |
+| **Text** | LLM (ChatGPT) in iterative exchange with SE, written to GitHub through its connector. In this file "LLM" on its own means ChatGPT; text by Claude is marked LLM (Claude) |
 
-## In brief
+**Summary** *(LLM (Claude), 26 November 2026)*: can something be more or less embodied? For example, does a dancer become *more* embodied through years of training? SE and LLM looked at three different ideas of embodiment: as something absorbed into people's biology over a lifetime, as the body people live and feel, and as an ongoing process of making sense of the world.
 
-Can something be more or less embodied? For example, does a dancer become *more* embodied through years of training? We looked at three different ideas of embodiment: as something absorbed into our biology over a lifetime, as the body we live and feel, and as an ongoing process of making sense of the world.
+**Origin** *(LLM (Claude) from the records, confirmed by SE, 26 November 2026)*: BT-04 began on 14 October from a passage SE brought in from Rebecca Solnit's *A Field Guide to Getting Lost*, which calls writing "the most disembodied art". It was a provocation only: the test is not about ranking art forms. The question became whether something can be more or less embodied.
 
-**Result (provisional):** we found no general way to say that something is more or less embodied, but we did not show that it is impossible either. SE's experience suggests that growing bodily sensitivity can feel like becoming more embodied. This is recorded as a personal standpoint, not a general finding.
+**Where it stands** *(LLM (Claude), 19 and 26 November 2026)*: SE and LLM found no general way to say that something is more or less embodied, but did not show that it is impossible either. SE's experience suggests that growing bodily sensitivity can feel like becoming more embodied; this is recorded as a personal standpoint, not a general finding. The key distinction to emerge is that a change *within* embodiment, such as a dancer becoming more sensitive or someone's body changing after injury, is not necessarily becoming more or less embodied.
 
-**Key distinction:** a change *within* embodiment, such as a dancer becoming more sensitive or someone's body changing after injury, is not necessarily becoming more or less embodied.
+## Provisional conclusion – 5 November 2026 (agreed SE–LLM synthesis)
+
+**Status:** BT-04 provisionally concluded. The general question remains unresolved, but the comparison has produced a substantive conceptual distinction. No map alteration was agreed.
+
+**Question explored:** Can something be more or less embodied? The broader formulation remains a working question, not a retrospectively ratified exact question.
+
+### Findings across three conceptions
+
+1. **Biological incorporation.** Differences in bodily organisation, capacities and experience can be described across time. Krieger's (2005) ecosocial account treats embodiment as biological incorporation of social and ecological conditions. SE and LLM have not established whether these differences amount to increases or decreases in embodiment. This is their inference, not a claim attributed to Krieger.
+
+2. **Lived body / phenomenology.** From SE's situated experience of sustained somatic and dance practice, cultivated bodily sensitivity can meaningfully be understood as an increase in embodiment. Fraleigh (1987) provides relevant phenomenological dance scholarship, but she has not been established as endorsing an equivalence between sensitivity and degrees of embodiment. This remains a situated proposal rather than a general finding for phenomenology.
+
+3. **Relationality / sense-making.** This third conception proved provocative because it challenged the premise that embodiment can increase or decrease and opened further analytical possibilities. Enactive accounts connect sense-making with an agent's autonomous organisation and ongoing engagement with its environment (Di Paolo and Thompson, 2014). Accounts of sensorimotor development describe changes in the organisation and mastery of engagement (Di Paolo, Buhrmann and Barandiaran, 2017). Such changes do not necessarily establish that an agent becomes more embodied. That conclusion is the interpretation of SE and LLM, not a claim directly attributed to either source. The relationship between sense-making and embodiment itself remains unresolved, including whether sense-making may be one aspect of embodiment.
+
+### Overall provisional finding
+
+SE and LLM have not established that there are meaningful degrees of embodiment across disciplinary conceptions. Nor have they established that degrees are impossible. Changes in bodily capacities, sensitivity and sense-making cannot automatically be understood as increases or decreases in embodiment.
+
+An important distinction has emerged between *transformations within embodiment* and *increases in embodiment*. For example, a dancer who develops greater sensitivity to a partner's movements may experience a transformation in how they perceive and respond, but this does not necessarily mean they have become more embodied. Conversely, injury or disability may substantially change someone's bodily capacities and experiences without implying that they have become less embodied. Whether this distinction holds across conceptions remains open. These are conceptual illustrations, not empirical findings or claims attributed to the cited authors.
+
+BT-04 is provisionally closed as an enquiry that revealed differences in how embodiment is understood, not as a demonstration of a general scale. The third comparison was exploratory and is less firmly established by close textual analysis than the two findings agreed on 16 October.
+
+### Parked questions – not new active tests
+
+1. The relationship between embodiment and sense-making, including the possibility that sense-making is one aspect of embodiment.
+2. Challenges to the idea of degrees of embodiment, with injury and disability as important counterexamples to equating embodiment with bodily capacity.
+3. Transformations *within* embodiment versus increases *in* embodiment.
+4. Possible conceptual or empirical tests, deferred.
+
+### References
+
+- Di Paolo, E. A. and Thompson, E. (2014). 'The enactive approach'. In L. Shapiro (ed.), *The Routledge Handbook of Embodied Cognition*. Routledge.
+- Di Paolo, E. A., Buhrmann, T. and Barandiaran, X. E. (2017). *Sensorimotor Life: An Enactive Proposal*. Oxford University Press.
+- Fraleigh, S. H. (1987). *Dance and the Lived Body: A Descriptive Aesthetics*. University of Pittsburgh Press.
+- Krieger, N. (2005). 'Embodiment: a conceptual glossary for epidemiology'. *Journal of Epidemiology & Community Health*, 59(5), 350–355. https://doi.org/10.1136/jech.2004.024562
+
+## Historical record
+
+*Note (LLM (Claude), 26 November 2026): everything below is kept as a record of how BT-04 developed between 14 and 16 October 2026, before the provisional conclusion above. It is not needed to understand the test. It is left largely as written by LLM during the exchange with SE, apart from attribution labels ("assistant" is now LLM, "User" is now SE) and pronouns. Its instructions (for example the pause and "Next step" sections) belong to that period and are not current instructions.*
 
 ## Provocation (not evidence or a theoretical position adopted for this test)
 
@@ -41,9 +84,9 @@ Test whether different conceptions of embodiment make degrees intelligible, rath
 - **Proposed sharper test:** Investigate whether *the same activity* can become more or less embodied over time. If a genuine change in embodiment can be shown, that would support the possibility of degrees in at least that conception. But distinguish *a change in embodiment* from *a change in capacities occurring through embodiment*.
 - Comparison across different activities remains interesting but is not the first priority. No specific case, criterion or finding has been agreed.
 
-## First conceptual comparison – 14 October 2026 (assistant interpretation, not agreed)
+## First conceptual comparison – 14 October 2026 (LLM interpretation, not agreed)
 
-Working question: **When an activity changes over time, can any conception in our map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?** This is a working reformulation, not a newly agreed replacement for the original proposed question.
+Working question: **When an activity changes over time, can any conception in the map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?** This is a working reformulation, not a newly agreed replacement for the original proposed question.
 
 Three provisional comparisons, using the map's conception labels:
 
@@ -65,17 +108,17 @@ Three provisional comparisons, using the map's conception labels:
 
 **Working question accepted as clearer, but not formally ratified as the exact BT-04 question:**
 
-> When an activity changes over time, can any conception in our map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?
+> When an activity changes over time, can any conception in the map explain that change as a change in the degree of embodiment, rather than simply a change in bodily capacities or experience?
 
 The original broader question, 'Can something be more or less embodied?', remains proposed.
 
-**Agreed distinction:** Degrees of embodiment are not the same as degrees of bodily involvement. More movement, additional body parts contributing, greater bodily involvement or particular bodily morphologies cannot be equated with more embodiment. We must also distinguish a change *in* embodiment from a change *through* embodiment, without pretending we already know how to operationalise the difference.
+**Agreed distinction:** Degrees of embodiment are not the same as degrees of bodily involvement. More movement, additional body parts contributing, greater bodily involvement or particular bodily morphologies cannot be equated with more embodiment. SE and LLM must also distinguish a change *in* embodiment from a change *through* embodiment, without pretending they already know how to operationalise the difference.
 
-**User's direction:** Comparing an activity with itself across time is a promising route to testing degrees, since demonstrating a genuine increase over time would imply degrees. Comparison between activities remains interesting but less immediate. The possible multidimensional character of degrees is intriguing.
+**SE's direction:** Comparing an activity with itself across time is a promising route to testing degrees, since demonstrating a genuine increase over time would imply degrees. Comparison between activities remains interesting but less immediate. The possible multidimensional character of degrees is intriguing.
 
-**Exploratory work completed, without finding:** Assistant compared lived-body phenomenology, relationality/sense-making and biological incorporation. All accommodate transformations in embodied activity, but none of the limited examples or texts examined established a scale of embodiment. Do **not** infer from this that degrees are impossible. The map's 'dimensions' (conceptions, levels of investigation and knowledge modes) are classification coordinates, not quantities and must not be turned into degree-scales by default.
+**Exploratory work completed, without finding:** LLM compared lived-body phenomenology, relationality/sense-making and biological incorporation. All accommodate transformations in embodied activity, but none of the limited examples or texts examined established a scale of embodiment. Do **not** infer from this that degrees are impossible. The map's 'dimensions' (conceptions, levels of investigation and knowledge modes) are classification coordinates, not quantities and must not be turned into degree-scales by default.
 
-**Unresolved methodological point:** Could degrees be intelligible *within a particular conception* but not between conceptions? We need to determine whether any putative dimension actually measures embodiment rather than a different bodily phenomenon or research variable. The latest question above is specifically about whether to pursue this line.
+**Unresolved methodological point:** Could degrees be intelligible *within a particular conception* but not between conceptions? SE and LLM need to determine whether any putative dimension actually measures embodiment rather than a different bodily phenomenon or research variable. The latest question above is specifically about whether to pursue this line.
 
 **Provenance:** Rebecca Solnit's passage in *A Field Guide to Getting Lost* was solely a provocation. The test is neither about ranking art forms nor about proving Solnit right or wrong.
 
@@ -91,13 +134,13 @@ The original broader question, 'Can something be more or less embodied?', remain
 
 **Agreed provisional finding (SE–LLM, not Krieger's claim):**
 
-> Within the conception of biological incorporation, differences in bodily organisation, capacities and embodied experience can be described across time. It is conceivable that these differences bear some relationship to degrees of embodiment. However, the nature of that relationship remains unresolved, and we have not established grounds for determining or even understanding degrees of embodiment within this conception.
+> Within the conception of biological incorporation, differences in bodily organisation, capacities and embodied experience can be described across time. It is conceivable that these differences bear some relationship to degrees of embodiment. However, the nature of that relationship remains unresolved, and SE and LLM have not established grounds for determining or even understanding degrees of embodiment within this conception.
 
-**Discussion provenance:** SE proposed changes in embodied experience and activity across a lifetime, including walking with a stick and changing experiences of running, as meaningful for thinking about degrees. LLM distinguished describable changes from inferences or assumptions about degrees. We did not establish how degrees could be understood or determined.
+**Discussion provenance:** SE proposed changes in embodied experience and activity across a lifetime, including walking with a stick and changing experiences of running, as meaningful for thinking about degrees. LLM distinguished describable changes from inferences or assumptions about degrees. SE and LLM did not establish how degrees could be understood or determined.
 
 ### 2. Lived body / phenomenology
 
-**Conception:** Lived body / phenomenology. Embodiment understood through the body as lived and experienced, including sensation, perception and movement (provisional characterisation of our map category).
+**Conception:** Lived body / phenomenology. Embodiment understood through the body as lived and experienced, including sensation, perception and movement (provisional characterisation of the map category).
 
 **Account considered:** Sondra Horton Fraleigh (1987), *Dance and the Lived Body: A Descriptive Aesthetics*. Selected because it brings phenomenological thinking into the experience of dancing. Fraleigh has **not** been verified as endorsing the equivalence between bodily sensitivity and embodiment.
 
@@ -112,41 +155,3 @@ The original broader question, 'Can something be more or less embodied?', remain
 Select **one third contrasting conception** from the existing seven provisional map conceptions, giving a brief account of what it is and why it offers a useful contrast. Examine one identifiable account, distinguishing source evidence from SE and LLM interpretations. Seek a bounded provisional finding and then assess what the three comparisons reveal about degrees and the map, without automatically extending the investigation or changing the map. The third conception and specific account have **not** yet been selected or agreed.
 
 **Outstanding:** The overall BT-04 question remains proposed, not formally ratified. Nothing here establishes a common scale across conceptions, proves degrees of embodiment generally or resolves the relationship between degrees and kinds of embodiment. The 14 October pause text above is historical and must not override this next step.
-
-
-## Provisional conclusion – 5 November 2026 (agreed SE–LLM synthesis)
-
-**Status:** BT-04 provisionally concluded. The general question remains unresolved, but the comparison has produced a substantive conceptual distinction. No map alteration was agreed.
-
-**Question explored:** Can something be more or less embodied? The broader formulation remains a working question, not a retrospectively ratified exact question.
-
-### Findings across three conceptions
-
-1. **Biological incorporation.** Differences in bodily organisation, capacities and experience can be described across time. Krieger's (2005) ecosocial account treats embodiment as biological incorporation of social and ecological conditions. We have not established whether these differences amount to increases or decreases in embodiment. This is our inference, not a claim attributed to Krieger.
-
-2. **Lived body / phenomenology.** From SE's situated experience of sustained somatic and dance practice, cultivated bodily sensitivity can meaningfully be understood as an increase in embodiment. Fraleigh (1987) provides relevant phenomenological dance scholarship, but she has not been established as endorsing an equivalence between sensitivity and degrees of embodiment. This remains a situated proposal rather than a general finding for phenomenology.
-
-3. **Relationality / sense-making.** This third conception proved provocative because it challenged the premise that embodiment can increase or decrease and opened further analytical possibilities. Enactive accounts connect sense-making with an agent's autonomous organisation and ongoing engagement with its environment (Di Paolo and Thompson, 2014). Accounts of sensorimotor development describe changes in the organisation and mastery of engagement (Di Paolo, Buhrmann and Barandiaran, 2017). Such changes do not necessarily establish that an agent becomes more embodied. That conclusion is our interpretation, not a claim directly attributed to either source. The relationship between sense-making and embodiment itself remains unresolved, including whether sense-making may be one aspect of embodiment.
-
-### Overall provisional finding
-
-We have not established that there are meaningful degrees of embodiment across disciplinary conceptions. Nor have we established that degrees are impossible. Changes in bodily capacities, sensitivity and sense-making cannot automatically be understood as increases or decreases in embodiment.
-
-An important distinction has emerged between *transformations within embodiment* and *increases in embodiment*. For example, a dancer who develops greater sensitivity to a partner's movements may experience a transformation in how they perceive and respond, but this does not necessarily mean they have become more embodied. Conversely, injury or disability may substantially change someone's bodily capacities and experiences without implying that they have become less embodied. Whether this distinction holds across conceptions remains open. These are conceptual illustrations, not empirical findings or claims attributed to the cited authors.
-
-BT-04 is provisionally closed as an enquiry that revealed differences in how embodiment is understood, not as a demonstration of a general scale. The third comparison was exploratory and is less firmly established by close textual analysis than the two findings agreed on 16 October.
-
-### Parked questions – not new active tests
-
-1. The relationship between embodiment and sense-making, including the possibility that sense-making is one aspect of embodiment.
-2. Challenges to the idea of degrees of embodiment, with injury and disability as important counterexamples to equating embodiment with bodily capacity.
-3. Transformations *within* embodiment versus increases *in* embodiment.
-4. Possible conceptual or empirical tests, deferred.
-
-### References
-
-- Di Paolo, E. A. and Thompson, E. (2014). 'The enactive approach'. In L. Shapiro (ed.), *The Routledge Handbook of Embodied Cognition*. Routledge.
-- Di Paolo, E. A., Buhrmann, T. and Barandiaran, X. E. (2017). *Sensorimotor Life: An Enactive Proposal*. Oxford University Press.
-- Fraleigh, S. H. (1987). *Dance and the Lived Body: A Descriptive Aesthetics*. University of Pittsburgh Press.
-- Krieger, N. (2005). 'Embodiment: a conceptual glossary for epidemiology'. *Journal of Epidemiology & Community Health*, 59(5), 350–355. https://doi.org/10.1136/jech.2004.024562
-
