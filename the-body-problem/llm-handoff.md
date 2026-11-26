@@ -37,7 +37,7 @@ The [candidate pool](future-tests/candidate-pool.md) now tracks C03/C06's develo
 
 ## Historical resumption position – 5 November 2026: BT-04
 
-**BT-04 is provisionally concluded**, with an unresolved general question but a substantive conceptual finding. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md), the latest [lab book](lab-book.md) and [Scott updates](scott%20updates.md). No map change or new active boundary test has been agreed.
+**BT-04 is provisionally concluded**, with an unresolved general question but a substantive conceptual finding. See [BT-04](boundary-tests/BT-04-degrees-of-embodiment.md), the latest [lab book](lab-book.md) and [updates for SdH](updates%20for%20SdH.md). No map change or new active boundary test has been agreed.
 
 Across biological incorporation, lived body / phenomenology and relationality / sense-making, we found no general basis to say that embodiment increases or decreases, but also did not establish that degrees are impossible. The third conception challenged the assumption that more sophisticated sense-making entails greater embodiment and opened new lines of enquiry. Distinguish *transformations within embodiment* from *increases in embodiment*: a dancer's developing sensitivity or changes following injury or disability need not imply becoming more or less embodied.
 
@@ -75,6 +75,6 @@ To resume in another session: fetch the latest GitHub versions of the README, [`
 
 **Not to do on resumption:** settle awareness by assertion, treat somatic expertise as part of BT-03, reopen the settled map-fit rule, turn a suggested additional axis into a decision or declare BT-01 or BT-03 complete without discussion.
 
-**For Scott:** [`scott updates.md`](scott%20updates.md) is the deliberately brief, most-recent-first log of each working session. Add a new dated and time-stamped entry above earlier entries after future sessions, with at most eight brief bullets and no more than two sentences per bullet. Keep the fuller intellectual decision history here in [`lab-book.md`](lab-book.md).
+**For Scott:** [`updates for SdH.md`](updates%20for%20SdH.md) is the deliberately brief, most-recent-first log of each working session. Add a new dated and time-stamped entry above earlier entries after future sessions, with at most eight brief bullets and no more than two sentences per bullet. Keep the fuller intellectual decision history here in [`lab-book.md`](lab-book.md).
 
 To resume this work in a new conversation, read the README, `lab-book.md` and the active boundary test from the current GitHub repository before proceeding.

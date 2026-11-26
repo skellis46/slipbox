@@ -1,102 +1,54 @@
-# The body problem: research record
+# The body problem
 
-Updated: 26 November 2026  
-Status: working record, not a finished chapter or settled taxonomy
+Updated: 26 November 2026
 
-## Purpose
+This folder is the working record of *The Body Problem*, a chapter by SE (Simon Ellis) and SdH (Scott deLahunta) for *Embodiment and Dance: A Reader on Somatic Thinking, Practice and Research*. It is a record of a process, not a finished chapter. *This README was written by LLM (Claude) at SE's request, 26 November 2026.*
 
-This folder records the development of a chapter by Simon Ellis and Scott deLahunta for *Embodiment and Dance: A Reader on Somatic Thinking, Practice and Research*. The chapter proposal has two parts: a cross-disciplinary examination of conceptions of embodiment and an articulation of **the body problem** – the body is central to experience but difficult to articulate, evidence or value within dominant knowledge systems. Dance makes the tension visible rather than resolving it.
+## Start here
 
-Our immediate focus is not adding references to the existing maps. It is establishing what their boundaries might be and testing these boundaries against specific examples.
+- **Where things stand now:** [current summary](current-summary.md).
+- **What has changed since last time:** [updates for SdH](updates%20for%20SdH.md) and [updates for SE](updates%20for%20SE.md).
+- **Why the process changed when it did:** [lab book](lab-book.md).
+- **What to do next:** [to do](todo.md).
 
-## The maps and their status
+The project works in two parallel ways. SE tests a provisional map of embodiment against examples (the boundary tests), working with an LLM. SdH works with dance's trade literature, mostly printed books that are not digitised (`analogue_trade/`).
 
-Two maps have been developed: a simpler map and a multidimensional map. Both are **provisional thinking tools**, not comprehensive taxonomies.
+## At the end of each working session
 
-They distinguish:
-- Seven provisional **conceptions of embodiment**: biological incorporation; bodily constraint / affordance; cognition / language / simulation; interoception / feeling / selfhood; relationality / sense-making; lived body / phenomenology; social inscription / cultural practice
-- Seven **levels of investigation** drawn from Lux et al. (2021), from genetic and epigenetic activity to social and cultural interaction
-- Six **evidence and knowledge modes**: biological / physiological measurement; behavioural / experimental measurement; self-report / first-person data; interviews / ethnography / observation; theoretical / conceptual work; practice-based / pedagogical knowledge
+- Update the [current summary](current-summary.md).
+- Add a dated entry to the relevant updates file.
+- Add a [lab book](lab-book.md) entry only for a change to the map, the method or the conventions, or for an instance of drift.
 
-The maps extend beyond Lux et al.'s life-sciences integration project. Lux's levels are analytical distinctions open to adaptation, not empirical entities.
+## Which file is for what
 
-## Working premises
+**Overview**
+- [Current summary](current-summary.md): where things stand now
+- [To do](todo.md): current working list
+- [Lab book](lab-book.md): changes to the map, method and conventions, and instances of drift
+- [Updates for SdH](updates%20for%20SdH.md) and [updates for SE](updates%20for%20SE.md): brief session summaries
+- [Meeting notes](meeting-notes-sdh-se.md): notes from SE and SdH's meetings, newest first
+- [Chapter proposal](20260204%20-%20the%20body%20problem%20-%20ellis%20and%20delahunta.md), 4 February 2026
+- The two maps: [simpler](embodiment_map_simpler.png) and [multidimensional](embodiment_map_multidimensional.png)
 
-- The enquiry lies neither in everything concerning **the body** (too broad) nor solely in work explicitly named **embodiment** (too restrictive).
-- A provisional *criterion for investigating*, **not defining or admitting**, an account is: “We are interested in accounts in which the body's material organisation, capacities, experiences, practices or social formation are consequential to how phenomena are understood, experienced, produced or investigated.”
-- The four verbs and the word **consequential** remain open to interrogation. The formulation may be too permissive or instrumental.
-- It is not currently helpful to enforce a sharp distinction between what a body **is** and what it **does**. There is a tentative preference for becoming, experiencing and acting, not an inclusion rule.
-- A case can warrant examination at the margins even if it ultimately cannot be accommodated in the map.
-- A genuinely outside case must be permitted. Indefinitely expanding the map to accommodate everything would defeat the purpose of boundary testing.
+**Boundary tests (SE with an LLM)**
+- [BT-01: Relational bodily encounters](boundary-tests/BT-01-relational-bodily-encounters.md)
+- [BT-02: Embodiment without experience](boundary-tests/BT-02-embodiment-without-experience.md)
+- [BT-03: Awareness as a boundary marker](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md)
+- [BT-04: Degrees of embodiment](boundary-tests/BT-04-degrees-of-embodiment.md)
+- [BT-05: Ordinary bodily habit](boundary-tests/BT-05-ordinary-bodily-habit.md)
+- [BT-06: Communicating bodily knowing](boundary-tests/BT-06-communicating-bodily-knowing.md)
+- [BT-07: Kinds of knowing and their evidence](boundary-tests/BT-07-knowing-and-evidence.md)
+- [Candidate pool](future-tests/candidate-pool.md) and [somatic expertise](future-tests/somatic-expertise.md): possible future tests
+- [Quotation notes](quotes/about-quotes.md) and [source inventory](sources/source-inventory.md)
 
-The microfiche metaphor: moving the frame reveals different parts of a much larger territory, but the enquiry must also attend to what its conceptual frame prevents us from seeing.
+**Trade literature (SdH)**
+- [Trade literature](analogue_trade/trade_literature.md): description, assumptions and questions
+- [Jacket cover blurbs](analogue_trade/TL_jacket_cover_blurbs.md)
+- [The Body Problem in a Nutshell](analogue_trade/The_Body_Problem_in_a_Nutshell.md), SdH's narrative of 20 November 2026
 
-## Distinctions to retain
-
-- **Omission:** relevant account absent from the diagram but potentially accommodated by existing coordinates.
-- **Representational limitation:** the framework can accommodate the account, but the visual map cannot display an important distinction.
-- **Conceptual boundary:** mapping the account would require distorting its premises or changing the existing framework.
-- **Genuine outside:** even calling the account one of embodiment would impose an inappropriate concept.
-- **Inconclusive:** insufficient evidence or unresolved interpretation.
-
-These are working possibilities, not mutually exclusive or definitive outcomes.
-
-## Situated standpoint
-
-SE comes to questions of embodiment principally through somatics, including sensitivity to bodily sensation and felt sense. This gives particular salience to awareness, but must be recognised as a situated intellectual and practical orientation rather than an assumption about all forms of embodiment. In boundary testing, distinguish environmental coupling and responsiveness from awareness or felt experience; do not let these differences become unexamined inclusion criteria. See BT-02 for the passive walker example.
-
-## Boundary-test method
-
-Proceed **one test at a time**:
-1. Preserve the exact agreed test question.
-2. Identify a bounded case and distinguish a source's claims from inferences made by SE and the LLM.
-3. Try locating it within the existing conceptions, levels and knowledge modes **without editing the map**.
-4. Specify what fits, what is lost and whether that loss reflects the diagram, the analytical scheme or the source material.
-5. Record a provisional finding with reasons, objections and unresolved issues.
-6. Agree any change explicitly before treating it as decided.
-
-**Dimensional fit is not mandatory.** An account need not be placed within all three dimensions. Record 'failure points': non-applicability, strained fit and conceptual incompatibility, without collapsing them into a single failure label. Attend to what each reveals, whether the limit belongs to the map's design, to the scope or assumptions of an individual dimension or to a conception being investigated. Do not automatically extend or repair the map to remove these points.
-
-A new map category is **not** the automatic response to a difficult test.
-
-## Current position – 26 November 2026
-
-*Status summary written by LLM (Claude) on 26 November 2026 from the boundary-test files and lab book, for SE and SdH to check.*
-
-- **BT-01**, relational bodily encounters: question agreed, no finding.
-- **BT-02**, embodiment without experience: agreed provisional outcome. The passive walker fits bodily constraint / affordance but sits uneasily within Lux's biologically oriented levels; the poor fit is retained as informative.
-- **BT-03**, awareness: suspended without a finding (14 October).
-- **BT-04**, degrees of embodiment: provisionally concluded (5 November).
-- **BT-05**, ordinary bodily habit: provisionally concluded (5 November).
-- **BT-06**, communicating bodily knowing: provisionally concluded (5 November).
-- **BT-07**, kinds of knowing and their evidence: open. Both stage findings agreed (19 November); waiting on SdH's view of the proposed change to the map key.
-
-Other possible lines include ethics as a transversal concern and traditions which might not understand bodies through 'embodiment' at all. No new categories or literature coverage programme have been authorised.
-
-**Unresolved across the project:** criteria for genuine exclusion, the status of the 'bodily consequentiality' formulation, whether/how transversal concerns such as ethics belong on the map and how to avoid imposing embodiment vocabulary on traditions organised by different concepts.
-
-## Working files
-
-- [To do – current working list](todo.md)
-- [Lab book – map, method, convention and drift entries](lab-book.md)
-- [LLM handoff – instructions for LLM sessions](llm-handoff.md)
-- [Boundary test 01](boundary-tests/BT-01-relational-bodily-encounters.md)
-- [Boundary test 02](boundary-tests/BT-02-embodiment-without-experience.md)
-- [Boundary test 03 – suspended](boundary-tests/BT-03-awareness-and-bodily-responsiveness.md)
-- [Boundary test 04 – provisionally concluded](boundary-tests/BT-04-degrees-of-embodiment.md)
-- [Boundary test 05 – provisionally concluded](boundary-tests/BT-05-ordinary-bodily-habit.md)
-- [Boundary test 06 – provisionally concluded](boundary-tests/BT-06-communicating-bodily-knowing.md)
-- [Boundary test 07 – open](boundary-tests/BT-07-knowing-and-evidence.md)
-- [Future boundary-test candidate pool](future-tests/candidate-pool.md)
-- [Future test: somatic expertise](future-tests/somatic-expertise.md)
-- [Scott updates – brief session summaries](scott%20updates.md)
-- [Simon updates – brief session summaries](simon%20updates.md)
-- [Source inventory](sources/source-inventory.md)
-- [Quotation notes](quotes/about-quotes.md)
-
-## Lab book
-
-Changes to the map, the method and the conventions, and instances of drift, are recorded newest first in the [lab book](lab-book.md), which explains its format. Opening, suspending or concluding a boundary test is recorded only in the test file.
+**Working with the repository**
+- [Git workflow](git%20workflow.md)
+- [LLM handoff](llm-handoff.md): instructions for LLM sessions
 
 ## Conventions
 

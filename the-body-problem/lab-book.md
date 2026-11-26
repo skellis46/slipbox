@@ -19,6 +19,12 @@ Heading format: `YYYY-MM-DD HH:mm GMT/BST | Type | Status | Scope`. Where the ti
 
 ## Entries
 
+### 2026-11-26 12:35 GMT | Convention | Agreed (SE) | Project-wide
+
+**README split:** the README becomes a short "start here" file: what the project is, where to look, what to do at the end of a session, which file is for what, and the conventions. The project's thinking (purpose, maps, premises, distinctions, method) and the current position move to [current-summary.md](current-summary.md), updated by SE at the end of each working session. The summary gives a snapshot of where things stand; the updates files record what has changed since last time. `scott updates.md` and `simon updates.md` were renamed `updates for SdH.md` and `updates for SE.md`.
+
+*Entry written by LLM (Claude) at SE's request.*
+
 ### 2026-11-26 11:55 GMT | Convention | Agreed (SE) | Project-wide
 
 **Attribution from git:** where a file's text was written by an LLM, the model is identified from the commit history, using what SE has confirmed about each account. Commits by `skellis` (GitHub no-reply address) between 8 October and 5 November 2026 were made by ChatGPT through its GitHub connector. Work from 19 November 2026 onwards was done with Claude, committed from SE's machine. A commit shows which LLM wrote a file to the repository, not that it wrote every word; SE's contributions within an exchange are covered by "in iterative exchange with SE". Where neither git nor SE can settle it, the label is "LLM" alone.
@@ -57,7 +63,7 @@ Heading format: `YYYY-MM-DD HH:mm GMT/BST | Type | Status | Scope`. Where the ti
 
 ### 2026-11-05 | Method | Decided by SE | Whole process
 
-**Simpler tests:** SE proposed simpler boundary tests (BT-05 was the first) to avoid ontological and epistemological debates with LLM (ChatGPT) that did not push the enquiry forward and were, for the most part, being rehashed. Behind this is a recognition that the process is hard to contain intellectually and that it is easy to lose track of what is happening at a high level. That is partly about working with an LLM and partly about the scale of the project.
+**A simpler test as a break:** SE proposed a simpler boundary test (BT-05) as a break from wading into ontological and epistemological debates with LLM (ChatGPT) every time; those debates did not push the enquiry forward and were, for the most part, being rehashed. This was not a rule that all tests should be simpler. Behind it is a recognition that the process is hard to contain intellectually and that it is easy to lose track of what is happening at a high level. That is partly about working with an LLM and partly about the scale of the project.
 
 *Entry written by LLM (Claude) from SE's account, 26 November 2026.*
 
@@ -71,7 +77,7 @@ Heading format: `YYYY-MM-DD HH:mm GMT/BST | Type | Status | Scope`. Where the ti
 
 **SdH joins the repository:** SdH was set up to work in GitHub, with a new `analogue_trade` folder for the trade literature and a [git workflow](git%20workflow.md) to follow each time. SE and SdH agreed to work separately for now and to use branches when working on a document together.
 
-*Entry added by LLM (Claude) on 26 November 2026 from [simon updates](simon%20updates.md) (written by SdH) of 16 October.*
+*Entry added by LLM (Claude) on 26 November 2026 from [updates for SE](updates%20for%20SE.md) (written by SdH) of 16 October.*
 
 ### 2026-10-14 | Drift | Recorded 26 November 2026 | BT-03
 

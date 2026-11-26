@@ -1,21 +1,24 @@
 # BT-06: Communicating bodily knowing
 
-Status: **provisionally concluded – representational limitation, no map alteration**  
-Agreed: 5 November 2026
+| | |
+|---|---|
+| **Opened and agreed** | 5 November 2026 |
+| **Last updated** | 26 November 2026 |
+| **Status** | Provisionally concluded, 5 November 2026. Representational limitation; no map change |
+| **Question agreed by** | SE and LLM (ChatGPT) |
+| **Text** | LLM (ChatGPT) in iterative exchange with SE, written to GitHub through its connector. In this file "LLM" on its own means ChatGPT; text by Claude is marked LLM (Claude) |
 
-## In brief
+**Summary** *(LLM (Claude), 26 November 2026)*: how is bodily know-how passed on? Imagine a baker teaching someone to knead dough. They might explain in words, demonstrate or guide the learner's hands and attention to how the dough feels.
 
-How is bodily know-how passed on? Imagine a baker teaching someone to knead dough. They might explain in words, demonstrate or guide the learner's hands and attention to how the dough feels.
+**Origin** *(LLM (Claude) from the records, confirmed by SE, 26 November 2026)*: BT-06 developed from candidate C03 (knowing how to perform a movement versus knowing how to describe it), one of the 5 November simple-test proposals. It was sharpened by BT-05's deferred question about bodily knowing and articulating that knowing, and moved from description towards communication that helps another person develop practical knowing. The baker example was chosen in response to SE's request to look outside dance.
 
-**Result (provisional):** the map can include all three. But it cannot show the difference between *handing over information* and *helping someone develop their own feel* for a task, a distinction drawn by the anthropologist Tim Ingold. This is a limit of how the map is drawn, not a reason to change it.
+**Where it stands** *(LLM (Claude), 19 and 26 November 2026)*: the map can include all three ways of passing on know-how. But it cannot show the difference between *handing over information* and *helping someone develop their own feel* for a task, a distinction drawn by the anthropologist Tim Ingold. This is a limit of how the map is drawn, not a reason to change it. For the chapter: perhaps bodily knowledge seems hard to communicate partly because people expect knowledge to be separable from the activity in which it is learned. This is a question, not a conclusion.
 
-**For the chapter:** perhaps bodily knowledge seems hard to communicate partly because we expect knowledge to be separable from the activity in which it is learned. This is a question, not a conclusion.
+## Agreed question
 
-## Question explored
+> Can the map accommodate different ways in which bodily knowing is communicated, including through propositional description, demonstration and guided participation?
 
-Can the map accommodate different ways in which bodily knowing is communicated, including through propositional description, demonstration and guided participation?
-
-This formulation developed from the question of performing versus describing movement (candidate C03), through consideration of *description* as one form of communication, and finally towards communication that facilitates another person's practical knowing. The question is a working formulation, not a claim that all communication conveys pre-existing knowledge.
+This formulation developed from the question of performing versus describing movement (candidate C03), through consideration of *description* as one form of communication, and finally towards communication that helps another person develop practical knowing. The word "communicated" is not meant to imply that all communication hands over knowledge that already exists.
 
 ## Bounded example: learning to knead dough
 
@@ -36,15 +39,15 @@ Relevant zettels:
 - [the Dao of butchering cows](../../the%20Dao%20of%20butchering%20cows.md), a possible non-dance comparison that was **not** pursued in this bounded test
 - [Scott's analogue trade literature](../analogue_trade/trade_literature.md), which separately asks how publications communicate practitioners' experiential knowledge and to whom
 
-## Map assessment – SE–LLM interpretation
+## Map assessment (SE and LLM interpretation)
 
 | Map dimension | Provisional reading |
 | --- | --- |
-| Conceptions | Relationality / sense-making and lived body / phenomenology can accommodate the developing responsiveness and practical familiarity of a learner. These are our map locations, not Ingold's categories. |
-| Levels of investigation | Sensorimotor activity and social interaction are relevant, without forcing the example to fit every level. |
-| Evidence and knowledge modes | Practice-based / pedagogical knowing is relevant; observation, interviews and first-person accounts could be ways of investigating the process. These methods do not necessarily specify how knowledge is communicated or acquired. |
+| Conceptions | Conception 5, relationality / sense-making (embodied interaction constitutes meaning), and conception 6, lived body / phenomenology (the body as perspective and lived experience), can accommodate the developing responsiveness and practical familiarity of a learner. These are map locations, not Ingold's categories. |
+| Levels of investigation | Sensorimotor activity and social interaction are relevant (Lux's level 4, sensory and motor activity, and level 7, social and cultural interaction: *reading added by LLM (Claude), 26 November 2026*), without forcing the example to fit every level. |
+| Evidence and knowledge modes | "Practice-based or pedagogical knowledge" is relevant; "interview / ethnographic / observational data" and "self-report or first-person data" could be ways of investigating the process. These methods do not necessarily specify how knowledge is communicated or acquired. |
 
-## Agreed provisional finding
+## Agreed provisional finding (SE and LLM)
 
 The existing map can accommodate different practices through which bodily knowing is communicated, principally through relationality / sense-making and lived body / phenomenology. Ingold's (2001, 2013) account of the education of attention complicates models of communication understood solely as the transmission of pre-existing knowledge, drawing attention instead to the conditions through which practical understanding develops in situated activity.
 
@@ -60,7 +63,7 @@ The test therefore contributes both to evaluating the map and to the chapter's e
 
 - **Communication is not identical to learning.** BT-06 considered how communication may help establish conditions for learning without attempting a general theory of learning.
 - Communication is not guaranteed transmission of the expert's own experience or practical understanding.
-- **Robotics, programming and machine learning:** SE raised whether teaching or communicating bodily capacities must be human-to-human. The discussion considered robot programming and learning from demonstration, then agreed this expanded the test too far and should be parked as a separate candidate. No claim about robot experience or knowledge was established.
+- **Robotics, programming and machine learning:** SE raised whether teaching or communicating bodily capacities must be human-to-human. SE and LLM considered robot programming and learning from demonstration, then agreed this expanded the test too far and should be parked as a separate candidate. No claim about robot experience or knowledge was established.
 - BT-06 did not settle what constitutes bodily knowing, the relation of knowing-how to knowing-that or the conditions for successful communication.
 
 ## References

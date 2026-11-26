@@ -1,4 +1,4 @@
-# simon updates
+# updates for SE
 
 Brief session summaries for Simon. Add each new dated entry **above** earlier entries; times are UK local time and refer to when the summary was recorded.
 

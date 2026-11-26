@@ -1,4 +1,4 @@
-# scott updates
+# updates for SdH
 
 ## 19 November 2026, 12:38 GMT – BT-07 findings and a proposed change to the map key
 

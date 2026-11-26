@@ -30,7 +30,7 @@ These are different cases and cannot be treated as interchangeable evidence. Hsu
 
 The map offers possible categories for conception 5, relationality / sense-making (embodied interaction constitutes meaning), and conception 6, lived body / phenomenology (the body as perspective and lived experience). Three of Lux's seven levels appear relevant: level 4, sensory and motor activity; level 5, integrative sensations, (intero)perception and discrimination; and level 7, social and cultural interaction. The evidence / knowledge mode "practice-based or pedagogical knowledge" may apply to a contemporary somatic case. Historical analysis is not clearly represented by any of the six evidence / knowledge modes.
 
-The map does not show whose sensing, knowing or meaning is at issue. This might be a representational limitation (the map's categories can hold the difference but the drawing cannot show it) rather than a conceptual boundary (showing it would distort the account or change the map); see the distinctions in the [README](../README.md). Which of these it is has not yet been tested, so it should not be assumed to be a failure of the map.
+The map does not show whose sensing, knowing or meaning is at issue. This might be a representational limitation (the map's categories can hold the difference but the drawing cannot show it) rather than a conceptual boundary (showing it would distort the account or change the map); see the distinctions in the [current summary](../current-summary.md#distinctions-to-retain). Which of these it is has not yet been tested, so it should not be assumed to be a failure of the map.
 
 ## Cautions
 

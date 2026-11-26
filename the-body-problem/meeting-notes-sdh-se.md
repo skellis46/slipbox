@@ -81,7 +81,7 @@ Your full list is appended. I don't have much to add, but here are some things I
 
 1. Maintain for now the **Crude Difference** in our processes working separately with digital and analogue material.
 2. I continue the focus on the analogue process with Dance's Trade Literature. I want to look for a smaller and better selection, but still need to work on my criteria. Re-reading three earlier essays has been one strategy for that. I will (probably) break out of the data spreadsheet for now.
-3. Are we asking similar questions of the materials? We discussed the possibility to find questions that go both ways. I will start looking at your three Boundary Test questions ([scott updates](https://github.com/skellis46/slipbox/blob/master/the-body-problem/scott%20updates.md)).
+3. Are we asking similar questions of the materials? We discussed the possibility to find questions that go both ways. I will start looking at your three Boundary Test questions ([scott updates](https://github.com/skellis46/slipbox/blob/master/the-body-problem/updates%20for%20SdH.md)).
 4. My plan is to (somehow) prepare so I can work productively with you next Friday in person. I also like the possibility to look over your shoulder as you go back and forth with chatgpt (also means if you get too many things on your plate this week, save up some work to do then).
 
 BTW I really like [that writing you sent](https://aiguide.substack.com/p/misleading-metaphors-and-real-risks) to the team from Melanie Mitchell. Her last line seems like a possible guideline of sorts for us and our crude difference/ berry vs minsky spectrum… ?

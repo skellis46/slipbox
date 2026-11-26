@@ -10,7 +10,7 @@
 
 **Summary** *(LLM (Claude), 26 November 2026)*: you walk into a familiar room in the dark and reach straight for the light switch without thinking. Can the map describe an ordinary habit like this?
 
-**Origin** *(SE, 26 November 2026)*: SE proposed a simpler test to avoid ending up in ontological and epistemological debates with the LLM that did not seem to push the enquiry forward; for the most part those debates were being rehashed.
+**Origin** *(SE, 26 November 2026)*: SE proposed a simpler test as a break from wading into ontological and epistemological debates with the LLM every time; those debates did not seem to push the enquiry forward and, for the most part, were being rehashed. It was not a rule that all tests should be simpler.
 
 **Where it stands** *(LLM (Claude), 19 and 26 November 2026)*: yes, the map describes it easily, using the philosopher Maurice Merleau-Ponty's account of the body as lived and familiar with its world. Because the fit was so easy, the test shows the map is useful for describing things but did not challenge it much. Also noted: practice and repetition build bodily skills, but that does not mean someone becomes more embodied (see [BT-04](BT-04-degrees-of-embodiment.md)).
 

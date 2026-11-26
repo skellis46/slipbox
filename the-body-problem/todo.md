@@ -1,10 +1,10 @@
 # To do – The Body Problem
 
-Updated: 19 November 2026
+Updated: 26 November 2026
 
 A short working list for SE. It points to the detailed records; it does not replace them. Tick or delete items as they are done. Possible future boundary tests live in the [candidate pool](future-tests/candidate-pool.md); this list only names the ones currently in view.
 
-## Waiting on Scott
+## Waiting on SdH
 
 - [ ] SdH's view on the proposed map-key change from [BT-07](boundary-tests/BT-07-knowing-and-evidence.md): title → "How claims are investigated and supported"; "practice-based or pedagogical knowledge" → "practice-based". Then decide whether to close BT-07 provisionally.
 - [ ] Raise candidate **C16** (one trade-literature book against the map) as a possible joint test.
@@ -17,17 +17,20 @@ A short working list for SE. It points to the detailed records; it does not repl
 
 ## Tests not finished
 
-- **BT-01** relational bodily encounters: open, no finding.
-- **BT-03** awareness: suspended, no finding.
-- **BT-07** knowing and evidence: open, waiting on Scott (above).
+See the current position in the [current summary](current-summary.md#current-position--26-november-2026).
 
-## Possible next tests (details in the candidate pool)
+## Possible next tests (details in the [candidate pool](future-tests/candidate-pool.md))
 
 - **C07b** – does the map as a whole assume propositional knowledge is the norm? Sources: Pakes (2003, 2009); Borgdorff (2012) as a challenge.
 - **C09** – embodiment as an achievement of practice (Mehling 2011).
 - **C16** – one trade-literature book against the map (with SdH).
 - **C14** – a genuine outside to embodiment (possibly Ingold's critique).
 - **C08** – somatic expertise without prescribed outcomes.
+
+## From 26 November 2026
+
+- [ ] Write the next entry in [updates for SdH](updates%20for%20SdH.md), including the pronoun convention, the lab book and the restructured boundary tests (informing SdH, not asking for approval).
+- [ ] Commit and push today's changes to GitHub.
 
 ## Housekeeping
 
