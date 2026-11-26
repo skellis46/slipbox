@@ -1,5 +1,17 @@
 # updates for SdH
 
+## 26 November 2026, 13:00 GMT – the record reorganised for legibility
+
+*Written by LLM (Claude) for SE. For information; nothing here needs your approval.*
+
+- **Boundary tests:** each now opens with a short table (opened, status, who agreed the question, who wrote the text), a summary, its origin and where it stands. Older working material is kept below as a labelled historical record.
+- **Who is speaking:** "we" now means SE and SdH only; any other combination is named. LLM text is labelled with the model: ChatGPT for 8 October to 5 November (identified from the git history) and Claude from 19 November.
+- **New files and names:** the [README](README.md) is now a short "start here" page, and the project's thinking and current position are in the [current summary](current-summary.md). `decisions.md` is now the [lab book](lab-book.md), and this file was renamed from "scott updates".
+- **Lab book:** it records only changes to the map, the method (including joint process decisions, such as the trade literature joining the repository) and the conventions, plus moments of LLM drift. Opening and closing tests is recorded only in the test files.
+- **Drift:** the [first drift entry](lab-book.md#2026-10-14--drift--recorded-26-november-2026--bt-03) is BT-03 (14 October), when the LLM followed its nose into questions about consciousness and presented an existing idea as SE's own. This bears on SdH's question of 20 November ([meeting notes](meeting-notes-sdh-se.md#20261120---online)) about how SE notices drift.
+- **Fewer files:** the somatic expertise note is folded into the [candidate pool](future-tests/candidate-pool.md) (C08); the source inventory and the duplicate proposal are removed; candidate C13 is removed because it was BT-03 itself.
+- **No change to findings:** [BT-07](boundary-tests/BT-07-knowing-and-evidence.md) still waits on SdH's view of the proposed change to the map key.
+
 ## 19 November 2026, 12:38 GMT – BT-07 findings and a proposed change to the map key
 
 - **Provenance:** Only Lux's seven levels come from Lux et al. The six evidence / knowledge modes were devised with an LLM; the reference set began with Lux's citations.

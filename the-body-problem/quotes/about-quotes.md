@@ -1,6 +1,8 @@
 # Quotations for boundary testing
 
-One Markdown file per quotation. This folder is a working collection of potentially useful passages, **not** a set of established findings, and is distinct from the project's literature inventory in `../sources/`.
+*Text: LLM (ChatGPT) in exchange with SE, 16 October 2026; updated by LLM (Claude), 26 November 2026.*
+
+One Markdown file per quotation. This folder is a working collection of potentially useful passages, **not** a set of established findings. Each boundary test lists its own sources.
 
 Use a short descriptive filename, preferably `author-year-short-topic.md`; add a suffix if multiple quotations share a topic. Preserve each quotation's original wording, punctuation and language. Do not invent missing words, page numbers or verification claims. Avoid long copyrighted extracts; keep only the passage necessary for the point.
 
@@ -31,8 +33,8 @@ Brief account of the surrounding argument. Distinguish source-based paraphrase f
 ## Relevance
 
 Boundary test(s): BT-XX
-Conception(s) in our provisional map: [if applicable]
-SE observation or LLM interpretation: [label explicitly]
+Conception(s) in the provisional map: [if applicable]
+SE observation or LLM interpretation, naming the model, for example LLM (Claude): [label explicitly]
 Why this passage may matter: [briefly]
 ```
 

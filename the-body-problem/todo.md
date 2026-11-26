@@ -29,7 +29,7 @@ See the current position in the [current summary](current-summary.md#current-pos
 
 ## From 26 November 2026
 
-- [ ] Write the next entry in [updates for SdH](updates%20for%20SdH.md), including the pronoun convention, the lab book and the restructured boundary tests (informing SdH, not asking for approval).
+- [x] Write the next entry in [updates for SdH](updates%20for%20SdH.md), including the pronoun convention, the lab book and the restructured boundary tests (informing SdH, not asking for approval).
 - [ ] Commit and push today's changes to GitHub.
 
 ## Housekeeping

@@ -19,6 +19,12 @@ Heading format: `YYYY-MM-DD HH:mm GMT/BST | Type | Status | Scope`. Where the ti
 
 ## Entries
 
+### 2026-11-26 12:45 GMT | Convention | Agreed (SE) | Project-wide
+
+**Fewer files:** `future-tests/somatic-expertise.md` was folded into the [candidate pool](future-tests/candidate-pool.md#c08-in-detail) under C08. `sources/source-inventory.md` was removed: it was out of date and each boundary test carries its own sources. The duplicate copy of the chapter proposal in `analogue_trade/` was removed.
+
+*Entry written by LLM (Claude) at SE's request.*
+
 ### 2026-11-26 12:35 GMT | Convention | Agreed (SE) | Project-wide
 
 **README split:** the README becomes a short "start here" file: what the project is, where to look, what to do at the end of a session, which file is for what, and the conventions. The project's thinking (purpose, maps, premises, distinctions, method) and the current position move to [current-summary.md](current-summary.md), updated by SE at the end of each working session. The summary gives a snapshot of where things stand; the updates files record what has changed since last time. `scott updates.md` and `simon updates.md` were renamed `updates for SdH.md` and `updates for SE.md`.
@@ -39,7 +45,7 @@ Heading format: `YYYY-MM-DD HH:mm GMT/BST | Type | Status | Scope`. Where the ti
 
 **Decision (SE; to be shared with SdH):** a pronoun and attribution convention for the repository. "We", "our" and "us" mean SE and SdH only; other combinations are named. Co-authors are referred to as **SE** and **SdH**. LLM-written text is labelled, naming the model where known, for example LLM (ChatGPT) or LLM (Claude). Signed first-person notes are left as written. See the [README conventions](README.md#conventions).
 
-**Reorganisation:** instructions addressed to LLM sessions and the dated resumption records were moved from the README to [llm-handoff.md](llm-handoff.md). `quotes/README.md` was renamed [`quotes/about-quotes.md`](quotes/about-quotes.md) and `sources/README.md` was renamed [`sources/source-inventory.md`](sources/source-inventory.md), so the README is the only README. "One co-author" was replaced by SE throughout.
+**Reorganisation:** instructions addressed to LLM sessions and the dated resumption records were moved from the README to [llm-handoff.md](llm-handoff.md). `quotes/README.md` was renamed [`quotes/about-quotes.md`](quotes/about-quotes.md) and `sources/README.md` was renamed `sources/source-inventory.md` (later removed), so the README is the only README. "One co-author" was replaced by SE throughout.
 
 *Entry written by LLM (Claude) at SE's request.*
 

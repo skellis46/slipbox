@@ -112,7 +112,7 @@ The current evidence does **not** justify assigning the four accounts to simple 
 
 Read this agreed question alongside the [project README](../README.md) and [lab book](../lab-book.md). Next identify **specific accounts or authors** that treat awareness as necessary and those that do not, checking their use of the word and their evidence before locating them on the existing map. Distinguish lack of conscious awareness from lack of reporting or evidence. Record poor fits as analytically useful rather than forcing dimensional classifications.
 
-**Parked, separate test:** somatic expertise and skills cultivated in autotelic practices without externally prescribed outcomes. See [Somatic expertise](../future-tests/somatic-expertise.md). Do not reintroduce Gallagher or the skilled-performance comparison here unless directly necessary to the awareness question.
+**Parked, separate test:** somatic expertise and skills cultivated in autotelic practices without externally prescribed outcomes. See [C08 in the candidate pool](../future-tests/candidate-pool.md#c08-in-detail). Do not reintroduce Gallagher or the skilled-performance comparison here unless directly necessary to the awareness question.
 
 ## Earlier proposals (historical record, superseded)
 

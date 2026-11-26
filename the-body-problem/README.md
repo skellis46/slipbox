@@ -38,8 +38,8 @@ The project works in two parallel ways. SE tests a provisional map of embodiment
 - [BT-05: Ordinary bodily habit](boundary-tests/BT-05-ordinary-bodily-habit.md)
 - [BT-06: Communicating bodily knowing](boundary-tests/BT-06-communicating-bodily-knowing.md)
 - [BT-07: Kinds of knowing and their evidence](boundary-tests/BT-07-knowing-and-evidence.md)
-- [Candidate pool](future-tests/candidate-pool.md) and [somatic expertise](future-tests/somatic-expertise.md): possible future tests
-- [Quotation notes](quotes/about-quotes.md) and [source inventory](sources/source-inventory.md)
+- [Candidate pool](future-tests/candidate-pool.md): possible future tests
+- [Quotation notes](quotes/about-quotes.md)
 
 **Trade literature (SdH)**
 - [Trade literature](analogue_trade/trade_literature.md): description, assumptions and questions

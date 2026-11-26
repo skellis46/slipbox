@@ -65,12 +65,14 @@ A new map category is **not** the automatic response to a difficult test.
 *Status summary written by LLM (Claude) on 26 November 2026 from the boundary-test files and lab book, for SE and SdH to check.*
 
 - **BT-01**, relational bodily encounters: question agreed, no finding.
-- **BT-02**, embodiment without experience: agreed provisional outcome. The passive walker fits bodily constraint / affordance but sits uneasily within Lux's biologically oriented levels; the poor fit is retained as informative.
+- **BT-02**, embodiment without experience: provisionally concluded (8 October). The passive walker fits bodily constraint / affordance but sits uneasily within Lux's biologically oriented levels; the poor fit is retained as informative.
 - **BT-03**, awareness: suspended without a finding (14 October).
 - **BT-04**, degrees of embodiment: provisionally concluded (5 November).
 - **BT-05**, ordinary bodily habit: provisionally concluded (5 November).
 - **BT-06**, communicating bodily knowing: provisionally concluded (5 November).
 - **BT-07**, kinds of knowing and their evidence: open. Both stage findings agreed (19 November); waiting on SdH's view of the proposed change to the map key.
+
+No findings changed on 26 November 2026. That session reorganised the record for legibility and attribution; see the [lab book](lab-book.md) entries for that date.
 
 Other possible lines include ethics as a transversal concern and traditions which might not understand bodies through 'embodiment' at all. No new categories or literature coverage programme have been authorised.
 

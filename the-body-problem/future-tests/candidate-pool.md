@@ -1,13 +1,14 @@
 # Candidate pool for future boundary tests
 
 Established: 5 November 2026  
-Status: **working inventory, not an approved programme of tests**
+Status: **working inventory, not an approved programme of tests**  
+Text: LLM (ChatGPT) in exchange with SE, 5 November 2026; additions from 19 November 2026 by LLM (Claude)
 
 ## Purpose and selection principle
 
 This pool keeps possible tests visible without committing to their sequence or assigning BT numbers. The most promising candidates do **both**: (M) probe what the provisional embodiment map can accommodate, distinguish or fail to represent and (A) develop the chapter's argument about the articulation, recognition and valuation of bodily knowing. A candidate may be strong on one purpose while awaiting a more useful case for the other.
 
-The `Origin / provenance` column is part of the analysis, not just an archival note. It records which earlier test, conversation or observation generated a candidate so that we can later trace how the questions changed and whether distinct lines are converging. **M/A estimates are LLM (ChatGPT) assessments for selection, not agreed findings.** Difficulty estimates concern likely scope, not intellectual value. All questions below are proposals.
+The `Origin / provenance` column is part of the analysis, not just an archival note. It records which earlier test, conversation or observation generated a candidate so that SE and LLM (ChatGPT) can later trace how the questions changed and whether distinct lines are converging. **M/A estimates are LLM (ChatGPT) assessments for selection, not agreed findings.** Difficulty estimates concern likely scope, not intellectual value. All questions below are proposals.
 
 ## Candidate inventory
 
@@ -20,15 +21,14 @@ The `Origin / provenance` column is part of the analysis, not just an archival n
 | C05 | Historical bodily practice | Can the knowledge modes accommodate historical research into bodily practices, such as early Chinese pulse diagnosis? | BT-01: Hsu and historical evidence not clearly captured by knowledge-mode labels; proposed as a simpler test 5 Nov | Yes | Possible | Moderate; avoid equating past and present practices |
 | C06 | Bodily knowing and articulation | Can the map distinguish bodily knowing from the capacity to articulate or communicate it? | BT-05 explicit question parked 5 Nov; direct connection to the body problem | Yes | Yes | Moderate to demanding; related to C03 |
 | C07 | Different kinds of knowing | Can the map accommodate kinds of knowing without assuming propositional knowledge as the norm? | BT-05: distinction between knowledge *modes of evidence* and kinds of knowing; parked 5 Nov | Yes | Yes | Demanding |
-| C08 | Somatic expertise without prescribed outcomes | Can the map accommodate expertise cultivated in autotelic somatic practices? | BT-03 discussion of Gallagher and Ellis's *Threshold of the Self*; separately reserved in [somatic expertise](somatic-expertise.md) | Yes | Yes | Moderate to demanding; existing reserved test, not new |
+| C08 | Somatic expertise without prescribed outcomes | Can the map accommodate expertise cultivated in autotelic somatic practices? | BT-03 discussion of Gallagher and SE's *Threshold of the Self*; see [C08 in detail](#c08-in-detail) below | Yes | Yes | Moderate to demanding; existing reserved test, not new |
 | C09 | Transformation through sustained practice | Can the map describe the development of bodily sensitivity without treating it as an increase in embodiment? | BT-04 phenomenological finding; BT-05 habit and practice | Yes | Yes | Moderate; avoid reopening BT-04 without a new case |
 | C10 | Injury, disability and capacity | Can bodily capacities change without implying more or less embodiment, and can the map represent this? | BT-04 closing discussion and example; 5 Nov deferred question | Yes | Yes | Demanding; handle disability without deficit assumptions |
 | C11 | Relationship between embodiment and sense-making | Is sense-making one aspect of embodiment, inseparable from it or differently related? | BT-04 third conception, relationality / sense-making; explicitly parked 5 Nov | Yes | Yes | Demanding; ontological question |
 | C12 | Degrees versus transformations | Can embodiment increase or decrease, or are changes better described as qualitative transformations? | BT-04 closing finding: transformation *within* embodiment versus increase *in* embodiment | Yes | Yes | Demanding; BT-04 itself is provisionally closed |
-| C13 | Awareness as a boundary | Do some conceptions require awareness while others do not, and are their uses of awareness comparable? | BT-03 exact agreed question, suspended 14 Oct without finding | Yes | Possible | Demanding; reopen BT-03 rather than duplicate it |
 | C14 | Genuine outside to embodiment | What account would be misrepresented by fitting it into the map or calling it 'embodiment'? | BT-02 limit of permissiveness; project-wide inclusion/exclusion discussion | Yes | Yes | Demanding; requires source-led selection |
 
-**Key:** M = test of the map; A = contribution to the body problem argument. 'Possible' means that contribution is not yet well established. Assessments and difficulty labels should be revised as we develop a bounded case.
+**Key:** M = test of the map; A = contribution to the body problem argument. 'Possible' means that contribution is not yet well established. Assessments and difficulty labels should be revised as SE and LLM (ChatGPT) develop a bounded case.
 
 ## Updates to candidate provenance – 5 November 2026
 
@@ -44,6 +44,25 @@ The `Origin / provenance` column is part of the analysis, not just an archival n
 - **New candidate C16 – One trade-literature book against the map (19 November 2026):** None of BT-01 to BT-07 has used a practitioner text; all sources were scholarly, and the map is titled 'a map of embodiment literature'. **Proposed question, not agreed:** Can the map place one book from SdH's dance trade literature (TL), for example Burrows (2010) or De Keersmaeker and Cvejić (2012), and if so under which conception and evidence mode? **Origin:** SE and LLM (Claude) reading of SdH's [trade literature notes](../analogue_trade/trade_literature.md) and [blurbs](../analogue_trade/TL_jacket_cover_blurbs.md), 19 November 2026. **Why:** SdH asks where TL sits 'between know what and know how'; BT-07 found know-what is the mode the map handles worst, and TL books may be know-what made public (LLM (Claude) interpretation). The blurbs do not use 'embodiment' or 'knowledge', which bears on imposing embodiment vocabulary on practices. **Cautions:** jacket blurbs are usually publisher copy, not artists' words; check authorship book by book. **M:** Yes. **A:** Yes. **Likely scope:** Moderate. **Status:** for SE to raise with SdH as a possible joint test; unnumbered.
 - **Note on BT-06 (not a reopening):** TL books communicate through charts, scores, drawings, diaries and manuals. BT-06 considered speech, demonstration and guided participation; published inscription is none of these. Possible gap, recorded for C16 or C06.
 
+## Updates – 26 November 2026
+
+- **C13 removed (SE):** C13, "Awareness as a boundary", was BT-03's own question, suspended on 14 October. It is not a separate candidate; resuming it means reopening [BT-03](../boundary-tests/BT-03-awareness-and-bodily-responsiveness.md). *Note by LLM (Claude).*
+- **C08 detail** moved into this file from `somatic-expertise.md` (see below).
+
+## C08 in detail
+
+*Moved here from `somatic-expertise.md` on 26 November 2026. Written by LLM (ChatGPT) in exchange with SE, 8 October 2026; commands rewritten as statements by LLM (Claude).*
+
+**The issue:** how might the map accommodate forms of expertise cultivated in somatic practices when the practice is not organised around an externally specified movement outcome?
+
+This arose during discussion of Shaun Gallagher's account of *skilled performance*, which in much of the relevant research concerns identifiable, outcome-oriented practices or events. That literature should not be made the standard by which the expertise of all somatic practices is judged, and skilled performance does not always involve measurable outcomes.
+
+**Bounded example and source:** SE's working chapter [*Threshold of the Self: Dancing and Non-dual Awareness*](../../improvisation%20and%20the%20threshold%20of%20the%20self.md) describes authentic movement practised with Katye Coe as **autotelic**: without a predetermined sequence or conventional external standard of successful movement. It asks what kind of skill or expertise consists in attending to sensation, allowing movement to emerge and withholding judgement. The chapter also distinguishes *deep sensory dancing* from *being danced* and acknowledges that its interpretations of experience remain underdetermined.
+
+The question concerns **how expertise is understood and recognised**. It is not a claim that somatic expertise has no observable aspects or cannot be researched, evaluated or measured.
+
+**If it becomes a test:** a question and a bounded comparison would need agreeing first. The map's conceptions and evidence modes would be considered without conflating expertise with awareness or consciousness, and failure points recorded, including where outward observation does not capture the experience or the practice's own terms of value. It is separate from [BT-03](../boundary-tests/BT-03-awareness-and-bodily-responsiveness.md), which asks whether awareness is necessary to particular conceptions of embodiment.
+
 ## Other open lines, not yet bounded into candidates
 
 - Ethics and moral concern as transversal questions rather than an automatic additional axis (project-wide; some quotation notes).
@@ -56,19 +75,14 @@ The `Origin / provenance` column is part of the analysis, not just an archival n
 ## Working rules for updating the pool
 
 1. Preserve the origin of each candidate. When refining a question, append its new origin or date rather than silently replacing its intellectual history.
-2. Keep candidate IDs stable for tracking. They are **not BT numbers**, priorities or a programme of fourteen new tests.
+2. Keep candidate IDs stable for tracking. They are **not BT numbers**, priorities or a programme of tests.
 3. Record when two candidates merge, when one is abandoned or when one becomes an active numbered BT. Keep a short note of the decision and date.
 4. Prefer a bounded test able to serve **both map evaluation and development of the body problem argument**, while retaining tests that serve only one purpose when they are informative.
-5. Before starting a test, identify one case, an appropriate primary source and the distinction being tested. Keep source claims distinct from our interpretations. Treat straightforward fits, non-applicability and inconclusive findings as legitimate outcomes.
+5. Before starting a test, identify one case, an appropriate primary source and the distinction being tested. Keep source claims distinct from the interpretations of SE and LLM. Treat straightforward fits, non-applicability and inconclusive findings as legitimate outcomes.
 6. Do not expand the map or reopen a completed test merely because a candidate poses a larger philosophical question.
 
 ## Related records
 
-- [BT-01](../boundary-tests/BT-01-relational-bodily-encounters.md) – open
-- [BT-02](../boundary-tests/BT-02-embodiment-without-experience.md) – agreed provisional outcome
-- [BT-03](../boundary-tests/BT-03-awareness-and-bodily-responsiveness.md) – suspended
-- [BT-04](../boundary-tests/BT-04-degrees-of-embodiment.md) – provisionally concluded
-- [BT-05](../boundary-tests/BT-05-ordinary-bodily-habit.md) – provisionally concluded
-- [BT-06](../boundary-tests/BT-06-communicating-bodily-knowing.md) – provisionally concluded
-- [BT-07](../boundary-tests/BT-07-knowing-and-evidence.md) – open
+- [BT-01](../boundary-tests/BT-01-relational-bodily-encounters.md), [BT-02](../boundary-tests/BT-02-embodiment-without-experience.md), [BT-03](../boundary-tests/BT-03-awareness-and-bodily-responsiveness.md), [BT-04](../boundary-tests/BT-04-degrees-of-embodiment.md), [BT-05](../boundary-tests/BT-05-ordinary-bodily-habit.md), [BT-06](../boundary-tests/BT-06-communicating-bodily-knowing.md), [BT-07](../boundary-tests/BT-07-knowing-and-evidence.md)
+- [Current summary](../current-summary.md) for the status of each test
 - [Lab book](../lab-book.md)
